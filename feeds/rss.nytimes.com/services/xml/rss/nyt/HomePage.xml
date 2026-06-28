@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 19:47:20 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Jun 2026 19:45:29 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 21:30:13 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 21:19:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -149,16 +149,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Cathy Ann</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kerner, Henry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sherk, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Cathy Ann</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, Maurene</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merit Systems Protection Board (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Office of Special Counsel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">America First Policy Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heritage Foundation</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/00dc-power01-photo-gmhc/00dc-power01-photo-gmhc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>The Trump administration maintains that the president can direct the actions of federal employees, including prosecutors and immigration judges.</media:description>
@@ -189,7 +195,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquakes-doctors-rescues.html" rel="standout"></atom:link>
       <description>A medical team set out from the capital to rescue people in the hardest-hit part of the disaster zone, La Guaira. They found silence in the ruins instead.</description>
       <dc:creator>Fabiola Ferrero and Julie Turkewitz</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 23:20:03 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 21:19:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
@@ -198,7 +204,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27venezuela-quake-rescue-topart/27venezuela-promo-1130am-fqgw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fabiola Ferrero for The New York Times</media:credit>
       <media:description>Dr. Zaira Medina, left, hugging a rescue worker outside her collapsed apartment building in La Guaira, Venezuela, on Friday.</media:description>
     </item>
     <item>
@@ -373,16 +378,13 @@
       <dc:creator>Molly Jong-Fast</dc:creator>
       <pubDate>Sun, 28 Jun 2026 10:00:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Authoritarianism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gomez, Selena</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lawrence, Jennifer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fast, Howard</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCarthy, Joseph R</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O&#39;Donnell, Rosie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fast, Howard</category>
     </item>
     <item>
       <title>Pride March Caps Joyous New York June, but Anxiety Tempers Hope</title>
@@ -391,7 +393,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/28/nyregion/nyc-pride-parade-march.html" rel="standout"></atom:link>
       <description>The annual celebration on Sunday took place in a city where many in the L.G.B.T.Q. community are optimistic about their local leaders but face challenges from the Trump administration.</description>
       <dc:creator>Liam Stack and Eliza Shapiro</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 19:34:29 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 20:03:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Same-Sex Marriage, Civil Unions and Domestic Partnerships</category>
