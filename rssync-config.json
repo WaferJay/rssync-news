@@ -66,6 +66,22 @@
         "https://rss.nytimes.com/services/xml/rss/nyt/Science.xml",
         "https://rss.nytimes.com/services/xml/rss/nyt/Health.xml",
         "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
-        "https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml"
+        "https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml",
+
+        "https://feeds.content.dowjones.io/public/rss/RSSOpinion",
+        "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+        "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+        "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+        "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
+        "https://feeds.content.dowjones.io/public/rss/RSSLifestyle",
+        "https://feeds.content.dowjones.io/public/rss/RSSUSnews",
+        "https://feeds.content.dowjones.io/public/rss/socialpoliticsfeed",
+        "https://feeds.content.dowjones.io/public/rss/socialeconomyfeed",
+        "https://feeds.content.dowjones.io/public/rss/RSSArtsCulture",
+        "https://feeds.content.dowjones.io/public/rss/latestnewsrealestate",
+        "https://feeds.content.dowjones.io/public/rss/RSSPersonalFinance",
+        "https://feeds.content.dowjones.io/public/rss/socialhealth",
+        "https://feeds.content.dowjones.io/public/rss/RSSStyle",
+        "https://feeds.content.dowjones.io/public/rss/rsssportsfeed"
     ]
 }
