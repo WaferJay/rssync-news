@@ -3,9 +3,9 @@ name: Sync rss feeds
 on:
   push:
     branches:
-      - no-branch
-  #schedule:
-  #  - cron: "0 * * * *"
+      - master
+  schedule:
+    - cron: "0 * * * *"
 
 jobs:
   sync-rss:
