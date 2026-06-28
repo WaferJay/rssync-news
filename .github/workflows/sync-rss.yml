@@ -1,0 +1,33 @@
+name: Sync rss feeds
+
+on:
+  push:
+    branches:
+      - no-branch
+  #schedule:
+  #  - cron: "0 * * * *"
+
+jobs:
+  sync-rss:
+    runs-on: ubuntu-latest
+    permissions:                # Job-level permissions configuration starts here
+      contents: write           # 'write' access to repository contents
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Install uv
+        uses: astral-sh/setup-uv@08807647e7069bb48b6ef5acd8ec9567f424441b
+      - name: Run rssync
+        run: uvx --from git+https://github.com/WaferJay/rssync rssync
+      - name: Commit files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -a -m "Update news"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: ${{ github.ref }}
