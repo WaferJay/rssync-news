@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 04:44:33 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Jun 2026 01:02:35 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 18:23:01 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 16:42:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,12 +21,13 @@
       <atom:link href="https://www.nytimes.com/2026/06/27/science/this-trap-wants-ants-to-take-a-bite.html" rel="standout"></atom:link>
       <description>Named for an ancient Roman crossbow-like weapon, the newly found “ballista” spider uses a springy snare to catch prey.</description>
       <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 09:01:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
+      <pubDate>Sat, 27 Jun 2026 09:01:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spiders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Current Biology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <media:content height="1346" medium="image" url="https://static01.nyt.com/images/2026/06/22/science/22SCI-NewSpider/22SCI-NewSpider-mediumSquareAt3X.jpg" width="1346"></media:content>
       <media:credit>Ajay Narendra et al., Current Biology</media:credit>
       <media:description>A newly described Australian ballista spider waiting to catch an ant in its snare.</media:description>
@@ -179,7 +180,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/26/science/richard-scolyer-dead.html" rel="standout"></atom:link>
       <description>His lifesaving melanoma research in Australia illuminated the treatment he underwent for his own brain tumor, an ordeal he courageously shared with the public.</description>
       <dc:creator>Richard Sandomir</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 20:50:08 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 20:50:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scolyer, Richard (1966-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Melanomas</category>
@@ -628,29 +629,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/18/us/00dc-cystic-fibrosis-drug/00dc-cystic-fibrosis-drug-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fabeha Monir for The New York Times</media:credit>
       <media:description>Josua Lottering traveled with his mother from South Africa to Bangladesh to buy a life-changing drug for cystic fibrosis.</media:description>
-    </item>
-    <item>
-      <title>Cities and Schools Are Testing Wastewater for Illicit Drugs</title>
-      <link>https://www.nytimes.com/2026/06/21/health/drug-testing-wastwater-sewage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/21/health/drug-testing-wastwater-sewage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/21/health/drug-testing-wastwater-sewage.html" rel="standout"></atom:link>
-      <description>The White House recently endorsed monitoring sewage for evidence of drug use. Critics fear such efforts could violate privacy and stigmatize neighborhoods.</description>
-      <dc:creator>Jan Hoffman</dc:creator>
-      <pubDate>Sun, 21 Jun 2026 17:55:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Drug Use)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">White House Office of National Drug Control Policy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tempe (Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/16/multimedia/00dc-poop-01-jmph/00dc-poop-01-jmph-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Zehbrauskas for The New York Times</media:credit>
-      <media:description>City workers preparing to collect wastewater samples in Tempe, Ariz., last month.</media:description>
     </item>
   </channel>
 </rss>

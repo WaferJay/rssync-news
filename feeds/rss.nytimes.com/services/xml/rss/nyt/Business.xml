@@ -7,13 +7,43 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 28 Jun 2026 04:43:10 +0000</lastBuildDate>
-    <pubDate>Sun, 28 Jun 2026 00:23:54 +0000</pubDate>
+    <lastBuildDate>Sun, 28 Jun 2026 18:23:07 +0000</lastBuildDate>
+    <pubDate>Sun, 28 Jun 2026 18:07:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>‘Supergirl’ Falters at the Box Office, Testing DC Studios’ Reboot</title>
+      <link>https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/28/business/media/supergirl-box-office.html" rel="standout"></atom:link>
+      <description>Overall, ticket sales for the weekend were up 21 percent from last year. But the expensive “Supergirl” debuted as a disappointing second, with an estimated $38 million.</description>
+      <dc:creator>Brooks Barnes</dc:creator>
+      <pubDate>Sun, 28 Jun 2026 18:07:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comic Books and Strips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ratings (Audience Measurement)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Brothers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Supergirl (Movie)</category>
+    </item>
+    <item>
+      <title>How Polymarket Traders Revolted Over One Silly Syllable</title>
+      <link>https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/28/business/donk-polymarket-prediction-markets.html" rel="standout"></atom:link>
+      <description>How one silly syllable ignited a bitter dispute over the nature of reality on Polymarket.</description>
+      <dc:creator>David Segal</dc:creator>
+      <pubDate>Sun, 28 Jun 2026 11:19:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/28/business/28Donk-cover-illo/28Donk-cover-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carl Godfrey</media:credit>
+    </item>
     <item>
       <title>Advertisers Are Good at Getting Human Attention. Can They Stand Out to A.I.?</title>
       <link>https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html</link>
@@ -21,7 +51,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/27/business/dealbook/ai-visibility.html" rel="standout"></atom:link>
       <description>At Cannes Lions, marketers grappled with how to influence A.I. chatbots.</description>
       <dc:creator>Marty Swant</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 12:00:02 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 16:11:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
@@ -37,13 +67,17 @@
       <description>The attacks came after traffic through the Strait of Hormuz had reached the highest levels since the start of the U.S. war in Iran.</description>
       <dc:creator>Peter Eavis and Jenny Gross</dc:creator>
       <pubDate>Sat, 27 Jun 2026 17:03:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Maritime Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27BIZ-HORMUZ-SHIPPING-1-hpjw/27BIZ-HORMUZ-SHIPPING-1-hpjw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Iran has tried to establish formal control over shipping in the Strait of Hormuz, something it did not have before.</media:description>
@@ -56,16 +90,16 @@
       <description>She arrived in Moscow in 1955, two years after Stalin’s death, and spent several years as a journalist covering major events and ordinary Soviet lives.</description>
       <dc:creator>Alex Williams</dc:creator>
       <pubDate>Sat, 27 Jun 2026 09:01:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shulman, Colette</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nation, The (Magazine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shulman, Marshall D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Press International</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Colette Shulman (1932-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
     </item>
     <item>
       <title>Chaos Came to CBS News. What’s in Store for CNN?</title>
@@ -76,14 +110,17 @@
       <dc:creator>Michael M. Grynbaum and Benjamin Mullin</dc:creator>
       <pubDate>Sat, 27 Jun 2026 14:11:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS News</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Entelis, Amy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tapper, Jake</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Mark John (1957- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weiss, Bari</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Mark John (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">60 Minutes (TV Program)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/00biz-CNN-CBS-cnn-mlph/00biz-CNN-CBS-cnn-mlph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
@@ -117,11 +154,18 @@
       <pubDate>Sat, 27 Jun 2026 12:40:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ranches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polis, Jared S (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peters, Tina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Blanco County (Colo)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27Biz-Colorado-Wildfire-lede-sub-mkpw/27Biz-Colorado-Wildfire-lede-sub-mkpw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The Lee fire burned about 137,800 acres last year in Rio Blanco County, Colo.</media:description>
     </item>
@@ -989,56 +1033,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, George (1732-99)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24FD-george-washington-rye-PROMO-wvlj/24FD-george-washington-rye-PROMO-wvlj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Scott Suchman for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Welcome to the Luxury City Built by Taiwan’s A.I. Boom</title>
-      <link>https://www.nytimes.com/2026/06/24/business/taiwan-chips-boom.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/business/taiwan-chips-boom.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/business/taiwan-chips-boom.html" rel="standout"></atom:link>
-      <description>Fortunes, luxury buildings and birthrates are rising in the city at the center of Taiwan’s chip supply chain.</description>
-      <dc:creator>Amy Chang Chien and Meaghan Tobin</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 09:47:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hsinchu (Taiwan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taiwan Semiconductor Manufacturing Company Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/16/multimedia/00Biz-Taiwan-Boomtown-01-hlbw/00Biz-Taiwan-Boomtown-01-hlbw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lam Yik Fei for The New York Times</media:credit>
-      <media:description>The shopping mall in Hsinchu, called Big City, ranks among Taiwan’s top retail centers.</media:description>
-    </item>
-    <item>
-      <title>U.S. World Cup Cities Are on a Counterdrone Spending Spree</title>
-      <link>https://www.nytimes.com/2026/06/24/business/us-world-cup-cities-are-on-a-counterdrone-spending-spree.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/business/us-world-cup-cities-are-on-a-counterdrone-spending-spree.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/business/us-world-cup-cities-are-on-a-counterdrone-spending-spree.html" rel="standout"></atom:link>
-      <description>FEMA has given cities and states $250 million to protect the World Cup from airborne threats. That equipment will remain in place after the tournament.</description>
-      <dc:creator>Farah Stockman</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 16:07:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Kansas City, Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas City (Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24biz-worldcup-drones-1-blwh/24biz-worldcup-drones-1-blwh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
     </item>
   </channel>
 </rss>
