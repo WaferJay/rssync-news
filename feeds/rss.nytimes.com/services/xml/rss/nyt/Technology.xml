@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 05:05:13 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 03:00:13 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 14:30:19 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 14:12:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -102,6 +102,46 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Voters Think A.I. Is Terrible. In Campaigns, It’s Everywhere.</title>
+      <link>https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html" rel="standout"></atom:link>
+      <description>A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.</description>
+      <dc:creator>Stuart A. Thompson</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 13:46:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Eric</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/00pol-AI-tech-bond-pvft/00pol-AI-tech-bond-pvft-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kriston Jae Bethel for The New York Times</media:credit>
+      <media:description>Alex Bond speaks about his political views with canvassers from Ground Truth, a door-knocking program organized by Swing Left, a progressive political group. Canvassers use an A.I.-powered app to record and analyze what voters say.</media:description>
+    </item>
+    <item>
+      <title>Many Child Safety Features on Social Apps Don’t Work, Report Finds</title>
+      <link>https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html" rel="standout"></atom:link>
+      <description>Researchers found that teens can discover harmful content, connect with unknown adults and easily bypass time limits.</description>
+      <dc:creator>Jennifer Valentino-DeVries</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 13:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/00inv-social-media-vlcj/00inv-social-media-vlcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Ausloos/Reuters</media:credit>
+      <media:description>Several tech company leaders are set to testify to Congress next month about harms to children on their platforms.</media:description>
     </item>
     <item>
       <title>U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model</title>
