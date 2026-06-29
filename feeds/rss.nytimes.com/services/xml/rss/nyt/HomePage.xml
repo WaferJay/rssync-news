@@ -7,13 +7,59 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 21:44:30 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 21:31:31 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:27:23 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 23:23:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Supreme Court Expands Trump’s Power to Fire Officials but Prevents Lisa Cook Removal</title>
+      <link>https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/supreme-court-independent-regulator-firings.html" rel="standout"></atom:link>
+      <description>In twin rulings, the Supreme Court affirmed the Fed’s independence and said its leaders could not be fired at will, but said President Trump could fire other independent regulators for any reason.</description>
+      <dc:creator>Ann E. Marimow</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 22:04:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sauer, D John (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slaughter, Rebecca</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29dc-scotus-firings-wbzm/29dc-scotus-firings-wbzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross for The New York Times</media:credit>
+      <media:description>The Supreme Court ruling has implications for more than two dozen agencies that have traditionally been insulated from presidential control.</media:description>
+    </item>
+    <item>
+      <title>Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling</title>
+      <link>https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html" rel="standout"></atom:link>
+      <description>President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.</description>
+      <dc:creator>Colby Smith and Tony Romm</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 22:18:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Lisa D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29DC-TRUMP-FED-1-qzhf/29DC-TRUMP-FED-1-qzhf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump renewed his threat to fire Lisa D. Cook.</media:description>
+    </item>
     <item>
       <title>Supreme Court Decision on Late-Arriving Mail-In Ballots Grants Relief to 18 States</title>
       <link>https://www.nytimes.com/2026/06/29/us/politics/supreme-court-mail-ballots-grace-period.html</link>
@@ -39,7 +85,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html" rel="standout"></atom:link>
       <description>President Trump had asked the justices to intervene after a jury found that he had sexually abused and defamed the writer E. Jean Carroll.</description>
       <dc:creator>Abbie VanSickle and Benjamin Weiser</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 18:39:50 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 18:39:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -54,6 +100,17 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/09/multimedia/00dc-scotus-carrooll-cwgv/00dc-scotus-carrooll-cwgv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sarah Blesener for The New York Times</media:credit>
       <media:description>In May 2023, a federal jury in New York found in President Trump liable for sexually abusing and defaming the writer E. Jean Carroll.</media:description>
+    </item>
+    <item>
+      <title>The Supreme Court Expands Presidential Power</title>
+      <link>https://www.nytimes.com/2026/06/29/briefing/supreme-court-presidential-power.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/briefing/supreme-court-presidential-power.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/briefing/supreme-court-presidential-power.html" rel="standout"></atom:link>
+      <description>Also, NASA plans to catch a falling space telescope and nudge it up. Here’s the latest at the end of Monday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 22:00:44 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29evening-nl-scotus-presidential-power-pgzm/29evening-nl-scotus-presidential-power-pgzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross for The New York Times</media:credit>
     </item>
     <item>
       <title>‘No One’s Coming to Save Us but Us’: Gen Z Runs for Office</title>
@@ -96,39 +153,41 @@
       <media:description>Graham Platner’s backers are giving him a slim lead over Susan Collins.</media:description>
     </item>
     <item>
-      <title>Colorado Supreme Court Rejects Democratic Redistricting Plans</title>
-      <link>https://www.nytimes.com/2026/06/29/us/politics/colorado-supreme-court-rejects-democratic-redistricting-plans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/colorado-supreme-court-rejects-democratic-redistricting-plans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/colorado-supreme-court-rejects-democratic-redistricting-plans.html" rel="standout"></atom:link>
-      <description>The state’s high court found that ballot initiatives designed to change state law to install a newly gerrymandered map violated Colorado law.</description>
-      <dc:creator>Nick Corasaniti</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 20:00:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <title>Kean Set to Speak at the Capitol After Mysterious Absence</title>
+      <link>https://www.nytimes.com/2026/06/29/us/politics/tom-kean-returns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/tom-kean-returns.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/tom-kean-returns.html" rel="standout"></atom:link>
+      <description>After months of silence, Representative Tom Kean Jr. was expected to deliver a speech explaining his 116-day absence from Congress.</description>
+      <dc:creator>Annie Karni</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 22:38:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kean, Thomas H Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29pol-colo-redistricting-ruling-jckv/29pol-colo-redistricting-ruling-jckv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stephen Speranza for The New York Times</media:credit>
-      <media:description>The Colorado Supreme Court rejected two ballot initiatives on Monday that would have given voters the chance in November to approve off-year redistricting ahead of 2028 federal elections.</media:description>
+      <media:content height="1730" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29DC-KEAN-mpkl/29DC-KEAN-mpkl-mediumSquareAt3X.jpg" width="1730"></media:content>
+      <media:credit>Bryan Anselm for The New York Times</media:credit>
+      <media:description>Representative Tom Kean Jr. in Bridgewater, N.J., in 2024.</media:description>
     </item>
     <item>
-      <title>How A.I. is Changing the Way Politicians Run for Office</title>
-      <link>https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html" rel="standout"></atom:link>
-      <description>A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.</description>
-      <dc:creator>Stuart A. Thompson</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:36:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <title>Two Dan Sullivans to Appear on Alaska Senate Ballot, State High Court Rules</title>
+      <link>https://www.nytimes.com/2026/06/29/us/politics/alaska-dan-sullivan-senate-ballot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/alaska-dan-sullivan-senate-ballot.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/alaska-dan-sullivan-senate-ballot.html" rel="standout"></atom:link>
+      <description>Republicans had sought the removal of a little-known candidate with the same name as the incumbent senator, arguing that he was not a “good faith” candidate.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 23:00:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilson, Eric</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/00pol-AI-tech-bond-pvft/00pol-AI-tech-bond-pvft-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kriston Jae Bethel for The New York Times</media:credit>
-      <media:description>Alex Bond speaks about his political views with canvassers from Ground Truth, a door-knocking program organized by Swing Left, a Democratic political group. Canvassers use an A.I.-powered app to record and analyze what voters say.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/us/29pol-alaska-sullivan/29pol-alaska-sullivan-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Katie Holmlund/Associated Press; Eric Lee for The New York Times</media:credit>
+      <media:description>Republicans unsuccessfully sought to block a little known candidate, Dan J. Sullivan, left, from the same ballot as their party’s incumbent, Senator Dan S. Sullivan, right.</media:description>
     </item>
     <item>
       <title>In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough</title>
@@ -173,6 +232,44 @@
       <media:credit>Thomas Fuchs</media:credit>
     </item>
     <item>
+      <title>Trump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’</title>
+      <link>https://www.nytimes.com/2026/06/29/us/politics/trump-housing-bill.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/trump-housing-bill.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/trump-housing-bill.html" rel="standout"></atom:link>
+      <description>Time and again, President Trump has brushed off Americans’ concerns about the economy and their financial situations.</description>
+      <dc:creator>Shawn McCreesh</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 22:21:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29DC-HOUSING-fqpb/29DC-HOUSING-fqpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>President Trump said on Monday that he had yet to receive a bill intended to lower housing costs and that he was not sure he would sign it once he did.</media:description>
+    </item>
+    <item>
+      <title>Clash Unfolds as Trump Administration Pushes Intelligence Agencies to Share Foreign Espionage Targets</title>
+      <link>https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html" rel="standout"></atom:link>
+      <description>The clash reflects increasing skepticism of the Office of the Director of National Intelligence, which has been willing to pursue President Trump’s priorities.</description>
+      <dc:creator>Devlin Barrett, William K. Rashbaum and Julian E. Barnes</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 22:38:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Foreign Intelligence Surveillance Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pulte, William J (1988- )</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29dc-fbi-tmkv/29dc-fbi-tmkv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>The headquarters of the Federal Bureau of Investigation in Washington. The Office of the Director of National Intelligence is asking the F.B.I. and the C.I.A. to provide a complete list of counterintelligence agents.</media:description>
+    </item>
+    <item>
       <title>$22,000 Per Hour: Assistants Use a Legislative Loophole to Outearn Surgeons</title>
       <link>https://www.nytimes.com/2026/06/29/upshot/assistant-surgeons-loophole-pay.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/upshot/assistant-surgeons-loophole-pay.html</guid>
@@ -197,33 +294,12 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/magazine/american-parenting-french-children.html" rel="standout"></atom:link>
       <description>As positive parenting takes over France, one psychologist’s call for a return to discipline has set off a furious debate.</description>
       <dc:creator>Madeleine Schwartz</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 16:26:04 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 22:45:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Freud, Sigmund</category>
-    </item>
-    <item>
-      <title>Clash Unfolds as Trump Administration Pushes Intelligence Agencies to Share Foreign Espionage Targets</title>
-      <link>https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/us/trump-intelligence-agencies-spies-master-list.html" rel="standout"></atom:link>
-      <description>The clash reflects increasing skepticism of the Office of the Director of National Intelligence, which has been willing to pursue President Trump’s priorities.</description>
-      <dc:creator>Devlin Barrett, William K. Rashbaum and Julian E. Barnes</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:56:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Foreign Intelligence Surveillance Court</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the Director of National Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pulte, William J (1988- )</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29dc-fbi-tmkv/29dc-fbi-tmkv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>The headquarters of the Federal Bureau of Investigation in Washington. The Office of the Director of National Intelligence is asking the F.B.I. and the C.I.A. to provide a complete list of counterintelligence agents.</media:description>
     </item>
     <item>
       <title>Efforts to Rescue Venezuela Quake Victims Grow More Desperate</title>
@@ -232,7 +308,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/world/americas/venezuela-earthquake-victims-rescue-deaths.html" rel="standout"></atom:link>
       <description>The death toll has risen to over 1,700, which is likely an undercount.</description>
       <dc:creator>Isayen Herrera, Fabiola Ferrero, Luis Ferré-Sadurní and Leo Sands</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 21:31:31 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 22:05:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
@@ -245,9 +321,9 @@
       <link>https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html" rel="standout"></atom:link>
-      <description>Dangerous heat is expected across much of the country through the July 4 weekend.</description>
+      <description>Dangerous heat is expected across much of the country through the Fourth of July weekend.</description>
       <dc:creator>Nazaneen Ghaffar, Judson Jones and Camille Baker</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:54:23 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 23:19:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
@@ -255,7 +331,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-heat-mon-index-promo/2026-06-29-heat-mon-index-promo-mediumSquareAt3X-v5.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-heat-mon-index-promo/2026-06-29-heat-mon-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -300,46 +376,63 @@
       <media:description>A helicopter dropped water on the Cottonwood Fire burning near Beaver, Utah, on Saturday.</media:description>
     </item>
     <item>
-      <title>Europe Heat Wave: Forecasts, Warnings and How to Stay Cool</title>
-      <link>https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html" rel="standout"></atom:link>
-      <description>A heat wave responsible for shattering numerous temperature records in Western Europe continued its shift east.</description>
-      <dc:creator>Nazaneen Ghaffar and Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 16:17:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v117.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <title>How the Wildfires in Colorado and Utah Were Poised to Spark</title>
+      <link>https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html" rel="standout"></atom:link>
+      <description>Since last week, meteorologists issued a series of increasingly dire warnings about extremely critical weather conditions.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 22:25:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Junction (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29wea-fireforecast-1-pthv/29wea-fireforecast-1-pthv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Noah Berger/Associated Press</media:credit>
+      <media:description>The Snyder fire burning near Thompson Springs, Utah, on Sunday. It was one of several blazes across the Southwest.</media:description>
     </item>
     <item>
-      <title>Sex Abuse Survivors Reach $395 Million Deal With San Francisco Diocese</title>
-      <link>https://www.nytimes.com/2026/06/29/us/san-francisco-archdiocese-clergy-sex-abuse-settlement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/san-francisco-archdiocese-clergy-sex-abuse-settlement.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/us/san-francisco-archdiocese-clergy-sex-abuse-settlement.html" rel="standout"></atom:link>
-      <description>The Archdiocese of San Francisco and lawyers for the survivors said the money would settle about 530 claims from people who said they were sexually abused by clergy members.</description>
-      <dc:creator>Soumya Karlamangla</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:30:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clergy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/us/29nat-sf-archdiocese/29nat-sf-archdiocese-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael Macor/The San Francisco Chronicle, via Getty Images</media:credit>
-      <media:description>Archbishop Salvatore Cordileone leads the Archdiocese of San Francisco.</media:description>
+      <title>Senator Gallego’s Use of Campaign Funds for Family Trips Prompts Scrutiny</title>
+      <link>https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html" rel="standout"></atom:link>
+      <description>The Arizona senator used campaign money to fly his family to Nantucket and the Caribbean. The Justice Department has said it is investigating his campaign finance activity.</description>
+      <dc:creator>Bayliss Wagner and Kellen Browning</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 23:23:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallego, Ruben (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Election Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/00pol-gallego-spending-01-mvqp/00pol-gallego-spending-01-mvqp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>Senator Ruben Gallego of Arizona repeatedly took his family to vacation destinations and billed tens of thousands of dollars in flights to his campaign accounts just in 2025. </media:description>
+    </item>
+    <item>
+      <title>Ethics Panel Tosses Misconduct Claims Against Gallego</title>
+      <link>https://www.nytimes.com/2026/06/29/us/politics/ruben-gallego-ethics-committee-misconduct-allegations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/ruben-gallego-ethics-committee-misconduct-allegations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/ruben-gallego-ethics-committee-misconduct-allegations.html" rel="standout"></atom:link>
+      <description>The Ethics Committee told Senator Ruben Gallego it had dismissed allegations he engaged in sexual misconduct and campaign finance violations.</description>
+      <dc:creator>Annie Karni</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 19:32:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Ethics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luna, Anna Paulina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallego, Ruben (1979- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29DC-GALLEGO-fzwm/29DC-GALLEGO-fzwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross for The New York Times</media:credit>
+      <media:description>Senator Ruben Gallego, Democrat of Arizona, had denied the accusations and proactively reached out to the Senate Ethics Committee and offered to cooperate with an investigation.</media:description>
     </item>
     <item>
       <title>The Best Movies of 2026 So Far, and Where to Watch Them</title>
@@ -376,6 +469,25 @@
       <media:content height="1784" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/29cul-best-films-so-far-gmbp/29cul-best-films-so-far-gmbp-mediumSquareAt3X.jpg" width="1784"></media:content>
       <media:credit>Niko Tavernise/Universal Pictures and Amblin Entertainment</media:credit>
       <media:description>Josh O’Connor in a scene from “Disclosure Day.”</media:description>
+    </item>
+    <item>
+      <title>In Peru’s Presidential Election, Keiko Fujimori Gives the Right in Latin America Another Win</title>
+      <link>https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/world/americas/peru-presidential-election-keiko-fujimori-conservative.html" rel="standout"></atom:link>
+      <description>Keiko Fujimori, a daughter of the former strongman Alberto Fujimori, returns her family’s movement to power, but with a narrow victory in a divided country.</description>
+      <dc:creator>Mitra Taj and Genevieve Glatsky</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 21:45:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fujimori, Alberto K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fujimori, Keiko</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez, Roberto (1969- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29int-peru-election-01-qkvm/29int-peru-election-01-qkvm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anthony Nino De Guzman/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Keiko Fujimori waving to supporters during her closing campaign rally in Peru’s capital, Lima, in June. She has become the first woman to hold Peru’s highest office.</media:description>
     </item>
     <item>
       <title>Naomi Osaka Serves Up a Fashion Slam at Wimbledon</title>

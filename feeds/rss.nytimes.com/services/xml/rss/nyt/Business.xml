@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 21:45:23 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 21:21:08 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:27:29 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 23:16:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Director Who Defrauded Netflix Gets 30-Month Prison Term</title>
+      <link>https://www.nytimes.com/2026/06/29/business/carl-rinsch-netflix-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/business/carl-rinsch-netflix-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/business/carl-rinsch-netflix-fraud.html" rel="standout"></atom:link>
+      <description>Carl Rinsch was convicted last year of stealing $11 million from the streamer, which funded a science fiction series he had pitched.</description>
+      <dc:creator>John Carreyrou</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 23:16:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rinsch, Carl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reeves, Keanu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29biz-rinsch-gbhm/29biz-rinsch-gbhm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Seth Wenig/Associated Press</media:credit>
+      <media:description>Carl Rinsch leaving federal court in Manhattan on Monday after a judge, citing Mr. Rinsch’s mental health issues, sentenced him to half the prosecution’s recommended term. </media:description>
+    </item>
     <item>
       <title>Trump Renews Threat to Fire Fed Governor Lisa Cook After Supreme Court Ruling</title>
       <link>https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html</link>
@@ -21,7 +37,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html" rel="standout"></atom:link>
       <description>President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.</description>
       <dc:creator>Colby Smith and Tony Romm</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 21:21:08 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 22:18:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
@@ -1017,22 +1033,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/world/25deal-book-tswift-alni/25deal-book-tswift-alni-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ashley Landis/Associated Press</media:credit>
       <media:description>New York and fans of Taylor Swift are buzzing over the prospect of Swift and Travis Kelce getting married in the city.</media:description>
-    </item>
-    <item>
-      <title>Larry Sanger, a Wikipedia Founder, Is Barred From Editing on the Site</title>
-      <link>https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/business/media/wikipedia-larry-sanger-barred.html" rel="standout"></atom:link>
-      <description>A vote to bar Larry Sanger indefinitely from the volunteer community of Wikipedia came days after he submitted a proposal on “intellectual diversity.”</description>
-      <dc:creator>Adeel Hassan</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 16:21:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanger, Larry (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24xp-wikipedia/24xp-wikipedia-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ulli Winkler/ullstein bild, via Getty Images</media:credit>
-      <media:description>Larry Sanger said that Wikipedia was “one of the most effective organs of establishment propaganda in history.”</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 21:43:46 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 20:06:46 +0000</pubDate>
+    <lastBuildDate>Mon, 29 Jun 2026 23:29:22 +0000</lastBuildDate>
+    <pubDate>Mon, 29 Jun 2026 23:19:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/climate/trump-offshore-wind-duke-energy.html" rel="standout"></atom:link>
       <description>It was the fourth such deal struck by the administration to get companies to forfeit their offshore wind leases.</description>
       <dc:creator>Maxine Joselow</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:25:23 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 22:41:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Duke Energy Corporation</category>
@@ -59,9 +59,9 @@
       <link>https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html" rel="standout"></atom:link>
-      <description>Dangerous heat is expected across much of the country through the July 4 weekend.</description>
+      <description>Dangerous heat is expected across much of the country through the Fourth of July weekend.</description>
       <dc:creator>Nazaneen Ghaffar, Judson Jones and Camille Baker</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:54:23 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 23:19:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
@@ -69,7 +69,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-heat-mon-index-promo/2026-06-29-heat-mon-index-promo-mediumSquareAt3X-v5.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-heat-mon-index-promo/2026-06-29-heat-mon-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -117,13 +117,36 @@
       <media:credit>Nathan Weyland for The New York Times</media:credit>
     </item>
     <item>
+      <title>How the Wildfires in Colorado and Utah Were Poised to Spark</title>
+      <link>https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/weather/utah-colorado-fire-drought.html" rel="standout"></atom:link>
+      <description>Since last week, meteorologists issued a series of increasingly dire warnings about extremely critical weather conditions.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Mon, 29 Jun 2026 22:25:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Junction (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29wea-fireforecast-1-pthv/29wea-fireforecast-1-pthv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Noah Berger/Associated Press</media:credit>
+      <media:description>The Snyder fire burning near Thompson Springs, Utah, on Sunday. It was one of several blazes across the Southwest.</media:description>
+    </item>
+    <item>
       <title>Europe Heat Wave: Forecasts, Warnings and How to Stay Cool</title>
       <link>https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html" rel="standout"></atom:link>
       <description>A heat wave responsible for shattering numerous temperature records in Western Europe continued its shift east.</description>
       <dc:creator>Nazaneen Ghaffar and Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 16:17:21 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 22:05:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
@@ -135,7 +158,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v117.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v120.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -258,7 +281,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v117.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v120.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -1153,30 +1176,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/17/multimedia/17cli-offshore-wind-lfzj/17cli-offshore-wind-lfzj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joshua A. Bickel/Associated Press</media:credit>
       <media:description>The Trump administration has now struck deals energy developers totaling more than $2.5 billion to cancel offshore wind leases.</media:description>
-    </item>
-    <item>
-      <title>Trump’s FEMA Nominee Calls Staff Cuts a ‘Challenge’ for Disaster Agency</title>
-      <link>https://www.nytimes.com/2026/06/17/climate/trump-fema-cameron-hamilton.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/17/climate/trump-fema-cameron-hamilton.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/17/climate/trump-fema-cameron-hamilton.html" rel="standout"></atom:link>
-      <description>Cameron Hamilton, who briefly led the agency on an acting basis last year but was fired for contradicting the president, also said he would get money out to states faster.</description>
-      <dc:creator>Scott Dance</dc:creator>
-      <pubDate>Mon, 22 Jun 2026 12:49:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamilton, Cameron (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Homeland Security and Governmental Affairs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blumenthal, Richard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/17/multimedia/17cli-FEMA-wfbv/17cli-FEMA-wfbv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mariam Zuhaib/Associated Press</media:credit>
-      <media:description>Cameron Hamilton, President Trump’s FEMA nominee, testifying before the Senate Homeland Security Committee on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
