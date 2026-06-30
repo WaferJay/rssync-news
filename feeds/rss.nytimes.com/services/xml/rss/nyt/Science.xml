@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 11:56:31 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 11:07:41 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 15:04:22 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 13:05:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -166,6 +166,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Physics (Journal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>N.I.H. Announces World’s Largest Integrated Health Database</title>
+      <link>https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html" rel="standout"></atom:link>
+      <description>It contains more than half a million people’s genomes, paired with clinical records and wearable tech data. That gives researchers unmatched power to study both diseases and treatments.</description>
+      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 13:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronic Health Records</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30SCI-ALL-OF-US-wqfz/30SCI-ALL-OF-US-wqfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hailey Sadler for The New York Times</media:credit>
+      <media:description>More than 747,000 people across the United States have contributed to a health database at the National Institutes of Health.</media:description>
     </item>
     <item>
       <title>Another Trump Administration Payment to Stop Offshore Wind Farm</title>
@@ -550,25 +565,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23cli-nuclear-loans-01-lhkz/23cli-nuclear-loans-01-lhkz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kendrick Brinson for The New York Times</media:credit>
       <media:description>The Vogtle nuclear power plant in Georgia is the only one with AP1000 reactors in the U.S. They generate enough electricity to power 1 million homes, but they took 15 years to build and cost $35 billion, double the initial estimates.</media:description>
-    </item>
-    <item>
-      <title>Former NOAA Employees Revive Climate.gov Web Site</title>
-      <link>https://www.nytimes.com/2026/06/23/climate/noaa-climate-science-data-website.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/climate/noaa-climate-science-data-website.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/23/climate/noaa-climate-science-data-website.html" rel="standout"></atom:link>
-      <description>The database of federal global warming research recreates a website that was closed amid the administration’s broad retreat from climate science.</description>
-      <dc:creator>Quinn Glabicki</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 16:26:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">US Global Change Research Program (USGCRP)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23cli-climate-data-qptb/23cli-climate-data-qptb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Andrew for The New York Times</media:credit>
-      <media:description>The National Oceanic and Atmospheric Administration headquarters in Silver Spring, Md. The new site is an effort to preserve NOAA work previously available at climate.gov. </media:description>
     </item>
   </channel>
 </rss>

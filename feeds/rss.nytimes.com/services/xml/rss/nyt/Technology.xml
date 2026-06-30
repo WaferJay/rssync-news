@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 11:55:40 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 04:46:32 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 15:04:32 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 15:00:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -74,26 +74,50 @@
       <media:description>Alex Bond speaks about his political views with canvassers from Ground Truth, a door-knocking program organized by Swing Left, a Democratic political group. Canvassers use an A.I.-powered app to record and analyze what voters say.</media:description>
     </item>
     <item>
-      <title>Intel’s Chip Business Shows Signs of Life After Years of Struggle</title>
-      <link>https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html" rel="standout"></atom:link>
-      <description>It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.</description>
-      <dc:creator>Tripp Mickle</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 08:54:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <title>U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model</title>
+      <link>https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html" rel="standout"></atom:link>
+      <description>The move de-escalates a clash between the Trump administration and the company over its cutting-edge artificial intelligence systems.</description>
+      <dc:creator>Sheera Frenkel</dc:creator>
+      <pubDate>Sat, 27 Jun 2026 00:54:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tan, Lip-Bu</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/business/00biz-intel-turnaround/00biz-intel-turnaround-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lincoln Agnew</media:credit>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabby Jones/Bloomberg</media:credit>
+      <media:description>In a letter on Friday, the Commerce Department gave Anthropic permission to restore some clients’ access to one of its most powerful artificial intelligence models, Mythos 5.</media:description>
+    </item>
+    <item>
+      <title>BMW Will Build a New Electric S.U.V. in South Carolina</title>
+      <link>https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html" rel="standout"></atom:link>
+      <description>The German company is doubling down on electric vehicles even as other automakers pull back after acknowledging billions of dollars in losses.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 15:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Production</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Utility Vehicles and Light Trucks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayerische Motorenwerke AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ford Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Honda Motor Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stellantis NV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spartanburg (SC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30biz-bmw-3-jzgt/30biz-bmw-3-jzgt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Felix Schmitt for The New York Times</media:credit>
+      <media:description>BMW plans to make six electric vehicle models at its South Carolina factory by 2030. This model, the iX3, will go on sale in the United States this year.</media:description>
     </item>
     <item>
       <title>Many Child Safety Features on Social Apps Don’t Work, Report Finds</title>
@@ -116,26 +140,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/00inv-social-media-vlcj/00inv-social-media-vlcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Manuel Ausloos/Reuters</media:credit>
       <media:description>Several tech company leaders are set to testify to Congress next month about harms to children on their platforms.</media:description>
-    </item>
-    <item>
-      <title>U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model</title>
-      <link>https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html" rel="standout"></atom:link>
-      <description>The move de-escalates a clash between the Trump administration and the company over its cutting-edge artificial intelligence systems.</description>
-      <dc:creator>Sheera Frenkel</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 00:54:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gabby Jones/Bloomberg</media:credit>
-      <media:description>In a letter on Friday, the Commerce Department gave Anthropic permission to restore some clients’ access to one of its most powerful artificial intelligence models, Mythos 5.</media:description>
     </item>
     <item>
       <title>Om Malik, Whose Blog Shaped How Silicon Valley Saw Itself, Dies at 59</title>
@@ -223,6 +227,28 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/05/28/multimedia/28Daily-AI-gtwj/28Daily-AI-gtwj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ruth Fremson/The New York Times</media:credit>
       <media:description>Jan Worrell and her ElliQ. Washington State’s health department provided it to her as part of a pilot program.</media:description>
+    </item>
+    <item>
+      <title>Intel’s Chip Business Shows Signs of Life After Years of Struggle</title>
+      <link>https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html" rel="standout"></atom:link>
+      <description>It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.</description>
+      <dc:creator>Tripp Mickle</dc:creator>
+      <pubDate>Fri, 26 Jun 2026 08:54:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tan, Lip-Bu</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/business/00biz-intel-turnaround/00biz-intel-turnaround-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lincoln Agnew</media:credit>
     </item>
     <item>
       <title>How a Niche Technology Became a Choke Point for A.I.</title>
