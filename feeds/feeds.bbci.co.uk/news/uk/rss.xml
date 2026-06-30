@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/uk</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 30 Jun 2026 21:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Jun 2026 22:45:48 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -39,14 +39,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57f/live/6519c6d0-74a5-11f1-8e1d-bbbb1017d210.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Patient tested for suspected Ebola virus at Glasgow hospital]]></title>
-            <description><![CDATA[It is understood a patient was admitted to the Queen Elizabeth University Hospital during the early hours of Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/czde8y03qzvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czde8y03qzvo#0</guid>
-            <pubDate>Tue, 30 Jun 2026 19:56:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b5b/live/17cbc990-74b5-11f1-b1db-af71d47507d6.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Government promises to act on maternity care failings which 'shame our society']]></title>
             <description><![CDATA[An independent inquiry has found "unacceptable racism and discrimination" is affecting patient safety.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cddlgqpg7mzo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -61,6 +53,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn07ew5n2jro#0</guid>
             <pubDate>Tue, 30 Jun 2026 19:46:49 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bde7/live/43cb68b0-74b6-11f1-8546-8f19e4fe30f4.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Patient tests negative after Ebola alert at Glasgow hospital]]></title>
+            <description><![CDATA[Precautionary measures were taken after the patient was admitted to the Queen Elizabeth University Hospital early on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly7z8ey088o#0</guid>
+            <pubDate>Tue, 30 Jun 2026 21:51:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f897/live/4d53d9c0-74cb-11f1-b1db-af71d47507d6.jpg"/>
         </item>
         <item>
             <title><![CDATA[England fans' behaviour 'excellent' at World Cup]]></title>
@@ -263,12 +263,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b604/live/db0cccc0-d504-11f0-bca9-0ba5af666dd6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Patient tested for suspected Ebola virus at Glasgow hospital]]></title>
-            <description><![CDATA[It is understood a patient was admitted to the Queen Elizabeth University Hospital during the early hours of Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/czde8y03qzvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czde8y03qzvo#4</guid>
-            <pubDate>Tue, 30 Jun 2026 19:56:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b5b/live/17cbc990-74b5-11f1-b1db-af71d47507d6.jpg"/>
+            <title><![CDATA[Patient tests negative after Ebola alert at Glasgow hospital]]></title>
+            <description><![CDATA[Precautionary measures were taken after the patient was admitted to the Queen Elizabeth University Hospital early on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cly7z8ey088o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly7z8ey088o#4</guid>
+            <pubDate>Tue, 30 Jun 2026 21:51:20 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f897/live/4d53d9c0-74cb-11f1-b1db-af71d47507d6.jpg"/>
         </item>
         <item>
             <title><![CDATA[A trip to India left me with 38 parasites in my brain]]></title>
