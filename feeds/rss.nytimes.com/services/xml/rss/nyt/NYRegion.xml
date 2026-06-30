@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 04:37:18 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 03:47:02 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:39:58 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 07:30:47 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -59,7 +59,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/nyregion/mangione-federal-trial-delay.html" rel="standout"></atom:link>
       <description>A judge made the postponement to avoid potential conflict with Luigi Mangione’s state trial regarding the assassination of a health insurance executive.</description>
       <dc:creator>Hurubie Meko and Anusha Bayya</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:08:00 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:08:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
@@ -78,7 +78,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/nyregion/atlantic-yards-brooklyn-development.html" rel="standout"></atom:link>
       <description>The proposal is the latest attempt to complete Atlantic Yards, a project near Downtown Brooklyn that includes building housing over a rail yard. It has been in progress for decades.</description>
       <dc:creator>Mihir Zaveri</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 21:09:06 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 21:09:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mixed-Use Developments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Atlantic Yards (Brooklyn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
@@ -130,7 +130,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/nyregion/nba-malik-beasley-charged-gambling.html" rel="standout"></atom:link>
       <description>Mr. Beasley, a former shooting guard for the Detroit Pistons, was accused in a sweeping effort to target illicit sports betting.</description>
       <dc:creator>Santul Nerkar</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:01:37 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:01:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
@@ -141,6 +141,49 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/nyregion/29met-nba-gambling1/29met-nba-gambling1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Smith/Getty Images</media:credit>
       <media:description>Malik Beasley lost his spot on the roster of the Detroit Pistons while federal investigators examined his conduct as part of a gambling inquiry.</media:description>
+    </item>
+    <item>
+      <title>Columbia University Has a New President. Again. This One Plans to Stay.</title>
+      <link>https://www.nytimes.com/2026/06/30/nyregion/columbia-university-new-president.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/nyregion/columbia-university-new-president.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/nyregion/columbia-university-new-president.html" rel="standout"></atom:link>
+      <description>Jennifer Mnookin will be the Ivy League university’s fifth president in four years. She describes herself as “a principled pragmatist.”</description>
+      <dc:creator>Sharon Otterman</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 07:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pro-Palestinian Campus Protests (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mnookin, Jennifer Leigh</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper West Side (Manhattan, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29met-columbia-president-01-fvhw/29met-columbia-president-01-fvhw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>Jennifer Mnookin, who begins her tenure on Wednesday, will be the 21st president of Columbia University.</media:description>
+    </item>
+    <item>
+      <title>Trying to Keep Track of Mangione’s State Case? It May Not Be Easy.</title>
+      <link>https://www.nytimes.com/2026/06/30/nyregion/luigi-mangione-trial-secrecy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/nyregion/luigi-mangione-trial-secrecy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/nyregion/luigi-mangione-trial-secrecy.html" rel="standout"></atom:link>
+      <description>Though public access is a right in both federal and state courts, the judge in Luigi Mangione’s New York case has kept some legal documents sealed.</description>
+      <dc:creator>Hurubie Meko and Benjamin Weiser</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 07:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carro, Gregory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supreme Courts (State)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/18/multimedia/00met-secrecy-qhvk/00met-secrecy-qhvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Angelina Katsanis</media:credit>
+      <media:description>Luigi Mangione, center, at a pretrial hearing in court in June, when a judge announced Mr. Mangione’s lawyers were considering “extreme emotional disturbance” as a defense. His legal team withdrew the plan a day later.</media:description>
     </item>
     <item>
       <title>Former Chinese Billionaire and Bannon Associate Is Sentenced for Fraud</title>
@@ -381,55 +424,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27MET-NEWARK-DRONE-bwjk/27MET-NEWARK-DRONE-bwjk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dakota Santiago for The New York Times</media:credit>
       <media:description>The F.A.A. said it receives more than 100 reports of drone sightings near airports every month.</media:description>
-    </item>
-    <item>
-      <title>N.Y.C. City Council Employee Freed After 5 Months in ICE Detention</title>
-      <link>https://www.nytimes.com/2026/06/27/nyregion/nyc-council-employee-ice-freed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/27/nyregion/nyc-council-employee-ice-freed.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/27/nyregion/nyc-council-employee-ice-freed.html" rel="standout"></atom:link>
-      <description>Rafael Andres Rubio Bohorquez is back in New York City and working at City Hall after his release. Immigration officials have appealed his asylum.</description>
-      <dc:creator>Ana Ley</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 16:30:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temporary Protected Status (US Immigration)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuelan-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bronx Defenders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27met-cityhall-release-01-qfgl/27met-cityhall-release-01-qfgl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Todd Heisler/The New York Times</media:credit>
-      <media:description>The detention of Rafael Andres Rubio Bohorquez caused outrage among elected officials in New York City.</media:description>
-    </item>
-    <item>
-      <title>Aqueduct Racetrack Is Closing After 132 Years</title>
-      <link>https://www.nytimes.com/2026/06/27/nyregion/aqueduct-racetrack-closing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/27/nyregion/aqueduct-racetrack-closing.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/27/nyregion/aqueduct-racetrack-closing.html" rel="standout"></atom:link>
-      <description>An era comes to an end, as New York City’s last remaining racetrack takes a final lap.</description>
-      <dc:creator>Corey Kilgannon</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 09:00:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Horse Racing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jockeys, Drivers and Trainers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aqueduct Racetrack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Belmont Park</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Racing Assn</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saratoga Race Course</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carmouche, Kendrick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rice, Linda Louise (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/nyregion/05met-aqueduct/05met-aqueduct-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Alban/The New York Times</media:credit>
-      <media:description>Frank Lettieri is one of the dwindling regulars at Aqueduct Racetrack, which will host its final live races this weekend.</media:description>
     </item>
   </channel>
 </rss>

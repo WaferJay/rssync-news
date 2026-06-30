@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 04:39:38 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 02:46:11 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 08:40:05 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 07:04:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -75,7 +75,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-heat-mon-index-promo/2026-06-29-heat-mon-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-heat-mon-index-promo/2026-06-29-heat-mon-index-promo-mediumSquareAt3X-v11.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -97,7 +97,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v125.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v128.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -292,7 +292,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v125.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v128.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -822,24 +822,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/us/23nat-worldcup-hot94-2/23nat-worldcup-hot94-2-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alain Gadoffre/Onze/Icon Sport, via Getty Images</media:credit>
       <media:description>Mexico defeated Ireland 2-1 after the extreme heat and humidity hit the Irish especially hard.</media:description>
-    </item>
-    <item>
-      <title>Europe Heat Wave Latest News: After France’s Hottest Day Ever, U.K. Approaches June Record</title>
-      <link>https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html" rel="standout"></atom:link>
-      <description>More than a dozen countries have issued urgent heat warnings. France saw its highest average temperature ever on Tuesday.</description>
-      <dc:creator>Nazaneen Ghaffar, Lynsey Chutel and Amelia Nierenberg</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 20:44:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-mediumSquareAt3X-v488.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
