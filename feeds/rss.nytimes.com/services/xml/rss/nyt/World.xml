@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 17:19:09 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 17:17:44 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 19:12:36 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 19:12:33 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,13 +34,13 @@
       <media:description>The authorities have started an improvised morgue, so that relatives can look for the bodies of loved ones among the earthquake’s victims at La Guaira’s port in Venezuela.</media:description>
     </item>
     <item>
-      <title>Mideast Live Updates: U.S. and Iran to Meet with Mediators in Qatar</title>
+      <title>U.S. and Iran to Meet with Mediators in Qatar</title>
       <link>https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz</guid>
       <atom:link href="https://www.nytimes.com/live/2026/06/30/world/iran-us-talks-qatar-hormuz" rel="standout"></atom:link>
       <description>American and Iranian officials are in the Gulf state, a key intermediary between the two countries, days after new round of attacks threatened efforts to sign a lasting peace deal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 17:07:22 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 19:12:33 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30mideast-promo-3-wkpb/30mideast-promo-3-wkpb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vahid Salemi/Associated Press</media:credit>
     </item>
@@ -74,6 +74,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/00int-Oman-Hormuz-01-fmgc/00int-Oman-Hormuz-01-fmgc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Elke Scholiers/Getty Images</media:credit>
       <media:description>A cargo vessel anchored off the coast of Oman near Muscat last week.</media:description>
@@ -85,7 +86,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/world/americas/venezuela-earthquake-rescue-equipment-aid.html" rel="standout"></atom:link>
       <description>Residents appealed for excavators, generators and specialized rescue tools as civilians have stepped in to supply crews working through the rubble.</description>
       <dc:creator>Genevieve Glatsky and Tibisay Romero</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 15:28:54 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 18:54:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
@@ -103,7 +104,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/world/europe/germany-shooting-stade-world-cup.html" rel="standout"></atom:link>
       <description>A day after a deadly attack in northern Germany, the news media’s attention largely shifted to the country’s poor performance at the World Cup.</description>
       <dc:creator>Jim Tankersley</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 17:17:44 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 18:32:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -123,10 +124,11 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/world/europe/monaco-parcel-bomb-explosion.html" rel="standout"></atom:link>
       <description>The blast seriously injured three people, including a child, according to the authorities, who said the assailant was on the run.</description>
       <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 14:58:41 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 14:58:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Monaco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30int-france-bombing-wckh/30int-france-bombing-wckh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Valery Hache/Agence France-Presse — Getty Images</media:credit>
       <media:description>An apartment building in Monaco where an explosion occurred on Tuesday.</media:description>
@@ -144,6 +146,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thailand</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30int-oz-thailand-02-jghl/30int-oz-thailand-02-jghl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Teerasak Suttativong/Reuters</media:credit>
       <media:description>Rescue workers, police officers and forensic technicians searched an area near railway tracks on Saturday, before finding a teenager’s body, in Pattaya, Thailand.</media:description>
@@ -157,10 +160,12 @@
       <dc:creator>Louise Krüger and Lynsey Chutel</dc:creator>
       <pubDate>Tue, 30 Jun 2026 07:20:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vikings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rowing</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26int-norway-rowing-hgmb/26int-norway-rowing-hgmb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban for The New York Times</media:credit>
       <media:description>Norway fans at a World Cup group stage match against Senegal in East Rutherford, N.J., on June 22.</media:description>
@@ -188,12 +193,13 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/world/europe/spain-migrants-legal-status.html" rel="standout"></atom:link>
       <description>Since late April, the Spanish government has allowed undocumented migrants a path out of legal limbo, making Spain a beacon to the global left.</description>
       <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 11:17:41 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 11:17:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30int-spain-migrants-cvpk/30int-spain-migrants-cvpk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Violeta Santos Moura/Reuters</media:credit>
       <media:description>Prime Minister Pedro Sánchez of Spain presenting the country’s citizenship and integration plan in Madrid on Tuesday.</media:description>
@@ -205,7 +211,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/world/asia/china-japan-rare-earths-patrols.html" rel="standout"></atom:link>
       <description>Beijing’s moves have included flying bombers near Japan, detaining businesspeople and restricting the exports of rare earths.</description>
       <dc:creator>Lily Kuo, Pei-Lin Wu and Kiuko Notoya</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 15:57:54 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 17:24:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China Coast Guard</category>
@@ -309,6 +315,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="960" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30xp-moscow-qvwt/30xp-moscow-qvwt-mediumSquareAt3X.jpg" width="960"></media:content>
       <media:credit>Andrei Vorobyov, via Telegram, via Reuters</media:credit>
       <media:description>A photograph posted on the Moscow region’s official social media channel on Tuesday, said to show a damaged private house in the town of Yegoryevsk.</media:description>
@@ -366,7 +374,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/world/middleeast/abdul-ahad-momand-dead.html" rel="standout"></atom:link>
       <description>A pilot in the Afghan Air Force, he was recruited for the Soviet space program. His 1988 flight took place as the Soviets were fighting a war in his country.</description>
       <dc:creator>Richard Sandomir</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 22:32:52 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 22:32:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Momand, Abdul Ahad (1959-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space Stations</category>
@@ -374,6 +382,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">USSR (Former Soviet Union)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Efforts to Rescue Venezuela Quake Victims Grow More Desperate</title>
@@ -572,6 +581,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29int-russia-denial-qvlw/29int-russia-denial-qvlw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Igor Ivanko/Agence France-Presse — Getty Images</media:credit>
       <media:description>Manezhnaya Square, in Moscow, on Tuesday.</media:description>
@@ -998,24 +1008,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27int-venezuela-traffic-vkjq/27int-venezuela-traffic-vkjq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fabiola Ferrero for The New York Times</media:credit>
       <media:description>The Pérez de León Hospital medical team in a truck in La Guaira, Venezuela, on Friday night. The doctors were handing out food, water and medical supplies to people on the streets.</media:description>
-    </item>
-    <item>
-      <title>12 Hours With Venezuelan Doctors Searching for Earthquake Survivors</title>
-      <link>https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquakes-doctors-rescues.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquakes-doctors-rescues.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/27/world/americas/venezuela-earthquakes-doctors-rescues.html" rel="standout"></atom:link>
-      <description>A medical team set out from the capital to rescue people in the hardest-hit part of the disaster zone, La Guaira. They found silence in the ruins instead.</description>
-      <dc:creator>Fabiola Ferrero and Julie Turkewitz</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 21:19:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27venezuela-quake-rescue-topart/27venezuela-promo-1130am-fqgw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Dr. Zaira Medina, left, hugging a rescue worker outside her collapsed apartment building in La Guaira, Venezuela, on Friday.</media:description>
     </item>
   </channel>
 </rss>
