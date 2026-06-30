@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 17:18:49 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 16:47:27 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 21:09:33 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 19:59:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -167,6 +167,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Physics (Journal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+    </item>
+    <item>
+      <title>States Sue Trump Administration Over Medicaid Work Requirements</title>
+      <link>https://www.nytimes.com/2026/06/30/us/politics/medicaid-work-requirements-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/medicaid-work-requirements-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/medicaid-work-requirements-lawsuit.html" rel="standout"></atom:link>
+      <description>The lawsuit argues that new federal rules went beyond what Congress enacted and broke from guidance that the federal government previewed to states.</description>
+      <dc:creator>Sarah Kliff and Margot Sanger-Katz</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 19:59:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Medicare and Medicaid Services</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30DC-MEDICAID-LAWSUIT-htvq/30DC-MEDICAID-LAWSUIT-htvq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>The Trump administration is being sued on the new Medicaid work requirements, arguing that the guidelines are inconsistent with federal law.</media:description>
     </item>
     <item>
       <title>N.I.H. Announces World’s Largest Integrated Health Database</title>
@@ -495,22 +518,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24int-france-ebola-wtcq/24int-france-ebola-wtcq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
       <media:description>Health workers last month in the Democratic Republic of Congo, the center of an Ebola outbreak that has killed more than 200 people.</media:description>
-    </item>
-    <item>
-      <title>An Influx of Climate Cash</title>
-      <link>https://www.nytimes.com/2026/06/23/climate/an-influx-of-climate-cash.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/climate/an-influx-of-climate-cash.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/23/climate/an-influx-of-climate-cash.html" rel="standout"></atom:link>
-      <description>Many philanthropists are backing away from climate giving. But one is writing very big checks.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 21:10:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23cli-newsletter-bloomberg-01-pmbh/23cli-newsletter-bloomberg-01-pmbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Michael Bloomberg, the billionaire and former mayor of New York City, at a climate forum in London on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
