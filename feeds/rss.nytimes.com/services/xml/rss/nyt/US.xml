@@ -3,17 +3,38 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1782775768571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 29 Jun 2026 23:29:28 +0000</lastBuildDate>
-    <pubDate>Mon, 29 Jun 2026 23:23:53 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 04:35:06 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 03:48:04 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Former Chinese Billionaire and Bannon Associate Is Sentenced for Fraud</title>
+      <link>https://www.nytimes.com/2026/06/29/us/guo-wengui-sentencing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/guo-wengui-sentencing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/us/guo-wengui-sentencing.html" rel="standout"></atom:link>
+      <description>The businessman courted U.S. conservatives as an anti-Communist crusader while using his supporters’ money to buy lavish homes and a Bugatti supercar.</description>
+      <dc:creator>Michael Forsythe</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 00:19:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guo Wengui</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Torres, Analisa J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27guo-sentencing-blgv/27guo-sentencing-blgv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>James Estrin/The New York Times</media:credit>
+      <media:description>Guo Wengui at his Manhattan apartment in 2017.</media:description>
+    </item>
     <item>
       <title>Two Dan Sullivans to Appear on Alaska Senate Ballot, State High Court Rules</title>
       <link>https://www.nytimes.com/2026/06/29/us/politics/alaska-dan-sullivan-senate-ballot.html</link>
@@ -40,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/tom-kean-returns.html" rel="standout"></atom:link>
       <description>After months of silence, Representative Tom Kean Jr. was expected to deliver a speech explaining his 116-day absence from Congress.</description>
       <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 22:38:59 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 01:15:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kean, Thomas H Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
@@ -58,7 +79,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/gallego-campaign-funds-family.html" rel="standout"></atom:link>
       <description>The Arizona senator used campaign money to fly his family to Nantucket and the Caribbean. The Justice Department has said it is investigating his campaign finance activity.</description>
       <dc:creator>Bayliss Wagner and Kellen Browning</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 23:23:53 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 01:07:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallego, Ruben (1979- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
@@ -236,7 +257,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/what-to-know-wildfires-colorado-utah-arizona-new-mexico-nevada.html" rel="standout"></atom:link>
       <description>Thousands of acres in Utah and other Western states have burned. Here is what to know about the firefighters who have died, the destruction so far and the spreading smoke.</description>
       <dc:creator>Maia Spoto</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:50:52 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 02:01:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -246,6 +267,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Polis, Jared S (1975- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cox, Spencer J (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/wildfire-wwk-1-gtbc/wildfire-wwk-1-gtbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Noah Berger/Associated Press</media:credit>
       <media:description>A helicopter dropped water on the Cottonwood Fire burning near Beaver, Utah, on Saturday.</media:description>
@@ -342,8 +365,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000010993276/why-trump-is-giving-republicans-midterms-anxiety.html</guid>
       <atom:link href="https://www.nytimes.com/video/us/politics/100000010993276/why-trump-is-giving-republicans-midterms-anxiety.html" rel="standout"></atom:link>
       <description>Ahead of the midterms, Republicans have sought to focus on the issue of affordability, but the president keeps going off script. Our White House correspondent Tyler Pager explains.</description>
-      <dc:creator>Tyler Pager, Paul Abowd, Jon Miller, Nikolay Nikolov and Gilad Thaler</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 17:48:48 +0000</pubDate>
+      <dc:creator>Tyler Pager, Paul Abowd, Jon Miller, Nikolay Nikolov, Gilad Thaler and Whitney Shefte</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 00:19:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
@@ -440,7 +463,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/trump-fire-fed-governor-cook.html" rel="standout"></atom:link>
       <description>President Trump promised to “take appropriate action immediately” against Lisa Cook, the Fed governor he had tried to fire, even as the court affirmed that Fed officials can be fired only for cause.</description>
       <dc:creator>Colby Smith and Tony Romm</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 22:18:19 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 22:18:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
@@ -539,7 +562,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/supreme-court-late-mail-ballots.html" rel="standout"></atom:link>
       <description>The justices had been asked to examine the legality of the state’s grace period for late-arriving mail-in ballots.</description>
       <dc:creator>Abbie VanSickle</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:39:17 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:39:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
@@ -560,7 +583,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html" rel="standout"></atom:link>
       <description>A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.</description>
       <dc:creator>Stuart A. Thompson</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 19:36:43 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 19:36:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -578,7 +601,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/supreme-court-trump-sexual-assault.html" rel="standout"></atom:link>
       <description>President Trump had asked the justices to intervene after a jury found that he had sexually abused and defamed the writer E. Jean Carroll.</description>
       <dc:creator>Abbie VanSickle and Benjamin Weiser</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 18:39:51 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 00:23:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
