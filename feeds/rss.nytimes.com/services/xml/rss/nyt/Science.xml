@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 15:04:22 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 13:05:16 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:18:49 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 16:47:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,6 +42,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Turtles and Tortoises</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Current Biology (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reptiles</category>
       <media:content height="1402" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/00SCI-TURTLES-ORIGINS-01-zhbg/00SCI-TURTLES-ORIGINS-01-zhbg-mediumSquareAt3X.jpg" width="1403"></media:content>
       <media:credit>Jon Elswick/Associated Press</media:credit>
       <media:description>A new study suggests turtles belong to a group of reptiles called archosauromorphs, which also includes ancient birds, crocodiles, pterosaurs and dinosaurs, and may share a common ancestor with them.</media:description>
@@ -174,7 +175,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html" rel="standout"></atom:link>
       <description>It contains more than half a million people’s genomes, paired with clinical records and wearable tech data. That gives researchers unmatched power to study both diseases and treatments.</description>
       <dc:creator>Emily Baumgaertner Nunn</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 13:00:06 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 16:47:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronic Health Records</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
@@ -197,6 +198,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29cli-offshore-wind-kbvw/29cli-offshore-wind-kbvw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Matthew Brown/Associated Press</media:credit>
       <media:description>Duke Energy is one of the nation’s largest utilities. Here, a Duke Energy wind farm project in Rolling Hills, Wyoming.</media:description>
@@ -509,62 +511,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23cli-newsletter-bloomberg-01-pmbh/23cli-newsletter-bloomberg-01-pmbh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Tallis/Agence France-Presse — Getty Images</media:credit>
       <media:description>Michael Bloomberg, the billionaire and former mayor of New York City, at a climate forum in London on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Europe’s Heat Has Scientists Asking: How Much Hotter Can It Get?</title>
-      <link>https://www.nytimes.com/2026/06/23/climate/europe-heat-wave-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/climate/europe-heat-wave-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/23/climate/europe-heat-wave-climate-change.html" rel="standout"></atom:link>
-      <description>Records are being broken for the second time in a month, leading scientists to probe the upper limits of what the warming climate can dish out.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 16:17:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23CLI-EUROPEHEAT-CLIMATE-flmh/23CLI-EUROPEHEAT-CLIMATE-flmh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stephane Mahe/Reuters</media:credit>
-      <media:description>A retirement home in Les Sorinières, near Nantes, France, on Monday, where temperatures reached 108 degrees Fahrenheit.</media:description>
-    </item>
-    <item>
-      <title>Ebola Symptoms in Current Outbreak May Be Milder Than in Previous Ones</title>
-      <link>https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/23/health/ebola-symptoms-death-rate.html" rel="standout"></atom:link>
-      <description>That is good news for patients, but officials fear it will make controlling the spread of the disease harder.</description>
-      <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 15:31:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Medical Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bunia (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23dc-ebola01-photo-cvjk/23dc-ebola01-photo-cvjk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arlette Bashizi for The New York Times</media:credit>
-      <media:description>A health worker checking people’s temperatures at an entry point to the city of Goma in the Democratic Republic of Congo in May.</media:description>
-    </item>
-    <item>
-      <title>Energy Dept. Promises $17.5 Billion in Loans for Nuclear Power</title>
-      <link>https://www.nytimes.com/2026/06/23/climate/trump-energy-nuclear-loans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/23/climate/trump-energy-nuclear-loans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/23/climate/trump-energy-nuclear-loans.html" rel="standout"></atom:link>
-      <description>The federal government wants to help utilities buy large components for up to 10 large nuclear reactors. It’s unclear which, if any, companies might participate.</description>
-      <dc:creator>Brad Plumer</dc:creator>
-      <pubDate>Tue, 23 Jun 2026 15:19:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nuclear Regulatory Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/23cli-nuclear-loans-01-lhkz/23cli-nuclear-loans-01-lhkz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kendrick Brinson for The New York Times</media:credit>
-      <media:description>The Vogtle nuclear power plant in Georgia is the only one with AP1000 reactors in the U.S. They generate enough electricity to power 1 million homes, but they took 15 years to build and cost $35 billion, double the initial estimates.</media:description>
     </item>
   </channel>
 </rss>

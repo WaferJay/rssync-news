@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 15:02:52 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 15:00:06 +0000</pubDate>
+    <lastBuildDate>Tue, 30 Jun 2026 17:18:30 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 16:55:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>NPR Retracts Article That Mistakenly Said Justice Alito Would Retire</title>
+      <link>https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/business/media/npr-samuel-alito-nina-totenberg.html" rel="standout"></atom:link>
+      <description>The news outlet quickly removed the article, which was written by NPR’s seasoned Supreme Court reporter, Nina Totenberg, from its website.</description>
+      <dc:creator>Benjamin Mullin</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 16:48:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Public Radio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alito, Samuel A Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Totenberg, Nina</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/OakArticle-6a43dc48-2-mtvf/OakArticle-6a43dc48-2-mtvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Justice Samuel A. Alito has not announced plans to retire.</media:description>
+    </item>
     <item>
       <title>BMW Will Build a New Electric S.U.V. in South Carolina</title>
       <link>https://www.nytimes.com/2026/06/30/business/bmw-electric-vehicles-south-carolina.html</link>
@@ -111,13 +130,13 @@
       <media:credit>Elke Scholiers/Getty Images</media:credit>
     </item>
     <item>
-      <title>Oil Prices Tick Higher as Iran and U.S. Prepare for Talks</title>
+      <title>Stocks Are on Course for Best Quarter Since 2020</title>
       <link>https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html" rel="standout"></atom:link>
       <description>Iran and the United States were set for further talks after a spurt of hostilities had underscored the uncertainty surrounding attempts to strike a lasting peace deal.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 14:46:01 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 16:55:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -200,9 +219,10 @@
       <dc:creator>Colby Smith and Tony Romm</dc:creator>
       <pubDate>Mon, 29 Jun 2026 22:18:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Lisa D</category>
@@ -270,12 +290,15 @@
       <pubDate>Mon, 29 Jun 2026 12:30:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Comcast Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NBCUniversal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, Brian L</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Angelakis, Michael J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cavanagh, Michael J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29db-comcast-fcqh/29db-comcast-fcqh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gene J. Puskar/Associated Press</media:credit>
       <media:description>Comcast plans to break itself up into two publicly traded companies.</media:description>
@@ -309,11 +332,13 @@
       <dc:creator>Benjamin Mullin</dc:creator>
       <pubDate>Mon, 29 Jun 2026 18:19:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NBCUniversal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Comcast Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Comcast Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NBCUniversal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29biz-COMCASTNBCUNIVERSAL-hcbp/29biz-COMCASTNBCUNIVERSAL-hcbp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Lucia Vazquez for The New York Times</media:credit>
       <media:description>The transaction would unwind a yearslong marriage between one of the world’s largest cable and internet providers and a renowned TV and film company.</media:description>
@@ -987,26 +1012,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25biz-IRAN-SHIP-ATTACK-kvqb/25biz-IRAN-SHIP-ATTACK-kvqb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>Vessels in the Strait of Hormuz near Musandam, Oman, early this month.</media:description>
-    </item>
-    <item>
-      <title>Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning</title>
-      <link>https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html" rel="standout"></atom:link>
-      <description>In a notice flagging a series of problems with a clinical trial, the journal Nature Medicine said its editors “no longer have confidence in the integrity of the results.”</description>
-      <dc:creator>Rebecca Robbins</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 02:27:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunotherapy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic and Scientific Journals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Medicine (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25BIZ-CHINA-RETRACTION-1-cklf/25BIZ-CHINA-RETRACTION-1-cklf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jenny Kane/Associated Press</media:credit>
-      <media:description>The journal Nature Medicine retracted a study that found a drastic benefit when cancer therapy was administered in the morning.</media:description>
     </item>
   </channel>
 </rss>
