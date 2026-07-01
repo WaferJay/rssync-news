@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 06:44:21 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 05:20:45 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 10:49:39 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 10:37:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -100,6 +100,20 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/00biz-tech-workers-gqwz/00biz-tech-workers-gqwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christie Hemm Klok for The New York Times</media:credit>
       <media:description>After three months, Katrine Razniak and her partner gave up looking for a one-bedroom apartment under $5,000. “I don’t feel completely hopeless, but I don’t think I can stay in S.F.,” she said.</media:description>
+    </item>
+    <item>
+      <title>The Yoto Music Box Is a Ray of Hope Amid the ‘Techlash’</title>
+      <link>https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/technology/personaltech/yoto-music-box-screens.html" rel="standout"></atom:link>
+      <description>Amid widespread “techlash” over addictive screens and apps, the Yoto, an audio player for children, shows there’s still a way to make money while doing something nice.</description>
+      <dc:creator>Brian X. Chen and Sam Bush</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 09:01:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beatles, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yoto</category>
     </item>
     <item>
       <title>BMW Will Build a New Electric S.U.V. in South Carolina</title>
@@ -476,34 +490,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25BIZ-OPENAI-CHIP-tvjc/25BIZ-OPENAI-CHIP-tvjc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brittany Hosea-Small/Reuters</media:credit>
       <media:description>A Broadcom circuit board for chip testing.</media:description>
-    </item>
-    <item>
-      <title>Your Home Could Help Solve AI’s Growing Power Demand</title>
-      <link>https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/business/energy-environment/ai-data-centers-tesla.html" rel="standout"></atom:link>
-      <description>Tesla, Sunrun and Renew Home plan to tap solar panels, batteries, thermostats and other devices installed in millions of homes to meet the energy demands of artificial intelligence.</description>
-      <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 09:02:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy Efficiency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thermostats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Repairs and Improvements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Renew Home LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sunrun Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24biz-distributed-energy-1-lcmh/24biz-distributed-energy-1-lcmh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Collin Chappelle for The New York Times</media:credit>
-      <media:description>Installation of a Sunrun solar panel on a roof in California. Sunrun is working with Tesla and Renew Home to use home energy devices to help data centers get online faster.</media:description>
     </item>
   </channel>
 </rss>
