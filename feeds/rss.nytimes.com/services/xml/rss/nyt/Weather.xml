@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 30 Jun 2026 22:45:56 +0000</lastBuildDate>
-    <pubDate>Tue, 30 Jun 2026 22:35:50 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 01:36:09 +0000</lastBuildDate>
+    <pubDate>Tue, 30 Jun 2026 23:37:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>5 Temperature Records Meteorologists Are Watching This Week</title>
+      <link>https://www.nytimes.com/2026/06/30/weather/heat-wave-records-broken.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/weather/heat-wave-records-broken.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/weather/heat-wave-records-broken.html" rel="standout"></atom:link>
+      <description>New York could record 100 degrees for the first time since 2012, as a brutal heat wave spreads east.</description>
+      <dc:creator>Amy Graff</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 23:32:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30wea-records-mztf/30wea-records-mztf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross for The New York Times</media:credit>
+      <media:description>Washington might break records for heat this week.</media:description>
+    </item>
     <item>
       <title>A Hot and Deadly Start to Wildfire Season</title>
       <link>https://www.nytimes.com/2026/06/30/climate/heat-wave-wildfires.html</link>
@@ -147,7 +167,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/29/us/what-to-know-wildfires-colorado-utah-arizona-new-mexico-nevada.html" rel="standout"></atom:link>
       <description>Thousands of acres in Utah and other Western states have burned. Here is what to know about the firefighters who have died, the destruction so far and the spreading smoke.</description>
       <dc:creator>Maia Spoto</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 02:01:44 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 23:37:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -200,7 +220,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v142.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v147.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -395,7 +415,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v142.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v147.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -827,24 +847,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25int-theworld-top-bfpt/25int-theworld-top-bfpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joann Pai for The New York Times</media:credit>
       <media:description>Outside the Louvre museum in Paris, yesterday. </media:description>
-    </item>
-    <item>
-      <title>Why Is Europe the Fastest-Warming Continent</title>
-      <link>https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html" rel="standout"></atom:link>
-      <description>The burning of fossil fuels is raising temperatures worldwide, but local factors, on land and at sea, determine which regions warm most rapidly.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 17:59:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/24cli-hot-europe-cwmg/24cli-hot-europe-cwmg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Toby Shepheard/Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>Morning commuters on the London Bridge on Wednesday, where temperatures reached 96 degrees Fahrenheit, the hottest recorded June day in the United Kingdom.</media:description>
     </item>
   </channel>
 </rss>
