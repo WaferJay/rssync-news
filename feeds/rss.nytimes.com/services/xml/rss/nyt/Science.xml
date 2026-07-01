@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 19:14:03 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 19:13:03 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:55:17 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 19:40:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html" rel="standout"></atom:link>
       <description>From why it was created to whether it’s alive, here’s what to know about SpudCell, the latest advance in synthetic biology.</description>
       <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 19:13:03 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 19:28:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Synthetic Biology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
@@ -140,6 +140,24 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25SCI-APE-LAUGHTER-qjlb/25SCI-APE-LAUGHTER-qjlb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emil Lippe for The New York Times</media:credit>
       <media:description>All the planet’s great apes laugh, and they often do so in the same kind of regular, repeating rhythm that humans do, according to a new study.</media:description>
+    </item>
+    <item>
+      <title>U.S. to Overhaul Radiation Safety Rules to Spur Nuclear Expansion</title>
+      <link>https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/climate/nrc-radiation-regulation-nuclear-overhaul.html" rel="standout"></atom:link>
+      <description>The Nuclear Regulatory Commission plans to end longstanding guidance that radiation exposure be “as low as reasonably achievable.”</description>
+      <dc:creator>Brad Plumer</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 19:29:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radiation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nuclear Regulatory Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01cli-nuclear-regulation-01-hlqt/01cli-nuclear-regulation-01-hlqt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Audra Melton for The New York Times</media:credit>
+      <media:description>The proposed rule changes could make it cheaper and easier to build and operate new nuclear power plants in the United States.</media:description>
     </item>
     <item>
       <title>Cheating Chickadees Are Seduced by Smarts</title>
@@ -480,42 +498,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baldwin, Maude W</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
-    </item>
-    <item>
-      <title>Shortage of Chemotherapy Drugs Brings Rationing Fears for Cancer Patients</title>
-      <link>https://www.nytimes.com/2026/06/24/health/chemotherapy-drug-shortage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/health/chemotherapy-drug-shortage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/health/chemotherapy-drug-shortage.html" rel="standout"></atom:link>
-      <description>Doctors are contending with low supplies and unfilled orders of generic chemotherapy infusions that are central to the treatment of a long list of cancers.</description>
-      <dc:creator>Christina Jewett</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 20:44:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemotherapy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generic Brands and Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24dc-chemo-shortage-photo-khtg/24dc-chemo-shortage-photo-khtg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emil Lippe for The New York Times</media:credit>
-      <media:description>Chemotherapy drugs, carboplatin and cisplatin, in the pharmaceutical storage room at the Center for Cancer and Blood Disorders in Fort Worth. There are shortages of both drugs.</media:description>
-    </item>
-    <item>
-      <title>Fruit Fly Sperm Are Giant. How Do They Stay Untangled?</title>
-      <link>https://www.nytimes.com/2026/06/24/science/giant-fruit-fly-sperm-untangled.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/science/giant-fruit-fly-sperm-untangled.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/science/giant-fruit-fly-sperm-untangled.html" rel="standout"></atom:link>
-      <description>A fruit fly’s sperm are exceptionally long, and thousands are crammed in together. The physics of this presents a packing nightmare.</description>
-      <dc:creator>Monique Brouillette</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 20:21:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fruit Flies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sperm</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Physics (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
     </item>
   </channel>
 </rss>

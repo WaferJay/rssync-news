@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 19:12:44 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 18:50:43 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 20:58:36 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 20:14:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>The Heat Wave Proves That We Need to Adapt to Climate Change</title>
+      <link>https://www.nytimes.com/2026/07/01/opinion/heat-wave-europe-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/opinion/heat-wave-europe-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/opinion/heat-wave-europe-america.html" rel="standout"></atom:link>
+      <description>The world’s infrastructure was built for a climate we no longer have.</description>
+      <dc:creator>David Wallace-Wells</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 20:14:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+    </item>
     <item>
       <title>First Europe, Then North America: Welcome to Heat Dome Summer.</title>
       <link>https://www.nytimes.com/2026/07/01/weather/heat-domes-europe-us.html</link>
@@ -128,15 +144,11 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/weather/heat-wave-records-broken.html" rel="standout"></atom:link>
       <description>New York could record 100 degrees for the first time since 2012, as a brutal heat wave spreads east.</description>
       <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 15:42:23 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 15:42:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30wea-records-mztf/30wea-records-mztf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross for The New York Times</media:credit>
       <media:description>Washington might break records for heat this week.</media:description>
@@ -184,11 +196,8 @@
       <description>Parts of Ontario and Quebec will be well above normal temperatures this week as a heat wave spreads over North America.</description>
       <dc:creator>Nazaneen Ghaffar</dc:creator>
       <pubDate>Tue, 30 Jun 2026 16:03:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environment Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
@@ -235,7 +244,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-tues-index-promo/2026-06-29-tues-index-promo-mediumSquareAt3X-v65.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-tues-index-promo/2026-06-29-tues-index-promo-mediumSquareAt3X-v71.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -321,7 +330,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v163.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v164.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -516,7 +525,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v163.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v164.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -821,32 +830,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25wea-europe-heat-wave-promo-2-jvhk/25wea-europe-heat-wave-promo-2-jvhk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gonzalo Fuentes/Reuters</media:credit>
-    </item>
-    <item>
-      <title>Traveling to Europe in a Heat Wave? Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/06/25/travel/europe-heat-wave-what-to-know.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/travel/europe-heat-wave-what-to-know.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/travel/europe-heat-wave-what-to-know.html" rel="standout"></atom:link>
-      <description>Residents and summer travelers alike are searching for ways to stay safe and cool as the continent swelters amid a heat wave. Here are some tips.</description>
-      <dc:creator>Ryley Ober</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 14:08:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Notre Dame Cathedral (Paris, France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Somerset House</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">British Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Louvre Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">St Paul&#39;s Cathedral (London)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Victoria and Albert Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25trav-europe-heat-bwpv/25trav-europe-heat-bwpv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joann Pai for The New York Times</media:credit>
-      <media:description>Tuesday and Wednesday were the hottest days ever recorded in France.</media:description>
     </item>
   </channel>
 </rss>
