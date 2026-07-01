@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 01:31:40 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 01:15:53 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 06:46:20 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 05:13:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,9 +34,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29dc-trump-disclosure-tjck/29dc-trump-disclosure-tjck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29dc-trump-disclosure-tjck/29dc-trump-disclosure-tjck-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
-      <media:description>President Trump entering the White House on Sunday. His mandatory financial disclosure report for 2025 pulled back the curtain on his secretive business operations. </media:description>
+      <media:description>President Trump entering the White House on Sunday. His mandatory financial disclosure report for 2025 pulled back the curtain on his secretive business operations.</media:description>
     </item>
     <item>
       <title>Trump’s Moneymaking Run: Unrivaled in Presidential History</title>
@@ -64,25 +64,13 @@
       <media:description>The bulk of the new revenue for President Trump comes from the cryptocurrency industry, which his family aggressively moved into starting in late 2024.</media:description>
     </item>
     <item>
-      <title>Supreme Court Blocks Trump’s Push to End Birthright Citizenship</title>
-      <link>https://www.nytimes.com/2026/06/30/briefing/supreme-court-birthright-citizenship.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/briefing/supreme-court-birthright-citizenship.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/briefing/supreme-court-birthright-citizenship.html" rel="standout"></atom:link>
-      <description>Also, a House Republican says depression led to his long absence. Here&#39;s the latest at the end of Tuesday.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 21:49:46 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30EVENING-NL-SCOTUS-qgwt/30EVENING-NL-SCOTUS-qgwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amir Hamja/The New York Times</media:credit>
-      <media:description>The Supreme Court chamber in Washington, D.C.</media:description>
-    </item>
-    <item>
       <title>Supreme Court Upholds Birthright Citizenship, Blocking a Key Trump Policy</title>
       <link>https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html</guid>
       <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/supreme-court-birthright-citizenship.html" rel="standout"></atom:link>
       <description>The justices blocked President Trump’s executive order that banned birthright citizenship for the children of undocumented immigrants and some temporary foreign visitors.</description>
       <dc:creator>Abbie VanSickle</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 18:01:22 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 18:01:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
@@ -98,6 +86,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wong Kim Ark (b 1873)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30scotus-birthright-citizenship-pin-vcgt/30scotus-birthright-citizenship-pin-vcgt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anna Rose Layden for The New York Times</media:credit>
       <media:description>Demonstrators gathered at the Supreme Court in support of birthright citizenship in April.</media:description>
@@ -147,7 +136,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/supreme-court-transgender-athletes.html" rel="standout"></atom:link>
       <description>The court’s decision involving laws from West Virginia and Idaho has implications for 25 other states with similar restrictions on transgender female athletes joining women’s sports teams.</description>
       <dc:creator>Ann E. Marimow</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 19:40:12 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 19:40:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
@@ -194,45 +183,77 @@
       <media:description>The Supreme Court on Tuesday said states were free to bar transgender girls from competing in girls’ and women’s school sports.</media:description>
     </item>
     <item>
-      <title>U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models</title>
-      <link>https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html" rel="standout"></atom:link>
-      <description>The move allows Anthropic to bring its most powerful technologies back online, de-escalating a feud with the Trump administration.</description>
-      <dc:creator>Sheera Frenkel and Ana Swanson</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 01:13:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30BIZ-ANTHROPIC-gjtq/30BIZ-ANTHROPIC-gjtq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry for The New York Times</media:credit>
-      <media:description>Anthropic’s Code With Claude event in San Francisco last month. Federal restrictions were lifted on Tuesday from the company’s Claude Mythos and Claude Fable A.I. models.</media:description>
+      <title>Melat Kiros, a Left-Wing Insurgent, Ousts a 15-Term Congresswoman in Colorado</title>
+      <link>https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/melat-kiros-degette-colorado-democratic-primary.html" rel="standout"></atom:link>
+      <description>Melat Kiros, a 29-year-old democratic socialist, unseated Representative Diana DeGette in a Democratic primary to represent the Denver area.</description>
+      <dc:creator>Emily Davies</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 04:15:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeGette, Diana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30pol-colorado-1-hfo-alt-kiros-ftjm/30pol-colorado-1-hfo-alt-kiros-ftjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chet Strange for The New York Times</media:credit>
+      <media:description>Melat Kiros, an immigrant and first-time candidate, is likely to head to Congress in a deep-blue Colorado district.</media:description>
     </item>
     <item>
-      <title>G.O.P. Revolt Paralyzes the House, Stalling Trump Agenda</title>
-      <link>https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html" rel="standout"></atom:link>
-      <description>A Republican blockade derailed a Pentagon policy bill and other legislation as the far right pressed for action on a voting bill championed by President Trump.</description>
-      <dc:creator>Robert Jimison, Carl Hulse and Michael Gold</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:40:12 +0000</pubDate>
+      <title>Phil Weiser Upsets Michael Bennet in Colorado Democratic Governor Primary</title>
+      <link>https://www.nytimes.com/2026/06/30/us/colorado-governor-democrat-phil-weiser.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/colorado-governor-democrat-phil-weiser.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/us/colorado-governor-democrat-phil-weiser.html" rel="standout"></atom:link>
+      <description>Phil Weiser beat Senator Michael Bennet in the Democratic primary, presenting himself as the stronger foil for President Trump.</description>
+      <dc:creator>Jack Healy</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 02:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennet, Michael Farrand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weiser, Philip J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30nat-colorado-gov-hfo-weiser-sub-ftcl/30nat-colorado-gov-hfo-weiser-sub-ftcl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cheney Orr for The New York Times</media:credit>
+      <media:description>Attorney General Phil Weiser of Colorado speaking with voters during a campaign event at Bluebird Café in Glenwood Springs, Colo.</media:description>
+    </item>
+    <item>
+      <title>Manny Rutinel, a Progressive, Wins Colorado Primary for Competitive House Seat</title>
+      <link>https://www.nytimes.com/2026/06/30/us/politics/manny-rutinel-colorado-8th-district-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/manny-rutinel-colorado-8th-district-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/manny-rutinel-colorado-8th-district-democrats.html" rel="standout"></atom:link>
+      <description>Manny Rutinel, a state representative and former activist, will face Representative Gabe Evans, a Republican seen as vulnerable, in the fall.</description>
+      <dc:creator>Emily Davies</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 03:15:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30pol-colorado-8-rutinel-zgft/30pol-colorado-8-rutinel-zgft-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brice Tucker/The Greeley Tribune, via Associated Press</media:credit>
+      <media:description>State Representative Manny Rutinel, a progressive, won his primary in Colorado’s most competitive House district. He will face Representative Gabe Evans, a Republican, in the fall.</media:description>
+    </item>
+    <item>
+      <title>Talarico Seizes on Paxton Tabloid Story to Test Corruption Attacks in Texas Senate Race</title>
+      <link>https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html" rel="standout"></atom:link>
+      <description>After a salacious report about Ken Paxton, the Republican nominee for Senate in Texas, his Democratic rival, James Talarico, seized on the news — but focused on corruption and affordability.</description>
+      <dc:creator>Bayliss Wagner</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 03:49:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Mike (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luna, Anna Paulina</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30dc-cong-new-qcmf/30dc-cong-new-qcmf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee for The New York Times</media:credit>
-      <media:description>Speaker Mike Johnson at the Capitol on Tuesday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/us/30pol-paxton-talarico/30pol-paxton-talarico-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Antranik Tavitian for The New York Times; Callaghan O&#39;Hare for The New York Times</media:credit>
+      <media:description>Ken Paxton and James Talarico are locked in a competitive race for Senate in Texas. </media:description>
     </item>
     <item>
       <title>Tom Kean, New Jersey Congressman, Says Depression Led to Long Absence</title>
@@ -297,108 +318,62 @@
       <media:description>Representative Thomas Kean Jr. appeared on Capitol Hill on Tuesday following a lengthy absence.</media:description>
     </item>
     <item>
-      <title>Talarico Seizes on Paxton Tabloid Story to Test Corruption Attacks in Texas Senate Race</title>
-      <link>https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/paxton-talarico-corruption-affordability-texas.html" rel="standout"></atom:link>
-      <description>After a salacious report about Ken Paxton, the Republican nominee for Senate in Texas, his Democratic rival, James Talarico, seized on the news — but focused on corruption and affordability.</description>
-      <dc:creator>Bayliss Wagner</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 22:30:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/us/30pol-paxton-talarico/30pol-paxton-talarico-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Antranik Tavitian for The New York Times; Callaghan O&#39;Hare for The New York Times</media:credit>
-      <media:description>Ken Paxton and James Talarico are locked in a competitive race for Senate in Texas. </media:description>
+      <title>U.S. Lifts Restrictions on Anthropic’s Most Powerful A.I. Models</title>
+      <link>https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/technology/us-lifts-restrictions-anthropic.html" rel="standout"></atom:link>
+      <description>The move allows Anthropic to bring its most powerful technologies back online, de-escalating a feud with the Trump administration.</description>
+      <dc:creator>Sheera Frenkel and Ana Swanson</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 03:17:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30BIZ-ANTHROPIC-gjtq/30BIZ-ANTHROPIC-gjtq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Anthropic’s Code With Claude event in San Francisco last month. Federal restrictions were lifted on Tuesday from the company’s Claude Mythos and Claude Fable A.I. models.</media:description>
     </item>
     <item>
-      <title>Trump Announces Republican Midterm Convention in Dallas, Texas</title>
-      <link>https://www.nytimes.com/2026/06/30/us/politics/trump-republican-midterm-convention-dallas-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/trump-republican-midterm-convention-dallas-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/trump-republican-midterm-convention-dallas-texas.html" rel="standout"></atom:link>
-      <description>Parties normally hold conventions only in presidential years, but President Trump liked the idea of mobilizing Republicans this fall.</description>
-      <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 21:47:07 +0000</pubDate>
+      <title>G.O.P. Revolt Paralyzes the House, Stalling Trump Agenda</title>
+      <link>https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/republicans-house-defense-elections-save-america.html" rel="standout"></atom:link>
+      <description>A Republican blockade derailed a Pentagon policy bill and other legislation as the far right pressed for action on a voting bill championed by President Trump.</description>
+      <dc:creator>Robert Jimison, Carl Hulse and Michael Gold</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 00:40:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Republican National Convention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Mike (1972- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/00pol-gop-convention-mphq/00pol-gop-convention-mphq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Desiree Rios for The New York Times</media:credit>
-      <media:description>Dallas will be the site of Republican efforts to mobilize ahead of the Nov. 3 midterm elections.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luna, Anna Paulina</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30dc-cong-new-qcmf/30dc-cong-new-qcmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>Speaker Mike Johnson at the Capitol on Tuesday.</media:description>
     </item>
     <item>
-      <title>What to Watch in Colorado Primary Elections: Will Left-Wing Energy Keep Rising?</title>
-      <link>https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/colorado-primaries-what-to-watch.html" rel="standout"></atom:link>
-      <description>Primaries on Tuesday will be the latest test of Democrats’ anti-establishment mood.</description>
-      <dc:creator>Reid J. Epstein</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 22:14:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weiser, Philip J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennet, Michael Farrand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeGette, Diana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Evans, Gabe (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hickenlooper, John W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/us/29pol-on-politics-newsletter/29pol-on-politics-newsletter-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>Chet Strange for The New York Times; David Zalubowski/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Texas Is a Tossup. The Times/Siena Poll Points to How It Got There.</title>
-      <link>https://www.nytimes.com/2026/06/30/upshot/texas-poll-talarico-paxton.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/upshot/texas-poll-talarico-paxton.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/upshot/texas-poll-talarico-paxton.html" rel="standout"></atom:link>
-      <description>A major shift among Hispanic voters and a favorable candidate matchup have helped put Democrats on the doorstep of a Senate upset.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 14:14:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics (Personal)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/00up-talarico-tilt-jfmz/00up-talarico-tilt-jfmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Antranik Tavitian for The New York Times</media:credit>
-      <media:description>James Talarico received positive ratings on every question asked in the survey. </media:description>
-    </item>
-    <item>
-      <title>Stocks Notch Strongest Quarter Since 2020</title>
-      <link>https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/business/oil-gas-prices-iran.html" rel="standout"></atom:link>
-      <description>The S&amp;P 500 rose almost 15 percent for the three months through June, and many stock analysts remain optimistic that corporate earnings driven by artificial intelligence will keep growing.</description>
-      <dc:creator>Joe Rennison</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 20:45:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/2026-06-biz-june-promos-stocks-quarter/2026-06-biz-june-promos-stocks-quarter-mediumSquareAt3X.png" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <title>Judges Strike Down Trump Rule on Loan Forgiveness for Public Servants</title>
+      <link>https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html" rel="standout"></atom:link>
+      <description>Two federal courts have blocked a new Trump administration rule that could have narrowed eligibility for a student loan forgiveness program for public servants.</description>
+      <dc:creator>Tara Siegel Bernard</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 01:59:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30Biz-PSLF-Ruling-mfch/30Biz-PSLF-Ruling-mfch-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Erin Schaff/The New York Times</media:credit>
+      <media:description>Many public servants have staked their financial futures on the loan forgiveness program. Being disqualified could have potentially upended their finances.</media:description>
     </item>
     <item>
       <title>Record-Breaking Heat Wave Expected to Hit New York City Ahead of July 4 Weekend</title>
@@ -449,7 +424,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/world/americas/trump-machado-venezuela-rift.html" rel="standout"></atom:link>
       <description>U.S. officials called a bid by María Corina Machado, the Nobel Peace Prize winner, to return to earthquake-battered Venezuela a “political stunt” that has distracted from recovery efforts.</description>
       <dc:creator>Anatoly Kurmanaev and Tyler Pager</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 23:18:42 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 01:48:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
@@ -489,22 +464,6 @@
       <media:description>Collapsed buildings in La Guaira, Venezuela, on Monday. The death toll is above 1,900.</media:description>
     </item>
     <item>
-      <title>The Prom Went On in Kyiv, but Masha’s Date Danced Alone</title>
-      <link>https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/world/europe/russia-ukraine-prom.html" rel="standout"></atom:link>
-      <description>Masha Polska, 15, was an avid dancer who had been dreaming of a star turn in the group waltz. That was not to be.</description>
-      <dc:creator>Siobhán O’Grady, Liubov Sholudko and Oksana Parafeniuk</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 20:50:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Proms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Performance Art</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/30int-ukraine-prom-hfmw/30int-ukraine-prom-hfmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Yehor Holodryha, center, and classmates of Masha Polska dancing the waltz at their prom in Kyiv, Ukraine, in June.</media:description>
-    </item>
-    <item>
       <title>The Dress Code for Taylor Swift and Travis Kelce’s Wedding? Expect a Black-Tie Event.</title>
       <link>https://www.nytimes.com/2026/06/30/style/taylor-swift-wedding-kelce-dress-code.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/style/taylor-swift-wedding-kelce-dress-code.html</guid>
@@ -515,7 +474,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30ST-TNT-DRESSCODE-bkmh/30ST-TNT-DRESSCODE-bkmh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30ST-TNT-DRESSCODE-bkmh/30ST-TNT-DRESSCODE-bkmh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Gareth Cattermole/TAS24, via Getty Images</media:credit>
       <media:description>Travis Kelce’s white-tie ensemble here would be a touch too formal for a black-tie event.</media:description>
     </item>
@@ -526,7 +485,7 @@
       <atom:link href="https://www.nytimes.com/2026/06/30/opinion/america-250-us-liberty-learned-hand.html" rel="standout"></atom:link>
       <description>It’s time to update Learned Hand’s great “Spirit of Liberty” address.</description>
       <dc:creator>Bret Stephens</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 00:10:15 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 00:10:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
@@ -538,25 +497,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
     </item>
     <item>
-      <title>The Supreme Court Gets Birthright Citizenship Right</title>
-      <link>https://www.nytimes.com/2026/06/30/opinion/supreme-court-birthright-citizenship-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/opinion/supreme-court-birthright-citizenship-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/opinion/supreme-court-birthright-citizenship-trump.html" rel="standout"></atom:link>
-      <description>The Constitution is clear. People who are born in this country and subject to its laws are citizens.</description>
-      <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 17:50:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fourteenth Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/opinion/30birthright-editorial/30birthright-editorial-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
+      <title>How to World Cup</title>
+      <link>https://www.nytimes.com/2026/07/01/opinion/world-cup-soccer-football.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/opinion/world-cup-soccer-football.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/opinion/world-cup-soccer-football.html" rel="standout"></atom:link>
+      <description>New to soccer? You’re welcome here.</description>
+      <dc:creator>Roger Bennett</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 05:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ronaldo, Cristiano</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Messi, Lionel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Verde</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ghana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Men&#39;s National Soccer Team</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
     </item>
     <item>
       <title>During Traffic Stop, N.F.L. Reporter Appeared to Show Off Her Access</title>

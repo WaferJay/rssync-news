@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Wed, 01 Jul 2026 01:36:08 GMT</lastBuildDate>
+<lastBuildDate>Wed, 01 Jul 2026 06:48:15 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -67,17 +67,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003700862</guid>
-<title>The U.S. Added 1,200 New Millionaires a Day Last Year</title>
-<description>Soaring financial markets are a big reason Americans make up nearly half the world&#x2019;s new millionaires.</description>
-<link>https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f?mod=rss_markets_main</link>
-<pubDate>Tue, 30 Jun 2026 20:05:00 GMT</pubDate>
-<dc:creator>Miriam Gottfried</dc:creator>
-<media:content url="https://images.wsj.net/im-72797680" medium="image" type="image/jpeg">
-<media:credit>Source: UBS Global Wealth Report 2026</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003697872</guid>
 <title>Warsh Wants the Fed to Talk Less. That Only Gets Wall Street to Listen Harder.</title>
 <description>Investors are trying to get a read on the new chairman even as he seeks to limit communication so markets can respond independently to economic data.</description>
@@ -86,6 +75,17 @@
 <dc:creator>Sam Goldfarb</dc:creator>
 <media:content url="https://images.wsj.net/im-02899138" medium="image" type="image/jpeg">
 <media:credit>Michael Nagle/Bloomberg News</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003700173</guid>
+<title>Insiders Made $100 Million on China Brokerage Crackdown, Trading Firm Alleges</title>
+<description>Susquehanna has filed a lawsuit seeking to unmask the traders who bet on a drop in Futu and Tiger Brokers stock.</description>
+<link>https://www.wsj.com/finance/stocks/insiders-made-100-million-on-china-brokerage-crackdown-trading-firm-alleges-b3f5b957?mod=rss_markets_main</link>
+<pubDate>Tue, 30 Jun 2026 17:15:00 GMT</pubDate>
+<dc:creator>Alexander Osipovich</dc:creator>
+<media:content url="https://images.wsj.net/im-67707148" medium="image" type="image/jpeg">
+<media:credit>Lam Yik/Bloomberg</media:credit>
 </media:content>
 </item>
 <item>
@@ -201,10 +201,21 @@
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003701782</guid>
-<title>JGBs Fall, Tracking Declines in U.S. Treasurys</title>
-<description>JGBs fell in the morning Tokyo session, tracking overnight price declines in U.S. Treasurys.</description>
+<title>U.S. Two-Year, 10-Year Treasury Yields Hit One-Week High</title>
+<description>Treasury yields hit one-week highs in Asian trade before easing slightly, pointing to a solid U.S. economy coupled with inflationary pressure.</description>
 <link>https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-ff5b8ed9?mod=rss_markets_main</link>
-<pubDate>Wed, 01 Jul 2026 00:48:00 GMT</pubDate>
+<pubDate>Wed, 01 Jul 2026 06:04:00 GMT</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003702077</guid>
+<title>KKR, SK to Jointly Launch $1.30 Billion Renewable-Energy Platform</title>
+<description>The platform, said to be Korea&#x2019;s largest for renewable energy, will have around 1.7 gigawatts of capacity currently in operation and a development pipeline that would raise its total capacity to 10 gigawatts.</description>
+<link>https://www.wsj.com/finance/investing/kkr-sk-to-jointly-launch-1-30-billion-renewable-energy-platform-1f53dff2?mod=rss_markets_main</link>
+<pubDate>Wed, 01 Jul 2026 03:44:00 GMT</pubDate>
+<dc:creator>Megan Cheah</dc:creator>
+<media:content url="https://images.wsj.net/im-52293223" medium="image" type="image/jpeg">
+<media:credit>Brendan McDermid/Reuters</media:credit>
+</media:content>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003699783</guid>
@@ -257,17 +268,6 @@
 <dc:creator>Anvee Bhutani</dc:creator>
 <media:content url="https://images.wsj.net/im-08884974" medium="image" type="image/jpeg">
 <media:credit>Michael M. Santiago/Getty Images</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003700173</guid>
-<title>Insiders Made $100 Million on China Brokerage Crackdown, Trading Firm Alleges</title>
-<description>Susquehanna has filed a lawsuit seeking to unmask the traders who bet on a drop in Futu and Tiger Brokers stock.</description>
-<link>https://www.wsj.com/finance/stocks/insiders-made-100-million-on-china-brokerage-crackdown-trading-firm-alleges-b3f5b957?mod=rss_markets_main</link>
-<pubDate>Tue, 30 Jun 2026 17:15:00 GMT</pubDate>
-<dc:creator>Alexander Osipovich</dc:creator>
-<media:content url="https://images.wsj.net/im-67707148" medium="image" type="image/jpeg">
-<media:credit>Lam Yik/Bloomberg</media:credit>
 </media:content>
 </item>
 <item>
@@ -368,6 +368,13 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003701821</guid>
+<title>Gold Holds Steady in Bearish Consolidation Zone</title>
+<description>Gold held steady in early Asian trade. The yellow metal has now entered a medium-term bearish consolidation zone below $4,115 an ounce, Swissquote Bank said.</description>
+<link>https://www.wsj.com/finance/commodities-futures/gold-holds-steady-in-bearish-consolidation-zone-97e170d4?mod=rss_markets_main</link>
+<pubDate>Wed, 01 Jul 2026 01:42:00 GMT</pubDate>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003701610</guid>
 <title>Oil Futures Rise on Possible Technical Recovery</title>
 <description>Oil futures rose in early Asian trade on a possible technical recovery after the futures posted their sharpest quarterly drop since 2020 on Tuesday.</description>
@@ -402,18 +409,22 @@
 <pubDate>Tue, 30 Jun 2026 19:18:00 GMT</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003699679</guid>
-<title>U.S. Natural Gas Futures Rise on Weather-Driven Demand</title>
-<description>U.S. natural gas futures picked up from two sessions of losses as a heat wave across much of the U.S. lifted demand, coupled with rising LNG exports.</description>
-<link>https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-pick-up-along-with-heat-ed2bb892?mod=rss_markets_main</link>
-<pubDate>Tue, 30 Jun 2026 19:15:00 GMT</pubDate>
+<guid isPermaLink="false">WP-WSJ-0003701771</guid>
+<title>Prospect of Yen Intervention May Ride on US Jobs Data</title>
+<description>Despite the dollar/yen pair trading near multi-decade highs, another round of FX intervention doesn&#x2019;t appear imminent, according to the Commonwealth Bank.</description>
+<link>https://www.wsj.com/finance/currencies/yen-weakens-vs-dollar-market-remains-on-alert-for-possible-fx-intervention-e1cac3ac?mod=rss_markets_main</link>
+<pubDate>Wed, 01 Jul 2026 06:01:00 GMT</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003701771</guid>
-<title>Yen Weakens Vs. Dollar; Market Remains on Alert for Possible FX Intervention</title>
-<description>The yen weakened against the dollar in early trade, with the market remaining on alert for possible FX intervention.</description>
-<link>https://www.wsj.com/finance/currencies/yen-weakens-vs-dollar-market-remains-on-alert-for-possible-fx-intervention-e1cac3ac?mod=rss_markets_main</link>
-<pubDate>Wed, 01 Jul 2026 00:45:00 GMT</pubDate>
+<guid isPermaLink="false">WP-WSJ-0003701901</guid>
+<title>Yen Hits Fresh 40-Year Low Versus Dollar</title>
+<description>The yen hit a fresh 40-year low against the dollar in Asia on Wednesday, keeping traders on high alert for possible currency intervention by the Japanese government.</description>
+<link>https://www.wsj.com/finance/currencies/yen-hits-fresh-40-year-low-versus-dollar-traders-alert-for-possible-fx-intervention-a4157861?mod=rss_markets_main</link>
+<pubDate>Wed, 01 Jul 2026 05:11:00 GMT</pubDate>
+<dc:creator>Ronnie Harui</dc:creator>
+<media:content url="https://images.wsj.net/im-53870029" medium="image" type="image/jpeg">
+<media:credit>richard a. brooks/Agence France-Presse/Getty Images</media:credit>
+</media:content>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003698753</guid>
@@ -443,17 +454,6 @@
 <dc:creator>Ronnie Harui</dc:creator>
 <media:content url="https://images.wsj.net/im-73850929" medium="image" type="image/jpeg">
 <media:credit>Dado Ruvic/Reuters</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003698394</guid>
-<title>Strategy Abandons &#x2018;Never Sell Bitcoin&#x2019; Mantra in Bid to Outlast Crypto Winter</title>
-<description>Left with few good options, Michael Saylor&#x2019;s company &#x201c;kicked the can down the road&#x201d; with plans for stock buybacks and bitcoin sales.</description>
-<link>https://www.wsj.com/finance/currencies/strategy-abandons-never-sell-bitcoin-mantra-in-bid-to-outlast-crypto-winter-b36e4c2f?mod=rss_markets_main</link>
-<pubDate>Tue, 30 Jun 2026 00:20:00 GMT</pubDate>
-<dc:creator>Vicky Ge Huang</dc:creator>
-<media:content url="https://images.wsj.net/im-71720563" medium="image" type="image/jpeg">
-<media:credit>Roger Kisby for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -515,6 +515,17 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003700862</guid>
+<title>The U.S. Added 1,200 New Millionaires a Day Last Year</title>
+<description>Soaring financial markets are a big reason Americans make up nearly half the world&#x2019;s new millionaires.</description>
+<link>https://www.wsj.com/finance/the-u-s-added-1-200-new-millionaires-a-day-last-year-d238830f?mod=rss_markets_main</link>
+<pubDate>Tue, 30 Jun 2026 20:05:00 GMT</pubDate>
+<dc:creator>Miriam Gottfried</dc:creator>
+<media:content url="https://images.wsj.net/im-72797680" medium="image" type="image/jpeg">
+<media:credit>Source: UBS Global Wealth Report 2026</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003692006</guid>
 <title>Could You Be Fooled by a Ponzi Scheme? You&#x2019;d Better Believe It</title>
 <description></description>
@@ -523,6 +534,17 @@
 <dc:creator>Jason Zweig</dc:creator>
 <media:content url="https://images.wsj.net/im-24610701" medium="image" type="image/jpeg">
 <media:credit>Nelson-Atkins Museum of Art via Wikimedia Commons</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003698394</guid>
+<title>Strategy Abandons &#x2018;Never Sell Bitcoin&#x2019; Mantra in Bid to Outlast Crypto Winter</title>
+<description>Left with few good options, Michael Saylor&#x2019;s company &#x201c;kicked the can down the road&#x201d; with plans for stock buybacks and bitcoin sales.</description>
+<link>https://www.wsj.com/finance/currencies/strategy-abandons-never-sell-bitcoin-mantra-in-bid-to-outlast-crypto-winter-b36e4c2f?mod=rss_markets_main</link>
+<pubDate>Tue, 30 Jun 2026 00:20:00 GMT</pubDate>
+<dc:creator>Vicky Ge Huang</dc:creator>
+<media:content url="https://images.wsj.net/im-71720563" medium="image" type="image/jpeg">
+<media:credit>Roger Kisby for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -546,29 +568,6 @@
 <dc:creator>Vicky Ge Huang</dc:creator>
 <media:content url="https://images.wsj.net/im-69792144" medium="image" type="image/jpeg">
 <media:credit>Roger Kisby for WSJ</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003696719</guid>
-<title>Comcast Splits as Lisa Cook Gets Reprieve</title>
-<description>Plus, tech stocks rebound and a pay-TV bankruptcy .</description>
-<link>https://www.wsj.com/finance/comcast-splits-as-lisa-cook-gets-reprieve-e2d06575?mod=rss_markets_main</link>
-<pubDate>Mon, 29 Jun 2026 20:39:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-17858131" medium="image" type="image/jpeg">
-<media:credit>bastiaan slabbers/Reuters</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003696996</guid>
-<title>Satellite Pay-TV Provider Dish DBS Prepares for Bankruptcy Filing</title>
-<description>The EchoStar unit is preparing for chapter 11 as soon as Tuesday, as it faces regulatory scrutiny over its network build-out.</description>
-<link>https://www.wsj.com/pro/bankruptcy/echostar-prepares-dish-dbs-bankruptcy-filing-as-soon-as-tuesday-b028dfe6?mod=rss_markets_main</link>
-<pubDate>Mon, 29 Jun 2026 20:38:00 GMT</pubDate>
-<dc:creator>Alexander Gladstone</dc:creator>
-<dc:creator>Alicia McElhaney</dc:creator>
-<dc:creator>Jodi Xu Klein</dc:creator>
-<media:content url="https://images.wsj.net/im-28705154" medium="image" type="image/jpeg">
-<media:credit>Paul Sakuma/Associated Press</media:credit>
 </media:content>
 </item>
 <item>
