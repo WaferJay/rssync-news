@@ -7,13 +7,24 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 13:40:48 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 12:29:29 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 16:41:46 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 16:29:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>SpudCell: Scientists Made a Cell With Most of the Hallmarks of Life. Here’s What to Know.</title>
+      <link>https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html" rel="standout"></atom:link>
+      <description>From why it was created to whether it’s alive, here’s what to know about SpudCell, the latest advance in synthetic biology.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 14:39:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Synthetic Biology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+    </item>
     <item>
       <title>Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon.</title>
       <link>https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html</link>
@@ -41,6 +52,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rubin, Vera C, Observatory</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/00rubin-video-02-tqwf-cover/00rubin-video-02-tqwf-cover-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA, via Associated Press</media:credit>
     </item>
@@ -111,25 +123,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
     </item>
     <item>
-      <title>Why the Venezuelan Earthquakes Happened, and What to Expect Next</title>
-      <link>https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html" rel="standout"></atom:link>
-      <description>Twin earthquakes like those that ripped through the region are unusual but not unheard of. Scientists are already gathering data needed for a more detailed picture.</description>
-      <dc:creator>Robin George Andrews</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 16:07:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25SCI-VENEZUELA-EARTHQUAKE-01-kbmt/25SCI-VENEZUELA-EARTHQUAKE-01-kbmt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Leonardo Fernandez Viloria/Reuters</media:credit>
-      <media:description>Emergency workers at the site of a collapsed building in Caracas on Thursday.</media:description>
-    </item>
-    <item>
       <title>Tickled Apes Reveal the Rhythmic Roots of Laughter</title>
       <link>https://www.nytimes.com/2026/06/25/science/evolution-laughter-apes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/science/evolution-laughter-apes.html</guid>
@@ -146,23 +139,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25SCI-APE-LAUGHTER-qjlb/25SCI-APE-LAUGHTER-qjlb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emil Lippe for The New York Times</media:credit>
       <media:description>All the planet’s great apes laugh, and they often do so in the same kind of regular, repeating rhythm that humans do, according to a new study.</media:description>
-    </item>
-    <item>
-      <title>These Birds’ Backflips Are Fueled by Sugar</title>
-      <link>https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html" rel="standout"></atom:link>
-      <description>An ancient dietary change made the manakin’s flashy courtship display possible, a new study suggests.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 09:01:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taste</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baldwin, Maude W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
     </item>
     <item>
       <title>Cheating Chickadees Are Seduced by Smarts</title>
@@ -424,6 +400,25 @@
       <media:description>Robert F. Kennedy Jr., seated, at a Senate confirmation hearing last year.</media:description>
     </item>
     <item>
+      <title>Why the Venezuelan Earthquakes Happened, and What to Expect Next</title>
+      <link>https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html" rel="standout"></atom:link>
+      <description>Twin earthquakes like those that ripped through the region are unusual but not unheard of. Scientists are already gathering data needed for a more detailed picture.</description>
+      <dc:creator>Robin George Andrews</dc:creator>
+      <pubDate>Thu, 25 Jun 2026 16:07:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25SCI-VENEZUELA-EARTHQUAKE-01-kbmt/25SCI-VENEZUELA-EARTHQUAKE-01-kbmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Leonardo Fernandez Viloria/Reuters</media:credit>
+      <media:description>Emergency workers at the site of a collapsed building in Caracas on Thursday.</media:description>
+    </item>
+    <item>
       <title>Chemours to Pay $450M in First Federal PFAS Settlement</title>
       <link>https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html</guid>
@@ -467,6 +462,23 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/25/climate/25CLI-BIOBANK-01/25CLI-BIOBANK-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lenny Ignelzi/Associated Press</media:credit>
       <media:description>The Frozen Zoo in San Diego, which has been preserving cells for over 50 years. The U.S. Fish and Wildlife Service has announced a partnership with Colossal Biosciences for a similar effort.</media:description>
+    </item>
+    <item>
+      <title>These Birds’ Backflips Are Fueled by Sugar</title>
+      <link>https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html" rel="standout"></atom:link>
+      <description>An ancient dietary change made the manakin’s flashy courtship display possible, a new study suggests.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Thu, 25 Jun 2026 09:01:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taste</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baldwin, Maude W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
     </item>
     <item>
       <title>Shortage of Chemotherapy Drugs Brings Rationing Fears for Cancer Patients</title>
@@ -521,26 +533,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/24cli-hot-europe-cwmg/24cli-hot-europe-cwmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Toby Shepheard/Agence France-Presse &amp;mdash; Getty Images</media:credit>
       <media:description>Morning commuters on the London Bridge on Wednesday, where temperatures reached 96 degrees Fahrenheit, the hottest recorded June day in the United Kingdom.</media:description>
-    </item>
-    <item>
-      <title>The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?</title>
-      <link>https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html" rel="standout"></atom:link>
-      <description>Scientists believe that the Bundibugyo virus persists in an animal species, occasionally spilling over into humans. But they have yet to identify the species.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 15:04:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/00SCI-BAT-01-promo/00SCI-BAT-01-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michel Lunanga/Getty Images</media:credit>
     </item>
   </channel>
 </rss>
