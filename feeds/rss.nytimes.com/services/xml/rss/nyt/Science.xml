@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 01 Jul 2026 16:41:46 +0000</lastBuildDate>
-    <pubDate>Wed, 01 Jul 2026 16:29:43 +0000</pubDate>
+    <lastBuildDate>Wed, 01 Jul 2026 19:14:03 +0000</lastBuildDate>
+    <pubDate>Wed, 01 Jul 2026 19:13:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,9 +21,10 @@
       <atom:link href="https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html" rel="standout"></atom:link>
       <description>From why it was created to whether it’s alive, here’s what to know about SpudCell, the latest advance in synthetic biology.</description>
       <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 14:39:11 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 19:13:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Synthetic Biology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon.</title>
@@ -515,24 +516,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Physics (Journal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-    </item>
-    <item>
-      <title>Why Is Europe the Fastest-Warming Continent</title>
-      <link>https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/climate/europe-fastest-warming-continent.html" rel="standout"></atom:link>
-      <description>The burning of fossil fuels is raising temperatures worldwide, but local factors, on land and at sea, determine which regions warm most rapidly.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 17:59:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/24cli-hot-europe-cwmg/24cli-hot-europe-cwmg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Toby Shepheard/Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>Morning commuters on the London Bridge on Wednesday, where temperatures reached 96 degrees Fahrenheit, the hottest recorded June day in the United Kingdom.</media:description>
     </item>
   </channel>
 </rss>
