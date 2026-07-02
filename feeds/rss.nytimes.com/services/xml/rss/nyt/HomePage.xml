@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 06:11:44 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 05:31:41 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:37:39 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 09:04:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>Drones over Europe raise concerns about Russian activities</title>
+      <link>https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/world/europe/drone-incursions-europe-russia.html" rel="standout"></atom:link>
+      <description>A new study, backed up by analysts and political leaders, says frequent drone flights over NATO military assets mark a Russian campaign to probe defenses and gather information.</description>
+      <dc:creator>Nicholas Kulish and Lara Jakes</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 08:30:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Institute for Strategic Studies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltic Sea</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/00int-DRONE-INCURSION-cqfj/00int-DRONE-INCURSION-cqfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andreea Campeanu for The New York Times</media:credit>
+      <media:description>A building that was struck by a Russian attack drone in Galati, eastern Romania, in May. Reconnaissance drone flights in Western Europe are a different kind of problem that experts say reflects a systematic Russian campaign.</media:description>
+    </item>
     <item>
       <title>Crypto Brought Trump a Huge Windfall, Even as Many Investors Lost Big</title>
       <link>https://www.nytimes.com/2026/07/01/us/politics/trump-crypto-memecoin-world-liberty.html</link>
@@ -79,26 +99,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-trump-conflicts-wfkt/01dc-trump-conflicts-wfkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump’s financial investments have vastly escalated during this second term.</media:description>
-    </item>
-    <item>
-      <title>Russia Strikes Ukraine as Explosions Rock Capital of Kyiv</title>
-      <link>https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html" rel="standout"></atom:link>
-      <description>At least 10 people were killed in the assault, which began hours after President Volodymyr Zelensky of Ukraine warned that Russia was preparing another “massive strike” on Kyiv.</description>
-      <dc:creator>Cassandra Vinograd</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 04:11:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-ukraine-attack-lkzf/02int-ukraine-attack-lkzf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
-      <media:description>Rescuers on Thursday at an apartment building in Kyiv that was damaged in overnight Russian strikes.</media:description>
     </item>
     <item>
       <title>Promising Much to Many, Johnson Loses His Grip on the House</title>
@@ -346,7 +346,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/01/nyregion/taylor-swift-wedding-police-roads.html" rel="standout"></atom:link>
       <description>Law enforcement officials in the city are preparing to monitor the pop star’s two-day event at Madison Square Garden, and several streets in the area will be closed.</description>
       <dc:creator>Maria Cramer, Chelsia Rose Marcius and Emma G. Fitzsimmons</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 21:04:05 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 21:04:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelce, Travis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
@@ -356,6 +356,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1359" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01met-tnt-security-czjp/01met-tnt-security-czjp-mediumSquareAt3X.jpg" width="1359"></media:content>
       <media:credit>Frank Franklin II/Associated Press</media:credit>
       <media:description>Taylor Swift and Travis Kelce’s plans are expected to require hundreds of police officers.</media:description>
@@ -519,50 +520,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
     </item>
     <item>
-      <title>The World Has Failed the Uyghurs</title>
-      <link>https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html" rel="standout"></atom:link>
-      <description>If the global community can’t stop China’s atrocities against the Uyghurs, it must help us keep our culture alive in exile.</description>
-      <dc:creator>Tahir Imin</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 05:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forced Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
-    </item>
-    <item>
-      <title>U.S.A.I.D. Cuts Killed People. That’s the Truth.</title>
-      <link>https://www.nytimes.com/2026/07/01/opinion/usaid-elon-musk-doge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/opinion/usaid-elon-musk-doge.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/opinion/usaid-elon-musk-doge.html" rel="standout"></atom:link>
-      <description>Musk insists that his demolition of humanitarian aid didn’t cost lives. So I propose he take a trip with me.</description>
-      <dc:creator>Nicholas Kristof</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 21:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lancet, The (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khanna, Ro</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Sudan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Somalia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mozambique</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/01kristof-cplz/01kristof-cplz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Saidu Bah for The New York Times</media:credit>
-      <media:description>Moriba Freeman’s pregnant daughter, Yamah Freeman, in yellow, bled to death en route to a hospital.</media:description>
+      <title>The Transgender Sports Decision Was About Something Deeper Than Law</title>
+      <link>https://www.nytimes.com/2026/07/02/opinion/trans-athletes-sports-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/opinion/trans-athletes-sports-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/opinion/trans-athletes-sports-supreme-court.html" rel="standout"></atom:link>
+      <description>It’s never just a game.</description>
+      <dc:creator>M. Gessen</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 09:04:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interscholastic Athletics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pepper-Jackson, Becky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sotomayor, Sonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/opinion/05gessen/02gessen-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Paul Burnham Schwartz for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

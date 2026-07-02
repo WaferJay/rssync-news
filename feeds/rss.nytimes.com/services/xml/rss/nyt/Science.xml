@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 06:13:07 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 03:27:43 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 09:39:49 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 09:06:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -134,6 +134,37 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Acoustics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+    </item>
+    <item>
+      <title>Scientists React to the Lab-Made, Yet Lifelike, SpudCell</title>
+      <link>https://www.nytimes.com/2026/07/02/science/spudcell-scientists-reaction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/science/spudcell-scientists-reaction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/science/spudcell-scientists-reaction.html" rel="standout"></atom:link>
+      <description>This cell-like structure can grow, feed, divide and compete. Researchers ponder what it means for the future of synthetic biology and our definition of “life.”</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 09:03:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Synthetic Biology</category>
+      <category domain="">SpudCell</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+    </item>
+    <item>
+      <title>How to Make a Time Capsule That Will Last 250 Years</title>
+      <link>https://www.nytimes.com/2026/07/02/science/america250-time-capsule.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/science/america250-time-capsule.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/science/america250-time-capsule.html" rel="standout"></atom:link>
+      <description>The America250 time capsule will hold dozens of historical treasures. Avoiding dampness and other dangers requires lots of engineering.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 09:01:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">America250</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Semiquincentennial Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Time Capsules</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Standards and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30SCI-TIMECAPSULE-01-bzkh/30SCI-TIMECAPSULE-01-bzkh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>NIST</media:credit>
+      <media:description>Sarah Reeves places items into a time capsule at National Institute of Standards and Technology in Gaithersburg, Md. The capsule will be buried in Philadelphia on July 4.</media:description>
     </item>
     <item>
       <title>Trump Administration Delivers Lucrative Win for Its Kratom Allies</title>
@@ -503,23 +534,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/25/climate/25CLI-BIOBANK-01/25CLI-BIOBANK-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lenny Ignelzi/Associated Press</media:credit>
       <media:description>The Frozen Zoo in San Diego, which has been preserving cells for over 50 years. The U.S. Fish and Wildlife Service has announced a partnership with Colossal Biosciences for a similar effort.</media:description>
-    </item>
-    <item>
-      <title>These Birds’ Backflips Are Fueled by Sugar</title>
-      <link>https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/science/genetics-birds-manakins.html" rel="standout"></atom:link>
-      <description>An ancient dietary change made the manakin’s flashy courtship display possible, a new study suggests.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 09:01:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taste</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evolution (Biology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baldwin, Maude W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central America</category>
     </item>
   </channel>
 </rss>
