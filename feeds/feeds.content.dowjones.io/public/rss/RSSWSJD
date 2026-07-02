@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/tech</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Thu, 02 Jul 2026 09:38:54 GMT</lastBuildDate>
+<lastBuildDate>Thu, 02 Jul 2026 12:23:25 GMT</lastBuildDate>
 <image>
 <title>Technology - WSJ.com</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -84,6 +84,28 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003705822</guid>
+<title>SKF Forms Robotics JV With Leaderdrive in China</title>
+<description>The Swedish company will hold a 60% stake in the venture, which will produce high-precision transmission components for the moveable joints in humanoid robots.</description>
+<link>https://www.wsj.com/business/skf-forms-robotics-jv-with-leaderdrive-in-china-818ab639?mod=rss_Technology</link>
+<pubDate>Thu, 02 Jul 2026 12:09:00 GMT</pubDate>
+<dc:creator>Dominic Chopping</dc:creator>
+<media:content url="https://images.wsj.net/im-66654906" medium="image" type="image/jpeg">
+<media:credit>guillaume souvant/Agence France-Presse/Getty Images</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003705786</guid>
+<title>SAP Seeks to Rein In Costs to Focus on AI Investments</title>
+<description>SAP said it would exercise greater discipline when it comes to hiring and travel expenses as it seeks to redeploy workers in roles where they can make better use of AI.</description>
+<link>https://www.wsj.com/tech/ai/sap-seeks-to-rein-in-costs-to-focus-on-ai-investments-7754dd97?mod=rss_Technology</link>
+<pubDate>Thu, 02 Jul 2026 11:45:00 GMT</pubDate>
+<dc:creator>Mauro Orru</dc:creator>
+<media:content url="https://images.wsj.net/im-04497577" medium="image" type="image/jpeg">
+<media:credit>Krisztian Bocsi/Bloomberg News</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003696851</guid>
 <title>How Companies Are Managing AI Token Spend</title>
 <description>The growing use of AI agents is set to increase corporate AI token spend, and some companies are using techniques from the cloud era to control costs.</description>
@@ -115,28 +137,6 @@
 <dc:creator>Demetria Gallegos</dc:creator>
 <media:content url="https://images.wsj.net/im-69690071" medium="image" type="image/jpeg">
 <media:credit>Studio Ianus for WSJ</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003683436</guid>
-<title>AI Data Centers Have Been Great for the Steel Industry. Now, a Power Crisis Looms.</title>
-<description>Steelmakers have warned of competition for electricity from their newest big customer.</description>
-<link>https://www.wsj.com/business/energy-oil/ai-data-centers-power-competition-steel-48a17dbd?mod=rss_Technology</link>
-<pubDate>Mon, 29 Jun 2026 16:34:00 GMT</pubDate>
-<dc:creator>Bob Tita</dc:creator>
-<media:content url="https://images.wsj.net/im-51971963" medium="image" type="image/jpeg">
-<media:credit>Rebecca Kiger for WSJ</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003439234</guid>
-<title>Is an AI Jobs Apocalypse Coming? Three Economists Square Off</title>
-<description>The predictions are all over the place. Why do the optimists and pessimists see the same data&#x2014;and come to such widely different conclusions?</description>
-<link>https://www.wsj.com/economy/jobs/ai-jobs-economists-f787105d?mod=rss_Technology</link>
-<pubDate>Sun, 28 Jun 2026 17:00:00 GMT</pubDate>
-<dc:creator>George Anders</dc:creator>
-<media:content url="https://images.wsj.net/im-82127233" medium="image" type="image/jpeg">
-<media:credit>Carl Godfrey for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -378,18 +378,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003701537</guid>
-<title>Anthropic Reaches Deal With Trump Administration to Restore Access to Fable AI Model</title>
-<description>The model has been shut down for 2&#xbd; weeks due to security concerns, roiling the artificial-intelligence industry.</description>
-<link>https://www.wsj.com/tech/ai/anthropic-nears-deal-with-trump-administration-to-restore-access-to-fable-ai-model-6f4177f3?mod=rss_Technology</link>
-<pubDate>Wed, 01 Jul 2026 03:46:00 GMT</pubDate>
-<dc:creator>Amrith Ramkumar</dc:creator>
-<dc:creator>Robert McMillan</dc:creator>
-<media:content url="https://images.wsj.net/im-39967780" medium="image" type="image/jpeg">
-<media:credit>Jason Henry for WSJ</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003704704</guid>
 <title>The Anthropic Fable Ban Is Over. The Battle Over How to Tame AI Has Just Begun.</title>
 <description>Washington&#x2019;s move to unblock Anthropic&#x2019;s model underscores America&#x2019;s divisions over how to regulate cutting-edge technology.</description>
@@ -399,6 +387,18 @@
 <dc:creator>Meghan Bobrowsky</dc:creator>
 <dc:creator>Sam Schechner</dc:creator>
 <media:content url="https://images.wsj.net/im-53498646" medium="image" type="image/jpeg">
+<media:credit>Jason Henry for WSJ</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003701537</guid>
+<title>Anthropic Reaches Deal With Trump Administration to Restore Access to Fable AI Model</title>
+<description>The model has been shut down for 2&#xbd; weeks due to security concerns, roiling the artificial-intelligence industry.</description>
+<link>https://www.wsj.com/tech/ai/anthropic-nears-deal-with-trump-administration-to-restore-access-to-fable-ai-model-6f4177f3?mod=rss_Technology</link>
+<pubDate>Wed, 01 Jul 2026 03:46:00 GMT</pubDate>
+<dc:creator>Amrith Ramkumar</dc:creator>
+<dc:creator>Robert McMillan</dc:creator>
+<media:content url="https://images.wsj.net/im-39967780" medium="image" type="image/jpeg">
 <media:credit>Jason Henry for WSJ</media:credit>
 </media:content>
 </item>

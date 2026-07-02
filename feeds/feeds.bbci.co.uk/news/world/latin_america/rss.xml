@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world/latin_america</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 02 Jul 2026 09:39:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jul 2026 12:23:53 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Rescuers inch closer to quake survivor after eight days - and he's cheering them on]]></title>
+            <description><![CDATA[Emergency workers have been trying to free Hernán Gil, who has been given an intravenous drip, for more than 100 hours.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce375v12z0qo#0</guid>
+            <pubDate>Thu, 02 Jul 2026 12:11:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4527/live/b16a4ff0-7603-11f1-b409-f16cfa99a4ec.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth']]></title>
             <description><![CDATA[Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.]]></description>
@@ -39,28 +47,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4da/live/64317d10-757e-11f1-b1b0-0d044d289b5c.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why the expected fight over the North American trade deal never kicked off]]></title>
+            <description><![CDATA[The US has confirmed it will not extend the agreement for another 16 years, but stopped short of more dramatic action.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c70yd58y27yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c70yd58y27yo#0</guid>
+            <pubDate>Thu, 02 Jul 2026 10:24:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74d8/live/fc2ae000-75fd-11f1-b409-f16cfa99a4ec.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Four die in Mexico City World Cup celebrations]]></title>
             <description><![CDATA[More than one million people took to the streets of Mexico's capital on Tuesday to mark the country's win over Ecuador.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cx2xjwj8p39o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2xjwj8p39o#0</guid>
             <pubDate>Wed, 01 Jul 2026 20:15:59 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0105/live/e4a221e0-7545-11f1-b976-0b9c15b0ccfc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Angry Venezuelans accuse government of negligence over earthquake response]]></title>
-            <description><![CDATA[People in areas devastated by twin earthquakes say they need more support from the government.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yzd18dxzxo#0</guid>
-            <pubDate>Tue, 30 Jun 2026 03:53:48 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8b/live/a59aec20-742d-11f1-8e1d-bbbb1017d210.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Aftershock frays nerves as many Venezuelans left to fend for themselves]]></title>
-            <description><![CDATA[In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj1210rj0yo#0</guid>
-            <pubDate>Tue, 30 Jun 2026 04:21:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png"/>
         </item>
         <item>
             <title><![CDATA[What you need to know about England's last-16 opponents Mexico]]></title>
@@ -111,12 +111,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d132/live/e0569df0-7473-11f1-b8da-6d87dfdc4508.jpg"/>
         </item>
         <item>
-            <title><![CDATA[What to know about the looming  deadline on North American free trade ]]></title>
-            <description><![CDATA[The US, Canada and Mexico were to reach an agreement on whether to extend their free trade pact by 1 July. All signs point to them blowing past that deadline. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/czdejmqmrdgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czdejmqmrdgo#2</guid>
-            <pubDate>Tue, 30 Jun 2026 17:44:15 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b68/live/f318e4c0-73f6-11f1-bb7f-e5226e63ffb3.jpg"/>
+            <title><![CDATA[Angry Venezuelans accuse government of negligence over earthquake response]]></title>
+            <description><![CDATA[People in areas devastated by twin earthquakes say they need more support from the government.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yzd18dxzxo#2</guid>
+            <pubDate>Tue, 30 Jun 2026 03:53:48 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8b/live/a59aec20-742d-11f1-8e1d-bbbb1017d210.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Aftershock frays nerves as many Venezuelans left to fend for themselves]]></title>
+            <description><![CDATA[In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqj1210rj0yo#2</guid>
+            <pubDate>Tue, 30 Jun 2026 04:21:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png"/>
         </item>
         <item>
             <title><![CDATA[Mum rescued from Venezuela rubble with newborn baby tells BBC how he helped her survive]]></title>
@@ -149,14 +157,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8l451420zo#2</guid>
             <pubDate>Sat, 27 Jun 2026 21:12:51 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed06/live/688ed510-724f-11f1-b46f-17a6b71f4bc4.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[In Caracas, this feels like the hardest moment in Venezuela's modern history]]></title>
-            <description><![CDATA[Rescue teams are working ceaselessly to reach those trapped under rubble. But as hope fades, anger is growing.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdjk8zwe7z3o#2</guid>
-            <pubDate>Sat, 27 Jun 2026 14:22:37 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb6d/live/7f94e2a0-722b-11f1-b6b6-39a51194ddf9.jpg"/>
         </item>
         <item>
             <title><![CDATA[Families search for earthquake survivors in one of Venezuela's hardest hit areas]]></title>
