@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 17:05:57 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 16:29:40 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:50:41 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 17:25:24 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -138,6 +138,22 @@
       <media:content height="1346" medium="image" url="https://static01.nyt.com/images/2026/06/22/science/22SCI-NewSpider/22SCI-NewSpider-mediumSquareAt3X.jpg" width="1346"></media:content>
       <media:credit>Ajay Narendra et al., Current Biology</media:credit>
       <media:description>A newly described Australian ballista spider waiting to catch an ant in its snare.</media:description>
+    </item>
+    <item>
+      <title>See How Europe’s Heat Waves Melted the Alps’ Glaciers</title>
+      <link>https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html" rel="standout"></atom:link>
+      <description>The snowfall from last winter disappeared a month sooner than usual, after two early hot spells. Huge volumes of exposed ice are now starting to vanish.</description>
+      <dc:creator>Raymond Zhong and Mira Rojanasakul</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 17:25:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-hotglaciers-kqtz/02cli-hotglaciers-kqtz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Rhône Glacier in the Swiss Alps in 2025. The melting is already at levels typical of the end of summer.</media:description>
     </item>
     <item>
       <title>Trump Administration Delivers Lucrative Win for Its Kratom Allies</title>
@@ -431,30 +447,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25cli-newsletter-london-01-cvtp/25cli-newsletter-london-01-cvtp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Yui Mok</media:credit>
       <media:description>King Charles III at a London Climate Week reception on Wednesday at St. James’s Palace.</media:description>
-    </item>
-    <item>
-      <title>Inside the C.D.C.’s Mad Scramble to Meet Kennedy’s Demands</title>
-      <link>https://www.nytimes.com/2026/06/25/us/politics/kennedy-cdc-emails.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/us/politics/kennedy-cdc-emails.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/us/politics/kennedy-cdc-emails.html" rel="standout"></atom:link>
-      <description>A cache of internal emails offers a look at the pressure the nation’s public health officials faced from the new health secretary in the early months of the Trump administration.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 21:18:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Monarez, Susan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Houry, Debra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Health, Education, Labor and Pensions</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25dc-rfk-cdc-emails-photo-hlgm/25dc-rfk-cdc-emails-photo-hlgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang for The New York Times</media:credit>
-      <media:description>Robert F. Kennedy Jr., seated, at a Senate confirmation hearing last year.</media:description>
     </item>
   </channel>
 </rss>

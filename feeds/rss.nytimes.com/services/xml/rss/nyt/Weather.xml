@@ -7,21 +7,117 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 17:06:01 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 16:55:22 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 18:53:12 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 18:43:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
     <item>
-      <title>As U.S. Faces Extreme Heat, Data Centers Are Ordered to Use Backup Power to Prevent Blackouts</title>
+      <title>In the Midwest, ‘corn sweat’ is contributing to the sweltering heat.</title>
+      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/corn-sweat-humidity</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/corn-sweat-humidity</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/corn-sweat-humidity" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Ann Hinga Klein</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 18:43:11 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-corn-sweat-topart1-hwgz/02nat-corn-sweat-topart1-hwgz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>Iowa is dominated by farmland, most of which is dedicated to corn and soybeans. Sweating corn crops can disperse large amounts of water vapor into the air. </media:description>
+    </item>
+    <item>
+      <title>Heat Wave Survival Tips From a Death Valley Ranger, Volcano Hiking Guide and Forest Firefighter</title>
+      <link>https://www.nytimes.com/2026/07/02/travel/heat-wave-tips-experts-jobs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/travel/heat-wave-tips-experts-jobs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/travel/heat-wave-tips-experts-jobs.html" rel="standout"></atom:link>
+      <description>We asked people whose jobs require them to routinely face temperatures over 100 degrees for their coping strategies. Start with water.</description>
+      <dc:creator>Shannon Sims</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 18:25:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volcanoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deserts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03trav-heat-experts-mtfh/03trav-heat-experts-mtfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ben Rollins for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>All New York Suffers in a Heat Wave. It’s Worse in Jamaica, Queens.</title>
+      <link>https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html" rel="standout"></atom:link>
+      <description>“Heat-vulnerable” parts of the city have few trees, little shade and limited access to air-conditioning. And the risk of death is also higher.</description>
+      <dc:creator>Sarah Maslin Nir and Christopher Maag</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 18:30:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jamaica (Queens, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02met-nyc-hottest-neighborhood-02-hztg/02met-nyc-hottest-neighborhood-02-hztg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ryan Murphy for The New York Times</media:credit>
+      <media:description>Because the fountains at the playground near his house were not working, Chris Rousseau took his daughter to a park further in Jamaica, Queens. Fortunately, the sprinklers were on.</media:description>
+    </item>
+    <item>
+      <title>Hotter, more frequent and longer-lasting: climate change’s influence on heat waves.</title>
+      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heat-waves-climate-change</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heat-waves-climate-change</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heat-waves-climate-change" rel="standout"></atom:link>
+      <description>As the planet gets hotter overall, heat waves are getting hotter, longer and more frequent.</description>
+      <pubDate>Thu, 02 Jul 2026 17:22:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-extreme-heat-wztg/02cli-extreme-heat-wztg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>A construction worker in New York City on Wednesday. Scientists have said that, in general, heat waves are becoming hotter, more frequent and longer lasting.</media:description>
+    </item>
+    <item>
+      <title>How New Yorkers Dressed for the Heat Wave</title>
+      <link>https://www.nytimes.com/2026/07/02/style/heat-wave-fashion-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/style/heat-wave-fashion-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/style/heat-wave-fashion-new-york.html" rel="standout"></atom:link>
+      <description>The streets became a backdrop for crop tops, World Cup gear and at least one aloha shirt.</description>
+      <dc:creator>Yola Mzizi and Hiroko Masuike</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 17:14:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02HEAT-STYLE-01-vwtc/02HEAT-STYLE-01-vwtc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>One way to beat the heat? Skateboarding down a shady sidewalk.</media:description>
+    </item>
+    <item>
+      <title>See How Europe’s Heat Waves Melted the Alps’ Glaciers</title>
+      <link>https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html" rel="standout"></atom:link>
+      <description>The snowfall from last winter disappeared a month sooner than usual, after two early hot spells. Huge volumes of exposed ice are now starting to vanish.</description>
+      <dc:creator>Raymond Zhong and Mira Rojanasakul</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 17:25:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-hotglaciers-kqtz/02cli-hotglaciers-kqtz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The Rhône Glacier in the Swiss Alps in 2025. The melting is already at levels typical of the end of summer.</media:description>
+    </item>
+    <item>
+      <title>To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power</title>
       <link>https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html" rel="standout"></atom:link>
       <description>As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.</description>
       <dc:creator>Ivan Penn and Hilary Howard</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 16:55:22 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:59:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
@@ -45,7 +141,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html" rel="standout"></atom:link>
       <description>NJ Transit blamed the extreme heat for delays and cancellations on Thursday, having warned commuters that high temperatures could affect the system’s aging infrastructure.</description>
       <dc:creator>Stefanos Chen</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 15:11:37 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:07:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Jersey Transit</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
@@ -461,7 +557,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v187.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v189.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -656,7 +752,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v187.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v189.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -686,84 +782,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-europe-heat-politics-01-qwfk/25int-europe-heat-politics-01-qwfk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
       <media:description>Carrying a floor fan during the heat in Paris on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Heat Wave Prompts Paris to Suspend Sports Events and Public Drinking</title>
-      <link>https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/world/europe/france-heat-alcohol-paris-ban.html" rel="standout"></atom:link>
-      <description>The Paris police chief, Patrice Faure, said that alcohol restrictions were intended to ease pressure on health services.</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 12:27:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paris (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26france-alcohol-01-vtjf/26france-alcohol-01-vtjf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Paris is temporarily banning alcohol consumption in streets and parks.</media:description>
-    </item>
-    <item>
-      <title>Climate Change Fueling Europe’s Ferocious Heat Wave, Scientists Find</title>
-      <link>https://www.nytimes.com/2026/06/26/climate/europe-heat-wave-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/climate/europe-heat-wave-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/climate/europe-heat-wave-climate-change.html" rel="standout"></atom:link>
-      <description>A scientific analysis concluded that such high temperatures, across so much of the continent, would “not have been possible” without global warming.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 04:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Weather Attribution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26cli-europeheat-pjwb/26cli-europeheat-pjwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Christophe Archambault/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A shady passageway on Tuesday in Bordeaux, France, where temperatures reached 108 degrees Fahrenheit, or roughly 42 Celsius. </media:description>
-    </item>
-    <item>
-      <title>Utah and Arizona Face ‘Extremely Critical’ Fire Weather on Friday</title>
-      <link>https://www.nytimes.com/2026/06/25/weather/critical-fire-weather-utah-arizona.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/weather/critical-fire-weather-utah-arizona.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/weather/critical-fire-weather-utah-arizona.html" rel="standout"></atom:link>
-      <description>Forecasters this week issued one of their rarest warnings as a potent mix of storms, wind and dry vegetation threatens to spark more wildfires.</description>
-      <dc:creator>Amy Graff and Judson Jones</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 22:48:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/weather/2026-06-25-outlooks-index-promo/2026-06-25-outlooks-index-promo-mediumSquareAt3X-v77.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Global Warming Upends London Climate Week</title>
-      <link>https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html" rel="standout"></atom:link>
-      <description>The extreme heat smothering Europe has upended Climate Week in London.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 19:18:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25cli-newsletter-london-01-cvtp/25cli-newsletter-london-01-cvtp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Yui Mok</media:credit>
-      <media:description>King Charles III at a London Climate Week reception on Wednesday at St. James’s Palace.</media:description>
     </item>
   </channel>
 </rss>
