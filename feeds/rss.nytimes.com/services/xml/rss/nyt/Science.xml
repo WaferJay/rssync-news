@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 18:50:41 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 17:25:24 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 20:39:14 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 20:13:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -146,11 +146,12 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html" rel="standout"></atom:link>
       <description>The snowfall from last winter disappeared a month sooner than usual, after two early hot spells. Huge volumes of exposed ice are now starting to vanish.</description>
       <dc:creator>Raymond Zhong and Mira Rojanasakul</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 17:25:24 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 20:13:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-hotglaciers-kqtz/02cli-hotglaciers-kqtz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
       <media:description>The Rhône Glacier in the Swiss Alps in 2025. The melting is already at levels typical of the end of summer.</media:description>
@@ -409,44 +410,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25int-ebola-contact-1-jwtp/25int-ebola-contact-1-jwtp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
       <media:description>A community health worker taking the temperature of a man whose son is being treated for the virus near the city of Bunia in Democratic Republic of Congo.</media:description>
-    </item>
-    <item>
-      <title>Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning</title>
-      <link>https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/business/china-cancer-treatment-research-retraction.html" rel="standout"></atom:link>
-      <description>In a notice flagging a series of problems with a clinical trial, the journal Nature Medicine said its editors “no longer have confidence in the integrity of the results.”</description>
-      <dc:creator>Rebecca Robbins</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 02:27:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lung Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunotherapy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic and Scientific Journals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Medicine (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25BIZ-CHINA-RETRACTION-1-cklf/25BIZ-CHINA-RETRACTION-1-cklf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jenny Kane/Associated Press</media:credit>
-      <media:description>The journal Nature Medicine retracted a study that found a drastic benefit when cancer therapy was administered in the morning.</media:description>
-    </item>
-    <item>
-      <title>Global Warming Upends London Climate Week</title>
-      <link>https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/climate/london-climate-week-heat-cancelations.html" rel="standout"></atom:link>
-      <description>The extreme heat smothering Europe has upended Climate Week in London.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 19:18:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25cli-newsletter-london-01-cvtp/25cli-newsletter-london-01-cvtp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Yui Mok</media:credit>
-      <media:description>King Charles III at a London Climate Week reception on Wednesday at St. James’s Palace.</media:description>
     </item>
   </channel>
 </rss>
