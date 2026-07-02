@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 20:38:38 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 18:54:00 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 22:31:16 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 21:24:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -93,6 +93,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>“Artificial,” a film about Sam Altman, the chief executive of OpenAI, had gotten a green light from Amazon in 2023.</media:description>
+    </item>
+    <item>
+      <title>Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter</title>
+      <link>https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/us/tesla-autopilot-crash-texas-manslaughter.html" rel="standout"></atom:link>
+      <description>A front-door video camera of the crash, which killed a woman inside her home, showed the Tesla plowing into a house through its driveway.</description>
+      <dc:creator>Alexandra E. Petri</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 21:24:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Highway Traffic Safety Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Katy (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02XP-TESLA-hmgj/02XP-TESLA-hmgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mike Blake/Reuters</media:credit>
+      <media:description>A Tesla Model 3 using the Full Self Driving Beta software in 2023.</media:description>
     </item>
     <item>
       <title>To Reduce Electrical Grid Strain Amid Heat Wave, Data Centers Are Ordered to Use Backup Power</title>
@@ -422,28 +440,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25biz-doj-antitrust-Adam-Candeub-cphg/25biz-doj-antitrust-Adam-Candeub-cphg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>If confirmed by the Senate, Adam Candeub, the general counsel at the Federal Communications Commission, would lead the antitrust division at Department of Justice, above. </media:description>
-    </item>
-    <item>
-      <title>The New York Times Amends Lawsuit Against OpenAI and Microsoft</title>
-      <link>https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/technology/times-lawsuit-openai-microsoft.html" rel="standout"></atom:link>
-      <description>In a new court filing, The Times accused Microsoft of encouraging OpenAI to train its A.I. systems using copyrighted articles.</description>
-      <dc:creator>Cade Metz</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 23:11:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Perplexity AI Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25biz-nyt-ai-lawsuit-Inbox-mwjz/25biz-nyt-ai-lawsuit-Inbox-mwjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lucia Vazquez for The New York Times</media:credit>
-      <media:description>In its new filing, The New York Times modified one claim against Microsoft and dropped another against OpenAI.</media:description>
     </item>
   </channel>
 </rss>
