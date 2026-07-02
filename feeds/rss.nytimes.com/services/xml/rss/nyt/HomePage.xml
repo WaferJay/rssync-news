@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 01:24:56 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 01:09:54 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 06:11:44 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 05:31:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -79,6 +79,26 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-trump-conflicts-wfkt/01dc-trump-conflicts-wfkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump’s financial investments have vastly escalated during this second term.</media:description>
+    </item>
+    <item>
+      <title>Russia Strikes Ukraine as Explosions Rock Capital of Kyiv</title>
+      <link>https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html" rel="standout"></atom:link>
+      <description>At least 10 people were killed in the assault, which began hours after President Volodymyr Zelensky of Ukraine warned that Russia was preparing another “massive strike” on Kyiv.</description>
+      <dc:creator>Cassandra Vinograd</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 04:11:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-ukraine-attack-lkzf/02int-ukraine-attack-lkzf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
+      <media:description>Rescuers on Thursday at an apartment building in Kyiv that was damaged in overnight Russian strikes.</media:description>
     </item>
     <item>
       <title>Promising Much to Many, Johnson Loses His Grip on the House</title>
@@ -173,24 +193,24 @@
       <media:description>Mail-in ballots being sorted in City of Industry, Calif., last year.</media:description>
     </item>
     <item>
-      <title>Russia Strikes Ukraine as Explosions Rock Capital of Kyiv</title>
-      <link>https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/world/europe/ukraine-kyiv-russia-attack.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky of Ukraine had warned hours earlier that Russia was preparing another “massive strike” on Kyiv.</description>
-      <dc:creator>Cassandra Vinograd</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:26:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crimea (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-ukraine-attack-fwbl/02int-ukraine-attack-fwbl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alina Smutko/Reuters</media:credit>
-      <media:description>People taking shelter inside a metro station during an overnight Russian missile and drone strike early on Thursday in Kyiv.</media:description>
+      <title>Trump Remakes Washington, D.C., Into a Maze of Fences and Guard Members</title>
+      <link>https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html" rel="standout"></atom:link>
+      <description>President Trump seems to have turned swaths of the city into either a construction zone or an armed camp as he seeks to prove that he alone can improve it.</description>
+      <dc:creator>Katie Rogers</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 17:26:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-memo-photo-lthm/01dc-memo-photo-lthm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross for The New York Times</media:credit>
+      <media:description>Federal officials have effectively closed off access to the Reflecting Pool ahead of the nation’s 250th anniversary.</media:description>
     </item>
     <item>
       <title>America, Onscreen</title>
@@ -213,33 +233,31 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
     </item>
     <item>
-      <title>Trump Remakes Washington, D.C., Into a Maze of Fences and Guard Members</title>
-      <link>https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/trump-washington-dc-construction.html" rel="standout"></atom:link>
-      <description>President Trump seems to have turned swaths of the city into either a construction zone or an armed camp as he seeks to prove that he alone can improve it.</description>
-      <dc:creator>Katie Rogers</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 17:26:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-memo-photo-lthm/01dc-memo-photo-lthm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross for The New York Times</media:credit>
-      <media:description>Federal officials have effectively closed off access to the Reflecting Pool ahead of the nation’s 250th anniversary.</media:description>
+      <title>What America’s 250th Means to Mamdani</title>
+      <link>https://www.nytimes.com/2026/07/01/nyregion/mamdani-usa-250-birthday-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/nyregion/mamdani-usa-250-birthday-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/nyregion/mamdani-usa-250-birthday-nyc.html" rel="standout"></atom:link>
+      <description>Mayor Zohran Mamdani has not actively pushed New York City’s role in the nation’s anniversary celebrations, in part because of the complexities he sees in the country’s past and present.</description>
+      <dc:creator>Emma Goldberg</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:43:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">America250</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/00met-mamdani-250-vwzq/00met-mamdani-250-vwzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Mayor Zohran Mamdani has often seemed most comfortable expressing a sort of New York City-focused patriotism, rather than one rooted in the nation’s history.</media:description>
     </item>
     <item>
       <title>Trump Finds His Presidential Alter Ego, the ‘He-Man’ Teddy Roosevelt</title>
       <link>https://www.nytimes.com/2026/07/01/us/politics/trump-north-dakota-roosevelt-library.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/trump-north-dakota-roosevelt-library.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/trump-north-dakota-roosevelt-library.html" rel="standout"></atom:link>
-      <description>President Trump flew into town on the new Air Force One and spent time touring the library dedicated to Theodore Roosevelt, who he called “a great he-man.”</description>
+      <description>President Trump flew into town on the new Air Force One and spent time touring the library dedicated to Theodore Roosevelt, whom he called “a great he-man.”</description>
       <dc:creator>Shawn McCreesh</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 23:47:09 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 01:37:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
@@ -254,6 +272,27 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-trump-01-qctm/01dc-trump-01-qctm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump arrived on a train at the Theodore Roosevelt Presidential Library in North Dakota on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Immigrant Arrests Surge to 10,000 in 5 Days as ICE Clamps Down</title>
+      <link>https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html" rel="standout"></atom:link>
+      <description>The agency has doubled its daily arrest numbers without the fanfare of last year’s large urban operations, sowing fear in immigrant communities.</description>
+      <dc:creator>Hamed Aleaziz</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 05:31:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-immig-arrests01-photo-kvmh/01dc-immig-arrests01-photo-kvmh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael M. Santiago/Getty Images</media:credit>
+      <media:description>Immigration and Customs Enforcement agents patrolling a federal court building in New York last month.</media:description>
     </item>
     <item>
       <title>Trump Administration Delivers Lucrative Win for Its Kratom Allies</title>
@@ -301,58 +340,6 @@
       <media:description>The federal prison in Big Spring, Texas, is among the facilities to close.</media:description>
     </item>
     <item>
-      <title>SpudCell: Scientists Made a Cell With Most of the Hallmarks of Life. Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/science/spud-cell-what-to-know.html" rel="standout"></atom:link>
-      <description>From why it was created to whether it’s alive, here’s what to know about SpudCell, the latest advance in synthetic biology.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 19:28:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Synthetic Biology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>How the Iran War Ignited a Clash Between Trump and the Saudi Crown Prince</title>
-      <link>https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/trump-saudi-crown-prince-iran.html" rel="standout"></atom:link>
-      <description>Crown Prince Mohammed bin Salman pressed President Trump earlier to cripple Iran. But as Iran asserted its power, the prince urged a cease-fire, and is now pursuing his security priorities.</description>
-      <dc:creator>Edward Wong</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 14:25:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-trump-saudi-gjct/01dc-trump-saudi-gjct-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Trump with Crown Prince Mohammed bin Salman of Saudi Arabia in Washington last year. The two countries have become increasingly at odds over the U.S. war with Iran.</media:description>
-    </item>
-    <item>
-      <title>JD Vance Defends Iran War in Speech to Military Members</title>
-      <link>https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html" rel="standout"></atom:link>
-      <description>The vice president, a staunch critic of foreign wars, accused the president’s detractors of trying to prolong a conflict the administration was trying to end.</description>
-      <dc:creator>Karoun Demirjian</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 20:14:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-vance-photo-qbzg/01dc-vance-photo-qbzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Ken Cedeno</media:credit>
-      <media:description>Before becoming the vice president, JD Vance, a former Marine, was a fierce critic of the United States’ “forever wars.”</media:description>
-    </item>
-    <item>
       <title>N.Y.P.D. Memo Outlines Taylor Swift Wedding Events at the Garden</title>
       <link>https://www.nytimes.com/2026/07/01/nyregion/taylor-swift-wedding-police-roads.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/nyregion/taylor-swift-wedding-police-roads.html</guid>
@@ -391,24 +378,62 @@
       <media:description>Taylor Swift has assets worth nearly $2 billion. Travis Kelce is estimated to have between $70 million and $90 million.</media:description>
     </item>
     <item>
-      <title>The Divorce Crusader</title>
-      <link>https://www.nytimes.com/2026/07/01/style/adina-sash-flatbush-girl-jewish-divorce.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/style/adina-sash-flatbush-girl-jewish-divorce.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/style/adina-sash-flatbush-girl-jewish-divorce.html" rel="standout"></atom:link>
-      <description>Part activist, part influencer, Adina Sash will do anything to rescue Orthodox women she sees as trapped in their marriages.</description>
-      <dc:creator>Joseph Bernstein</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 17:09:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Orthodox Judaism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sash, Adina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Monsey (NY)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02FLATBUSH-GIRL-10-zkpw/02FLATBUSH-GIRL-10-zkpw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Ahmed Gaber for The New York Times</media:credit>
-      <media:description>Under the handle Flatbush Girl, Adina Sash deploys an internet-savvy playbook to name and shame men who won’t grant their wives Jewish divorce.</media:description>
+      <title>U.S. Resumes Dollar Transfers to Iraq After Monthslong Suspension</title>
+      <link>https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/world/middleeast/iraq-us-dollar-transfers-resumes.html" rel="standout"></atom:link>
+      <description>The Trump administration had halted the shipments to Iraq as part of its efforts to pressure the Baghdad government to distance itself from Iran.</description>
+      <dc:creator>Raja Abdulrahim and Falih Hassan</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 04:01:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Zaidi, Ali (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kataib Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30int-iraq-dollars-plqv/30int-iraq-dollars-plqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hadi Mizban/Associated Press</media:credit>
+      <media:description>Iraq’s prime minister, Ali al-Zaidi, has taken steps to try to rein in Iran-backed militias in his country.</media:description>
+    </item>
+    <item>
+      <title>JD Vance Defends Iran War in Speech to Military Members</title>
+      <link>https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/us/vance-iran-war-military.html" rel="standout"></atom:link>
+      <description>The vice president, a staunch critic of foreign wars, accused the president’s detractors of trying to prolong a conflict the administration was trying to end.</description>
+      <dc:creator>Karoun Demirjian</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 20:14:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-vance-photo-qbzg/01dc-vance-photo-qbzg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Ken Cedeno</media:credit>
+      <media:description>Before becoming the vice president, JD Vance, a former Marine, was a fierce critic of the United States’ “forever wars.”</media:description>
+    </item>
+    <item>
+      <title>Ruling on Trans Athletes Gave the G.O.P. a Win. Most Democrats Looked the Other Way.</title>
+      <link>https://www.nytimes.com/2026/07/01/us/politics/supreme-court-trans-athletes-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/supreme-court-trans-athletes-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/supreme-court-trans-athletes-midterms.html" rel="standout"></atom:link>
+      <description>While Republicans celebrated the ruling, many Democrats stayed quiet on an issue that had proved divisive in the last election.</description>
+      <dc:creator>Emily Davies and Tim Balk</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 23:40:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01pol-scotus-trans-midterms-kqvt/01pol-scotus-trans-midterms-kqvt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>Republicans celebrated the Supreme Court’s ruling this week upholding laws banning transgender athletes from competing in women’s sports. Democrats were largely silent on the matter.</media:description>
     </item>
     <item>
       <title>Nine Arrested in Federal Crackdown on L.A.’s Sex-Trafficking Corridor</title>
@@ -421,6 +446,92 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Los Angeles, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles County (Calif)</category>
+    </item>
+    <item>
+      <title>Can Companies Embrace A.I. Without Layoffs? This One Says It Is Trying to.</title>
+      <link>https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/world/europe/germany-sap-ai-jobs-skilled-workers.html" rel="standout"></atom:link>
+      <description>The German software giant SAP says it is betting that employees can reinvent jobs instead of eliminating them. Experts are divided on whether it will work.</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 04:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SAP AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Productivity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/00int-Germany-AI-01-hwlc/00int-Germany-AI-01-hwlc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lena Mucha for The New York Times</media:credit>
+      <media:description>Matthias Deindl, a product management executive for the company SAP, at an A.I.-enhanced production line in Walldorf, Germany.</media:description>
+    </item>
+    <item>
+      <title>How Trump Made ‘Y.M.C.A.’ His Anthem, Despite the Village People and Victor Willis’s Mixed Feelings</title>
+      <link>https://www.nytimes.com/2026/07/01/us/politics/trump-ymca-anthem-village-people.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/politics/trump-ymca-anthem-village-people.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/us/politics/trump-ymca-anthem-village-people.html" rel="standout"></atom:link>
+      <description>On social media, he said the Village People’s lead singer, Victor Willis, was with him “right from the beginning.” But the president has a more complicated history with the group.</description>
+      <dc:creator>Aishvarya Kavi</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 00:30:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Village People (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Young Men&#39;s Christian Assn (YMCA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Victor</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-trump-village-people-kgpf/01dc-trump-village-people-kgpf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang for The New York Times</media:credit>
+      <media:description>President-elect Donald J. Trump danced to “Y.M.C.A.” along with the Village People during a pre-inauguration event in January last year. </media:description>
+    </item>
+    <item>
+      <title>Victor Willis, Lead Singer of the Village People, Dies at 74</title>
+      <link>https://www.nytimes.com/2026/07/01/arts/music/victor-willis-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/arts/music/victor-willis-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/arts/music/victor-willis-dead.html" rel="standout"></atom:link>
+      <description>Often performing dressed as a helmeted police officer, he also co-wrote the group’s biggest hits, including “Y.M.C.A.” and “Macho Man.”</description>
+      <dc:creator>Alex Marshall and Isabella Kwai</dc:creator>
+      <pubDate>Wed, 01 Jul 2026 14:55:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Willis, Victor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Village People (Music Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/arts/01obit-victor-willis/01obit-victor-willis-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Paul Natkin/Getty Images</media:credit>
+      <media:description>Victor Willis performing with the Village People in Chicago in 1979. More recently, he became a polarizing figure because of his (and the group’s music’s) association with President Trump.</media:description>
+    </item>
+    <item>
+      <title>Climbers Get Engaged Atop Empire State Building. Then They Get Arrested.</title>
+      <link>https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html" rel="standout"></atom:link>
+      <description>After two extreme climbers ascended the landmark’s 200-foot needle, one proposed to the other, before they were apprehended by the police.</description>
+      <dc:creator>Andy Newman, Maia Coleman and Chelsia Rose Marcius</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 01:58:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Empire State Building (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nikolau, Angela</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stunts and Stuntmen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+    </item>
+    <item>
+      <title>The World Has Failed the Uyghurs</title>
+      <link>https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/opinion/uyghurs-china.html" rel="standout"></atom:link>
+      <description>If the global community can’t stop China’s atrocities against the Uyghurs, it must help us keep our culture alive in exile.</description>
+      <dc:creator>Tahir Imin</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 05:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forced Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
     </item>
     <item>
       <title>U.S.A.I.D. Cuts Killed People. That’s the Truth.</title>
@@ -452,43 +563,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/01kristof-cplz/01kristof-cplz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saidu Bah for The New York Times</media:credit>
       <media:description>Moriba Freeman’s pregnant daughter, Yamah Freeman, in yellow, bled to death en route to a hospital.</media:description>
-    </item>
-    <item>
-      <title>Is Kidmaxxing the Ultimate Status Symbol for Ultimate Wealth?</title>
-      <link>https://www.nytimes.com/2026/07/01/opinion/children-parents-billionaires-wealth-fathers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/opinion/children-parents-billionaires-wealth-fathers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/opinion/children-parents-billionaires-wealth-fathers.html" rel="standout"></atom:link>
-      <description>What drives these men to reproduce at an industrial scale?</description>
-      <dc:creator>Anna Louie Sussman</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 09:01:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surrogate Motherhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Insemination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">In Vitro Fertilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durov, Pavel Valeryevich (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lindberg, Greg (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-    </item>
-    <item>
-      <title>Climbers Get Engaged Atop Empire State Building. Then They Get Arrested.</title>
-      <link>https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/nyregion/empire-state-building-climbers.html" rel="standout"></atom:link>
-      <description>After two extreme climbers ascended the landmark’s 200-foot needle, one proposed to the other, before they were apprehended by the police.</description>
-      <dc:creator>Andy Newman, Maia Coleman and Chelsia Rose Marcius</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 00:25:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Empire State Building (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nikolau, Angela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stunts and Stuntmen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
     </item>
   </channel>
 </rss>
