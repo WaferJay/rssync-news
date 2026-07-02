@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 14:33:38 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 11:28:35 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:05:57 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 16:29:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -52,7 +52,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/01/science/cheating-chickadees-are-seduced-by-smarts.html" rel="standout"></atom:link>
       <description>Female mountain chickadees are loyal to their mates, unless a smarter suitor comes along.</description>
       <dc:creator>Annie Roth</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 09:02:17 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:29:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eLife (Journal)</category>
@@ -147,16 +147,19 @@
       <description>In moving to ban a potent synthetic version of kratom, the president’s team paved the way for more sales for makers of rival botanic supplements, who had aggressively lobbied for the change.</description>
       <dc:creator>Christina Jewett and Kenneth P. Vogel</dc:creator>
       <pubDate>Wed, 01 Jul 2026 23:33:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Drug Enforcement Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
       <category domain="">kratom</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Drug Enforcement Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-kratom01-photo-gpfh/01dc-kratom01-photo-gpfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nick Oxford for The New York Times</media:credit>
       <media:description>After President Trump’s victory, companies selling kratom supplements and their executives ramped up their spending on lobbyists with ties to his administration and donations to his political operation.</media:description>
@@ -452,67 +455,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25dc-rfk-cdc-emails-photo-hlgm/25dc-rfk-cdc-emails-photo-hlgm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang for The New York Times</media:credit>
       <media:description>Robert F. Kennedy Jr., seated, at a Senate confirmation hearing last year.</media:description>
-    </item>
-    <item>
-      <title>Why the Venezuelan Earthquakes Happened, and What to Expect Next</title>
-      <link>https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/science/venezeula-earthquakes-faults-geology.html" rel="standout"></atom:link>
-      <description>Twin earthquakes like those that ripped through the region are unusual but not unheard of. Scientists are already gathering data needed for a more detailed picture.</description>
-      <dc:creator>Robin George Andrews</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 16:07:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caracas (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25SCI-VENEZUELA-EARTHQUAKE-01-kbmt/25SCI-VENEZUELA-EARTHQUAKE-01-kbmt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Leonardo Fernandez Viloria/Reuters</media:credit>
-      <media:description>Emergency workers at the site of a collapsed building in Caracas on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Chemours to Pay $450M in First Federal PFAS Settlement</title>
-      <link>https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/climate/trump-pfas-forever-chemical-settlement-chemours.html" rel="standout"></atom:link>
-      <description>The settlement addresses the dumping of PFAS “forever chemicals,” which have been linked to cancer and other risks, by Chemours in several states.</description>
-      <dc:creator>Hiroko Tabuchi</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 16:45:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chemours Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemicals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Fear River (NC)</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25CLI-PFAS-SETTLEMENT-mgwc/25CLI-PFAS-SETTLEMENT-mgwc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ed Kashi for The New York Times</media:credit>
-      <media:description>A Chemours plant in Fayetteville, N.C. Under a proposed settlement, Chemours would pay fines for discharging PFAS from plants in North Carolina, New Jersey and West Virginia.</media:description>
-    </item>
-    <item>
-      <title>Tickled Apes Reveal the Rhythmic Roots of Laughter</title>
-      <link>https://www.nytimes.com/2026/06/25/science/evolution-laughter-apes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/science/evolution-laughter-apes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/science/evolution-laughter-apes.html" rel="standout"></atom:link>
-      <description>A study of chimps, gorillas and other great apes, including human children, sheds light on how laughter has evolved.</description>
-      <dc:creator>Emily Anthes</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 15:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laughter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communications Biology (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davila-Ross, Marina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25SCI-APE-LAUGHTER-qjlb/25SCI-APE-LAUGHTER-qjlb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emil Lippe for The New York Times</media:credit>
-      <media:description>All the planet’s great apes laugh, and they often do so in the same kind of regular, repeating rhythm that humans do, according to a new study.</media:description>
     </item>
   </channel>
 </rss>

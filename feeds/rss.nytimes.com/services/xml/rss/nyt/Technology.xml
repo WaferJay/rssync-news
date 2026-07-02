@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 14:31:08 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 14:26:49 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:03:23 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 16:55:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -95,13 +95,37 @@
       <media:description>“Artificial,” a film about Sam Altman, the chief executive of OpenAI, had gotten a green light from Amazon in 2023.</media:description>
     </item>
     <item>
-      <title>Tesla Sales Surge on Recovery in Europe</title>
+      <title>As U.S. Faces Extreme Heat, Data Centers Are Ordered to Use Backup Power to Prevent Blackouts</title>
+      <link>https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html" rel="standout"></atom:link>
+      <description>As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.</description>
+      <dc:creator>Ivan Penn and Hilary Howard</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 16:55:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PJM Interconnection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Chris (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02biz-heat-energy-datacenter-topart01-lczt/02biz-heat-energy-datacenter-topart01-lczt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Leah Millis/Reuters</media:credit>
+      <media:description>The energy secretary has asked grid managers to require data centers to use backup power when electrical systems are under strain during the heat wave. </media:description>
+    </item>
+    <item>
+      <title>Tesla Sales Surge 25% on Recovery in Europe</title>
       <link>https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html" rel="standout"></atom:link>
       <description>Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States.</description>
       <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 14:26:49 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:07:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Avride Inc</category>
@@ -440,44 +464,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25biz-openai-ipo-sam-flvk/25biz-openai-ipo-sam-flvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Sam Altman, the chief executive of OpenAI, has pushed for a trillion-dollar I.P.O.</media:description>
-    </item>
-    <item>
-      <title>Chinese A.I. Models Gain Ground on Anthropic and OpenAI</title>
-      <link>https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/technology/zai-china-artificial-intelligence-models.html" rel="standout"></atom:link>
-      <description>Silicon Valley engineers recently flocked to new technology from a Chinese company, Z.ai, that is almost as good as its American competitors but much cheaper.</description>
-      <dc:creator>Cade Metz, Karen Weise and Meaghan Tobin</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 05:16:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-    </item>
-    <item>
-      <title>Apple Raises Prices on Macs and iPads Amid the A.I. Boom</title>
-      <link>https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/technology/apple-prices-macbooks-ipads.html" rel="standout"></atom:link>
-      <description>The tech giant cited the soaring costs of memory and storage chips as it increased prices more than $200 on some devices.</description>
-      <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 18:52:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laptop Computers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25biz-apple-prices-1-wjbk/25biz-apple-prices-1-wjbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>Even with a sprawling supply chain, Apple is not immune to the global shortage of chips.</media:description>
     </item>
   </channel>
 </rss>

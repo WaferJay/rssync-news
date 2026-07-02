@@ -7,13 +7,58 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 14:34:04 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 14:09:29 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:06:01 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 16:55:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>As U.S. Faces Extreme Heat, Data Centers Are Ordered to Use Backup Power to Prevent Blackouts</title>
+      <link>https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html" rel="standout"></atom:link>
+      <description>As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.</description>
+      <dc:creator>Ivan Penn and Hilary Howard</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 16:55:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PJM Interconnection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Chris (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02biz-heat-energy-datacenter-topart01-lczt/02biz-heat-energy-datacenter-topart01-lczt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Leah Millis/Reuters</media:credit>
+      <media:description>The energy secretary has asked grid managers to require data centers to use backup power when electrical systems are under strain during the heat wave. </media:description>
+    </item>
+    <item>
+      <title>NJ Transit Announces Train Delays and Cancellations Tied to Extreme Heat Wave</title>
+      <link>https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html" rel="standout"></atom:link>
+      <description>NJ Transit blamed the extreme heat for delays and cancellations on Thursday, having warned commuters that high temperatures could affect the system’s aging infrastructure.</description>
+      <dc:creator>Stefanos Chen</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 15:11:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Jersey Transit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amtrak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-transit-bkhj/02heat-wave-live-transit-bkhj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hannah Beier for The New York Times</media:credit>
+      <media:description>NJ Transit warned commuters that they may face delays related to the heat.</media:description>
+    </item>
     <item>
       <title>Why This Heat Wave Is Unusual for New York</title>
       <link>https://www.nytimes.com/2026/07/02/weather/new-york-heat-wave-forecast.html</link>
@@ -21,7 +66,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/weather/new-york-heat-wave-forecast.html" rel="standout"></atom:link>
       <description>Hot summer days are more dangerous when there are several in a row. Meteorologists are looking to earlier heat waves for the blueprint for this week’s.</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 09:04:52 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 14:39:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
@@ -90,9 +135,9 @@
       <link>https://www.nytimes.com/2026/07/02/nyregion/heat-cadets-bus-new-york.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/nyregion/heat-cadets-bus-new-york.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/02/nyregion/heat-cadets-bus-new-york.html" rel="standout"></atom:link>
-      <description>The authorities said the cadets — it wasn’t clear how many — were removed from a bus in New York State’s Hudson Valley after suffering heat-related illnesses.</description>
+      <description>The authorities said 16 cadets were removed from a bus in New York State’s Hudson Valley after getting heat-related illnesses. All were later discharged.</description>
       <dc:creator>John Yoon</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 06:57:42 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:48:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reserve Officers Training Corps</category>
@@ -143,6 +188,7 @@
       <description>Advice for choosing the best fabrics and styles to help cool you down in extreme heat.</description>
       <dc:creator>Yola Mzizi</dc:creator>
       <pubDate>Wed, 01 Jul 2026 16:15:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01HEATCLOTHING-bzgl/01HEATCLOTHING-bzgl-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -415,7 +461,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v184.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v187.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -610,7 +656,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v184.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v187.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -718,44 +764,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25cli-newsletter-london-01-cvtp/25cli-newsletter-london-01-cvtp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Yui Mok</media:credit>
       <media:description>King Charles III at a London Climate Week reception on Wednesday at St. James’s Palace.</media:description>
-    </item>
-    <item>
-      <title>Latest Victims of France’s Heat Wave: Children Locked in Family Cars</title>
-      <link>https://www.nytimes.com/2026/06/25/world/europe/france-children-heat-cars-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/world/europe/france-children-heat-cars-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/world/europe/france-children-heat-cars-deaths.html" rel="standout"></atom:link>
-      <description>As temperatures pass record levels in France, the heat wave-related death toll continues to rise.</description>
-      <dc:creator>Mark Landler and Ségolène Le Stradic</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 16:59:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25europe-heat-france-gvkm/25europe-heat-france-gvkm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joann Pai for The New York Times</media:credit>
-      <media:description>Along the seine in Paris on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Deadly Heat Wave in Europe Continues to Smash Temperature Records</title>
-      <link>https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/world/europe/heat-wave.html" rel="standout"></atom:link>
-      <description>The continent’s second heat wave since May continued to disrupt daily life for millions. Officials in Spain said it might have contributed to a spike in deaths.</description>
-      <dc:creator>Lynsey Chutel, Nazaneen Ghaffar, Aurelien Breeden and Zane Irwin</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 16:33:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26int-europe-heat-01-kfjz/26int-europe-heat-01-kfjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Construction workers in Madrid this week.</media:description>
     </item>
   </channel>
 </rss>

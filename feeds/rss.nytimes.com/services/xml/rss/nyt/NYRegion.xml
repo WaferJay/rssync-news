@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 14:33:30 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 14:25:05 +0000</pubDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:05:57 +0000</lastBuildDate>
+    <pubDate>Thu, 02 Jul 2026 16:58:15 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/nyregion/tall-ships-parade-nyc.html" rel="standout"></atom:link>
       <description>The Hudson River will be filled with dozens of tall ships from at least 20 nations this Fourth of July for Sail4th 250.</description>
       <dc:creator>Claire Fahy</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 07:00:05 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:54:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -68,7 +68,7 @@
       <pubDate>Thu, 02 Jul 2026 00:43:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">America250</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -157,16 +157,19 @@
       <description>Law enforcement officials in the city are preparing to monitor the pop star’s two-day event at Madison Square Garden, and several streets in the area will be closed.</description>
       <dc:creator>Maria Cramer, Chelsia Rose Marcius and Emma G. Fitzsimmons</dc:creator>
       <pubDate>Wed, 01 Jul 2026 21:04:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelce, Travis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1359" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01met-tnt-security-czjp/01met-tnt-security-czjp-mediumSquareAt3X.jpg" width="1359"></media:content>
       <media:credit>Frank Franklin II/Associated Press</media:credit>
       <media:description>Taylor Swift and Travis Kelce’s plans are expected to require hundreds of police officers.</media:description>
@@ -196,6 +199,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
+      <title>NJ Transit Announces Train Delays and Cancellations Tied to Extreme Heat Wave</title>
+      <link>https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html" rel="standout"></atom:link>
+      <description>NJ Transit blamed the extreme heat for delays and cancellations on Thursday, having warned commuters that high temperatures could affect the system’s aging infrastructure.</description>
+      <dc:creator>Stefanos Chen</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 15:11:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Jersey Transit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amtrak</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-transit-bkhj/02heat-wave-live-transit-bkhj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hannah Beier for The New York Times</media:credit>
+      <media:description>NJ Transit warned commuters that they may face delays related to the heat.</media:description>
+    </item>
+    <item>
       <title>Homes for Sale in Connecticut and New York</title>
       <link>https://www.nytimes.com/2026/07/02/realestate/housing-market-near-nyc.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/realestate/housing-market-near-nyc.html</guid>
@@ -214,7 +238,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/realestate/housing-market-nyc.html" rel="standout"></atom:link>
       <description>This week’s properties are in Murray Hill, Gramercy Park and Williamsburg.</description>
       <dc:creator>Heather Senison</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 09:02:18 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 09:02:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Williamsburg (Brooklyn, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gramercy Park (Manhattan, NY)</category>
@@ -249,7 +273,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/style/taylor-swift-wedding-logistics-new-york-msg.html" rel="standout"></atom:link>
       <description>The pop star is poised to host a wedding celebration at Madison Square Garden. The logistics in Midtown Manhattan over the July 4 weekend are complex.</description>
       <dc:creator>Emma G. Fitzsimmons</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 09:00:35 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:05:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelce, Travis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
@@ -266,16 +290,13 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/nyregion/robin-byrd-show-documentary.html" rel="standout"></atom:link>
       <description>As the host of a bawdy late-night cable show, she brought sex positivity and full-frontal nudity into Manhattan’s living rooms for decades. Now she is telling her story in a documentary.</description>
       <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 12:50:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Byrd, Robin (1957-)</category>
+      <pubDate>Thu, 02 Jul 2026 16:21:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Byrd, Robin (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Bang My Box: The Robin Byrd Story (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nudism and Nudity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pornography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Time Warner Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
@@ -284,9 +305,9 @@
       <link>https://www.nytimes.com/2026/07/02/nyregion/heat-cadets-bus-new-york.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/nyregion/heat-cadets-bus-new-york.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/02/nyregion/heat-cadets-bus-new-york.html" rel="standout"></atom:link>
-      <description>The authorities said the cadets — it wasn’t clear how many — were removed from a bus in New York State’s Hudson Valley after suffering heat-related illnesses.</description>
+      <description>The authorities said 16 cadets were removed from a bus in New York State’s Hudson Valley after getting heat-related illnesses. All were later discharged.</description>
       <dc:creator>John Yoon</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 06:57:42 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 16:48:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reserve Officers Training Corps</category>
@@ -379,32 +400,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/01cul-midyear-theater-5-wlcp/01cul-midyear-theater-5-wlcp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sara Krulwich/The New York Times</media:credit>
       <media:description>Christopher Abbott, center, with Nathan Lane and Laurie Metcalf, in “Death of a Salesman” at the Winter Garden Theater in Manhattan.</media:description>
-    </item>
-    <item>
-      <title>How the Museum of Ice Cream and Other Companies Woo Visitors From Art Institutions</title>
-      <link>https://www.nytimes.com/2026/07/01/arts/design/museum-of-ice-cream-companies-art.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/arts/design/museum-of-ice-cream-companies-art.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/arts/design/museum-of-ice-cream-companies-art.html" rel="standout"></atom:link>
-      <description>As arts institutions struggle to increase attendance, entertainment centers marketed as museums are wooing those who once might have gone to view art.</description>
-      <dc:creator>Zachary Small and Tim F. Schneider</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 09:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of Art Museum Directors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cleveland Museum of Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guggenheim, Solomon R, Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meow Wolf (Art Collective)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Museum of Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Museum of Fine Arts (Boston)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Museum of Illusions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Speed Art Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Southern Methodist University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Studio Museum in Harlem</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Whitney Museum of American Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weinberg, Adam D</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01cul-museum-audiences-06-hfkv/01cul-museum-audiences-06-hfkv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>The Museum of Ice Cream, one of many immersive amusements challenging more established art museums, attracts about a million visitors annually across six locations.</media:description>
     </item>
   </channel>
 </rss>
