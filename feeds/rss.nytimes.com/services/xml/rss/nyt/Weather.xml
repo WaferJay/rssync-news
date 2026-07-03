@@ -7,13 +7,52 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 22:32:33 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 22:22:04 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 01:07:20 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 01:04:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Heat Wave Relief May Not Come at Sunset</title>
+      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/its-still-going-to-be-really-hot-tonight</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/its-still-going-to-be-really-hot-tonight</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/its-still-going-to-be-really-hot-tonight" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Amy Graff and Dani Blum</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 01:01:29 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-after-sunset-ktbf/02heat-wave-live-after-sunset-ktbf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Brandon/Associated Press</media:credit>
+      <media:description>A vendor pulls out a bottle of water from a tank using dry ice to keep it cold, during a heat wave on Thursday at the Great American State Fair on the National Mall in Washington.</media:description>
+    </item>
+    <item>
+      <title>For older adults, heat and isolation can be a deadly combination.</title>
+      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/for-older-adults-heat-and-isolation-can-be-a-deadly-combination</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/for-older-adults-heat-and-isolation-can-be-a-deadly-combination</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/for-older-adults-heat-and-isolation-can-be-a-deadly-combination" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 23:45:04 +0000</pubDate>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-senior-isolation-01-blfz/02heat-wave-live-senior-isolation-01-blfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Spencer Platt/Getty Images</media:credit>
+      <media:description>A vendor sits in the shade in Manhattan during the heat wave that has swept over large portions of the northeastern United States. </media:description>
+    </item>
+    <item>
+      <title>Animals Need to Cool Off, Too</title>
+      <link>https://www.nytimes.com/2026/07/02/weather/animals-heat-wave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/animals-heat-wave.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/weather/animals-heat-wave.html" rel="standout"></atom:link>
+      <description>Mammals across the Midwest are doing their best to stay cool during the heat wave, with some help from humans.</description>
+      <dc:creator>Kevin Williams, Dan Simmons and Jacey Fortin</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 00:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-animals-vwgh/02nat-animals-vwgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Madeleine Hordinski for The New York Times</media:credit>
+      <media:description>Elephants cooled off in their pool at the Cincinnati Zoo on Thursday.</media:description>
+    </item>
     <item>
       <title>‘It’s been rough’: People across the Northeast slog through the heat.</title>
       <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heat-wave-city</link>
@@ -50,7 +89,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html" rel="standout"></atom:link>
       <description>A growing body of research has shown that our brains work differently when temperatures spike.</description>
       <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 21:03:49 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:21:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01cli-newsletter-brainhealth-bqtf/01cli-newsletter-brainhealth-bqtf-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -305,7 +344,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/nyregion/heat-cadets-bus-new-york.html" rel="standout"></atom:link>
       <description>The authorities said 16 cadets were removed from a bus in New York State’s Hudson Valley after getting heat-related illnesses. All were later discharged.</description>
       <dc:creator>John Yoon</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 16:48:22 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 00:40:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reserve Officers Training Corps</category>
@@ -629,7 +668,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v195.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v200.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -707,69 +746,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-    </item>
-    <item>
-      <title>At Least 4 Dead in Kentucky Flooding, Governor Says</title>
-      <link>https://www.nytimes.com/2026/06/27/us/kentucky-flood-rain-emergency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/27/us/kentucky-flood-rain-emergency.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/27/us/kentucky-flood-rain-emergency.html" rel="standout"></atom:link>
-      <description>Gov. Andy Beshear of Kentucky said emergency crews rescued people from flooded homes and vehicles. Flash flood warnings continued on Sunday.</description>
-      <dc:creator>Mark Walker and Sarah Mervosh</dc:creator>
-      <pubDate>Sun, 28 Jun 2026 19:06:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bullitt County (Ky)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison County (Ky)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27xp-kentucky-floods-gfqt/27xp-kentucky-floods-gfqt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Greg Eans/The Messenger-Inquirer, via Associated Press</media:credit>
-      <media:description>Drivers maneuvered their vehicles through flooded roads after a heavy rainfall in Owensboro, Ky., on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Central and Eastern Europe Are Feeling the Heat Now</title>
-      <link>https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/27/world/europe/heat-wave-central-eastern-europe.html" rel="standout"></atom:link>
-      <description>Much of Germany and Poland were under extreme heat warnings on Saturday as the weather phenomenon driving this week’s record-breaking temperatures moved east.</description>
-      <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 13:09:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27int-europe-heat-wfhl/27int-europe-heat-wfhl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Henning Kaiser/Dpa, via Associated Press</media:credit>
-      <media:description>A resident of a nursing home in Dormagen, Germany, was put into an ambulance on Saturday as the facility was evacuated because of the heat. </media:description>
-    </item>
-    <item>
-      <title>Heat Wave Takes Toll on Europe’s Infrastructure, Too</title>
-      <link>https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html" rel="standout"></atom:link>
-      <description>The devastating heat wave has exposed weaknesses in the continent’s infrastructure, much of it built for a cooler climate that no longer exists.</description>
-      <dc:creator>Chico Harlan</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 04:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27CLI-NOT-BUILT-FOR-HEATWAVE-01-zhmv/27CLI-NOT-BUILT-FOR-HEATWAVE-01-zhmv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lionel Bonaventure/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Golfech nuclear plant in France on Tuesday after officials shut it down as a result of high temperatures. </media:description>
     </item>
   </channel>
 </rss>

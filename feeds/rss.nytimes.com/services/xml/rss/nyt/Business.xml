@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 02 Jul 2026 22:30:58 +0000</lastBuildDate>
-    <pubDate>Thu, 02 Jul 2026 22:30:19 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 01:06:06 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 00:39:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -88,14 +88,15 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/business/private-credit-investor-worries.html" rel="standout"></atom:link>
       <description>Some say the industry expanded too quickly and extended loans to companies that won’t be able to pay them back.</description>
       <dc:creator>Rob Copeland</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 15:58:57 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:58:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Credit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dimon, James</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Atkins, Paul S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02biz-private-credit-explainer-mzgb/02biz-private-credit-explainer-mzgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Graham Dickie for The New York Times</media:credit>
       <media:description>Asset managers like Blue Owl offer private credit to companies that they say traditional banks avoid. </media:description>
@@ -121,6 +122,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Owl Capital Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Credit</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02biz-private-credit-withdrawals-bhcj/02biz-private-credit-withdrawals-bhcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Graham Dickie for The New York Times</media:credit>
       <media:description>Blue Owl executives have engaged in a cross-global effort over the past few months to convince backers to stay with the firm.</media:description>
@@ -132,7 +134,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/business/tesla-electric-vehicle-auto-sales.html" rel="standout"></atom:link>
       <description>Price cuts helped the electric automaker rebound in Europe in the second quarter, offsetting declines in the United States.</description>
       <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 15:07:48 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 15:07:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Avride Inc</category>
