@@ -7,13 +7,26 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 16:49:23 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 16:02:57 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 18:42:45 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 18:42:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>As Heat Suffocates Washington DC, Calls to Emergency Medical Services Climb</title>
+      <link>https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html" rel="standout"></atom:link>
+      <description>Near 100-degree temperatures were expected to continue as medical workers prepared for more heat-related illnesses during celebrations of the nation’s 250th anniversary.</description>
+      <dc:creator>Clarence Williams</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 16:56:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+    </item>
     <item>
       <title>To Stay Cool, Wear Flowing Robes and Throw Water Around? Yes, Says Science.</title>
       <link>https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html</link>
@@ -81,7 +94,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/03/weather/us-weather-heat-wave.html" rel="standout"></atom:link>
       <description>While relief could come to the Great Lakes and parts of the Northeast over the weekend, the Mid-Atlantic and Southeast will stay hot.</description>
       <dc:creator>Amy Graff and Mark Walker</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 16:02:57 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:58:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
@@ -99,7 +112,7 @@
       <media:description>Scorching temperatures will continue through the weekend. Most areas will cool a few degrees by Sunday.</media:description>
     </item>
     <item>
-      <title>What to Know About Getting Around Town on Swift’s Wedding Day</title>
+      <title>What to Know About Getting Around Midtown on Swift’s Wedding Day</title>
       <link>https://www.nytimes.com/2026/07/03/nyregion/manhattan-street-closures-holiday-swift.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/nyregion/manhattan-street-closures-holiday-swift.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/manhattan-street-closures-holiday-swift.html" rel="standout"></atom:link>
@@ -208,9 +221,11 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html" rel="standout"></atom:link>
       <description>A growing body of research has shown that our brains work differently when temperatures spike.</description>
       <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 23:21:42 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:21:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01cli-newsletter-brainhealth-bqtf/01cli-newsletter-brainhealth-bqtf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
       <media:description>To combat high temperatures, cities are opening cooling centers, repainting dark surfaces and investing in shade.</media:description>
@@ -336,6 +351,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-hotglaciers-kqtz/02cli-hotglaciers-kqtz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
       <media:description>The Rhône Glacier in the Swiss Alps in 2025. The melting is already at levels typical of the end of summer.</media:description>
@@ -437,7 +454,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/well/extreme-heat-dome-health-emergency.html" rel="standout"></atom:link>
       <description>Extreme temperatures over the Fourth of July weekend will put a strain on emergency rooms.</description>
       <dc:creator>Dani Blum</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 09:03:23 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:02:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
