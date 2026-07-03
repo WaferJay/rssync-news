@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 01:05:17 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 01:01:09 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 05:01:33 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 04:59:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html" rel="standout"></atom:link>
       <description>President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.</description>
       <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 00:00:42 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 00:00:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
@@ -68,18 +68,6 @@
       <media:description>First Lady Melania Trump and Vice President JD Vance</media:description>
     </item>
     <item>
-      <title>A Sweltering Fourth of July</title>
-      <link>https://www.nytimes.com/2026/07/02/briefing/heat-wave-fourth.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/briefing/heat-wave-fourth.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/briefing/heat-wave-fourth.html" rel="standout"></atom:link>
-      <description>Also, Taylor’s wedding. Here’s the latest at the end of Thursday.</description>
-      <dc:creator>Evan Gorelick</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 22:09:12 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02evening-nl-heat-twvq/02evening-nl-heat-twvq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carolina Herrera for The New York Times</media:credit>
-      <media:description>Chinatown in Manhattan today.</media:description>
-    </item>
-    <item>
       <title>All New York Suffers in a Heat Wave. It’s Worse in Jamaica, Queens.</title>
       <link>https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html</guid>
@@ -95,23 +83,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02met-nyc-hottest-neighborhood-02-hztg/02met-nyc-hottest-neighborhood-02-hztg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ryan Murphy for The New York Times</media:credit>
       <media:description>Because the fountains at the playground near his house were not working, Chris Rousseau took his daughter to a park further in Jamaica, Queens. Fortunately, the sprinklers were on.</media:description>
-    </item>
-    <item>
-      <title>See How Europe’s Heat Waves Melted the Alps’ Glaciers</title>
-      <link>https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/climate/europe-heat-waves-melting-glaciers.html" rel="standout"></atom:link>
-      <description>The snowfall from last winter disappeared a month sooner than usual, after two early hot spells. Huge volumes of exposed ice are now starting to vanish.</description>
-      <dc:creator>Raymond Zhong and Mira Rojanasakul</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 20:13:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alps Mountains</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-hotglaciers-kqtz/02cli-hotglaciers-kqtz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Rhône Glacier in the Swiss Alps in 2025. The melting is already at levels typical of the end of summer.</media:description>
     </item>
     <item>
       <title>F.B.I. Assigns Scores of Analysts to Examine Election Records in Georgia</title>
@@ -151,6 +122,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huffines, Donald</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-texas-comptroller-1-wmlt/02nat-texas-comptroller-1-wmlt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tamir Kalifa for The New York Times</media:credit>
       <media:description>Don Huffines at a forum featuring gubernatorial candidates running to unseat Gov. Greg Abbott in 2022.</media:description>
@@ -181,13 +154,15 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html" rel="standout"></atom:link>
       <description>David Hearn, a former canoeist, is accused of vandalizing the algae-challenged pool, which President Trump has said he would repair and beautify with fresh sealant. But the algae returned and the paint peeled.</description>
       <dc:creator>Campbell Robertson and Alan Feuer</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 20:51:54 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 20:51:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Canoes and Canoeing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hearn, David (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pirro, Jeanine</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-DC-pool-1-ztwm/02nat-DC-pool-1-ztwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>M. David Leeds/Getty Images</media:credit>
       <media:description>In 2000, David Hearn was one of America’s top competitive canoeists.</media:description>
@@ -278,16 +253,16 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02dc-iran-israel-01-kmqw/02dc-iran-israel-01-kmqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Urs Flueeler</media:credit>
-      <media:description>Abbas Araghchi, left, with Mohammad Bagher Ghalibaf, traveled to Switzerland in June for a second in-person meeting with Vice President JD Vance and the American delegation.</media:description>
+      <media:description>Mohammad Bagher Ghalibaf, left, with Abbas Araghchi, center, traveled to Switzerland in June for a second in-person meeting with Vice President JD Vance and the American delegation.</media:description>
     </item>
     <item>
-      <title>Less Than 10 Percent of Eligible Children Have Trump Accounts</title>
+      <title>Many Children Don’t Have ‘Trump Accounts.’ Some Are Missing Out on $1,000.</title>
       <link>https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/02/upshot/trump-investment-accounts-children.html" rel="standout"></atom:link>
       <description>More than six million have been signed up for the investment accounts, which open for contributions July 4, but there are barriers to uptake.</description>
       <dc:creator>Claire Cain Miller</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 21:46:45 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 01:17:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Savings Accounts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
@@ -295,6 +270,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/00up-trump-account-qcbw/00up-trump-account-qcbw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Allison Robbert for The New York Times</media:credit>
       <media:description>Calling them Trump accounts has turned away some people, researchers said. </media:description>
+    </item>
+    <item>
+      <title>On Eve of Taylor Swift’s Wedding, Rehearsal Dinner Kicks Off Weekend of Events</title>
+      <link>https://www.nytimes.com/2026/07/02/style/swift-kelce-wedding-msg-rehearsal-dinner.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/style/swift-kelce-wedding-msg-rehearsal-dinner.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/style/swift-kelce-wedding-msg-rehearsal-dinner.html" rel="standout"></atom:link>
+      <description>The event for about 100 guests at Madison Square Garden kicked off a weekend of celebration for the pop star and the athlete, as celebrities arrived in town and reinforcements were delivered.</description>
+      <dc:creator>Madison Malone Kircher</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 02:05:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swift, Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelce, Travis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02ST-SWIFT-SCENE-01-bztk/02ST-SWIFT-SCENE-01-bztk-mediumSquareAt3X.jpg" width="1080"></media:content>
+      <media:credit>Jutharat Pinyodoonyachet for The New York Times</media:credit>
+      <media:description>Tent structures were put in place, security was beefed up, and streets were closed as the couple prepared for their mega celebrations. </media:description>
     </item>
     <item>
       <title>Mamdani Is a Taylor Swift Fan. Here Are His Top 12 Songs.</title>
@@ -331,27 +322,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02swift-insider-top-bmlq/02swift-insider-top-bmlq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/02swift-insider-top-bmlq/02swift-insider-top-bmlq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jamie Squire/Getty Images</media:credit>
       <media:description>“America doesn’t have royal weddings,” said Emma Fitzsimmons, a New York Times reporter who is covering the expected nuptials of Travis Kelce and Taylor Swift. “But this is probably the closest thing.”</media:description>
-    </item>
-    <item>
-      <title>A ‘Muslims Only’ Swim Party and the Backlash That Followed</title>
-      <link>https://www.nytimes.com/2026/07/02/us/muslim-swim-party-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/muslim-swim-party-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/muslim-swim-party-texas.html" rel="standout"></atom:link>
-      <description>A Muslim mother’s plan for an Eid swim party near Dallas drew backlash, then threats that upended her quiet life.</description>
-      <dc:creator>J. David Goodman and Desiree Rios</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 20:36:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Prairie (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-muslim-waterpark-1-gkbf/02nat-muslim-waterpark-1-gkbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Aminah Knight and her husband, Imam Muhammad Abdullah, pose for a portrait in Fort Worth.</media:description>
     </item>
     <item>
       <title>With Attacks on Crimea, Ukraine Hopes to Pressure Putin to End the War</title>
@@ -439,81 +412,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-venezuela-quake-survivor-1-bmvp/02int-venezuela-quake-survivor-1-bmvp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fernando Vergara/Associated Press</media:credit>
       <media:description>Rescue workers attend to Hernán Alberto Gil Flores after he was pulled from the rubble eight days after he was trapped by twin earthquakes that struck Catia La Mar, Venezuela, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>An Aerial View of Disaster at a Venezuela Housing Project</title>
-      <link>https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/world/americas/venezuela-earthquake-oneimage.html" rel="standout"></atom:link>
-      <description>What one aerial image of a collapsed building tells us about the aftermath of an earthquake in La Guaira, Venezuela.</description>
-      <dc:creator>Adriana Loureiro Fernandez</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 16:30:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00int-venezuela-quake-oneimage-promo-qfbk/00int-venezuela-quake-oneimage-promo-qfbk-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>In Tumultuous Term, Chief Justice Roberts Took Charge of Unruly Supreme Court</title>
-      <link>https://www.nytimes.com/2026/07/02/us/politics/the-docket-roberts-supreme-court.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/politics/the-docket-roberts-supreme-court.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/politics/the-docket-roberts-supreme-court.html" rel="standout"></atom:link>
-      <description>The chief justice faced down the president, forged unlikely coalitions and achieved long-sought goals.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 17:05:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">New York Times v Sullivan (Supreme Court Decision)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dershowitz, Alan M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02thedocket-nl-kvzc/02thedocket-nl-kvzc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee/The New York Times</media:credit>
-      <media:description>Chief Justice John Roberts in Washington, D.C., last year.</media:description>
-    </item>
-    <item>
-      <title>Supreme Court Allows Reporter to Be Fined for Failing to Disclose Source</title>
-      <link>https://www.nytimes.com/2026/07/02/us/politics/supreme-court-herridge-first-amendment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/politics/supreme-court-herridge-first-amendment.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/politics/supreme-court-herridge-first-amendment.html" rel="standout"></atom:link>
-      <description>Catherine Herridge, a former Fox News reporter, was held in civil contempt by a lower court after she refused to reveal her sources for articles she wrote about a scientist who was investigated by the F.B.I.</description>
-      <dc:creator>Ann E. Marimow</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 21:42:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appeals Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reporters Committee for Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cooper, Christopher Reid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Herridge, Catherine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chen, Yanping (1952- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02dc-scotus-press-photo-bpjl/02dc-scotus-press-photo-bpjl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ken Cedeno/Reuters</media:credit>
-      <media:description>Catherine Herridge invoked First Amendment protections to try to avoid being forced to testify and identify her sources.</media:description>
     </item>
     <item>
       <title>Black Soldiers In the Revolutionary War: A New England Journey</title>
@@ -624,12 +522,12 @@
     </item>
     <item>
       <title>Empire State Climbers Accused of Breaking Security Door to Get to Spire</title>
-      <link>https://www.nytimes.com/2026/07/02/nyregion/empire-state-builing-climbers-arraignment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/nyregion/empire-state-builing-climbers-arraignment.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/nyregion/empire-state-builing-climbers-arraignment.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/07/02/nyregion/empire-state-building-climbers-arraignment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/nyregion/empire-state-building-climbers-arraignment.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/nyregion/empire-state-building-climbers-arraignment.html" rel="standout"></atom:link>
       <description>Angela Nikolau and Ivan Beerkus, extreme climbers who have illegally scaled buildings around the world, were arrested after getting engaged atop the Manhattan landmark.</description>
       <dc:creator>Miles G. Cohen and Hurubie Meko</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 23:11:42 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 23:11:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Empire State Building (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>

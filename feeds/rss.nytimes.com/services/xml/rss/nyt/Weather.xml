@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 01:07:20 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 01:04:40 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 04:59:32 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 03:04:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -16,12 +16,14 @@
     </image>
     <item>
       <title>Heat Wave Relief May Not Come at Sunset</title>
-      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/its-still-going-to-be-really-hot-tonight</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/its-still-going-to-be-really-hot-tonight</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/its-still-going-to-be-really-hot-tonight" rel="standout"></atom:link>
-      <description></description>
+      <link>https://www.nytimes.com/2026/07/02/weather/heat-wave-cool-down-sunset.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/heat-wave-cool-down-sunset.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/weather/heat-wave-cool-down-sunset.html" rel="standout"></atom:link>
+      <description>There are steps you can take to cool down after sundown even in conditions with high humidity.</description>
       <dc:creator>Amy Graff and Dani Blum</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 01:01:29 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 01:12:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-after-sunset-ktbf/02heat-wave-live-after-sunset-ktbf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Brandon/Associated Press</media:credit>
       <media:description>A vendor pulls out a bottle of water from a tank using dry ice to keep it cold, during a heat wave on Thursday at the Great American State Fair on the National Mall in Washington.</media:description>
@@ -668,7 +670,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v200.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v204.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
