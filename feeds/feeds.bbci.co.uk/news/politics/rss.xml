@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/politics</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 03 Jul 2026 20:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jul 2026 22:29:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/politics/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Starmer tells of 'intensely personal' decision to quit and warns Burnham in first interview since resigning]]></title>
+            <description><![CDATA[In an untypically candid interview, the outgoing PM tells the BBC it was "really tough" to accept his political career was over.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0qy2zxjkwvo#0</guid>
+            <pubDate>Fri, 03 Jul 2026 21:26:53 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d6d/live/57c990d0-772c-11f1-9510-1546718f668b.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Burnham rules out calling early election as PM]]></title>
             <description><![CDATA[The newly elected MP for Makerfield is expected to become PM this month and says he will stick to the 2024 Labour manifesto.]]></description>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a105/live/4d7551d0-7486-11f1-8e1d-bbbb1017d210.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Labour failed to prepare for power, admits PM's former top aide]]></title>
-            <description><![CDATA[In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce8j2e38zzgo#0</guid>
-            <pubDate>Thu, 02 Jul 2026 12:23:14 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ba/live/8d2414f0-761c-11f1-b976-0b9c15b0ccfc.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Labour general secretary to stand down after party conference]]></title>
             <description><![CDATA[Hollie Ridley has been credited with organising the ground campaign which led Labour to its landslide election win in 2024]]></description>
             <link>https://www.bbc.co.uk/news/articles/cly9xlgkyz5o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyrx1ee2r4o#0</guid>
             <pubDate>Fri, 03 Jul 2026 12:11:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d66/live/9076ae70-7634-11f1-84bb-4fedc7024897.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Labour failed to prepare for power, admits PM's former top aide]]></title>
+            <description><![CDATA[In his first-ever interview, Morgan McSweeney tells the BBC the party did not deliver quickly enough in office.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce8j2e38zzgo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce8j2e38zzgo#1</guid>
+            <pubDate>Thu, 02 Jul 2026 12:23:14 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ba/live/8d2414f0-761c-11f1-b976-0b9c15b0ccfc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Police criticise timing of decision on pubs staying open for England match]]></title>
@@ -221,14 +229,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8dg3883g7o#1</guid>
             <pubDate>Tue, 30 Jun 2026 16:59:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/895c/live/3da99f10-749d-11f1-b1a9-bd204fe03b95.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Welsh budget facing cuts because of Starmer defence plans, says first minister]]></title>
-            <description><![CDATA[Money for new buildings to be cut as a result of defence plans, Rhun ap Iorwerth says.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cyv09qj696vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cyv09qj696vo#1</guid>
-            <pubDate>Tue, 30 Jun 2026 18:22:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a97/live/0b260a90-74ae-11f1-9c5b-41132a229f02.jpg"/>
         </item>
         <item>
             <title><![CDATA[Is Andy Burnham facing a £5bn defence 'black hole'?]]></title>
@@ -471,6 +471,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb8c/live/b8218780-6ee4-11f1-8546-8f19e4fe30f4.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Starmer says decision to step down 'intensely personal']]></title>
+            <description><![CDATA[Keir Starmer says he took the decision to quit as PM after spending the weekend with his family.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cevlp9zrngeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cevlp9zrngeo#5</guid>
+            <pubDate>Fri, 03 Jul 2026 21:02:22 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f4/live/4da47520-7718-11f1-b976-0b9c15b0ccfc.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[President Trump joked about 'fat foxes' during first call with Starmer]]></title>
             <description><![CDATA[Trump joked about 'fat foxes' during first call with Starmer]]></description>
             <link>https://www.bbc.co.uk/news/videos/cvgm4n5lrypo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -501,14 +509,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c4gyq4qpw71o#5</guid>
             <pubDate>Wed, 01 Jul 2026 11:02:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/171b/live/4dcee140-753b-11f1-9510-1546718f668b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Politician says rabbit owners should have training]]></title>
-            <description><![CDATA[Welsh Labour's Mike Hedges asked Rhun ap Iorwerth about animal welfare in first minister's questions.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c1ly72qj9yyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c1ly72qj9yyo#5</guid>
-            <pubDate>Wed, 01 Jul 2026 10:52:26 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/10fa/live/71092880-7538-11f1-a627-714adb4eed6e.jpg"/>
         </item>
     </channel>
 </rss>

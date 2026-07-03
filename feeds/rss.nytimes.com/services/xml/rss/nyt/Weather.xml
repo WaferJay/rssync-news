@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 20:34:50 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 20:09:33 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 22:29:51 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 21:12:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>How the Heat Is Upending Plans for America’s 250th Birthday</title>
+      <link>https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html" rel="standout"></atom:link>
+      <description>A parade in Philadelphia, one of the largest in its history, was canceled on Friday, and the Great American State Fair on the National Mall in Washington closed for several hours.</description>
+      <dc:creator>Adeel Hassan, John S.W. MacDonald and Amy Graff</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 21:12:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Reading (Pa)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03xp-heat-disruption-tbwf/03xp-heat-disruption-tbwf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rachel Wisniewski for The New York Times</media:credit>
+      <media:description>Organizers of a parade in Philadelphia canceled the event because of the heat. More than 50 marching bands and about 20 floats had been expected to participate.</media:description>
+    </item>
     <item>
       <title>As Heat Suffocates Washington DC, Calls to Emergency Medical Services Climb</title>
       <link>https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html</link>
@@ -21,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html" rel="standout"></atom:link>
       <description>Near 100-degree temperatures were expected to continue as medical workers prepared for more heat-related illnesses during celebrations of the nation’s 250th anniversary.</description>
       <dc:creator>Clarence Williams</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 16:56:22 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 21:00:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
@@ -88,13 +110,13 @@
       <media:credit>Amir Hamja/The New York Times</media:credit>
     </item>
     <item>
-      <title>Blistering Heat Puts Damper on Some Fourth of July Events</title>
+      <title>Blistering Heat Is Expected to Linger Through Weekend</title>
       <link>https://www.nytimes.com/2026/07/03/weather/us-weather-heat-wave.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/weather/us-weather-heat-wave.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/03/weather/us-weather-heat-wave.html" rel="standout"></atom:link>
       <description>While relief could come to the Great Lakes and parts of the Northeast over the weekend, the Mid-Atlantic and Southeast will stay hot.</description>
       <dc:creator>Amy Graff and Mark Walker</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 20:09:33 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 20:49:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
@@ -779,24 +801,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/wildfire-wwk-1-gtbc/wildfire-wwk-1-gtbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Noah Berger/Associated Press</media:credit>
       <media:description>A helicopter dropped water on the Cottonwood Fire burning near Beaver, Utah, on Saturday.</media:description>
-    </item>
-    <item>
-      <title>See Day-by-Day Forecast as Heat Wave Engulfs U.S. Ahead of the July 4 Weekend</title>
-      <link>https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/weather/us-heat-wave-forecast.html" rel="standout"></atom:link>
-      <description>Dangerous heat is expected across much of the country through the Fourth of July weekend.</description>
-      <dc:creator>Nazaneen Ghaffar, Judson Jones and Camille Baker</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 20:34:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-heat-mon-index-promo/2026-06-29-heat-mon-index-promo-mediumSquareAt3X-v41.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
