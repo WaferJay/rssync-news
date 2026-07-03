@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 14:36:07 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 14:18:19 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 16:49:23 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 16:02:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>To Stay Cool, Wear Flowing Robes and Throw Water Around? Yes, Says Science.</title>
+      <link>https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/climate/traditions-stay-cool-heat-wave.html" rel="standout"></atom:link>
+      <description>Throughout history, people have come up with surprising ways to beat the heat that actually work.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 14:56:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sweating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/03/climate/03cli-staying-cool/03cli-staying-cool-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The Yomiuri Shimbun, via Associated Press</media:credit>
+      <media:description>Uchimizu, a Japanese practice of pouring cold water on pavement, has a cooling effect.</media:description>
+    </item>
     <item>
       <title>Without Climate Change, U.S. Heat Wave Called ‘Virtually Impossible’</title>
       <link>https://www.nytimes.com/2026/07/03/climate/heat-wave-us-canada-climate-change.html</link>
@@ -57,13 +75,13 @@
       <media:credit>Amir Hamja/The New York Times</media:credit>
     </item>
     <item>
-      <title>Blistering Heat Expected to Persist Into the Fourth of July</title>
+      <title>Blistering Heat Puts Damper on Some Fourth of July Events</title>
       <link>https://www.nytimes.com/2026/07/03/weather/us-weather-heat-wave.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/weather/us-weather-heat-wave.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/03/weather/us-weather-heat-wave.html" rel="standout"></atom:link>
-      <description>While relief could come to the Great Lakes and the far Northeast over the weekend, the Mid-Atlantic and Southeast will stay hot.</description>
+      <description>While relief could come to the Great Lakes and parts of the Northeast over the weekend, the Mid-Atlantic and Southeast will stay hot.</description>
       <dc:creator>Amy Graff and Mark Walker</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 08:39:51 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 16:02:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
@@ -176,6 +194,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AccuWeather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rothfusz, Lans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sweating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-heat-index-ljwv/02heat-wave-live-heat-index-ljwv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Carolina Herrera for The New York Times</media:credit>
       <media:description>The heat index can make a person feel hotter than the actual temperature.</media:description>
@@ -439,10 +460,11 @@
       <pubDate>Thu, 02 Jul 2026 07:00:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Trucks and Vendors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ovens and Stoves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bryant Park (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02met-hot-food-trucks-mpzf/02met-hot-food-trucks-mpzf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ryan Murphy for The New York Times</media:credit>
       <media:description>For the many food truck workers that serve meals around the city, air-conditioning is usually nonexistent.</media:description>
@@ -757,28 +779,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-heat-mon-index-promo/2026-06-29-heat-mon-index-promo-mediumSquareAt3X-v41.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Europe Heat Wave: Forecasts, Warnings and How to Stay Cool</title>
-      <link>https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html" rel="standout"></atom:link>
-      <description>A heat wave responsible for shattering numerous temperature records in Western Europe continued its shift east.</description>
-      <dc:creator>Nazaneen Ghaffar and Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 22:05:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v213.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
   </channel>
