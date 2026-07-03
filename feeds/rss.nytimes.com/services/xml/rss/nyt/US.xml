@@ -3,17 +3,73 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1783078788571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 11:39:48 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 09:01:28 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 14:31:07 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 14:13:43 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Trump’s National Guard Deployment in Washington Expands Ahead of Holiday</title>
+      <link>https://www.nytimes.com/2026/07/03/us/trump-national-guard-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/us/trump-national-guard-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/us/trump-national-guard-washington.html" rel="standout"></atom:link>
+      <description>Nearly 5,000 Guard troops are in the capital, double the number initially deployed. Many have passed the time washing off graffiti and picking up trash.</description>
+      <dc:creator>John Ismay</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 14:11:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/us/03dc-guard/03dc-guard-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>National Guard troops at a ceremony with Defense Secretary Pete Hegseth in Washington on Thursday.</media:description>
+    </item>
+    <item>
+      <title>No Engine Problems in Skydiving Plane Crash That Killed 12, N.T.S.B. Says</title>
+      <link>https://www.nytimes.com/2026/07/03/us/skydiving-plane-crash-butler-missouri-ntsb.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/us/skydiving-plane-crash-butler-missouri-ntsb.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/us/skydiving-plane-crash-butler-missouri-ntsb.html" rel="standout"></atom:link>
+      <description>A preliminary report said that the fuel was clean and that the plane, which had already made two flights that day, met weight and balance requirements.</description>
+      <dc:creator>Sabrina Tavernise</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 14:11:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parachutes and Parachute Jumping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Transportation Safety Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas City (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Butler, Missouri</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03nat-ntsb-skydiving-crash-hjbq/03nat-ntsb-skydiving-crash-hjbq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reed Hoffmann/Associated Press</media:credit>
+      <media:description>Emergency workers investigated the site of a plane crash at the Butler Memorial Airport in Missouri last month.</media:description>
+    </item>
+    <item>
+      <title>At the L.A. Warehouse Fire, First It Was the Smoke. Now It’s the Smell.</title>
+      <link>https://www.nytimes.com/2026/07/03/us/los-angeles-warehouse-fire-cleanup.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/us/los-angeles-warehouse-fire-cleanup.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/us/los-angeles-warehouse-fire-cleanup.html" rel="standout"></atom:link>
+      <description>Rotting food — millions of pounds of it — remains in an L.A. cold-storage facility damaged in a fire. Residents say the cleanup hasn’t been fast enough.</description>
+      <dc:creator>Orlando Mayorquín and Gabriela Bhaskar</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 13:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smells and Odors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boyle Heights (Los Angeles, Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bass, Karen Ruth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+    </item>
     <item>
       <title>A Big Gamble for the Left: Can Socialism Appeal in a Swing State?</title>
       <link>https://www.nytimes.com/2026/07/03/us/politics/democratic-socialism-wisconsin-francesca-hong.html</link>
@@ -264,13 +320,13 @@
       <media:description>First Lady Melania Trump and Vice President JD Vance</media:description>
     </item>
     <item>
-      <title>Supreme Court Allows Reporter to Be Fined for Failing to Disclose Source</title>
+      <title>Supreme Court Allows Former Fox News Reporter Catherine Herridge to Be Fined for Failing to Disclose Source</title>
       <link>https://www.nytimes.com/2026/07/02/us/politics/supreme-court-herridge-first-amendment.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/politics/supreme-court-herridge-first-amendment.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/02/us/politics/supreme-court-herridge-first-amendment.html" rel="standout"></atom:link>
       <description>Catherine Herridge, a former Fox News reporter, was held in civil contempt by a lower court after she refused to reveal her sources for articles she wrote about a scientist who was investigated by the F.B.I.</description>
       <dc:creator>Ann E. Marimow</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 21:42:19 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 21:42:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>

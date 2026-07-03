@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 11:43:41 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 10:42:39 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 14:36:07 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 14:18:19 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -87,7 +87,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/manhattan-street-closures-holiday-swift.html" rel="standout"></atom:link>
       <description>With Taylor Swift’s wedding on Friday, Midtown Manhattan will present some logistical challenges to drivers and pedestrians.</description>
       <dc:creator>Claire Fahy</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 07:00:12 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 07:00:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
@@ -363,6 +363,18 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-transit-bkhj/02heat-wave-live-transit-bkhj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hannah Beier for The New York Times</media:credit>
       <media:description>NJ Transit warned commuters that they may face delays related to the heat.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Nazaneen Ghaffar, Erin McCann, Christine Hauser and Mark Walker</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 23:07:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
     </item>
     <item>
       <title>Why This Heat Wave Is Unusual for New York</title>
@@ -766,26 +778,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v210.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v213.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>France Recorded 1,000 Excess Deaths During Heat Wave, Officials Say</title>
-      <link>https://www.nytimes.com/2026/06/29/world/europe/france-heat-wave-excess-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/world/europe/france-heat-wave-excess-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/world/europe/france-heat-wave-excess-deaths.html" rel="standout"></atom:link>
-      <description>First estimates published by the national health agency listed hundreds more deaths per day compared with the daily death rate in previous months.</description>
-      <dc:creator>Ségolène Le Stradic</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 20:06:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29france-deaths-01-fchb/29france-deaths-01-fchb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tom Nicholson/Reuters</media:credit>
-      <media:description>Officials recovering the body of someone who drowned while swimming in a canal on Friday as Paris baked under a heat wave.</media:description>
     </item>
   </channel>
 </rss>
