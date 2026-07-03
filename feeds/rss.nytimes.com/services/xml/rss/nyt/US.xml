@@ -3,17 +3,79 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1783078788571" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 08:28:27 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 04:59:06 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:39:48 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 09:01:28 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>A Big Gamble for the Left: Can Socialism Appeal in a Swing State?</title>
+      <link>https://www.nytimes.com/2026/07/03/us/politics/democratic-socialism-wisconsin-francesca-hong.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/us/politics/democratic-socialism-wisconsin-francesca-hong.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/us/politics/democratic-socialism-wisconsin-francesca-hong.html" rel="standout"></atom:link>
+      <description>Francesca Hong, a state legislator running for governor of Wisconsin, wants to prove that a democratic socialist can win in a battleground. Some say she would hand the race to Republicans.</description>
+      <dc:creator>Kellen Browning and Jenn Ackerman</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 09:01:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03pol-wisconsin-socialists-promo-mwgl/03pol-wisconsin-socialists-promo-mwgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jenn Ackerman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>How Communities Across the U.S. Are Ringing in America’s 250th</title>
+      <link>https://www.nytimes.com/2026/07/03/us/july-4-events.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/us/july-4-events.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/us/july-4-events.html" rel="standout"></atom:link>
+      <description>Plans include an air show in Texas, 18,500 fireworks in Idaho and a frog-jumping contest in Missouri.</description>
+      <dc:creator>Maia Spoto and Derrick Bryson Taylor</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 09:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Balloons (Aeronautics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cowboys and Cowgirls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston Pops Orchestra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Macy&#39;s Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albuquerque (NM)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn Bridge (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cody (Wyo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East River (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Freedom (Wyo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Idaho Falls (Idaho)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Idaho</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yellowstone National Park</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Snake River (Wyo, Idaho, Ore, Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03nat-wwk-july4-events-jhkz/03nat-wwk-july4-events-jhkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ethan Miller/Getty Images</media:credit>
+      <media:description>A 300-foot-wide by 150-foot-tall American flag suspended across the Hoover Dam.</media:description>
+    </item>
     <item>
       <title>As Ukraine War Escalates, Witkoff and Kushner Are Focused on Iran</title>
       <link>https://www.nytimes.com/2026/07/02/us/politics/ukraine-russia-witkoff-kushner-trump.html</link>
@@ -396,127 +458,6 @@
       <media:content height="915" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02pol-tucker-carlson-tbgh/02pol-tucker-carlson-tbgh-mediumSquareAt3X.jpg" width="915"></media:content>
       <media:credit>Ross D. Franklin/Associated Press</media:credit>
       <media:description>Tucker Carlson, a former Trump ally, broke with the G.O.P. over the war with Iran.</media:description>
-    </item>
-    <item>
-      <title>Ocasio-Cortez Endorses Abdul El-Sayed in Crucial Michigan Senate Race</title>
-      <link>https://www.nytimes.com/2026/07/02/us/politics/ocasio-cortez-endorses-abdul-el-sayed-in-crucial-michigan-senate-race.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/politics/ocasio-cortez-endorses-abdul-el-sayed-in-crucial-michigan-senate-race.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/politics/ocasio-cortez-endorses-abdul-el-sayed-in-crucial-michigan-senate-race.html" rel="standout"></atom:link>
-      <description>The endorsement is the first in a contested Senate primary by Representative Alexandria Ocasio-Cortez this year, in a state that Democrats believe they must hold this fall to win a Senate majority.</description>
-      <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 14:20:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02pol-aoc-edorsement-wghf/02pol-aoc-edorsement-wghf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Paul Sancya/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>California Bans ‘Sell By’ Labels, Hoping to Cut Food Waste</title>
-      <link>https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/california-food-labels-sell-by.html" rel="standout"></atom:link>
-      <description>The law standardizes language around expiration dates, aiming to minimize confusion about when food is safe to eat. More than one-third of food sold nationwide is wasted, the U.S.D.A. says.</description>
-      <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 10:03:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infant Formulas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">English Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02xp-foodlabels-02-bzpq-PROMO/02xp-foodlabels-02-bzpq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jeff Chiu/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Nazaneen Ghaffar, Erin McCann, Christine Hauser and Mark Walker</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 23:07:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Across a Scorching Ohio, Residents Endure Breathtaking Heat</title>
-      <link>https://www.nytimes.com/2026/07/02/us/ohio-heat-dome.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/ohio-heat-dome.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/ohio-heat-dome.html" rel="standout"></atom:link>
-      <description>The heat wave gripping much of the eastern half of the country over the past few days has been especially intense throughout the state.</description>
-      <dc:creator>Billy Witz, Sejal Govindarao and Kevin Williams</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 09:03:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-ohio-heat-htgj/02nat-ohio-heat-htgj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brian Kaiser for The New York Times</media:credit>
-      <media:description>Construction workers during a heat wave on Wednesday in Columbus, Ohio.</media:description>
-    </item>
-    <item>
-      <title>Boston Is Drinking Like It’s 1776. The Founding Fathers Would Be Proud.</title>
-      <link>https://www.nytimes.com/2026/07/02/us/brooke-barbier-revolutionary-era-drinks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/brooke-barbier-revolutionary-era-drinks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/brooke-barbier-revolutionary-era-drinks.html" rel="standout"></atom:link>
-      <description>A summer of celebratory drinking is underway in the birthplace of the American Revolution. But however tipsy the tourists get, the founders probably had them beat.</description>
-      <dc:creator>Jenna Russell</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 16:29:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Revolutionary War, American (1775-83)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-250-alcohol-cfwm/02nat-250-alcohol-cfwm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Veasey Conway for The New York Times</media:credit>
-      <media:description>Hundreds of thousands of visitors are expected this summer in Boston, where the American Revolution began, to celebrate the nation’s 250th. </media:description>
-    </item>
-    <item>
-      <title>Republican Senate Candidates Start Their Own Super PACs to Gain Cash Advantage</title>
-      <link>https://www.nytimes.com/2026/07/02/us/politics/republican-senate-candidates-super-pac.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/politics/republican-senate-candidates-super-pac.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/politics/republican-senate-candidates-super-pac.html" rel="standout"></atom:link>
-      <description>Most of the party’s top candidates are starting their own super PACs instead of relying on a powerful group run by Washington leaders. The move allows them to seize control of their financial destinies.</description>
-      <dc:creator>Theodore Schleifer</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 09:01:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Leadership Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/us/02pol-senate-super-pacs/02pol-senate-super-pacs-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>Nathan Howard/Reuters; Kenny Holston/The New York Times</media:credit>
-      <media:description>Representative Ashley Hinson of Iowa and Senator Jon Husted of Ohio are two of the Republican candidates for Senate this year with their own allied super PACs.</media:description>
-    </item>
-    <item>
-      <title>A ‘Muslims Only’ Swim Party and the Backlash That Followed</title>
-      <link>https://www.nytimes.com/2026/07/02/us/muslim-swim-party-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/muslim-swim-party-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/muslim-swim-party-texas.html" rel="standout"></atom:link>
-      <description>A Muslim mother’s plan for an Eid swim party near Dallas drew backlash, then threats that upended her quiet life.</description>
-      <dc:creator>J. David Goodman and Desiree Rios</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 20:36:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Prairie (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-muslim-waterpark-1-gkbf/02nat-muslim-waterpark-1-gkbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Aminah Knight and her husband, Imam Muhammad Abdullah, pose for a portrait in Fort Worth.</media:description>
     </item>
   </channel>
 </rss>

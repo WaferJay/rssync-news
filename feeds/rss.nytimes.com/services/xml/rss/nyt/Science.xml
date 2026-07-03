@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 05:02:32 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 00:14:40 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:43:13 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 11:42:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>A Mission to Save NASA’s Swift Telescope Launches to Orbit</title>
+      <link>https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html" rel="standout"></atom:link>
+      <description>A refrigerator-size spacecraft will try to grab onto Swift and nudge it to a higher orbit, enabling it to continue observing powerful cosmic explosions.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 11:22:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/03sci-nasa-reboost-topart/26sci-nasa-reboost-01-lmqg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>NASA</media:credit>
+      <media:description>An artist’s concept of the Neil Gehrels Swift Observatory telescope being ferried to a higher orbit over Earth by Link, a spacecraft from Katalyst Space Technologies.</media:description>
+    </item>
     <item>
       <title>Scientists React to the Lab-Made, Yet Lifelike, SpudCell</title>
       <link>https://www.nytimes.com/2026/07/02/science/spudcell-scientists-reaction.html</link>
@@ -89,23 +106,6 @@
       <media:credit>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA, via Associated Press</media:credit>
     </item>
     <item>
-      <title>NASA Aims to Catch a Falling Space Telescope and Push It Back Up</title>
-      <link>https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html" rel="standout"></atom:link>
-      <description>Without a rescue mission, NASA’s Swift Observatory, which studies some of the most powerful explosions in the universe, will burn up in the atmosphere within a few months.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 11:28:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26sci-nasa-reboost-01-lmqg/26sci-nasa-reboost-01-lmqg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>NASA</media:credit>
-      <media:description>An artist’s concept of the Neil Gehrels Swift Observatory being ferried to a higher orbit over Earth by the start-up Katalyst Space Technologies’s Link spacecraft.</media:description>
-    </item>
-    <item>
       <title>Turtles Are Really Weird Animals. Where Did They Come From?</title>
       <link>https://www.nytimes.com/2026/06/29/science/turtles-origins-dinosaurs-archosaurs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/science/turtles-origins-dinosaurs-archosaurs.html</guid>
@@ -138,6 +138,45 @@
       <media:content height="1346" medium="image" url="https://static01.nyt.com/images/2026/06/22/science/22SCI-NewSpider/22SCI-NewSpider-mediumSquareAt3X.jpg" width="1346"></media:content>
       <media:credit>Ajay Narendra et al., Current Biology</media:credit>
       <media:description>A newly described Australian ballista spider waiting to catch an ant in its snare.</media:description>
+    </item>
+    <item>
+      <title>E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue</title>
+      <link>https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html" rel="standout"></atom:link>
+      <description>And why the most patriotic approach to the Reflecting Pool may be to let the algae take over.</description>
+      <dc:creator>Alan Burdick</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 09:03:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paul Smith&#39;s College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thoreau, Henry David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Walden Pond (Concord, Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03SCI-ALGAE-DEFENSE-09-vmfh/03SCI-ALGAE-DEFENSE-09-vmfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Salwan Georges for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Has the MAHA Movement Given Up?</title>
+      <link>https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html" rel="standout"></atom:link>
+      <description>Robert F. Kennedy Jr. and his allies promised public-health libertarianism. The idea couldn’t survive once they took power.</description>
+      <dc:creator>David Wallace-Wells</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 09:00:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
     </item>
     <item>
       <title>Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says</title>
@@ -295,6 +334,23 @@
       <media:description>Duke Energy is one of the nation’s largest utilities. Here, a Duke Energy wind farm project in Rolling Hills, Wyoming.</media:description>
     </item>
     <item>
+      <title>NASA Aims to Catch a Falling Space Telescope and Push It Back Up</title>
+      <link>https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/29/science/nasa-falling-space-telescope-swift.html" rel="standout"></atom:link>
+      <description>Without a rescue mission, NASA’s Swift Observatory, which studies some of the most powerful explosions in the universe, will burn up in the atmosphere within a few months.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 11:28:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26sci-nasa-reboost-01-lmqg/26sci-nasa-reboost-01-lmqg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>NASA</media:credit>
+      <media:description>An artist’s concept of the Neil Gehrels Swift Observatory being ferried to a higher orbit over Earth by the start-up Katalyst Space Technologies’s Link spacecraft.</media:description>
+    </item>
+    <item>
       <title>Richard Scolyer, Cancer Expert Who ‘Became His Own Subject,’ Dies at 59</title>
       <link>https://www.nytimes.com/2026/06/26/science/richard-scolyer-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/science/richard-scolyer-dead.html</guid>
@@ -354,21 +410,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26cli-oregon-01-kwgh/26cli-oregon-01-kwgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael Hanson for The New York Times</media:credit>
       <media:description>Richard Schechter, a lawyer for Multnomah County in Oregon, addressing the judge in court on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>How a Bird’s Habitat Can Change Its Song</title>
-      <link>https://www.nytimes.com/2026/06/26/science/birds-acoustics-birdsong.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/science/birds-acoustics-birdsong.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/science/birds-acoustics-birdsong.html" rel="standout"></atom:link>
-      <description>For the Bachman’s sparrow, whether a song is passed to the next generation could depend, in part, on the wind and trees.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 09:00:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acoustics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
     </item>
   </channel>
 </rss>

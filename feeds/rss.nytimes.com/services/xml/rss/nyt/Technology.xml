@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 05:02:49 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 04:05:18 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 11:39:51 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 11:26:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -93,6 +93,40 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>“Artificial,” a film about Sam Altman, the chief executive of OpenAI, had gotten a green light from Amazon in 2023.</media:description>
+    </item>
+    <item>
+      <title>Fable Ban Reversed + Dr. Dana Suskind on Parenting With A.I. + Prediction Market Drama</title>
+      <link>https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/podcasts/fable-ban-reversed-dr-dana-suskind-on-parenting-with-ai-prediction-market-drama.html" rel="standout"></atom:link>
+      <description>What we learned from the government’s biggest attempt yet to control who can gain access to the most powerful new A.I. models.</description>
+      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop and Rowan Niemisto</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/podcasts/3hardfork-Fable/3hardfork-Fable-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Microsoft Disclosure Provides Rare Glimpse of Tax Haven Tactics</title>
+      <link>https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/technology/microsoft-europe-disclosure-tax-havens.html" rel="standout"></atom:link>
+      <description>Other U.S. companies will soon need to provide similar reports as a new European directive takes effect.</description>
+      <dc:creator>Jesse Drucker and Karen Weise</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 09:04:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Shelters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Luxembourg</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03biz-microsoft-haven-jhqt/03biz-microsoft-haven-jhqt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Martin Bureau/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The French headquarters of Microsoft in Issy-les-Moulineaux. France is one of the European countries where Microsoft said it had small profits.</media:description>
     </item>
     <item>
       <title>Tesla Driver Using Autopilot in Texas Crash Is Charged With Manslaughter</title>
@@ -391,53 +425,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/business/00biz-intel-turnaround/00biz-intel-turnaround-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lincoln Agnew</media:credit>
-    </item>
-    <item>
-      <title>How a Niche Technology Became a Choke Point for A.I.</title>
-      <link>https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/technology/ai-advanced-chip-packaging-tsmc.html" rel="standout"></atom:link>
-      <description>Advanced chip packaging, which boosts computing power for artificial intelligence, has made the United States more reliant on Taiwan than ever.</description>
-      <dc:creator>Don Clark and Gabriela Bhaskar</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 18:55:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amkor Technology Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Applied Materials Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taiwan Semiconductor Manufacturing Company Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of California, Los Angeles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Business Machines Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/00biz-chip-package-Iyer-kfhp/00biz-chip-package-Iyer-kfhp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>A silicon wafer reflecting Subramanian Iyer, a specialist at the University of California, Los Angeles, in a technology called advanced chip packaging.</media:description>
-    </item>
-    <item>
-      <title>Trump Plans to Name Adam Candeub as Antitrust Chief in Justice Dept.</title>
-      <link>https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/technology/trump-antitrust-doj-adam-candeub.html" rel="standout"></atom:link>
-      <description>President Trump plans to nominate a tech critic and telecommunications lawyer, Adam Candeub, to lead the division.</description>
-      <dc:creator>Cecilia Kang</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 23:25:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Candeub, Adam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mandate for Leadership (Project 2025) (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heritage Foundation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25biz-doj-antitrust-Adam-Candeub-cphg/25biz-doj-antitrust-Adam-Candeub-cphg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>If confirmed by the Senate, Adam Candeub, the general counsel at the Federal Communications Commission, would lead the antitrust division at Department of Justice, above. </media:description>
     </item>
   </channel>
 </rss>
