@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?3Q=bThYJfRJ" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 14:46:31 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 13:24:40 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 16:25:08 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 16:03:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -16,9 +16,9 @@
     </image>
     <item>
       <title>Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin</title>
-      <link>https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html" rel="standout"></atom:link>
       <description>A report from a cryptocurrency analytics firm details how those who bought the Trump memecoin have fared, with most retail investors having lost money while sophisticated traders did better.</description>
       <dc:creator>Eric Lipton and David Yaffe-Bellany</dc:creator>
       <pubDate>Sat, 04 Jul 2026 10:28:34 +0000</pubDate>
@@ -111,14 +111,13 @@
       <dc:creator>John Koblin and Amir Hamja</dc:creator>
       <pubDate>Fri, 03 Jul 2026 15:00:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Web-Original Programming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shapiro-Barnum, Julian</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Outside Tonight (Web-Original Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Recess Therapy (Web-Original Program)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/YOUTUBE-LATENIGHT-1-02-gtkz/YOUTUBE-LATENIGHT-1-02-gtkz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:description>Julian Shapiro-Barnum filming an episode of “Outside Tonight” in the Greenpoint neighborhood of Brooklyn last month.</media:description>
@@ -151,13 +150,17 @@
       <dc:creator>Jeff Sommer</dc:creator>
       <pubDate>Fri, 03 Jul 2026 09:01:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessembinder, Hendrik</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arizona State University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Worldcom Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ebbers, Bernard J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lucent Technologies Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rivian Automotive LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wachovia Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Worldcom Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessembinder, Hendrik</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ebbers, Bernard J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
     </item>
     <item>
       <title>Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit</title>
