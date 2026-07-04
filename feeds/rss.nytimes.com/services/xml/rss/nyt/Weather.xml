@@ -7,13 +7,52 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 04:56:53 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 03:33:56 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 08:07:13 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 07:00:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Fourth of July Weekend Presents a Huge Logistical Challenge for New York</title>
+      <link>https://www.nytimes.com/2026/07/04/nyregion/nyc-july-4th-security.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/nyregion/nyc-july-4th-security.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/04/nyregion/nyc-july-4th-security.html" rel="standout"></atom:link>
+      <description>A flurry of major events is expected to draw large crowds, requiring extensive planning and security preparations. Oh, and there’s also a heat wave.</description>
+      <dc:creator>Benjamin Oreskes and Chelsia Rose Marcius</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 07:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04MET-4TH-SECURITY-vjfl/04MET-4TH-SECURITY-vjfl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lucia Vazquez for The New York Times</media:credit>
+      <media:description>Tall ships traveled past the East River Esplanade in Manhattan during Sail4th 250 on Friday. Dozens of vessels are set to take part in a parade on the Hudson River on Saturday.</media:description>
+    </item>
+    <item>
+      <title>Storms Cause Power Outages for 1 Million in Midwest, Northeast and Ontario</title>
+      <link>https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html" rel="standout"></atom:link>
+      <description>Strong winds from thunderstorms caused widespread cuts as the region sweltered in a heat wave.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 06:06:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1582" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04xp-storms/04xp-storms-mediumSquareAt3X.jpg" width="1584"></media:content>
+      <media:credit>Robert Killips/Lansing State Journal, via USA Today, via Imagn Images, via Reuters</media:credit>
+      <media:description>Large tree branches came down during a storm in Lansing, Mich. on Friday.</media:description>
+    </item>
     <item>
       <title>3 Dead After Boat Capsizes on Wisconsin Lake During Severe Storm</title>
       <link>https://www.nytimes.com/2026/07/03/us/boat-capsized-storm-wisconsin.html</link>
@@ -32,7 +71,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Geneva (Wis)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/03/weather/2026-07-03-fridaystorms-index-promo/2026-07-03-fridaystorms-index-promo-mediumSquareAt3X-v3.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/03/weather/2026-07-03-fridaystorms-index-promo/2026-07-03-fridaystorms-index-promo-mediumSquareAt3X-v5.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -755,47 +794,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30wea-canada-heat-wave-mpwb/30wea-canada-heat-wave-mpwb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael Steele/Getty Images</media:credit>
       <media:description>Toronto and other parts of Canada will face higher temperatures.</media:description>
-    </item>
-    <item>
-      <title>Supreme Court Expands Trump’s Power, and a Dangerous U.S. Heat Wave Spreads</title>
-      <link>https://www.nytimes.com/2026/06/30/podcasts/the-headlines/supreme-court-trump-heat-wave.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/podcasts/the-headlines/supreme-court-trump-heat-wave.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/podcasts/the-headlines/supreme-court-trump-heat-wave.html" rel="standout"></atom:link>
-      <description>Plus, a daring rescue mission in space.</description>
-      <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, Ann E. Marimow and Luke Broadwater</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 10:00:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30theheadlines-court-jlhb/30theheadlines-court-jlhb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>The Supreme Court ruled to expand President Trump’s power to fire independent regulators but carved out an exception for the Federal Reserve.</media:description>
-    </item>
-    <item>
-      <title>Fourth of July Heat Wave Forecast: Here Are the Day-by-Day Temperatures</title>
-      <link>https://www.nytimes.com/2026/06/30/weather/july-fourth-heat-wave-forecast.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/weather/july-fourth-heat-wave-forecast.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/weather/july-fourth-heat-wave-forecast.html" rel="standout"></atom:link>
-      <description>A day-by-day breakdown of where dangerous heat is expected through the Fourth of July weekend.</description>
-      <dc:creator>Nazaneen Ghaffar, Judson Jones and Erin McCann</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 19:04:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/29/weather/2026-06-29-tues-index-promo/2026-06-29-tues-index-promo-mediumSquareAt3X-v75.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
