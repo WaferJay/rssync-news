@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 14:43:55 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 12:49:14 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 20:25:11 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 19:31:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -144,6 +144,23 @@
       <media:content height="1402" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/00SCI-TURTLES-ORIGINS-01-zhbg/00SCI-TURTLES-ORIGINS-01-zhbg-mediumSquareAt3X.jpg" width="1403"></media:content>
       <media:credit>Jon Elswick/Associated Press</media:credit>
       <media:description>A new study suggests turtles belong to a group of reptiles called archosauromorphs, which also includes ancient birds, crocodiles, pterosaurs and dinosaurs, and may share a common ancestor with them.</media:description>
+    </item>
+    <item>
+      <title>Stanley M. Gartler, Pioneer in Cancer Research, Dies at 102</title>
+      <link>https://www.nytimes.com/2026/07/04/science/stanley-m-gartler-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/science/stanley-m-gartler-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/04/science/stanley-m-gartler-dead.html" rel="standout"></atom:link>
+      <description>He provided the first convincing evidence that cancerous tumors develop from a single mutated cell and later helped expose contamination by cells taken from Henrietta Lacks.</description>
+      <dc:creator>Jeré Longman</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 19:31:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gartler, Stanley M (1923-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tumors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lacks, Henrietta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
     </item>
     <item>
       <title>Has the MAHA Movement Given Up?</title>
@@ -349,27 +366,6 @@
       <media:content height="1346" medium="image" url="https://static01.nyt.com/images/2026/06/22/science/22SCI-NewSpider/22SCI-NewSpider-mediumSquareAt3X.jpg" width="1346"></media:content>
       <media:credit>Ajay Narendra et al., Current Biology</media:credit>
       <media:description>A newly described Australian ballista spider waiting to catch an ant in its snare.</media:description>
-    </item>
-    <item>
-      <title>Richard Scolyer, Cancer Expert Who ‘Became His Own Subject,’ Dies at 59</title>
-      <link>https://www.nytimes.com/2026/06/26/science/richard-scolyer-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/science/richard-scolyer-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/science/richard-scolyer-dead.html" rel="standout"></atom:link>
-      <description>His lifesaving melanoma research in Australia illuminated the treatment he underwent for his own brain tumor, an ordeal he courageously shared with the public.</description>
-      <dc:creator>Richard Sandomir</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 20:50:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scolyer, Richard (1966-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Melanomas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunotherapy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/obituaries/00-Scolyer-print4/00-Scolyer-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bianca De Marchi/AAP Image, via Reuters</media:credit>
-      <media:description>Dr. Richard Scolyer in 2023. He became a high-profile public figure in Australia as he wrote and spoke about his experimental treatments for his own aggressive cancer.</media:description>
     </item>
   </channel>
 </rss>
