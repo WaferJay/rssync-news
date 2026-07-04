@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world/europe</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 04 Jul 2026 12:38:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jul 2026 14:47:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/europe/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Ukraine hits major oil terminal in Russia's St Petersburg]]></title>
+            <description><![CDATA[Ukrainian President Volodymyr Zelensky says the target is key infrastructure "that generates revenue for Russia's war".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8j2vmzxezro#0</guid>
+            <pubDate>Sat, 04 Jul 2026 14:07:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/737c/live/fec2f110-779f-11f1-90c7-73fde41eb72e.png"/>
+        </item>
         <item>
             <title><![CDATA[Pope urges Europe to do more for migrants while visiting gateway island]]></title>
             <description><![CDATA[The pontiff pays tribute to migrants who lost their lives at sea at a cemetery on the Italian island of Lampedusa.]]></description>
@@ -21,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yz83n7q5no#0</guid>
             <pubDate>Sat, 04 Jul 2026 11:25:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f69/live/f6627020-7788-11f1-a627-714adb4eed6e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Polish PM warns critical months ahead in face of Russian threat]]></title>
-            <description><![CDATA[Tusk says Poland is preparing for "various" scenarios after media reports of a planned Russian attack.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj0gp88q4l4o#0</guid>
-            <pubDate>Fri, 03 Jul 2026 16:41:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Russia looks to students to make up for mounting losses in Ukraine]]></title>
@@ -71,12 +71,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f45/live/7e8ec8a0-76de-11f1-9510-1546718f668b.jpg"/>
         </item>
         <item>
-            <title><![CDATA['Most massive' Russian attack on Kyiv kills at least 30]]></title>
-            <description><![CDATA[The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gyv05gk4do#1</guid>
-            <pubDate>Fri, 03 Jul 2026 04:41:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6649/live/4f89e160-7630-11f1-ac11-19a4319081d7.jpg"/>
+            <title><![CDATA[Polish PM warns critical months ahead in face of Russian threat]]></title>
+            <description><![CDATA[Tusk says Poland is preparing for "various" scenarios after media reports of a planned Russian attack.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj0gp88q4l4o#1</guid>
+            <pubDate>Fri, 03 Jul 2026 16:41:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Vatican excommunicates followers of global Catholic sect]]></title>
