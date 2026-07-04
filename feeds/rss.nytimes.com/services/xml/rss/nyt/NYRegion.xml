@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 01:00:16 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 00:59:50 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 04:56:37 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 02:44:50 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -60,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/trump-constantino-smullen-stefanik.html" rel="standout"></atom:link>
       <description>Assemblyman Robert Smullen, who lost a Republican primary, will not run on the Conservative Party line in his bid to replace Representative Elise Stefanik.</description>
       <dc:creator>Grace Ashford</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 16:16:33 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 01:03:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Constantino, Anthony T (1982- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smullen, Robert</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stefanik, Elise</category>
@@ -197,13 +197,30 @@
       <media:description>Angela Nikolau and Ivan Beerkus, who have illegally climbed buildings worldwide, were arrested after getting engaged atop the Empire State Building.</media:description>
     </item>
     <item>
+      <title>Sewage Spills Into Hudson River After Power Failure at Treatment Plant</title>
+      <link>https://www.nytimes.com/2026/07/03/nyregion/sewage-spill-hudson-river.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/nyregion/sewage-spill-hudson-river.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/sewage-spill-hudson-river.html" rel="standout"></atom:link>
+      <description>The spill, at a plant just north of New York City, continued from Thursday night to Friday afternoon. It was not expected to affect the city’s Fourth of July celebrations.</description>
+      <dc:creator>Andy Newman and Hilary Howard</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 02:33:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Westchester County (NY)</category>
+      <media:content height="1513" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03met-sewage-ptgv/03met-sewage-ptgv-mediumSquareAt3X.jpg" width="1512"></media:content>
+      <media:credit>Carolina Herrera for The New York Times</media:credit>
+      <media:description>The Hudson River off Manhattan on Thursday, the day before a sewage spill at a plant just north of the city.</media:description>
+    </item>
+    <item>
       <title>How the Heat Is Upending Plans for America’s 250th Birthday</title>
       <link>https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html" rel="standout"></atom:link>
-      <description>A parade in Philadelphia, one of the largest in its history, was canceled on Friday, and the Great American State Fair on the National Mall in Washington closed for several hours.</description>
+      <description>Parades in Washington and Philadelphia were canceled, and the Great American State Fair on the National Mall closed for several hours.</description>
       <dc:creator>Adeel Hassan, John S.W. MacDonald and Amy Graff</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 23:46:18 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 02:44:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
@@ -225,8 +242,8 @@
       <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/victoria-cruz-dead.html" rel="standout"></atom:link>
       <description>She was at the Stonewall Inn on the night of its 1969 police raid, and she later became a forceful advocate for survivors of anti-trans violence.</description>
       <dc:creator>Clay Risen</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 20:41:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Victoria Cruz (1946-2026)</category>
+      <pubDate>Fri, 03 Jul 2026 20:41:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cruz, Victoria (1946-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
@@ -375,18 +392,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02HEAT-STYLE-01-vwtc/02HEAT-STYLE-01-vwtc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>One way to beat the heat? Skateboarding down a shady sidewalk.</media:description>
-    </item>
-    <item>
-      <title>Homes for Sale in Connecticut and New York</title>
-      <link>https://www.nytimes.com/2026/07/02/realestate/housing-market-near-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/realestate/housing-market-near-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/realestate/housing-market-near-nyc.html" rel="standout"></atom:link>
-      <description>This week’s properties are a three-bedroom house in Greenwich, Conn., and a four-bedroom house in East Hampton, N.Y.</description>
-      <dc:creator>Alicia Napierkowski and Claudia Gryvatz Copquin</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 09:02:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Hampton (Conn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenwich (Conn)</category>
     </item>
   </channel>
 </rss>

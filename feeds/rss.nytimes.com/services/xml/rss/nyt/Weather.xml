@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 01:03:59 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 01:02:20 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 04:56:53 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 03:33:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/03/us/boat-capsized-storm-wisconsin.html" rel="standout"></atom:link>
       <description>Seven others were rescued from the waters of Geneva Lake, southwest of Milwaukee, the authorities said.</description>
       <dc:creator>Mark Walker and Amy Graff</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 00:33:48 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 03:33:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
@@ -40,9 +40,9 @@
       <link>https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/03/weather/heat-wave-weather-delays-injuries.html" rel="standout"></atom:link>
-      <description>A parade in Philadelphia, one of the largest in its history, was canceled on Friday, and the Great American State Fair on the National Mall in Washington closed for several hours.</description>
+      <description>Parades in Washington and Philadelphia were canceled, and the Great American State Fair on the National Mall closed for several hours.</description>
       <dc:creator>Adeel Hassan, John S.W. MacDonald and Amy Graff</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 23:46:18 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 02:44:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
@@ -237,6 +237,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cincinnati Zoo and Botanical Garden</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cincinnati (Ohio)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-animals-vwgh/02nat-animals-vwgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Madeleine Hordinski for The New York Times</media:credit>
       <media:description>Elephants cooled off in their pool at the Cincinnati Zoo on Thursday.</media:description>
