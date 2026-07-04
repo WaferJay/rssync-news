@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 20:22:37 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 15:47:19 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 21:26:37 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 21:23:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -195,17 +195,12 @@
       <dc:creator>Alan Burdick</dc:creator>
       <pubDate>Fri, 03 Jul 2026 09:03:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paul Smith&#39;s College</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thoreau, Henry David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Walden Pond (Concord, Mass)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03SCI-ALGAE-DEFENSE-09-vmfh/03SCI-ALGAE-DEFENSE-09-vmfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Salwan Georges for The New York Times</media:credit>
@@ -218,13 +213,17 @@
       <description>Beef is far worse for greenhouse gas emissions compared with other meat.</description>
       <dc:creator>Francesca Paris</dc:creator>
       <pubDate>Fri, 03 Jul 2026 09:01:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hamburgers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hamburgers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cattle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Methane</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grilling (Cooking)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/2026-06-29-beef-v-brat-index/2026-06-29-beef-v-brat-index-mediumSquareAt3X-v6.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
@@ -534,7 +533,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v257.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v260.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -682,7 +681,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v257.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v260.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>

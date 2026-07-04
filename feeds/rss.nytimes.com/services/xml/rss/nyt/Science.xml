@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 20:25:11 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 19:31:21 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 21:26:34 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 21:07:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -23,17 +23,12 @@
       <dc:creator>Alan Burdick</dc:creator>
       <pubDate>Fri, 03 Jul 2026 09:03:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paul Smith&#39;s College</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thoreau, Henry David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Walden Pond (Concord, Mass)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03SCI-ALGAE-DEFENSE-09-vmfh/03SCI-ALGAE-DEFENSE-09-vmfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Salwan Georges for The New York Times</media:credit>
@@ -46,10 +41,9 @@
       <description>A refrigerator-size spacecraft will try to grab onto Swift and nudge it to a higher orbit, enabling it to continue observing powerful cosmic explosions.</description>
       <dc:creator>Kenneth Chang</dc:creator>
       <pubDate>Fri, 03 Jul 2026 22:17:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/03sci-nasa-reboost-topart/26sci-nasa-reboost-01-lmqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>NASA</media:credit>
@@ -170,12 +164,16 @@
       <description>Robert F. Kennedy Jr. and his allies promised public-health libertarianism. The idea couldn’t survive once they took power.</description>
       <dc:creator>David Wallace-Wells</dc:creator>
       <pubDate>Fri, 03 Jul 2026 09:00:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
     </item>
     <item>
       <title>Deadly MV Hondius Hantavirus Outbreak Is Over, W.H.O. Says</title>
