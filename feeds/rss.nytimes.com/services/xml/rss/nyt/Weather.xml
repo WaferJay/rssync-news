@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 21:26:35 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 20:38:18 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:25:54 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 22:19:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>The City Where You’ll Nearly Always Want a Jacket on the Fourth of July</title>
+      <link>https://www.nytimes.com/2026/07/04/weather/san-francisco-july-4-forecast-golden-gate-bridge-fireworks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/weather/san-francisco-july-4-forecast-golden-gate-bridge-fireworks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/04/weather/san-francisco-july-4-forecast-golden-gate-bridge-fireworks.html" rel="standout"></atom:link>
+      <description>As the East Coast bakes under a heat wave, San Francisco will be 66 degrees. But good luck watching the fireworks through the fog.</description>
+      <dc:creator>Amy Graff</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 22:19:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Francisco Chronicle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Golden Gate Bridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-coldest-town-topart-lpzq/04america-250-coldest-town-topart-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christie Hemm Klok for The New York Times</media:credit>
+      <media:description>The Cole Valley neighborhood of San Francisco last month.</media:description>
+    </item>
     <item>
       <title>It’s heat dome 1, George Washington 0.</title>
       <link>https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0</link>
@@ -785,26 +805,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Copland, Aaron</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lincoln, Abraham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-    </item>
-    <item>
-      <title>With Lessons From a Perilous Blizzard, Mamdani Prepares for Extreme Heat</title>
-      <link>https://www.nytimes.com/2026/07/01/nyregion/new-york-city-mamdani-heat-cold-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/nyregion/new-york-city-mamdani-heat-cold-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/nyregion/new-york-city-mamdani-heat-cold-deaths.html" rel="standout"></atom:link>
-      <description>After more than two dozen people died during a brutal cold snap in New York City, city officials came up with a plan to keep people safe in the cold and extreme heat.</description>
-      <dc:creator>Andy Newman and Caitlyn Freeman</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 12:57:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold and Cold Spells</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Coalition for the Homeless</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01Mamdani-Heat-HP-qhgm/01Mamdani-Heat-HP-qhgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
