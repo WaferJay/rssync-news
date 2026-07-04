@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 03 Jul 2026 22:27:34 +0000</lastBuildDate>
-    <pubDate>Fri, 03 Jul 2026 20:32:23 +0000</pubDate>
+    <lastBuildDate>Sat, 04 Jul 2026 01:01:58 +0000</lastBuildDate>
+    <pubDate>Sat, 04 Jul 2026 00:52:52 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/world/europe/russia-crimea-ukraine.html" rel="standout"></atom:link>
       <description>Escalating drone strikes, fuel shortages and power cuts in the region Russia annexed are among the factors turning up the heat on President Vladimir V. Putin.</description>
       <dc:creator>Paul Sonne and Nataliya Vasilyeva</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 14:54:03 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 14:54:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
@@ -255,7 +255,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/03/world/europe/denmark-fourth-of-july-trump-us.html" rel="standout"></atom:link>
       <description>Furious at President Trump over Greenland, Danish officials took the unprecedented step of pressuring organizers to cut American officials from the program.</description>
       <dc:creator>Jeffrey Gettleman and Maya Tekeli</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 15:03:16 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 15:03:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rebild (Denmark)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -321,6 +321,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-venezuela-quake-survivor-1-bmvp/02int-venezuela-quake-survivor-1-bmvp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fernando Vergara/Associated Press</media:credit>
       <media:description>Rescue workers attend to Hernán Alberto Gil Flores after he was pulled from the rubble eight days after he was trapped by twin earthquakes that struck Catia La Mar, Venezuela, on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Putin Visits Battlefield and Vows to Take More of Ukraine</title>
+      <link>https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/world/europe/putin-ukraine-donbas-battlefield-visit.html" rel="standout"></atom:link>
+      <description>The Russian leader denounced Ukraine’s “imaginary achievements” on the battlefield of late, calling its leaders “play actors.”</description>
+      <dc:creator>Paul Sonne</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 00:24:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03int-russia-putin-mqlp/03int-russia-putin-mqlp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Black smoke rose above residential buildings in Moscow last month following a drone attack from Ukraine.</media:description>
     </item>
     <item>
       <title>Woman From Ukraine Was Behind Monaco Bomb Attack, Officials Say</title>
@@ -1105,40 +1124,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Flags, Emblems and Insignia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-    </item>
-    <item>
-      <title>As Earthquake Death Toll Mounts, Venezuela Grapples With Recovering and Burying Bodies</title>
-      <link>https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/world/americas/venezuela-earthquakes-bodies-morgues.html" rel="standout"></atom:link>
-      <description>As the death toll mounts, thousands of bodies have overwhelmed Venezuela’s forensic system, turning a seaport into a temporary morgue.</description>
-      <dc:creator>Tibisay Romero, Isayen Herrera, Luis Ferré-Sadurní and Genevieve Glatsky</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 12:12:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Morgues and Mortuaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30venezuela-quake-dead-01-kflm/30venezuela-quake-dead-01-kflm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fabiola Ferrero for The New York Times</media:credit>
-      <media:description>The authorities have started an improvised morgue, so that relatives can look for the bodies of loved ones among the earthquake’s victims at La Guaira’s port in Venezuela.</media:description>
-    </item>
-    <item>
-      <title>Bombings in Greece Target Governing Party Members, Officials Say</title>
-      <link>https://www.nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/world/europe/greece-bombings-thessaloniki.html" rel="standout"></atom:link>
-      <description>A candidate for Parliament for the New Democracy party was injured in one of the bombings in the city of Thessaloniki, as were her parents, the police said.</description>
-      <dc:creator>Niki Kitsantonis</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 17:44:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thessaloniki (Greece)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Democracy (Greece)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">November 17</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01int-greece-attacks-zhbc/01int-greece-attacks-zhbc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sakis Mitrolidis/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The aftermath of one of the bombings in Thessaloniki, Greece, on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
