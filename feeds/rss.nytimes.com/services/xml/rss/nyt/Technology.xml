@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 04:35:48 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 02:47:59 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 10:28:45 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 09:01:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -93,6 +93,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/00biz-NeonArtificial-vjwz/00biz-NeonArtificial-vjwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>“Artificial,” a film about Sam Altman, the chief executive of OpenAI, had gotten a green light from Amazon in 2023.</media:description>
+    </item>
+    <item>
+      <title>How Meta’s Threads Became as Popular as X</title>
+      <link>https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/technology/threads-meta-twitter-x.html" rel="standout"></atom:link>
+      <description>The social platform that Meta once positioned as a rival to Elon Musk’s X now has 500 million users. It increasingly resembles Reddit.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 09:01:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Threads (Mobile App)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metaverse (Internet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/META-THREADS-1-03-tgph/META-THREADS-1-03-tgph-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian C. Bates for The New York Times</media:credit>
+      <media:description>“We want to be the largest and best platform for public conversation,” said Connor Hayes, the head of Threads. </media:description>
     </item>
     <item>
       <title>Fable Ban Reversed + Dr. Dana Suskind on Parenting With A.I. + Prediction Market Drama</title>
@@ -406,28 +427,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/05/28/multimedia/28Daily-AI-gtwj/28Daily-AI-gtwj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ruth Fremson/The New York Times</media:credit>
       <media:description>Jan Worrell and her ElliQ. Washington State’s health department provided it to her as part of a pilot program.</media:description>
-    </item>
-    <item>
-      <title>Intel’s Chip Business Shows Signs of Life After Years of Struggle</title>
-      <link>https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/technology/intel-turnaround.html" rel="standout"></atom:link>
-      <description>It is the centerpiece of President Trump’s drive to make more chips in the United States, but the company still has a long way to go before it can be called a complete turnaround.</description>
-      <dc:creator>Tripp Mickle</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 08:54:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tan, Lip-Bu</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/business/00biz-intel-turnaround/00biz-intel-turnaround-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lincoln Agnew</media:credit>
     </item>
   </channel>
 </rss>

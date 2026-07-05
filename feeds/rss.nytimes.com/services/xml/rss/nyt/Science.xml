@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 04 Jul 2026 21:26:34 +0000</lastBuildDate>
-    <pubDate>Sat, 04 Jul 2026 21:07:46 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 10:30:31 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 09:00:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -138,6 +138,29 @@
       <media:content height="1402" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/00SCI-TURTLES-ORIGINS-01-zhbg/00SCI-TURTLES-ORIGINS-01-zhbg-mediumSquareAt3X.jpg" width="1403"></media:content>
       <media:credit>Jon Elswick/Associated Press</media:credit>
       <media:description>A new study suggests turtles belong to a group of reptiles called archosauromorphs, which also includes ancient birds, crocodiles, pterosaurs and dinosaurs, and may share a common ancestor with them.</media:description>
+    </item>
+    <item>
+      <title>A Bird’s Brain Holds Clues to the Sounds of Music</title>
+      <link>https://www.nytimes.com/2026/07/05/science/a-birds-brain-holds-clues-to-the-sounds-of-music.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/science/a-birds-brain-holds-clues-to-the-sounds-of-music.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/science/a-birds-brain-holds-clues-to-the-sounds-of-music.html" rel="standout"></atom:link>
+      <description>The neurobiologist Erich Jarvis studies the few species capable of speech. He has long hoped to genetically engineer an animal that can make new calls.</description>
+      <dc:creator>Jim Robbins</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 09:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rockefeller University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erich Jarvis</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/20/multimedia/00HS-SCI-BIRDS-JARVIS-stillpromo-qwlj/00HS-SCI-BIRDS-JARVIS-stillpromo-qwlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Alban/The New York Times</media:credit>
     </item>
     <item>
       <title>Stanley M. Gartler, Pioneer in Cancer Research, Dies at 102</title>
@@ -346,24 +369,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26sci-nasa-reboost-01-lmqg/26sci-nasa-reboost-01-lmqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>NASA</media:credit>
       <media:description>An artist’s concept of the Neil Gehrels Swift Observatory being ferried to a higher orbit over Earth by the start-up Katalyst Space Technologies’s Link spacecraft.</media:description>
-    </item>
-    <item>
-      <title>This Trap Wants Ants to Take a Bite</title>
-      <link>https://www.nytimes.com/2026/06/27/science/this-trap-wants-ants-to-take-a-bite.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/27/science/this-trap-wants-ants-to-take-a-bite.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/27/science/this-trap-wants-ants-to-take-a-bite.html" rel="standout"></atom:link>
-      <description>Named for an ancient Roman crossbow-like weapon, the newly found “ballista” spider uses a springy snare to catch prey.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 09:01:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spiders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Current Biology (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <media:content height="1346" medium="image" url="https://static01.nyt.com/images/2026/06/22/science/22SCI-NewSpider/22SCI-NewSpider-mediumSquareAt3X.jpg" width="1346"></media:content>
-      <media:credit>Ajay Narendra et al., Current Biology</media:credit>
-      <media:description>A newly described Australian ballista spider waiting to catch an ant in its snare.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 08:20:32 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 07:00:13 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 10:30:14 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 09:00:07 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -189,6 +189,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lower East Side (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Parks and Recreation Department (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>A Bird’s Brain Holds Clues to the Sounds of Music</title>
+      <link>https://www.nytimes.com/2026/07/05/science/a-birds-brain-holds-clues-to-the-sounds-of-music.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/science/a-birds-brain-holds-clues-to-the-sounds-of-music.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/science/a-birds-brain-holds-clues-to-the-sounds-of-music.html" rel="standout"></atom:link>
+      <description>The neurobiologist Erich Jarvis studies the few species capable of speech. He has long hoped to genetically engineer an animal that can make new calls.</description>
+      <dc:creator>Jim Robbins</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 09:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rockefeller University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erich Jarvis</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/20/multimedia/00HS-SCI-BIRDS-JARVIS-stillpromo-qwlj/00HS-SCI-BIRDS-JARVIS-stillpromo-qwlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Alban/The New York Times</media:credit>
     </item>
     <item>
       <title>Searching for What Pretty Means After an Acid Attack</title>
@@ -386,25 +409,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03met-ny21-mjwg/03met-ny21-mjwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adrianna Newell for The New York Times</media:credit>
       <media:description>Robert Smullen, a New York State assemblyman, lost the Republican primary to Mr. Constantino in the 21st Congressional District in the North Country.</media:description>
-    </item>
-    <item>
-      <title>Is NYC Summer Tourism Peaking With World Cup, Swift Wedding and America’s 250th?</title>
-      <link>https://www.nytimes.com/2026/07/03/travel/tourism-nyc-summer-peak.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/travel/tourism-nyc-summer-peak.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/travel/tourism-nyc-summer-peak.html" rel="standout"></atom:link>
-      <description>A series of major events is unfolding in New York this week, sprinkling the city with soccer tees, fireworks and, perhaps, love — though not record visitor numbers.</description>
-      <dc:creator>Ryley Ober and Ye Fan</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 09:02:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03trav-peak-tourism-03-vmgt/03trav-peak-tourism-03-vmgt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Ye Fan for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
