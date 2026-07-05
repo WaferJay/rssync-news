@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 18:31:18 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 18:06:32 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 20:30:55 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 19:26:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html" rel="standout"></atom:link>
       <description>Strong storms knocked out power this week to customers from Oklahoma to Connecticut. As they waited on Sunday for the lights to come back on, the forecast called for more severe weather.</description>
       <dc:creator>Johnny Diaz and Nazaneen Ghaffar</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 17:34:12 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 18:58:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
@@ -29,6 +29,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-power-storms-zlcm/05xp-power-storms-zlcm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finn Gomez/Getty Images</media:credit>
       <media:description>Lightning flashes in the sky during Fourth of July celebrations on Saturday in Washington. More than 800,000 customers across the United States remained without power on Sunday after a series of storms.</media:description>
@@ -82,14 +83,9 @@
       <description>As the East Coast bakes under a heat wave, San Francisco will be 66 degrees. But good luck watching the fireworks through the fog.</description>
       <dc:creator>Amy Graff</dc:creator>
       <pubDate>Sun, 05 Jul 2026 01:41:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Francisco Chronicle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Golden Gate Bridge</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-coldest-town-topart-lpzq/04america-250-coldest-town-topart-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christie Hemm Klok for The New York Times</media:credit>
       <media:description>The Cole Valley neighborhood of San Francisco last month.</media:description>
@@ -143,17 +139,12 @@
       <atom:link href="https://www.nytimes.com/2026/07/04/weather/july-fourth-heat-wave-updates.html" rel="standout"></atom:link>
       <description>The Midwest will get a break but temperatures for much of the East Coast will again climb above 100 degrees. Stay indoors as much as possible, experts said.</description>
       <dc:creator>Amy Graff and Erin McCann</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 18:04:40 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 18:04:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archives and Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jefferson, Thomas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04wea-saturdayheat-vwgj/04wea-saturdayheat-vwgj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rachel Wisniewski for The New York Times</media:credit>
@@ -167,10 +158,13 @@
       <description>Indoors, for a fortunate few, it’s always a winter wonderland.</description>
       <dc:creator>Guy Trebay</dc:creator>
       <pubDate>Sat, 04 Jul 2026 09:00:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interior Design and Furnishings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
@@ -219,7 +213,8 @@
       <atom:link href="https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html" rel="standout"></atom:link>
       <description>Strong winds from thunderstorms began to cause widespread power losses on Friday. More than 1.3 million customers, from Oklahoma to Massachusetts, had no electricity late Saturday.</description>
       <dc:creator>John Yoon</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 03:58:52 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 03:58:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>

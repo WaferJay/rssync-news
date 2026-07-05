@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/england</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 05 Jul 2026 18:32:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jul 2026 20:32:59 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Young woman dies in skydiving incident near airfield]]></title>
+            <description><![CDATA[The woman, 22, was found in a nearby field and pronounced dead at the scene, police say.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn8kkr844kdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn8kkr844kdo#0</guid>
+            <pubDate>Sun, 05 Jul 2026 19:29:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/577a/live/0be00ba0-78a7-11f1-9510-1546718f668b.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Tributes to pet shop owner in her 70s amid car-crash murder probe]]></title>
             <description><![CDATA[Police say they received a number of calls relating to a suspect arrested on suspicion of murder and attempted murder prior to the collision.]]></description>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d68/live/04d4a360-77e0-11f1-aadd-214037abb6a2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Woman held on suspicion of aiding on-the-run man convicted of killing baby]]></title>
-            <description><![CDATA[Emmanuel Sakyi is on the run, having been convicted of killing his own baby in a crash.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwy00pwyx90o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy00pwyx90o#0</guid>
-            <pubDate>Sun, 05 Jul 2026 16:26:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b4/live/c31e1fa0-7889-11f1-a627-714adb4eed6e.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Tom Grennan proud to sing in 'beautiful' hometown]]></title>
             <description><![CDATA[The singer songwriter meets fans and tells crowd of his love for his hometown.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c982r8q4lzqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -71,12 +71,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e30/live/371600d0-76f5-11f1-ab95-f1a10991b6dc.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Two found dead in crashed car in missing men search]]></title>
-            <description><![CDATA[William Hutchinson was last seen on 24 June and Stuart Tallis was reported missing three days later.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/czxqq6ylg2yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czxqq6ylg2yo#1</guid>
-            <pubDate>Sun, 05 Jul 2026 10:35:29 GMT</pubDate>
-            <media:thumbnail width="240" height="129" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65eb/live/1636cf00-7855-11f1-9510-1546718f668b.png"/>
+            <title><![CDATA[Woman held on suspicion of aiding on-the-run man convicted of killing baby]]></title>
+            <description><![CDATA[Emmanuel Sakyi is on the run, having been convicted of killing his own baby in a crash.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cwy00pwyx90o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwy00pwyx90o#1</guid>
+            <pubDate>Sun, 05 Jul 2026 16:26:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b4/live/c31e1fa0-7889-11f1-a627-714adb4eed6e.jpg"/>
         </item>
         <item>
             <title><![CDATA[Campaigners to fight on after 16,000-seater stadium challenge refused]]></title>
@@ -109,6 +109,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx264613mvgo#1</guid>
             <pubDate>Sun, 05 Jul 2026 06:17:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd9d/live/e9cf9e40-754f-11f1-a0e5-ab9c63e24c99.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Two found dead in crashed car in missing men search]]></title>
+            <description><![CDATA[William Hutchinson was last seen on 24 June and Stuart Tallis was reported missing three days later.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/czxqq6ylg2yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/czxqq6ylg2yo#1</guid>
+            <pubDate>Sun, 05 Jul 2026 10:35:29 GMT</pubDate>
+            <media:thumbnail width="240" height="129" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65eb/live/1636cf00-7855-11f1-9510-1546718f668b.png"/>
         </item>
         <item>
             <title><![CDATA[Health secretary seeks advice over maternity inquiry staff who refused to give evidence]]></title>
@@ -260,7 +268,7 @@
             <link>https://www.bbc.co.uk/sport/cricket/articles/clywwv37l41o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cricket/articles/clywwv37l41o#5</guid>
             <pubDate>Sun, 05 Jul 2026 18:14:54 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90b4/live/927369d0-789a-11f1-9510-1546718f668b.jpg"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eee/live/98f3fda0-78a5-11f1-9510-1546718f668b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Leclerc wins dramatic race from Russell and Hamilton]]></title>
@@ -279,12 +287,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ceb1/live/c46f6020-787b-11f1-8dd2-155623f15064.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Leeds crush Bradford to stretch lead to four points]]></title>
-            <description><![CDATA[Leeds Rhinos crush Bradford Bulls as they make it 11 wins from 12 to extend their Super League lead to four points.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cx2wvq72qqdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cx2wvq72qqdo#5</guid>
-            <pubDate>Sun, 05 Jul 2026 16:11:02 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4d8/live/351f98d0-7886-11f1-9cf9-9def470a13b4.jpg"/>
+            <title><![CDATA[Wigan edge past St Helens in Magic Weekend classic]]></title>
+            <description><![CDATA[Wigan Warriors emerge victorious in a chaotic, stormy and thrilling derby with St Helens as Magic Weekend ends with a bang at the Hill Dickinson Stadium.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/c33yl1d8jnxo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c33yl1d8jnxo#5</guid>
+            <pubDate>Sun, 05 Jul 2026 20:03:40 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/08c8/live/3880e610-78a3-11f1-b85a-67358f2ccf96.jpg"/>
         </item>
     </channel>
 </rss>
