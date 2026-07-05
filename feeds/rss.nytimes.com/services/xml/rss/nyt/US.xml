@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1783263208571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 14:53:28 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 14:48:05 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 16:30:18 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 15:05:55 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -230,12 +230,11 @@
       <atom:link href="https://www.nytimes.com/2026/07/04/us/paul-pelosi-hit-run-napa.html" rel="standout"></atom:link>
       <description>The police said Paul Pelosi was the driver of a convertible that struck a parked car on Friday. The district attorney will decide whether Mr. Pelosi will be charged.</description>
       <dc:creator>Maia Spoto</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 02:12:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <pubDate>Sun, 05 Jul 2026 02:12:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Paul</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Napa (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04nat-pelosi-hitrun-whvl/04nat-pelosi-hitrun-whvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pete Marovich for The New York Times</media:credit>
       <media:description>Paul Pelosi, the 86-year-old husband of former House Speaker Nancy Pelosi, could be charged after striking a parked car on Friday. He told investigators that he knew he had hit something but didn’t know what. </media:description>
@@ -300,14 +299,18 @@
       <description>Gavin Newsom and Wes Moore, potential 2028 contenders, cast President Trump’s record as a betrayal of American ideals, while the president disparaged their party as extreme.</description>
       <dc:creator>Tim Balk</dc:creator>
       <pubDate>Sat, 04 Jul 2026 22:04:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Wes (1978- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Wes (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-politics-topart-zcwk/04america-250-politics-topart-zcwk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Max Whittaker for The New York Times</media:credit>
       <media:description>Gov. Gavin Newsom of California in Sacramento in January. Mr. Newsom, a potential 2028 presidential candidate, has been a vocal critic of President Trump. </media:description>
@@ -387,49 +390,17 @@
       <description>The group, wearing clothing associated with the organization Patriot Front, assembled near Capitol Hill before leaving the district.</description>
       <dc:creator>Clarence Williams, Madaleine Rubin and Alan Feuer</dc:creator>
       <pubDate>Sat, 04 Jul 2026 21:57:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Front</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patriot Front</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04nat-protest-cpzt/04nat-protest-cpzt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cheney Orr/Reuters</media:credit>
       <media:description>A commuter sits as members of the group Patriot Front ride the metro on the Fourth of July in Washington, D.C.</media:description>
-    </item>
-    <item>
-      <title>At the tall ships parade, a historic bell rings out.</title>
-      <link>https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/at-the-tall-ships-parade-a-historic-bell-rings-out</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/at-the-tall-ships-parade-a-historic-bell-rings-out</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/at-the-tall-ships-parade-a-historic-bell-rings-out" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Jennifer Schuessler</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 17:37:28 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-tallships-topart-sub-bgcl/04america-250-tallships-topart-sub-bgcl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Juan Arredondo for The New York Times</media:credit>
-      <media:description>A parade of ships sailed in New York harbor on Saturday.</media:description>
-    </item>
-    <item>
-      <title>It’s heat dome 1, George Washington 0.</title>
-      <link>https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0" rel="standout"></atom:link>
-      <description>In Philadelphia, extreme temperatures forced the cancellation of some events, including the city’s big parade and a ceremonial pitching of George Washington’s field tent.</description>
-      <dc:creator>Jennifer Schuessler</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 17:51:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Declaration of Independence (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, George (1732-99)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Museum of the American Revolution</category>
-      <category domain="">George Washingtons tent</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-washington-tent-topart-zwfl/04america-250-washington-tent-topart-zwfl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rachel Wisniewski for The New York Times</media:credit>
-      <media:description>Independence Mall in Philadelphia, where a replica of George Washington’s field tent was slated to be pitched before plans where canceled because of the heat.</media:description>
     </item>
   </channel>
 </rss>
