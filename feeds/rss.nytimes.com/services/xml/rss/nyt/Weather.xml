@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 14:55:26 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 13:22:39 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:31:18 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 18:06:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>More Severe Weather Looms as Over 800,000 Remain Without Power</title>
+      <link>https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html" rel="standout"></atom:link>
+      <description>Strong storms knocked out power this week to customers from Oklahoma to Connecticut. As they waited on Sunday for the lights to come back on, the forecast called for more severe weather.</description>
+      <dc:creator>Johnny Diaz and Nazaneen Ghaffar</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 17:34:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-power-storms-zlcm/05xp-power-storms-zlcm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finn Gomez/Getty Images</media:credit>
+      <media:description>Lightning flashes in the sky during Fourth of July celebrations on Saturday in Washington. More than 800,000 customers across the United States remained without power on Sunday after a series of storms.</media:description>
+    </item>
     <item>
       <title>Guam and Northern Mariana Islands Prepare for Typhoon Bavi</title>
       <link>https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</link>
@@ -21,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html" rel="standout"></atom:link>
       <description>Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.</description>
       <dc:creator>Josie Moyer, Mar-Vic Cagurangan and Nazaneen Ghaffar</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 13:08:07 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 17:17:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
@@ -29,6 +48,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Mariana Islands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/05/05vid-guam-storm-embed-48531-cover/05vid-guam-storm-embed-48531-cover-mediumSquareAt3X.jpg" width="1080"></media:content>
       <media:credit>Mar-Vic Cagurangan for The New York Times</media:credit>
       <media:description>Mar-Vic Cagurangan for The New York Times</media:description>
@@ -75,6 +95,26 @@
       <media:description>The Cole Valley neighborhood of San Francisco last month.</media:description>
     </item>
     <item>
+      <title>Nathan’s Hot Dog Contest Captivates Coney Island Despite Heat Wave</title>
+      <link>https://www.nytimes.com/2026/07/04/nyregion/hot-dog-contest-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/nyregion/hot-dog-contest-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/04/nyregion/hot-dog-contest-nyc.html" rel="standout"></atom:link>
+      <description>Temperatures climbed above 90 degrees on Saturday, as Joey Chestnut and Miki Sudo once again reigned supreme.</description>
+      <dc:creator>Claire Fahy and Kaja Andric</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 22:06:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chestnut, Joey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sudo, Miki</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coney Island (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hot Dogs and Frankfurters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nathans Famous Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04met-hot-dog-contest-zgtp/04met-hot-dog-contest-zgtp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jordan Tovin/Reuters</media:credit>
+      <media:description>Joey Chestnut was on pace to break his record early in the competition, but the heat appeared to slow him down. He still ate 66 hot dogs in 10 minutes.</media:description>
+    </item>
+    <item>
       <title>It’s heat dome 1, George Washington 0.</title>
       <link>https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0</guid>
@@ -103,7 +143,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/04/weather/july-fourth-heat-wave-updates.html" rel="standout"></atom:link>
       <description>The Midwest will get a break but temperatures for much of the East Coast will again climb above 100 degrees. Stay indoors as much as possible, experts said.</description>
       <dc:creator>Amy Graff and Erin McCann</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 15:47:19 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 18:04:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
@@ -131,6 +171,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>The Texas Hill Country Flood, One Year Later</title>
@@ -139,7 +180,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/04/us/texas-floods-2025-guadalupe-river.html" rel="standout"></atom:link>
       <description>A year after a catastrophic flood killed 139 people in the Texas Hill Country, communities along the Guadalupe River are still rebuilding.</description>
       <dc:creator>Edgar Sandoval</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 00:23:53 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 18:06:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
@@ -530,6 +571,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03trav-heat-experts-mtfh/03trav-heat-experts-mtfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ben Rollins for The New York Times</media:credit>
     </item>
@@ -792,40 +834,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01HEATCLOTHING-bzgl/01HEATCLOTHING-bzgl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Simbarashe Cha/The New York Times</media:credit>
       <media:description>Wearing natural fibers, loose-flowing silhouettes and light colors can help keep you cool.</media:description>
-    </item>
-    <item>
-      <title>Heat Wave Spreads East on Wednesday</title>
-      <link>https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/weather/fourth-of-july-heat-wave-latest-updates.html" rel="standout"></atom:link>
-      <description>More than 160 million people are under extreme heat warnings or heat advisories ahead of the Fourth of July weekend.</description>
-      <dc:creator>Nazaneen Ghaffar, Erin McCann and Amy Graff</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 21:40:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01vid-US-heatwave-cover-pmlg/01vid-US-heatwave-cover-pmlg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Madison Swart for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>An Air-Conditioning Repair Man Endures Chicago’s Heat Wave</title>
-      <link>https://www.nytimes.com/2026/07/01/us/crunchtime-in-the-air-conditioning-business-long-days-and-hot-work.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/crunchtime-in-the-air-conditioning-business-long-days-and-hot-work.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/us/crunchtime-in-the-air-conditioning-business-long-days-and-hot-work.html" rel="standout"></atom:link>
-      <description>With the city and much of the country in the grips of a heat wave, people in that profession are enduring sweltering temperatures to keep systems working.</description>
-      <dc:creator>Mitch Smith</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 13:52:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01nat-midwest-heat-1-mtwk/01nat-midwest-heat-1-mtwk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jim Vondruska for The New York Times</media:credit>
-      <media:description>Moshe Pomerantz checked a reading on an air-conditioning unit in Chicago on Tuesday.</media:description>
     </item>
   </channel>
 </rss>

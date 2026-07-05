@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 16:26:35 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 16:11:21 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 18:31:52 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 18:09:33 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
+    <item>
+      <title>All Passengers Rescued as Seaplane Crashes in East River</title>
+      <link>https://www.nytimes.com/2026/07/05/nyregion/sea-plane-crash-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/nyregion/sea-plane-crash-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/nyregion/sea-plane-crash-nyc.html" rel="standout"></atom:link>
+      <description>The plane, coming from the Hamptons, made a hard landing near the Manhattan waterfront on Sunday. The Fire Department rescued the pilot, a crew member and six passengers.</description>
+      <dc:creator>Chelsia Rose Marcius and Miles G. Cohen</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 18:09:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East River (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hamptons (NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05MET-PLANE-LANDING-bplv/05MET-PLANE-LANDING-bplv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelina Katsanis/Reuters</media:credit>
+      <media:description>“He pulled a Sully on that one,” a man who witnessed a seaplane make a hard landing in the East River said of the pilot.</media:description>
+    </item>
     <item>
       <title>Searching for What Pretty Means After an Acid Attack</title>
       <link>https://www.nytimes.com/2026/07/05/nyregion/nafiah-ikram-acid-attack.html</link>
@@ -117,12 +138,13 @@
       <dc:creator>Claire Fahy and Kaja Andric</dc:creator>
       <pubDate>Sat, 04 Jul 2026 22:06:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chestnut, Joey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nathans Famous Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sudo, Miki</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coney Island (Brooklyn, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hot Dogs and Frankfurters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nathans Famous Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sudo, Miki</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04met-hot-dog-contest-zgtp/04met-hot-dog-contest-zgtp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Tovin/Reuters</media:credit>
       <media:description>Joey Chestnut was on pace to break his record early in the competition, but the heat appeared to slow him down. He still ate 66 hot dogs in 10 minutes.</media:description>
@@ -176,22 +198,23 @@
       <media:description>The Hudson River off Manhattan on Thursday, the day before a sewage spill at a plant just north of the city.</media:description>
     </item>
     <item>
-      <title>Swimmer Is Injured at Jones Beach in Possible Shark Attack</title>
-      <link>https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html" rel="standout"></atom:link>
-      <description>The swimmer was treated for a minor foot injury after being bitten by “unknown marine life,” New York State officials said.</description>
-      <dc:creator>Santul Nerkar</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 22:16:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jones Beach (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/nyregion/03met-shark/03met-shark-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael M. Santiago/Getty Images</media:credit>
-      <media:description>New York officials have embraced the use of drones to scan waterways for sharks, which has led to an increase in sightings.</media:description>
+      <title>More Severe Weather Looms as Over 800,000 Remain Without Power</title>
+      <link>https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html" rel="standout"></atom:link>
+      <description>Strong storms knocked out power this week to customers from Oklahoma to Connecticut. As they waited on Sunday for the lights to come back on, the forecast called for more severe weather.</description>
+      <dc:creator>Johnny Diaz and Nazaneen Ghaffar</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 17:34:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-power-storms-zlcm/05xp-power-storms-zlcm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finn Gomez/Getty Images</media:credit>
+      <media:description>Lightning flashes in the sky during Fourth of July celebrations on Saturday in Washington. More than 800,000 customers across the United States remained without power on Sunday after a series of storms.</media:description>
     </item>
     <item>
       <title>Mike Wallace, Who Wrote a Radical History of New York, Dies at 83</title>
@@ -200,7 +223,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/05/books/mike-wallace-dead.html" rel="standout"></atom:link>
       <description>His 1998 book, “Gotham,” which told the city’s story to 1898, focused on social and economic conflict. It won a Pulitzer Prize and inspired two sequels.</description>
       <dc:creator>Sam Roberts</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 15:45:27 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 17:33:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pulitzer Prizes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
@@ -279,21 +302,20 @@
       <atom:link href="https://www.nytimes.com/2026/07/04/nyregion/adani-justice-department.html" rel="standout"></atom:link>
       <description>An agency official said that Gautam Adani’s offer to invest $10 billion in the United States did not affect the decision to abandon a bribery case against him.</description>
       <dc:creator>Santul Nerkar</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 00:30:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <pubDate>Sun, 05 Jul 2026 00:30:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adani, Gautam S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adani, Gautam S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garaufis, Nicholas G</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCotter, Trent</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04met-adani-jmbq/04met-adani-jmbq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>M. Scott Brauer for The New York Times</media:credit>
       <media:description>Gautam Adani, an industrial tycoon in India, was indicted with seven other co-defendants in 2024, in the last weeks of the Biden administration.</media:description>
@@ -305,7 +327,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/04/weather/july-fourth-heat-wave-updates.html" rel="standout"></atom:link>
       <description>The Midwest will get a break but temperatures for much of the East Coast will again climb above 100 degrees. Stay indoors as much as possible, experts said.</description>
       <dc:creator>Amy Graff and Erin McCann</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 15:47:19 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 18:04:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
@@ -337,6 +359,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brunson, Jalen (1996- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04met-knicks-murals-top-01-clvj/04met-knicks-murals-top-01-clvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amir Hamja for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Swimmer Is Injured at Jones Beach in Possible Shark Attack</title>
+      <link>https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html" rel="standout"></atom:link>
+      <description>The swimmer was treated for a minor foot injury after being bitten by “unknown marine life,” New York State officials said.</description>
+      <dc:creator>Santul Nerkar</dc:creator>
+      <pubDate>Fri, 03 Jul 2026 22:16:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Attacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jones Beach (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/nyregion/03met-shark/03met-shark-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael M. Santiago/Getty Images</media:credit>
+      <media:description>New York officials have embraced the use of drones to scan waterways for sharks, which has led to an increase in sightings.</media:description>
     </item>
     <item>
       <title>How the Heat Is Upending Plans for America’s 250th Birthday</title>
@@ -377,41 +417,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02Cruz-01-glct/02Cruz-01-glct-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yael Malka for The New York Times</media:credit>
       <media:description>Victoria Cruz in 2022. She spent 17 years working for the New York City Anti-Violence Project, which provides counseling and other services for L.G.B.T.Q. and H.I.V.-affected survivors of violence.</media:description>
-    </item>
-    <item>
-      <title>Mamdani Says Blind Patriotism Ignores the Nation’s Flaws and Inequality</title>
-      <link>https://www.nytimes.com/2026/07/03/nyregion/mamdani-speech-july-4th.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/nyregion/mamdani-speech-july-4th.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/mamdani-speech-july-4th.html" rel="standout"></atom:link>
-      <description>In a nearly 13-minute address, Mayor Zohran Mamdani of New York highlighted the nation’s diversity and criticized those who would deprive immigrants of freedom.</description>
-      <dc:creator>Sally Goldenberg</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 22:00:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03met-mamdani-speech1-bmvl/03met-mamdani-speech1-bmvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anna Connors for The New York Times</media:credit>
-      <media:description>Mayor Zohran Mamdani, seated behind a desk used by George Washington, offered a nuanced view of patriotism from the perspective of immigrants who may feel like second-class citizens.</media:description>
-    </item>
-    <item>
-      <title>A Return to the Familiar at Lincoln Center’s New Dance Festival</title>
-      <link>https://www.nytimes.com/2026/07/03/arts/dance/lincoln-center-contemporary-dance-festival.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/arts/dance/lincoln-center-contemporary-dance-festival.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/arts/dance/lincoln-center-contemporary-dance-festival.html" rel="standout"></atom:link>
-      <description>While it was good to see again Rachid Ouramdane’s moving duet from a decade ago, Akram Khan’s new piece was unconvincing.</description>
-      <dc:creator>Brian Seibert</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 19:04:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Akram</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ouramdane, Rachid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lincoln Center for the Performing Arts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alice Tully Hall (Manhattan, NY)</category>
     </item>
   </channel>
 </rss>
