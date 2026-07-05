@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 04:33:51 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 04:04:42 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 08:20:50 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 07:54:10 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -107,7 +107,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/04/world/middleeast/iran-ayatollah-funeral.html" rel="standout"></atom:link>
       <description>As days of public mourning ceremonies began, Iranians viewed the casket of Ayatollah Ali Khamenei, who was killed at the start of the U.S.-Israeli attacks.</description>
       <dc:creator>Abdi Latif Dahir</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 01:03:49 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 06:37:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
@@ -242,6 +242,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00int-oz-china-top-klvz/00int-oz-china-top-klvz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Gray/Agence France-Presse — Getty Images</media:credit>
       <media:description>The director-general of the Australian Security Intelligence Organization, Mike Burgess, at the agency’s headquarters in Canberra in June. He has warned about foreign interference in Australia.</media:description>
+    </item>
+    <item>
+      <title>Guam and Northern Mariana Islands Prepare for Typhoon Bavi</title>
+      <link>https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html" rel="standout"></atom:link>
+      <description>Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.</description>
+      <dc:creator>Josie Moyer and Mar-Vic Cagurangan</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 07:54:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Mariana Islands</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-typhoon-wphb/05xp-typhoon-wphb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A man walking past boarded-up stores in Guam on Sunday.</media:description>
     </item>
     <item>
       <title>Denmark’s century-old Fourth of July party looks different this year.</title>
@@ -441,6 +460,9 @@
       <description>The country’s security service has continued to target civil society and dissidents, including thousands of arrests since the launch of the U.S.-Israeli war in February.</description>
       <dc:creator>Sanam Mahoozi and Yeganeh Torbati</dc:creator>
       <pubDate>Sat, 04 Jul 2026 10:33:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
     </item>
     <item>
       <title>Here’s the latest.</title>
@@ -1002,25 +1024,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/world/02Int-Spain-police-anfi/02Int-Spain-police-anfi-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kike Rincon/Europa Press, via Getty Images</media:credit>
       <media:description>Mercedes González, director general of the Spanish Civil Guard, in Barcelona, Spain, last month. A judge said that there were reasonable grounds to investigate Ms. González on accusations of misconduct in public office.</media:description>
-    </item>
-    <item>
-      <title>Bomb Explodes at Damascus Cafe, Killing at Least 6</title>
-      <link>https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/world/middleeast/damascus-cafe-bomb.html" rel="standout"></atom:link>
-      <description>The blast, near the Syrian capital’s main courthouse, underscored the country’s persistent instability as its leaders try to chart a path out of years of dictatorship and war.</description>
-      <dc:creator>Euan Ward and Reham Mourshed</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 17:31:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Damascus (Syria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic State in Iraq and Syria (ISIS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02int-syria-explosion-mkvl/02int-syria-explosion-mkvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Louai Beshara/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Syrian security forces at the site of an explosion at a cafe in Damascus on Thursday.</media:description>
     </item>
   </channel>
 </rss>
