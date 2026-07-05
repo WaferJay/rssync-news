@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 05 Jul 2026 10:29:23 +0000</lastBuildDate>
-    <pubDate>Sun, 05 Jul 2026 10:06:00 +0000</pubDate>
+    <lastBuildDate>Sun, 05 Jul 2026 12:43:32 +0000</lastBuildDate>
+    <pubDate>Sun, 05 Jul 2026 11:54:31 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>8 Wounded in Coney Island Shooting on Fourth of July</title>
+      <link>https://www.nytimes.com/2026/07/05/us/brooklyn-coney-island-shooting-july-fourth-fireworks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/brooklyn-coney-island-shooting-july-fourth-fireworks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/us/brooklyn-coney-island-shooting-july-fourth-fireworks.html" rel="standout"></atom:link>
+      <description>The victims included two boys, aged 6 and 7, and one woman who remained in critical condition on Sunday, the police said. No arrests had been made.</description>
+      <dc:creator>Ali Watkins</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 11:54:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coney Island (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/5xp-Coney-shooting/5xp-Coney-shooting-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kyle Mazza/Shutterstock</media:credit>
+      <media:description>Members of the NYPD Crime Scene Unit collect evidence at the scene of a shooting in Coney Island on Saturday night.</media:description>
+    </item>
     <item>
       <title>America Marks Its 250th Birthday With Storms, Sweat and Fire</title>
       <link>https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html</link>
@@ -83,9 +100,9 @@
     </item>
     <item>
       <title>At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases</title>
-      <link>https://www.nytimes.com/2026/07/05/us/politics/at-trumps-direction-federal-agencies-are-abandoning-discrimination-cases.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/politics/at-trumps-direction-federal-agencies-are-abandoning-discrimination-cases.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/05/us/politics/at-trumps-direction-federal-agencies-are-abandoning-discrimination-cases.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html" rel="standout"></atom:link>
       <description>President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.</description>
       <dc:creator>Erica L. Green and Niko Gallogly</dc:creator>
       <pubDate>Sun, 05 Jul 2026 09:00:08 +0000</pubDate>
@@ -110,8 +127,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html" rel="standout"></atom:link>
       <description>Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.</description>
-      <dc:creator>Josie Moyer and Mar-Vic Cagurangan</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 09:30:19 +0000</pubDate>
+      <dc:creator>Josie Moyer, Mar-Vic Cagurangan and Nazaneen Ghaffar</dc:creator>
+      <pubDate>Sun, 05 Jul 2026 11:27:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
