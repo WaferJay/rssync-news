@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Mon, 06 Jul 2026 13:01:12 GMT</lastBuildDate>
+<lastBuildDate>Mon, 06 Jul 2026 16:30:32 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -15,11 +15,22 @@
 </image>
 <item>
 <guid isPermaLink="false">lc-wsj-stock-market-today-dow-sp-500-nasdaq-07-06-2026</guid>
-<title>Stock Market Today: Stock Futures Rise Ahead of Busy Week for Tech Stocks</title>
+<title>Stock Market Today: Nasdaq Rises at Start of Busy Week for Tech Stocks</title>
 <description>Samsung update, SK Hynix U.S. listing to test AI appetite; SpaceX joins Nasdaq-100 tomorrow</description>
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-06-2026?mod=rss_markets_main</link>
 <pubDate>Mon, 06 Jul 2026 08:21:54 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-925349" medium="image" type="image/jpeg">
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003707474</guid>
+<title>Michael Saylor&#x2019;s Strategy Is Trapped by Its Own Broken Bitcoin Math</title>
+<description>The bitcoin hoarder created a bespoke valuation metric that ignores market realities.</description>
+<link>https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 14:26:00 GMT</pubDate>
+<dc:creator>Jonathan Weil</dc:creator>
+<media:content url="https://images.wsj.net/im-50178396" medium="image" type="image/jpeg">
+<media:credit>Roger Kisby for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -31,17 +42,6 @@
 <dc:creator>Spencer Jakab</dc:creator>
 <media:content url="https://images.wsj.net/im-63169755" medium="image" type="image/jpeg">
 <media:credit>Lee Jin-man/Associated Press</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003707474</guid>
-<title>Michael Saylor&#x2019;s Strategy Is Trapped by Its Own Broken Bitcoin Math</title>
-<description>The bitcoin hoarder created a bespoke valuation metric that ignores market realities.</description>
-<link>https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 09:30:00 GMT</pubDate>
-<dc:creator>Jonathan Weil</dc:creator>
-<media:content url="https://images.wsj.net/im-50178396" medium="image" type="image/jpeg">
-<media:credit>Roger Kisby for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -201,53 +201,55 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003711496</guid>
-<title>Treasury Yields Mixed, Dollar Up as Crude Prices Slip</title>
-<description>Treasury yields were mixed as U.S. markets came back from the holiday without a Middle East peace deal and following last week&#x2019;s disappointing labor indicators.</description>
-<link>https://www.wsj.com/finance/investing/jgbs-fall-amid-concerns-over-japans-fiscal-policies-de0bec68?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 12:55:00 GMT</pubDate>
+<guid isPermaLink="false">WP-WSJ-0003712021</guid>
+<title>Basic Materials Roundup: Market Talk</title>
+<description>Find insight on fertilizers, copper miner Antofagasta and more in the latest Market Talks covering basic materials.</description>
+<link>https://www.wsj.com/business/basic-materials-roundup-market-talk-b627a732?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 16:25:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-33385773" medium="image" type="image/jpeg">
+<media:credit>Alexander Manzyuk/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003712046</guid>
+<title>Auto &amp; Transport Roundup: Market Talk</title>
+<description>Find insight on Ferrari, easyJet, Castlelake and more in the latest Market Talks covering the auto and transport sector.</description>
+<link>https://www.wsj.com/business/auto-transport-roundup-market-talk-7e199517?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 16:23:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-88335393" medium="image" type="image/jpeg">
+<media:credit>Albert Gea/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003712006</guid>
+<title>Tech, Media &amp; Telecom Roundup: Market Talk</title>
+<description>Find insight on Rogers Communications, ITV and more in the latest Market Talks covering technology, media and telecom sectors.</description>
+<link>https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-1a755013?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 16:22:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-84254232" medium="image" type="image/jpeg">
+<media:credit>Dado Ruvic/Reuters</media:credit>
+</media:content>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003712258</guid>
 <title>Solstice Advanced Materials to Buy Element Solutions for More Than $12 Billion</title>
 <description>Solstice Advanced Materials has struck a deal to buy specialty chemicals maker Element Solutions for more than $12 billion in cash and stock.</description>
 <link>https://www.wsj.com/business/deals/solstice-advanced-materials-to-buy-element-solutions-for-more-than-12-billion-833e5d3f?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 12:54:00 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 14:40:00 GMT</pubDate>
 <dc:creator>Colin Kellaher</dc:creator>
 <media:content url="https://images.wsj.net/im-30288603" medium="image" type="image/jpeg">
 <media:credit>Timon Schneider/SOPA Images/Zuma Press</media:credit>
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003712248</guid>
-<title>Rogers Communication Buys Final 25% of MLSE, Taking Full Control of Sports Empire</title>
-<description>Rogers Communications is buying out the final portion of the Maple Leaf Sports and Entertainment from Larry Tanenbaum&#x2019;s Kilmer Sports for 4.35 billion Canadian dollars.</description>
-<link>https://www.wsj.com/business/media/rogers-communications-buys-remaining-mlse-stake-from-kilmer-sports-for-about-3-06-billion-9a256c7e?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 12:53:00 GMT</pubDate>
-<dc:creator>Adriano Marchese</dc:creator>
-<media:content url="https://images.wsj.net/im-748014" medium="image" type="image/jpeg">
-<media:credit>Claus Andersen/Getty Images</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003711892</guid>
-<title>Stock Futures Rise Ahead of Busy Week for Tech Stocks</title>
-<description>U.S. stock futures were higher with Nasdaq making gains as traders brushed off the AI worries that jolted stocks in recent weeks.</description>
-<link>https://www.wsj.com/finance/stocks/u-s-stock-futures-rise-as-markets-await-fresh-impetus-d07cd115?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 11:08:00 GMT</pubDate>
-<dc:creator>Caitlin McCabe</dc:creator>
-<media:content url="https://images.wsj.net/im-09924062" medium="image" type="image/jpeg">
-<media:credit>Michael M. Santiago/Getty Images</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003712046</guid>
-<title>Auto &amp; Transport Roundup: Market Talk</title>
-<description>Find insight on Continental, easyJet , SIA Engineering and more in the latest Market Talks covering the auto and transport sector.</description>
-<link>https://www.wsj.com/business/auto-transport-roundup-market-talk-7e199517?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 10:52:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-88335393" medium="image" type="image/jpeg">
-<media:credit>Albert Gea/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003712314</guid>
+<title>TeraWulf Signs $19 Billion Lease With Anthropic for AI-Infrastructure Campus</title>
+<description>TeraWulf will partner with Anthropic to build an artificial-intelligence infrastructure campus in Kentucky that could generate $19 billion in revenue.</description>
+<link>https://www.wsj.com/finance/investing/terawulf-signs-19-billion-lease-with-anthropic-for-ai-infrastructure-campus-ef26be27?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 13:07:00 GMT</pubDate>
+<dc:creator>Connor Hart</dc:creator>
+<media:content url="https://images.wsj.net/im-39967780" medium="image" type="image/jpeg">
+<media:credit>Jason Henry for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -368,21 +370,21 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003712021</guid>
-<title>Basic Materials Roundup: Market Talk</title>
-<description>Find insight on Vault, gold  and more in the latest Market Talks covering basic materials.</description>
-<link>https://www.wsj.com/business/basic-materials-roundup-market-talk-b627a732?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 10:41:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-33385773" medium="image" type="image/jpeg">
-<media:credit>Alexander Manzyuk/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003711543</guid>
+<title>Oil Futures Resist Slide Into Pre-Conflict Territory</title>
+<description>Crude futures were near pre-war levels while resisting further declines despite optimism about resumed oil flows through the Strait of Hormuz.</description>
+<link>https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-opec-decision-to-increase-output-again-1a0d0c9d?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 16:28:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-19233278" medium="image" type="image/jpeg">
+<media:credit>Elke Scholiers/Getty Images</media:credit>
 </media:content>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003711888</guid>
-<title>European Gas Slips, but LNG Flow Recovery and Asian Demand Risks Persist</title>
-<description>European natural-gas prices fell in early trading, with the benchmark Dutch TTF contract down 1.3%, but remained up more than 5% on the week.</description>
+<title>U.S. Natural Gas Futures Inch Up After July 4 Holiday</title>
+<description>U.S. natural gas futures started the week with modest gains with the market focusing on summer weather.</description>
 <link>https://www.wsj.com/articles/european-gas-slips-but-lng-flow-recovery-and-asian-demand-risks-persist-29b2094a?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 08:16:00 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 14:32:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003711533</guid>
@@ -390,16 +392,6 @@
 <description>Gold futures rose after posting their first weekly gain since May, as weaker U.S. jobs data and lower oil prices reduced expectations of a Federal Reserve interest-rate hike.</description>
 <link>https://www.wsj.com/finance/commodities-futures/gold-gains-as-investors-scale-back-on-fed-hike-bets-554c9a5a?mod=rss_markets_main</link>
 <pubDate>Mon, 06 Jul 2026 07:39:00 GMT</pubDate>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003711543</guid>
-<title>Oil Falls on OPEC+ Output Hike, Hormuz Flows Recovery</title>
-<description>Oil prices fell on OPEC+&#x2019;s decision to hike production and due to the continued recovery in shipping through the Strait of Hormuz.</description>
-<link>https://www.wsj.com/finance/commodities-futures/oil-falls-weighed-by-opec-decision-to-increase-output-again-1a0d0c9d?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 07:37:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-19233278" medium="image" type="image/jpeg">
-<media:credit>Elke Scholiers/Getty Images</media:credit>
-</media:content>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003692914</guid>
@@ -414,11 +406,33 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003708822</guid>
+<title>Food Prices Edge Lower as El Nino Risks Hover, UN Says</title>
+<description>Cereals, sugar and dairy products became less expensive, though an intense El Nino added uncertainty to production outlooks, the United Nations&#x2019; Food and Agriculture Organization said.</description>
+<link>https://www.wsj.com/finance/commodities-futures/food-prices-edge-lower-as-el-nino-risks-hover-un-says-73e06ee4?mod=rss_markets_main</link>
+<pubDate>Fri, 03 Jul 2026 12:08:00 GMT</pubDate>
+<dc:creator>Joe Stonor</dc:creator>
+<media:content url="https://images.wsj.net/im-62360708" medium="image" type="image/jpeg">
+<media:credit>Agence France-Presse/Getty Image</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003711521</guid>
-<title>Treasury Yields Mixed, Dollar Up as Crude Prices Slip</title>
-<description>The dollar edged higher as U.S. markets came back from the holiday without a Middle East peace deal.</description>
+<title>Sterling Short Squeeze Lifts Currency But Not For Long</title>
+<description>Sterling&#x2019;s recent rise against the euro appears driven by a short-squeeze due to a lack of new negative political developments, Societe Generale analysts said.</description>
 <link>https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-possible-position-adjustments-a259ca37?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 12:57:00 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 14:18:00 GMT</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003712376</guid>
+<title>Strategy Logs $8.3 Billion Loss as It Sells Off Bitcoin</title>
+<description>The loss comes after the company, formerly known as MicroStrategy, sold 3,588 Bitcoin for less than it paid.</description>
+<link>https://www.wsj.com/finance/currencies/strategy-logs-8-3-billion-loss-as-it-sells-off-bitcoin-5772788d?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 13:48:00 GMT</pubDate>
+<dc:creator>Katherine Hamilton</dc:creator>
+<media:content url="https://images.wsj.net/im-42439317" medium="image" type="image/jpeg">
+<media:credit>Roger Kisby for WSJ</media:credit>
+</media:content>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003711709</guid>
@@ -448,13 +462,6 @@
 <description>The dollar remained weak against a basket of currency in the wake of Thursday&#x2019;s worse-than-expected U.S. nonfarm payrolls data.</description>
 <link>https://www.wsj.com/finance/currencies/fx-traders-on-edge-as-mof-ponders-surprise-intervention-tactics-1e15866c?mod=rss_markets_main</link>
 <pubDate>Fri, 03 Jul 2026 13:11:00 GMT</pubDate>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003704905</guid>
-<title>WSJ Dollar Index Falls 0.47% to 97.25</title>
-<description>The WSJ Dollar Index fell 0.5%, snapping a two-trading-day winning streak.</description>
-<link>https://www.wsj.com/finance/currencies/yen-consolidates-ahead-of-u-s-nonfarm-payrolls-report-94a64c4a?mod=rss_markets_main</link>
-<pubDate>Thu, 02 Jul 2026 21:28:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003699631</guid>
@@ -633,7 +640,7 @@
 <title>10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider</title>
 <description>We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms to help you select a firm that could best connect you with a fiduciary financial advisor.</description>
 <link>https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main</link>
-<pubDate>Thu, 02 Jul 2026 13:10:00 GMT</pubDate>
+<pubDate>Mon, 06 Jul 2026 13:08:00 GMT</pubDate>
 <dc:creator>Miranda Marquit</dc:creator>
 <media:content url="https://www.wsj.com/buyside/content-images/a8ae897f-5089-409c-97ed-81063d36da0e" medium="image" type="image/jpeg">
 </media:content>

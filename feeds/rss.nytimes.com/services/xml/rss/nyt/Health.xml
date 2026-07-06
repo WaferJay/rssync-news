@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 12:57:10 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 12:46:01 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 16:31:15 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 15:37:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/health</link>
     </image>
+    <item>
+      <title>For Families With Nonspeaking Autistic Children, a Fierce Debate Over Assisted Spelling</title>
+      <link>https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html" rel="standout"></atom:link>
+      <description>Popular communication methods for nonspeaking autistic people have ignited a fierce debate over what counts as evidence of hidden cognitive abilities.</description>
+      <dc:creator>Azeen Ghorayshi</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 09:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spelling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/00sci-spelling-autism-01-promo/00sci-spelling-autism-01-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Moriah Ratner for The New York Times</media:credit>
+      <media:description>Kelly Berg, left, assisted Omer Hashmi, 33, who is a nonspeaker with autism, during a spelling session at the Growing Kids Therapy Center in Herndon, Va.</media:description>
+    </item>
     <item>
       <title>Clusters of Severe Stomach Illness Reported Across the U.S.</title>
       <link>https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html</link>
@@ -21,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html" rel="standout"></atom:link>
       <description>Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.</description>
       <dc:creator>Roni Rabin</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 22:55:49 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 15:37:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stomach</category>
@@ -195,25 +212,22 @@
       <media:description>President Trump held a Rose Garden dinner with American farmers on Thursday, the same day he issued an executive order aimed at reducing pesticides in the food supply.</media:description>
     </item>
     <item>
-      <title>Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn</title>
-      <link>https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html" rel="standout"></atom:link>
-      <description>Most of the people testing positive for Ebola in the Democratic Republic of Congo are not on health workers’ radar, suggesting that contact tracing is lagging dangerously behind.</description>
-      <dc:creator>Matthew Mpoke Bigg and Stephanie Nolen</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 22:57:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bunia (Congo, Democratic Republic of)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25int-ebola-contact-1-jwtp/25int-ebola-contact-1-jwtp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arlette Bashizi for The New York Times</media:credit>
-      <media:description>A community health worker taking the temperature of a man whose son is being treated for the virus near the city of Bunia in Democratic Republic of Congo.</media:description>
+      <title>Efforts to Help Smokers Quit Stall Under Trump</title>
+      <link>https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html" rel="standout"></atom:link>
+      <description>The C.D.C.’s tobacco control office has been shut for more than a year. After its most prominent antismoking campaign went off the air, calls to 1-800-QUIT-NOW lines have plummeted.</description>
+      <dc:creator>Christina Jewett</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 15:22:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
     </item>
     <item>
       <title>A Bird’s Brain Holds Clues to the Sounds of Music</title>
@@ -223,18 +237,15 @@
       <description>The neurobiologist Erich Jarvis studies the few species capable of speech. He has long hoped to genetically engineer an animal that can make new calls.</description>
       <dc:creator>Jim Robbins</dc:creator>
       <pubDate>Sun, 05 Jul 2026 09:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Language and Languages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Laboratories and Scientific Equipment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rockefeller University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erich Jarvis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jarvis, Erich D</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/20/multimedia/00HS-SCI-BIRDS-JARVIS-stillpromo-qwlj/00HS-SCI-BIRDS-JARVIS-stillpromo-qwlj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban/The New York Times</media:credit>
     </item>
@@ -322,6 +333,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-kratom01-photo-gpfh/01dc-kratom01-photo-gpfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nick Oxford for The New York Times</media:credit>
       <media:description>After President Trump’s victory, companies selling kratom supplements and their executives ramped up their spending on lobbyists with ties to his administration and donations to his political operation.</media:description>
+    </item>
+    <item>
+      <title>Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn</title>
+      <link>https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/25/world/africa/africa-cdc-congo-ebola.html" rel="standout"></atom:link>
+      <description>Most of the people testing positive for Ebola in the Democratic Republic of Congo are not on health workers’ radar, suggesting that contact tracing is lagging dangerously behind.</description>
+      <dc:creator>Matthew Mpoke Bigg and Stephanie Nolen</dc:creator>
+      <pubDate>Thu, 25 Jun 2026 22:57:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contact Tracing (Public Health)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bunia (Congo, Democratic Republic of)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ituri Province (Congo, Democratic Republic of)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25int-ebola-contact-1-jwtp/25int-ebola-contact-1-jwtp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arlette Bashizi for The New York Times</media:credit>
+      <media:description>A community health worker taking the temperature of a man whose son is being treated for the virus near the city of Bunia in Democratic Republic of Congo.</media:description>
     </item>
     <item>
       <title>Medical Journal Retracts Study Claiming Cancer Therapy Is More Effective When Given in the Morning</title>
@@ -414,45 +446,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24dc-chemo-shortage-photo-khtg/24dc-chemo-shortage-photo-khtg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emil Lippe for The New York Times</media:credit>
       <media:description>Chemotherapy drugs, carboplatin and cisplatin, in the pharmaceutical storage room at the Center for Cancer and Blood Disorders in Fort Worth. There are shortages of both drugs.</media:description>
-    </item>
-    <item>
-      <title>The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?</title>
-      <link>https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/science/ebola-bundibugyo-animal-reservoir.html" rel="standout"></atom:link>
-      <description>Scientists believe that the Bundibugyo virus persists in an animal species, occasionally spilling over into humans. But they have yet to identify the species.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 15:04:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/00SCI-BAT-01-promo/00SCI-BAT-01-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michel Lunanga/Getty Images</media:credit>
-    </item>
-    <item>
-      <title>France Identifies Its First Case of Ebola</title>
-      <link>https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/world/europe/ebola-france.html" rel="standout"></atom:link>
-      <description>A doctor who had traveled to the Democratic Republic of Congo was infected, the French health ministry said. The authorities said the risk to the wider population was low.</description>
-      <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 21:37:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Health Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24int-france-ebola-wtcq/24int-france-ebola-wtcq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arlette Bashizi for The New York Times</media:credit>
-      <media:description>Health workers last month in the Democratic Republic of Congo, the center of an Ebola outbreak that has killed more than 200 people.</media:description>
     </item>
   </channel>
 </rss>

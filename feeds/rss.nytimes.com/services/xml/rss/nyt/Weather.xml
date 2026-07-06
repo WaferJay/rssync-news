@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 13:01:29 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 12:44:04 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 16:30:35 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 15:57:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Extreme Heat Hits Europe for the Third Time This Year</title>
+      <link>https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html" rel="standout"></atom:link>
+      <description>It is continent’s third spell of scorching weather since May. Europe is the world’s fastest-warming continent.</description>
+      <dc:creator>Nazaneen Ghaffar and Natan Odenheimer</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 15:49:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v311.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
     <item>
       <title>Typhoon Bavi Pounds Guam and Northern Mariana Islands</title>
       <link>https://www.nytimes.com/2026/07/05/weather/super-typhoon-bavi-guam-saipan.html</link>
@@ -21,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/05/weather/super-typhoon-bavi-guam-saipan.html" rel="standout"></atom:link>
       <description>There was an islandwide power outage on Saipan, the capital of the Northern Mariana Islands, as the Category 5 storm approached.</description>
       <dc:creator>Nazaneen Ghaffar, Josie Moyer and Mar-Vic Cagurangan</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 11:38:52 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 14:52:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
@@ -38,18 +56,14 @@
       <link>https://www.nytimes.com/2026/07/05/weather/new-york-city-rain-forecast.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/weather/new-york-city-rain-forecast.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/05/weather/new-york-city-rain-forecast.html" rel="standout"></atom:link>
-      <description>Emergency officials warned that flash flooding was possible on Monday as powerful storms were expected to move through the region.</description>
-      <dc:creator>Erin McCann and Nazaneen Ghaffar</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 12:17:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
+      <description>Emergency officials warned that flash flooding was possible on Monday as powerful storms move through the region.</description>
+      <dc:creator>Erin McCann, Nazaneen Ghaffar and Hilary Howard</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 14:30:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basements and Cellars</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island (NY)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v13.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -61,12 +75,15 @@
       <dc:creator>Johnny Diaz and Nazaneen Ghaffar</dc:creator>
       <pubDate>Sun, 05 Jul 2026 18:58:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-power-storms-zlcm/05xp-power-storms-zlcm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finn Gomez/Getty Images</media:credit>
@@ -80,10 +97,7 @@
       <description>Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.</description>
       <dc:creator>Josie Moyer, Mar-Vic Cagurangan and Nazaneen Ghaffar</dc:creator>
       <pubDate>Sun, 05 Jul 2026 17:17:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guam</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Mariana Islands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
@@ -816,22 +830,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reserve Officers Training Corps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River Valley (NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orange County (NY)</category>
-    </item>
-    <item>
-      <title>The Heat Wave Proves That We Need to Adapt to Climate Change</title>
-      <link>https://www.nytimes.com/2026/07/01/opinion/heat-wave-europe-america.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/opinion/heat-wave-europe-america.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/opinion/heat-wave-europe-america.html" rel="standout"></atom:link>
-      <description>The world’s infrastructure was built for a climate we no longer have.</description>
-      <dc:creator>David Wallace-Wells</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 20:14:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
     </item>
   </channel>
 </rss>
