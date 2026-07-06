@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 21:04:46 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 18:53:56 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 22:40:24 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 22:26:00 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
+    <item>
+      <title>Detective Struck by Friendly Fire in Brooklyn Shooting, Police Say</title>
+      <link>https://www.nytimes.com/2026/07/06/nyregion/nypd-brooklyn-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/nyregion/nypd-brooklyn-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/06/nyregion/nypd-brooklyn-shooting.html" rel="standout"></atom:link>
+      <description>The police had first said the detective, who was wearing a bulletproof vest, was shot by a man in the street early Sunday. On Monday, they said that in fact another officer accidentally shot him.</description>
+      <dc:creator>Chelsia Rose Marcius</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 22:24:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crown Heights (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06met-nypd-shooting-01-bjql/06met-nypd-shooting-01-bjql-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kyle Mazza/Sipa USA, via Associated Press</media:credit>
+      <media:description>A detective was accidentally shot in the back when another officer fired a weapon while confronting an armed man, the police said.</media:description>
+    </item>
     <item>
       <title>An Email. A Knock at the Door. A Suit Alleges a Threat to Free Speech.</title>
       <link>https://www.nytimes.com/2026/07/06/nyregion/ice-email-lawsuit.html</link>
@@ -86,15 +103,6 @@
       <media:description>Police and Fire Department boats pulled up within 90 seconds after a seaplane crash in the East River, a passenger said.</media:description>
     </item>
     <item>
-      <title>‘Near the End of the Meal, He Mentioned That He Was a Musician’</title>
-      <link>https://www.nytimes.com/2026/07/05/nyregion/metropolitan-diary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/nyregion/metropolitan-diary.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/05/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
-      <description>More friends of Metropolitan Diary, including the chef Daniel Humm and the writer Jennifer Egan, help mark the column’s 50th anniversary by sharing their New York City stories.</description>
-      <pubDate>Sun, 05 Jul 2026 07:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-    </item>
-    <item>
       <title>Searching for What Pretty Means After an Acid Attack</title>
       <link>https://www.nytimes.com/2026/07/05/nyregion/nafiah-ikram-acid-attack.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/nyregion/nafiah-ikram-acid-attack.html</guid>
@@ -135,24 +143,13 @@
       <media:credit>Tony Cenicola/The New York Times</media:credit>
     </item>
     <item>
-      <title>How Mamdani Sees the World Through Soccer</title>
-      <link>https://www.nytimes.com/2026/07/04/nyregion/mamdani-world-cup-fifa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/nyregion/mamdani-world-cup-fifa.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/04/nyregion/mamdani-world-cup-fifa.html" rel="standout"></atom:link>
-      <description>Mayor Zohran Mamdani says that the sport embodies his political identity, even as the World Cup has been colored by corporate greed and geopolitical concerns.</description>
-      <dc:creator>Benjamin Oreskes</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 14:18:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <title>‘Near the End of the Meal, He Mentioned That He Was a Musician’</title>
+      <link>https://www.nytimes.com/2026/07/05/nyregion/metropolitan-diary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/nyregion/metropolitan-diary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/05/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
+      <description>More friends of Metropolitan Diary, including the chef Daniel Humm and the writer Jennifer Egan, help mark the column’s 50th anniversary by sharing their New York City stories.</description>
+      <pubDate>Sun, 05 Jul 2026 07:00:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04met-mamdani-worldcup-01-pvlj/04met-mamdani-worldcup-01-pvlj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Roshni Khatri for The New York Times</media:credit>
-      <media:description>Mayor Zohran Mamdani views soccer as a sport that fits his democratic socialist ideals.</media:description>
     </item>
     <item>
       <title>Nathan’s Hot Dog Contest Captivates Coney Island Despite Heat Wave</title>
@@ -181,12 +178,12 @@
       <atom:link href="https://www.nytimes.com/2026/07/05/weather/new-york-city-rain-forecast.html" rel="standout"></atom:link>
       <description>On Monday, parts of New Jersey were underwater, downed trees were blocking roads in Connecticut and there was a flash flood warning in New York City.</description>
       <dc:creator>Erin McCann, Nazaneen Ghaffar, Hilary Howard and Andy Newman</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 18:53:56 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 21:49:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v21.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v25.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -219,7 +216,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/05/books/mike-wallace-dead.html" rel="standout"></atom:link>
       <description>His 1998 book, “Gotham,” which told the city’s story to 1898, focused on social and economic conflict. It won a Pulitzer Prize and inspired two sequels.</description>
       <dc:creator>Sam Roberts</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 22:40:28 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 21:23:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wallace, Mike (1942- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pulitzer Prizes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
@@ -241,7 +238,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/05/us/brooklyn-coney-island-shooting-july-fourth-fireworks.html" rel="standout"></atom:link>
       <description>The victims included two young boys and a woman who remained in critical condition, the police said. In a separate incident, a detective was shot but was protected by his bulletproof vest.</description>
       <dc:creator>Chelsia Rose Marcius and Ali Watkins</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 22:38:24 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 21:16:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coney Island (Brooklyn, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crown Heights (Brooklyn, NY)</category>
@@ -369,6 +366,26 @@
       <media:description>Tall ships traveled past the East River Esplanade in Manhattan during Sail4th 250 on Friday. Dozens of vessels are set to take part in a parade on the Hudson River on Saturday.</media:description>
     </item>
     <item>
+      <title>How Mamdani Sees the World Through Soccer</title>
+      <link>https://www.nytimes.com/2026/07/04/nyregion/mamdani-world-cup-fifa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/nyregion/mamdani-world-cup-fifa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/04/nyregion/mamdani-world-cup-fifa.html" rel="standout"></atom:link>
+      <description>Mayor Zohran Mamdani says that the sport embodies his political identity, even as the World Cup has been colored by corporate greed and geopolitical concerns.</description>
+      <dc:creator>Benjamin Oreskes</dc:creator>
+      <pubDate>Sat, 04 Jul 2026 14:18:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04met-mamdani-worldcup-01-pvlj/04met-mamdani-worldcup-01-pvlj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Roshni Khatri for The New York Times</media:credit>
+      <media:description>Mayor Zohran Mamdani views soccer as a sport that fits his democratic socialist ideals.</media:description>
+    </item>
+    <item>
       <title>Sewage Spills Into Hudson River After Power Failure at Treatment Plant</title>
       <link>https://www.nytimes.com/2026/07/03/nyregion/sewage-spill-hudson-river.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/nyregion/sewage-spill-hudson-river.html</guid>
@@ -385,24 +402,6 @@
       <media:content height="1513" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03met-sewage-ptgv/03met-sewage-ptgv-mediumSquareAt3X.jpg" width="1512"></media:content>
       <media:credit>Carolina Herrera for The New York Times</media:credit>
       <media:description>The Hudson River off Manhattan on Thursday, the day before a sewage spill at a plant just north of the city.</media:description>
-    </item>
-    <item>
-      <title>Swimmer Is Injured at Jones Beach in Possible Shark Attack</title>
-      <link>https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/nyregion/jones-beach-shark-attack.html" rel="standout"></atom:link>
-      <description>The swimmer was treated for a minor foot injury after being bitten by “unknown marine life,” New York State officials said.</description>
-      <dc:creator>Santul Nerkar</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 22:16:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Attacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sharks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jones Beach (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/03/nyregion/03met-shark/03met-shark-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael M. Santiago/Getty Images</media:credit>
-      <media:description>New York officials have embraced the use of drones to scan waterways for sharks, which has led to an increase in sightings.</media:description>
     </item>
   </channel>
 </rss>
