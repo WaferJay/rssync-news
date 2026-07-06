@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Health</title>
     <link>https://www.nytimes.com/section/health</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Health.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/health.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 16:31:15 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 15:37:34 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 19:07:09 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 17:13:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -30,6 +30,24 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/00sci-spelling-autism-01-promo/00sci-spelling-autism-01-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Moriah Ratner for The New York Times</media:credit>
       <media:description>Kelly Berg, left, assisted Omer Hashmi, 33, who is a nonspeaker with autism, during a spelling session at the Growing Kids Therapy Center in Herndon, Va.</media:description>
+    </item>
+    <item>
+      <title>Efforts to Help Smokers Quit Stall Under Trump</title>
+      <link>https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html" rel="standout"></atom:link>
+      <description>The C.D.C.’s tobacco control office has been shut for more than a year. After its most prominent antismoking campaign went off the air, calls to 1-800-QUIT-NOW lines have plummeted.</description>
+      <dc:creator>Christina Jewett</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 15:22:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
     </item>
     <item>
       <title>Clusters of Severe Stomach Illness Reported Across the U.S.</title>
@@ -187,49 +205,6 @@
       <media:description>The list of GLP-1s that can be prescribed for obesity includes Eli Lilly’s Foundayo, Wegovy in injectable and tablet forms, and Eli Lilly’s Zepbound KwikPen.</media:description>
     </item>
     <item>
-      <title>Trump Issues Order to Reduce Pesticides in Food as Kennedy Allies Fume</title>
-      <link>https://www.nytimes.com/2026/06/25/us/politics/trump-order-pesticides-rfk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/us/politics/trump-order-pesticides-rfk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/us/politics/trump-order-pesticides-rfk.html" rel="standout"></atom:link>
-      <description>The order, which calls for studying the health risks of pesticides in the food supply, does not involve new federal funding, and does not call for regulations or legislation.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 00:24:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemicals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25dc-trump-ag-kjgl/25dc-trump-ag-kjgl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump held a Rose Garden dinner with American farmers on Thursday, the same day he issued an executive order aimed at reducing pesticides in the food supply.</media:description>
-    </item>
-    <item>
-      <title>Efforts to Help Smokers Quit Stall Under Trump</title>
-      <link>https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html" rel="standout"></atom:link>
-      <description>The C.D.C.’s tobacco control office has been shut for more than a year. After its most prominent antismoking campaign went off the air, calls to 1-800-QUIT-NOW lines have plummeted.</description>
-      <dc:creator>Christina Jewett</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 15:22:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-    </item>
-    <item>
       <title>A Bird’s Brain Holds Clues to the Sounds of Music</title>
       <link>https://www.nytimes.com/2026/07/05/science/bird-brain-music-communication.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/science/bird-brain-music-communication.html</guid>
@@ -333,6 +308,31 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-kratom01-photo-gpfh/01dc-kratom01-photo-gpfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nick Oxford for The New York Times</media:credit>
       <media:description>After President Trump’s victory, companies selling kratom supplements and their executives ramped up their spending on lobbyists with ties to his administration and donations to his political operation.</media:description>
+    </item>
+    <item>
+      <title>Trump Issues Order to Reduce Pesticides in Food as Kennedy Allies Fume</title>
+      <link>https://www.nytimes.com/2026/06/25/us/politics/trump-order-pesticides-rfk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/us/politics/trump-order-pesticides-rfk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/25/us/politics/trump-order-pesticides-rfk.html" rel="standout"></atom:link>
+      <description>The order, which calls for studying the health risks of pesticides in the food supply, does not involve new federal funding, and does not call for regulations or legislation.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Fri, 26 Jun 2026 00:24:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemicals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25dc-trump-ag-kjgl/25dc-trump-ag-kjgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump held a Rose Garden dinner with American farmers on Thursday, the same day he issued an executive order aimed at reducing pesticides in the food supply.</media:description>
     </item>
     <item>
       <title>Congo Ebola Crisis: Contact Tracing Is Dangerously Behind, Officials Warn</title>

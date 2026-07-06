@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 06 Jul 2026 16:29:26 +0000</lastBuildDate>
-    <pubDate>Mon, 06 Jul 2026 16:27:21 +0000</pubDate>
+    <lastBuildDate>Mon, 06 Jul 2026 19:08:54 +0000</lastBuildDate>
+    <pubDate>Mon, 06 Jul 2026 18:14:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -27,6 +27,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ma, Jack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/03/business/00biz-china-alibaba02/00biz-china-alibaba02-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Wang Gang/VCG, via Associated Press</media:credit>
       <media:description>A Shanghai technology fair booth for Qwen, a family of artificial intelligence models that the Chinese company Alibaba started in 2023.</media:description>
@@ -38,16 +39,15 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/business/bath-body-works-fragrance-factory.html" rel="standout"></atom:link>
       <description>“Japanese Cherry Blossom” has brought in $1.5 billion over the last 20 years. Can the company’s close-knit network of suppliers come up with the next big thing and improve sales?</description>
       <dc:creator>Farah Stockman</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 16:27:21 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 18:01:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bath &amp; Body Works LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Perfumes and Fragrances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smell (Olfaction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Candles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wexner, Leslie H</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Albany (Ohio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bath &amp; Body Works LLC</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06biz-PERFUME-MANUFACTURING-13-kvhq/06biz-PERFUME-MANUFACTURING-13-kvhq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maddie McGarvey for The New York Times</media:credit>
     </item>
@@ -266,12 +266,10 @@
       <description>Plus: When a nurse practitioner in gynecology needs care, should she see one of her own colleagues?</description>
       <dc:creator>Max Read</dc:creator>
       <pubDate>Sun, 05 Jul 2026 09:01:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-selfcare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Work-Life Balance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing and Nurses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Careers and Professions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-selfcare</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01workfriend-lmbk/01workfriend-lmbk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Photo illustration by Margeaux Walter for The New York Times</media:credit>
     </item>
@@ -293,6 +291,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eleos AI Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/business/05Biz-AI-Philosophers-lede/05Biz-AI-Philosophers-lede-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aaron Wojack for The New York Times (top left); Ian C. Bates for The New York Times</media:credit>
       <media:description>Clockwise from top left: David Chalmers, Dillon Plunkett, Rosie Campbell and Robert Long.</media:description>
