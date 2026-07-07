@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 01:10:57 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 01:06:48 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 05:11:21 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 04:57:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -62,7 +62,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/world/europe/balogun-red-card-fifa-belgium.html" rel="standout"></atom:link>
       <description>The decision to reverse a one-game ban landed badly in Europe, at a moment of already-heightened geopolitical tension with the United States.</description>
       <dc:creator>Jeanna Smialek and Ali Watkins</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 19:25:39 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 04:57:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Officiating (Sports)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -293,13 +293,74 @@
       <media:description>Workers in the Turkish capital, Ankara. Turkey will use the NATO summit to showcase the country’s status as a rising power.</media:description>
     </item>
     <item>
+      <title>Joining a Human Tide of Mourners Flowing Through Tehran’s Streets</title>
+      <link>https://www.nytimes.com/2026/07/07/world/middleeast/joining-a-human-tide-of-mourners-flowing-through-tehrans-streets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/world/middleeast/joining-a-human-tide-of-mourners-flowing-through-tehrans-streets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/world/middleeast/joining-a-human-tide-of-mourners-flowing-through-tehrans-streets.html" rel="standout"></atom:link>
+      <description>After days of public mourning ceremonies in the Iranian capital, Ayatollah Ali Khamenei’s coffin arrived in Tehran’s Azadi Square. This is what I saw covering the miles-long procession on Monday.</description>
+      <dc:creator>Abdi Latif Dahir and Emile Ducke</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 04:01:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06int-iran-promo/06int-iran-qctg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Crowds gathered around the coffin of Ayatollah Ali Khamenei in Tehran, Iran, on Monday.</media:description>
+    </item>
+    <item>
+      <title>In NATO’s Next Act, Can Europe Play the Leading Role?</title>
+      <link>https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/world/europe/nato-trump-rutte-ankara-turkey.html" rel="standout"></atom:link>
+      <description>The focus at a leaders’ summit in Turkey this week will be on building a new model for the alliance, as President Trump pushes to do less and pressures others do more.</description>
+      <dc:creator>Steven Erlanger and Lara Jakes</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 04:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutte, Mark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ankara (Turkey)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07int-nato-assess-01-bljh/07int-nato-assess-01-bljh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>NATO leaders at last year’s summit in The Hague, where member states committed to increase spending on defense sharply by 2035. </media:description>
+    </item>
+    <item>
+      <title>A Long-Awaited Verdict for Marine Le Pen Could Reshape France’s Politics</title>
+      <link>https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/world/europe/marine-le-pen-verdict-election-ban-appeal.html" rel="standout"></atom:link>
+      <description>A court will decide on Tuesday whether to uphold Ms. Le Pen’s embezzlement conviction. If it does, the far-right leader will probably be barred from running for the presidency next year.</description>
+      <dc:creator>Mark Landler</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 04:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardella, Jordan (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Jean-Marie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Rally (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nationalism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le Pen, Marine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07int-france-lepen01-photo-lpfm/07int-france-lepen01-photo-lpfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tom Nicholson/Reuters</media:credit>
+      <media:description>Marine Le Pen met with supporters at a country fair in Liévin, France, on Saturday.</media:description>
+    </item>
+    <item>
       <title>Trump Wanted a U.S. Soccer Star to Play in the World Cup. FIFA Found a Way.</title>
       <link>https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/06/world/europe/fifa-trump-infantino-world-cup-red-card.html" rel="standout"></atom:link>
       <description>There was nothing unusual about a call from President Trump or the reversal of Folarin Balogun’s suspension, said the president of FIFA, Gianni Infantino.</description>
       <dc:creator>Tariq Panja</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 01:06:48 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 02:06:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
@@ -308,6 +369,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Balogun, Folarin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klaveness, Lise</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06int-worldcup-fifa-vjbl/06int-worldcup-fifa-vjbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Allison Robbert for The New York Times</media:credit>
       <media:description>FIFA’s president, Gianni Infantino, speaks to President Donald Trump during an Oval Office visit in November.</media:description>
@@ -341,7 +403,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/world/nato-summit-turkey-trump-fifa-ban.html" rel="standout"></atom:link>
       <description>The war in Ukraine and Trump’s disregard for the alliance have generated a new appreciation of what Turkey brings to the table.</description>
       <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 22:16:55 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 04:34:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ankara (Turkey)</category>
@@ -1084,39 +1146,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04int-uk-prince-harry-qtfj/04int-uk-prince-harry-qtfj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Jonathan Brady</media:credit>
       <media:description>Prince Harry in Melbourne Park, Australia, in April.</media:description>
-    </item>
-    <item>
-      <title>The funeral comes amid fraught, sluggish U.S.-Iran peace talks.</title>
-      <link>https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/04/world/iran-funeral-ayatollah-khamenei/the-funeral-comes-amid-fraught-sluggish-us-iran-peace-talks" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Max Bearak</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 13:59:02 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04iran-funeral-talks-backdrop-mcjf/04iran-funeral-talks-backdrop-mcjf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reuters</media:credit>
-      <media:description>The Strait of Hormuz has been a key point of U.S.-Iran negotiations.</media:description>
-    </item>
-    <item>
-      <title>In Britain, July 4 Is Mostly Just a Saturday</title>
-      <link>https://www.nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/04/world/europe/uk-july-fourth-us-independence.html" rel="standout"></atom:link>
-      <description>Independence Day does not loom large in Britain’s public imagination, though cultural institutions did note the day and King Charles III issued a statement.</description>
-      <dc:creator>Isabella Kwai</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 13:40:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Declaration of Independence (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">George III, King of England (1738-1820)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="954" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-brits-topart-bqcv/04america-250-brits-topart-bqcv-mediumSquareAt3X-v2.jpg" width="955"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>King Charles III sent President Trump a congratulatory note for the 250th anniversary of American Independence from Britain on Saturday.</media:description>
     </item>
   </channel>
 </rss>

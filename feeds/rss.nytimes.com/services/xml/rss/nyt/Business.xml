@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 01:09:38 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 00:56:57 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 05:10:07 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 04:57:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Samsung Made More Profit Last Quarter Than the Last Two Years Combined</title>
+      <link>https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html" rel="standout"></atom:link>
+      <description>The A.I. boom has propelled the South Korean tech giant’s earnings, but its shares sank as investors had even loftier expectations.</description>
+      <dc:creator>Daisuke Wakabayashi and Jason Karaian</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 03:56:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kospi Stock Index (South Korea)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Electronics Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SK Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+    </item>
     <item>
       <title>George E. Johnson, Who Built a Black Hair-Care Empire, Dies at 99</title>
       <link>https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html</link>
@@ -983,32 +1001,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/Tungsten-VIdeo-still-jqvl/Tungsten-VIdeo-still-jqvl-mediumSquareAt3X.jpg" width="1800"></media:content>
-    </item>
-    <item>
-      <title>Judges Strike Down Trump Rule on Loan Forgiveness for Public Servants</title>
-      <link>https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/business/trump-student-loan-forgiveness.html" rel="standout"></atom:link>
-      <description>Two federal courts have blocked a new Trump administration rule that could have narrowed eligibility for a student loan forgiveness program for public servants.</description>
-      <dc:creator>Tara Siegel Bernard</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 14:51:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ali, Amir H (Judge)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Joun, Myong J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Defenders and Court-Appointed Lawyers (Criminal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30Biz-PSLF-Ruling-mfch/30Biz-PSLF-Ruling-mfch-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Erin Schaff/The New York Times</media:credit>
-      <media:description>Many public servants have staked their financial futures on the loan forgiveness program. Being disqualified could have potentially upended their finances.</media:description>
     </item>
   </channel>
 </rss>
