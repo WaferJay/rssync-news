@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 05:09:08 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 02:56:08 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:45:46 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 07:55:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>At Least 15 Dead in China After Severe Flooding During Typhoon Maysak</title>
+      <link>https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html" rel="standout"></atom:link>
+      <description>Videos showed inundated roads, farmland and buildings, and floodwaters rushing toward homes, while the region braced for a potential super typhoon this week.</description>
+      <dc:creator>Lily Kuo and Pei-Lin Wu</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 07:55:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07int-china-floods-wvqc/07int-china-floods-wvqc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>A flooded riverside near a wharf on the Yongjiang river in Nanning, in China’s southern Guangxi Province, on Monday.</media:description>
+    </item>
     <item>
       <title>Death Toll From Oppressive Heat in New Jersey May Be as High as 29</title>
       <link>https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html</link>
@@ -80,7 +99,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v329.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v332.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -115,7 +134,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v25.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v27.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -770,7 +789,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html" rel="standout"></atom:link>
       <description>As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.</description>
       <dc:creator>Ivan Penn and Hilary Howard</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 18:54:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 05:36:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
@@ -839,39 +858,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-judson-northeast-tmbj/02heat-wave-live-judson-northeast-tmbj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Earl Wilson/The New York Times</media:credit>
       <media:description>Brooklyn promenade in New York on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Across a Scorching Ohio, Residents Endure Breathtaking Heat</title>
-      <link>https://www.nytimes.com/2026/07/02/us/ohio-heat-dome.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/us/ohio-heat-dome.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/us/ohio-heat-dome.html" rel="standout"></atom:link>
-      <description>The heat wave gripping much of the eastern half of the country over the past few days has been especially intense throughout the state.</description>
-      <dc:creator>Billy Witz, Sejal Govindarao and Kevin Williams</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 09:03:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-ohio-heat-htgj/02nat-ohio-heat-htgj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brian Kaiser for The New York Times</media:credit>
-      <media:description>Construction workers during a heat wave on Wednesday in Columbus, Ohio.</media:description>
-    </item>
-    <item>
-      <title>How to Stay Safe in a ‘Heat Dome’</title>
-      <link>https://www.nytimes.com/2026/07/02/well/extreme-heat-dome-health-emergency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/well/extreme-heat-dome-health-emergency.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/well/extreme-heat-dome-health-emergency.html" rel="standout"></atom:link>
-      <description>Extreme temperatures over the Fourth of July weekend will put a strain on emergency rooms.</description>
-      <dc:creator>Dani Blum</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 17:02:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dehydration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sweating</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/WELL-HEAT-DOME-ptvz/WELL-HEAT-DOME-ptvz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Spencer Platt/Getty Images</media:credit>
     </item>
   </channel>
 </rss>

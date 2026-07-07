@@ -3,17 +3,36 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?w1=2xcUjhP2" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 05:10:07 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 04:57:05 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 08:45:31 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 08:06:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>New Strikes on Ships in Strait of Hormuz Test U.S.-Iran Cease-Fire</title>
+      <link>https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html" rel="standout"></atom:link>
+      <description>A U.S. official said Iranian missiles struck two commercial ships. There was no immediate comment from Iranian officials on the reported attacks.</description>
+      <dc:creator>Eric Schmitt and Qasim Nauman</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 08:06:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07biz-hormuz-shipping-vfhl/07biz-hormuz-shipping-vfhl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Elke Scholiers/Getty Images</media:credit>
+      <media:description>Vessels anchored near Muscat, Oman, last month.</media:description>
+    </item>
     <item>
       <title>Samsung Made More Profit Last Quarter Than the Last Two Years Combined</title>
       <link>https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html</link>
@@ -21,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/business/samsung-earnings-chips.html" rel="standout"></atom:link>
       <description>The A.I. boom has propelled the South Korean tech giant’s earnings, but its shares sank as investors had even loftier expectations.</description>
       <dc:creator>Daisuke Wakabayashi and Jason Karaian</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 03:56:41 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 06:53:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
@@ -179,7 +198,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/business/hormuz-strait-shipping-oil.html" rel="standout"></atom:link>
       <description>A recovery in oil flows from the Persian Gulf and a pledge by OPEC Plus to pump more crude have put downward pressure on energy prices.</description>
       <dc:creator>Jenny Gross, Jason Karaian and Rich Barbieri</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 20:08:12 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 20:08:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
@@ -585,7 +604,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/02/business/energy-environment/electric-grid-data-centers-pjm.html" rel="standout"></atom:link>
       <description>As triple-digit temperatures engulf much of the United States, the Trump administration wants grid managers to require the use of backup power that often goes unused.</description>
       <dc:creator>Ivan Penn and Hilary Howard</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 18:54:00 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 05:36:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
@@ -984,23 +1003,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-usmca-1-hpjf/01dc-usmca-1-hpjf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Allison Robbert for The New York Times</media:credit>
       <media:description>President Trump has said he might pull out of the U.S.-Mexico-Canada Agreement.</media:description>
-    </item>
-    <item>
-      <title>The South Korean Mine at the Center of America’s Tungsten Push</title>
-      <link>https://www.nytimes.com/2026/07/01/business/tungsten-mine-south-korea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/business/tungsten-mine-south-korea.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/business/tungsten-mine-south-korea.html" rel="standout"></atom:link>
-      <description>Deep beneath a South Korean mountain, workers are reviving a mine that could challenge China’s grip on a metal vital to weapons, chips and industry.</description>
-      <dc:creator>Catie Edmondson and Tina Hsu</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 09:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/Tungsten-VIdeo-still-jqvl/Tungsten-VIdeo-still-jqvl-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
   </channel>
 </rss>
