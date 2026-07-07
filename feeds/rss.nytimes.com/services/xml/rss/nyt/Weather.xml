@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 20:15:50 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 19:39:11 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 21:44:35 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 21:17:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html" rel="standout"></atom:link>
       <description>After a blistering heat wave, a dousing of heavy rain this week caused flooding across the region. Experts said it could have been worse.</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 19:39:11 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 19:39:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
@@ -134,8 +134,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v343.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v345.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Wildfires Force Evacuation of Thousands in Southwest France</title>
+      <link>https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html" rel="standout"></atom:link>
+      <description>The blaze in the Pyrenees, a region bordering Spain, has scorched more than 11,000 acres so far.</description>
+      <dc:creator>Natan Odenheimer</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 20:19:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pyrenees Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06xp-france1-cmwp/06xp-france1-cmwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alexandre Dimou/Reuters</media:credit>
+      <media:description>A firefighting jet battling the flames in Ille-sur-Têt, France, on Monday.</media:description>
     </item>
     <item>
       <title>Typhoon Bavi Pounds Guam and Northern Mariana Islands</title>
@@ -169,7 +188,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v43.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v47.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -269,7 +288,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-coldest-town-topart-lpzq/04america-250-coldest-town-topart-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christie Hemm Klok for The New York Times</media:credit>
-      <media:description>The Cole Valley neighborhood of San Francisco last month.</media:description>
+      <media:description>A cloudy day in San Francisco last month.</media:description>
     </item>
     <item>
       <title>Nathan’s Hot Dog Contest Captivates Coney Island Despite Heat Wave</title>
