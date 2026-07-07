@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 08:46:02 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 06:15:19 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 12:09:31 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 10:33:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html" rel="standout"></atom:link>
       <description>The birds are particularly vulnerable to high temperatures, and France’s torrid June took a heavy toll.</description>
       <dc:creator>Chico Harlan and Léontine Gallois</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 18:39:08 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 10:33:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chickens</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
@@ -115,6 +115,47 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-hotglaciers-kqtz/02cli-hotglaciers-kqtz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
       <media:description>The Rhône Glacier in the Swiss Alps in 2025. The melting is already at levels typical of the end of summer.</media:description>
+    </item>
+    <item>
+      <title>I Wanted an Ecologically Responsible Garden. It Was Harder Than I Thought.</title>
+      <link>https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html" rel="standout"></atom:link>
+      <description>The native plant movement says that we can combat environmental disaster from our own backyards. Is it really so simple?</description>
+      <dc:creator>Ferris Jabr</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 09:02:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/magazine/19mag-native/19mag-native-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Balarama Heller for The New York Times</media:credit>
+      <media:description>A field of Phacelia blooming on the property of Douglas Tallamy.</media:description>
+    </item>
+    <item>
+      <title>Inside the United States’ Billion-Dollar Blind Spot: Hail</title>
+      <link>https://www.nytimes.com/2026/07/07/weather/hail-damage-cost.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/weather/hail-damage-cost.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/weather/hail-damage-cost.html" rel="standout"></atom:link>
+      <description>Scientists have never quite understood how hail works. Meet the storm chasers trying to change that.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Northern Illinois University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Oklahoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
+      <media:content height="1062" medium="image" url="https://static01.nyt.com/images/2026/06/22/-00Wea-hail-camera-hail-grid-cover-69238/-00Wea-hail-camera-hail-grid-cover-69238-mediumSquareAt3X.jpg" width="1062"></media:content>
+      <media:credit>Vincent Alban/The New York Times</media:credit>
     </item>
     <item>
       <title>Death Toll From Oppressive Heat in New Jersey May Be as High as 29</title>
@@ -598,7 +639,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v332.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v335.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -746,7 +787,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v332.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v335.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -1121,47 +1162,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26europe-heatwave-visual-01-fvjm/26europe-heatwave-visual-01-fvjm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Remo Casilli/Reuters</media:credit>
       <media:description>People cool off under a water mist near the Colosseum, deployed by Italy’s Civil Protection to help residents and tourists cope with the heatwave, in Rome, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Extreme Heat Across Europe Creates Divide Over Leaving Schools Open</title>
-      <link>https://www.nytimes.com/2026/06/24/world/europe/heat-wave-schools-open-closed-france-uk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/world/europe/heat-wave-schools-open-closed-france-uk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/world/europe/heat-wave-schools-open-closed-france-uk.html" rel="standout"></atom:link>
-      <description>Few schools in Britain or France have air-conditioning to keep children cool in soaring temperatures, leaving parents, teachers and officials divided about what to do.</description>
-      <dc:creator>Amelia Nierenberg and Ségolène Le Stradic</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 15:20:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Day Care Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/24int-heat-schools-01-ckqw/24int-heat-schools-01-ckqw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jack Taylor/Reuters</media:credit>
-      <media:description>Students eating ice pops during class at an elementary school in Grays, England, on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Europe Heat Wave Latest News: After France’s Hottest Day Ever, U.K. Approaches June Record</title>
-      <link>https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/24/weather/europe-extreme-heat-wave-warning.html" rel="standout"></atom:link>
-      <description>More than a dozen countries have issued urgent heat warnings. France saw its highest average temperature ever on Tuesday.</description>
-      <dc:creator>Nazaneen Ghaffar, Lynsey Chutel and Amelia Nierenberg</dc:creator>
-      <pubDate>Wed, 24 Jun 2026 20:44:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2025/07/01/multimedia/2023-07-17-world-heat-cra-map-index_europe/2023-07-17-world-heat-cra-map-index_europe-mediumSquareAt3X-v491.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
