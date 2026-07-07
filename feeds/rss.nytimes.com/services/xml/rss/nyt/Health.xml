@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 15:18:23 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 15:13:18 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:27:56 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 17:19:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,11 +22,12 @@
       <description>Popular communication methods for nonspeaking autistic people have ignited a fierce debate over what counts as evidence of hidden cognitive abilities.</description>
       <dc:creator>Azeen Ghorayshi</dc:creator>
       <pubDate>Mon, 06 Jul 2026 23:22:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spelling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/00sci-spelling-autism-01-promo/00sci-spelling-autism-01-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Moriah Ratner for The New York Times</media:credit>
       <media:description>Kelly Berg, left, assisted Omer Hashmi, 33, who is a nonspeaker with autism, during a spelling session at the Growing Kids Therapy Center in Herndon, Va.</media:description>
@@ -39,13 +40,11 @@
       <description>The C.D.C.’s tobacco control office has been shut for more than a year. After its most prominent antismoking campaign went off the air, calls to 1-800-QUIT-NOW lines have plummeted.</description>
       <dc:creator>Christina Jewett</dc:creator>
       <pubDate>Mon, 06 Jul 2026 15:22:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
     </item>
@@ -205,13 +204,32 @@
       <media:description>The list of GLP-1s that can be prescribed for obesity includes Eli Lilly’s Foundayo, Wegovy in injectable and tablet forms, and Eli Lilly’s Zepbound KwikPen.</media:description>
     </item>
     <item>
+      <title>Nation’s 250th Celebration Fireworks Sent D.C. Air Pollution Spiking</title>
+      <link>https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html" rel="standout"></atom:link>
+      <description>Trump promised a record display of some 850,000 pyrotechnics for the country’s 250th birthday. The Park Service warned it could get dirty.</description>
+      <dc:creator>Quinn Glabicki</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 17:19:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clarity Movement</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07cli-fireworks-pollution-02-hkfw/07cli-fireworks-pollution-02-hkfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>The pollution began dissipating by morning, though it lingered longer in neighborhoods to the north of the city.</media:description>
+    </item>
+    <item>
       <title>Trump Administration Guts Efforts to Prevent Gun Violence, Suppressing Reports</title>
       <link>https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html" rel="standout"></atom:link>
       <description>As the administration works to expand gun rights, hospitals and community groups have lost funding, and reports on preventing firearm injuries have vanished from government websites.</description>
       <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 15:07:12 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 16:03:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
@@ -421,32 +439,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25dc-rfk-cdc-emails-photo-hlgm/25dc-rfk-cdc-emails-photo-hlgm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang for The New York Times</media:credit>
       <media:description>Robert F. Kennedy Jr., seated, at a Senate confirmation hearing last year.</media:description>
-    </item>
-    <item>
-      <title>Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer</title>
-      <link>https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html" rel="standout"></atom:link>
-      <description>The court’s decision is likely to determine the future of thousands of lawsuits against Bayer, which manufactures the weedkiller, over similar claims.</description>
-      <dc:creator>Abbie VanSickle</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 18:59:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defoliants and Herbicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayer AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Monsanto Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/00dc-scotus-roundup-photo-mvlh/00dc-scotus-roundup-photo-mvlh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Roundup, which was created in the 1970s, is one of the most popular weedkillers in the world.</media:description>
     </item>
   </channel>
 </rss>

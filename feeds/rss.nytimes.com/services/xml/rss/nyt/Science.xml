@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 15:17:54 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 15:11:22 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:29:19 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 17:19:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -157,13 +157,32 @@
       <media:description>Sarah Reeves places items into a time capsule at National Institute of Standards and Technology in Gaithersburg, Md. The capsule will be buried in Philadelphia on July 4.</media:description>
     </item>
     <item>
+      <title>Nation’s 250th Celebration Fireworks Sent D.C. Air Pollution Spiking</title>
+      <link>https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html" rel="standout"></atom:link>
+      <description>Trump promised a record display of some 850,000 pyrotechnics for the country’s 250th birthday. The Park Service warned it could get dirty.</description>
+      <dc:creator>Quinn Glabicki</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 17:19:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clarity Movement</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07cli-fireworks-pollution-02-hkfw/07cli-fireworks-pollution-02-hkfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>The pollution began dissipating by morning, though it lingered longer in neighborhoods to the north of the city.</media:description>
+    </item>
+    <item>
       <title>I Wanted an Ecologically Responsible Garden. It Was Harder Than I Thought.</title>
       <link>https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html" rel="standout"></atom:link>
       <description>The native plant movement gets a lot right, but there’s so much more to consider.</description>
       <dc:creator>Ferris Jabr</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 15:11:22 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 15:37:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
@@ -188,7 +207,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factory Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poultry</category>
@@ -203,14 +221,16 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/climate/bill-frist-climate-change-republican-politics.html" rel="standout"></atom:link>
       <description>Bill Frist, a surgeon who also served as Senate majority leader, has emerged as an outspoken advocate for environmental health. “A healthier planet means healthier people,” he said.</description>
       <dc:creator>Cara Buckley</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 23:12:15 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 23:12:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frist, Bill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06cli-frist-05-bmfv/06cli-frist-05-bmfv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsten Luce for The New York Times</media:credit>
     </item>
@@ -222,13 +242,11 @@
       <description>The C.D.C.’s tobacco control office has been shut for more than a year. After its most prominent antismoking campaign went off the air, calls to 1-800-QUIT-NOW lines have plummeted.</description>
       <dc:creator>Christina Jewett</dc:creator>
       <pubDate>Mon, 06 Jul 2026 15:22:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
     </item>
@@ -240,11 +258,12 @@
       <description>Popular communication methods for nonspeaking autistic people have ignited a fierce debate over what counts as evidence of hidden cognitive abilities.</description>
       <dc:creator>Azeen Ghorayshi</dc:creator>
       <pubDate>Mon, 06 Jul 2026 23:22:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spelling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/00sci-spelling-autism-01-promo/00sci-spelling-autism-01-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Moriah Ratner for The New York Times</media:credit>
       <media:description>Kelly Berg, left, assisted Omer Hashmi, 33, who is a nonspeaker with autism, during a spelling session at the Growing Kids Therapy Center in Herndon, Va.</media:description>

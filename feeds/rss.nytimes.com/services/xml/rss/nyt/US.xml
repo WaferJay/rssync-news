@@ -3,17 +3,71 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/us.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 15:19:16 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 15:10:20 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 17:27:01 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 17:25:03 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>The World Cup Stood as a Break From U.S. Politics. Then Trump Got Involved.</title>
+      <link>https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/trump-world-cup-fifa.html" rel="standout"></atom:link>
+      <description>The president’s call to the head of FIFA underscores that he has yet to find an area of American, or even global, life where he is unwilling to assert himself.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 17:10:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Balogun, Folarin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07dc-trump-worldcup-ztwq/07dc-trump-worldcup-ztwq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>President Trump accepting the newly created “FIFA Peace Prize” from Gianni Infantino, the FIFA president, last year. Mr. Trump called Mr. Infantino to protest an American player’s suspension.</media:description>
+    </item>
+    <item>
+      <title>Democrats Begin to Clash Over Who Replaces Platner Even Before He Exits</title>
+      <link>https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html" rel="standout"></atom:link>
+      <description>Progressives and moderates are gearing up for a fight over an as-yet-undecided process in Maine to name a Senate nominee to replace Graham Platner after a rape accusation. He still wants a say, too.</description>
+      <dc:creator>Shane Goldmacher, Reid J. Epstein and Katie Glueck</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 17:17:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Emily&#39;s List</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baldacci, Joe (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Golden, Jared</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07pol-maine-dems-01-vzlk/07pol-maine-dems-01-vzlk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sophie Park for The New York Times</media:credit>
+      <media:description>More Democratic allies of Graham Platner called on Tuesday for him to end his campaign for Senate after a woman accused him of rape in a report on Monday. </media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/07/us/charlie-kirk-shooting-hearing/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/07/us/charlie-kirk-shooting-hearing/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/07/us/charlie-kirk-shooting-hearing/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Nicholas Bogel-Burroughs, Jack Healy and Robert Draper</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 16:49:11 +0000</pubDate>
+    </item>
     <item>
       <title>Trump Administration Guts Efforts to Prevent Gun Violence, Suppressing Reports</title>
       <link>https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html</link>
@@ -21,7 +75,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html" rel="standout"></atom:link>
       <description>As the administration works to expand gun rights, hospitals and community groups have lost funding, and reports on preventing firearm injuries have vanished from government websites.</description>
       <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 15:07:12 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 16:03:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
@@ -112,7 +166,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/us/world-cup-usmnt-soccer.html" rel="standout"></atom:link>
       <description>While the team failed to meet the hopes of many fans, this World Cup highlighted the game’s decades-long climb into the national consciousness. What comes next?</description>
       <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 13:34:08 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 15:51:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
@@ -280,19 +334,17 @@
       <description>Publicly and behind the scenes, the president continues to try to impose his own views of American history and culture, presenting an ongoing challenge to Lonnie Bunch, the institution’s leader.</description>
       <dc:creator>Maggie Haberman and Jonathan Swan</dc:creator>
       <pubDate>Tue, 07 Jul 2026 13:33:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smithsonian Institution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bunch, Lonnie G III</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smithsonian Institution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Museum of African American History and Culture</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Museum of American History</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Portrait Gallery (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bunch, Lonnie G III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sajet, Kim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06dc-smithsonian-top-jpzk/06dc-smithsonian-top-jpzk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lawren Simmons for The New York Times</media:credit>
@@ -394,7 +446,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/06/us/charlie-kirk-trial/a-fierce-competition-for-seating-and-a-few-surprises-at-the-kirk-murder-trial" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Robert Draper</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 19:50:41 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 19:50:42 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06nat-kirk-hearing-scene1-mcgb/06nat-kirk-hearing-scene1-mcgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jim Urquhart/Reuters</media:credit>
       <media:description>People waiting in line on Monday to enter a courthouse in Provo, Utah, before a preliminary hearing for Tyler Robinson, the man accused of killing Charlie Kirk.</media:description>
@@ -411,6 +463,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Appropriations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
       <media:content height="1745" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06dc-McConnell-hfbz/06dc-McConnell-hfbz-mediumSquareAt3X-v3.jpg" width="1744"></media:content>
       <media:credit>Salwan Georges for The New York Times</media:credit>
       <media:description>Senator Mitch McConnell, 84, had in recent months used a wheelchair to travel from his office building to the Capitol, although days before his hospitalization he was able to walk on his own.</media:description>
@@ -445,7 +498,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/us/who-is-erika-kirk-charlie-kirk-widow.html" rel="standout"></atom:link>
       <description>Mrs. Kirk is at the center of conspiracy theories, atop a political organization in transition and facing a personal test.</description>
       <dc:creator>Robert Draper</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 20:30:38 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 20:30:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirk, Erika (1988- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirk, Charlie (1993- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robinson, Tyler (2003- )</category>
@@ -485,7 +538,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/us/politics/supreme-court-texas-age-apps.html" rel="standout"></atom:link>
       <description>The law would require Apple and Google to verify the age of app store users to give parents more control over the content their children download.</description>
       <dc:creator>Ann E. Marimow</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 18:31:51 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 16:48:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
@@ -506,7 +559,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/23/multimedia/00dc-scotus-txageid-photo-qkbw/00dc-scotus-txageid-photo-qkbw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Texas is one of 20 states that has passed or considered similar age-verification laws for electronic devices.</media:description>
+      <media:description>Texas is one of 20 states that have passed or considered similar age-verification laws for electronic devices.</media:description>
     </item>
     <item>
       <title>Trump Defends Asking FIFA to Review Folarin Balogun’s World Cup Ban</title>
@@ -529,41 +582,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05DC-FIFA-TRUMP-top-copy/05DC-FIFA-TRUMP-top-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross/The New York Times</media:credit>
       <media:description>President Trump received the first FIFA Peace Prize from the head of the soccer governing body, Gianni Infantino, in December.</media:description>
-    </item>
-    <item>
-      <title>President Rings Stock Market Opening Bell to Celebrate Trump Accounts</title>
-      <link>https://www.nytimes.com/2026/07/06/us/politics/trump-accounts-white-house-opening-bell-ceremony.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/us/politics/trump-accounts-white-house-opening-bell-ceremony.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/us/politics/trump-accounts-white-house-opening-bell-ceremony.html" rel="standout"></atom:link>
-      <description>The government-funded savings accounts for children became available on Saturday.</description>
-      <dc:creator>Aruni Soni</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 21:19:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Savings Accounts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/arts/GettyImages-2284350892/GettyImages-2284350892-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mandel Ngan, via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Efforts to Help Smokers Quit Stall Under Trump</title>
-      <link>https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html" rel="standout"></atom:link>
-      <description>The C.D.C.’s tobacco control office has been shut for more than a year. After its most prominent antismoking campaign went off the air, calls to 1-800-QUIT-NOW lines have plummeted.</description>
-      <dc:creator>Christina Jewett</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 15:22:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
     </item>
   </channel>
 </rss>
