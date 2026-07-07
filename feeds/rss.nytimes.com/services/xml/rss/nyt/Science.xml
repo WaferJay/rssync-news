@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 17:29:19 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 17:19:06 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:15:16 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 19:41:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html" rel="standout"></atom:link>
       <description>A new study suggests that deep-sea life reaps the benefits of icebergs’ castoffs — a rare silver lining as a warming planet destabilizes glacial ice.</description>
       <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 14:06:04 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 14:06:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
@@ -34,12 +34,13 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/science/torifune-asteroid-contact-binary.html" rel="standout"></atom:link>
       <description>A Japanese spacecraft flew by an asteroid and snapped a picture. It turned out to be a “contact binary”: two space rocks that somehow fused together.</description>
       <dc:creator>Robin George Andrews</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 14:23:33 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 14:23:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Japan Aerospace Exploration Agency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07SCI-TORIFUNE-lmpq/07SCI-TORIFUNE-lmpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Japan Aerospace Exploration Agency</media:credit>
       <media:description>Torifune, an asteroid known as a “contact binary,” observed by the Japanese spacecraft Hayabusa2 on July 5.</media:description>
@@ -161,15 +162,16 @@
       <link>https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html" rel="standout"></atom:link>
-      <description>Trump promised a record display of some 850,000 pyrotechnics for the country’s 250th birthday. The Park Service warned it could get dirty.</description>
+      <description>The president promised a record display of some 850,000 pyrotechnics for the country’s 250th birthday. The Park Service warned it could get dirty.</description>
       <dc:creator>Quinn Glabicki</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 17:19:06 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 17:41:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clarity Movement</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07cli-fireworks-pollution-02-hkfw/07cli-fireworks-pollution-02-hkfw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
@@ -443,29 +445,6 @@
       <media:content height="649" medium="image" url="https://static01.nyt.com/images/2026/06/30/science/30sci-nasa-moon-base/30sci-nasa-moon-base-mediumSquareAt3X-v2.jpg" width="649"></media:content>
       <media:credit>Astrobotic/Intuitive Machines/Firefly</media:credit>
       <media:description>NASA announced it had awarded additional contracts for robotic landers to companies the agency had previously hired.</media:description>
-    </item>
-    <item>
-      <title>States Sue Trump Administration Over Medicaid Work Requirements</title>
-      <link>https://www.nytimes.com/2026/06/30/us/politics/medicaid-work-requirements-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/us/politics/medicaid-work-requirements-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/us/politics/medicaid-work-requirements-lawsuit.html" rel="standout"></atom:link>
-      <description>The lawsuit argues that new federal rules went beyond what Congress enacted and broke from guidance that the federal government previewed to states.</description>
-      <dc:creator>Sarah Kliff and Margot Sanger-Katz</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 19:59:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Medicare and Medicaid Services</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30DC-MEDICAID-LAWSUIT-htvq/30DC-MEDICAID-LAWSUIT-htvq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross/The New York Times</media:credit>
-      <media:description>The Trump administration is being sued on the new Medicaid work requirements, arguing that the guidelines are inconsistent with federal law.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Tue, 07 Jul 2026 17:29:46 GMT</lastBuildDate>
+<lastBuildDate>Tue, 07 Jul 2026 20:18:36 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -15,12 +15,19 @@
 </image>
 <item>
 <guid isPermaLink="false">lc-wsj-stock-market-today-dow-sp-500-nasdaq-07-07-2026</guid>
-<title>Stock Market Today: Tech Stocks Fall After Samsung Earnings</title>
-<description>Oil prices strengthen after attacks on ships in Persian Gulf</description>
+<title>Stock Market Today: SpaceX Slips Below Opening Price in Glum Day for Tech Stocks</title>
+<description>Oil prices jump after U.S. bars Iranian oil sales</description>
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-07-2026?mod=rss_markets_main</link>
 <pubDate>Tue, 07 Jul 2026 07:24:14 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-34062673" medium="image" type="image/jpeg">
 </media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003716012</guid>
+<title>Samsung Fails To Impress</title>
+<description>Plus, AI bonds and a jump in oil</description>
+<link>https://www.wsj.com/finance/stocks/samsung-fails-to-impress-8b61321c?mod=rss_markets_main</link>
+<pubDate>Tue, 07 Jul 2026 20:13:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003715433</guid>
@@ -76,16 +83,6 @@
 <dc:creator>Jack Pitcher</dc:creator>
 <media:content url="https://images.wsj.net/im-41341749" medium="image" type="image/jpeg">
 <media:credit>Lam Yik Fei/Bloomberg News</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003713074</guid>
-<title>Tech Stocks Go From Red to Green</title>
-<description>Plus, another SpaceX landing and Strategy&#x2019;s math problem.</description>
-<link>https://www.wsj.com/finance/stocks/tech-stocks-go-from-red-to-green-0386c09d?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 20:10:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-12730685" medium="image" type="image/jpeg">
-<media:credit>Shuran Huang for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -238,14 +235,14 @@
 <pubDate>Tue, 07 Jul 2026 13:58:00 GMT</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003713699</guid>
-<title>Vertex Pharmaceuticals to Acquire Crinetics Pharmaceuticals for $10 Billion</title>
-<description>The acquisition would add to Vertex&#x2019;s pipeline and potentially grow its annual revenue by $5 billion with the addition of Crinetics-developed drugs Palsonify and Atumelnant, the company said.</description>
-<link>https://www.wsj.com/business/deals/vertex-pharmaceuticals-to-acquire-crinetics-pharmaceuticals-for-10-billion-e739ed1c?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 21:02:00 GMT</pubDate>
-<dc:creator>Grace Yoon</dc:creator>
-<media:content url="https://images.wsj.net/im-34347826" medium="image" type="image/jpeg">
-<media:credit>brian snyder/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003713340</guid>
+<title>KKR&#x2019;s Arctos Raises $6.2 Billion to Back Private-Markets Managers</title>
+<description>Acquired by KKR in May and best known for sports deals, Arctos raised its first fund to provide growth capital to private-markets firms.</description>
+<link>https://www.wsj.com/pro/private-equity/kkrs-arctos-raises-6-2-billion-to-back-private-markets-managers-2d80e91e?mod=rss_markets_main</link>
+<pubDate>Tue, 07 Jul 2026 10:00:00 GMT</pubDate>
+<dc:creator>Chris Cumming</dc:creator>
+<media:content url="https://images.wsj.net/im-475476" medium="image" type="image/jpeg">
+<media:credit>valerie macon/Agence France-Presse/Getty Images</media:credit>
 </media:content>
 </item>
 <item>
@@ -366,6 +363,30 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003714275</guid>
+<title>Crude Jumps As U.S. Revokes Iran Authorization to Sell Oil</title>
+<description>Oil futures were sharply higher as the U.S. revoked Iran&#x2019;s license to sell oil in response to Iranian attacks on ships in the Strait of Hormuz.</description>
+<link>https://www.wsj.com/finance/commodities-futures/oil-rises-on-possible-position-adjustments-before-expected-resumption-of-u-s-iran-talks-ead21cdc?mod=rss_markets_main</link>
+<pubDate>Tue, 07 Jul 2026 19:37:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-79608788" medium="image" type="image/jpeg">
+<media:credit>Eli Hartman/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003715366</guid>
+<title>U.S. Natural Gas Futures Settle With Little Change</title>
+<description>U.S. natural gas futures edged up in rangebound trading with strong power-sector demand to meet air conditioning needs offset by adequate supply.</description>
+<link>https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-stay-rangebound-d3be7175?mod=rss_markets_main</link>
+<pubDate>Tue, 07 Jul 2026 19:25:00 GMT</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003714342</guid>
+<title>Precious Metals Finish Lower</title>
+<description>Gold and silver fell, although analysts see upside to gold prices through the second half of 2026.</description>
+<link>https://www.wsj.com/finance/commodities-futures/gold-falls-as-investors-await-fed-minutes-5e59b08b?mod=rss_markets_main</link>
+<pubDate>Tue, 07 Jul 2026 18:41:00 GMT</pubDate>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003714896</guid>
 <title>Basic Materials Roundup: Market Talk</title>
 <description>Find insight on London&#x2019;s miners, Steel Dynamics and more in the latest Market Talks covering basic materials.</description>
@@ -373,30 +394,6 @@
 <pubDate>Tue, 07 Jul 2026 16:28:00 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-33385773" medium="image" type="image/jpeg">
 <media:credit>Alexander Manzyuk/Reuters</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003714342</guid>
-<title>Gold Flat, But Optimism of Price Recovery Grows</title>
-<description>Most-active gold futures were flat in morning trading. Analysts and traders are increasingly expecting gold prices to start showing strength after trending lower since March.</description>
-<link>https://www.wsj.com/finance/commodities-futures/gold-falls-as-investors-await-fed-minutes-5e59b08b?mod=rss_markets_main</link>
-<pubDate>Tue, 07 Jul 2026 15:31:00 GMT</pubDate>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003715366</guid>
-<title>U.S. Natural Gas Futures Stay Rangebound</title>
-<description>U.S. natural gas futures were steady in early trade with the market focused on summer weather and power-sector use.</description>
-<link>https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-stay-rangebound-d3be7175?mod=rss_markets_main</link>
-<pubDate>Tue, 07 Jul 2026 14:08:00 GMT</pubDate>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003714275</guid>
-<title>Oil Futures Pick Up After Iran Fires At Vessels</title>
-<description>Oil futures were higher after an Iranian attack on ships trying to cross the Strait of Hormuz on the Omani side, a sign of Iran&#x2019;s determination to control the waterway.</description>
-<link>https://www.wsj.com/finance/commodities-futures/oil-rises-on-possible-position-adjustments-before-expected-resumption-of-u-s-iran-talks-ead21cdc?mod=rss_markets_main</link>
-<pubDate>Tue, 07 Jul 2026 14:04:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-79608788" medium="image" type="image/jpeg">
-<media:credit>Eli Hartman/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -516,6 +513,16 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003713074</guid>
+<title>Tech Stocks Go From Red to Green</title>
+<description>Plus, another SpaceX landing and Strategy&#x2019;s math problem.</description>
+<link>https://www.wsj.com/finance/stocks/tech-stocks-go-from-red-to-green-0386c09d?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 20:10:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-12730685" medium="image" type="image/jpeg">
+<media:credit>Shuran Huang for WSJ</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003711915</guid>
 <title>World&#x2019;s Hottest Market Risks Becoming a Squid Game</title>
 <description>Plus, tech stocks&#x2019; red card repealed.</description>
@@ -561,17 +568,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003670639</guid>
-<title>Stock Funds Rallied 17.1% in a Quarter That Made Investors&#x2019; Heads Spin</title>
-<description>An IPO rocket, a war rally and a new Fed gave investors plenty to think about. Plus: Our latest Financial Flashback, to the options-dating scandal 20 years ago.</description>
-<link>https://www.wsj.com/finance/investing/stocks-q2-2026-look-back-4b7f8c7d?mod=rss_markets_main</link>
-<pubDate>Sat, 04 Jul 2026 15:31:00 GMT</pubDate>
-<dc:creator>William Power</dc:creator>
-<media:content url="https://images.wsj.net/im-08592601" medium="image" type="image/jpeg">
-<media:credit>The Project Twins for wsj</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003703486</guid>
 <title>Michael Burry Cites &#x2018;Beginning of the End&#x2019; With New AI Short Bets</title>
 <description>Tesla, Caterpillar, Applied Materials and an ETF of chip stocks are in the idiosyncratic investor&#x2019;s crosshairs.</description>
@@ -607,18 +603,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003709137</guid>
-<title>A Sudden Glut of Oil Threatens to Weaken Iran&#x2019;s Hand in Talks</title>
-<description>Cheaper, more plentiful crude offers countries a chance to refill stockpiles more quickly and counter Tehran&#x2019;s ability to use the Strait of Hormuz for leverage.</description>
-<link>https://www.wsj.com/finance/commodities-futures/a-sudden-glut-of-oil-threatens-to-weaken-irans-hand-in-talks-adfcf7c0?mod=rss_markets_main</link>
-<pubDate>Sun, 05 Jul 2026 16:41:00 GMT</pubDate>
-<dc:creator>Georgi Kantchev</dc:creator>
-<dc:creator>Rebecca Feng</dc:creator>
-<media:content url="https://images.wsj.net/im-20116029" medium="image" type="image/jpeg">
-<media:credit>Reuters</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003713477</guid>
 <title>JPMorgan, Bank of America and Other Banks Explore a Deal to Shake Up Payments World</title>
 <description>A deal for a card network could allow bigger transaction fees, but some bank executives are worried about backlash.</description>
@@ -628,6 +612,18 @@
 <dc:creator>Gina Heeb</dc:creator>
 <media:content url="https://images.wsj.net/im-77680329" medium="image" type="image/jpeg">
 <media:credit>Bing Guan/Bloomberg News</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003709137</guid>
+<title>A Sudden Glut of Oil Threatens to Weaken Iran&#x2019;s Hand in Talks</title>
+<description>Cheaper, more plentiful crude offers countries a chance to refill stockpiles more quickly and counter Tehran&#x2019;s ability to use the Strait of Hormuz for leverage.</description>
+<link>https://www.wsj.com/finance/commodities-futures/a-sudden-glut-of-oil-threatens-to-weaken-irans-hand-in-talks-adfcf7c0?mod=rss_markets_main</link>
+<pubDate>Sun, 05 Jul 2026 16:41:00 GMT</pubDate>
+<dc:creator>Georgi Kantchev</dc:creator>
+<dc:creator>Rebecca Feng</dc:creator>
+<media:content url="https://images.wsj.net/im-20116029" medium="image" type="image/jpeg">
+<media:credit>Reuters</media:credit>
 </media:content>
 </item>
 <item>

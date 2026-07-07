@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 17:26:14 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 16:44:28 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 20:15:50 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 19:39:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Here’s How Much Rain Fell Across the New York Area This Week</title>
+      <link>https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html" rel="standout"></atom:link>
+      <description>After a blistering heat wave, a dousing of heavy rain this week caused flooding across the region. Experts said it could have been worse.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 19:39:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basements and Cellars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suburbs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orange County (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07WEA-rainfall-new-york-zvtq/07WEA-rainfall-new-york-zvtq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelina Katsanis for The New York Times</media:credit>
+      <media:description>Storm damage in Brooklyn on Monday.</media:description>
+    </item>
     <item>
       <title>Inside the United States’ Billion-Dollar Blind Spot: Hail</title>
       <link>https://www.nytimes.com/2026/07/07/weather/hail-damage-cost.html</link>
@@ -21,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/weather/hail-damage-cost.html" rel="standout"></atom:link>
       <description>Scientists have never quite understood how hail works. Meet the storm chasers trying to change that.</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 15:46:47 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 18:12:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
@@ -32,7 +52,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Oklahoma</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/00Wea-hail-camera-03-fhzq/00Wea-hail-camera-03-fhzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/05/25/multimedia/00Wea-hail-camera-03-fhzq/00Wea-hail-camera-03-fhzq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban/The New York Times</media:credit>
     </item>
     <item>
@@ -114,7 +134,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v340.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v343.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -149,7 +169,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v37.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v43.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -686,12 +706,13 @@
     </item>
     <item>
       <title>This is your brain on extreme heat.</title>
-      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/this-is-your-brain-on-extreme-heat</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/this-is-your-brain-on-extreme-heat</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/this-is-your-brain-on-extreme-heat" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/07/02/weather/this-is-your-brain-on-extreme-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/this-is-your-brain-on-extreme-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/02/weather/this-is-your-brain-on-extreme-heat.html" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Claire Brown</dc:creator>
       <pubDate>Thu, 02 Jul 2026 19:31:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-heat-brain-zqjb/02heat-wave-live-heat-brain-zqjb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Navigating the heat in Manhattan on Wednesday. To combat high temperatures, cities are opening cooling centers, repainting dark surfaces and investing in shade.</media:description>
@@ -841,18 +862,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-transit-bkhj/02heat-wave-live-transit-bkhj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hannah Beier for The New York Times</media:credit>
       <media:description>NJ Transit warned commuters that they may face delays related to the heat.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Nazaneen Ghaffar, Erin McCann, Christine Hauser and Mark Walker</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 23:07:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
     </item>
   </channel>
 </rss>
