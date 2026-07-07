@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 08:46:58 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 05:36:01 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 15:21:28 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 15:20:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -90,6 +90,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/META-THREADS-1-03-tgph/META-THREADS-1-03-tgph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ian C. Bates for The New York Times</media:credit>
       <media:description>“We want to be the largest and best platform for public conversation,” said Connor Hayes, the head of Threads. </media:description>
+    </item>
+    <item>
+      <title>Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies</title>
+      <link>https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html" rel="standout"></atom:link>
+      <description>A Supreme Court ruling that presidents can fire independent regulators without cause has added volatility for industries that prefer stable enforcement.</description>
+      <dc:creator>David McCabe and Steve Lohr</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 15:07:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Energy Regulatory Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Labor Relations Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slaughter, Rebecca</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00biz-scotus-company-guardails-jgpt/00biz-scotus-company-guardails-jgpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Allison Robbert for The New York Times</media:credit>
+      <media:description>A ruling last week by the Supreme Court, above, affects federal agencies that regulate tech companies, investment banks, railroads, utilities and labor disputes, among other areas.</media:description>
     </item>
     <item>
       <title>Fable Ban Reversed + Dr. Dana Suskind on Parenting With A.I. + Prediction Market Drama</title>
@@ -394,29 +416,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/00Malik--zljw/00Malik--zljw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Peter DaSilva for The New York Times</media:credit>
       <media:description>Om Malik in 2012. His blog, Gigaom, covered Silicon Valley with a mixture of hot scoops and sharp opinions.</media:description>
-    </item>
-    <item>
-      <title>Mark Zuckerberg Urges Meta to Explore Working With Polymarket and Kalshi</title>
-      <link>https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/technology/zuckerberg-meta-polymarket-kalshi.html" rel="standout"></atom:link>
-      <description>Mr. Zuckerberg’s plans for Arena, a prediction markets app that Meta is building, also include appealing to 18- to 34-year-old users.</description>
-      <dc:creator>Mike Isaac</dc:creator>
-      <pubDate>Fri, 26 Jun 2026 21:03:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Arena (Artificial Intelligence Co)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26biz-meta-polymark-1-ztlv/26biz-meta-polymark-1-ztlv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry for The New York Times</media:credit>
-      <media:description>Mark Zuckerberg, Meta’s chief executive, has made the development of a prediction markets app a top priority.</media:description>
     </item>
   </channel>
 </rss>

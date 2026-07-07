@@ -7,13 +7,43 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 12:12:34 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 10:33:47 +0000</pubDate>
+    <lastBuildDate>Tue, 07 Jul 2026 15:17:54 +0000</lastBuildDate>
+    <pubDate>Tue, 07 Jul 2026 15:11:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>As Ice Melts in the Arctic, Some Deep-Sea Creatures Are Thriving</title>
+      <link>https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/science/arctic-icebergs-deepsea-life.html" rel="standout"></atom:link>
+      <description>A new study suggests that deep-sea life reaps the benefits of icebergs’ castoffs — a rare silver lining as a warming planet destabilizes glacial ice.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 14:06:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+    </item>
+    <item>
+      <title>Cosmic Conjoined Twins, Caught on Camera</title>
+      <link>https://www.nytimes.com/2026/07/07/science/torifune-asteroid-contact-binary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/science/torifune-asteroid-contact-binary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/science/torifune-asteroid-contact-binary.html" rel="standout"></atom:link>
+      <description>A Japanese spacecraft flew by an asteroid and snapped a picture. It turned out to be a “contact binary”: two space rocks that somehow fused together.</description>
+      <dc:creator>Robin George Andrews</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 14:23:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Japan Aerospace Exploration Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07SCI-TORIFUNE-lmpq/07SCI-TORIFUNE-lmpq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Japan Aerospace Exploration Agency</media:credit>
+      <media:description>Torifune, an asteroid known as a “contact binary,” observed by the Japanese spacecraft Hayabusa2 on July 5.</media:description>
+    </item>
     <item>
       <title>Research Universities Are Admitting Fewer Ph.D.s, a Bad Sign for Science</title>
       <link>https://www.nytimes.com/2026/07/06/us/research-universities-fewer-phds-science.html</link>
@@ -22,16 +52,20 @@
       <description>Some of the nation’s top research universities are shrinking doctoral programs because of uncertain federal funding.</description>
       <dc:creator>Vimal Patel</dc:creator>
       <pubDate>Mon, 06 Jul 2026 14:22:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graduate Schools and Students</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Assn of American Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Institute of Technology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Science Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06nat-phds-zgbv/06nat-phds-zgbv-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Cody O&#39;Loughlin for The New York Times</media:credit>
       <media:description>The Massachusetts Institute of Technology in Cambridge, Mass.</media:description>
@@ -123,41 +157,13 @@
       <media:description>Sarah Reeves places items into a time capsule at National Institute of Standards and Technology in Gaithersburg, Md. The capsule will be buried in Philadelphia on July 4.</media:description>
     </item>
     <item>
-      <title>Cheating Chickadees Are Seduced by Smarts</title>
-      <link>https://www.nytimes.com/2026/07/01/science/cheating-chickadees-are-seduced-by-smarts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/science/cheating-chickadees-are-seduced-by-smarts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/science/cheating-chickadees-are-seduced-by-smarts.html" rel="standout"></atom:link>
-      <description>Female mountain chickadees are loyal to their mates, unless a smarter suitor comes along.</description>
-      <dc:creator>Annie Roth</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 16:29:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eLife (Journal)</category>
-    </item>
-    <item>
-      <title>Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon.</title>
-      <link>https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html" rel="standout"></atom:link>
-      <description>As part of plans to establish a lunar base, the space agency may send to the moon a spare test version of the rover — as well as a soccer ball.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 22:14:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <media:content height="649" medium="image" url="https://static01.nyt.com/images/2026/06/30/science/30sci-nasa-moon-base/30sci-nasa-moon-base-mediumSquareAt3X-v2.jpg" width="649"></media:content>
-      <media:credit>Astrobotic/Intuitive Machines/Firefly</media:credit>
-      <media:description>NASA announced it had awarded additional contracts for robotic landers to companies the agency had previously hired.</media:description>
-    </item>
-    <item>
       <title>I Wanted an Ecologically Responsible Garden. It Was Harder Than I Thought.</title>
       <link>https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html" rel="standout"></atom:link>
-      <description>The native plant movement says that we can combat environmental disaster from our own backyards. Is it really so simple?</description>
+      <description>The native plant movement gets a lot right, but there’s so much more to consider.</description>
       <dc:creator>Ferris Jabr</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 09:02:42 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 15:11:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
@@ -377,6 +383,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
+      <title>Cheating Chickadees Are Seduced by Smarts</title>
+      <link>https://www.nytimes.com/2026/07/01/science/cheating-chickadees-are-seduced-by-smarts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/science/cheating-chickadees-are-seduced-by-smarts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/01/science/cheating-chickadees-are-seduced-by-smarts.html" rel="standout"></atom:link>
+      <description>Female mountain chickadees are loyal to their mates, unless a smarter suitor comes along.</description>
+      <dc:creator>Annie Roth</dc:creator>
+      <pubDate>Thu, 02 Jul 2026 16:29:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eLife (Journal)</category>
+    </item>
+    <item>
       <title>The Vera Rubin Telescope Begins Surveying Our Cosmos</title>
       <link>https://www.nytimes.com/2026/06/30/science/rubin-telescope.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/science/rubin-telescope.html</guid>
@@ -390,6 +408,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rubin, Vera C, Observatory</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/00rubin-video-02-tqwf-cover/00rubin-video-02-tqwf-cover-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>NSF–DOE Vera C. Rubin Observatory/NOIRLab/SLAC/AURA, via Associated Press</media:credit>
+    </item>
+    <item>
+      <title>Curiosity, Perseverance and Now Promise? NASA May Send a Mars Rover to the Moon.</title>
+      <link>https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/06/30/science/nasa-moon-base-research.html" rel="standout"></atom:link>
+      <description>As part of plans to establish a lunar base, the space agency may send to the moon a spare test version of the rover — as well as a soccer ball.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Tue, 30 Jun 2026 22:14:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <media:content height="649" medium="image" url="https://static01.nyt.com/images/2026/06/30/science/30sci-nasa-moon-base/30sci-nasa-moon-base-mediumSquareAt3X-v2.jpg" width="649"></media:content>
+      <media:credit>Astrobotic/Intuitive Machines/Firefly</media:credit>
+      <media:description>NASA announced it had awarded additional contracts for robotic landers to companies the agency had previously hired.</media:description>
     </item>
     <item>
       <title>States Sue Trump Administration Over Medicaid Work Requirements</title>
@@ -413,21 +447,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30DC-MEDICAID-LAWSUIT-htvq/30DC-MEDICAID-LAWSUIT-htvq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross/The New York Times</media:credit>
       <media:description>The Trump administration is being sued on the new Medicaid work requirements, arguing that the guidelines are inconsistent with federal law.</media:description>
-    </item>
-    <item>
-      <title>N.I.H. Announces World’s Largest Integrated Health Database</title>
-      <link>https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/30/science/nih-announces-worlds-largest-integrated-health-database.html" rel="standout"></atom:link>
-      <description>It contains more than half a million people’s genomes, paired with clinical records and wearable tech data. That gives researchers unmatched power to study both diseases and treatments.</description>
-      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 16:47:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronic Health Records</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30SCI-ALL-OF-US-wqfz/30SCI-ALL-OF-US-wqfz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hailey Sadler for The New York Times</media:credit>
-      <media:description>More than 747,000 people across the United States have contributed to a health database at the National Institutes of Health.</media:description>
     </item>
   </channel>
 </rss>
