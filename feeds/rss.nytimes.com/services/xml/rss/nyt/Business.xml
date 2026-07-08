@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 10:29:04 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 09:23:31 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 12:54:24 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 12:07:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Jeff Bezos’s Blue Origin Nears a Big Fund-Raising Round</title>
+      <link>https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/business/dealbook/bezos-funding-blue-origin.html" rel="standout"></atom:link>
+      <description>The rocket company founded by Jeff Bezos is set to take on external investors for the first time, at a $130 billion valuation.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 12:07:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Origin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Coatue Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08db-blue-origin-pzgl/08db-blue-origin-pzgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joe Skipper/Reuters</media:credit>
+      <media:description>Jeff Bezos’ Blue Origin is gaining its first outside investors.</media:description>
+    </item>
     <item>
       <title>A New ‘Little House’ Expands and Updates the Prairie</title>
       <link>https://www.nytimes.com/2026/07/08/arts/television/little-house-on-the-prairie-netflix.html</link>
@@ -58,13 +78,13 @@
       <media:description>The Entry/Exit System, fully in place since April, requires visitors to the 29 Schengen area countries to provide biometrics like face photos and fingerprints upon entry and exit.</media:description>
     </item>
     <item>
-      <title>Oil Prices Jump After U.S. and Iran Trade Strikes in Persian Gulf</title>
-      <link>https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/business/oil-gas-markets-shipping-hormuz.html" rel="standout"></atom:link>
+      <title>Oil Prices Jump After Trump Says Deal With Iran Is ‘Over’</title>
+      <link>https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/business/oil-gas-markets-iran-shipping-hormuz.html" rel="standout"></atom:link>
       <description>Attacks on ships in the Strait of Hormuz sparked a new cycle of retaliation that could throttle the flow of energy from the region.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 09:05:13 +0000</pubDate>
+      <dc:creator>Jason Karaian and Jenny Gross</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 10:55:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -979,25 +999,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-    </item>
-    <item>
-      <title>Latest Jobs Report Shows Labor Market Is Not a Source of Inflationary Pressure</title>
-      <link>https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/business/economy/jobs-report-june-fed-interest-rates-warsh.html" rel="standout"></atom:link>
-      <description>The unemployment rate ticked down to 4.2 percent, but average hourly earnings were steady, giving Kevin Warsh, the Federal Reserve chairman, room to focus on fighting inflation.</description>
-      <dc:creator>Colby Smith</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 13:54:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02jobs-fed-ckql/02jobs-fed-ckql-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anna Rose Layden for The New York Times</media:credit>
-      <media:description>At his first news conference as head of the Federal Reserve, Kevin Warsh said that establishing price stability would be pursued “unambiguously and unanimously.”</media:description>
     </item>
   </channel>
 </rss>
