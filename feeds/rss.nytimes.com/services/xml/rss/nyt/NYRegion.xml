@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 23:23:51 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 23:21:52 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:55:20 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 00:47:15 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/midtown-building-collapse-housing-project.html" rel="standout"></atom:link>
       <description>Offices and hotels around East 42nd Street were evacuated after structural damage affected an office conversion project. Traffic was halted in the area. No injuries were reported.</description>
       <dc:creator>Ashley Southall and Mihir Zaveri</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 22:49:40 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:06:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
@@ -43,8 +43,8 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/07/nyregion/pfizer-building-midtown-collapse" rel="standout"></atom:link>
       <description>City officials set up a multiblock “frozen zone” around the building, a construction site near Grand Central Terminal. Beams were being brought in to stabilize the structure, the buildings commissioner said.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 23:21:52 +0000</pubDate>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-promo4p-qbtk/07-midtown-building-promo4p-qbtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Wed, 08 Jul 2026 00:47:15 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-promo830p-zqlg/07-midtown-building-promo830p-zqlg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
     </item>
     <item>
@@ -219,6 +219,41 @@
       <media:description>Federal agents visited the Rochester, N.Y., home of David Streever, who had sent a caustic email to a top immigration official. They came in June with a warning.</media:description>
     </item>
     <item>
+      <title>Midtown Building Developer Says Problems Were a ‘Typical Construction Mishap’</title>
+      <link>https://www.nytimes.com/2026/07/07/nyregion/developer-midtown-manhattan-building.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/nyregion/developer-midtown-manhattan-building.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/developer-midtown-manhattan-building.html" rel="standout"></atom:link>
+      <description>Nathan Berman, one of the developers of the Midtown building that suffered structural damage, predicted the project would restart within weeks.</description>
+      <dc:creator>Mihir Zaveri</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 00:40:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berman, Nathan</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-developer-nathan-berman-vtbf/07-midtown-building-developer-nathan-berman-vtbf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>The developer of the East 42nd Street building that suffered structural damage predicted the project would start up again soon.</media:description>
+    </item>
+    <item>
+      <title>A Neighborhood Has to Cope as a Midtown Building Remains Unstable</title>
+      <link>https://www.nytimes.com/2026/07/07/nyregion/midtown-manhattan-building-east-42nd.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/nyregion/midtown-manhattan-building-east-42nd.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/midtown-manhattan-building-east-42nd.html" rel="standout"></atom:link>
+      <description>Travelers were shut out of major hotels, and work ground to a halt for some on Tuesday after a building partially buckled in Manhattan.</description>
+      <dc:creator>Caitlyn Freeman</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 23:39:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-scene-top2-zvjl/07-midtown-building-scene-top2-zvjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>East 44th Street in Manhattan on Tuesday, as evacuations continued after a high-rise office building on 42nd Street was at risk of partial collapse.</media:description>
+    </item>
+    <item>
       <title>What to Know About Manhattan Office Conversions</title>
       <link>https://www.nytimes.com/2026/07/07/nyregion/office-residential-explainer-faq.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/nyregion/office-residential-explainer-faq.html</guid>
@@ -261,12 +296,12 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/frozen-zone-midtown-manhattan-building-collapse.html" rel="standout"></atom:link>
       <description>A building at risk of partial collapse prompted the city to restrict pedestrian and vehicle traffic in the area. Some buses were diverted or delayed, but subway lines remained uninterrupted.</description>
       <dc:creator>Ed Shanahan</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 20:54:29 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:09:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-frozen-zone-topart-tqwz/07-midtown-building-frozen-zone-topart-tqwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Snarled traffic in Manhattan, after police have cordoned off the area between 40th to 45th Streets between First and Third Avenues on Tuesday.</media:description>
+      <media:description>Snarled traffic in Manhattan after the police cordoned off an area of Midtown East on Tuesday.</media:description>
     </item>
     <item>
       <title>Here’s How Much Rain Fell Across the New York Area This Week</title>
@@ -295,7 +330,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/midtown-manhattan-pfizer-building-collapse.html" rel="standout"></atom:link>
       <description>The building on East 42nd Street, the former headquarters of Pfizer, was being converted to apartments. Several upper floors were sagging.</description>
       <dc:creator>Ed Shanahan</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 22:15:23 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:47:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
@@ -308,7 +343,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07midtown-building-vidpkgcover/07midtown-building-vidpkgcover-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
     </item>
     <item>
       <title>Manhattan Building at Risk of Collapse Is Being Converted to Apartments</title>
@@ -317,7 +351,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/midtown-building-collapse-apartment-conversions.html" rel="standout"></atom:link>
       <description>The conversion of an office building on East 42nd Street would be the largest project of its kind in New York City’s history, according to the architectural firm behind the plan.</description>
       <dc:creator>Hurubie Meko and Santul Nerkar</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 17:46:22 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 23:49:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
@@ -361,7 +395,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/07/nyregion/pfizer-building-midtown-collapse/pfizer-building-midtown-collapse" rel="standout"></atom:link>
       <description>The complex, which once housed offices for the pharmaceutical company Pfizer, is being converted to residences. Officials inspecting it found support columns were buckling, and upper floors were sagging.</description>
       <dc:creator>Ashley Southall, Claire Fahy, Mihir Zaveri, Caitlyn Freeman and Hurubie Meko</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 21:00:24 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:10:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
@@ -385,51 +419,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07cul-dolly-qpzg/07cul-dolly-qpzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Charlie Riedel/Associated Press</media:credit>
       <media:description>“Dolly: A True Original Musical,” a long-in-the-works show about the country queen’s life and career, will open next Jan. 19.</media:description>
-    </item>
-    <item>
-      <title>Death Toll From Oppressive Heat in New Jersey May Be as High as 29</title>
-      <link>https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/nyregion/new-jersey-nyc-heat-deaths.html" rel="standout"></atom:link>
-      <description>In New York City, emergency rooms last week logged the highest number of patients treated for heat-related illnesses in years.</description>
-      <dc:creator>Tracey Tully and Joseph Goldstein</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 12:57:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hammonton (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Monmouth County (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ocean County (NJ)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06met-heat-deaths-01-gpfq/06met-heat-deaths-01-gpfq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>Soccer fans sought a cool spot last week at a World Cup match at MetLife Stadium in New Jersey.</media:description>
-    </item>
-    <item>
-      <title>Detective Struck by Another Officer in Brooklyn Shooting, Police Say</title>
-      <link>https://www.nytimes.com/2026/07/06/nyregion/nypd-brooklyn-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/nyregion/nypd-brooklyn-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/nyregion/nypd-brooklyn-shooting.html" rel="standout"></atom:link>
-      <description>The police had first said the detective, who was wearing a bulletproof vest, was shot by a man in the street early Sunday. On Monday, they said that in fact another officer accidentally shot him.</description>
-      <dc:creator>Chelsia Rose Marcius</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 15:29:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendly Fire (Military and Law Enforcement)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attacks on Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crown Heights (Brooklyn, NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06met-nypd-shooting-01-bjql/06met-nypd-shooting-01-bjql-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kyle Mazza/Sipa USA, via Associated Press</media:credit>
-      <media:description>A detective was accidentally shot in the back when another officer fired a weapon while confronting an armed man, the police said.</media:description>
     </item>
   </channel>
 </rss>

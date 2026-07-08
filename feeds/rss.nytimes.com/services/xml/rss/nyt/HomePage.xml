@@ -7,32 +7,56 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 07 Jul 2026 23:24:57 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 23:18:49 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:53:51 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 00:39:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Iran’s Strikes on Ships in Strait of Hormuz Threaten Oil Flow</title>
-      <link>https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/world/middleeast/iran-war-oman-hormuz-tanker.html" rel="standout"></atom:link>
-      <description>The strikes by Iran and the attacks and re-imposition of sanctions by the U.S. came weeks after the countries agreed to try to find a lasting end to their hostilities.</description>
-      <dc:creator>Jenny Gross</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 22:01:00 +0000</pubDate>
+      <title>U.S. Strikes Iran and Reimposes Sanctions After Tanker Attacks</title>
+      <link>https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/us-strikes-iran-tanker-attacks.html" rel="standout"></atom:link>
+      <description>The military operation came hours after the U.S. Treasury revoked a waiver allowing global sales of Iranian oil.</description>
+      <dc:creator>Eric Schmitt</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 23:02:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07biz-hormuz-shipping-vfhl/07biz-hormuz-shipping-vfhl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Elke Scholiers/Getty Images</media:credit>
-      <media:description>Vessels anchored near Muscat, Oman, last month.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07DC-MILITARY-jwzt/07DC-MILITARY-jwzt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>Negotiations between Iran and the United States have been paused until after multiday funeral ceremonies in Tehran for Ayatollah Ali Khamenei, the supreme leader who was killed on the first day of the war.</media:description>
+    </item>
+    <item>
+      <title>As Israel Loses Support in the U.S., Rahm Emanuel Criticizes Netanyahu</title>
+      <link>https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html" rel="standout"></atom:link>
+      <description>The former Chicago mayor, a Democrat exploring a 2028 presidential run, is in Tel Aviv calling for an end to unconditional U.S. support of Israel.</description>
+      <dc:creator>David M. Halbfinger</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 23:23:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="">Presidential Election of 2028</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Rahm</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08-pol-emanuel-israel-wqtl/08-pol-emanuel-israel-wqtl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Andrew for The New York Times</media:credit>
+      <media:description>Rahm Emanuel, the former Chicago mayor and White House chief of staff, is trying to chart a course between the anti-Israel left and the pro-Israel right.</media:description>
     </item>
     <item>
       <title>Democrats Clash Over a Replacement for Platner</title>
@@ -77,7 +101,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/justice-department-elections-noncitizen-voting.html" rel="standout"></atom:link>
       <description>The letters come amid President Trump’s effort to tighten election rules to prevent a problem that doesn’t exist: widespread noncitizen voting.</description>
       <dc:creator>Nick Corasaniti</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 21:05:45 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:19:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -85,7 +109,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07pol-doj-secretaries-dhillon-bthw/07pol-doj-secretaries-dhillon-bthw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Harnik/Getty Images</media:credit>
-      <media:description>Letters from Harmeet Dhillon, who runs the Justice Department’s civil rights division, to at least 11 states on Tuesday threatened to prosecute top election officials if votes by noncitizens were counted in upcoming elections.</media:description>
+      <media:description>Letters from Harmeet Dhillon, who runs the Justice Department’s civil rights division, to all 50 states and the District of Columbia threatened prosecution of top election officials if votes by noncitizens were counted in upcoming elections.</media:description>
     </item>
     <item>
       <title>Judge Quashes Justice Dept. Subpoena in 2020 Election Inquiry</title>
@@ -134,12 +158,12 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/frozen-zone-midtown-manhattan-building-collapse.html" rel="standout"></atom:link>
       <description>A building at risk of partial collapse prompted the city to restrict pedestrian and vehicle traffic in the area. Some buses were diverted or delayed, but subway lines remained uninterrupted.</description>
       <dc:creator>Ed Shanahan</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 20:54:29 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:09:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-frozen-zone-topart-tqwz/07-midtown-building-frozen-zone-topart-tqwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Snarled traffic in Manhattan, after police have cordoned off the area between 40th to 45th Streets between First and Third Avenues on Tuesday.</media:description>
+      <media:description>Snarled traffic in Manhattan after the police cordoned off an area of Midtown East on Tuesday.</media:description>
     </item>
     <item>
       <title>Democrats Clash Over Who Replaces Platner Even Before He Exits</title>
@@ -148,7 +172,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html" rel="standout"></atom:link>
       <description>Progressives and moderates are gearing up for a fight over an as-yet-undecided process in Maine to name a Senate nominee to replace Graham Platner after a rape accusation. He still wants a say, too.</description>
       <dc:creator>Shane Goldmacher, Reid J. Epstein and Katie Glueck</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 20:23:01 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:17:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -215,7 +239,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/graham-platner-replacements-maine-democrats.html" rel="standout"></atom:link>
       <description>Mr. Platner has not yet withdrawn from the race after a rape allegation, but Democrats in the state and nationally are already exploring potential alternatives.</description>
       <dc:creator>Bayliss Wagner</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 22:53:19 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:38:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dempsey, Patrick</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Golden, Jared</category>
@@ -295,41 +319,44 @@
       <media:description>President Trump accepting the newly created “FIFA Peace Prize” from Gianni Infantino, the FIFA president, last year. Mr. Trump called Mr. Infantino to protest an American player’s suspension.</media:description>
     </item>
     <item>
-      <title>Trump Administration Guts Efforts to Prevent Gun Violence, Suppressing Reports</title>
-      <link>https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/trump-gun-violence-cdc-dhs-justice.html" rel="standout"></atom:link>
-      <description>As the administration works to expand gun rights, hospitals and community groups have lost funding, and reports on preventing firearm injuries have vanished from government websites.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 16:03:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Alcohol, Tobacco, Firearms and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/dc-trump-guns-bmpq/dc-trump-guns-bmpq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang for The New York Times</media:credit>
-      <media:description>Senator Christopher S. Murphy of Connecticut has pushed to make the White House Office of Gun Violence Prevention permanent after President Trump shuttered the office, which originated under former President Joseph R. Biden Jr.</media:description>
-    </item>
-    <item>
       <title>ICE Officer Kills a Mexican Man in Houston</title>
       <link>https://www.nytimes.com/2026/07/07/us/immigration-ice-shooting-houston.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/immigration-ice-shooting-houston.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/07/us/immigration-ice-shooting-houston.html" rel="standout"></atom:link>
       <description>The agency said the man was an “illegal alien” who had tried to run over the agent, though no evidence was immediately offered.</description>
       <dc:creator>Edgar Sandoval</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 23:08:29 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:39:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <media:content height="1365" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07nat-ice-shooting-vbtc/07nat-ice-shooting-vbtc-mediumSquareAt3X.jpg" width="1366"></media:content>
       <media:credit>Jacob Lujan/Houston Chronicle, via Associated Press</media:credit>
       <media:description>The Houston Fire Department said the man was shot in the abdomen.</media:description>
+    </item>
+    <item>
+      <title>Judge Orders D.H.S. to Restore 4 States’ Access to Citizenship Data</title>
+      <link>https://www.nytimes.com/2026/07/07/us/politics/florida-judge-dhs-citizenship-data.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/politics/florida-judge-dhs-citizenship-data.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/us/politics/florida-judge-dhs-citizenship-data.html" rel="standout"></atom:link>
+      <description>The ruling, based on an agreement the Trump administration signed with Florida last year, contradicted an earlier order by a judge in Washington that required the access be suspended.</description>
+      <dc:creator>Zach Montague and David Ovalle</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 23:59:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sooknanan, Sparkle L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07dc-voting-wqmp/07dc-voting-wqmp-mediumSquareAt3X.jpg" width="1600"></media:content>
+      <media:credit>Zack Wittman for The New York Times</media:credit>
+      <media:description>Election workers counting ballots in Largo, Fla., in 2024. An order by a federal judge in Florida on Tuesday allowed bulk searches of a federal citizenship database by state officials to check voter eligibility.</media:description>
     </item>
     <item>
       <title>Yale Law School Fights to Stop Trump Deal</title>
@@ -371,26 +398,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07dc-murder-vaccine-01-tvcj/07dc-murder-vaccine-01-tvcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bonnie Cash/Reuters</media:credit>
       <media:description>Children’s Health Defense’s chief executive said the group planned to stand by Andrea Renee Shaw’s claim that vaccines caused the toddlers’ deaths.</media:description>
-    </item>
-    <item>
-      <title>The Accused Is in Court but Conspiracy Theories Still Swirl Around Kirk Case</title>
-      <link>https://www.nytimes.com/2026/07/07/us/charlie-kirk-assassination-conspiracy-theories.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/us/charlie-kirk-assassination-conspiracy-theories.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/us/charlie-kirk-assassination-conspiracy-theories.html" rel="standout"></atom:link>
-      <description>Mr. Kirk’s assassination played out live on the internet, but since then, it has become fodder for fantasy.</description>
-      <dc:creator>Robert Draper</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 17:44:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirk, Charlie (1993- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robinson, Tyler (2003- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Owens, Candace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06nat-kirk-hearing-conspiracies-jbpw/06nat-kirk-hearing-conspiracies-jbpw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kim Raff for The New York Times</media:credit>
-      <media:description>Keli Rabon, a podcaster from Houston, filming outside the courthouse in Provo, Utah, on the first day of a pre-trial hearing for Tyler Robinson, who was charged with killing Charlie Kirk last year. </media:description>
     </item>
     <item>
       <title>The Disappearing Las Vegas Buffets Hold a Mirror to the American Soul</title>
@@ -473,24 +480,26 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>I Wanted an Ecologically Responsible Garden. It Was Harder Than I Thought.</title>
-      <link>https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html" rel="standout"></atom:link>
-      <description>The native plant movement gets a lot right, but there’s so much more to consider.</description>
-      <dc:creator>Ferris Jabr</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 15:37:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/magazine/19mag-native/19mag-native-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Balarama Heller for The New York Times</media:credit>
-      <media:description>A field of Phacelia blooming on the property of Douglas Tallamy.</media:description>
+      <title>Democratic Socialists Are on the Rise. We’ve Seen This Movie Before.</title>
+      <link>https://www.nytimes.com/2026/07/07/opinion/democratic-socialist-liberal-progressive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/opinion/democratic-socialist-liberal-progressive.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/07/opinion/democratic-socialist-liberal-progressive.html" rel="standout"></atom:link>
+      <description>Mainstream party leaders can’t dodge a fight with their left.</description>
+      <dc:creator>Bret Stephens</dc:creator>
+      <pubDate>Tue, 07 Jul 2026 21:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Avila Chevalier, Darializa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Valdez, Claire (1989- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/07stephens-hmjz/07stephens-hmjz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Will Matsuda for The New York Times</media:credit>
     </item>
     <item>
       <title>JD Vance Is Worried</title>
@@ -513,28 +522,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Communion: Finding My Way Back to Faith (Book)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07lozada-cvgf/07lozada-cvgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Paola Chapdelaine for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Is This Liberalism’s Last Stand?</title>
-      <link>https://www.nytimes.com/2026/07/07/opinion/liberalism-democratic-socialists-future.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/opinion/liberalism-democratic-socialists-future.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/opinion/liberalism-democratic-socialists-future.html" rel="standout"></atom:link>
-      <description>The “death certificates” issued for liberalism, one analyst says, are “premature.”</description>
-      <dc:creator>Thomas B. Edsall</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 19:14:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Why Nothing Works: Who Killed Progress--and How to Bring It Back (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Abundance (Book)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07edsall-qgbt/07edsall-qgbt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jonno Rattman for The New York Times</media:credit>
     </item>
     <item>
       <title>Why Are Berries Everywhere, in Every Season? Driscoll’s.</title>
