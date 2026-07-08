@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 12:52:09 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 12:44:56 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 15:37:38 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 15:31:53 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/08/nyregion/nyc-midtown-building-collapse" rel="standout"></atom:link>
       <description>A Midtown high-rise that suffered structural damage was stable for now, New York City’s buildings commissioner said, but he warned of tense days ahead.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 12:44:56 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 15:31:53 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08midtown-building-carousel-zzz-pmjh/08midtown-building-carousel-zzz-pmjh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lexi Parra/The New York Times</media:credit>
     </item>
@@ -32,7 +32,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/08/nyregion/college-graduates-job-market.html" rel="standout"></atom:link>
       <description>New York City’s public universities propel young graduates into the middle class. But some worry that a bleaker early career job market has added hurdles.</description>
       <dc:creator>Troy Closson</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 07:00:06 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 13:15:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Center for an Urban Future</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City University of New York</category>
@@ -73,7 +73,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/08/nyregion/mamdani-hochul-bus-routes.html" rel="standout"></atom:link>
       <description>A plan announced by Mayor Zohran Mamdani and Gov. Kathy Hochul lists ambitious steps to speed up New York City buses, which remain some of the slowest in the nation.</description>
       <dc:creator>Stefanos Chen</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 11:47:30 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 15:30:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
@@ -93,14 +93,14 @@
       <description>Anthropic, the artificial intelligence company, plans to lease a 16-story building in Hudson Square and to double its work force in New York City to 1,000 people this year.</description>
       <dc:creator>Emma G. Fitzsimmons and Steve Lohr</dc:creator>
       <pubDate>Tue, 07 Jul 2026 20:34:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson Square (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson Square (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/04/multimedia/00met-anthropic-nyc-01-gbhl/00met-anthropic-nyc-01-gbhl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Anthropic, the company behind the Claude chatbot, is one of several artificial intelligence firms that are expanding their office footprints in New York City and hiring more workers.</media:description>
@@ -210,11 +210,18 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/developer-midtown-manhattan-building.html" rel="standout"></atom:link>
       <description>Nathan Berman, one of the developers of the Midtown building that suffered structural damage, predicted the project would restart within weeks.</description>
       <dc:creator>Mihir Zaveri</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 11:03:41 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 11:03:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berman, Nathan (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berman, Nathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Werner, David, Real Estate PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-developer-nathan-berman-vtbf/07-midtown-building-developer-nathan-berman-vtbf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>The developer of the East 42nd Street building that suffered structural damage predicted the project would start up again soon.</media:description>

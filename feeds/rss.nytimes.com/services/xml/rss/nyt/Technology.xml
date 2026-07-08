@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 04:35:16 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 03:30:34 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 15:36:35 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 15:25:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,11 +22,12 @@
       <description>Muse Image, which can create realistic images for users on Instagram and WhatsApp, is the company’s latest attempt to catch up in the global artificial intelligence race.</description>
       <dc:creator>Eli Tan</dc:creator>
       <pubDate>Tue, 07 Jul 2026 19:50:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
       <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/07/business/META-AI-vacation-selfie/META-AI-vacation-selfie-mediumSquareAt3X.jpg" width="1080"></media:content>
       <media:credit>-</media:credit>
       <media:description>Meta Muse users can generate A.I. photos similar to those they would normally post.</media:description>
@@ -91,6 +92,30 @@
       <media:description>Though Microsoft has invested heavily in its Xbox business, the company’s video game revenue has slumped.</media:description>
     </item>
     <item>
+      <title>In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock</title>
+      <link>https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html" rel="standout"></atom:link>
+      <description>Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 14:22:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Homes and Non-Primary Residences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mill Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Noe Valley (San Francisco, Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sonoma County (Calif)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cayce Clifford for The New York Times</media:credit>
+      <media:description>San Francisco home sales in May rose 12.2 percent from a year earlier, with the median price of a single-family home climbing to $2.14 million, according to a Homes.com report.</media:description>
+    </item>
+    <item>
       <title>Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies</title>
       <link>https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html</guid>
@@ -100,14 +125,17 @@
       <pubDate>Tue, 07 Jul 2026 15:07:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Energy Regulatory Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Surface Transportation Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Labor Relations Board</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Energy Regulatory Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Labor Relations Board</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Slaughter, Rebecca</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00biz-scotus-company-guardails-jgpt/00biz-scotus-company-guardails-jgpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Allison Robbert for The New York Times</media:credit>
       <media:description>A ruling last week by the Supreme Court, above, affects federal agencies that regulate tech companies, investment banks, railroads, utilities and labor disputes, among other areas.</media:description>
@@ -397,26 +425,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/00inv-social-media-vlcj/00inv-social-media-vlcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Manuel Ausloos/Reuters</media:credit>
       <media:description>Several tech company leaders are set to testify to Congress next month about harms to children on their platforms.</media:description>
-    </item>
-    <item>
-      <title>U.S. Loosens Restrictions on Anthropic’s Mythos A.I. Model</title>
-      <link>https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/26/technology/anthropic-mythos-government-restrictions.html" rel="standout"></atom:link>
-      <description>The move de-escalates a clash between the Trump administration and the company over its cutting-edge artificial intelligence systems.</description>
-      <dc:creator>Sheera Frenkel</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 00:54:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/business/26biz-anthropic-deal-mythos/26biz-anthropic-deal-mythos-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gabby Jones/Bloomberg</media:credit>
-      <media:description>In a letter on Friday, the Commerce Department gave Anthropic permission to restore some clients’ access to one of its most powerful artificial intelligence models, Mythos 5.</media:description>
     </item>
   </channel>
 </rss>
