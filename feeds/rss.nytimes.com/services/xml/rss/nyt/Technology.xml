@@ -7,13 +7,37 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 15:36:35 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 15:25:11 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 17:51:23 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 16:56:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock</title>
+      <link>https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html" rel="standout"></atom:link>
+      <description>Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 16:56:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Homes and Non-Primary Residences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mill Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Noe Valley (San Francisco, Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sonoma County (Calif)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cayce Clifford for The New York Times</media:credit>
+      <media:description>San Francisco home sales in May rose 12.2 percent from a year earlier, with the median price of a single-family home climbing to $2.14 million, according to a Homes.com report.</media:description>
+    </item>
     <item>
       <title>Meta Unveils an A.I. Image Generator</title>
       <link>https://www.nytimes.com/2026/07/07/technology/meta-ai-muse-image.html</link>
@@ -74,48 +98,6 @@
       <media:description>A Shanghai technology fair booth for Qwen, a family of artificial intelligence models that the Chinese company Alibaba started in 2023.</media:description>
     </item>
     <item>
-      <title>Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios</title>
-      <link>https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html" rel="standout"></atom:link>
-      <description>The layoffs were part of wider cuts at Microsoft, as the company prioritizes spending on artificial intelligence.</description>
-      <dc:creator>Karen Weise and Zachary Small</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 14:19:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Xbox (Video Game System)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/00biz-microsoft-layoffsHFO-jhqz/00biz-microsoft-layoffsHFO-jhqz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stephane De Sakutin/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Though Microsoft has invested heavily in its Xbox business, the company’s video game revenue has slumped.</media:description>
-    </item>
-    <item>
-      <title>In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock</title>
-      <link>https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html" rel="standout"></atom:link>
-      <description>Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.</description>
-      <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 14:22:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Homes and Non-Primary Residences</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mill Valley (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Noe Valley (San Francisco, Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sonoma County (Calif)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cayce Clifford for The New York Times</media:credit>
-      <media:description>San Francisco home sales in May rose 12.2 percent from a year earlier, with the median price of a single-family home climbing to $2.14 million, according to a Homes.com report.</media:description>
-    </item>
-    <item>
       <title>Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies</title>
       <link>https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/technology/scotus-agencies-companies-regulation.html</guid>
@@ -139,6 +121,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00biz-scotus-company-guardails-jgpt/00biz-scotus-company-guardails-jgpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Allison Robbert for The New York Times</media:credit>
       <media:description>A ruling last week by the Supreme Court, above, affects federal agencies that regulate tech companies, investment banks, railroads, utilities and labor disputes, among other areas.</media:description>
+    </item>
+    <item>
+      <title>Microsoft Lays Off Thousands of Xbox Employees, Closes Game Studios</title>
+      <link>https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/06/technology/microsoft-xbox-layoffs-ai.html" rel="standout"></atom:link>
+      <description>The layoffs were part of wider cuts at Microsoft, as the company prioritizes spending on artificial intelligence.</description>
+      <dc:creator>Karen Weise and Zachary Small</dc:creator>
+      <pubDate>Mon, 06 Jul 2026 14:19:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Xbox (Video Game System)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/00biz-microsoft-layoffsHFO-jhqz/00biz-microsoft-layoffsHFO-jhqz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephane De Sakutin/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Though Microsoft has invested heavily in its Xbox business, the company’s video game revenue has slumped.</media:description>
     </item>
     <item>
       <title>How Meta’s Threads Became as Popular as X</title>

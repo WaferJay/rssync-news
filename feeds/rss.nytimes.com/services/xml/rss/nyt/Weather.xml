@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 15:38:45 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 05:21:53 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 17:53:50 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 17:30:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Hotter Seas in Britain and Europe Threaten Marine Life</title>
+      <link>https://www.nytimes.com/2026/07/08/world/europe/marine-heat-wave-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/world/europe/marine-heat-wave-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/world/europe/marine-heat-wave-uk.html" rel="standout"></atom:link>
+      <description>Higher sea temperatures have followed scorching weather across Europe, prompting Britain’s weather service to declare a “severe” marine heat wave.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 16:10:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08xp-marine-heat-01-tpmw/08xp-marine-heat-01-tpmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carlos Jasso/Agence France-Presse — Getty Images</media:credit>
+      <media:description>People diving into the English Channel in Brighton, on the south coast of England, during a heat wave last month.</media:description>
+    </item>
     <item>
       <title>Here’s How Much Rain Fell Across the New York Area This Week</title>
       <link>https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html</link>
@@ -21,12 +40,11 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html" rel="standout"></atom:link>
       <description>After a blistering heat wave, a dousing of heavy rain this week caused flooding across the region. Experts said it could have been worse.</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 02:26:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <pubDate>Wed, 08 Jul 2026 02:26:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basements and Cellars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suburbs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orange County (NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
@@ -134,7 +152,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v365.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v367.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -860,27 +878,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02biz-heat-energy-datacenter-topart01-lczt/02biz-heat-energy-datacenter-topart01-lczt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Leah Millis/Reuters</media:credit>
       <media:description>The energy secretary has asked grid managers to require data centers to use backup power when electrical systems are under strain during the heat wave. </media:description>
-    </item>
-    <item>
-      <title>NJ Transit Announces Train Delays and Cancellations Tied to Extreme Heat Wave</title>
-      <link>https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/weather/nj-transit-train-heat-delays-cancellations.html" rel="standout"></atom:link>
-      <description>NJ Transit blamed the extreme heat for delays and cancellations on Thursday, having warned commuters that high temperatures could affect the system’s aging infrastructure.</description>
-      <dc:creator>Stefanos Chen</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 17:07:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Jersey Transit</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amtrak</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commuting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-transit-bkhj/02heat-wave-live-transit-bkhj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hannah Beier for The New York Times</media:credit>
-      <media:description>NJ Transit warned commuters that they may face delays related to the heat.</media:description>
     </item>
   </channel>
 </rss>
