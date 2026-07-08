@@ -3,17 +3,32 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?_cb=1783472258066" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 00:57:38 +0000</lastBuildDate>
-    <pubDate>Tue, 07 Jul 2026 22:16:07 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 04:33:10 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 04:31:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Germans Don’t Love Budweiser. It Won’t Take No for an Answer.</title>
+      <link>https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/world/europe/germany-budweiser-beer.html" rel="standout"></atom:link>
+      <description>Not for the first time, Budweiser is trying to make it in Germany. But this is a tough time to sell German drinkers on the image and taste of American beer.</description>
+      <dc:creator>Jim Tankersley</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 04:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anheuser-Busch InBev NV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beer</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30Germany-bud-01-kwvj/30Germany-bud-01-kwvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jim Tankersley/The New York Times</media:credit>
+      <media:description>A box of Anheuser-Busch Bud beer at a supermarket in Berlin. </media:description>
+    </item>
     <item>
       <title>Is ‘The View’ a News Show? ABC Says That’s Already Settled.</title>
       <link>https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html</link>
@@ -21,7 +36,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/business/media/the-view-abc-fcc-investigation.html" rel="standout"></atom:link>
       <description>In a new filing, ABC said that the F.C.C. had ruled in 2002 that “The View” was a “bona fide news program.”</description>
       <dc:creator>Benjamin Mullin and Jim Rutenberg</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 18:45:32 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 18:45:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -138,7 +153,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html" rel="standout"></atom:link>
       <description>The California giant has helped turn a local, seasonal treat into a worldwide refrigerator staple and marketing juggernaut.</description>
       <dc:creator>Julia Moskin</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 15:20:33 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 03:57:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Strawberries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Blueberries</category>
@@ -946,7 +961,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, Mark E (1964- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McEntarfer, Erika L</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/business/00ai-data/00ai-data-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/business/08ai-data-B1/00ai-data-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>George Wylesol</media:credit>
     </item>
     <item>
@@ -984,31 +999,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/02CHANEL-01-qcgm/02CHANEL-01-qcgm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Randy Holmes/Disney, via Getty Images</media:credit>
       <media:description>Jacob Elordi wearing a Chanel x Charvet shirt for a January talk show appearance. According to Chanel’s president of fashion, Charvet’s brother-and-sister owners began mulling a sale after the success of that collaboration.</media:description>
-    </item>
-    <item>
-      <title>Trump Administration Delivers Lucrative Win for Its Kratom Allies</title>
-      <link>https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html" rel="standout"></atom:link>
-      <description>In moving to ban a potent synthetic version of kratom, the president’s team paved the way for more sales for makers of rival botanic supplements, who had aggressively lobbied for the change.</description>
-      <dc:creator>Christina Jewett and Kenneth P. Vogel</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 23:33:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Drug Enforcement Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <category domain="">kratom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-kratom01-photo-gpfh/01dc-kratom01-photo-gpfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nick Oxford for The New York Times</media:credit>
-      <media:description>After President Trump’s victory, companies selling kratom supplements and their executives ramped up their spending on lobbyists with ties to his administration and donations to his political operation.</media:description>
     </item>
   </channel>
 </rss>
