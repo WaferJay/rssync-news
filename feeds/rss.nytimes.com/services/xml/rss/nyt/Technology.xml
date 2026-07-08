@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 17:51:23 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 16:56:27 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 19:57:49 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 19:52:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html" rel="standout"></atom:link>
       <description>Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.</description>
       <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 16:56:27 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 18:36:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -96,6 +96,28 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/03/business/00biz-china-alibaba02/00biz-china-alibaba02-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Wang Gang/VCG, via Associated Press</media:credit>
       <media:description>A Shanghai technology fair booth for Qwen, a family of artificial intelligence models that the Chinese company Alibaba started in 2023.</media:description>
+    </item>
+    <item>
+      <title>How to Prevent Meta From Using Your Instagram Images in A.I.</title>
+      <link>https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html" rel="standout"></atom:link>
+      <description>The company’s new A.I. image generator has a surprising twist: It allows people to use images from public Instagram accounts.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 19:52:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <media:content height="1280" medium="image" url="https://static01.nyt.com/images/2026/07/08/business/08-biz-meta-ai-1/08-biz-meta-ai-1-mediumSquareAt3X.jpg" width="1280"></media:content>
+      <media:description>Instagram account users were automatically enrolled in Meta’s new feature and were not notified when their accounts were used to generate A.I. images.</media:description>
     </item>
     <item>
       <title>Businesses Fear Politicization as Trump Gains More Power Over U.S. Agencies</title>
@@ -402,29 +424,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/00pol-AI-tech-bond-pvft/00pol-AI-tech-bond-pvft-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kriston Jae Bethel for The New York Times</media:credit>
       <media:description>Alex Bond speaks about his political views with canvassers from Ground Truth, a door-knocking program organized by Swing Left, a Democratic political group. Canvassers use an A.I.-powered app to record and analyze what voters say.</media:description>
-    </item>
-    <item>
-      <title>Many Child Safety Features on Social Apps Don’t Work, Report Finds</title>
-      <link>https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/us/social-media-child-safety-report.html" rel="standout"></atom:link>
-      <description>Researchers found that teens can discover harmful content, connect with unknown adults and easily bypass time limits.</description>
-      <dc:creator>Jennifer Valentino-DeVries</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 16:24:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Northeastern University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/00inv-social-media-vlcj/00inv-social-media-vlcj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manuel Ausloos/Reuters</media:credit>
-      <media:description>Several tech company leaders are set to testify to Congress next month about harms to children on their platforms.</media:description>
     </item>
   </channel>
 </rss>
