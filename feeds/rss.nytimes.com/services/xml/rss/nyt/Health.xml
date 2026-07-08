@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 04:35:55 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 02:19:33 +0000</pubDate>
+    <lastBuildDate>Wed, 08 Jul 2026 10:28:04 +0000</lastBuildDate>
+    <pubDate>Wed, 08 Jul 2026 09:18:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -212,6 +212,37 @@
       <media:description>The Trump administration is being sued on the new Medicaid work requirements, arguing that the guidelines are inconsistent with federal law.</media:description>
     </item>
     <item>
+      <title>In Some U.K. Hospitals, the T.L.C. Includes a Movie Theater</title>
+      <link>https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html" rel="standout"></atom:link>
+      <description>A British nonprofit helps patients escape the stress and boredom of ward life by watching the latest blockbusters.</description>
+      <dc:creator>Alex Marshall</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 09:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Toy Story 5 (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/arts/08cul-hospital-movies-07/08cul-hospital-movies-07-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dominic Whisson for The New York Times</media:credit>
+      <media:description>“When they come here they can be themselves,” Nikki Mulhall, a nurse at Chelsea and Westminster Hospital in London, said of patients who attend the screenings.</media:description>
+    </item>
+    <item>
+      <title>The Unknown Universe Inside Your Gut</title>
+      <link>https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html" rel="standout"></atom:link>
+      <description>The human microbiome is essential to our health, but scientists have only begun to understand why. Two researchers set out to map this largely uncharted terrain.</description>
+      <dc:creator>Jeneen Interlandi</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 09:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Digestive Tract</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+    </item>
+    <item>
       <title>Nation’s 250th Celebration Fireworks Sent D.C. Air Pollution Spiking</title>
       <link>https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</guid>
@@ -401,56 +432,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25BIZ-CHINA-RETRACTION-1-cklf/25BIZ-CHINA-RETRACTION-1-cklf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jenny Kane/Associated Press</media:credit>
       <media:description>The journal Nature Medicine retracted a study that found a drastic benefit when cancer therapy was administered in the morning.</media:description>
-    </item>
-    <item>
-      <title>Inside the C.D.C.’s Mad Scramble to Meet Kennedy’s Demands</title>
-      <link>https://www.nytimes.com/2026/06/25/us/politics/kennedy-cdc-emails.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/us/politics/kennedy-cdc-emails.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/us/politics/kennedy-cdc-emails.html" rel="standout"></atom:link>
-      <description>A cache of internal emails offers a look at the pressure the nation’s public health officials faced from the new health secretary in the early months of the Trump administration.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 21:18:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Monarez, Susan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Houry, Debra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Health, Education, Labor and Pensions</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/25dc-rfk-cdc-emails-photo-hlgm/25dc-rfk-cdc-emails-photo-hlgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang for The New York Times</media:credit>
-      <media:description>Robert F. Kennedy Jr., seated, at a Senate confirmation hearing last year.</media:description>
-    </item>
-    <item>
-      <title>Supreme Court Rejects Lawsuit Against Bayer Alleging Roundup Weedkiller Caused Cancer</title>
-      <link>https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html" rel="standout"></atom:link>
-      <description>The court’s decision is likely to determine the future of thousands of lawsuits against Bayer, which manufactures the weedkiller, over similar claims.</description>
-      <dc:creator>Abbie VanSickle</dc:creator>
-      <pubDate>Thu, 25 Jun 2026 18:59:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defoliants and Herbicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayer AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Monsanto Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kavanaugh, Brett M</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/00dc-scotus-roundup-photo-mvlh/00dc-scotus-roundup-photo-mvlh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Roundup, which was created in the 1970s, is one of the most popular weedkillers in the world.</media:description>
     </item>
   </channel>
 </rss>
