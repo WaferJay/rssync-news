@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Thu, 09 Jul 2026 07:55:53 GMT</lastBuildDate>
+<lastBuildDate>Thu, 09 Jul 2026 11:20:19 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -15,11 +15,33 @@
 </image>
 <item>
 <guid isPermaLink="false">lc-wsj-stock-market-today-dow-sp-500-nasdaq-07-09-2026</guid>
-<title>Stock Market Today: Stock Futures Gain as Investors Take Mideast Fighting in Stride</title>
-<description>Oil trades flat after yesterday&apos;s jump; Asia stocks choppy</description>
+<title>Stock Market Today: Nasdaq Futures Gain as Investors Take Mideast Tensions in Stride</title>
+<description>Oil slips after yesterday&apos;s jump</description>
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-09-2026?mod=rss_markets_main</link>
 <pubDate>Thu, 09 Jul 2026 07:41:45 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-925349" medium="image" type="image/jpeg">
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003721355</guid>
+<title>Airline Earnings Are Cleared for Takeoff</title>
+<description>Plus, Groundhog Day for stocks and oil.</description>
+<link>https://www.wsj.com/finance/stocks/airline-earnings-are-cleared-for-takeoff-a9589e8b?mod=rss_markets_main</link>
+<pubDate>Thu, 09 Jul 2026 10:25:00 GMT</pubDate>
+<dc:creator>Spencer Jakab</dc:creator>
+<media:content url="https://images.wsj.net/im-93090481" medium="image" type="image/jpeg">
+<media:credit>Chris Beckett/ZUMA Press</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003718577</guid>
+<title>Tobacco Stocks Are Coming in From the Cold</title>
+<description>Investors are taking a closer look at companies as they shift away from cigarettes.</description>
+<link>https://www.wsj.com/finance/stocks/tobacco-stocks-are-coming-in-from-the-cold-4b45d4cd?mod=rss_markets_main</link>
+<pubDate>Thu, 09 Jul 2026 09:30:00 GMT</pubDate>
+<dc:creator>Carol Ryan</dc:creator>
+<media:content url="https://images.wsj.net/im-86875554" medium="image" type="image/jpeg">
+<media:credit>Poupay Jutharat for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -64,28 +86,6 @@
 <dc:creator>Margot Patrick</dc:creator>
 <media:content url="https://images.wsj.net/im-63847569" medium="image" type="image/jpeg">
 <media:credit>Alessia Pierdomenico/Bloomberg News</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003716700</guid>
-<title>JPMorgan Plans to Target Small-Company Deals as Part of M&amp;A Push</title>
-<description>The firm is moving into deals under $500 million, focusing on a generation of baby boomers who are planning business successions.</description>
-<link>https://www.wsj.com/finance/banking/jpmorgan-plans-to-target-small-company-deals-as-part-of-m-a-push-793b74f4?mod=rss_markets_main</link>
-<pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
-<dc:creator>Lauren Thomas</dc:creator>
-<media:content url="https://images.wsj.net/im-79410035" medium="image" type="image/jpeg">
-<media:credit>JP Morgan Chase</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003717967</guid>
-<title>SpaceX Analysts Are From Mars, Investors Are From Venus</title>
-<description>Plus, the Iran ceasefire is &#x2018;over.&#x2019;</description>
-<link>https://www.wsj.com/finance/investing/spacex-analysts-are-from-mars-investors-are-from-venus-03270cbe?mod=rss_markets_main</link>
-<pubDate>Wed, 08 Jul 2026 10:34:00 GMT</pubDate>
-<dc:creator>Spencer Jakab</dc:creator>
-<media:content url="https://images.wsj.net/im-82523858" medium="image" type="image/jpeg">
-<media:credit>Yves Herman/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -144,6 +144,17 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003716700</guid>
+<title>JPMorgan Plans to Target Small-Company Deals as Part of M&amp;A Push</title>
+<description>The firm is moving into deals under $500 million, focusing on a generation of baby boomers who are planning business successions.</description>
+<link>https://www.wsj.com/finance/banking/jpmorgan-plans-to-target-small-company-deals-as-part-of-m-a-push-793b74f4?mod=rss_markets_main</link>
+<pubDate>Wed, 08 Jul 2026 13:00:00 GMT</pubDate>
+<dc:creator>Lauren Thomas</dc:creator>
+<media:content url="https://images.wsj.net/im-79410035" medium="image" type="image/jpeg">
+<media:credit>JP Morgan Chase</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003717849</guid>
 <title>UniCredit Nears Control of Commerzbank After Takeover Push</title>
 <description>UniCredit said it upped its stake in Commerzbank to nearly half, taking it close to majority control of the bank following a takeover push.</description>
@@ -190,23 +201,11 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003692405</guid>
-<title>Women Were the Stars of JPMorgan&#x2019;s CEO Succession Race&#x2014;Until They Weren&#x2019;t</title>
-<description>The bank remains an industry leader in promoting women, but the female contenders for the top job are out of the running.</description>
-<link>https://www.wsj.com/business/jpmorgan-chase-ceo-search-women-7f593111?mod=rss_markets_main</link>
-<pubDate>Fri, 26 Jun 2026 17:23:00 GMT</pubDate>
-<dc:creator>Ben Glickman</dc:creator>
-<dc:creator>Chip Cutter</dc:creator>
-<media:content url="https://images.wsj.net/im-98258518" medium="image" type="image/jpeg">
-<media:credit>Michael Nagle/Bloomberg News</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003720490</guid>
-<title>Eurozone Bond Yields, Gilt Yields Fall as Oil Prices Decline</title>
-<description>Yields on eurozone government bonds and gilts fell, reversing some of their steep rise the previous day as oil prices turned lower.</description>
+<title>U.S. Treasury Yields Edge Higher, Dollar Stays Steady</title>
+<description>Treasury yields edged higher on the day but stay below Wednesday&#x2019;s multiweek highs reached after renewed military tensions in the Middle East.</description>
 <link>https://www.wsj.com/finance/investing/jgbs-fall-tracking-declines-in-u-s-treasurys-c87454e8?mod=rss_markets_main</link>
-<pubDate>Thu, 09 Jul 2026 07:37:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 10:14:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003718259</guid>
@@ -245,6 +244,17 @@
 <dc:creator>Nikki Walker</dc:creator>
 <media:content url="https://images.wsj.net/im-19032368" medium="image" type="image/jpeg">
 <media:credit>Sean Havey</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003721315</guid>
+<title>Stock Futures Gain as Investors Take Mideast Tensions in Stride</title>
+<description>U.S. stock futures were in the green, with the Nasdaq-100 leading gains, amid the U.S. and Iran exchanging fresh fire.</description>
+<link>https://www.wsj.com/finance/stocks/oil-steadies-following-u-s-iran-escalation-stock-futures-rise-cd345b8f?mod=rss_markets_main</link>
+<pubDate>Thu, 09 Jul 2026 10:52:00 GMT</pubDate>
+<dc:creator>Caitlin McCabe</dc:creator>
+<media:content url="https://images.wsj.net/im-43403622" medium="image" type="image/jpeg">
+<media:credit>Brendan Mcdermid/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -289,16 +299,6 @@
 <dc:creator>Dean Seal</dc:creator>
 <media:content url="https://images.wsj.net/im-91613581" medium="image" type="image/jpeg">
 <media:credit>Gonzalo Fuentes/Reuters</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003718185</guid>
-<title>Health Care Roundup: Market Talk</title>
-<description>Find insight on Eli Lilly, ResMed, Vertex Pharmaceuticalsand more in the latest Market Talks covering health care.</description>
-<link>https://www.wsj.com/business/health-care-roundup-market-talk-25da01f2?mod=rss_markets_main</link>
-<pubDate>Wed, 08 Jul 2026 11:12:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-07626629" medium="image" type="image/jpeg">
-<media:credit>Yves Herman/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -415,10 +415,10 @@
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003720505</guid>
-<title>Dollar Falls as Traders Digest Fed Minutes</title>
-<description>The dollar eased after the Fed&#x2019;s latest meeting minutes showed policymakers were divided over the future path of interest rates.</description>
+<title>U.S. Dollar Little Changed</title>
+<description>The U.S. dollar was little changed as investors weren&#x2019;t yet rushing to buy it as a safe haven.</description>
 <link>https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-mideast-tensions-681e7119?mod=rss_markets_main</link>
-<pubDate>Thu, 09 Jul 2026 06:50:00 GMT</pubDate>
+<pubDate>Thu, 09 Jul 2026 10:49:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003717299</guid>
@@ -511,6 +511,17 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003717967</guid>
+<title>SpaceX Analysts Are From Mars, Investors Are From Venus</title>
+<description>Plus, the Iran ceasefire is &#x2018;over.&#x2019;</description>
+<link>https://www.wsj.com/finance/investing/spacex-analysts-are-from-mars-investors-are-from-venus-03270cbe?mod=rss_markets_main</link>
+<pubDate>Wed, 08 Jul 2026 10:34:00 GMT</pubDate>
+<dc:creator>Spencer Jakab</dc:creator>
+<media:content url="https://images.wsj.net/im-82523858" medium="image" type="image/jpeg">
+<media:credit>Yves Herman/Reuters</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003717852</guid>
 <title>Trump-Backed Company Behind Family Crypto Wealth in Talks to Sell Core Business</title>
 <description>The potential sale by AI Financial marks an abrupt reversal for a company that has channeled more than half a billion dollars to the Trumps.</description>
@@ -555,17 +566,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003714860</guid>
-<title>Value Investing&#x2019;s Comeback Is Just a Quirk (for Now)</title>
-<description>Plus, you might own some SpaceX.</description>
-<link>https://www.wsj.com/finance/stocks/value-investings-comeback-is-just-a-quirk-for-now-8e345cc4?mod=rss_markets_main</link>
-<pubDate>Tue, 07 Jul 2026 10:44:00 GMT</pubDate>
-<dc:creator>Spencer Jakab</dc:creator>
-<media:content url="https://images.wsj.net/im-70085785" medium="image" type="image/jpeg">
-<media:credit>Nati Harnik/Associated Press</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003713477</guid>
 <title>JPMorgan, Bank of America and Other Banks Explore a Deal to Shake Up Payments World</title>
 <description>A deal for a card network could allow bigger transaction fees, but some bank executives are worried about backlash.</description>
@@ -601,17 +601,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003707474</guid>
-<title>Michael Saylor&#x2019;s Strategy Is Trapped by Its Own Broken Bitcoin Math</title>
-<description>The bitcoin hoarder created a bespoke valuation metric that ignores market realities.</description>
-<link>https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 14:26:00 GMT</pubDate>
-<dc:creator>Jonathan Weil</dc:creator>
-<media:content url="https://images.wsj.net/im-50178396" medium="image" type="image/jpeg">
-<media:credit>Roger Kisby for WSJ</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003701017</guid>
 <title>What It&#x2019;s Like to Retire and Start a Business in America</title>
 <description>Five people open up about their finances and how they spend their time.</description>
@@ -621,6 +610,17 @@
 <dc:creator>Veronica Dagher</dc:creator>
 <media:content url="https://images.wsj.net/im-56775046" medium="image" type="image/jpeg">
 <media:credit>Lindsay D&apos;Addato for WSJ</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003707474</guid>
+<title>Michael Saylor&#x2019;s Strategy Is Trapped by Its Own Broken Bitcoin Math</title>
+<description>The bitcoin hoarder created a bespoke valuation metric that ignores market realities.</description>
+<link>https://www.wsj.com/finance/investing/michael-saylors-strategy-is-trapped-by-its-own-broken-bitcoin-math-b68dd6a6?mod=rss_markets_main</link>
+<pubDate>Mon, 06 Jul 2026 14:26:00 GMT</pubDate>
+<dc:creator>Jonathan Weil</dc:creator>
+<media:content url="https://images.wsj.net/im-50178396" medium="image" type="image/jpeg">
+<media:credit>Roger Kisby for WSJ</media:credit>
 </media:content>
 </item>
 <item>

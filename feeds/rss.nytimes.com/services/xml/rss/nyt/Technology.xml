@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 04:24:25 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 02:06:45 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 11:22:34 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 09:02:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -96,6 +96,26 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/03/business/00biz-china-alibaba02/00biz-china-alibaba02-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Wang Gang/VCG, via Associated Press</media:credit>
       <media:description>A Shanghai technology fair booth for Qwen, a family of artificial intelligence models that the Chinese company Alibaba started in 2023.</media:description>
+    </item>
+    <item>
+      <title>How to Turn Your Phone Into a Personal Health Dashboard</title>
+      <link>https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html" rel="standout"></atom:link>
+      <description>Free apps from Google, Samsung and Apple can help you track your diet, exercise and well-being — and provide vital information during emergencies.</description>
+      <dc:creator>J. D. Biersdorfer</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 09:02:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <media:content height="1022" medium="image" url="https://static01.nyt.com/images/2026/07/08/technology/personaltech/08BIZ-TECHTIP-TOPART/08BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="1022"></media:content>
+      <media:credit>Google; Samsung; Apple</media:credit>
+      <media:description>From left, the Google Health, the Samsung Health and Apple’s Health apps offer plenty of tools and features to help you manage your diet, exercise and personal safety.</media:description>
     </item>
     <item>
       <title>How to Prevent Meta From Using Your Instagram Images in A.I.</title>
@@ -403,27 +423,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/00biz-tech-workers-gqwz/00biz-tech-workers-gqwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christie Hemm Klok for The New York Times</media:credit>
       <media:description>After three months, Katrine Razniak and her partner gave up looking for a one-bedroom apartment under $5,000. “I don’t feel completely hopeless, but I don’t think I can stay in S.F.,” she said.</media:description>
-    </item>
-    <item>
-      <title>How A.I. Is Changing the Way Politicians Run for Office</title>
-      <link>https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/us/politics/political-campaigns-ai-tech.html" rel="standout"></atom:link>
-      <description>A.I.-generated images are the public face of this election overhaul. Behind the scenes, campaigns are using the technology to analyze voter data, craft campaign materials and write custom messages.</description>
-      <dc:creator>Stuart A. Thompson</dc:creator>
-      <pubDate>Tue, 30 Jun 2026 04:46:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/00pol-AI-tech-bond-pvft/00pol-AI-tech-bond-pvft-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kriston Jae Bethel for The New York Times</media:credit>
-      <media:description>Alex Bond speaks about his political views with canvassers from Ground Truth, a door-knocking program organized by Swing Left, a Democratic political group. Canvassers use an A.I.-powered app to record and analyze what voters say.</media:description>
     </item>
   </channel>
 </rss>
