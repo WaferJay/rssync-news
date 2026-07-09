@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 08 Jul 2026 21:33:55 +0000</lastBuildDate>
-    <pubDate>Wed, 08 Jul 2026 21:10:05 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 04:22:17 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 02:00:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -180,6 +180,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/03SCI-ALGAE-DEFENSE-09-vmfh/03SCI-ALGAE-DEFENSE-09-vmfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Salwan Georges for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Western Europe Had Its Hottest June on Record</title>
+      <link>https://www.nytimes.com/2026/07/08/climate/western-europe-hottest-june.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/climate/western-europe-hottest-june.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/climate/western-europe-hottest-june.html" rel="standout"></atom:link>
+      <description>An unusually early heat wave smashed records across France, Britain and Spain. Temperatures in some areas are starting to soar again.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 02:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08cli-hoteurope-fjvb/08cli-hoteurope-fjvb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kin Cheung/Associated Press</media:credit>
+      <media:description>Riding a hot train in London on June 24. Average temperatures across Western Europe last month were 3.05 degrees Celsius, or 5.5 degrees Fahrenheit, above the mean from recent decades.</media:description>
     </item>
     <item>
       <title>Global Warming Could Ravage the Amazon’s Useful Plant Species, Study Finds</title>
@@ -468,31 +484,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/30SCI-TIMECAPSULE-01-bzkh/30SCI-TIMECAPSULE-01-bzkh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>NIST</media:credit>
       <media:description>Sarah Reeves places items into a time capsule at National Institute of Standards and Technology in Gaithersburg, Md. The capsule will be buried in Philadelphia on July 4.</media:description>
-    </item>
-    <item>
-      <title>Trump Administration Delivers Lucrative Win for Its Kratom Allies</title>
-      <link>https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/01/us/kratom-trump-administration.html" rel="standout"></atom:link>
-      <description>In moving to ban a potent synthetic version of kratom, the president’s team paved the way for more sales for makers of rival botanic supplements, who had aggressively lobbied for the change.</description>
-      <dc:creator>Christina Jewett and Kenneth P. Vogel</dc:creator>
-      <pubDate>Wed, 01 Jul 2026 23:33:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Drug Enforcement Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <category domain="">kratom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/01/multimedia/01dc-kratom01-photo-gpfh/01dc-kratom01-photo-gpfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nick Oxford for The New York Times</media:credit>
-      <media:description>After President Trump’s victory, companies selling kratom supplements and their executives ramped up their spending on lobbyists with ties to his administration and donations to his political operation.</media:description>
     </item>
   </channel>
 </rss>
