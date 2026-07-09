@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 20:55:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 22:46:08 +0000</lastBuildDate>
     <pubDate>Thu, 09 Jul 2026 20:41:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -168,7 +168,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v397.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v400.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -693,54 +693,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02nat-animals-vwgh/02nat-animals-vwgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Madeleine Hordinski for The New York Times</media:credit>
       <media:description>Elephants cooled off in their pool at the Cincinnati Zoo on Thursday.</media:description>
-    </item>
-    <item>
-      <title>‘It’s been rough’: People across the Northeast slog through the heat.</title>
-      <link>https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heat-wave-city</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heat-wave-city</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/02/weather/heat-wave/heat-wave-city" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Sejal Govindarao</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 22:22:04 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-mvzc/02heat-wave-live-mvzc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cheney Orr/Reuters</media:credit>
-      <media:description>Cooling off the World War II Memorial in Washington on Thursday.</media:description>
-    </item>
-    <item>
-      <title>What Is the Heat Index? What To Know About the Metric During a Heat Wave</title>
-      <link>https://www.nytimes.com/2026/07/02/weather/heat-index-temperature.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/heat-index-temperature.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/weather/heat-index-temperature.html" rel="standout"></atom:link>
-      <description>The metric of how hot the air actually feels has roots in a 1979 journal paper called “The Assessment of Sultriness.”</description>
-      <dc:creator>Andy Newman</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 21:18:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weights and Measures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AccuWeather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rothfusz, Lans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sweating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-heat-index-ljwv/02heat-wave-live-heat-index-ljwv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carolina Herrera for The New York Times</media:credit>
-      <media:description>The heat index can make a person feel hotter than the actual temperature.</media:description>
-    </item>
-    <item>
-      <title>How Heat Affects the Brain</title>
-      <link>https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html" rel="standout"></atom:link>
-      <description>A growing body of research has shown that our brains work differently when temperatures spike.</description>
-      <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 23:21:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/01cli-newsletter-brainhealth-bqtf/01cli-newsletter-brainhealth-bqtf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
-      <media:description>To combat high temperatures, cities are opening cooling centers, repainting dark surfaces and investing in shade.</media:description>
     </item>
   </channel>
 </rss>
