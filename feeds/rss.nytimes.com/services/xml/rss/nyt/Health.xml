@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 16:57:52 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 16:55:48 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 18:59:41 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 17:01:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -23,6 +23,7 @@
       <dc:creator>Reed Abelson and Rebecca Robbins</dc:creator>
       <pubDate>Wed, 08 Jul 2026 16:13:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugstores</category>
@@ -35,8 +36,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CVS Caremark Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Express Scripts Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arkansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/25/business/00insurance-breakup/00insurance-breakup-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Justin Rentería</media:credit>
+      <media:credit>Justin Renter&amp;iacute;a</media:credit>
     </item>
     <item>
       <title>Our Bacteria Are Talking. We’ve Just Begun to Understand What They’re Saying.</title>
