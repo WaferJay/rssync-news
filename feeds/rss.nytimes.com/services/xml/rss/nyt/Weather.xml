@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 19:01:51 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 07:10:13 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 20:55:01 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 20:41:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -168,7 +168,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v395.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v397.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -741,34 +741,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/01cli-newsletter-brainhealth-bqtf/01cli-newsletter-brainhealth-bqtf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
       <media:description>To combat high temperatures, cities are opening cooling centers, repainting dark surfaces and investing in shade.</media:description>
-    </item>
-    <item>
-      <title>NYC Hits 100 Degrees, Its Hottest Day in Nearly 14 Years</title>
-      <link>https://www.nytimes.com/2026/07/02/weather/new-york-heat-record-100-degrees-central-park.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/new-york-heat-record-100-degrees-central-park.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/weather/new-york-heat-record-100-degrees-central-park.html" rel="standout"></atom:link>
-      <description>The last time the park recorded 100 degrees was July 18, 2012.</description>
-      <dc:creator>Claire Fahy</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 20:21:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-new-york-100-degrees-lcfk/02heat-wave-live-new-york-100-degrees-lcfk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Timothy A. Clary/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A thermometer at the weather station in Central Park reached 100 degrees on Thursday, the first such reading in almost 14 years.</media:description>
-    </item>
-    <item>
-      <title>This is your brain on extreme heat.</title>
-      <link>https://www.nytimes.com/2026/07/02/weather/this-is-your-brain-on-extreme-heat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/this-is-your-brain-on-extreme-heat.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/weather/this-is-your-brain-on-extreme-heat.html" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 19:31:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-heat-brain-zqjb/02heat-wave-live-heat-brain-zqjb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>Navigating the heat in Manhattan on Wednesday. To combat high temperatures, cities are opening cooling centers, repainting dark surfaces and investing in shade.</media:description>
     </item>
   </channel>
 </rss>
