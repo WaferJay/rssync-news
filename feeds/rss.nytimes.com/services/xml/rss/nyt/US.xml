@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1783570908571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 04:21:48 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 03:58:03 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:55:40 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 07:31:27 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -58,7 +58,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html" rel="standout"></atom:link>
       <description>Graham Platner’s bid for the Senate inspired progressive Democrats. But the campaign, which he suspended Wednesday, was messy, disorganized and ultimately doomed by a steady drip of scandal.</description>
       <dc:creator>Lisa Lerer, Katie Glueck and Michael Kruse</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 02:39:39 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 04:25:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
@@ -213,13 +213,13 @@
       <media:description>Personal belongings of John Warren, a 44-year-old auto parts salesman, were found behind a Cracker Barrel in Georgia after he was found dead in a Holiday Inn in Ohio in 1985.</media:description>
     </item>
     <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/07/08/us/graham-platner-maine-suspends-campaign/graham-platner-drops-out-maine-senate-race</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/08/us/graham-platner-maine-suspends-campaign/graham-platner-drops-out-maine-senate-race</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/08/us/graham-platner-maine-suspends-campaign/graham-platner-drops-out-maine-senate-race" rel="standout"></atom:link>
+      <title>Platner Suspends Senate Bid in Maine After Rape Accusation</title>
+      <link>https://www.nytimes.com/2026/07/08/us/politics/graham-platner-maine-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/us/politics/graham-platner-maine-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/us/politics/graham-platner-maine-senate.html" rel="standout"></atom:link>
       <description>Mr. Platner’s withdrawal, which comes after a woman accused him of rape, creates deep uncertainty in a race that both parties see as crucial to their hopes of winning the Senate.</description>
       <dc:creator>Bayliss Wagner, Lisa Lerer and Katie Glueck</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 01:23:46 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 05:06:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
@@ -229,6 +229,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mills, Janet T (1947- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
+      <media:content height="1158" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08platner-live-vidcover-zvkm/08platner-live-vidcover-zvkm-mediumSquareAt3X.jpg" width="1158"></media:content>
+      <media:credit>Sophie Park for The New York Times</media:credit>
     </item>
     <item>
       <title>Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey</title>
@@ -237,7 +239,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html" rel="standout"></atom:link>
       <description>The Secret Service is said to have asked that the president not use the Qatari-donated jet when he left Ankara. The swap deepens questions about the retrofitting of the new plane.</description>
       <dc:creator>Tyler Pager, Julian E. Barnes, Eric Schmitt and Eric Lipton</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 00:03:28 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 07:31:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>

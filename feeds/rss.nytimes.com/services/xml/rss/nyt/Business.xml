@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 04:24:28 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 04:12:43 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 07:56:51 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 07:01:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Oil Prices Hold Gains After U.S. and Iran Trade Another Round of Strikes</title>
+      <link>https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html" rel="standout"></atom:link>
+      <description>Choppy trading in stocks and bonds also reflected anxiety among investors about the war’s effects on inflation and growth.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 07:01:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09biz-oil-shipping-markets-kpvc/09biz-oil-shipping-markets-kpvc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Issei Kato/Reuters</media:credit>
+    </item>
     <item>
       <title>At Warsh’s First Fed Meeting, Some Officials Signaled Support for Raising Interest Rates</title>
       <link>https://www.nytimes.com/2026/07/08/business/fed-meeting-minutes-warsh-interest-rates.html</link>
@@ -1009,35 +1026,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wachovia Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-    </item>
-    <item>
-      <title>Egg Producers to Pay $3.3 Million to Settle Federal Price-Fixing Lawsuit</title>
-      <link>https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/business/egg-price-fixing-settlement-lawsuit.html" rel="standout"></atom:link>
-      <description>The companies also agreed to donate more than 53 million eggs to food banks and nonprofits in 17 states that joined the federal government in the antitrust action.</description>
-      <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 21:35:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Banks and Pantries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eggs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chickens</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Avian Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cal Maine Foods Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hickman&#39;s Egg Ranch Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Versova Management Cooperative</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02xp-eggs-hpkz/02xp-eggs-hpkz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brandon Bell/Getty Images</media:credit>
-      <media:description>The federal government began its investigation as the average wholesale price of a dozen eggs reached a high above $6 in March 2025.</media:description>
     </item>
   </channel>
 </rss>
