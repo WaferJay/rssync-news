@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 11:22:34 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 09:02:08 +0000</pubDate>
+    <lastBuildDate>Thu, 09 Jul 2026 16:57:38 +0000</lastBuildDate>
+    <pubDate>Thu, 09 Jul 2026 15:58:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -28,13 +28,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Homes and Non-Primary Residences</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mill Valley (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Noe Valley (San Francisco, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sonoma County (Calif)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Cayce Clifford for The New York Times</media:credit>
       <media:description>San Francisco home sales in May rose 12.2 percent from a year earlier, with the median price of a single-family home climbing to $2.14 million, according to a Homes.com report.</media:description>
     </item>
@@ -98,6 +98,34 @@
       <media:description>A Shanghai technology fair booth for Qwen, a family of artificial intelligence models that the Chinese company Alibaba started in 2023.</media:description>
     </item>
     <item>
+      <title>New York Times and Other Publishers Ask Court to Penalize OpenAI</title>
+      <link>https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/technology/new-york-times-openai.html" rel="standout"></atom:link>
+      <description>The Times, The New York Daily News and other media organizations accused OpenAI of withholding evidence in a lawsuit.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 14:40:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Daily News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Franzen, Jonathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grisham, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, George R R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Silverman, Sarah</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09openai-lawsuits-pbkm/09openai-lawsuits-pbkm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manuel Orbegozo for The New York Times</media:credit>
+      <media:description>In response to the lawsuit’s filing, OpenAI has previously denied wrongdoing, saying it respects the rights of content creators.</media:description>
+    </item>
+    <item>
       <title>How to Turn Your Phone Into a Personal Health Dashboard</title>
       <link>https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/technology/personaltech/iphone-android-health-tracking.html</guid>
@@ -126,14 +154,12 @@
       <dc:creator>Eli Tan</dc:creator>
       <pubDate>Wed, 08 Jul 2026 19:52:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <media:content height="1280" medium="image" url="https://static01.nyt.com/images/2026/07/08/business/08-biz-meta-ai-1/08-biz-meta-ai-1-mediumSquareAt3X.jpg" width="1280"></media:content>
@@ -397,32 +423,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/30/multimedia/30biz-bmw-4-hjpm/30biz-bmw-4-hjpm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
       <media:description>BMW’s plant in South Carolina specializes in sport utility vehicles and is the company’s largest factory outside Germany.</media:description>
-    </item>
-    <item>
-      <title>In San Francisco’s A.I. Era, Even $180,000 Tech Salaries Are No Longer Enough</title>
-      <link>https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/technology/san-francisco-tech-salaries.html" rel="standout"></atom:link>
-      <description>As OpenAI and Anthropic prepare to go public, tech workers making six figures are grousing that they cannot compete with the new A.I. elite. Some doubt they can afford to stay.</description>
-      <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 02:47:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/24/multimedia/00biz-tech-workers-gqwz/00biz-tech-workers-gqwz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Christie Hemm Klok for The New York Times</media:credit>
-      <media:description>After three months, Katrine Razniak and her partner gave up looking for a one-bedroom apartment under $5,000. “I don’t feel completely hopeless, but I don’t think I can stay in S.F.,” she said.</media:description>
     </item>
   </channel>
 </rss>
