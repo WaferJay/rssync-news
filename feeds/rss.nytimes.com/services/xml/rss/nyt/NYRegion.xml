@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 05:12:56 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 05:11:39 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:10:51 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 09:56:53 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -128,6 +128,7 @@
       <dc:creator>Alexandra E. Petri and Angelina Katsanis</dc:creator>
       <pubDate>Wed, 08 Jul 2026 22:43:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
@@ -200,6 +201,72 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/12/nyregion/12met-cuny-jobs1-hbtj/08met-cuny-jobs1-hbtj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Camille Farrah Lenain for The New York Times</media:credit>
       <media:description>Graduates of the City University of New York and other colleges are entering the toughest job market since the coronavirus pandemic.</media:description>
+    </item>
+    <item>
+      <title>A Look at a Private Firm That Inspected the Buckling Building</title>
+      <link>https://www.nytimes.com/2026/07/10/nyregion/a-look-at-a-private-firm-that-inspected-the-buckling-building.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/nyregion/a-look-at-a-private-firm-that-inspected-the-buckling-building.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/nyregion/a-look-at-a-private-firm-that-inspected-the-buckling-building.html" rel="standout"></atom:link>
+      <description>A New York Times review of city records shows that a private firm that conducted inspections of alterations to a Midtown office tower had repeatedly been accused of breaking city rules.</description>
+      <dc:creator>Caitlyn Freeman</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 09:02:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Domani Inspection Services Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buildings Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMonagle, John</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09met-midtown-pfizer-01-nytoday-1/09met-midtown-pfizer-01-qltw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Contaminated Food, Unwashed Hands: Inside an ICE Detention Facility</title>
+      <link>https://www.nytimes.com/2026/07/10/nyregion/delaney-hall-ice-conditions-unsanitary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/nyregion/delaney-hall-ice-conditions-unsanitary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/nyregion/delaney-hall-ice-conditions-unsanitary.html" rel="standout"></atom:link>
+      <description>Detainees at the Delaney Hall center in Newark have complained for months about dirty, unhealthy living conditions. Documents echo their claims.</description>
+      <dc:creator>Ana Ley, Claire Fahy, Mark Bonamo and Nicole Hong</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 07:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunger Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delaney Hall (Newark, NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tobin, Joseph W (1952- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/nyregion/09met-delaney-flashpoint1/09met-delaney-flashpoint1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>Delaney Hall has emerged as a flashpoint in President Trump’s immigration crackdown.</media:description>
+    </item>
+    <item>
+      <title>Officer Charged in Deaths of Police Dogs After Leaving Them in S.U.V. for Hours</title>
+      <link>https://www.nytimes.com/2026/07/09/nyregion/nj-k-9-police-dog-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/nyregion/nj-k-9-police-dog-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/nyregion/nj-k-9-police-dog-deaths.html" rel="standout"></atom:link>
+      <description>A 4-year-old Belgian Malinois and a 6-year-old springer spaniel were left alone in May for seven hours without relief from the heat, according to prosecutors in South Jersey.</description>
+      <dc:creator>John S.W. MacDonald</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 23:23:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salem County (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Service Dogs and Other Animals</category>
     </item>
     <item>
       <title>Too Many Books?</title>
@@ -332,69 +399,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/08nytoday-top2/07met-dsa-economics-03-bwfm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Victor J. Blue for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Fax and Telegram? New York’s Archaic Requirements Get an A.I. Overhaul.</title>
-      <link>https://www.nytimes.com/2026/07/08/nyregion/hochul-ai-redtape-rules.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/nyregion/hochul-ai-redtape-rules.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/nyregion/hochul-ai-redtape-rules.html" rel="standout"></atom:link>
-      <description>Gov. Kathy Hochul will direct state agencies to eliminate or modernize antiquated requirements, and examine if task forces or councils have outlived their purpose.</description>
-      <dc:creator>Grace Ashford</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 11:27:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Government Efficiency Department (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08met-hochul-redtape-01-bzjm/08met-hochul-redtape-01-bzjm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cindy Schultz for The New York Times</media:credit>
-      <media:description>Gov. Kathy Hochul said the Regulatory Reset initiative was designed to make government more efficient and work better for New Yorkers.</media:description>
-    </item>
-    <item>
-      <title>New York City Adopts Measures to Slow Legionnaires’ Disease Outbreak</title>
-      <link>https://www.nytimes.com/2026/07/07/nyregion/nyc-legionnaires-disease.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/nyregion/nyc-legionnaires-disease.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/nyc-legionnaires-disease.html" rel="standout"></atom:link>
-      <description>An ongoing cluster of the illness has sickened 28 people. That’s not unusual: Most years, 200 to 700 people in the city are diagnosed with the disease.</description>
-      <dc:creator>Joseph Goldstein</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 19:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legionnaires&#39; Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Mental Hygiene Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Carnegie Hill (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yorkville (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
-      <media:content height="1261" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07met-legionnaires-disease-cfqk/07met-legionnaires-disease-cfqk-mediumSquareAt3X.jpg" width="1260"></media:content>
-      <media:credit>Mimi d’Autremont for The New York Times</media:credit>
-      <media:description>Tests performed in a New York City Department of Health lab identify the Legionella bacterium.</media:description>
-    </item>
-    <item>
-      <title>Midtown Building Developer Says Problems Were a ‘Typical Construction Mishap’</title>
-      <link>https://www.nytimes.com/2026/07/07/nyregion/developer-midtown-manhattan-building.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/nyregion/developer-midtown-manhattan-building.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/nyregion/developer-midtown-manhattan-building.html" rel="standout"></atom:link>
-      <description>Nathan Berman, one of the developers of the Midtown building that suffered structural damage, predicted the project would restart within weeks.</description>
-      <dc:creator>Mihir Zaveri</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 11:03:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berman, Nathan (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Werner, David, Real Estate PLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07-midtown-building-developer-nathan-berman-vtbf/07-midtown-building-developer-nathan-berman-vtbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>The developer of the East 42nd Street building that suffered structural damage predicted the project would start up again soon.</media:description>
     </item>
   </channel>
 </rss>

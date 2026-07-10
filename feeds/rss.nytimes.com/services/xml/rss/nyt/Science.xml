@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 08:45:05 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 05:54:53 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 12:11:07 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 12:11:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -170,19 +170,53 @@
       <media:description>Torifune, an asteroid known as a “contact binary,” observed by the Japanese spacecraft Hayabusa2 on July 5.</media:description>
     </item>
     <item>
+      <title>New York Sues Companies Over ‘Forever Chemicals’</title>
+      <link>https://www.nytimes.com/2026/07/09/nyregion/ny-pfas-lawsuit-3m-dupont.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/nyregion/ny-pfas-lawsuit-3m-dupont.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/nyregion/ny-pfas-lawsuit-3m-dupont.html" rel="standout"></atom:link>
+      <description>The lawsuit claims that the companies, including 3M and DuPont, contaminated the environment and engaged in fraud by withholding information from the public about the harms of the chemicals, known as PFAS.</description>
+      <dc:creator>Christina Caron and Hilary Howard</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 22:22:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">3M Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DuPont Co</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09met-pfas-lawsuit-zvtq/09met-pfas-lawsuit-zvtq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Alban/The New York Times</media:credit>
+      <media:description>Letitia James, the New York attorney general, said that chemical companies operating in the state “knowingly sold toxic products.”</media:description>
+    </item>
+    <item>
       <title>Advanced Recycling Hits a Rough Patch</title>
       <link>https://www.nytimes.com/2026/07/09/climate/advanced-recycling.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/climate/advanced-recycling.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/09/climate/advanced-recycling.html" rel="standout"></atom:link>
       <description>In the past weeks, two sites in the United States have halted operations.</description>
       <dc:creator>Hiroko Tabuchi</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 21:02:39 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 12:11:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recycling of Waste Materials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09cli-newsletter-recycling-03-wclg/09cli-newsletter-recycling-03-wclg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maddie McGarvey for The New York Times</media:credit>
       <media:description>Unlike traditional mechanical recycling, advanced recycling can theoretically process mixed or contaminated plastics that otherwise would end up in landfills.</media:description>
+    </item>
+    <item>
+      <title>Joseph Fraumeni, 93, Dies; Helped Discover Genetic Link to Cancer</title>
+      <link>https://www.nytimes.com/2026/07/09/science/joseph-fraumeni-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/science/joseph-fraumeni-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/science/joseph-fraumeni-dead.html" rel="standout"></atom:link>
+      <description>Considered the founder of molecular epidemiology, he worked with Frederick P. Li to identify a hereditary disorder that increased the risk of developing cancer at a young age.</description>
+      <dc:creator>Trip Gabriel</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 20:54:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fraumeni, Joseph F Jr (1933-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Cancer Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li, Frederick P (1940-2015)</category>
     </item>
     <item>
       <title>Trump’s Plans for Nuclear Power Lurch Ahead</title>
@@ -493,60 +527,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lacks, Henrietta</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-    </item>
-    <item>
-      <title>A Mission to Save NASA’s Swift Telescope Launches to Orbit</title>
-      <link>https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/science/nasa-swift-telescope-rescue-mission.html" rel="standout"></atom:link>
-      <description>A refrigerator-size spacecraft will try to grab onto Swift and nudge it to a higher orbit, enabling it to continue observing powerful cosmic explosions.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 22:17:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/03sci-nasa-reboost-topart/26sci-nasa-reboost-01-lmqg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>NASA</media:credit>
-      <media:description>An artist’s concept of the Neil Gehrels Swift Observatory telescope being ferried to a higher orbit over Earth by Link, a spacecraft from Katalyst Space Technologies.</media:description>
-    </item>
-    <item>
-      <title>E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue</title>
-      <link>https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/science/algae-reflecting-pool.html" rel="standout"></atom:link>
-      <description>And why the most patriotic approach to the Reflecting Pool may be to let the algae take over.</description>
-      <dc:creator>Alan Burdick</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 09:03:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/03SCI-ALGAE-DEFENSE-09-vmfh/03SCI-ALGAE-DEFENSE-09-vmfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Salwan Georges for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Has the MAHA Movement Given Up?</title>
-      <link>https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html" rel="standout"></atom:link>
-      <description>Robert F. Kennedy Jr. and his allies promised public-health libertarianism. The idea couldn’t survive once they took power.</description>
-      <dc:creator>David Wallace-Wells</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 09:00:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
     </item>
   </channel>
 </rss>
