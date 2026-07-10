@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world/europe</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 10 Jul 2026 18:52:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jul 2026 20:46:15 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/europe/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -159,6 +159,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c01/live/455b3470-76fb-11f1-a627-714adb4eed6e.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Watch: What links a bomb in Monaco and a shooting in Ukraine?]]></title>
+            <description><![CDATA[A Ukrainian intelligence agent who confessed to killing the woman suspected of trying to assassinate a multimillionaire in Monaco, has now claimed he did not pull the trigger.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c992zv2xpdjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c992zv2xpdjo#3</guid>
+            <pubDate>Fri, 10 Jul 2026 18:04:39 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c812/live/0b5817a0-7c70-11f1-b976-0b9c15b0ccfc.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Paris hosts the Esports World Cup with eight weeks' notice]]></title>
             <description><![CDATA[Thousands of French fans are planning to watch the contest.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cr7xkded893o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -189,14 +197,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c2dy21549w1o#3</guid>
             <pubDate>Mon, 06 Jul 2026 06:00:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a10/live/c7cbf380-77c9-11f1-b976-0b9c15b0ccfc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moment huge waterspout twirls over lake in Germany]]></title>
-            <description><![CDATA[The phenomenon formed over a Lake Constance near the southern German city of Friedrichshafen.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ckg8eld7pj7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckg8eld7pj7o#3</guid>
-            <pubDate>Fri, 03 Jul 2026 00:54:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9c0/live/45ffcec0-7680-11f1-a627-714adb4eed6e.jpg"/>
         </item>
     </channel>
 </rss>

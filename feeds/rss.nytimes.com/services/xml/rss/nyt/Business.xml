@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 18:50:24 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 18:20:38 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 20:42:18 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 20:14:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>SK Hynix Stock Rises on First Day of US Trading</title>
+      <link>https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/business/sk-hynix-stock.html" rel="standout"></atom:link>
+      <description>SK Hynix began trading at $170 a share, above its initial public offering price of $149, in the latest test of investor demand for A.I.-related companies.</description>
+      <dc:creator>Aruni Soni</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 20:08:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hynix Semiconductor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nasdaq Composite Index</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10biz-sk-hynix-ipo-pvlq/10biz-sk-hynix-ipo-pvlq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelina Katsanis/Reuters</media:credit>
+      <media:description>Kwak Noh-Jung, the SK Hynix chief executive, in New York City for the company’s initial public offering on the Nasdaq.</media:description>
+    </item>
     <item>
       <title>Shippers Face Deepening Dilemma as U.S. and Iran Vie for Control of the Strait</title>
       <link>https://www.nytimes.com/2026/07/10/business/iran-shipping-strait-of-hormuz.html</link>
@@ -219,7 +239,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/10/business/oil-gas-stocks-shipping-iran-hormuz.html" rel="standout"></atom:link>
       <description>The latest turmoil, sparked by attacks on three commercial ships in the strait days ago, pushed the price of crude back above prewar levels.</description>
       <dc:creator>Jason Karaian</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 13:45:32 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 20:14:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
@@ -1047,25 +1067,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/03glanton-print1/03glanton-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Richard H. Glanton in 1992. He served as president of the Barnes Foundation from 1990 to 1998.</media:description>
-    </item>
-    <item>
-      <title>Alibaba’s A.I. Is a Hit, but Hard to Turn Into a Moneymaker</title>
-      <link>https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/business/alibaba-ai-qwen.html" rel="standout"></atom:link>
-      <description>The Chinese company’s models have won over developers worldwide, but they are open source — so they can be used and modified freely.</description>
-      <dc:creator>Meaghan Tobin and Xinyun Wu</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 16:05:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ma, Jack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/03/business/00biz-china-alibaba02/00biz-china-alibaba02-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Wang Gang/VCG, via Associated Press</media:credit>
-      <media:description>A Shanghai technology fair booth for Qwen, a family of artificial intelligence models that the Chinese company Alibaba started in 2023.</media:description>
     </item>
   </channel>
 </rss>
