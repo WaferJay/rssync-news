@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 12:11:07 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 12:11:00 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 15:02:31 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 14:28:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -68,19 +68,19 @@
       <atom:link href="https://www.nytimes.com/2026/07/09/science/space/wally-funk-dead.html" rel="standout"></atom:link>
       <description>As a young woman in the 1960s, she wasn’t allowed to become a NASA astronaut. She finally realized her long-held dream of flying in space as an octogenarian.</description>
       <dc:creator>Richard Goldstein</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 19:11:02 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 19:11:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Funk, Wally</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Origin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shatner, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09Funk--hgkq/09Funk--hgkq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/09Funk--hgkq-print1/09Funk--hgkq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tony Gutierrez/Associated Press</media:credit>
       <media:description>Wally Funk in 2021, after returning from a roughly 10-minute spaceflight aboard a rocket built by the company Blue Origin. “I loved every minute of it,” she said. “I just wish it had been longer.”</media:description>
     </item>
@@ -168,6 +168,23 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07SCI-TORIFUNE-lmpq/07SCI-TORIFUNE-lmpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Japan Aerospace Exploration Agency</media:credit>
       <media:description>Torifune, an asteroid known as a “contact binary,” observed by the Japanese spacecraft Hayabusa2 on July 5.</media:description>
+    </item>
+    <item>
+      <title>She Studied Ways to Make People Smarter. Then Her Grant Was Cut.</title>
+      <link>https://www.nytimes.com/2026/07/10/climate/lost-science-brain-navy-intelligence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/climate/lost-science-brain-navy-intelligence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/climate/lost-science-brain-navy-intelligence.html" rel="standout"></atom:link>
+      <description>Jessica Cantlon had a grant with the U.S. Navy to explore whether people could improve spatial problem-solving skills through training. Then the program was cut.</description>
+      <dc:creator>Sachi Kitajima Mulkey</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 14:28:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intelligence and Intelligence Tests (IQ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/19/multimedia/00sci-LOST-SCIENCE-CANTLON-mfbg/00sci-LOST-SCIENCE-CANTLON-mfbg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jake Reinhart for The New York Times</media:credit>
     </item>
     <item>
       <title>New York Sues Companies Over ‘Forever Chemicals’</title>
