@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 20:43:16 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 20:31:27 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 22:28:09 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 22:25:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/10/climate/endangered-species-act-harm.html" rel="standout"></atom:link>
       <description>The rule change ends a safeguard that had been in place for 50 years and could hasten the demise of imperiled animals.</description>
       <dc:creator>Catrin Einhorn and Maxine Joselow</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 20:31:27 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 21:24:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
@@ -121,6 +121,44 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>F.C.C. Approves Test of Space Mirror to Light Night Sky Despite Outcry</title>
+      <link>https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html" rel="standout"></atom:link>
+      <description>A start-up company has permission to try its plan to bounce solar rays onto the dark side of Earth, turning night to day for a three-mile-wide patch.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 22:25:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunlight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reflect Orbital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <media:content height="1729" medium="image" url="https://static01.nyt.com/images/2026/07/10/science/10CLI-SOLAR-MIRROR/10CLI-SOLAR-MIRROR-mediumSquareAt3X.jpg" width="1729"></media:content>
+      <media:credit>Reflect Orbital</media:credit>
+      <media:description>An artist’s concept of space mirrors in orbit.</media:description>
+    </item>
+    <item>
+      <title>At Least 100 Are Rescued After Heavy Rain in Missouri</title>
+      <link>https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/weather/missouri-rain-flooding.html" rel="standout"></atom:link>
+      <description>Gov. Mike Kehoe declared a state of emergency after up to a foot of rain fell overnight in the southeastern part of the state. More storms are in the forecast.</description>
+      <dc:creator>John S.W. MacDonald and Amy Graff</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 21:55:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/10/weather/2026-07-10-missouri-risk-index-promo/2026-07-10-missouri-risk-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>U.S. Department of Energy Underestimated Potential Los Alamos Plutonium Leak Danger, Study Finds</title>
@@ -255,16 +293,19 @@
       <description>The Trump administration wants to roll back some Biden-era restrictions on smog-causing emissions from heavy-duty vehicles.</description>
       <dc:creator>Maxine Joselow</dc:creator>
       <pubDate>Thu, 09 Jul 2026 19:20:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zeldin, Lee M</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/09/climate/09cli-trucks/09cli-trucks-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Sullivan/Getty Images</media:credit>
       <media:description>Trucks at the Port of Oakland. The new proposal would rescind a 2022 rule designed to significantly reduce emissions of nitrogen oxides, which cause smog.</media:description>
@@ -1064,7 +1105,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v423.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v427.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -1084,49 +1125,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29france-deaths-01-fchb/29france-deaths-01-fchb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tom Nicholson/Reuters</media:credit>
       <media:description>Officials recovering the body of someone who drowned while swimming in a canal on Friday as Paris baked under a heat wave.</media:description>
-    </item>
-    <item>
-      <title>Europe’s Heat Politics</title>
-      <link>https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/28/world/heat-wave-europe-iran-venezuela.html" rel="standout"></atom:link>
-      <description>As the continent swelters, some right-wing populists are talking up their support for air-conditioning.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 04:58:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/29int-theworld-top2/25int-europe-heat-politics-02-qwfk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Paul Reid/Getty Images</media:credit>
-      <media:description>Kemi Badenoch, the leader of Britain’s Conservative Party, visited an oil rig in Aberdeen, Scotland, in March.</media:description>
-    </item>
-    <item>
-      <title>Heat Wave Takes Toll on Europe’s Infrastructure, Too</title>
-      <link>https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/27/climate/europe-heat-wave-nuclear-trains-infrastructure.html" rel="standout"></atom:link>
-      <description>The devastating heat wave has exposed weaknesses in the continent’s infrastructure, much of it built for a cooler climate that no longer exists.</description>
-      <dc:creator>Chico Harlan</dc:creator>
-      <pubDate>Sat, 27 Jun 2026 04:00:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Railroads</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/27/multimedia/27CLI-NOT-BUILT-FOR-HEATWAVE-01-zhmv/27CLI-NOT-BUILT-FOR-HEATWAVE-01-zhmv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lionel Bonaventure/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The Golfech nuclear plant in France on Tuesday after officials shut it down as a result of high temperatures. </media:description>
     </item>
   </channel>
 </rss>
