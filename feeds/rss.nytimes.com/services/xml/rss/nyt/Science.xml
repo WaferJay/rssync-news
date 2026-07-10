@@ -7,13 +7,24 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 09 Jul 2026 22:45:09 +0000</lastBuildDate>
-    <pubDate>Thu, 09 Jul 2026 22:34:09 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 05:12:54 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 03:06:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>This Star Just Ate a Planet, and It’s Not Done Yet</title>
+      <link>https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html" rel="standout"></atom:link>
+      <description>A star 1,300 light-years away appears to have just consumed one world and is gearing up for seconds.</description>
+      <dc:creator>Becky Ferreira</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 20:58:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Astrophysical Journal Letters</category>
+    </item>
     <item>
       <title>Nobel-Winning U.S. Chemist Omar Yaghi Will Move to China to Lead A.I. Institute</title>
       <link>https://www.nytimes.com/2026/07/09/science/nobel-winning-us-chemist-will-move-to-china-to-lead-ai-institute.html</link>
@@ -110,7 +121,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/08/science/russia-captured-chernobyl-the-wildlife-cameras-kept-recording.html" rel="standout"></atom:link>
       <description>A rare camera-trap study logged the effects of armed conflict on wild animals in real time.</description>
       <dc:creator>Emily Anthes</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 09:00:51 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 02:47:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chernobyl (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -159,19 +170,21 @@
       <media:description>Torifune, an asteroid known as a “contact binary,” observed by the Japanese spacecraft Hayabusa2 on July 5.</media:description>
     </item>
     <item>
-      <title>Our Bacteria Are Talking. We’ve Just Begun to Understand What They’re Saying.</title>
-      <link>https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html" rel="standout"></atom:link>
-      <description>The human microbiome is essential to our health, but scientists still know very little about it. Two researchers set out to map this largely uncharted terrain.</description>
-      <dc:creator>Jeneen Interlandi</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 17:07:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Digestive Tract</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <title>Trump’s Plans for Nuclear Power Lurch Ahead</title>
+      <link>https://www.nytimes.com/2026/07/09/climate/trumps-plans-nuclear-power.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/climate/trumps-plans-nuclear-power.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/climate/trumps-plans-nuclear-power.html" rel="standout"></atom:link>
+      <description>Recent technological advances have brought the president’s goals a bit closer to reality.</description>
+      <dc:creator>Claire Brown</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 18:56:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07cli-newsletter-nuclear-01-fhqv/07cli-newsletter-nuclear-01-fhqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Energy Secretary Chris Wright, center, visited the National Reactor Innovation Center near Idaho Falls, Idaho, last month.</media:description>
     </item>
     <item>
       <title>I.U.C.N. Update Says Deep-Sea Mining Threatens Mollusks Around Hydrothermal Vents</title>
@@ -257,6 +270,21 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08CLI-AMAZONPLANTS-01-pqfl/08CLI-AMAZONPLANTS-01-pqfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Victor Moriyama for The New York Times</media:credit>
       <media:description>The study warned that major losses of plant species could occur in the coming decades even if nations limit global warming to moderate levels.</media:description>
+    </item>
+    <item>
+      <title>Our Bacteria Are Talking. We’ve Just Begun to Understand What They’re Saying.</title>
+      <link>https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html" rel="standout"></atom:link>
+      <description>The human microbiome is essential to our health, but scientists still know very little about it. Two researchers set out to map this largely uncharted terrain.</description>
+      <dc:creator>Jeneen Interlandi</dc:creator>
+      <pubDate>Wed, 08 Jul 2026 17:07:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Digestive Tract</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>New Rules Require Election Changes for States to Get Terrorism Grants</title>
@@ -348,7 +376,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html" rel="standout"></atom:link>
       <description>The birds are particularly vulnerable to high temperatures, and France’s torrid June took a heavy toll.</description>
       <dc:creator>Chico Harlan and Léontine Gallois</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 10:33:47 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 01:44:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chickens</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>

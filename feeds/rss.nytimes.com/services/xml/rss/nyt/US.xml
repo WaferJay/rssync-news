@@ -3,17 +3,34 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1783645188571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 00:59:48 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 00:58:47 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 05:07:59 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 02:18:03 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Trump Begins New Construction Project on White House Front Columns</title>
+      <link>https://www.nytimes.com/2026/07/09/us/trump-white-house-columns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/us/trump-white-house-columns.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/us/trump-white-house-columns.html" rel="standout"></atom:link>
+      <description>Restoration work began after the president saw “door dings in the pillars” and ordered up repairs, the interior secretary said.</description>
+      <dc:creator>Luke Broadwater</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 18:31:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09dc-columns-wzvj/09dc-columns-wzvj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Construction workers installed a printed tarp over the North Portico of the White House on Thursday. </media:description>
+    </item>
     <item>
       <title>Erika Kirk Requests All Evidence in Husband’s Killing to Be Shown Publicly</title>
       <link>https://www.nytimes.com/2026/07/09/us/erika-charlie-kirk-hearing-evidence-court.html</link>
@@ -344,7 +361,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/08/us/politics/democrats-republicans-sexual-assault-politicians.html" rel="standout"></atom:link>
       <description>The swift exit of Graham Platner from the Maine Senate race followed Eric Swalwell’s similar exit from the California governor’s race, but Republicans have taken a different tack.</description>
       <dc:creator>Lauren McGaughy</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 01:33:05 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 02:16:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swalwell, Eric M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzales, Tony (1980- )</category>
@@ -355,27 +372,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08nat-assault-parties-1-qgkj/08nat-assault-parties-1-qgkj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sophie Park for The New York Times</media:credit>
       <media:description>Democratic allies of Graham Platner called for him to end his campaign for Senate after a woman accused him of rape.</media:description>
-    </item>
-    <item>
-      <title>Clues Behind a Cracker Barrel and in 2 Other States Led to 1985 Killing Cold Case Arrest</title>
-      <link>https://www.nytimes.com/2026/07/08/us/ohio-cold-case-dna-cracker-barrel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/us/ohio-cold-case-dna-cracker-barrel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/us/ohio-cold-case-dna-cracker-barrel.html" rel="standout"></atom:link>
-      <description>Nearly four decades after an Ohio man was found slain in a hotel room, renewed forensic testing and years of follow-up investigation resulted in a murder indictment.</description>
-      <dc:creator>Mark Walker</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 13:39:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cracker Barrel Old Country Store Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Holiday Inn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Warren (Ohio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middletown (Ohio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Redington Beach (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dalton (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John Warren</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McAllister, Randy</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07xp-crackerbarrel-hkqt/07xp-crackerbarrel-hkqt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joe Raedle/Getty Images</media:credit>
-      <media:description>Personal belongings of John Warren, a 44-year-old auto parts salesman, were found behind a Cracker Barrel in Georgia after he was found dead in a Holiday Inn in Ohio in 1985.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 01:00:42 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 00:12:21 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 05:11:43 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 01:54:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Delta, United and Other Airlines Are Offering Lower-Cost Business Class Options: What to Know</title>
+      <link>https://www.nytimes.com/2026/07/09/travel/basic-business-class-airlines-delta-united.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/travel/basic-business-class-airlines-delta-united.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/travel/basic-business-class-airlines-delta-united.html" rel="standout"></atom:link>
+      <description>Delta is the latest U.S. airline to introduce stripped down, luxury-class fares. What do you get for your money, and is it worth it? What you need to know.</description>
+      <dc:creator>Victoria M. Walker</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 19:50:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delta Air Lines Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Emirates Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Etihad Airways</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zipair Tokyo Inc</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/09/travel/09trav-basic-business1/09trav-basic-business1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicolas Economou/NurPhoto, via Associated Press</media:credit>
+      <media:description>United Airlines has been offering reduced-price business class service since April, with fewer perks. </media:description>
+    </item>
     <item>
       <title>Grocery Stores Lower Prices as Consumers Pare Spending</title>
       <link>https://www.nytimes.com/2026/07/09/business/grocery-stores-lower-food-prices.html</link>
@@ -132,7 +151,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/09/business/world-cup-nike-adidas.html" rel="standout"></atom:link>
       <description>Second place in the hearts and wallets of Americans isn’t good enough for the world’s largest sportswear companies, who bet big on the tournament.</description>
       <dc:creator>Kim Bhasin and Emma Rose Milligan</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 14:13:40 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 01:54:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shoes and Boots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sporting Goods and Equipment</category>
@@ -1054,25 +1073,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04dc-crypto-losers-wcpk/04dc-crypto-losers-wcpk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Elizabeth Frantz for The New York Times</media:credit>
       <media:description>Protesters outside Trump National Golf Club in Sterling, Va., ahead of a private dinner for investors in President Donald Trump’s cryptocurrency tokens last May. </media:description>
-    </item>
-    <item>
-      <title>Are the ‘MANGOS’ Stocks Already Turning Soft?</title>
-      <link>https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/04/business/mangos-ai-stocks.html" rel="standout"></atom:link>
-      <description>Wall Street loves an acronym. The latest one stands for Meta, Anthropic, Nvidia and three other companies at the center of the artificial intelligence boom.</description>
-      <dc:creator>Rob Copeland</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 14:07:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/business/05shoptalk-illo/05shoptalk-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jackson Gibbs</media:credit>
     </item>
   </channel>
 </rss>
