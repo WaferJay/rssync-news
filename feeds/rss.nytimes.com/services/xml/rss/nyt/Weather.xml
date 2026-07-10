@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 10 Jul 2026 15:06:57 +0000</lastBuildDate>
-    <pubDate>Fri, 10 Jul 2026 13:40:43 +0000</pubDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:09:18 +0000</lastBuildDate>
+    <pubDate>Fri, 10 Jul 2026 17:03:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>U.S. Department of Energy Underestimated Potential Los Alamos Plutonium Leak Danger, Study Finds</title>
+      <link>https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/10/climate/nuclear-bomb-energy-department-lab.html" rel="standout"></atom:link>
+      <description>An accident at the lab that produces America’s nuclear bomb cores could lead to more fatalities than previously estimated by the federal government, according to new research.</description>
+      <dc:creator>Alicia Inez Guzmán</dc:creator>
+      <pubDate>Fri, 10 Jul 2026 15:12:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plutonium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Alamos National Laboratory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00lif-los-alamos-lab-pzmt/00lif-los-alamos-lab-pzmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nina Riggio for The New York Times</media:credit>
+      <media:description>The Los Alamos National Laboratory in New Mexico is home to the country’s only active plutonium-handling facility.</media:description>
+    </item>
     <item>
       <title>At Least 12 People Die in Southern Spain Wildfire</title>
       <link>https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html</link>
@@ -21,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html" rel="standout"></atom:link>
       <description>More than 20 people were still missing after the blaze in Andalusia, one of the deadliest on record in the country. Many of the victims were foreign tourists, the Spanish authorities said.</description>
       <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 13:40:43 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 13:40:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Almeria (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
@@ -187,7 +209,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v417.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v419.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -540,19 +562,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-DC-events-topart-kvhc/04america-250-DC-events-topart-kvhc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>On Friday, the Great American State Fair on the National Mall was suspended because of the heat.</media:description>
-    </item>
-    <item>
-      <title>As Heat Suffocates Washington DC, Calls to Emergency Medical Services Climb</title>
-      <link>https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/weather/heat-wave-washington-dc-emergency-calls.html" rel="standout"></atom:link>
-      <description>Near 100-degree temperatures were expected to continue as medical workers prepared for more heat-related illnesses during celebrations of the nation’s 250th anniversary.</description>
-      <dc:creator>Clarence Williams</dc:creator>
-      <pubDate>Fri, 03 Jul 2026 21:00:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
     </item>
   </channel>
 </rss>
