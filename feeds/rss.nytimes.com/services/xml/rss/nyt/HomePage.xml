@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 10:36:26 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 10:06:19 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 12:09:04 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 12:08:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -44,6 +44,28 @@
       <media:credit>Eric Lee for The New York Times</media:credit>
     </item>
     <item>
+      <title>Times Journalists Subpoenaed as Trump Escalates Pressure on Media</title>
+      <link>https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html" rel="standout"></atom:link>
+      <description>The Justice Department is seeking to compel testimony from reporters who wrote about the new Air Force One. The Times called the move a “brazen act.”</description>
+      <dc:creator>Michael M. Grynbaum</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 04:10:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/10biz-nytimes/10biz-nytimes-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump speaking to reporters before boarding the new Air Force One last week.</media:description>
+    </item>
+    <item>
       <title>Bipartisan Housing Bill Becomes Law Even Though Trump Refuses to Sign It</title>
       <link>https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html</guid>
@@ -65,28 +87,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/00dc-housing-hfo-pfjw/00dc-housing-hfo-pfjw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Trump with Senator John Thune, the majority leader, at the Capitol last month, on the day he had been set to sign the bipartisan housing bill.</media:description>
-    </item>
-    <item>
-      <title>Times Journalists Subpoenaed as Trump Escalates Pressure on Media</title>
-      <link>https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html" rel="standout"></atom:link>
-      <description>The Justice Department is seeking to compel testimony from reporters who wrote about the new Air Force One. The Times called the move a “brazen act.”</description>
-      <dc:creator>Michael M. Grynbaum</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 04:10:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/10biz-nytimes/10biz-nytimes-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump speaking to reporters before boarding the new Air Force One last week.</media:description>
     </item>
     <item>
       <title>Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women</title>
@@ -129,23 +129,23 @@
       <media:description>Graham Platner, once a top Democratic Senate candidate in Maine, is now out of the race.</media:description>
     </item>
     <item>
-      <title>Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.</title>
-      <link>https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html" rel="standout"></atom:link>
-      <description>Frustrated by the appointed court’s support of abortion rights, which has been affirmed resoundingly by voters, Republicans are pushing an Aug. 4 referendum to elect Kansas justices.</description>
-      <dc:creator>Kate Zernike</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 09:00:29 +0000</pubDate>
+      <title>An American Politician is Blocked by Israeli Settlers in the West Bank</title>
+      <link>https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html" rel="standout"></atom:link>
+      <description>Representative Ro Khanna was barred from leaving for 90 minutes. Where past U.S. leaders toured the region to show support for Israel, today’s Democratic presidential aspirants are going to bolster their credentials as critics.</description>
+      <dc:creator>Lisa Lerer</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 10:41:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kobach, Kris W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11NAT-KANSAS-JUDGES-01-tbmh/11NAT-KANSAS-JUDGES-01-tbmh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Charlie Riedel/Associated Press</media:credit>
-      <media:description>A doctor entering an exam room to consult with a patient at a Planned Parenthood clinic in Kansas City, Kan., in 2022. Voters supported a state ballot measure supporting abortion rights that year.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khanna, Ro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Rahm</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ramallah (West Bank)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10pol-khanna-israel-Promo/10pol-khanna-israel-Promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Samar Hazboun for The New York Times</media:credit>
     </item>
     <item>
       <title>Israel Struck an Iranian Steel Facility. Was It a Valid Military Target?</title>
@@ -166,25 +166,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mobarakeh Steel</category>
     </item>
     <item>
-      <title>Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say</title>
-      <link>https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html" rel="standout"></atom:link>
-      <description>The officials said that Iranian negotiators blamed the recent ship attacks on rogue military units.</description>
-      <dc:creator>David E. Sanger</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 22:32:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <title>Iran’s Top Diplomat in Oman for Talks on Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/world/middleeast/iran-araghchi-oman-iran-strait-of-hormuz.html" rel="standout"></atom:link>
+      <description>The Iranian foreign minister landed in Muscat on Saturday. A standoff over the strait this week set off heavy clashes between the U.S. and Iran.</description>
+      <dc:creator>Aaron Boxerman</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 10:49:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10dc-trump-iran-vzqh/10dc-trump-iran-vzqh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Elke Scholiers/Getty Images</media:credit>
-      <media:description>Oil tankers and cargo vessels anchored off the coast of Oman, just outside the Strait of Hormuz, last month.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11iran-strait-whmp/11iran-strait-whmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Vessels in the Strait of Hormuz as seen from Musandam, Oman, this month.</media:description>
     </item>
     <item>
       <title>ICE Killing in Houston Puts Focus on Surge in Immigration Arrests</title>
@@ -285,13 +286,13 @@
       <media:description>Nathan Berman has built his reputation as a real estate developer converting commercial buildings to luxury residences. </media:description>
     </item>
     <item>
-      <title>Mick Jagger Isn’t Sure He Ever Lets the World See the Real Him</title>
+      <title>Mick Jagger Knows He May Have Played His Last Rolling Stones Show</title>
       <link>https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html" rel="standout"></atom:link>
       <description>The legendary rock star, now 82, on how fame, touring and aging have changed him.</description>
       <dc:creator>David Marchese</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 09:15:07 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 12:08:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Geese (Music Group)</category>
@@ -310,48 +311,63 @@
       <media:credit>Philip Montgomery for The New York Times</media:credit>
     </item>
     <item>
-      <title>This Is a Lot More Worrying Than the Supreme Court’s Ruling on Executive Power</title>
-      <link>https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html" rel="standout"></atom:link>
-      <description>The White House is sidestepping Congress to make huge decisions for even the most important private industries.</description>
-      <dc:creator>David Lawrence</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 19:53:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <title>We’re Living in a Tick Nightmare. It’s Time to Go to War.</title>
+      <link>https://www.nytimes.com/2026/07/11/opinion/ticks-disease-lyme-alpha-gal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/opinion/ticks-disease-lyme-alpha-gal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/opinion/ticks-disease-lyme-alpha-gal.html" rel="standout"></atom:link>
+      <description>With ticks, we’ve barely begun to fight back. The longer we wait, the more territory they will claim across both our geographic and psychic maps.</description>
+      <dc:creator>Jonathan Mingle</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 11:17:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lyme Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ticks (Insects)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
     </item>
     <item>
-      <title>Does Matt Damon Look Greek? No. So Stop Complaining About Lupita Nyong’o.</title>
-      <link>https://www.nytimes.com/2026/07/10/opinion/odyssey-movie-lupita-nyongo-nolan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/opinion/odyssey-movie-lupita-nyongo-nolan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/opinion/odyssey-movie-lupita-nyongo-nolan.html" rel="standout"></atom:link>
-      <description>Helen of Troy was a legendary beauty, but also so much more.</description>
-      <dc:creator>Daniel Mendelsohn</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 19:28:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Myths and Mythical Creatures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Homer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nyong&#39;o, Lupita</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (Movie)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/opinion/06mendelsohn-image/06mendelsohn-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Illustration by Sam Whitney/The New York Times</media:credit>
+      <title>‘Platner Is Vile.’ McConnell Is Missing. Welcome to American Politics.</title>
+      <link>https://www.nytimes.com/2026/07/11/opinion/trump-iran-ceasefire-mcconnell-platner.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/opinion/trump-iran-ceasefire-mcconnell-platner.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/opinion/trump-iran-ceasefire-mcconnell-platner.html" rel="standout"></atom:link>
+      <description>What America’s embarrassments have in common.</description>
+      <dc:creator>Michelle Cottle, David French, David Wallace-Wells and Derek Arthur</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 11:30:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">audio-neutral-informative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Term Limits (Political Office)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/07/11/opinion/11opinions-roundtable-image/11opinions-roundtable-image-mediumSquareAt3X.jpg" width="1200"></media:content>
+      <media:credit>illustration by The New York Times, photo by Kent Nishimura/Getty</media:credit>
     </item>
     <item>
       <title>Gravitational Pull</title>
