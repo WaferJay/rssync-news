@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 22:11:10 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 20:06:33 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 23:14:22 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 22:22:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html" rel="standout"></atom:link>
       <description>The National Guard evacuated campers after flooding in Missouri that reminded some families of the devastating floods at Camp Mystic in central Texas last year.</description>
       <dc:creator>Pooja Salhotra and Amy Graff</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 19:33:43 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 22:22:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer Camps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
@@ -325,7 +325,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v466.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v468.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -465,21 +465,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04AMERICA-250-MALL-EVACUATION-gklm/04AMERICA-250-MALL-EVACUATION-gklm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>Thunderstorms headed toward Washington on Saturday evening, forcing evacuations of thousands at the National Mall.</media:description>
-    </item>
-    <item>
-      <title>The City Where You’ll Nearly Always Want a Jacket on the Fourth of July</title>
-      <link>https://www.nytimes.com/2026/07/04/weather/san-francisco-july-4-forecast-golden-gate-bridge-fireworks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/weather/san-francisco-july-4-forecast-golden-gate-bridge-fireworks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/04/weather/san-francisco-july-4-forecast-golden-gate-bridge-fireworks.html" rel="standout"></atom:link>
-      <description>As the East Coast bakes under a heat wave, San Francisco will be 66 degrees. But good luck watching the fireworks through the fog.</description>
-      <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 01:41:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-coldest-town-topart-lpzq/04america-250-coldest-town-topart-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Christie Hemm Klok for The New York Times</media:credit>
-      <media:description>A cloudy day in San Francisco last month.</media:description>
     </item>
   </channel>
 </rss>
