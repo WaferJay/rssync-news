@@ -7,13 +7,38 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 18:13:50 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 17:36:23 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 19:36:44 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 19:33:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Black Hawk Helicopters Rescue Hundreds From Summer Camp During Floods</title>
+      <link>https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html" rel="standout"></atom:link>
+      <description>The National Guard evacuated campers after flooding in Missouri that reminded some families of the devastating floods at Camp Mystic in central Texas last year.</description>
+      <dc:creator>Pooja Salhotra and Amy Graff</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 19:33:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer Camps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Camp Mystic (Hunt, Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kehoe, Mike (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <media:content height="1626" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11nat-camper-rescue-tzhf/11nat-camper-rescue-tzhf-mediumSquareAt3X.jpg" width="1626"></media:content>
+      <media:credit>KTVI, via Associated Press</media:credit>
+      <media:description>Floodwaters from a cluster of thunderstorms that dropped a foot of water in some parts of Missouri.</media:description>
+    </item>
     <item>
       <title>A Wildfire Killed 12 People in Southern Spain. Here’s the Latest.</title>
       <link>https://www.nytimes.com/2026/07/11/world/europe/spain-wildfire-kills-12-what-to-know.html</link>
@@ -300,7 +325,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v458.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v461.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -455,26 +480,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-coldest-town-topart-lpzq/04america-250-coldest-town-topart-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christie Hemm Klok for The New York Times</media:credit>
       <media:description>A cloudy day in San Francisco last month.</media:description>
-    </item>
-    <item>
-      <title>Nathan’s Hot Dog Contest Captivates Coney Island Despite Heat Wave</title>
-      <link>https://www.nytimes.com/2026/07/04/nyregion/hot-dog-contest-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/nyregion/hot-dog-contest-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/04/nyregion/hot-dog-contest-nyc.html" rel="standout"></atom:link>
-      <description>Temperatures climbed above 90 degrees on Saturday, as Joey Chestnut and Miki Sudo once again reigned supreme.</description>
-      <dc:creator>Claire Fahy and Kaja Andric</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 22:06:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chestnut, Joey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sudo, Miki</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Coney Island (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hot Dogs and Frankfurters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nathans Famous Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04met-hot-dog-contest-zgtp/04met-hot-dog-contest-zgtp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jordan Tovin/Reuters</media:credit>
-      <media:description>Joey Chestnut was on pace to break his record early in the competition, but the heat appeared to slow him down. He still ate 66 hot dogs in 10 minutes.</media:description>
     </item>
   </channel>
 </rss>
