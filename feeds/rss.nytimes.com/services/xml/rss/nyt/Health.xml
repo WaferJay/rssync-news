@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 03:47:24 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 01:01:06 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 06:27:45 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 06:25:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -206,6 +206,23 @@
       <media:description>Nicotine pouch sales are projected to increase to more than $40 billion worldwide by 2033 from $6.9 billion in 2025, one analysis said.</media:description>
     </item>
     <item>
+      <title>U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo</title>
+      <link>https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html" rel="standout"></atom:link>
+      <description>The American works for a humanitarian organization in Congo, the Centers for Disease Control and Prevention said.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 06:25:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arlette Bashizi for The New York Times</media:credit>
+      <media:description>An Ebola outbreak has killed hundreds of people in the Democratic Republic of Congo this year.</media:description>
+    </item>
+    <item>
       <title>An Insider’s Guide to 6 of Vienna’s Splendid Public Pools</title>
       <link>https://www.nytimes.com/2026/07/10/travel/vienna-public-pools.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/travel/vienna-public-pools.html</guid>
@@ -393,26 +410,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02xp-hantavirus-ftwc/02xp-hantavirus-ftwc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hannah Mckay/Reuters</media:credit>
       <media:description>The MV Hondius had only a couple of dozen passengers and crew members as it left the port in Tenerife, one of the Canary Islands, on May 11. It began its journey six weeks earlier in Argentina with about 150 passengers.</media:description>
-    </item>
-    <item>
-      <title>What Is the Heat Index? What To Know About the Metric During a Heat Wave</title>
-      <link>https://www.nytimes.com/2026/07/02/weather/heat-index-temperature.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/weather/heat-index-temperature.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/weather/heat-index-temperature.html" rel="standout"></atom:link>
-      <description>The metric of how hot the air actually feels has roots in a 1979 journal paper called “The Assessment of Sultriness.”</description>
-      <dc:creator>Andy Newman</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 21:18:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weights and Measures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AccuWeather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rothfusz, Lans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sweating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02heat-wave-live-heat-index-ljwv/02heat-wave-live-heat-index-ljwv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carolina Herrera for The New York Times</media:credit>
-      <media:description>The heat index can make a person feel hotter than the actual temperature.</media:description>
     </item>
   </channel>
 </rss>

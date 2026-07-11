@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 03:45:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 06:28:54 +0000</lastBuildDate>
     <pubDate>Sat, 11 Jul 2026 01:21:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -266,7 +266,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v435.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v437.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -537,28 +537,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04MET-4TH-SECURITY-vjfl/04MET-4TH-SECURITY-vjfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lucia Vazquez for The New York Times</media:credit>
       <media:description>Tall ships traveled past the East River Esplanade in Manhattan during Sail4th 250 on Friday. Dozens of vessels are set to take part in a parade on the Hudson River on Saturday.</media:description>
-    </item>
-    <item>
-      <title>More Than 1 Million Without Power After Storms in Midwest and Northeast</title>
-      <link>https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/04/us/storms-power-outages-midwest-northeast-ontario.html" rel="standout"></atom:link>
-      <description>Strong winds from thunderstorms began to cause widespread power losses on Friday. More than 1.3 million customers, from Oklahoma to Massachusetts, had no electricity late Saturday.</description>
-      <dc:creator>John Yoon</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 03:58:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1582" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04xp-storms/04xp-storms-mediumSquareAt3X.jpg" width="1584"></media:content>
-      <media:credit>Robert Killips/Lansing State Journal, via USA Today, via Imagn Images, via Reuters</media:credit>
-      <media:description>Large branches came down during a storm in Lansing, Mich., on Friday.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 03:46:32 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 01:51:26 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 06:32:06 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 04:10:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Times Journalists Subpoenaed as Trump Escalates Pressure on Media</title>
+      <link>https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html" rel="standout"></atom:link>
+      <description>The Justice Department is seeking to compel testimony from reporters who wrote about the new Air Force One. The Times called the move a “brazen act.”</description>
+      <dc:creator>Michael M. Grynbaum</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 04:10:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/10biz-nytimes/10biz-nytimes-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump speaking to reporters before boarding the new Air Force One last week.</media:description>
+    </item>
     <item>
       <title>New York Times Accuses Federal Employment Agency of Retaliation</title>
       <link>https://www.nytimes.com/2026/07/10/business/media/new-york-times-eeoc-lawsuit.html</link>
@@ -1053,24 +1075,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Electronics Co</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SK Group</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-    </item>
-    <item>
-      <title>George E. Johnson, Who Built a Black Hair-Care Empire, Dies at 99</title>
-      <link>https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html" rel="standout"></atom:link>
-      <description>Mr. Johnson’s hair product company, a longtime sponsor of “Soul Train,” was the first Black-owned company listed on a major American stock exchange.</description>
-      <dc:creator>Robert D. Hershey Jr.</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 16:54:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, George E (1927-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hair</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johnson Products Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/06Johnson-fbwt-print1/06Johnson-fbwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brian Cassella/Chicago Tribune &amp;mdash; Tribune News Service, via Getty Images</media:credit>
-      <media:description>George E. Johnson last year at his home in Chicago. The Johnson Products Company made him one of the country’s wealthiest African Americans.</media:description>
     </item>
   </channel>
 </rss>
