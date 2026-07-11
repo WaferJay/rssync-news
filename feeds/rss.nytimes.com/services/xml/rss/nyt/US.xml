@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 16:19:18 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 16:11:48 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 17:23:17 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 16:49:44 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Videos Shed Light on Pursuit Before ICE Killing in Houston</title>
+      <link>https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/11/us/houston-ice-video-shooting-salgado-araujo.html" rel="standout"></atom:link>
+      <description>Surveillance footage obtained by The Times shows ICE agents driving aggressively in unmarked vehicles, but the moment of the fatal shooting of Lorenzo Salgado Araujo remains murky.</description>
+      <dc:creator>Robin Stein, Devon Lum, Sam Lerma, Mimi Dwyer, Alexander Cardia, Aric Toler, Dmitriy Khavin, Charlie Smart and Allison McCann</dc:creator>
+      <pubDate>Sat, 11 Jul 2026 16:49:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araujo, Lorenzo Salgado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-visual-investigations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+    </item>
     <item>
       <title>Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case</title>
       <link>https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html</link>
@@ -391,23 +407,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10pol-dem-switch-km-jfqz/10pol-dem-switch-km-jfqz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Trump Is Promoting ‘Freedom Fuel’ for $3.47 a Gallon. Who’s Behind It?</title>
-      <link>https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/us/freedom-fuel-gas-stations.html" rel="standout"></atom:link>
-      <description>The president has praised a network of 25 recently rebranded gas stations in the Philadelphia region that have been selling gas for considerably less than the national average.</description>
-      <dc:creator>Audra D. S. Burch and Mark Bonamo</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 01:35:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10nat-freedom-fuel-02-fgcw/10nat-freedom-fuel-02-fgcw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hannah Beier for The New York Times</media:credit>
-      <media:description>A former Valero station is one in a chain of 25 newly branded Freedom Fuel gas stations in the Philadelphia region, promoted by President Trump and the White House.</media:description>
     </item>
   </channel>
 </rss>
