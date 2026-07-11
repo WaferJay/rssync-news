@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 18:10:17 +0000</lastBuildDate>
-    <pubDate>Sat, 11 Jul 2026 18:03:30 +0000</pubDate>
+    <lastBuildDate>Sat, 11 Jul 2026 21:09:51 +0000</lastBuildDate>
+    <pubDate>Sat, 11 Jul 2026 20:23:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -163,16 +163,15 @@
       <description>A May lawsuit by the Equal Employment Opportunity Commission claims the newspaper discriminated against a white male employee who did not get a promotion.</description>
       <dc:creator>Erik Wemple</dc:creator>
       <pubDate>Sat, 11 Jul 2026 01:33:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Equal Employment Opportunity Commission</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Equal Employment Opportunity Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/00biz-lawsuit-klzq/00biz-lawsuit-klzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lucia Vazquez for The New York Times</media:credit>
@@ -365,11 +364,14 @@
       <description>Even as matches have drawn large crowds, hotel bookings have lagged. And workers in host cities say they’re struggling.</description>
       <dc:creator>Kurtis Lee</dc:creator>
       <pubDate>Fri, 10 Jul 2026 09:02:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Service Industries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Hotel and Lodging Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Culinary Workers Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
