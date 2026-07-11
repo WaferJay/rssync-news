@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 11 Jul 2026 15:25:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 16:20:44 +0000</lastBuildDate>
     <pubDate>Sat, 11 Jul 2026 14:46:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -303,7 +303,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v451.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v453.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -478,28 +478,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04met-hot-dog-contest-zgtp/04met-hot-dog-contest-zgtp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Tovin/Reuters</media:credit>
       <media:description>Joey Chestnut was on pace to break his record early in the competition, but the heat appeared to slow him down. He still ate 66 hot dogs in 10 minutes.</media:description>
-    </item>
-    <item>
-      <title>It’s heat dome 1, George Washington 0.</title>
-      <link>https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/07/04/us/america-250-celebrations-fourth-july/heat-dome-1-george-washington-0" rel="standout"></atom:link>
-      <description>In Philadelphia, extreme temperatures forced the cancellation of some events, including the city’s big parade and a ceremonial pitching of George Washington’s field tent.</description>
-      <dc:creator>Jennifer Schuessler</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 17:51:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Declaration of Independence (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, George (1732-99)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Museum of the American Revolution</category>
-      <category domain="">George Washingtons tent</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04america-250-washington-tent-topart-zwfl/04america-250-washington-tent-topart-zwfl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rachel Wisniewski for The New York Times</media:credit>
-      <media:description>Independence Mall in Philadelphia, where a replica of George Washington’s field tent was slated to be pitched before plans where canceled because of the heat.</media:description>
     </item>
   </channel>
 </rss>
