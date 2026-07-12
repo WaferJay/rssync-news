@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 17:28:42 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 16:54:44 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 19:35:43 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 18:18:16 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -169,11 +169,10 @@
       <description>It’s summer on the South Fork. Care for some nuggets and caviar?</description>
       <dc:creator>Dionne Searcey</dc:creator>
       <pubDate>Sat, 11 Jul 2026 13:27:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poultry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popeyes Louisiana Kitchen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Surf Lodge (Montauk, NY, Hotel)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southampton (NY)</category>
@@ -203,7 +202,7 @@
       <media:credit>Jonah Rosenberg for The New York Times</media:credit>
     </item>
     <item>
-      <title>Jayson Conner, 48, and Jeffrey Newman, 58, Die; Gave Thousands of Backpacks to Those in Need</title>
+      <title>Jayson Conner and Jeffrey Newman, Who Gave Backpacks to Those in Need, Die Days Apart</title>
       <link>https://www.nytimes.com/2026/07/11/nyregion/jeffrey-newman-jayson-connor-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/nyregion/jeffrey-newman-jayson-connor-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/11/nyregion/jeffrey-newman-jayson-connor-dead.html" rel="standout"></atom:link>
@@ -226,16 +225,20 @@
       <atom:link href="https://www.nytimes.com/2026/07/11/nyregion/nathan-berman-metroloft-developer.html" rel="standout"></atom:link>
       <description>Nathan Berman has shied away from the showy ways necessary to succeed in New York real estate. Now, his largest project is in limbo.</description>
       <dc:creator>Debra Kamin and Stefanos Chen</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 07:00:08 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 07:00:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buildings Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">TriBeCa (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berman, Nathan (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">TriBeCa (Manhattan, NY)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11met-berman-metroloft1-tgwc/11met-berman-metroloft1-tgwc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>James Estrin/The New York Times</media:credit>
       <media:description>Nathan Berman has built his reputation as a real estate developer converting commercial buildings to luxury residences. </media:description>

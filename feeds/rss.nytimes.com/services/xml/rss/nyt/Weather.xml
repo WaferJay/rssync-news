@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 17:26:47 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 17:22:12 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 19:35:46 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 19:14:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -86,10 +86,13 @@
       <dc:creator>Isabella Kwai and Jane Stockdale</dc:creator>
       <pubDate>Sat, 11 Jul 2026 13:29:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming Pools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Canals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09xp-londonswimming-promo-lmhc/09xp-londonswimming-promo-lmhc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jane Stockdale for The New York Times</media:credit>
@@ -359,7 +362,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v494.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v498.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -415,29 +418,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v49.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>More Severe Weather Looms as Over 800,000 Remain Without Power</title>
-      <link>https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/05/us/storms-flood-rain-power-outages-midwest-northeast.html" rel="standout"></atom:link>
-      <description>Strong storms knocked out power this week to customers from Oklahoma to Connecticut. As they waited on Sunday for the lights to come back on, the forecast called for more severe weather.</description>
-      <dc:creator>Johnny Diaz and Nazaneen Ghaffar</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 18:58:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-power-storms-zlcm/05xp-power-storms-zlcm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finn Gomez/Getty Images</media:credit>
-      <media:description>Lightning flashes in the sky during Fourth of July celebrations on Saturday in Washington. More than 800,000 customers across the United States remained without power on Sunday after a series of storms.</media:description>
     </item>
   </channel>
 </rss>
