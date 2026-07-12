@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 04:00:53 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 01:08:40 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 07:01:19 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 04:02:33 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>How Putin Turned Japan Into a Den of Spies</title>
+      <link>https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html" rel="standout"></atom:link>
+      <description>Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.</description>
+      <dc:creator>Jane Bradley, Michael Schwirtz and Adam Goldman</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 04:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GRU (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aeroflot Russian Airlines</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/00int-russia-spies-03-hqjb/00int-russia-spies-03-hqjb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>The Aeroflot office in Toranomon Kotohira Tower in Tokyo. Japan’s weak espionage laws and flourishing high-tech industry have made it a crucial base for the Russian war effort.</media:description>
+    </item>
     <item>
       <title>Inside the Secret Factory That Supplies Ukraine’s War Drones</title>
       <link>https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html</link>
@@ -1052,27 +1070,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/2026-july-biz-promos-trade/2026-july-biz-promos-trade-mediumSquareAt3X-v3.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Why Index Funds Haven’t Boosted SpaceX</title>
-      <link>https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/business/dealbook/spacex-index-funds.html" rel="standout"></atom:link>
-      <description>Some market watchers are puzzled that shares in Elon Musk’s rocket and A.I. company have stalled out despite major interest from Wall Street.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 12:02:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nasdaq Composite Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morningstar Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">S &amp; P Dow Jones Indices</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07db-spcx-ztlv/07db-spcx-ztlv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>SpaceX’s share price has languished since its trading debut last month, surprising many market watchers.</media:description>
     </item>
   </channel>
 </rss>
