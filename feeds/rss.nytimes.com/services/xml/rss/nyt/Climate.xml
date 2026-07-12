@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 13:57:24 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 01:07:43 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 15:27:36 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 14:29:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -318,10 +318,13 @@
       <atom:link href="https://www.nytimes.com/2026/07/09/climate/iucn-red-list-threatened-species.html" rel="standout"></atom:link>
       <description>The snails and other mollusks around hydrothermal vents have evolved to thrive in extreme conditions, but mineral extraction could drive more than half to extinction.</description>
       <dc:creator>Catrin Einhorn</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 18:47:34 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 18:47:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Union for Conservation of Nature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mollusks</category>
     </item>
     <item>
       <title>Western Europe Had Its Hottest June on Record</title>
@@ -352,7 +355,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Geology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature (Journal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indian Ocean</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/climate/08SCI-SEAFLOOR-SPREAD/08SCI-SEAFLOOR-SPREAD-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/climate/08SCI-SEAFLOOR-SPREAD/08SCI-SEAFLOOR-SPREAD-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Benoit Stichelbaut/Hemis, via Alamy</media:credit>
       <media:description>Île Saint-Paul, a tiny island in the Indian Ocean, some 120 miles southwest of the deep sea site where the Antarctica and Australia tectonic plates diverged during an earthquake in 2024.</media:description>
     </item>
@@ -1129,7 +1132,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v485.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v489.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
   </channel>
