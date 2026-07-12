@@ -7,13 +7,22 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 09:17:56 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 09:12:14 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 10:45:21 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 10:34:41 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/12/us/iran-war-trump-hormuz/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Leo Sands, Sanam Mahoozi and Aaron Boxerman</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 10:02:02 +0000</pubDate>
+    </item>
     <item>
       <title>How an Election Fight in Arizona Could Affect the Nation’s Midterms</title>
       <link>https://www.nytimes.com/2026/07/12/us/elections/maricopa-county-election-security.html</link>
@@ -79,9 +88,9 @@
       <link>https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html" rel="standout"></atom:link>
-      <description>Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. He served in the Senate for more than two decades.</description>
-      <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 09:12:14 +0000</pubDate>
+      <description>Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.</description>
+      <dc:creator>Robert Jimison and Amelia Nierenberg</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 10:34:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
@@ -388,25 +397,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11nat-roswell-1-ftjg/11nat-roswell-1-ftjg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Attendees wait for a parade to start during the Roswell U.F.O. Festival in Roswell, N.M.</media:description>
-    </item>
-    <item>
-      <title>Kansans Will Vote on an Elected Supreme Court. The Target: Abortion.</title>
-      <link>https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/us/elections/kansas-supreme-court-justices-election-abortion.html" rel="standout"></atom:link>
-      <description>Frustrated by the appointed court’s support of abortion rights, which has been affirmed resoundingly by voters, Republicans are pushing an Aug. 4 referendum to elect Kansas justices.</description>
-      <dc:creator>Kate Zernike</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 21:07:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kobach, Kris W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11NAT-KANSAS-JUDGES-01-tbmh/11NAT-KANSAS-JUDGES-01-tbmh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Charlie Riedel/Associated Press</media:credit>
-      <media:description>A doctor entering an exam room to consult with a patient at a Planned Parenthood clinic in Kansas City, Kan., in 2022. Voters supported a state ballot measure supporting abortion rights that year.</media:description>
     </item>
   </channel>
 </rss>
