@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 15:27:36 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 14:29:57 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:27:33 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 15:31:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -118,6 +118,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes</title>
+      <link>https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html" rel="standout"></atom:link>
+      <description>Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.</description>
+      <dc:creator>Jason Horowitz, Carlos Barragán and Lynsey Chutel</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 15:31:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Almeria (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-promo-pjft/12int-spain-fires-promo-pjft-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
     </item>
     <item>
       <title>In the Hamptons, Even the Chicken Tenders Are Living Fancy</title>
@@ -1112,28 +1129,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/29/multimedia/29cli-offshore-wind-kbvw/29cli-offshore-wind-kbvw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Matthew Brown/Associated Press</media:credit>
       <media:description>Duke Energy is one of the nation’s largest utilities. Here, a Duke Energy wind farm project in Rolling Hills, Wyoming.</media:description>
-    </item>
-    <item>
-      <title>Europe Heat Wave: Forecasts, Warnings and How to Stay Cool</title>
-      <link>https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/06/29/weather/heat-wave-eastern-europe-forecasts.html" rel="standout"></atom:link>
-      <description>A heat wave responsible for shattering numerous temperature records in Western Europe continued its shift east.</description>
-      <dc:creator>Nazaneen Ghaffar and Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 29 Jun 2026 22:05:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Czech Republic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Romania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v489.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
