@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 07:00:44 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 01:34:31 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 09:17:12 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 07:17:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Typhoon Bavi Hits China, Causing Evacuations, Floods and Flight Delays</title>
+      <link>https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/typhoon-bavi-china.html" rel="standout"></atom:link>
+      <description>Typhoon Bavi made landfall in China after killing 17 in the Philippines, skirting Japan and hitting Taiwan. At its largest, the storm was about the width of France.</description>
+      <dc:creator>Lily Kuo and Pei-Lin Wu</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 07:17:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-china-typhoon-ftwk/12int-china-typhoon-ftwk-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Go Nakamura/Reuters</media:credit>
+      <media:description>Fallen trees seen on Sunday in Wenzhou, Zhejiang Province, where Typhoon Bavi made its second landfall around midnight.</media:description>
+    </item>
     <item>
       <title>Black Hawk Helicopters Rescue Hundreds From Summer Camp During Floods</title>
       <link>https://www.nytimes.com/2026/07/11/us/missouri-rescue-summer-camp-flood.html</link>
@@ -325,7 +345,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v476.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v479.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -404,46 +424,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05xp-power-storms-zlcm/05xp-power-storms-zlcm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finn Gomez/Getty Images</media:credit>
       <media:description>Lightning flashes in the sky during Fourth of July celebrations on Saturday in Washington. More than 800,000 customers across the United States remained without power on Sunday after a series of storms.</media:description>
-    </item>
-    <item>
-      <title>America Marks Its 250th Birthday With Storms, Sweat and Fire</title>
-      <link>https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html" rel="standout"></atom:link>
-      <description>Independence Day celebrations were canceled nationwide and the Brooklyn Bridge briefly caught fire. Yet Americans still found countless ways to celebrate.</description>
-      <dc:creator>Campbell Robertson</dc:creator>
-      <pubDate>Sun, 05 Jul 2026 17:16:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn Bridge (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/05NAT-AMERICA-250-FIREWORKS-cvwq/05NAT-AMERICA-250-FIREWORKS-cvwq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Fireworks erupt over the National Mall in Washington to cap off the day’s events — and extend into the next.</media:description>
-    </item>
-    <item>
-      <title>Guam and Northern Mariana Islands Prepare for Typhoon Bavi</title>
-      <link>https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/05/us/guam-typhoon-bavi-marianas.html" rel="standout"></atom:link>
-      <description>Typhoon Bavi, a tropical cyclone barreling through the Pacific Ocean, was forecast to pass near the U.S. territories on Monday with the force of a Category 5 hurricane.</description>
-      <dc:creator>Josie Moyer, Mar-Vic Cagurangan and Nazaneen Ghaffar</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 22:09:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northern Mariana Islands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/05/05vid-guam-storm-embed-48531-cover/05vid-guam-storm-embed-48531-cover-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>Mar-Vic Cagurangan for The New York Times</media:credit>
-      <media:description>Mar-Vic Cagurangan for The New York Times</media:description>
     </item>
   </channel>
 </rss>
