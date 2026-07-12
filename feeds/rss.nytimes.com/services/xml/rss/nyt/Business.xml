@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 21:09:41 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 20:17:49 +0000</pubDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:09:54 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 21:48:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/business/state-ag-lawsuit-paramount-warner-bros.html" rel="standout"></atom:link>
       <description>State attorneys general are said to be getting ready to file a lawsuit as soon as this week to halt the $111 billion deal, a potential major obstacle.</description>
       <dc:creator>David McCabe, Benjamin Mullin and Lauren Hirsch</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 20:17:49 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 20:17:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
@@ -111,14 +111,19 @@
       <atom:link href="https://www.nytimes.com/2026/07/11/business/dealbook/drone-factory-helsing.html" rel="standout"></atom:link>
       <description>With its mass-produced and inexpensive A.I. powered war machines, the German start-up Helsing SE illustrates a profound shift in military spending.</description>
       <dc:creator>Vivienne Walt</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 12:00:09 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 12:00:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Helsing GmbH</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11DB-DRONE-FACTORY-01-cvpl/11DB-DRONE-FACTORY-01-cvpl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Junker for The New York Times</media:credit>
       <media:description>Helsing SE, which makes autonomous jets and drones, is the most valuable A.I. defense start-up in Europe.</media:description>
