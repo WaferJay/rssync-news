@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 12 Jul 2026 23:10:02 +0000</lastBuildDate>
-    <pubDate>Sun, 12 Jul 2026 22:24:59 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:10:25 +0000</lastBuildDate>
+    <pubDate>Sun, 12 Jul 2026 23:29:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -58,9 +58,10 @@
       <description>The live-action remake took in roughly $43 million over the weekend in North America, about 30 percent less than Disney had expected.</description>
       <dc:creator>Brooks Barnes</dc:creator>
       <pubDate>Sun, 12 Jul 2026 17:39:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animated Films</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Moana (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walt Disney Company</category>
       <media:content height="1602" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12biz-boxoffice-moana-zqvb/12biz-boxoffice-moana-zqvb-mediumSquareAt3X.jpg" width="1602"></media:content>
       <media:credit>Walt Disney Studios</media:credit>
       <media:description>Dwayne Johnson as Maui in “Moana,” which cost an estimated $250 million to make and at least $100 million to market worldwide.</media:description>
@@ -89,12 +90,17 @@
       <description>As more states and municipalities continue their push to build affordable housing, companies like Costco and Target are riding along and getting their stores into crowded cities.</description>
       <dc:creator>Lauren Coleman-Lochner</dc:creator>
       <pubDate>Sun, 12 Jul 2026 09:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mixed-Use Developments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Target Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Costco Wholesale Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Harlem (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montgomery County (Md)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/26/multimedia/26BIZ-sqft-retail-housing-target125-fqpt/26BIZ-sqft-retail-housing-target125-fqpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>The Target store on 125th Street in New York City is in a complex with 171 affordable housing units.</media:description>
