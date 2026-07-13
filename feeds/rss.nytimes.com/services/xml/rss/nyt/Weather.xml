@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 22:15:13 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 20:41:15 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:20:43 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 22:27:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Texas Faces Days and Days of Heavy Rain</title>
+      <link>https://www.nytimes.com/2026/07/13/weather/texas-rain-forecast-flooding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/weather/texas-rain-forecast-flooding.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/weather/texas-rain-forecast-flooding.html" rel="standout"></atom:link>
+      <description>Meteorologists with the National Weather Service called the forecast “bleak” and warned that some spots could record up to 10 inches of rain this week.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 22:27:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-texas-rain-outlook-index-promo/2026-07-13-texas-rain-outlook-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
     <item>
       <title>Another Heat Wave Brings Unbearable Temperatures to Parts of the U.S.</title>
       <link>https://www.nytimes.com/2026/07/13/weather/heat-wave-forecast.html</link>
@@ -28,7 +44,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-heat-index-promo/2026-07-13-heat-index-promo-mediumSquareAt3X-v17.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-heat-index-promo/2026-07-13-heat-index-promo-mediumSquareAt3X-v19.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>

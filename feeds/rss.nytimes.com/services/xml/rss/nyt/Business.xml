@@ -7,13 +7,37 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 22:14:39 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 20:57:52 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:22:18 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 23:00:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Trump’s Strait of Hormuz Fee Could Double the Cost of Shipping</title>
+      <link>https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/business/trump-hormuz-shipping-fee.html" rel="standout"></atom:link>
+      <description>The potential expense of a 20 percent charge to move oil and other goods through the strait has stirred concern among shippers.</description>
+      <dc:creator>Peter Eavis</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 23:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ING Groep NV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araghchi, Abbas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <media:content height="1184" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13biz-trump-fees-01-lpmb/13biz-trump-fees-01-lpmb-mediumSquareAt3X.jpg" width="1185"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Two vessels off the coast of Oman last month. President Trump did not explain exactly how the 20 percent fee would be calculated.</media:description>
+    </item>
     <item>
       <title>Trump Administration Is Snapping Up Stakes in Private Companies. Could A.I. Be Next?</title>
       <link>https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html</link>
@@ -1037,25 +1061,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00biz-nike-adidas-worldcup-promo-vbft/00biz-nike-adidas-worldcup-promo-vbft-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emma Rose Milligan for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Oil Prices Remain Elevated Amid Shipping Traffic Slowdown in Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/09/business/oil-shipping-stocks-gas-iran-hormuz.html" rel="standout"></atom:link>
-      <description>Fresh data showed that the number of ships moving through the Strait of Hormuz halved on Wednesday amid renewed fighting.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 20:07:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09biz-oil-shipping-markets-kpvc/09biz-oil-shipping-markets-kpvc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Issei Kato/Reuters</media:credit>
     </item>
   </channel>
 </rss>
