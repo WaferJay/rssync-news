@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 13 Jul 2026 11:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 17:25:37 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -394,6 +394,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How much exercise do you need to do in a week?]]></title>
+            <description><![CDATA[Just 150 minutes of exercise a week could help you keep fit and healthy.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c0qyjy9qn25o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c0qyjy9qn25o#8</guid>
+            <pubDate>Mon, 13 Jul 2026 15:39:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b3/live/bc72c870-7eb7-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Ebola vaccine made in UK now ready for trials]]></title>
             <description><![CDATA[A new vaccine to tackle Ebola will now be tested on people.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c3ryg3x1vwgo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -424,14 +432,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cdjk4j1gz2yo#8</guid>
             <pubDate>Fri, 10 Jul 2026 12:04:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80a9/live/bc92cb30-7c54-11f1-b303-b781e40f7a76.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Cycling from Paris to London for Rori]]></title>
-            <description><![CDATA[The cyclists taking part in the Ride for Rori raised £61,000 for the Oxford Hospitals Charity.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cj3gdz1vpmvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cj3gdz1vpmvo#8</guid>
-            <pubDate>Fri, 10 Jul 2026 05:07:03 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7471/live/76475a40-7c33-11f1-9510-1546718f668b.jpg"/>
         </item>
     </channel>
 </rss>

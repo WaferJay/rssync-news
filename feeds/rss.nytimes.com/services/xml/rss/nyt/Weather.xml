@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 15:16:51 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 13:09:31 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:25:40 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 16:59:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Another Heat Wave Brings Unbearable Temperatures to Parts of the U.S.</title>
+      <link>https://www.nytimes.com/2026/07/13/weather/heat-wave-forecast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/weather/heat-wave-forecast.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/weather/heat-wave-forecast.html" rel="standout"></atom:link>
+      <description>Salt Lake City reached its highest temperature ever recorded this weekend.</description>
+      <dc:creator>Nazaneen Ghaffar</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 16:10:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Billings (Mont)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-heat-index-promo/2026-07-13-heat-index-promo-mediumSquareAt3X-v5.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
     <item>
       <title>Heat Waves in Europe Linked to Thousands of Excess Deaths</title>
       <link>https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html</link>
@@ -439,24 +456,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Turkeys</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04hot-chicken-deaths-09-wvzg/04hot-chicken-deaths-09-wvzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Samuel Aranda for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Extreme Heat Hits Europe for the Third Time This Year</title>
-      <link>https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/weather/europe-heat-wave-latest-wildfire.html" rel="standout"></atom:link>
-      <description>It is continent’s third spell of scorching weather since May. Europe is the world’s fastest-warming continent.</description>
-      <dc:creator>Nazaneen Ghaffar and Natan Odenheimer</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 02:56:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v523.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
