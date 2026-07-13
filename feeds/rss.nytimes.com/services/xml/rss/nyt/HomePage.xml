@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 04:04:40 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 04:01:08 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 07:45:16 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 07:35:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/business/oil-shipping-iran-hormuz.html" rel="standout"></atom:link>
       <description>The renewed hostilities posed fresh risks to ships seeking to navigate the Strait of Hormuz.</description>
       <dc:creator>Jason Karaian and Lisa Friedman</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 01:52:32 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 06:46:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html" rel="standout"></atom:link>
       <description>He consistently pushed for the use of U.S. military power overseas. The Washington, D.C., medical examiner said he died of an aortic dissection, a tear in the body’s main artery.</description>
       <dc:creator>Robert Jimison, Zachary Woolfe and Amelia Nierenberg</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 01:21:21 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 07:21:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
@@ -123,12 +123,12 @@
     </item>
     <item>
       <title>Japan Is Building a New Intelligence Agency With Help From the West</title>
-      <link>https://www.nytimes.com/2026/07/13/world/asia/japan-is-building-a-new-intelligence-agency-with-help-from-the-west.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/asia/japan-is-building-a-new-intelligence-agency-with-help-from-the-west.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/world/asia/japan-is-building-a-new-intelligence-agency-with-help-from-the-west.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/world/asia/japan-intelligence-agency.html" rel="standout"></atom:link>
       <description>Facing threats from Russia and China, Prime Minister Sanae Takaichi is breaking with World War II-era limits on security.</description>
       <dc:creator>Javier C. Hernández</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 04:01:08 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 04:37:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World War II (1939-45)</category>
@@ -209,6 +209,23 @@
       <media:description>It would take just a single Republican no vote to deadlock the Senate Judiciary Committee, effectively sinking the confirmation of Todd Blanche, who was elevated to acting attorney general when Pam Bondi was fired in April.</media:description>
     </item>
     <item>
+      <title>Sam Neill, New Zealand Screen Actor and Leading Man, Dies at 78</title>
+      <link>https://www.nytimes.com/2026/07/13/obituaries/sam-neill-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/obituaries/sam-neill-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/obituaries/sam-neill-dead.html" rel="standout"></atom:link>
+      <description>He appeared in more than 150 productions over a five-decade career but was perhaps best known for his star turn in the “Jurassic Park” series.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 06:35:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neill, Sam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jurassic Park (Movie)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/12/world/12obit-neill-001/12obit-neill-001-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jon Kopaloff/Getty Images</media:credit>
+      <media:description>Sam Neill in Los Angeles in 2024.</media:description>
+    </item>
+    <item>
       <title>After Weeks of Silence, McConnell Says He Is Recovering From a Fall</title>
       <link>https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html</guid>
@@ -234,7 +251,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/world/europe/its-the-scent-of-manure-to-most-but-the-smell-of-money-to-them.html" rel="standout"></atom:link>
       <description>The Netherlands has been trying to figure out what to do with manure it can no longer use thanks to environmental rules. Volatile fertilizer costs may help.</description>
       <dc:creator>Jeanna Smialek</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 04:01:08 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 07:19:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Manure</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fertilizer</category>
@@ -287,6 +304,26 @@
       <media:description>Men looking for daily gigs in Kunshan, the heart of China’s manufacturing industry. As the country pivots toward automation, lower-skilled workers are finding fewer steady opportunities.</media:description>
     </item>
     <item>
+      <title>The World Must Not Forget About the Genocide in Sudan</title>
+      <link>https://www.nytimes.com/2026/07/13/opinion/sudan-genocide-atrocities-international.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/opinion/sudan-genocide-atrocities-international.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/opinion/sudan-genocide-atrocities-international.html" rel="standout"></atom:link>
+      <description>The longer the fighting drags on, the greater the chance that regional instability will spread.</description>
+      <dc:creator>The Editorial Board</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 07:15:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sudan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rapid Support Forces (Sudan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sudanese Armed Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13sudan-editorial-fblm/13sudan-editorial-fblm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amr Abdallah Dalsh/Reuters</media:credit>
+    </item>
+    <item>
       <title>The World Is Cutting Ties With America. It’s Already Costing Us.</title>
       <link>https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html</guid>
@@ -308,33 +345,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/11finer-qfgt/11finer-qfgt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Naila Ruechel for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Trump’s Corruption Stains, From Texas to Maine</title>
-      <link>https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html" rel="standout"></atom:link>
-      <description>Something is wrong if vice is all them and virtue is all you.</description>
-      <dc:creator>David French</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 13:15:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Adultery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Christians and Christianity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldwater, Barry M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12french-zlvk/12french-zlvk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Damon Winter/The New York Times</media:credit>
     </item>
   </channel>
 </rss>
