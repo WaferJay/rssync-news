@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 00:14:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 04:06:20 +0000</lastBuildDate>
     <pubDate>Sun, 12 Jul 2026 23:15:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -363,7 +363,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v509.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v514.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -404,21 +404,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06xp-typhoon-tgjf/06xp-typhoon-tgjf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
       <media:description>Strong winds brought by Super Typhoon Bavi hit Guam on Monday.</media:description>
-    </item>
-    <item>
-      <title>NYC and New Jersey Brace for Heavy Rain and Flooding: Latest Forecast</title>
-      <link>https://www.nytimes.com/2026/07/05/weather/new-york-city-rain-forecast.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/05/weather/new-york-city-rain-forecast.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/05/weather/new-york-city-rain-forecast.html" rel="standout"></atom:link>
-      <description>On Monday, parts of New Jersey were underwater, downed trees were blocking roads in Connecticut and there was a flash flood warning in New York City.</description>
-      <dc:creator>Erin McCann, Nazaneen Ghaffar, Hilary Howard and Andy Newman</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 00:29:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/06/weather/2026-07-05-extra-rain-nyc-index-promo/2026-07-05-extra-rain-nyc-index-promo-mediumSquareAt3X-v49.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
