@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 04:03:08 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 02:27:17 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 11:29:55 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 09:02:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -176,6 +176,23 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09SCI-YAGHI-jvfg/09SCI-YAGHI-jvfg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sophie Park for The New York Times</media:credit>
       <media:description>Omar Yaghi shared last year’s Nobel Prize in Chemistry for helping develop frameworks of chemical building blocks with vast internal surface areas, which he named metal-organic frameworks.</media:description>
+    </item>
+    <item>
+      <title>‘We’re Fighting Satan’: The War to Save Bees From a Hornet Invasion</title>
+      <link>https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html" rel="standout"></atom:link>
+      <description>As yellow-legged hornets spread through South Carolina’s Lowcountry region, threatening the local honey crop, a state team of bee defenders is racing to the rescue.</description>
+      <dc:creator>Jack Tamisiea and Sean Rayford</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 09:02:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hornets (Insects)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pest Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <media:content height="1051" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/SCI-CAROLINAHORNETS-stillpromo/SCI-CAROLINAHORNETS-stillpromo-mediumSquareAt3X.jpg" width="1051"></media:content>
+      <media:credit>Sean Rayford for The New York Times</media:credit>
     </item>
     <item>
       <title>Years After He Quit Smoking, a Lung Cancer Scan Saved His Life</title>
@@ -669,24 +686,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-    </item>
-    <item>
-      <title>For Families With Nonspeaking Autistic Children, a Fierce Debate Over Assisted Spelling</title>
-      <link>https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/science/autism-assisted-spelling-nonspeaking.html" rel="standout"></atom:link>
-      <description>Popular communication methods for nonspeaking autistic people have ignited a fierce debate over what counts as evidence of hidden cognitive abilities.</description>
-      <dc:creator>Azeen Ghorayshi</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 23:22:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voice and Speech</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/00sci-spelling-autism-01-promo/00sci-spelling-autism-01-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Moriah Ratner for The New York Times</media:credit>
-      <media:description>Kelly Berg, left, assisted Omer Hashmi, 33, who is a nonspeaker with autism, during a spelling session at the Growing Kids Therapy Center in Herndon, Va.</media:description>
     </item>
   </channel>
 </rss>
