@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 17:25:40 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 16:59:56 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 18:53:51 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 17:50:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -28,7 +28,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-heat-index-promo/2026-07-13-heat-index-promo-mediumSquareAt3X-v5.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-heat-index-promo/2026-07-13-heat-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -134,11 +134,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-china-typhoon-hwtk/12int-china-typhoon-hwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Go Nakamura/Reuters</media:credit>
@@ -437,25 +436,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06met-heat-deaths-01-gpfq/06met-heat-deaths-01-gpfq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Soccer fans sought a cool spot last week at a World Cup match at MetLife Stadium in New Jersey.</media:description>
-    </item>
-    <item>
-      <title>Heat Waves Are Taking a Big Toll on Chickens</title>
-      <link>https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html" rel="standout"></atom:link>
-      <description>The birds are particularly vulnerable to high temperatures, and France’s torrid June took a heavy toll.</description>
-      <dc:creator>Chico Harlan and Léontine Gallois</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 01:44:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chickens</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factory Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poultry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turkeys</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04hot-chicken-deaths-09-wvzg/04hot-chicken-deaths-09-wvzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Samuel Aranda for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 17:22:11 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 17:21:47 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 18:51:26 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 18:49:16 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,8 +41,8 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz" rel="standout"></atom:link>
       <description>After more escalatory rhetoric and attacks, President Trump said the United States was renewing its shipping blockade of Iranian ports, and would charge a 20 percent fee on goods passing through the Strait of Hormuz.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 17:21:47 +0000</pubDate>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13mideast-promo-aK-01/13mideast-header-01-cflt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <pubDate>Mon, 13 Jul 2026 18:49:16 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13trump-145-vbwf/13trump-145-vbwf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
     </item>
     <item>
@@ -109,6 +109,24 @@
       <media:description>Training with an unmanned vehicle, in the Donbas region of eastern Ukraine, in 2025. Battalions of ground robots now conduct thousands of missions every month.&#xA;&#xA;&#xA;</media:description>
     </item>
     <item>
+      <title>Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes</title>
+      <link>https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html" rel="standout"></atom:link>
+      <description>Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.</description>
+      <dc:creator>Jason Horowitz, Carlos Barragán and Lynsey Chutel</dc:creator>
+      <pubDate>Sun, 12 Jul 2026 15:31:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Almeria (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-promo-pjft/12int-spain-fires-promo-pjft-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
+    </item>
+    <item>
       <title>The Netherlands Pushes to Make Manure a Hotter Product</title>
       <link>https://www.nytimes.com/2026/07/13/world/europe/manure-fertilizer-netherlands.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/europe/manure-fertilizer-netherlands.html</guid>
@@ -126,24 +144,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Netherlands</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13int-europe-manure-promo-HP-bax/13int-europe-manure-promo-HP-bax-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Residents of Spanish Towns Caught in Fierce Blazes Recount Harrowing Escapes</title>
-      <link>https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/world/europe/spain-wildfire-almeria-province.html" rel="standout"></atom:link>
-      <description>Many say communication was chaotic and even nonexistent as flames tore through the area, taking 12 lives in one of the deadliest wildfires on record in Spain.</description>
-      <dc:creator>Jason Horowitz, Carlos Barragán and Lynsey Chutel</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 15:31:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Almeria (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-spain-fires-promo-pjft/12int-spain-fires-promo-pjft-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
     </item>
     <item>
       <title>Hard-Liners in Iran Want to Keep Fighting America</title>
@@ -249,7 +249,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/world/middleeast/sheikh-hamad-bin-khalifa-qatar-dead.html" rel="standout"></atom:link>
       <description>Under Sheikh Hamad, the tiny nation of Qatar developed immense natural gas wealth and cultivated influence far beyond its borders.</description>
       <dc:creator>Vivian Nereim</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 18:11:16 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 17:36:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thani, Hamad bin Khalifa al-</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
@@ -292,24 +292,45 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philippines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12int-china-typhoon-hwtk/12int-china-typhoon-hwtk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Go Nakamura/Reuters</media:credit>
       <media:description>The coastal village of Dongsha, in the Zhejiang province of China, was hit by Typhoon Bavi on Sunday.</media:description>
     </item>
     <item>
-      <title>Conflict Over Iranian Planes Imperils Yemen’s Fragile Peace</title>
+      <title>Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides</title>
+      <link>https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html" rel="standout"></atom:link>
+      <description>President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.</description>
+      <dc:creator>Michael Crowley and Edward Wong</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 18:10:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tolls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13DC-TRUMP-STRAIT-gmwq/13DC-TRUMP-STRAIT-gmwq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Ships sailing near the Strait of Hormuz off the eastern coast of the United Arab Emirates at Khor Fakkan on Monday.</media:description>
+    </item>
+    <item>
+      <title>Yemen’s Fragile Peace in Peril as Houthis Accuse Saudi Arabia of Bombing</title>
       <link>https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/13/world/middleeast/yemen-houthis-saudi-arabia-iran-war.html" rel="standout"></atom:link>
-      <description>The Iran-backed Houthi rebels in Yemen accused Saudi Arabia of striking an airport in the Yemeni capital, Sana. The escalation came after a dispute over an Iranian plane that carried Houthi officials to Tehran.</description>
+      <description>The Iran-backed Houthi rebels in Yemen accused Saudi Arabia of striking Yemen’s main international airport in a dispute over an Iranian plane that tried to land in the capital, Sana.</description>
       <dc:creator>Shuaib Almosawa and Vivian Nereim</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 17:21:45 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 18:33:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sana (Yemen)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
@@ -326,7 +347,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/world/europe/macron-defend-blood-ukraine-europe.html" rel="standout"></atom:link>
       <description>France’s president, Emmanuel Macron, spoke before a meeting of more than 25 allies in Paris, in a show of support for Ukraine and against Russia.</description>
       <dc:creator>Mark Landler</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 15:10:32 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 17:57:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
@@ -420,7 +441,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/world/americas/jair-bolsonaro-biopic-son-presidential-campaign.html" rel="standout"></atom:link>
       <description>A Brazilian biopic about Jair Bolsonaro has upended his son Flávio Bolsonaro’s presidential hopes after leaks showed he negotiated money for the film with a disgraced banker.</description>
       <dc:creator>Adam B. Ellick</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 13:25:12 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 18:48:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -514,7 +535,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/13/world/iran-war-us-trump-hormuz/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Eric Schmitt, Jenny Gross, Leo Sands and Richard Pérez-Peña</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 16:05:21 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 18:49:15 +0000</pubDate>
     </item>
     <item>
       <title>Why Young People in China Are Buying Feelings</title>
@@ -536,7 +557,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/deadly-fire-bangkok-thailand.html" rel="standout"></atom:link>
       <description>The fast-moving blaze sent people fleeing toward the bathrooms to hide, officials said. Their bodies were found there, raising questions about safety standards.</description>
       <dc:creator>Kittiphum Sringammuang, Ephrat Livni and Muktita Suhartono</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 11:06:01 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 17:38:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
@@ -553,7 +574,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/us/lindsey-graham-ukraine.html" rel="standout"></atom:link>
       <description>The South Carolina Republican was Ukraine’s most influential champion inside President Trump’s mostly “America First” political orbit.</description>
       <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 12:12:41 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 18:24:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -719,7 +740,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html" rel="standout"></atom:link>
       <description>Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.</description>
       <dc:creator>Jane Bradley, Michael Schwirtz and Adam Goldman</dc:creator>
-      <pubDate>Sun, 12 Jul 2026 12:14:21 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 17:54:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -1189,26 +1210,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-    </item>
-    <item>
-      <title>Man Arrested on Suspicion of Murdering Ann Widdecombe, Former U.K. Politician</title>
-      <link>https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/world/europe/murder-investigation-uk-ann-widdecombe.html" rel="standout"></atom:link>
-      <description>The police said they had arrested a 26-year-old British man after Ann Widdecombe, a 78-year-old former lawmaker, was found dead with serious injuries on Thursday.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 21:23:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Widdecombe, Ann (1947-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Devon (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conservative Party (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brexit Party (Great Britain)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10int-uk-murder-lpwf/10int-uk-murder-lpwf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Matthew Childs/Reuters</media:credit>
-      <media:description>Ann Widdecombe speaking at a council meeting in Southend-on-Sea, England, in 2022.</media:description>
     </item>
   </channel>
 </rss>
