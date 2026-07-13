@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 11:33:39 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 10:32:49 +0000</pubDate>
+    <lastBuildDate>Mon, 13 Jul 2026 15:16:51 +0000</lastBuildDate>
+    <pubDate>Mon, 13 Jul 2026 13:09:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Heat Waves in Europe Linked to Thousands of Excess Deaths</title>
+      <link>https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/world/europe/heat-europe-excess-death-fire.html" rel="standout"></atom:link>
+      <description>While the full toll will take months to calculate, death statistics already look substantial compared with historical averages.</description>
+      <dc:creator>Amelia Nierenberg</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 12:51:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13int-europe-heat-promo-qvtc/13int-europe-heat-promo-qvtc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tom Nicholson/Reuters</media:credit>
+    </item>
     <item>
       <title>When Vital Weather Data Is Needed, Muppets Take Flight</title>
       <link>https://www.nytimes.com/2026/07/13/us/hurricane-hunters-planes-muppets.html</link>
@@ -437,27 +455,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v520.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/2026-europe-heat-tracker-index/2026-europe-heat-tracker-index-mediumSquareAt3X-v523.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Wildfires Force Evacuation of Thousands in Southwest France</title>
-      <link>https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/world/europe/france-wildfires-evacuation.html" rel="standout"></atom:link>
-      <description>The blaze in the Pyrenees, a region bordering Spain, has scorched more than 11,000 acres so far.</description>
-      <dc:creator>Natan Odenheimer</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 20:19:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pyrenees Mountains</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06xp-france1-cmwp/06xp-france1-cmwp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alexandre Dimou/Reuters</media:credit>
-      <media:description>A firefighting jet battling the flames in Ille-sur-Têt, France, on Monday.</media:description>
     </item>
   </channel>
 </rss>
