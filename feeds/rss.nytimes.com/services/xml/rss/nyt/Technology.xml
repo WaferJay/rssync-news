@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 13 Jul 2026 20:32:38 +0000</lastBuildDate>
-    <pubDate>Mon, 13 Jul 2026 19:44:33 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 03:39:00 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 03:34:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -28,6 +28,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/business/13biz-eu-social-ban/13biz-eu-social-ban-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anna Barclay/Getty Images</media:credit>
       <media:description>If the European Union goes through with a new law, it will be by far the biggest effort worldwide to bar children from social media apps.</media:description>
@@ -94,6 +96,25 @@
       <media:description>The preliminary ruling against Meta is the latest effort by the European Commission in Brussels to confront social media companies over some of the ways they hook users. </media:description>
     </item>
     <item>
+      <title>SAN FRANCISCO</title>
+      <link>https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/13/technology/kalshi-openai-chatgpt-world-cup-odds.html" rel="standout"></atom:link>
+      <description>The partnership, a first of its kind for the artificial intelligence company, will use the prediction market’s data to power some search results about the soccer tournament.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 03:34:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13biz-kalshi-openai-kqcj/13biz-kalshi-openai-kqcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Helgas for The New York Times</media:credit>
+      <media:description>Kalshi has struck a partnership with OpenAI tied to the World Cup.</media:description>
+    </item>
+    <item>
       <title>How a Teacher Revived Backyard Baseball</title>
       <link>https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html</guid>
@@ -107,6 +128,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Nineties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Highland Park (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnett, Lindsay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Playground Productions LLC</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13ST-BACKYARD-BASEBALL-portraits-01-lcvj/13ST-BACKYARD-BASEBALL-portraits-01-lcvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Akilah Townsend for The New York Times</media:credit>
       <media:description>“I had blind confidence,” Lindsay Barnett said, describing her mind-set at the start of her quest.</media:description>
@@ -120,17 +145,17 @@
       <dc:creator>Jack Ewing</dc:creator>
       <pubDate>Mon, 13 Jul 2026 15:00:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mercedes-Benz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Savannah (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buc-ee&#39;s Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bojangles of America Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buc-ee&#39;s Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Savannah (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13biz-ev-charging-01-cmzq/13biz-ev-charging-01-cmzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gavin McIntyre for The New York Times</media:credit>
       <media:description>A Bojangles in Savannah, Ga., recently added E.V. charging stations outside the restaurant.</media:description>
