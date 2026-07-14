@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 15:06:04 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 12:39:45 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:39:12 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 15:57:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/us/wildfires-boundary-waters-forest-minnesota.html" rel="standout"></atom:link>
       <description>Several fires in northeastern Minnesota are causing dangerous conditions and smoke in the Boundary Waters Canoe Area, which is used for camping and other outdoor recreation.</description>
       <dc:creator>Bernard Mokam and Erin McCann</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 12:39:45 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 12:39:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -29,10 +29,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26367.jpeg" width="1000"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26369.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -48,7 +48,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-texas-rain-outlook-index-promo/2026-07-13-texas-rain-outlook-index-promo-mediumSquareAt3X-v25.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-texas-rain-outlook-index-promo/2026-07-13-texas-rain-outlook-index-promo-mediumSquareAt3X-v33.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -65,7 +65,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-heat-index-promo/2026-07-13-heat-index-promo-mediumSquareAt3X-v35.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/13/weather/2026-07-13-heat-index-promo/2026-07-13-heat-index-promo-mediumSquareAt3X-v43.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -77,13 +77,17 @@
       <dc:creator>Amelia Nierenberg</dc:creator>
       <pubDate>Mon, 13 Jul 2026 12:51:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13int-europe-heat-promo-qvtc/13int-europe-heat-promo-qvtc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tom Nicholson/Reuters</media:credit>
     </item>

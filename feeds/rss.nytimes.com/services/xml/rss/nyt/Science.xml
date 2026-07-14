@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 15:04:39 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 14:50:57 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:40:05 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 16:26:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,6 +39,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Astronomy (Journal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sugar</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13SCI-SPACE-SUGAR-lpzj/13SCI-SPACE-SUGAR-lpzj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>NASA/JPL-Caltech/S. Stolovy</media:credit>
       <media:description>The galactic center of the Milky Way, captured by the Spitzer Space Telescope in 2006.</media:description>
@@ -180,6 +181,19 @@
       <media:description>The Los Alamos National Laboratory in New Mexico is home to the country’s only active plutonium-handling facility.</media:description>
     </item>
     <item>
+      <title>New Winged Robot Can Fly and Swim Like a Puffin</title>
+      <link>https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html" rel="standout"></atom:link>
+      <description>Inspired by the physical feats of diving birds, researchers have created a robot that can plunge into the water and flap back into the air.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 15:00:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+    </item>
+    <item>
       <title>Roger Worthington Is Suing Over a Heat Wave</title>
       <link>https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html</guid>
@@ -207,20 +221,21 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/climate/trump-national-monuments-utah.html" rel="standout"></atom:link>
       <description>Native American tribes and environmental groups are expected to challenge the move to shrink the Bears Ears and Grand Staircase-Escalante National Monuments.</description>
       <dc:creator>Maxine Joselow</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 23:32:55 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 16:19:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bears Ears National Monument (Utah)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Staircase-Escalante National Monument (Utah)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fossils</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mines and Mining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bears Ears National Monument (Utah)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Staircase-Escalante National Monument (Utah)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paleontology</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/climate/13cli-monuments/13cli-monuments-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Wolfgang Kaehler/LightRocket, via Getty Images</media:credit>
       <media:description>A hiker in the Grand Staircase-Escalante National Monument in Utah.</media:description>
@@ -240,6 +255,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Attention Deficit Hyperactivity Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kenvue Inc</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/science/13tylenol-lawsuits/13tylenol-lawsuits-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kylie Cooper/Reuters</media:credit>
       <media:description>Major medical groups have consistently stressed that Tylenol is the safest option to treat pain or fever during pregnancy.</media:description>
@@ -656,26 +672,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07CLI-FEMA-hktc/07CLI-FEMA-hktc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emily Elconin for The New York Times</media:credit>
       <media:description>Courts have already blocked similar efforts by the administration to withhold funding, saying the Constitution does not grant the executive branch power over elections.</media:description>
-    </item>
-    <item>
-      <title>Nation’s 250th Celebration Fireworks Sent D.C. Air Pollution Spiking</title>
-      <link>https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html" rel="standout"></atom:link>
-      <description>The president promised a record display of some 850,000 pyrotechnics for the country’s 250th birthday. The Park Service warned it could get dirty.</description>
-      <dc:creator>Quinn Glabicki</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 17:41:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clarity Movement</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07cli-fireworks-pollution-02-hkfw/07cli-fireworks-pollution-02-hkfw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>The pollution began dissipating by morning, though it lingered longer in neighborhoods to the north of the city.</media:description>
     </item>
   </channel>
 </rss>

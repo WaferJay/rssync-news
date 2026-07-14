@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 15:01:56 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 14:12:21 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 16:41:13 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 16:17:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,10 +21,15 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html" rel="standout"></atom:link>
       <description>Michigan health officials announced the preliminary findings, but they cautioned that other foods could not be ruled out. The illness has sickened thousands across the United States.</description>
       <dc:creator>Alice Callahan</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 04:30:59 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 04:31:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salads</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/WELL-CYCLOSPORA-LETTUCE-fqgl/WELL-CYCLOSPORA-LETTUCE-fqgl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brandon Bell/Getty Images</media:credit>
       <media:description>Health officials in Michigan said in a statement that lettuce or salad greens could be a potential source of the recent outbreak of cyclosporiasis.</media:description>
@@ -58,6 +63,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Attention Deficit Hyperactivity Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kenvue Inc</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/science/13tylenol-lawsuits/13tylenol-lawsuits-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kylie Cooper/Reuters</media:credit>
       <media:description>Major medical groups have consistently stressed that Tylenol is the safest option to treat pain or fever during pregnancy.</media:description>
