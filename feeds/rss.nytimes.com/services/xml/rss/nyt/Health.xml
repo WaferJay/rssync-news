@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 18:32:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 20:32:27 +0000</lastBuildDate>
     <pubDate>Tue, 14 Jul 2026 17:16:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
@@ -158,6 +158,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Leonard Abramson, Health Care Innovator and Philanthropist, Dies at 93</title>
+      <link>https://www.nytimes.com/2026/07/14/health/leonard-abramson-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/health/leonard-abramson-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/health/leonard-abramson-dead.html" rel="standout"></atom:link>
+      <description>He created U.S. Healthcare, one of the first H.M.O.s, and used his great wealth from the sale of the company for causes like advancing cancer research.</description>
+      <dc:creator>Richard Sandomir</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 16:42:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Abramson, Leonard and Madlyn, Familly Cancer Research Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aetna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">US Healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abramson, Leonard</category>
     </item>
     <item>
       <title>U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo</title>
@@ -369,22 +386,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/dc-trump-guns-bmpq/dc-trump-guns-bmpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang for The New York Times</media:credit>
       <media:description>Senator Christopher S. Murphy of Connecticut has pushed to make the White House Office of Gun Violence Prevention permanent after President Trump shuttered the office, which originated under former President Joseph R. Biden Jr.</media:description>
-    </item>
-    <item>
-      <title>Efforts to Help Smokers Quit Stall Under Trump</title>
-      <link>https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/us/trump-anti-smoking-cuts.html" rel="standout"></atom:link>
-      <description>The C.D.C.’s tobacco control office has been shut for more than a year. After its most prominent antismoking campaign went off the air, calls to 1-800-QUIT-NOW lines have plummeted.</description>
-      <dc:creator>Christina Jewett</dc:creator>
-      <pubDate>Mon, 06 Jul 2026 15:22:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
     </item>
   </channel>
 </rss>
