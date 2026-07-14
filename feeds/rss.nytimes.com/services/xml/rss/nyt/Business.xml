@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 20:32:33 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 20:06:28 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:24:09 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 21:15:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -50,6 +50,24 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/dc-trump-korea-1-pjzh/dc-trump-korea-1-pjzh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross for The New York Times</media:credit>
       <media:description>President Trump maintains personal financial ties with nearly 30 different business ventures with counterparties worldwide.</media:description>
+    </item>
+    <item>
+      <title>Warren Buffet Declines to Donate to Gates Foundation Amid Epstein Revelations</title>
+      <link>https://www.nytimes.com/2026/07/14/business/media/warren-buffett-gates-foundation-gift.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/business/media/warren-buffett-gates-foundation-gift.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/business/media/warren-buffett-gates-foundation-gift.html" rel="standout"></atom:link>
+      <description>The decision by the Berkshire Hathaway founder comes in the wake of Epstein revelations that have troubled the Gates Foundation.</description>
+      <dc:creator>Theodore Schleifer</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 17:17:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Berkshire Hathaway Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gates, Bill and Melinda, Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Buffett, Warren E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14Biz-Gates-Buffett-cqkt/14Biz-Gates-Buffett-cqkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <media:description>Warren Buffett at Berkshire Hathaway annual shareholders’ meeting last year.</media:description>
     </item>
     <item>
       <title>White House Cheers Inflation Data While Iran War Sparks New Price Surge</title>
@@ -141,17 +159,18 @@
       <atom:link href="https://www.nytimes.com/2026/07/14/business/dealbook/chai-discovery-ai-drug-development.html" rel="standout"></atom:link>
       <description>The fund-raising values the company at $3.8 billion and underscores investor interest in using artificial intelligence to tackle problems like drug discovery.</description>
       <dc:creator>Michael J. de la Merced</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 14:24:14 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 14:24:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chai Discovery Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eli Lilly and Company</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Index Ventures LLP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kleiner Perkins Caufield &amp; Byers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novartis AG</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sequoia Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chai Discovery</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/business/14db-chai-discovery/14db-chai-discovery-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Winni Wintermeyer for Emerson Collective</media:credit>
       <media:description>The A.I. drug discovery start-up Chai Discovery was founded by, from left, Matthew McPartlon, Joshua Meier, Jacques Boitreaud and Jack Dent.</media:description>
@@ -163,7 +182,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/14/business/jpmorgan-goldman-bofa-wells-fargo-bank-earnings.html" rel="standout"></atom:link>
       <description>The quarterly results reflect the dichotomy between geopolitical uncertainty and the stable American economy.</description>
       <dc:creator>Rob Copeland and Stacy Cowley</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 19:41:35 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 21:15:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14biz-bank-earnings2-cbjp/14biz-bank-earnings2-cbjp-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -506,7 +525,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/travel/new-roller-coasters-six-flags-universal-legoland.html" rel="standout"></atom:link>
       <description>Let the adrenaline flow on coasters that will shoot you high in the air, spin you around and turn you upside down. You’ll definitely want a second ride.</description>
       <dc:creator>Mekado Murphy</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 09:00:53 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 21:07:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Roller Coasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Amusement and Theme Parks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
@@ -999,23 +1018,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10biz-eu-meta-jzgc/10biz-eu-meta-jzgc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dia Takacsova for The New York Times</media:credit>
       <media:description>The preliminary ruling against Meta is the latest effort by the European Commission in Brussels to confront social media companies over some of the ways they hook users. </media:description>
-    </item>
-    <item>
-      <title>You’re Freezing in Your Office Building. Here’s Why.</title>
-      <link>https://www.nytimes.com/2026/07/10/business/cold-offices-air-conditioning.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/business/cold-offices-air-conditioning.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/business/cold-offices-air-conditioning.html" rel="standout"></atom:link>
-      <description>Office temperatures are typically set in the low 70s during summer. But where you sit and the efficiency of the cooling system can make you feel colder.</description>
-      <dc:creator>Aruni Soni</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 17:40:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating, Ventilation and Cooling (HVAC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temperature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <media:content height="1536" medium="image" url="https://static01.nyt.com/images/2026/07/11/business/11biz-cold-office-B1/00cold-office-mediumSquareAt3X.jpg" width="1536"></media:content>
-      <media:credit>Paul Windle</media:credit>
     </item>
   </channel>
 </rss>

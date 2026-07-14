@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 20:31:00 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 20:03:03 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 22:24:59 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 22:20:38 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Man in Florida Fatally Hit by Truck While Fleeing ICE, Official Says</title>
+      <link>https://www.nytimes.com/2026/07/14/us/florida-ice-death-immigration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/us/florida-ice-death-immigration.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/us/florida-ice-death-immigration.html" rel="standout"></atom:link>
+      <description>Details were unclear on Tuesday about what exactly happened at a gas station in St. Augustine before the man was killed.</description>
+      <dc:creator>David Ovalle and Hamed Aleaziz</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 22:12:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wawa Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Augustine (Fla)</category>
+    </item>
     <item>
       <title>Trump Paid $2 Million by South Korean Company Facing Trade Investigation</title>
       <link>https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html</link>
@@ -33,6 +50,30 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/dc-trump-korea-1-pjzh/dc-trump-korea-1-pjzh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross for The New York Times</media:credit>
       <media:description>President Trump maintains personal financial ties with nearly 30 different business ventures with counterparties worldwide.</media:description>
+    </item>
+    <item>
+      <title>ICE Ordered to Cease Most Vehicle Stops After Fatal Shootings in Maine and Houston</title>
+      <link>https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html" rel="standout"></atom:link>
+      <description>Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.</description>
+      <dc:creator>Madeleine Ngo, Hamed Aleaziz and Zolan Kanno-Youngs</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 22:20:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araujo, Lorenzo Salgado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14nat-ice-trafficstops-qght/14nat-ice-trafficstops-qght-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Meridith Kohut for The New York Times</media:credit>
+      <media:description>A memorial for a Mexican immigrant, Lorenzo Salgado Araujo, at the spot where he was shot by an ICE agent in Houston.</media:description>
     </item>
     <item>
       <title>Security threats led the Supreme Court to shut its front doors 16 years ago.</title>
@@ -275,7 +316,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26376.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26380.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -379,77 +420,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13nat-houston-shoot-1-lgtf/13nat-houston-shoot-1-lgtf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Meridith Kohut for The New York Times</media:credit>
       <media:description>Family members embracing next to a makeshift memorial for Lorenzo Salgado Araujo at the location where he was shot by an ICE agent in Houston.</media:description>
-    </item>
-    <item>
-      <title>Helicopter Pilot Dies While Fighting Wildfire in Western Colorado</title>
-      <link>https://www.nytimes.com/2026/07/13/us/colorado-wildfire-pilot-dead-crash.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/colorado-wildfire-pilot-dead-crash.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/colorado-wildfire-pilot-dead-crash.html" rel="standout"></atom:link>
-      <description>The pilot was the only person onboard when his helicopter crashed into a remote reserve during a firefighting mission.</description>
-      <dc:creator>Alexandra E. Petri</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 22:19:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ouray (Colo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Transportation Safety Board</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gunnison (Colo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13xp-fire-mpkz/13xp-fire-mpkz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael Seamans/The Gazette, via Associated Press</media:credit>
-      <media:description>Late last month, a helicopter helped douse the Gold Mountain fire near Ouray and Ridgway, Colo.</media:description>
-    </item>
-    <item>
-      <title>A Guide to the Uncanny 2026 Midterm Elections, and How We Got Here</title>
-      <link>https://www.nytimes.com/2026/07/13/us/politics/midterms-elections-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/politics/midterms-elections-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/midterms-elections-trump.html" rel="standout"></atom:link>
-      <description>A lot of things have changed in American politics since our writer went on parental leave.</description>
-      <dc:creator>Jess Bidgood</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 21:16:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights Act (1965)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Six</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McMaster, Henry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13pol-on-politics-newsletter-top3-mcbz/13pol-on-politics-newsletter-top3-mcbz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Lindsey Graham’s Death Transforms the Race for His Democratic Challenger</title>
-      <link>https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/annie-andrews-south-carolina-senate.html" rel="standout"></atom:link>
-      <description>Annie Andrews, a pediatrician, has offered condolences to those who loved Mr. Graham while considering the political fallout from his death. Republicans are scrambling to arrange a new primary election.</description>
-      <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 22:11:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andrews, Annie (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13pol-sc-andrews-bcpz/13pol-sc-andrews-bcpz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sean Rayford for The New York Times</media:credit>
-      <media:description>Dr. Annie Andrews, a pediatrician, is the Democratic Senate candidate in South Carolina.</media:description>
     </item>
   </channel>
 </rss>

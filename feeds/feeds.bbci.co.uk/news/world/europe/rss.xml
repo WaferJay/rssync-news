@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world/europe</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 20:33:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 22:26:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/europe/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -175,6 +175,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9b7/live/3b3ee060-7a1e-11f1-8228-eda6b31aeccd.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Wife describes moment husband nearly sucked out of Ryanair plane]]></title>
+            <description><![CDATA[A man was nearly sucked head-first out of a cabin window mid-air on a Ryanair plane.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cd959ygx8g7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cd959ygx8g7o#3</guid>
+            <pubDate>Tue, 14 Jul 2026 20:29:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88b1/live/87b030d0-7fc2-11f1-b976-0b9c15b0ccfc.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: Horses evacuated as fire approaches riding centre near Paris]]></title>
             <description><![CDATA[The Fontainebleau forest blaze, described by officials as of 'exceptional scale', continues to rage for the second day.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c1jy64065ylo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -197,14 +205,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c8r27drk1nxo#3</guid>
             <pubDate>Sun, 12 Jul 2026 09:03:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbc/live/992be8d0-7dcf-11f1-b976-0b9c15b0ccfc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['We escaped Spanish wildfire, but our friends lost their lives']]></title>
-            <description><![CDATA[Hundreds of firefighters in Spain have been battling a deadly wildfire in the south of the country.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c07y357zvl1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c07y357zvl1o#3</guid>
-            <pubDate>Sat, 11 Jul 2026 11:45:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e1/live/765560f0-7d18-11f1-bee8-53ce494e1abc.jpg"/>
         </item>
     </channel>
 </rss>
