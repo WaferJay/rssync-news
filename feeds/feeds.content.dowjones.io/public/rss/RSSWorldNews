@@ -7,12 +7,23 @@
 <link>https://www.wsj.com/world</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Tue, 14 Jul 2026 10:58:02 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 12:41:08 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: World News</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
 <link>https://www.wsj.com/world</link>
 </image>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003729805</guid>
+<title>For Whom the Strait Tolls</title>
+<description>Plus, Lindsey Graham&#x2019;s sister to fill his Senate seat, and how China&#x2019;s Xi Jinping now manages Russia&#x2019;s Vladimir Putin.</description>
+<link>https://www.wsj.com/politics/for-whom-the-strait-tolls-1dceadc0</link>
+<pubDate>Tue, 14 Jul 2026 11:08:00 GMT</pubDate>
+<dc:creator>Damian Paletta</dc:creator>
+<media:content url="https://images.wsj.net/im-59001664" medium="image" type="image/jpeg">
+<media:credit>Reuters</media:credit>
+</media:content>
+</item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003728890</guid>
 <title>He Called Out China&#x2019;s Economy. Then He Went Silent&#x2014;for Good.</title>
@@ -48,11 +59,12 @@
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003730896</guid>
-<title>U.S. Launches New Iran Strikes, as Trump Weighs Attacking Nuclear Site</title>
-<description>The president earlier declared that a blockade on Iranian ports would be reimposed.</description>
+<title>Iran Ramps Up Tanker Attacks After U.S. Strikes</title>
+<description>Iran attacked three tankers overnight, as the U.S. Navy prepared to reimpose a blockade.</description>
 <link>https://www.wsj.com/world/middle-east/u-s-launches-new-iran-strikes-as-trump-weighs-attacking-nuclear-site-156d2109</link>
 <pubDate>Tue, 14 Jul 2026 03:04:00 GMT</pubDate>
 <dc:creator>Alexander Ward</dc:creator>
+<dc:creator>Benoit Faucon</dc:creator>
 <media:content url="https://images.wsj.net/im-54192669" medium="image" type="image/jpeg">
 <media:credit>Aaron Schwartz/Press Pool</media:credit>
 </media:content>
@@ -66,18 +78,6 @@
 <dc:creator>Samantha Pearson</dc:creator>
 <media:content url="https://images.wsj.net/im-22083140" medium="image" type="image/jpeg">
 <media:credit>Maira Erlich</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003715233</guid>
-<title>Putin Was Xi&#x2019;s Role Model. Now He&#x2019;s the Junior Partner.</title>
-<description>Four years of war and economic isolation have reduced the Russian president to a supplicant in a relationship growing more imbalanced.</description>
-<link>https://www.wsj.com/world/x-putin-junior-partner-df611b88</link>
-<pubDate>Tue, 14 Jul 2026 01:06:00 GMT</pubDate>
-<dc:creator>Lingling Wei</dc:creator>
-<dc:creator>Thomas Grove</dc:creator>
-<media:content url="https://images.wsj.net/im-49035476" medium="image" type="image/jpeg">
-<media:credit>Maxim Shemetov/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -489,6 +489,18 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003715233</guid>
+<title>Putin Was Xi&#x2019;s Role Model. Now He&#x2019;s the Junior Partner.</title>
+<description>Four years of war and economic isolation have reduced the Russian president to a supplicant in a relationship growing more imbalanced.</description>
+<link>https://www.wsj.com/world/x-putin-junior-partner-df611b88</link>
+<pubDate>Tue, 14 Jul 2026 01:06:00 GMT</pubDate>
+<dc:creator>Lingling Wei</dc:creator>
+<dc:creator>Thomas Grove</dc:creator>
+<media:content url="https://images.wsj.net/im-49035476" medium="image" type="image/jpeg">
+<media:credit>Maxim Shemetov/Reuters</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003724402</guid>
 <title>The War in Ukraine Is Shifting Against Putin but He Isn&#x2019;t Giving In</title>
 <description>For years, Russia has bet on outlasting Ukraine in a war of attrition. Now, it&#x2019;s finding out that time isn&#x2019;t necessarily on its side.</description>
@@ -533,17 +545,6 @@
 <dc:creator>Yaroslav Trofimov</dc:creator>
 <media:content url="https://images.wsj.net/im-46681203" medium="image" type="image/jpeg">
 <media:credit>Alexey Pavlishak/Reuters</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003681999</guid>
-<title>Russia Pressures Belarus in Bid to Open New Front in Ukraine War</title>
-<description>With Moscow&#x2019;s prospects faltering on the battlefield, the Kremlin is trying to nudge its closest ally off the sidelines.</description>
-<link>https://www.wsj.com/world/russia/russia-pressures-belarus-in-bid-to-open-new-front-in-ukraine-war-8020d37e</link>
-<pubDate>Tue, 23 Jun 2026 19:18:00 GMT</pubDate>
-<dc:creator>Thomas Grove</dc:creator>
-<media:content url="https://images.wsj.net/im-35198363" medium="image" type="image/jpeg">
-<media:credit>Alexander Kazakov/SPUTNIK/KREMLIN POOL/EPA/Shutterstock</media:credit>
 </media:content>
 </item>
 <item>
@@ -769,14 +770,15 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003721625</guid>
-<title>Ukraine&#x2019;s Drones Are Now Reaching Siberia and Imperiling Russian Energy Assets</title>
-<description>The Kremlin&#x2019;s new dilemma is how to protect a much bigger geographic area with limited air-defense capabilities.</description>
-<link>https://www.wsj.com/world/ukraines-drones-are-now-reaching-siberia-and-imperiling-russian-energy-assets-e0d2caa7</link>
-<pubDate>Fri, 10 Jul 2026 00:00:00 GMT</pubDate>
-<dc:creator>Yaroslav Trofimov</dc:creator>
-<media:content url="https://images.wsj.net/im-44354215" medium="image" type="image/jpeg">
-<media:credit>Social Media/UGC/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003729964</guid>
+<title>America&#x2019;s Latest Weapon Against Iran: Sea Drones</title>
+<description>In a U.S. combat first, three unmanned speedboats attacked an Iranian submarine and ship facility.</description>
+<link>https://www.wsj.com/world/middle-east/americas-latest-weapon-against-iran-sea-drones-3d5150e7</link>
+<pubDate>Mon, 13 Jul 2026 18:01:00 GMT</pubDate>
+<dc:creator>Alistair MacDonald</dc:creator>
+<dc:creator>Shelby Holliday</dc:creator>
+<media:content url="https://images.wsj.net/im-49669940" medium="image" type="image/jpeg">
+<media:credit>Saronic</media:credit>
 </media:content>
 </item>
 <item>
