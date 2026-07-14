@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 03:40:14 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 03:35:02 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:30:04 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 04:58:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -34,6 +34,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1184" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13biz-trump-fees-01-lpmb/13biz-trump-fees-01-lpmb-mediumSquareAt3X.jpg" width="1185"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Two vessels off the coast of Oman last month. President Trump did not explain exactly how the 20 percent fee would be calculated.</media:description>
@@ -45,7 +46,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/business/economy/trump-equity-stakes-ai.html" rel="standout"></atom:link>
       <description>Some tech executives are nervous that the administration’s recent scrutiny of artificial intelligence models could be a prelude to a demand for an ownership stake.</description>
       <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 18:18:01 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 18:18:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
@@ -64,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/business/federal-reserve-inflation-data-rates.html" rel="standout"></atom:link>
       <description>Christopher J. Waller, a governor at the Federal Reserve, said he needed to see several months of lower inflation data to feel confident about the outlook.</description>
       <dc:creator>Colby Smith</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 17:52:04 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 17:52:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
@@ -84,7 +85,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/business/paramount-warner-bros-lawsuit.html" rel="standout"></atom:link>
       <description>The lawsuit, filed by California and 11 other states, argues that the deal would harm movie theaters and damage America’s entertainment industry.</description>
       <dc:creator>Benjamin Mullin, David McCabe and Lauren Hirsch</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 18:26:03 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 03:51:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
@@ -153,7 +154,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html" rel="standout"></atom:link>
       <description>Shipping activity in the critical waterway has plunged after Iran attacked a vessel, setting off U.S. strikes. President Trump said he would reinstate a blockade of Iranian ports.</description>
       <dc:creator>Jenny Gross</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 19:27:46 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 19:27:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
@@ -272,8 +273,12 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Automobile Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boyer, Rich (1963- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fain, Shawn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barofsky, Neil M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stellantis NV</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12biz-uaw-1-wbql/12biz-uaw-1-wbql-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evelyn Hockstein/Reuters</media:credit>
       <media:description>Shawn Fain, president of the United Automobile Workers, said on Sunday that he was the victim of “bogus allegations” intended to sway upcoming union elections.</media:description>

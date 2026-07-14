@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 03:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 06:27:27 +0000</lastBuildDate>
     <pubDate>Tue, 14 Jul 2026 02:26:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -32,7 +32,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26351.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26355.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -430,23 +430,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/00Wea-hail-camera-03-fhzq/00Wea-hail-camera-03-fhzq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>At Least 17 Dead in China After Flooding and Tornadoes During Typhoon Maysak</title>
-      <link>https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/world/asia/china-flooding-typhoon-maysak.html" rel="standout"></atom:link>
-      <description>Videos showed inundated roads, farmland and buildings, and floodwaters rushing toward homes, while the region braced for a potential super typhoon this week.</description>
-      <dc:creator>Lily Kuo and Pei-Lin Wu</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 02:59:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07int-china-floods-wvqc/07int-china-floods-wvqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>A flooded riverside near a wharf on the Yongjiang river in Nanning, in China’s southern Guangxi Province, on Monday.</media:description>
     </item>
   </channel>
 </rss>
