@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 16:40:27 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 16:36:54 +0000</pubDate>
+    <lastBuildDate>Tue, 14 Jul 2026 18:34:19 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 18:03:10 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -255,7 +255,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26369.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26373.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -297,6 +297,7 @@
       <dc:creator>Bayliss Wagner</dc:creator>
       <pubDate>Tue, 14 Jul 2026 02:01:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guerrero, Joan Sebastian (d 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Troy D (1968- )</category>
@@ -307,6 +308,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13pol-maine-senate-shooting-fwgv/13pol-maine-senate-shooting-fwgv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>CJ Gunther/Reuters</media:credit>
       <media:description>Protesters in Biddeford, Maine, outside Senator Susan Collins’s office after the fatal shooting of a man by an ICE agent in the city on Monday.</media:description>
@@ -318,7 +322,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html" rel="standout"></atom:link>
       <description>After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.</description>
       <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 15:46:32 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 15:46:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
@@ -363,7 +367,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/us/colorado-wildfire-pilot-dead-crash.html" rel="standout"></atom:link>
       <description>The pilot was the only person onboard when his helicopter crashed into a remote reserve during a firefighting mission.</description>
       <dc:creator>Alexandra E. Petri</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 22:19:05 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 22:19:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ouray (Colo)</category>
@@ -371,6 +375,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Transportation Safety Board</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gunnison (Colo)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13xp-fire-mpkz/13xp-fire-mpkz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael Seamans/The Gazette, via Associated Press</media:credit>
       <media:description>Late last month, a helicopter helped douse the Gold Mountain fire near Ouray and Ridgway, Colo.</media:description>
@@ -485,47 +490,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13trump-news-icc-fqvk/13trump-news-icc-fqvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Demetrius Freeman for The New York Times</media:credit>
       <media:description>Secretary of State Marco Rubio’s attack on the International Criminal Court is unlike any before.</media:description>
-    </item>
-    <item>
-      <title>Trump’s Threat to Impose Fees in the Strait of Hormuz Contradicts His Aides</title>
-      <link>https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/trump-iran-hormuz-fees-vance-rubio.html" rel="standout"></atom:link>
-      <description>President Trump said the United States could collect tolls or fees, despite Vice President JD Vance and Secretary of State Marco Rubio saying no country could do so.</description>
-      <dc:creator>Michael Crowley and Edward Wong</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 20:00:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tolls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vance, J D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13DC-TRUMP-STRAIT-gmwq/13DC-TRUMP-STRAIT-gmwq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Ships sailing near the Strait of Hormuz off the eastern coast of the United Arab Emirates at Khor Fakkan on Monday.</media:description>
-    </item>
-    <item>
-      <title>How Lindsey Graham’s Journey From Trump Critic to Ally Made Him a Power Player</title>
-      <link>https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html" rel="standout"></atom:link>
-      <description>He initially called Donald Trump a “kook” who was “unfit for office,” only to join the new president’s Mar-a-Lago circle. “I’m still in the game,” Mr. Graham once explained of his much-analyzed turnabout.</description>
-      <dc:creator>Peter Baker</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 16:48:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lieberman, Joseph I</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCain, John</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13dc-graham-trump-top-tvqm/13dc-graham-trump-top-tvqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>“There’s no way to get around Trump,” Senator Lindsey Graham said years ago. “He’s the most important figure in the Republican Party now.”</media:description>
     </item>
   </channel>
 </rss>
