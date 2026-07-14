@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Tue, 14 Jul 2026 09:18:34 GMT</lastBuildDate>
+<lastBuildDate>Tue, 14 Jul 2026 10:56:57 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -15,11 +15,33 @@
 </image>
 <item>
 <guid isPermaLink="false">lc-wsj-stock-market-today-bank-earnings-07-14-2026</guid>
-<title>Stock Market Today: Oil Gains as Investors Await Bank Earnings, CPI Report</title>
-<description>Bank of America kicks off wave of reports at 6:45 a.m. ET</description>
+<title>Stock Market Today: JPMorgan, Wells Fargo Post Bumper Profits as Bank Earnings Kick Off</title>
+<description>Oil extends climb, markets away CPI data</description>
 <link>https://www.wsj.com/livecoverage/stock-market-today-bank-earnings-07-14-2026?mod=rss_markets_main</link>
 <pubDate>Tue, 14 Jul 2026 08:08:19 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-925349" medium="image" type="image/jpeg">
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003732047</guid>
+<title>Spending More Might Not Deliver All-Star Investing Returns</title>
+<description>Plus, bank earnings and inflation in the spotlight</description>
+<link>https://www.wsj.com/finance/investing/spending-more-might-not-deliver-all-star-investing-returns-73def6e1?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 10:42:00 GMT</pubDate>
+<dc:creator>Spencer Jakab</dc:creator>
+<media:content url="https://images.wsj.net/im-44576111" medium="image" type="image/jpeg">
+<media:credit>Adam Hunger/Associated Press</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003730242</guid>
+<title>Corporate Bonds Have the Best Yields in Years. They Still Aren&#x2019;t Enough.</title>
+<description>Higher long-term yields might not compensate for the higher risks.</description>
+<link>https://www.wsj.com/finance/investing/corporate-bonds-have-the-best-yields-in-years-they-still-arent-enough-aa391e8b?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 09:30:00 GMT</pubDate>
+<dc:creator>Telis Demos</dc:creator>
+<media:content url="https://images.wsj.net/im-85826124" medium="image" type="image/jpeg">
+<media:credit>Aaron Schwartz/Bloomberg News</media:credit>
 </media:content>
 </item>
 <item>
@@ -66,28 +88,6 @@
 <pubDate>Mon, 13 Jul 2026 20:15:00 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-03575456" medium="image" type="image/jpeg">
 <media:credit>Razieh Poudat/ISNA/Associated Press</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003729293</guid>
-<title>Trump Regulators Seek to Discourage Loans to Undocumented Immigrants</title>
-<description>Guidance from the nation&#x2019;s financial regulators urges banks to consider the risks of offering loans to immigrants not authorized to work in the U.S.</description>
-<link>https://www.wsj.com/finance/regulation/trump-regulators-seek-to-discourage-loans-to-undocumented-immigrants-28f8366a?mod=rss_markets_main</link>
-<pubDate>Mon, 13 Jul 2026 14:15:00 GMT</pubDate>
-<dc:creator>Dylan Tokar</dc:creator>
-<media:content url="https://images.wsj.net/im-39180082" medium="image" type="image/jpeg">
-<media:credit>Cliff Owen/Associated Press</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003729011</guid>
-<title>Media Deals: Great for Bankers, Usually Not for You</title>
-<description>Plus, let&#x2019;s just call it Schr&#xf6;dinger&#x2019;s Strait.</description>
-<link>https://www.wsj.com/finance/stocks/media-deals-great-for-bankers-usually-not-for-you-0dab0920?mod=rss_markets_main</link>
-<pubDate>Mon, 13 Jul 2026 10:41:00 GMT</pubDate>
-<dc:creator>Spencer Jakab</dc:creator>
-<media:content url="https://images.wsj.net/im-69762966" medium="image" type="image/jpeg">
-<media:credit>Dado Ruvic/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -146,6 +146,16 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003732149</guid>
+<title>Financial Services Roundup: Market Talk</title>
+<description>Find insight on DBS Group, DNB Bank, Plus500 and more in the latest Market Talks covering financial services.</description>
+<link>https://www.wsj.com/business/financial-services-roundup-market-talk-95a4b1d1?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 10:51:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-69260416" medium="image" type="image/jpeg">
+<media:credit>Brendan McDermid/Reuters</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003724574</guid>
 <title>Circle Receives Approval to Launch Crypto-Focused Bank</title>
 <description>Circle Internet Group received U.S. regulatory approval to establish a national trust bank, a milestone that sets up the launch of a cryptocurrency-focused bank.</description>
@@ -192,34 +202,42 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003713477</guid>
-<title>JPMorgan, Bank of America and Other Banks Explore a Deal to Shake Up Payments World</title>
-<description>A deal for a card network could allow bigger transaction fees, but some bank executives are worried about backlash.</description>
-<link>https://www.wsj.com/finance/banking/jpmorgan-bank-of-america-and-other-banks-explore-a-deal-to-shake-up-payments-world-9d8639fb?mod=rss_markets_main</link>
-<pubDate>Mon, 06 Jul 2026 23:00:00 GMT</pubDate>
-<dc:creator>Ben Glickman</dc:creator>
-<dc:creator>Gina Heeb</dc:creator>
-<media:content url="https://images.wsj.net/im-77680329" medium="image" type="image/jpeg">
-<media:credit>Bing Guan/Bloomberg News</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003731492</guid>
+<title>U.S. Treasury Yields Rise</title>
+<description>U.S. Treasury yields rose as fresh military escalation in the Middle East pushed oil prices higher, reigniting inflation concerns.</description>
+<link>https://www.wsj.com/finance/jgbs-mixed-may-be-weighed-by-declines-in-u-s-treasurys-a3a67b11?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 10:53:00 GMT</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003732140</guid>
+<title>Basic Materials Roundup: Market Talk</title>
+<description>Find insight on Siam Cement, Forrestania Resources, Liontown Resources and more in the latest Market Talks covering basic materials.</description>
+<link>https://www.wsj.com/business/basic-materials-roundup-market-talk-ec780975?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 10:47:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-33385773" medium="image" type="image/jpeg">
+<media:credit>Alexander Manzyuk/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003732119</guid>
+<title>Health Care Roundup: Market Talk</title>
+<description>Find insight on Evotec, AstraZeneca, Fresenius Helios and more in the latest Market Talks covering health care.</description>
+<link>https://www.wsj.com/business/health-care-roundup-market-talk-e8d34594?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 10:37:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-07626629" medium="image" type="image/jpeg">
+<media:credit>Yves Herman/Reuters</media:credit>
 </media:content>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003732009</guid>
-<title>Oil Back Above $85 a barrel, U.S. Stock Futures Mixed</title>
-<description>Brent crude oil rose back above $85 a barrel for the first time in a month in early European trade following the third straight night of U.S. attacks on Iran, and its renewed blockade on Iranian trade.</description>
+<title>U.S. Stock Futures Lower Ahead of CPI Data</title>
+<description>Stock futures were mostly lower as traders await U.S. consumer price index data and bank earnings.</description>
 <link>https://www.wsj.com/finance/stocks/oil-back-above-85-a-barrel-u-s-stock-futures-mixed-f00a1ee2?mod=rss_markets_main</link>
 <pubDate>Tue, 14 Jul 2026 08:25:00 GMT</pubDate>
 <dc:creator>Dow Jones Newswires Staff</dc:creator>
-<media:content url="https://images.wsj.net/im-07734460" medium="image" type="image/jpeg">
-<media:credit>Handout/US Central Command (CENTCOM)/Agence France-Presse/Getty Images</media:credit>
+<media:content url="https://images.wsj.net/im-06755798" medium="image" type="image/jpeg">
+<media:credit>Michael M. Santiago/Getty Images</media:credit>
 </media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003731492</guid>
-<title>Eurozone Bond Yields Rise; 10-Year Bund Yield Hits Eight-Week High</title>
-<description>Eurozone government bond yields rose, with the 10-year Bund yield hitting an eight-week high, driven by a sharp increase in oil prices.</description>
-<link>https://www.wsj.com/finance/investing/jgbs-mixed-may-be-weighed-by-declines-in-u-s-treasurys-a3a67b11?mod=rss_markets_main</link>
-<pubDate>Tue, 14 Jul 2026 07:09:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003729074</guid>
@@ -232,13 +250,23 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003729869</guid>
-<title>Health Care Roundup: Market Talk</title>
-<description>Gain insight on AstraZeneca, Fresenius Helios and more in the latest Market Talks covering the health care sector.</description>
-<link>https://www.wsj.com/finance/investing/health-care-roundup-market-talk-4222466d?mod=rss_markets_main</link>
-<pubDate>Mon, 13 Jul 2026 20:56:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-43016506" medium="image" type="image/jpeg">
-<media:credit>Arin Yoon/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003732160</guid>
+<title>Auto &amp; Transport Roundup: Market Talk</title>
+<description>Find insight on Delta, JD Logistics, Fraport and more in the latest Market Talks covering auto and transport.</description>
+<link>https://www.wsj.com/business/auto-transport-roundup-market-talk-de4e6bf7?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 10:56:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-88335393" medium="image" type="image/jpeg">
+<media:credit>Albert Gea/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003729252</guid>
+<title>Tech, Media &amp; Telecom Roundup: Market Talk</title>
+<description>Find insight on AT&amp;T, Apple, SK Hynix and more in the latest Market Talks covering technology, media and telecom.</description>
+<link>https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-f34a49f0?mod=rss_markets_main</link>
+<pubDate>Mon, 13 Jul 2026 20:52:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-84254232" medium="image" type="image/jpeg">
+<media:credit>Dado Ruvic/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -253,16 +281,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003729252</guid>
-<title>Tech, Media &amp; Telecom Roundup: Market Talk</title>
-<description>Find insight on AT&amp;T, Apple, SK Hynix and more in the latest Market Talks covering technology, media and telecom.</description>
-<link>https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-f34a49f0?mod=rss_markets_main</link>
-<pubDate>Mon, 13 Jul 2026 20:52:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-84254232" medium="image" type="image/jpeg">
-<media:credit>Dado Ruvic/Reuters</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003728504</guid>
 <title>Gold Falls Below $4,000</title>
 <description>For the second-straight day gold futures have declined, with pressure for the futures contract coming from the sentiment around inflation globally.</description>
@@ -270,37 +288,14 @@
 <pubDate>Mon, 13 Jul 2026 18:31:00 GMT</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003722070</guid>
-<title>There&#x2019;s an IPO Gold Rush&#x2014;and Texas Is Coming for New York</title>
-<description>The state prides itself on its outsize ideas. It is hustling for business and this week bet big with the Texas Stock Exchange.</description>
-<link>https://www.wsj.com/finance/texas-new-stock-exchange-fbf71931?mod=rss_markets_main</link>
-<pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
-<dc:creator>Corrie Driebusch</dc:creator>
-<media:content url="https://images.wsj.net/im-93678166" medium="image" type="image/jpeg">
-<media:credit>Desiree Rios</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003725367</guid>
-<title>U.S. Stock Market Ticks Higher With Memory Chip Maker&#x2019;s Big Debut</title>
-<description>U.S. stocks ended slightly higher after a multibillion-dollar share offering in the semiconductor sector steadied volatility.</description>
-<link>https://www.wsj.com/finance/stocks/u-s-stock-market-ticks-higher-with-memory-chip-makers-big-debut-e3193b33?mod=rss_markets_main</link>
-<pubDate>Fri, 10 Jul 2026 21:20:00 GMT</pubDate>
-<dc:creator>Rob Curran</dc:creator>
-<media:content url="https://images.wsj.net/im-38972988" medium="image" type="image/jpeg">
-<media:credit>Michael M. Santiago/Getty Images</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003726182</guid>
-<title>South Korean Memory Chip Maker&#x2019;s Historic U.S. Debut Jolts Stocks</title>
-<description>Major indexes edged higher on Friday, capping a volatile week.</description>
-<link>https://www.wsj.com/finance/stocks/south-korean-memory-chip-makers-historic-u-s-debut-jolts-stocks-1cc199b2?mod=rss_markets_main</link>
-<pubDate>Fri, 10 Jul 2026 21:02:00 GMT</pubDate>
-<dc:creator>Jiyoung Sohn</dc:creator>
-<dc:creator>Vicky Ge Huang</dc:creator>
-<media:content url="https://images.wsj.net/im-21729925" medium="image" type="image/jpeg">
-<media:credit>Michael Nagle/Bloomberg News</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003729011</guid>
+<title>Media Deals: Great for Bankers, Usually Not for You</title>
+<description>Plus, let&#x2019;s just call it Schr&#xf6;dinger&#x2019;s Strait.</description>
+<link>https://www.wsj.com/finance/stocks/media-deals-great-for-bankers-usually-not-for-you-0dab0920?mod=rss_markets_main</link>
+<pubDate>Mon, 13 Jul 2026 10:41:00 GMT</pubDate>
+<dc:creator>Spencer Jakab</dc:creator>
+<media:content url="https://images.wsj.net/im-69762966" medium="image" type="image/jpeg">
+<media:credit>Dado Ruvic/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -452,6 +447,17 @@
 <pubDate>Thu, 09 Jul 2026 21:48:00 GMT</pubDate>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003729293</guid>
+<title>Trump Regulators Seek to Discourage Loans to Undocumented Immigrants</title>
+<description>Guidance from the nation&#x2019;s financial regulators urges banks to consider the risks of offering loans to immigrants not authorized to work in the U.S.</description>
+<link>https://www.wsj.com/finance/regulation/trump-regulators-seek-to-discourage-loans-to-undocumented-immigrants-28f8366a?mod=rss_markets_main</link>
+<pubDate>Mon, 13 Jul 2026 14:15:00 GMT</pubDate>
+<dc:creator>Dylan Tokar</dc:creator>
+<media:content url="https://images.wsj.net/im-39180082" medium="image" type="image/jpeg">
+<media:credit>Cliff Owen/Associated Press</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003723180</guid>
 <title>How Charles Schwab Turbocharged Trump&#x2019;s Stock-Trading Frenzy</title>
 <description>Boosted by a legal win for the Trumps, a Schwab account went on an automated trading spree.</description>
@@ -501,18 +507,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003679196</guid>
-<title>Nonstop Trading, Loads of Leverage. How &#x2018;Perp Futures&#x2019; Are Shaking Up Wall Street.</title>
-<description>The CFTC&#x2019;s approval of so-called perps has triggered a selloff in U.S. exchanges&#x2019; shares&#x2014;and at least one high-profile lawsuit.</description>
-<link>https://www.wsj.com/finance/commodities-futures/nonstop-trading-loads-of-leverage-how-perp-futures-are-shaking-up-wall-street-59682069?mod=rss_markets_main</link>
-<pubDate>Tue, 23 Jun 2026 01:00:00 GMT</pubDate>
-<dc:creator>Krystal Hur</dc:creator>
-<dc:creator>Vicky Ge Huang</dc:creator>
-<media:content url="https://images.wsj.net/im-72359069" medium="image" type="image/jpeg">
-<media:credit>Clarissa Bonet for The Wall Street Journal</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003725963</guid>
 <title>Kathryn Ruemmler Digs In at Goldman, Complicating Search for Next General Counsel</title>
 <description>The investment bank&#x2019;s lawyer defended her long relationship with Jeffrey Epstein and blamed Goldman executives for leaks.</description>
@@ -558,13 +552,14 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003725621</guid>
-<title>Hynix Soars, Chips Stay Grounded</title>
-<description>Plus, oil retreats again and Delta sales rise</description>
-<link>https://www.wsj.com/finance/stocks/hynix-soars-chips-stay-grounded-68dd99e9?mod=rss_markets_main</link>
-<pubDate>Fri, 10 Jul 2026 20:28:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-93136383" medium="image" type="image/jpeg">
-<media:credit>Kim Hong-Ji/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003722070</guid>
+<title>There&#x2019;s an IPO Gold Rush&#x2014;and Texas Is Coming for New York</title>
+<description>The state prides itself on its outsize ideas. It is hustling for business and this week bet big with the Texas Stock Exchange.</description>
+<link>https://www.wsj.com/finance/texas-new-stock-exchange-fbf71931?mod=rss_markets_main</link>
+<pubDate>Sat, 11 Jul 2026 00:00:00 GMT</pubDate>
+<dc:creator>Corrie Driebusch</dc:creator>
+<media:content url="https://images.wsj.net/im-93678166" medium="image" type="image/jpeg">
+<media:credit>Desiree Rios</media:credit>
 </media:content>
 </item>
 <item>

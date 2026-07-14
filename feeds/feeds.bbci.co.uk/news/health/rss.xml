@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 14 Jul 2026 09:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jul 2026 10:59:24 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[How deadly have the heatwaves in England and Wales been?]]></title>
+            <description><![CDATA[Experts suggest more than 2,700 people may have died from heat-related causes during the heatwaves.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c9929nl2m3go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c9929nl2m3go#0</guid>
+            <pubDate>Tue, 14 Jul 2026 09:38:32 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b1e/live/ffb6c450-7f5d-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
         <item>
             <title><![CDATA[How my period is supercharging my ADHD]]></title>
             <description><![CDATA[A first-of-its-kind study by UK researchers is looking at the link between menstrual cycles and ADHD.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj0gel72mlgo#0</guid>
             <pubDate>Wed, 08 Jul 2026 22:03:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05e0/live/6fd73af0-7a98-11f1-bee8-53ce494e1abc.png"/>
-        </item>
-        <item>
-            <title><![CDATA[MenB vaccine offers men no protection from gonorrhoea, claims major study]]></title>
-            <description><![CDATA[The Meningitis B vaccine does not prevent gonorrhoea infections despite being offered to at-risk men, scientists say. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crel4yyxwd1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crel4yyxwd1o#0</guid>
-            <pubDate>Wed, 08 Jul 2026 21:06:53 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefb/live/ad332400-7ae7-11f1-9a9c-53fd8f110370.jpg"/>
         </item>
         <item>
             <title><![CDATA[We are living fewer years in good health: Is the NHS part of the problem?]]></title>
@@ -394,6 +394,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[How deadly have the heatwaves in England and Wales been?]]></title>
+            <description><![CDATA[Experts suggest more than 2,700 people may have died from heat-related causes during the heatwaves.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c9929nl2m3go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c9929nl2m3go#8</guid>
+            <pubDate>Tue, 14 Jul 2026 09:38:32 GMT</pubDate>
+            <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b1e/live/ffb6c450-7f5d-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Is your period worsening your ADHD symptoms?]]></title>
             <description><![CDATA[A first of its kind study by UK researchers is looking at the link between menstrual cycles and ADHD.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cz9ld8nvz0ko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -402,36 +410,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/202f/live/2c55dc60-7ede-11f1-b976-0b9c15b0ccfc.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Woman's Hour]]></title>
+            <description><![CDATA[We hear about a new study exploring the impact hormones have on women with ADHD.]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/m002yx3c?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m002yx3c#8</guid>
+            <pubDate>Tue, 14 Jul 2026 10:12:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1q1c4.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How much exercise do you need to do in a week?]]></title>
             <description><![CDATA[Just 150 minutes of exercise a week could help you keep fit and healthy.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c0qyjy9qn25o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c0qyjy9qn25o#8</guid>
             <pubDate>Mon, 13 Jul 2026 15:39:49 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47b3/live/bc72c870-7eb7-11f1-926f-c90d1bcfbc84.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Ebola vaccine made in UK now ready for trials]]></title>
-            <description><![CDATA[A new vaccine to tackle Ebola will now be tested on people.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c3ryg3x1vwgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c3ryg3x1vwgo#8</guid>
-            <pubDate>Mon, 13 Jul 2026 08:36:21 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f00/live/6cfca390-7e91-11f1-bee8-53ce494e1abc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Surviving in the wild for suicide awareness]]></title>
-            <description><![CDATA[Kit Birks has walked the entire length of Europe to raise money and awareness for suicie prevention.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/clyek61k4kgo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/clyek61k4kgo#8</guid>
-            <pubDate>Sat, 11 Jul 2026 06:07:00 GMT</pubDate>
-            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45fa/live/96c1e150-7b98-11f1-bee8-53ce494e1abc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Pioneering treatment saves twins in early pregnancy]]></title>
-            <description><![CDATA[Identical twins Nancy and Margo benefitted from the procedure while in the womb as part of a world-first medical trial.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c3ry5xl4qr1o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c3ry5xl4qr1o#8</guid>
-            <pubDate>Fri, 10 Jul 2026 16:04:37 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ca4/live/cf927ad0-7c74-11f1-bee8-53ce494e1abc.jpg"/>
         </item>
     </channel>
 </rss>
