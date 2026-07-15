@@ -7,13 +7,53 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 00:09:19 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 21:09:48 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 03:37:59 +0000</lastBuildDate>
+    <pubDate>Tue, 14 Jul 2026 22:13:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Texas Faces Potentially ‘Catastrophic’ Amounts of Rain</title>
+      <link>https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html" rel="standout"></atom:link>
+      <description>Intense storms overnight dropped heavy rain, and more was falling Tuesday. Forecasters warned about the increasing likelihood of flooding across the state.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 22:13:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadalupe River (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14WEA-Texas-flooding/14WEA-Texas-flooding-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dustin Safranek-Imagn Images</media:credit>
+      <media:description>Rain in Austin, Texas, in April. The city is facing a higher than usual risk of dangerous flash flooding due to an upcoming storm.</media:description>
+    </item>
+    <item>
+      <title>Tornadoes in Maine? A Rare Forecast for Parts of U.S. and Canada</title>
+      <link>https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html" rel="standout"></atom:link>
+      <description>Storms on Tuesday could produce damaging winds, large hail and even tornadoes in areas where they are not common.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 17:47:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environment Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-maine-index-promo/2026-07-14-maine-index-promo-mediumSquareAt3X-v23.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
     <item>
       <title>Wildfires Close Popular National Forest Area in Minnesota</title>
       <link>https://www.nytimes.com/2026/07/13/us/wildfires-boundary-waters-forest-minnesota.html</link>
@@ -32,7 +72,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26384.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26389.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -394,25 +434,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/08xp-marine-heat-01-tpmw/08xp-marine-heat-01-tpmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Carlos Jasso/Agence France-Presse — Getty Images</media:credit>
       <media:description>People diving into the English Channel in Brighton, on the south coast of England, during a heat wave last month.</media:description>
-    </item>
-    <item>
-      <title>Here’s How Much Rain Fell Across the New York Area This Week</title>
-      <link>https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/weather/how-much-rain-fell-new-york-connecticut.html" rel="standout"></atom:link>
-      <description>After a blistering heat wave, a dousing of heavy rain this week caused flooding across the region. Experts said it could have been worse.</description>
-      <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 02:26:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orange County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07WEA-rainfall-new-york-zvtq/07WEA-rainfall-new-york-zvtq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
-      <media:description>Storm damage in Brooklyn on Monday.</media:description>
     </item>
   </channel>
 </rss>
