@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 11:04:35 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 10:48:11 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 15:01:16 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 14:47:58 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -102,7 +102,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html" rel="standout"></atom:link>
       <description>The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 10:48:11 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 14:47:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
@@ -449,30 +449,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1280" medium="image" url="https://static01.nyt.com/images/2026/07/08/business/08-biz-meta-ai-1/08-biz-meta-ai-1-mediumSquareAt3X.jpg" width="1280"></media:content>
       <media:description>Instagram account users were automatically enrolled in Meta’s new feature and were not notified when their accounts were used to generate A.I. images.</media:description>
-    </item>
-    <item>
-      <title>In San Francisco, Some Home Sellers Now Ask for OpenAI or Anthropic Stock</title>
-      <link>https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/technology/san-francisco-home-sales-openai-anthropic-ipo.html" rel="standout"></atom:link>
-      <description>Even before OpenAI and Anthropic go public, they are distorting home sales in the San Francisco Bay Area, as people race to buy and sellers ask for stock instead of cash.</description>
-      <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 18:36:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mill Valley (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Noe Valley (San Francisco, Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sonoma County (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/05/multimedia/HOUSING-IPO-1-01-qjgw/HOUSING-IPO-1-01-qjgw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Cayce Clifford for The New York Times</media:credit>
-      <media:description>San Francisco home sales in May rose 12.2 percent from a year earlier, with the median price of a single-family home climbing to $2.14 million, according to a Homes.com report.</media:description>
     </item>
   </channel>
 </rss>
