@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 20:29:46 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 20:25:28 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:25:24 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 21:29:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/science/archaeology-homer-odyssey-ithaca.html" rel="standout"></atom:link>
       <description>The ruins of a 2,400-year-old complex suggest that, to the Greeks of antiquity, Homer’s protagonist was not just a character in a poem but a figure of genuine devotion.</description>
       <dc:creator>Franz Lidz</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 14:33:03 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 14:33:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Myths and Mythical Creatures</category>
@@ -53,13 +53,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
     </item>
     <item>
+      <title>New Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof</title>
+      <link>https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html" rel="standout"></atom:link>
+      <description>A New Jersey couple helped scientists uncover the makeup of an unusual asteroid after it fell into their bedroom.</description>
+      <dc:creator>Robin George Andrews</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 18:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
+    </item>
+    <item>
       <title>Canada Wildfire Air Pollution and Heat Wave Combo Pose Heightened Health Risks</title>
       <link>https://www.nytimes.com/article/heat-air-pollution-climate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/heat-air-pollution-climate.html</guid>
       <atom:link href="https://www.nytimes.com/article/heat-air-pollution-climate.html" rel="standout"></atom:link>
-      <description>Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health risks.</description>
+      <description>Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health hazards.</description>
       <dc:creator>Claire Brown and Christina Kelso</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 18:05:43 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 21:24:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
@@ -71,20 +85,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15cli-heat-pollution-gltq/15cli-heat-pollution-gltq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Laura Proctor/The Canadian Press, via Associated Press</media:credit>
       <media:description>A hazy street in Toronto as wildfire smoke blanketed the city on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>New Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof</title>
-      <link>https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html" rel="standout"></atom:link>
-      <description>A New Jersey couple helped scientists uncover the makeup of an unusual asteroid after it fell into their bedroom.</description>
-      <dc:creator>Robin George Andrews</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 18:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
     </item>
     <item>
       <title>New Winged Robot Can Fly and Swim Like a Puffin</title>
@@ -108,7 +108,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html" rel="standout"></atom:link>
       <description>Physicists have debated which way a submerged sprinkler sucking in water would spin. Careful experiments provide an answer.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 20:39:53 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 21:22:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
