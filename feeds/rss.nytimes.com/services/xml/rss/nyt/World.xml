@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 14 Jul 2026 23:19:56 +0000</lastBuildDate>
-    <pubDate>Tue, 14 Jul 2026 23:00:45 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 00:10:00 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 00:09:38 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -261,6 +261,8 @@
       <dc:creator>Carlotta Gall and Oleksandr Chubko</dc:creator>
       <pubDate>Mon, 13 Jul 2026 09:02:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlinska, Maria (1988- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
@@ -273,7 +275,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhadan, Serhiy (1974- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Propaganda</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/world/X0int-ukraine-cognitive-warfare-top/X0int-ukraine-cognitive-warfare-top-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Volodymyr Tarasov/Ukrinform, via Sipa USA, via Reuters</media:credit>
@@ -459,7 +460,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Eric Schmitt, Max Bearak, Ravi Mattu and Jenny Gross</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 23:00:45 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 23:40:31 +0000</pubDate>
     </item>
     <item>
       <title>Israel’s Regime-Change Plan for Iran</title>
