@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Wed, 15 Jul 2026 11:04:37 GMT</lastBuildDate>
+<lastBuildDate>Wed, 15 Jul 2026 12:45:13 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -16,11 +16,33 @@
 <item>
 <guid isPermaLink="false">WP-WSJ-0003733040</guid>
 <title>Stock Market Today: Nasdaq Looks to Build on Tuesday Rally</title>
-<description>ASML earnings cheer tech investors; U.S. crude approaches $80 a barrel</description>
+<description>Morgan Stanley earnings beat estimates; U.S. crude approaches $80 a barrel</description>
 <link>https://www.wsj.com/finance/live/stock-market-today-dow-sp-500-nasdaq-07-15-2026-2a3dd235?mod=rss_markets_main</link>
 <pubDate>Tue, 14 Jul 2026 22:01:12 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-925349" medium="image" type="image/jpeg">
 <media:credit>Alexandra Citrin-Safadi/WSJ</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003735014</guid>
+<title>JPMorgan, BlackRock and Goldman to Tokenize Stocks, Treasurys</title>
+<description>Trade processor DTCC is  launching a trial run with Wall Street firms to convert assets into digital tokens.</description>
+<link>https://www.wsj.com/finance/investing/jpmorgan-blackrock-and-goldman-to-tokenize-stocks-treasurys-0a776ba7?mod=rss_markets_main</link>
+<pubDate>Wed, 15 Jul 2026 12:30:00 GMT</pubDate>
+<dc:creator>Vicky Ge Huang</dc:creator>
+<media:content url="https://images.wsj.net/im-15897835" medium="image" type="image/jpeg">
+<media:credit>Marco Bello/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003734727</guid>
+<title>JPMorgan&#x2019;s Latest Defense Move Backs Sub Supplier and Philadelphia Shipbuilding</title>
+<description>As part of the bank&#x2019;s defense initiative, $24 million will go toward a submarine facility and training skilled workers.</description>
+<link>https://www.wsj.com/finance/jpmorgans-latest-defense-move-backs-sub-supplier-and-philadelphia-shipbuilding-05a0183e?mod=rss_markets_main</link>
+<pubDate>Wed, 15 Jul 2026 12:10:00 GMT</pubDate>
+<dc:creator>Marcus Weisgerber</dc:creator>
+<media:content url="https://images.wsj.net/im-04939989" medium="image" type="image/jpeg">
+<media:credit>Carina Johansen/Bloomberg News</media:credit>
 </media:content>
 </item>
 <item>
@@ -64,29 +86,6 @@
 <pubDate>Wed, 15 Jul 2026 01:00:00 GMT</pubDate>
 <dc:creator>Gregory Zuckerman</dc:creator>
 <media:content url="https://images.wsj.net/im-25002259" medium="image" type="image/jpeg">
-<media:credit>Michael Nagle/Bloomberg News</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003734103</guid>
-<title>Why High Credit Card Delinquencies Aren&#x2019;t Showing Up at the Big Banks</title>
-<description>Lenders&#x2019; results contrast with measures that show the highest credit card delinquency rates in 15 years.</description>
-<link>https://www.wsj.com/finance/banking/why-high-credit-card-delinquencies-arent-showing-up-at-the-big-banks-3476c217?mod=rss_markets_main</link>
-<pubDate>Tue, 14 Jul 2026 21:15:00 GMT</pubDate>
-<dc:creator>Elyse Goncalves</dc:creator>
-<dc:creator>Oyin Adedoyin</dc:creator>
-<media:content url="https://images.wsj.net/im-54523603" medium="image" type="image/jpeg">
-<media:credit>Timothy Mulcare for WSJ</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003734037</guid>
-<title>Cooling Inflation, Surging Bank Earnings Power Stocks</title>
-<description>IBM stock suffers its worst day on record.</description>
-<link>https://www.wsj.com/finance/stocks/cooling-inflation-surging-bank-earnings-power-stocks-19f43ffa?mod=rss_markets_main</link>
-<pubDate>Tue, 14 Jul 2026 20:58:00 GMT</pubDate>
-<dc:creator>Hannah Erin Lang</dc:creator>
-<media:content url="https://images.wsj.net/im-73371195" medium="image" type="image/jpeg">
 <media:credit>Michael Nagle/Bloomberg News</media:credit>
 </media:content>
 </item>
@@ -157,6 +156,18 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003734103</guid>
+<title>Why High Credit Card Delinquencies Aren&#x2019;t Showing Up at the Big Banks</title>
+<description>Lenders&#x2019; results contrast with measures that show the highest credit card delinquency rates in 15 years.</description>
+<link>https://www.wsj.com/finance/banking/why-high-credit-card-delinquencies-arent-showing-up-at-the-big-banks-3476c217?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 21:15:00 GMT</pubDate>
+<dc:creator>Elyse Goncalves</dc:creator>
+<dc:creator>Oyin Adedoyin</dc:creator>
+<media:content url="https://images.wsj.net/im-54523603" medium="image" type="image/jpeg">
+<media:credit>Timothy Mulcare for WSJ</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003732149</guid>
 <title>Financial Services Roundup: Market Talk</title>
 <description>Find insight on Bank of America, Goldman Sachs, Citigroup and more in the latest Market Talks covering financial services.</description>
@@ -190,14 +201,23 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003724574</guid>
-<title>Circle Receives Approval to Launch Crypto-Focused Bank</title>
-<description>Circle Internet Group received U.S. regulatory approval to establish a national trust bank, a milestone that sets up the launch of a cryptocurrency-focused bank.</description>
-<link>https://www.wsj.com/finance/currencies/circle-receives-approval-to-launch-crypto-focused-bank-df3a401f?mod=rss_markets_main</link>
-<pubDate>Fri, 10 Jul 2026 13:03:00 GMT</pubDate>
-<dc:creator>Connor Hart</dc:creator>
-<media:content url="https://images.wsj.net/im-60669388" medium="image" type="image/jpeg">
-<media:credit>brendan mcdermid/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003736163</guid>
+<title>Tech, Media &amp; Telecom Roundup: Market Talk</title>
+<description>Find insight on ASML, Ericsson, SK Hynix and more in the latest Market Talks covering technology, media and telecom.</description>
+<link>https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-c825ad1a?mod=rss_markets_main</link>
+<pubDate>Wed, 15 Jul 2026 11:25:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-84254232" medium="image" type="image/jpeg">
+<media:credit>Dado Ruvic/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003736136</guid>
+<title>Financial Services Roundup: Market Talk</title>
+<description>Find insight on DBS Group, TISCO Financial Group, Citigroup and more in the latest Market Talks covering financial services.</description>
+<link>https://www.wsj.com/business/financial-services-roundup-market-talk-c538add0?mod=rss_markets_main</link>
+<pubDate>Wed, 15 Jul 2026 11:20:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-69260416" medium="image" type="image/jpeg">
+<media:credit>Brendan McDermid/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -233,20 +253,14 @@
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003735695</guid>
-<title>U.S. Stock Futures Higher as Inflation Data Boost Sentiment</title>
-<description>U.S. stock futures were largely higher as  lower-than-expected inflation data lifted investor confidence that the Federal Reserve won&#x2019;t hike rates.</description>
+<title>U.S. Stock Futures Higher as Nasdaq Gains</title>
+<description>U.S. stock futures were higher, led by Nasdaq with semiconductor equipment maker Applied Materials among the biggest gainers.</description>
 <link>https://www.wsj.com/finance/stocks/u-s-futures-higher-as-inflation-print-boosts-sentiment-b124ad8b?mod=rss_markets_main</link>
-<pubDate>Wed, 15 Jul 2026 08:26:00 GMT</pubDate>
+<pubDate>Wed, 15 Jul 2026 11:11:00 GMT</pubDate>
+<dc:creator>Caitlin McCabe</dc:creator>
 <media:content url="https://images.wsj.net/im-43403622" medium="image" type="image/jpeg">
 <media:credit>Brendan Mcdermid/Reuters</media:credit>
 </media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003734992</guid>
-<title>Eurozone Government Bond Yields Rise, Tracking U.S. Treasury Yields</title>
-<description>Eurozone government bond yields rose. Yields were rising on advancing oil prices, although Tuesday&#x2019;s below-forecast U.S. inflation data have pulled U.S. and European 10-year yields away from eight-week highs.</description>
-<link>https://www.wsj.com/finance/investing/jgbs-mixed-may-track-gains-in-u-s-treasurys-9ca01870?mod=rss_markets_main</link>
-<pubDate>Wed, 15 Jul 2026 07:08:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003735301</guid>
@@ -270,34 +284,22 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003734037</guid>
+<title>Cooling Inflation, Surging Bank Earnings Power Stocks</title>
+<description>IBM stock suffers its worst day on record.</description>
+<link>https://www.wsj.com/finance/stocks/cooling-inflation-surging-bank-earnings-power-stocks-19f43ffa?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 20:58:00 GMT</pubDate>
+<dc:creator>Hannah Erin Lang</dc:creator>
+<media:content url="https://images.wsj.net/im-73371195" medium="image" type="image/jpeg">
+<media:credit>Michael Nagle/Bloomberg News</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003733695</guid>
 <title>Big Banks&#x2019; Profits Surge in Red-Hot Quarter</title>
 <description>Plus, lower-than-expected inflation prompted traders to sharply pull back their bets on rate hikes.</description>
 <link>https://www.wsj.com/finance/stocks/big-banks-profits-surge-in-red-hot-quarter-944ff257?mod=rss_markets_main</link>
 <pubDate>Tue, 14 Jul 2026 20:08:00 GMT</pubDate>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003732235</guid>
-<title>IBM Suffers Biggest Share Drop in Its History</title>
-<description>IBM shares sank as much as 25% as the company issued a profit warning citing a shift in customer spending from software to AI hardware and memory chips.</description>
-<link>https://www.wsj.com/finance/stocks/ibm-shares-sink-18-on-earnings-warning-d115d564?mod=rss_markets_main</link>
-<pubDate>Tue, 14 Jul 2026 14:52:00 GMT</pubDate>
-<dc:creator>Robb M. Stewart</dc:creator>
-<dc:creator>Robbie Whelan</dc:creator>
-<media:content url="https://images.wsj.net/im-79161699" medium="image" type="image/jpeg">
-<media:credit>Michael Nagle/Bloomberg News</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003732047</guid>
-<title>Spending More Might Not Deliver All-Star Investing Returns</title>
-<description>Plus, bank earnings and inflation in the spotlight</description>
-<link>https://www.wsj.com/finance/investing/spending-more-might-not-deliver-all-star-investing-returns-73def6e1?mod=rss_markets_main</link>
-<pubDate>Tue, 14 Jul 2026 10:42:00 GMT</pubDate>
-<dc:creator>Spencer Jakab</dc:creator>
-<media:content url="https://images.wsj.net/im-44576111" medium="image" type="image/jpeg">
-<media:credit>Adam Hunger/Associated Press</media:credit>
-</media:content>
 </item>
 <item>
 <guid isPermaLink="false">SB10675253333428454670204593294563455066462</guid>
@@ -442,14 +444,14 @@
 <pubDate>Fri, 10 Jul 2026 21:30:00 GMT</pubDate>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003724218</guid>
-<title>Japan Wants GPIF to Boost Domestic Investments</title>
-<description>Signals that the Japanese government wants more investments at home, including from its massive pension fund, lifted local government bonds and the yen.</description>
-<link>https://www.wsj.com/finance/investing/japan-wants-gpif-to-boost-domestic-investments-8599bd37?mod=rss_markets_main</link>
-<pubDate>Fri, 10 Jul 2026 06:32:00 GMT</pubDate>
-<dc:creator>Ronnie Harui</dc:creator>
-<media:content url="https://images.wsj.net/im-55353350" medium="image" type="image/jpeg">
-<media:credit>Issei Kato/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003724574</guid>
+<title>Circle Receives Approval to Launch Crypto-Focused Bank</title>
+<description>Circle Internet Group received U.S. regulatory approval to establish a national trust bank, a milestone that sets up the launch of a cryptocurrency-focused bank.</description>
+<link>https://www.wsj.com/finance/currencies/circle-receives-approval-to-launch-crypto-focused-bank-df3a401f?mod=rss_markets_main</link>
+<pubDate>Fri, 10 Jul 2026 13:03:00 GMT</pubDate>
+<dc:creator>Connor Hart</dc:creator>
+<media:content url="https://images.wsj.net/im-60669388" medium="image" type="image/jpeg">
+<media:credit>brendan mcdermid/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -513,6 +515,29 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003732235</guid>
+<title>IBM Suffers Biggest Share Drop in Its History</title>
+<description>IBM shares sank as much as 25% as the company issued a profit warning citing a shift in customer spending from software to AI hardware and memory chips.</description>
+<link>https://www.wsj.com/finance/stocks/ibm-shares-sink-18-on-earnings-warning-d115d564?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 14:52:00 GMT</pubDate>
+<dc:creator>Robb M. Stewart</dc:creator>
+<dc:creator>Robbie Whelan</dc:creator>
+<media:content url="https://images.wsj.net/im-79161699" medium="image" type="image/jpeg">
+<media:credit>Michael Nagle/Bloomberg News</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003732047</guid>
+<title>Spending More Might Not Deliver All-Star Investing Returns</title>
+<description>Plus, bank earnings and inflation in the spotlight</description>
+<link>https://www.wsj.com/finance/investing/spending-more-might-not-deliver-all-star-investing-returns-73def6e1?mod=rss_markets_main</link>
+<pubDate>Tue, 14 Jul 2026 10:42:00 GMT</pubDate>
+<dc:creator>Spencer Jakab</dc:creator>
+<media:content url="https://images.wsj.net/im-44576111" medium="image" type="image/jpeg">
+<media:credit>Adam Hunger/Associated Press</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003731100</guid>
 <title>Oil Surges Most Since 2020, Reflecting Bet That Strait Won&#x2019;t Go Back to Normal</title>
 <description>The international crude price climbed nearly 10% as President Trump said he would reimpose the U.S. blockade.</description>
@@ -546,27 +571,6 @@
 <dc:creator>Shradha Dinesh</dc:creator>
 <media:content url="https://images.wsj.net/im-79433101" medium="image" type="image/jpeg">
 <media:credit>Frank Hoermann / Sven Simon/Zuma Press</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003730436</guid>
-<title>Oil Jumps as Trump Vows to Renew Iran Blockade</title>
-<description>Plus, Nasdaq slumps as AI doubts spoil SK Hynix&#x2019;s big U.S. debut.</description>
-<link>https://www.wsj.com/finance/stocks/oil-jumps-as-trump-vows-to-renew-iran-blockade-e69830e7?mod=rss_markets_main</link>
-<pubDate>Mon, 13 Jul 2026 20:15:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-03575456" medium="image" type="image/jpeg">
-<media:credit>Razieh Poudat/ISNA/Associated Press</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003729011</guid>
-<title>Media Deals: Great for Bankers, Usually Not for You</title>
-<description>Plus, let&#x2019;s just call it Schr&#xf6;dinger&#x2019;s Strait.</description>
-<link>https://www.wsj.com/finance/stocks/media-deals-great-for-bankers-usually-not-for-you-0dab0920?mod=rss_markets_main</link>
-<pubDate>Mon, 13 Jul 2026 10:41:00 GMT</pubDate>
-<dc:creator>Spencer Jakab</dc:creator>
-<media:content url="https://images.wsj.net/im-69762966" medium="image" type="image/jpeg">
-<media:credit>Dado Ruvic/Reuters</media:credit>
 </media:content>
 </item>
 <item>

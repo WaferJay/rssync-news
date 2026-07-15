@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 11:05:01 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 10:48:11 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:44:23 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 12:31:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Is IBM a Canary in the Tech Coal Mine?</title>
+      <link>https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html" rel="standout"></atom:link>
+      <description>The company tumbled sharply after previewing quarterly results that were disappointing. It’s not good news for software and tech consulting companies.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 12:31:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Business Machines Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ServiceNow</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Accenture Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cognizant Technology Solutions Corporation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15db-ibm-selloff-czvm/15db-ibm-selloff-czvm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Benoit Tessier/Reuters</media:credit>
+      <media:description>A dire earnings preview from IBM’s chief executive, Arvind Krishna, spooked investors yesterday.</media:description>
+    </item>
     <item>
       <title>Oil Prices Tick Higher as U.S. Reinstates Iran Blockade</title>
       <link>https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html</link>
@@ -99,7 +117,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/business/trump-iran-blockade-oil-prices.html" rel="standout"></atom:link>
       <description>The first blockade in April choked off Iranian exports without causing a lasting price surge. Now global oil reserves are lower, and ships face heightened risks.</description>
       <dc:creator>Lisa Friedman and Rebecca F. Elliott</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 08:21:49 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 11:48:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -136,7 +154,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html" rel="standout"></atom:link>
       <description>Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.</description>
       <dc:creator>Alexandra Stevenson and Murphy Zhao</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 06:38:34 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 11:10:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -304,7 +322,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/14/health/leonard-abramson-dead.html" rel="standout"></atom:link>
       <description>He created U.S. Healthcare, one of the first H.M.O.s, and used his great wealth from the sale of the company for causes like advancing cancer research.</description>
       <dc:creator>Richard Sandomir</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 16:42:20 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 11:35:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
@@ -1026,25 +1044,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11DB-DRONE-FACTORY-01-cvpl/11DB-DRONE-FACTORY-01-cvpl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Junker for The New York Times</media:credit>
       <media:description>Helsing SE, which makes autonomous jets and drones, is the most valuable A.I. defense start-up in Europe.</media:description>
-    </item>
-    <item>
-      <title>Trump Accounts Prompt Parents to Start Saving Early for Their Kids</title>
-      <link>https://www.nytimes.com/2026/07/11/business/trump-accounts-investing-kids.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/business/trump-accounts-investing-kids.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/11/business/trump-accounts-investing-kids.html" rel="standout"></atom:link>
-      <description>Between Trump accounts and child-friendly investment platforms, it has become much easier for parents to invest for their children’s future.</description>
-      <dc:creator>Charlotte Cowles</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 19:12:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Savings Accounts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Individual Retirement Accounts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Acorns Advisers LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robinhood Financial LLC</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12Biz-Retiring-Baby-01-cgzm/12Biz-Retiring-Baby-01-cgzm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chase Castor for The New York Times</media:credit>
-      <media:description>Mallory Baska, who owns a financial education services business, is opening a Trump account for her youngest son, who was born in 2025 and qualifies for the $1,000 government seed deposit.</media:description>
     </item>
   </channel>
 </rss>

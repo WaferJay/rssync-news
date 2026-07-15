@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 11:05:41 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 11:03:31 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 12:42:27 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 12:38:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/14/us/politics/us-war-iran-next-phase.html" rel="standout"></atom:link>
       <description>As President Trump resumes his war, the focus is now on the Strait of Hormuz. But it remains unclear how far the U.S. military will go to exert control.</description>
       <dc:creator>Julian E. Barnes, Eric Schmitt and David E. Sanger</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 00:22:55 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 12:08:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
@@ -61,21 +61,6 @@
       <media:description>Israelis gathering near a public shelter in Tel Aviv after a warning of incoming missiles from Iran in March.</media:description>
     </item>
     <item>
-      <title>Oil Prices Tick Higher as U.S. Reinstates Iran Blockade</title>
-      <link>https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/business/oil-prices-stocks-gas.html" rel="standout"></atom:link>
-      <description>The United States reinstated its blockade on Iranian ports in the Strait of Hormuz and shipping slowed to a crawl amid the renewed warfare in the critical waterway.</description>
-      <dc:creator>Katie Robertson</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 10:19:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-    </item>
-    <item>
       <title>Trump Flip-Flops on Strait of Hormuz Plan, and U.S. Cyclospora Outbreak Spreads</title>
       <link>https://www.nytimes.com/2026/07/15/podcasts/the-headlines/trump-trait-of-hormuz-plan-us-cyclospora-outbreak.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/podcasts/the-headlines/trump-trait-of-hormuz-plan-us-cyclospora-outbreak.html</guid>
@@ -93,7 +78,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15theheadlines-hormuz-bfpw/15theheadlines-hormuz-bfpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1699" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15theheadlines-hormuz-bfpw/15theheadlines-hormuz-bfpw-mediumSquareAt3X-v2.jpg" width="1700"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>The Strait of Hormuz carried about one-fifth of the world’s oil before the war, making it one of the most critical shipping lanes.</media:description>
     </item>
@@ -104,7 +90,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/business/china-economy-gdp-growth.html" rel="standout"></atom:link>
       <description>Economic growth of 4.3 percent in the second quarter, versus the same period last year, reflected a broad slump outside of the country’s export-oriented manufacturing might.</description>
       <dc:creator>Alexandra Stevenson and Murphy Zhao</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 06:38:34 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 11:10:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -146,7 +132,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/14/us/joan-sebastian-guerrero-maine-ice-shooting.html" rel="standout"></atom:link>
       <description>The father of Joan Sebastian Guerrero, the man fatally shot by a federal immigration agent on Monday, said his son had been working two jobs to support his wife and daughter.</description>
       <dc:creator>Christina Morales, Jenna Russell and Jacey Fortin</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 22:21:39 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 11:31:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guerrero, Joan Sebastian (d 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
@@ -300,42 +286,13 @@
       <media:description>Todd Blanche, the acting attorney general, last month. As the Justice Department’s No. 2 official, he oversaw the release of the Epstein files.</media:description>
     </item>
     <item>
-      <title>Todd Blanche Faces Crucial Hurdle Ahead of Confirmation as Attorney General</title>
-      <link>https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation-doj.html" rel="standout"></atom:link>
-      <description>Todd Blanche’s nomination is broadly a referendum on President Trump’s vision of the Justice Department as a projection of his power.</description>
-      <dc:creator>Glenn Thrush, Devlin Barrett and Alan Feuer</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 09:03:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Weaponization Fund (Trump v IRS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Storming of the US Capitol (Jan, 2021)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bondi, Pamela J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, James B</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Kathleen M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Jack (Attorney)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15dc-explainer-gwhc/15dc-explainer-gwhc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Demetrius Freeman for The New York Times</media:credit>
-      <media:description>Todd Blanche, the acting attorney general, during a House hearing last month.</media:description>
-    </item>
-    <item>
       <title>Should Epstein’s Friends Be Punished? An Elite Harvard Club Is Torn.</title>
       <link>https://www.nytimes.com/2026/07/15/us/epstein-andrew-farkas-hasty-pudding-harvard.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/us/epstein-andrew-farkas-hasty-pudding-harvard.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/15/us/epstein-andrew-farkas-hasty-pudding-harvard.html" rel="standout"></atom:link>
       <description>At Harvard, students, alumni and professors debate whether a storied campus group should cut ties with one of Jeffrey Epstein’s closest associates, and whether Harvard itself should do the same.</description>
       <dc:creator>Debra Kamin</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 09:00:21 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 09:00:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Organizations, Societies and Clubs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
@@ -410,7 +367,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/nyregion/paramedics-help-save-lives-in-new-york-can-they-afford-to-live-there.html" rel="standout"></atom:link>
       <description>Some of New York City’s emergency medical workers make just $18 an hour. Their boss, Zohran Mamdani, has staked his mayoralty on making New York City more affordable for all.</description>
       <dc:creator>Eliza Shapiro and Vincent Alban</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 07:00:16 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 12:38:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Emergency Medical Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Department (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
@@ -458,13 +415,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stellantis NV</category>
     </item>
     <item>
-      <title>The Senate Should Reject Todd Blanche</title>
+      <title>We’re About to Find Out Whether Republican Senators Can Still Say No</title>
       <link>https://www.nytimes.com/2026/07/15/opinion/todd-blanche-attorney-general-senate-hearing.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/opinion/todd-blanche-attorney-general-senate-hearing.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/15/opinion/todd-blanche-attorney-general-senate-hearing.html" rel="standout"></atom:link>
       <description>Republicans should have the decency, patriotism and self-respect to vote against Mr. Blanche.</description>
       <dc:creator>The Editorial Board</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 09:03:37 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 11:50:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
@@ -487,7 +444,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/opinion/midterm-elections-politicians-trump-new-york.html" rel="standout"></atom:link>
       <description>The midterms are looming. We asked people in New York City’s suburbs how they feel about the state of America.</description>
       <dc:creator>Mara Gay and Emily Holzknecht</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 09:01:34 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 11:54:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -543,23 +500,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
     </item>
     <item>
-      <title>Alzheimer’s Blood Tests Offer New Promise to Diagnose and Predict the Disease</title>
-      <link>https://www.nytimes.com/2026/07/15/well/mind/alzheimers-disease-blood-tests-symptoms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/well/mind/alzheimers-disease-blood-tests-symptoms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/well/mind/alzheimers-disease-blood-tests-symptoms.html" rel="standout"></atom:link>
-      <description>New studies are shedding light on how the tests could eventually transform treatment.</description>
-      <dc:creator>Dana G. Smith and Pam Belluck</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 04:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer&#39;s Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/well/15WELL-ALZ-BLOOD-BIOMARKER-image/15WELL-ALZ-BLOOD-BIOMARKER-image-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Claire Merchlinsky/The New York Times; Photographs via Getty</media:credit>
+      <title>Biden Will Release Memoir Just After the November Midterms</title>
+      <link>https://www.nytimes.com/2026/07/15/us/politics/joe-biden-book-midterms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/us/politics/joe-biden-book-midterms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/us/politics/joe-biden-book-midterms.html" rel="standout"></atom:link>
+      <description>The former president announced that the book, “Promise Me, America,” will come out on Nov. 17, and will cover the tumultuous events of his presidency as well as his re-election bid.</description>
+      <dc:creator>Reid J. Epstein</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 12:19:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidents and Presidency (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Promise Me, America (Book)</category>
+      <media:content height="1781" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15pol-biden-book-tkmv/15pol-biden-book-tkmv-mediumSquareAt3X.jpg" width="1780"></media:content>
+      <media:credit>Little, Brown and Co., via Associated Press</media:credit>
+      <media:description>Former President Joseph R. Biden Jr. said his book would cover topics including how he handled the coronavirus pandemic, the economy, conflicts in Afghanistan, and Ukraine and “restoring our democracy.” </media:description>
     </item>
   </channel>
 </rss>
