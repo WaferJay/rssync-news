@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world/europe</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 15 Jul 2026 12:46:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jul 2026 20:29:32 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/europe/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[French MPs approve assisted dying law with strict rules after years of argument]]></title>
+            <description><![CDATA[The bill would allow assisted dying for terminally ill adults who meet strict criteria.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o#0</guid>
+            <pubDate>Wed, 15 Jul 2026 17:29:26 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Italy's Meloni suffers surprise setback in close vote on electoral reform]]></title>
             <description><![CDATA[The defeat triggered opposition calls for Meloni to resign ahead of next year's general election.]]></description>
@@ -23,20 +31,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aee/live/f5abe350-8039-11f1-86b6-ffbb9ce74513.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Seven Britons among those killed in Spain wildfires]]></title>
-            <description><![CDATA[Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8l87784ngo#0</guid>
-            <pubDate>Wed, 15 Jul 2026 12:21:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc7/live/8d789890-8017-11f1-bee8-53ce494e1abc.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Heatwave prompts Italy's delivery riders to strike for extra rights]]></title>
             <description><![CDATA[Delivery riders in Milan, Bologna and Florence want to protect their health and their wages.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c1dydw0r246o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1dydw0r246o#0</guid>
             <pubDate>Wed, 15 Jul 2026 11:38:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d193/live/da486780-803b-11f1-ad4e-5b151eaf0c69.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Seven Britons among those killed in Spain wildfires]]></title>
+            <description><![CDATA[Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8l87784ngo#0</guid>
+            <pubDate>Wed, 15 Jul 2026 12:21:32 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc7/live/8d789890-8017-11f1-bee8-53ce494e1abc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Six people found dead in lift shaft after fire in central Brussels building]]></title>
@@ -66,7 +74,7 @@
             <title><![CDATA[Hungary parliament votes to remove president from office]]></title>
             <description><![CDATA[Tamás Sulyok was widely seen as a loyalist of former prime minister Viktor Orbán, who lost power in April after 16 years.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cp8r002gdevo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8r002gdevo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cp8r002gdevo#1</guid>
             <pubDate>Mon, 13 Jul 2026 20:39:14 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3314/live/d7e89fb0-7ef5-11f1-bee8-53ce494e1abc.jpg"/>
         </item>
@@ -109,22 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly7epp3jdlo#1</guid>
             <pubDate>Mon, 13 Jul 2026 16:07:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc4a/live/5fe50160-7eb5-11f1-b976-0b9c15b0ccfc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK-Switzerland deal to scrap roaming charges and allow Britons to use e-gates]]></title>
-            <description><![CDATA[The UK signs a new services deal with Switzerland it says will increase exports by £5.2bn annually "in the long run".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c621p9yjz1zo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c621p9yjz1zo#1</guid>
-            <pubDate>Mon, 13 Jul 2026 16:05:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a579/live/e797f600-7ecc-11f1-a521-db2da184cdb6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[German court convicts Iraqi couple of enslaving Yazidi girls ]]></title>
-            <description><![CDATA[The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cg53rp4e2j4o#1</guid>
-            <pubDate>Mon, 13 Jul 2026 11:36:18 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62ef/live/5cd629d0-7eac-11f1-a302-011524d23ac9.jpg"/>
         </item>
         <item>
             <title><![CDATA[A special team beats brilliant individuals - how silky Spain flattened France]]></title>

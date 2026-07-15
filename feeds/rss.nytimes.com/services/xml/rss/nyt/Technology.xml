@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 15 Jul 2026 15:01:16 +0000</lastBuildDate>
-    <pubDate>Wed, 15 Jul 2026 14:47:58 +0000</pubDate>
+    <lastBuildDate>Wed, 15 Jul 2026 20:27:04 +0000</lastBuildDate>
+    <pubDate>Wed, 15 Jul 2026 19:15:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -96,13 +96,33 @@
       <media:description>The preliminary ruling against Meta is the latest effort by the European Commission in Brussels to confront social media companies over some of the ways they hook users. </media:description>
     </item>
     <item>
-      <title>From Twitter to X: 20 Years of Memes, Movements and Hot Takes</title>
+      <title>Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material</title>
+      <link>https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html" rel="standout"></atom:link>
+      <description>The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 18:58:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">iCloud</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15biz-apple-csam-fkvc/15biz-apple-csam-fkvc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>An Apple Store in Manhattan. Regulators are starting to pay attention to concerns that iCloud’s privacy makes it easier to share child sexual abuse material.</media:description>
+    </item>
+    <item>
+      <title>Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes</title>
       <link>https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html" rel="standout"></atom:link>
       <description>The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 14:47:58 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 19:06:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
@@ -122,18 +142,19 @@
       <description>A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.</description>
       <dc:creator>Ivan Penn</dc:creator>
       <pubDate>Wed, 15 Jul 2026 00:39:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Energy Regulatory Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PJM Interconnection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Energy Regulatory Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shapiro, Josh (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mid-Atlantic States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14biz-pjm-rates-sub-vjgq/14biz-pjm-rates-sub-vjgq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Leah Millis/Reuters</media:credit>
       <media:description>Northern Virginia is home to several data centers, including the Digital Realty Data Center in Ashburn.</media:description>
@@ -428,27 +449,6 @@
       <media:content height="1022" medium="image" url="https://static01.nyt.com/images/2026/07/08/technology/personaltech/08BIZ-TECHTIP-TOPART/08BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="1022"></media:content>
       <media:credit>Google; Samsung; Apple</media:credit>
       <media:description>From left, the Google Health, the Samsung Health and Apple’s Health apps offer plenty of tools and features to help you manage your diet, exercise and personal safety.</media:description>
-    </item>
-    <item>
-      <title>How to Prevent Meta From Using Your Instagram Images in A.I.</title>
-      <link>https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/technology/meta-instagram-ai.html" rel="standout"></atom:link>
-      <description>The company’s new A.I. image generator has a surprising twist: It allows people to use images from public Instagram accounts.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 19:52:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1280" medium="image" url="https://static01.nyt.com/images/2026/07/08/business/08-biz-meta-ai-1/08-biz-meta-ai-1-mediumSquareAt3X.jpg" width="1280"></media:content>
-      <media:description>Instagram account users were automatically enrolled in Meta’s new feature and were not notified when their accounts were used to generate A.I. images.</media:description>
     </item>
   </channel>
 </rss>
