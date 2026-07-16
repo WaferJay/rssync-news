@@ -7,13 +7,65 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 21:29:14 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 21:24:02 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 23:15:10 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 22:46:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Watch the Wildfire Smoke Ooze Across North America From Space</title>
+      <link>https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-from-space.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-from-space.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-from-space.html" rel="standout"></atom:link>
+      <description>Satellite imagery shows the wide footprint of the smoke across the continent.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 22:22:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <media:content height="1664" medium="image" url="https://static01.nyt.com/images/2026/07/16/pageoneplus/16nat-smoke-live-close-read-06/16nat-smoke-live-close-read-06-mediumSquareAt3X.png" width="1664"></media:content>
+      <media:credit>NOAA</media:credit>
+    </item>
+    <item>
+      <title>Canada’s Wildfires Are Burning Through the Night</title>
+      <link>https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/world/canada/canada-wildfires-firefighters-heat.html" rel="standout"></atom:link>
+      <description>As overnight temperatures climb across Canada, fires that once spread more slowly after dark are burning around the clock, straining fire crews.</description>
+      <dc:creator>Vjosa Isai and Amy Graff</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 22:08:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thunder Bay (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alberta (Canada)</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16int-canada-firefight-night-kzlt/16int-canada-firefight-night-kzlt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <media:description>The observation deck of the CN Tower on Wednesday evening as wildfire smoke enveloped downtown Toronto.</media:description>
+    </item>
+    <item>
+      <title>Climate Change Contributes to a Smokier World</title>
+      <link>https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-climate-change.html" rel="standout"></atom:link>
+      <description>Higher temperatures and drought conditions are contributing to more intense wildfires and extending the summer fire season in North America.</description>
+      <dc:creator>Quinn Glabicki</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 21:34:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-smoke-live-new-normal-qclf/16nat-smoke-live-new-normal-qclf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nick Hagen for The New York Times</media:credit>
+      <media:description>A stretch of highway in Southeast Michigan under thick smoke on Thursday. </media:description>
+    </item>
     <item>
       <title>Why Does Wildfire Smoke Turn the Sky Orange?</title>
       <link>https://www.nytimes.com/2026/07/16/weather/smoke-sky-orange-red.html</link>
@@ -119,6 +171,20 @@
       <media:description>The Ambassador Bridge connecting Detroit with Windsor, Canada, was obscured by smoke from wildfires in Canada on Thursday.</media:description>
     </item>
     <item>
+      <title>The Sunset Strip Becomes a Gushing River After a Water Main Break</title>
+      <link>https://www.nytimes.com/2026/07/16/us/west-hollywood-water-main-break.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/west-hollywood-water-main-break.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/us/west-hollywood-water-main-break.html" rel="standout"></atom:link>
+      <description>The deluge was so strong that one person was briefly swept away and underground garages were flooded.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 21:16:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Hollywood (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+    </item>
+    <item>
       <title>This City Has Some of the Worst Air in the United States</title>
       <link>https://www.nytimes.com/2026/07/16/weather/toledo-ohio-air-quality-index.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/weather/toledo-ohio-air-quality-index.html</guid>
@@ -152,13 +218,13 @@
       <media:description>The air quality index in Detroit and other Midwest cities hovered above 500 on Thursday.</media:description>
     </item>
     <item>
-      <title>One Dead and Scores Rescued as Flooding Engulfs Central Texas</title>
+      <title>Two Dead and Scores Rescued as Flooding Engulfs Central Texas</title>
       <link>https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html" rel="standout"></atom:link>
       <description>Flooding from relentless rain, which Gov. Greg Abbott said was likely to break records, left a trail of damage in many communities in the Hill Country region.</description>
       <dc:creator>Jacey Fortin, Pooja Salhotra, Edgar Sandoval, Saile Aranda and Judson Jones</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 21:24:02 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 22:46:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -312,7 +378,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Bay (San Francisco, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v67.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v69.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -393,7 +459,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26451.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26454.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -501,7 +567,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/13/nyregion/brooklyn-housing-development-flooding.html" rel="standout"></atom:link>
       <description>A towering apartment development has been approved for the waterfront, even though some residents would have preferred parkland.</description>
       <dc:creator>Hilary Howard</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 10:00:14 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 22:22:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
@@ -523,7 +589,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">McCarren Park (Brooklyn, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Hook (Brooklyn, NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13met-monitor-point-01-fwjq/13met-monitor-point-01-fwjq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/nyregion/19met-monitor-point-01-fwjq/13met-monitor-point-01-fwjq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lexi Parra/The New York Times</media:credit>
       <media:description>This portion of the Brooklyn waterfront is a former oil and gas hub. Much of it still needs to be cleaned up.</media:description>
     </item>
