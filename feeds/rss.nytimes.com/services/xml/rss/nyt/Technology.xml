@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 16:45:32 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 16:38:39 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 18:34:44 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 17:24:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -76,7 +76,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html" rel="standout"></atom:link>
       <description>The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.</description>
       <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 18:58:16 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 18:58:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
@@ -85,6 +85,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">iCloud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wise, Noel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15biz-apple-csam-fkvc/15biz-apple-csam-fkvc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
       <media:description>An Apple Store in Manhattan. Regulators are starting to pay attention to concerns that iCloud’s privacy makes it easier to share child sexual abuse material.</media:description>
@@ -115,7 +118,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html" rel="standout"></atom:link>
       <description>Someone used A.I. to write my biography. Thousands more of those books are polluting Amazon. Who is behind all this drivel?</description>
       <dc:creator>Kashmir Hill</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 16:31:54 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:12:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
@@ -156,7 +159,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html" rel="standout"></atom:link>
       <description>The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 15:07:09 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 17:06:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
@@ -472,24 +475,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/OPENAI-SOL-1-tghz/OPENAI-SOL-1-tghz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>OpenAI also unveiled a new tool on Thursday, called ChatGPT Work, which is powered by GPT-5.6 Sol. </media:description>
-    </item>
-    <item>
-      <title>Meta Launches New A.I. Model as Global Technology Race Heats Up</title>
-      <link>https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/09/technology/meta-muse-spark-artificial-intelligence.html" rel="standout"></atom:link>
-      <description>For the first time, the company will offer a paid version of the service, a departure from its longtime philosophy of giving its A.I. away for free.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 18:11:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Alexandr (Technology Executive)</category>
-      <category domain="">Muse Spark</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09-biz-meta-ai-whbv/09-biz-meta-ai-whbv-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Eric Helgas for The New York Times</media:credit>
-      <media:description>The paid product opens up a new revenue stream for Meta, which is planning to spend tens of billions of dollars on artificial intelligence this year.</media:description>
     </item>
   </channel>
 </rss>
