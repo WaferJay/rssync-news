@@ -7,21 +7,42 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 07:33:28 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 02:33:27 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:22:55 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 10:15:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
     <item>
-      <title>Flash Flood Emergency Is Issued in Texas After Days of Pounding Rain</title>
+      <title>Maps Show Where Wildfire Smoke Will Darken Skies on Thursday</title>
+      <link>https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html" rel="standout"></atom:link>
+      <description>Here’s what to know about the smoke, and when it might end.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 09:03:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16wea-smoke-tpcb/16wea-smoke-tpcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cole Burston/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Smoke gave the sky in Toronto an orange hue on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Dozens Are Rescued as Texas Flash Flood Emergency Widens Amid Pounding Rain</title>
       <link>https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html" rel="standout"></atom:link>
-      <description>Roads became rivers on Wednesday as emergency officials in towns around San Antonio raced to rescue people who were stranded.</description>
-      <dc:creator>Judson Jones and Christine Hauser</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 01:47:57 +0000</pubDate>
+      <description>More than 75 people have been rescued, said Gov. Greg Abbott, who issued a disaster declaration in 59 counties.</description>
+      <dc:creator>Judson Jones, Christine Hauser and Isabella Kwai</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 10:15:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
@@ -95,7 +116,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Bay (San Francisco, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v37.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v43.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -178,7 +199,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26429.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26432.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>

@@ -7,13 +7,49 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 07:31:27 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 07:30:50 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:21:37 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 09:28:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>TSMC Adds $100 Billion to Its U.S. Spending Plan</title>
+      <link>https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/business/tsmc-chips-investment-arizona.html" rel="standout"></atom:link>
+      <description>The pledge from the Taiwanese chip-making giant brought the total commitment to its fast-growing operations in Arizona to $265 billion.</description>
+      <dc:creator>Steve Lohr</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 09:23:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taiwan Semiconductor Manufacturing Company Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16biz-tsmc-spending-promo-gmqw/16biz-tsmc-spending-promo-gmqw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Loren Elliott for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Diesel Prices Hit $5 a Gallon Again, Up 33% Since Start of Iran War</title>
+      <link>https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/business/diesel-prices-us-iran-war.html" rel="standout"></atom:link>
+      <description>U.S. diesel prices first surpassed $5 a gallon in March. Renewed fighting in the Persian Gulf and reduced refinery capacity is once again pushing up prices.</description>
+      <dc:creator>Katie Robertson</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 08:57:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Automobile Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16Biz-Diesel-Five-qcwm/16Biz-Diesel-Five-qcwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brandon Bell/Getty Images</media:credit>
+      <media:description>A driver pumping gas at a gas station, in Austin, Texas, on Friday.</media:description>
+    </item>
     <item>
       <title>India Is Moving Fast to Build A.I. Data Centers. A Coastal City May Pay the Price.</title>
       <link>https://www.nytimes.com/2026/07/16/world/asia/india-ai-data-centers-google.html</link>
@@ -43,13 +79,13 @@
       <media:description>The port city of Visakhapatnam in the state of Andhra Pradesh is rapidly transforming into India’s coastal gateway for global tech infrastructure, fueled by massive A.I. data centers.</media:description>
     </item>
     <item>
-      <title>Europe Wants to Break Free From American and Chinese Technology. But How?</title>
+      <title>Europe Finds It Hard to Break Up With American and Chinese Technology</title>
       <link>https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/16/world/europe/digital-autonomy-ai.html" rel="standout"></atom:link>
       <description>France and Germany want to quit relying on America and China for key technology like artificial intelligence, but they’re having to choose where to do it.</description>
       <dc:creator>Jim Tankersley and Mark Landler</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 04:01:09 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 08:20:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
@@ -1006,45 +1042,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13Biz-Oil-China-kmwp/13Biz-Oil-China-kmwp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>A tanker at a crude oil terminal in Qingdao, China. Typically the world’s largest oil importer, China slashed purchases this spring.</media:description>
-    </item>
-    <item>
-      <title>Strait of Hormuz Ship Traffic Falls to Lowest Point in a Month After Strikes</title>
-      <link>https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/business/strait-hormuz-shipping-traffic-iran-war.html" rel="standout"></atom:link>
-      <description>Shipping activity in the critical waterway has plunged after Iran attacked a vessel, setting off U.S. strikes. President Trump said he would reinstate a blockade of Iranian ports.</description>
-      <dc:creator>Jenny Gross</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 19:27:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-    </item>
-    <item>
-      <title>Wall Street’s Big Week for Earnings and Economic Data</title>
-      <link>https://www.nytimes.com/2026/07/13/business/dealbook/wall-street-earnings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/business/dealbook/wall-street-earnings.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/business/dealbook/wall-street-earnings.html" rel="standout"></atom:link>
-      <description>Earnings season kicks off in earnest on Tuesday with big banks up first. Corporate America faces a high bar to beat investor expectations.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly and Brian O’Keefe</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 12:18:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JPMorgan Chase &amp; Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goldman Sachs Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of America Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wells Fargo &amp; Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citigroup Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13db-nyse-phql/13db-nyse-phql-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael M. Santiago/Getty Images</media:credit>
-      <media:description>Earnings season kicks off as corporate America faces a host of challenges.</media:description>
     </item>
   </channel>
 </rss>
