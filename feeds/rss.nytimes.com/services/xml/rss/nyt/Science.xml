@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 10:19:17 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 07:08:29 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 11:56:28 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 11:38:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -156,6 +156,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14SCI-TERLINGUA-stillpromo-mfwt/14SCI-TERLINGUA-stillpromo-mfwt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emily Elconin for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The F.D.A. Approves a New Pill to Slash Cholesterol Levels</title>
+      <link>https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html" rel="standout"></atom:link>
+      <description>The new pills can lower cholesterol levels far below what can be achieved with statins, clinical trials have shown.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 11:38:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Statins (Cholesterol-Lowering Drugs)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck &amp; Company Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/15/science/15SCI-CHOLESTEROL-PILL/15SCI-CHOLESTEROL-PILL-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Getty Images</media:credit>
+      <media:description>Merck’s cholesterol drug enlicitide, currently an injection prescribed by cardiologists, will be available as a daily pill prescribed by a primary care physician.</media:description>
     </item>
     <item>
       <title>Door-to-Door Search for Grapevines Sold at Costco Begins in California’s Santa Clara County</title>
