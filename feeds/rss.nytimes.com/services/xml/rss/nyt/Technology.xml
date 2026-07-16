@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 20:12:45 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 20:05:30 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 21:28:57 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 20:55:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.</title>
+      <link>https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html" rel="standout"></atom:link>
+      <description>Someone used A.I. to write my biography. Thousands more of those books are polluting Amazon. Who is behind all this drivel?</description>
+      <dc:creator>Kashmir Hill</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 17:12:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16biz-AI-biographies-vpmw/16biz-AI-biographies-vpmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ahmed Gaber for The New York Times</media:credit>
+    </item>
     <item>
       <title>Google Ordered to Give A.I. Rivals More Access on Android Smartphones</title>
       <link>https://www.nytimes.com/2026/07/16/technology/google-android-ai.html</link>
@@ -70,29 +85,6 @@
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
-      <title>Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material</title>
-      <link>https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html" rel="standout"></atom:link>
-      <description>The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.</description>
-      <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 18:58:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">iCloud</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wise, Noel (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15biz-apple-csam-fkvc/15biz-apple-csam-fkvc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>An Apple Store in Manhattan. Regulators are starting to pay attention to concerns that iCloud’s privacy makes it easier to share child sexual abuse material.</media:description>
-    </item>
-    <item>
       <title>White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says</title>
       <link>https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html</guid>
@@ -100,15 +92,14 @@
       <description>A technical assistant to President Trump won around $100,000, according to the prediction market, which flagged the activity to the federal government.</description>
       <dc:creator>Lauren McCarthy</dc:creator>
       <pubDate>Thu, 16 Jul 2026 19:18:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insider Trading</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leavitt, Karoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
       <media:content height="682" medium="image" url="https://static01.nyt.com/images/2026/07/16/business/16biz-teleprompter-kalshi-sub/16biz-teleprompter-kalshi-sub-mediumSquareAt3X.jpg" width="682"></media:content>
       <media:credit>Mark Schiefelbein/Associated Press</media:credit>
       <media:description>Gabriel Perez, a technical assistant to President Trump, before a speech in Miami Beach last year. Kalshi said Mr. Perez had placed wagers on common words that would appear in the president’s speeches.</media:description>
@@ -131,21 +122,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Food Prize</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Syngenta AG</category>
-    </item>
-    <item>
-      <title>Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.</title>
-      <link>https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/technology/ai-slop-books-biography-amazon.html" rel="standout"></atom:link>
-      <description>Someone used A.I. to write my biography. Thousands more of those books are polluting Amazon. Who is behind all this drivel?</description>
-      <dc:creator>Kashmir Hill</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 17:12:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16biz-AI-biographies-vpmw/16biz-AI-biographies-vpmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ahmed Gaber for The New York Times</media:credit>
     </item>
     <item>
       <title>The Quest for ‘Technological Sovereignty’ in Europe (and Why It’s So Hard)</title>
@@ -172,6 +148,30 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11int-Europe-AI-hzbl/11int-Europe-AI-hzbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Thomas Samson</media:credit>
       <media:description>Sébastien Lecornu, the French prime minister, has called for France to increase its independence from American technology firms, announcing plans to replace Zoom with a French-developed version.</media:description>
+    </item>
+    <item>
+      <title>Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material</title>
+      <link>https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html" rel="standout"></atom:link>
+      <description>The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 18:58:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">iCloud</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wise, Noel (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15biz-apple-csam-fkvc/15biz-apple-csam-fkvc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>An Apple Store in Manhattan. Regulators are starting to pay attention to concerns that iCloud’s privacy makes it easier to share child sexual abuse material.</media:description>
     </item>
     <item>
       <title>Twitter Turns 20: Two Decades of Memes, Movements and Hot Takes</title>
@@ -429,25 +429,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/business/09biz-openai-simo/09biz-openai-simo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stuart Isett/Fortune, via Shutterstock</media:credit>
       <media:description>Fidji Simo became OpenAI’s first chief executive of applications in March 2025. </media:description>
-    </item>
-    <item>
-      <title>John Deere Farm Equipment Owners Have Right-to-Repair, F.T.C. Says</title>
-      <link>https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/09/business/john-deere-ftc-right-to-repair.html" rel="standout"></atom:link>
-      <description>A settlement by the company with the Federal Trade Commission will allow farmers and local mechanics to make their own fixes, instead of relying on authorized dealers.</description>
-      <dc:creator>Emmett Lindner</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 21:07:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Deere &amp; Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09xp-johndeere-jbqc/09xp-johndeere-jbqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nick Oxford/Reuters</media:credit>
-      <media:description>Danny Ward disconnects an implement from a John Deere combine during winter wheat harvest near Skedee, Oklahoma, in 2024.</media:description>
     </item>
   </channel>
 </rss>
