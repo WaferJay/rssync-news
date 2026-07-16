@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 11:56:36 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 11:32:02 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 14:28:29 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 14:27:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -19,9 +19,9 @@
       <link>https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html" rel="standout"></atom:link>
-      <description>Here’s what to know about the smoke, and when it might end.</description>
+      <description>Air quality in several cities reached hazardous levels on Thursday morning as smoke was expected to move across North America.</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 09:03:57 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 14:22:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -36,13 +36,13 @@
       <media:description>Smoke gave the sky in Toronto an orange hue on Wednesday.</media:description>
     </item>
     <item>
-      <title>Dozens Are Rescued in Texas Flash Floods as Rain Intensifies</title>
+      <title>Flash Flooding Worsens in Texas After Dozens Are Rescued From Rising Water</title>
       <link>https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html" rel="standout"></atom:link>
-      <description>More than 75 people have been rescued, said Gov. Greg Abbott, who issued a disaster declaration in 59 counties.</description>
+      <description>The Guadalupe River had surged to potentially catastrophic levels, forecasters warned on Thursday.</description>
       <dc:creator>Judson Jones, Christine Hauser and Isabella Kwai</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 11:32:02 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 13:39:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
@@ -116,7 +116,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Bay (San Francisco, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v47.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v51.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -126,12 +126,11 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/weather/heat-dome-wildfire-smoke-minnesota-canada-nyc.html" rel="standout"></atom:link>
       <description>A heat dome is responsible for miserably high temperatures, and it’s also helping to push smoke from wildfires to the east.</description>
       <dc:creator>Judson Jones and Mark Walker</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 02:06:45 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 14:03:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environment Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
@@ -199,7 +198,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26434.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26437.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
