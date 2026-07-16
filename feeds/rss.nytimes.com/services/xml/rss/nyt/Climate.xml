@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 18:35:17 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 18:22:06 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 20:15:30 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 19:35:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html" rel="standout"></atom:link>
       <description>Attribution science is advancing quickly, researchers said. That could support lawsuits seeking damages for severe events worsened by global warming.</description>
       <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 18:22:06 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 19:05:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
@@ -101,6 +101,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Burning Houses to Save Houses</title>
+      <link>https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html" rel="standout"></atom:link>
+      <description>We visited researchers seeking ways to make homes safer. They set a lot of fires.</description>
+      <dc:creator>Mira Rojanasakul</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 19:35:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16cli-newsletter-fire-01-jqbf/16cli-newsletter-fire-01-jqbf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Will Crooks for The New York Times</media:credit>
+      <media:description>A wildfire test at the Insurance Institute for Business &amp; Home Safety lab in Richburg, S.C.</media:description>
     </item>
     <item>
       <title>Mamdani Urges New Yorkers to Stay Indoors Because of Wildfire Smoke</title>
@@ -1107,22 +1124,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/02cli-parks-ruling-tfmp/02cli-parks-ruling-tfmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rachel Wisniewski for The New York Times</media:credit>
       <media:description>The Trump administration dismantled an exhibit about slavery at Independence National Historical Park in Philadelphia in January.</media:description>
-    </item>
-    <item>
-      <title>How Heat Affects the Brain</title>
-      <link>https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/02/climate/how-heat-affects-the-brain.html" rel="standout"></atom:link>
-      <description>A growing body of research has shown that our brains work differently when temperatures spike.</description>
-      <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Thu, 02 Jul 2026 23:21:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/01cli-newsletter-brainhealth-bqtf/01cli-newsletter-brainhealth-bqtf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
-      <media:description>To combat high temperatures, cities are opening cooling centers, repainting dark surfaces and investing in shade.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,44 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 18:33:45 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 18:33:15 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 20:15:29 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 19:43:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Wildfire Smoke Shutters Parks and Shuffles Visitors</title>
+      <link>https://www.nytimes.com/2026/07/16/travel/wildfire-smoke-closing-parks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/travel/wildfire-smoke-closing-parks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/travel/wildfire-smoke-closing-parks.html" rel="standout"></atom:link>
+      <description>Visitors to national parks and other public lands in the Midwest faced closures, unhealthy air quality and recommended limits on outdoor activities.</description>
+      <dc:creator>Gabe Castro-Root</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 19:25:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wilderness Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Isle Royale National Park (Mich)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Niagara Falls (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Niagara Falls (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Voyageurs National Park (Minn)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-smoke-live-parks2-gcqb/16nat-smoke-live-parks2-gcqb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anthony Souffle/Minnesota Star Tribune, via Associated Press</media:credit>
+      <media:description>Willy Vosburgh, the owner of Vosburgh’s Custom Cabin Rentals on Moose Lake, used a tow boat to evacuate Boy Scout members from Boulder, Colo., from the Boundary Waters Canoe Area Wilderness in Ely, Minn., on Tuesday.</media:description>
+    </item>
     <item>
       <title>Wildfires Continue in Ontario as Officials Brace for More Evacuations</title>
       <link>https://www.nytimes.com/2026/07/16/weather/ontario-canada-wildfires.html</link>
@@ -108,8 +139,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html" rel="standout"></atom:link>
       <description>At least one person has died, and emergency workers have rescued scores of people. Gov. Greg Abbott said the rain in the state was likely to break records.</description>
-      <dc:creator>Jacey Fortin, Pooja Salhotra and Edgar Sandoval</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 18:14:06 +0000</pubDate>
+      <dc:creator>Jacey Fortin, Pooja Salhotra, Edgar Sandoval and Saile Aranda</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 19:38:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -125,7 +156,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-texas-flooding-vhpz/16nat-texas-flooding-vhpz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joel Angel Juarez/Associated Press</media:credit>
-      <media:description>The Pedernales River surges in Fredericksburg, Texas.</media:description>
+      <media:description>The Pedernales River surged in Fredericksburg, Texas.</media:description>
     </item>
     <item>
       <title>No Walkies Today: In Chicago, Dogs and Their Humans Suffer Alike</title>
@@ -149,7 +180,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html" rel="standout"></atom:link>
       <description>Attribution science is advancing quickly, researchers said. That could support lawsuits seeking damages for severe events worsened by global warming.</description>
       <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 18:22:06 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 19:05:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
@@ -167,8 +198,9 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/weather/canada-wildfire-smoke-us.html" rel="standout"></atom:link>
       <description>Air quality in several cities reached hazardous levels on Thursday morning as smoke was expected to move across North America.</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 18:10:17 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 18:10:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
@@ -229,6 +261,7 @@
       <dc:creator>Vjosa Isai</dc:creator>
       <pubDate>Wed, 15 Jul 2026 20:58:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
@@ -261,7 +294,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Bay (San Francisco, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v61.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v63.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -342,7 +375,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26445.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26448.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>

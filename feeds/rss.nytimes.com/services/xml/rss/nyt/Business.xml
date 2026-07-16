@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 18:34:19 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 18:20:27 +0000</pubDate>
+    <lastBuildDate>Thu, 16 Jul 2026 20:14:20 +0000</lastBuildDate>
+    <pubDate>Thu, 16 Jul 2026 20:13:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -98,7 +98,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/business/strait-hormuz-iran-war-oil.html" rel="standout"></atom:link>
       <description>Very few ships passed through the waterway on the first full day of the U.S. naval blockade of Iran.</description>
       <dc:creator>Jenny Gross and Katie Robertson</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 13:45:14 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 20:13:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
@@ -290,6 +290,8 @@
       <dc:creator>Michael M. Grynbaum</dc:creator>
       <pubDate>Thu, 16 Jul 2026 01:38:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
@@ -298,11 +300,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patel, Kashyap</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCraw, David E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnes, Julian E</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lipton, Eric</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schmitt, Eric</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/00biz-nytimes-HFO-zktf/00biz-nytimes-HFO-zktf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump boarding the new Air Force One at Joint Base Andrews in Maryland this month.</media:description>
@@ -399,8 +399,8 @@
       <dc:creator>Alan Rappeport</dc:creator>
       <pubDate>Wed, 15 Jul 2026 18:05:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Dollar (Currency)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Mint</category>
@@ -432,7 +432,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/15/business/economy/iran-war-inflation-supply-chains.html" rel="standout"></atom:link>
       <description>Doing business in a more dangerous and unpredictable world will cost more, pushing up the price of everything from food to electronics.</description>
       <dc:creator>Patricia Cohen</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 16:10:13 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 20:11:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
