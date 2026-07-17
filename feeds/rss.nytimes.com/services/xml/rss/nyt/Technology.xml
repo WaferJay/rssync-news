@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 21:08:29 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 21:01:53 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:11:15 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 22:33:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead</title>
+      <link>https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html" rel="standout"></atom:link>
+      <description>China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech companies.</description>
+      <dc:creator>Meaghan Tobin and Cade Metz</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 20:04:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/Biz-China-Moonshot-ckzl/Biz-China-Moonshot-ckzl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Go Nakamura/Reuters</media:credit>
+      <media:description>The Moonshot AI booth at the World Artificial Intelligence Conference on Friday in Shanghai. The company’s Kimi K3 model performed as well at some tasks as the leading models from U.S. firms.</media:description>
+    </item>
     <item>
       <title>Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal</title>
       <link>https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html</link>
@@ -32,20 +49,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17biz-meta-anthropic-qjkb/17biz-meta-anthropic-qjkb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dustin Chambers for The New York Times</media:credit>
       <media:description>A data center owned by Meta in Georgia. A deal with Anthropic could potentially alleviate pressure on Meta from investors, who have questioned how much it has been spending on data centers.</media:description>
-    </item>
-    <item>
-      <title>Xi Jinping of China Pitches ‘Openness’ in Push to Shape the Path of A.I.</title>
-      <link>https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/business/xi-jinping-china-ai.html" rel="standout"></atom:link>
-      <description>Xi Jinping said the development of artificial intelligence systems should be a “symphony of global collaboration.”</description>
-      <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 21:01:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/arts/Xi-cover-image/Xi-cover-image-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Getty Images</media:credit>
     </item>
     <item>
       <title>Someone Used A.I. to Write an Unauthorized Biography of Me. I Don’t Recommend Reading It.</title>
