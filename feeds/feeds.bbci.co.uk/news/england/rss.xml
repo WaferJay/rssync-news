@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/england</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 17 Jul 2026 21:12:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jul 2026 22:09:52 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/england/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -47,6 +47,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b87/live/a9d3cad0-81d6-11f1-a290-5dcfa2e128f8.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Clacton by-election attracts 34 candidates]]></title>
+            <description><![CDATA[The list of people taking on Nigel Farage contains 20 independents and a number of joke candidates.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckge923jk3vo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckge923jk3vo#0</guid>
+            <pubDate>Fri, 17 Jul 2026 21:06:11 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecbe/live/b46e0b20-8219-11f1-aa42-b9fc2513a2eb.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Fraudster jailed over £11.5m scam targeting elderly]]></title>
             <description><![CDATA[Steven Long, 59, is jailed after previously admitting two counts of fraud by abuse of position.]]></description>
             <link>https://www.bbc.co.uk/news/articles/czrjml38vyno?at_medium=RSS&amp;at_campaign=rss</link>
@@ -55,28 +63,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2a/live/63da22c0-820a-11f1-b976-0b9c15b0ccfc.png"/>
         </item>
         <item>
-            <title><![CDATA[Patient who harassed paramedic jailed under new law]]></title>
-            <description><![CDATA[Paramedic Ella Johnson was verbally abused while helping a patient in Shepherd's Bush.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cz72y4e94z8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cz72y4e94z8o#0</guid>
-            <pubDate>Fri, 17 Jul 2026 15:05:25 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c1/live/c593f150-81ef-11f1-b6ff-e9b8db4416d1.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Comedian ditches TV quizzes for grandad's sake]]></title>
             <description><![CDATA[Lucy Beaumont says her poor performance on TV quiz shows is "embarrassing" her grandad.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c0jlwpe984no?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0jlwpe984no#0</guid>
             <pubDate>Fri, 17 Jul 2026 12:53:28 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e59/live/d389f780-81c9-11f1-97b7-87871fc222bc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Train services reduced over issues with new fleet]]></title>
-            <description><![CDATA[East Midlands Railway says there have been issues with a new fleet of Hitachi Rail-manufactured trains.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c330vd1zj27o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c330vd1zj27o#1</guid>
-            <pubDate>Fri, 17 Jul 2026 16:27:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca71/live/15bac960-81e6-11f1-9b73-1d2c7fa8d439.png"/>
         </item>
         <item>
             <title><![CDATA[Detective guilty over keeping murder scene photos]]></title>
@@ -95,13 +87,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2216/live/138f5150-81fb-11f1-a927-670d17f8e943.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Shop loses licence over missing lottery ticket]]></title>
-            <description><![CDATA[A Dudley shop has its licence removed over the theft of a winning ticket.
-]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c70gwwrxr7ko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c70gwwrxr7ko#1</guid>
-            <pubDate>Fri, 17 Jul 2026 13:54:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e965/live/d0ad6d00-81e0-11f1-8b86-31ce3d5ecce7.png"/>
+            <title><![CDATA[Train services reduced over issues with new fleet]]></title>
+            <description><![CDATA[East Midlands Railway says there have been issues with a new fleet of Hitachi Rail-manufactured trains.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c330vd1zj27o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c330vd1zj27o#1</guid>
+            <pubDate>Fri, 17 Jul 2026 16:27:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca71/live/15bac960-81e6-11f1-9b73-1d2c7fa8d439.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Patient who harassed paramedic jailed under new law]]></title>
+            <description><![CDATA[Paramedic Ella Johnson was verbally abused while helping a patient in Shepherd's Bush.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cz72y4e94z8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cz72y4e94z8o#1</guid>
+            <pubDate>Fri, 17 Jul 2026 15:05:25 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a7c1/live/c593f150-81ef-11f1-b6ff-e9b8db4416d1.jpg"/>
         </item>
         <item>
             <title><![CDATA['Finding out I'm related to Toby Jones is crazy']]></title>
@@ -118,22 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39elk49k84o#1</guid>
             <pubDate>Fri, 17 Jul 2026 16:40:19 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edc8/live/56523010-7ea0-11f1-b62f-ff1d7cedfbfe.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Boy attacked by crocodile is smiling again - parents]]></title>
-            <description><![CDATA[The three-year-old's parents say the boy is making progress after seven operations in a month.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c998v0g2v0vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c998v0g2v0vo#1</guid>
-            <pubDate>Fri, 17 Jul 2026 12:14:43 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0200/live/286221a0-81cb-11f1-97b7-87871fc222bc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MP found not guilty of sexually assaulting women]]></title>
-            <description><![CDATA[Patrick Spencer is found not guilty by a jury after a trial at Southwark Crown Court. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c9323zddvwko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9323zddvwko#1</guid>
-            <pubDate>Fri, 17 Jul 2026 16:48:44 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30d9/live/b05a2be0-3003-11f0-8519-3b5a01ebe413.jpg"/>
         </item>
         <item>
             <title><![CDATA[Cow stuck in tunnel under A1 rescued by firefighters]]></title>
@@ -224,20 +207,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/099a/live/6fc66d10-8222-11f1-b966-41edf3b346b4.jpg"/>
         </item>
         <item>
-            <title><![CDATA[DeChambeau receives two-shot penalty in dramatic Open scenes]]></title>
-            <description><![CDATA[Bryson DeChambeau's bid to win The Open takes a hit after he is given a two-shot penalty on a dramatic evening at Royal Birkdale.]]></description>
-            <link>https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/golf/articles/cjd45x7vgz7o#6</guid>
-            <pubDate>Fri, 17 Jul 2026 20:53:05 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"/>
+            <title><![CDATA[Eckersley hat-trick as Wigan sink Huddersfield]]></title>
+            <description><![CDATA[Zach Eckersley's hat-trick helps Wigan Warriors home in a tough battle against Super League's bottom club Huddersfield Giants.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cgmd3d8kmjjo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cgmd3d8kmjjo#6</guid>
+            <pubDate>Fri, 17 Jul 2026 22:03:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dab0/live/d4e89520-8221-11f1-b966-41edf3b346b4.jpg"/>
         </item>
         <item>
-            <title><![CDATA['It hurts' - Saints boss Eckert on Spygate judgement ]]></title>
-            <description><![CDATA[Southampton head coach Tonda Eckert admits it has been "tough to read" judgement on his role in the scandal that saw the club kicked out of the Championship play-offs.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/cgr7yww1n48o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cgr7yww1n48o#6</guid>
-            <pubDate>Fri, 17 Jul 2026 17:36:52 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a462/live/e8ab6090-81e7-11f1-9b73-1d2c7fa8d439.jpg"/>
+            <title><![CDATA[Campbell double sets up St Helens win over Catalans]]></title>
+            <description><![CDATA[Teenager Jack Campbell scores twice on his debut as St Helens get back to winning ways in Super League with victory over Catalans Dragons.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/c5yz1zqz55wo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/c5yz1zqz55wo#6</guid>
+            <pubDate>Fri, 17 Jul 2026 21:30:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc72/live/08c95560-8221-11f1-b966-41edf3b346b4.jpg"/>
         </item>
     </channel>
 </rss>

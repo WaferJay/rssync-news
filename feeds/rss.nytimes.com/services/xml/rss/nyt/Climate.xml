@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 21:08:15 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 20:41:34 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 22:05:55 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 21:28:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -80,7 +80,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/climate/trump-wildfire-smoke-health-epa-forest-service.html" rel="standout"></atom:link>
       <description>Labs at the Environmental Protection Agency and the Forest Service have analyzed the effects of wildfires. The administration wants to shutter them.</description>
       <dc:creator>Maxine Joselow</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 20:41:34 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 21:27:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
@@ -115,6 +115,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>On Fire. Again.</title>
+      <link>https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html</guid>
+      <atom:link href="https://www.nytimes.com/video/opinion/100000011034989/on-fire-again.html" rel="standout"></atom:link>
+      <description>There were orange skies in 2023, 2025 and now again in 2026. Over the last few years, one thing has become glaringly clear: The East Coast is totally unequipped for the next climate disaster, wildfires. The Opinion writer David Wallace-Wells explains that with every climate disaster, we’re not just adapting to a “new normal,” but bracing ourselves for what’s next.</description>
+      <dc:creator>David Wallace-Wells</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 21:28:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wallace-Wells, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
     </item>
     <item>
       <title>Climate Change Contributes to Rising Share of Wildfire Smoke Deaths</title>
@@ -1091,25 +1107,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/06/multimedia/06met-heat-deaths-01-gpfq/06met-heat-deaths-01-gpfq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Soccer fans sought a cool spot last week at a World Cup match at MetLife Stadium in New Jersey.</media:description>
-    </item>
-    <item>
-      <title>Heat Waves Are Taking a Big Toll on Chickens</title>
-      <link>https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/06/climate/dead-chickens-heat-wave-france.html" rel="standout"></atom:link>
-      <description>The birds are particularly vulnerable to high temperatures, and France’s torrid June took a heavy toll.</description>
-      <dc:creator>Chico Harlan and Léontine Gallois</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 01:44:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chickens</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factory Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poultry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turkeys</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04hot-chicken-deaths-09-wvzg/04hot-chicken-deaths-09-wvzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Samuel Aranda for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
