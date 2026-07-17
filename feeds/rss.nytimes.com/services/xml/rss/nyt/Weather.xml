@@ -7,21 +7,46 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 19:37:21 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 19:27:32 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:09:13 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 20:59:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
     <item>
-      <title>When Will the Smoke End? It’s Complicated.</title>
+      <title>Trump Threatens Canada With Tariffs for Wildfire Smoke Over U.S.</title>
+      <link>https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/weather/trump-canada-tariffs-wildfire-smoke.html" rel="standout"></atom:link>
+      <description>The president said on Friday in a social media post that Canada was failing to manage its wildfire response as smoke has blanketed U.S. cities including New York and Chicago.</description>
+      <dc:creator>Ian Austen and Matina Stevis-Gridneff</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 20:42:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, John (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walz, Tim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bergman, Jack (1947- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-smoke-live-canada-us-politics-jptv/17nat-smoke-live-canada-us-politics-jptv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Trump departing Joint Base Andrews, en route to New York, on Friday.</media:description>
+    </item>
+    <item>
+      <title>When Will the Smoke End? Our Meteorologist Explains Why It’s Complicated.</title>
       <link>https://www.nytimes.com/2026/07/17/weather/smoke-forecast.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/weather/smoke-forecast.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/17/weather/smoke-forecast.html" rel="standout"></atom:link>
       <description>The interplay between the burning fires, the smoke itself and quickly changing weather patterns is making the next few days more uncertain than usual.</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 18:23:09 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:40:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -42,7 +67,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/climate/texas-flood-warning-systems.html" rel="standout"></atom:link>
       <description>A lack of sirens and flood forecasting systems made the state’s Hill Country vulnerable to deadly floods last summer. That has changed.</description>
       <dc:creator>Scott Dance and Edgar Sandoval</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 18:04:24 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:08:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
@@ -699,7 +724,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26489.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26492.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -779,26 +804,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00xp-muppet-planes-klpf/00xp-muppet-planes-klpf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Zack Wittman for The New York Times</media:credit>
       <media:description>The cockpit of a NOAA hurricane hunter aircraft, featuring a toy Kermit Muppet dangling inside the cockpit, as it flew through Tropical Storm Helene above the Gulf of Mexico in September 2024.</media:description>
-    </item>
-    <item>
-      <title>I Hate My Arms. Where Are All the Clothes With Sleeves?</title>
-      <link>https://www.nytimes.com/2026/07/13/fashion/sleeveless-trend-arms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/fashion/sleeveless-trend-arms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/fashion/sleeveless-trend-arms.html" rel="standout"></atom:link>
-      <description>A reader wonders what’s behind the rise of sleeveless clothing and how to manage the trend.</description>
-      <dc:creator>Vanessa Friedman</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 21:09:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-fashion</category>
-      <category domain="">Sleeveless dressing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty (Concept)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Michelle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arms (Body Part)</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13ASK-VANESSA-01-vjkz/13ASK-VANESSA-01-vjkz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Getty Images</media:credit>
     </item>
   </channel>
 </rss>

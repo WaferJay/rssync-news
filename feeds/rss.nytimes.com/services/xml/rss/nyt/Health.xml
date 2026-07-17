@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 19:33:34 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 19:30:51 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 21:07:21 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 20:46:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,13 +21,18 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html" rel="standout"></atom:link>
       <description>Federal officials worked with Michigan investigators to trace the outbreak to iceberg lettuce, which may also have gone to other vendors.</description>
       <dc:creator>Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 03:29:05 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:46:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16WELL-CYCLOSPORA-SOURCE-gcbk/16WELL-CYCLOSPORA-SOURCE-gcbk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mario Tama/Getty Images</media:credit>
       <media:description>Cyclosporiasis cases have been linked to iceberg lettuce that Taylor Farms supplied to Taco Bell.</media:description>
@@ -172,13 +177,36 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Physical Therapy</category>
     </item>
     <item>
+      <title>Cyclospora Investigation Turns to Farms in Mexico</title>
+      <link>https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/health/cyclospora-taylor-farms-mexico-taco-bell-lettuce.html" rel="standout"></atom:link>
+      <description>The F.D.A. is planning to inspect farms and a lettuce shredding facility to determine how lettuce supplied by the produce company Taylor Farms to Taco Bell became contaminated and where it was shipped.</description>
+      <dc:creator>Christina Jewett and Dani Blum</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 20:30:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17dc-cyclo-news-qbvc/17dc-cyclo-news-qbvc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Andrew Mangum for The New York Times</media:credit>
+      <media:description>The Food and Drug Administration’s investigation is focusing on the source of the contamination by the cyclospora parasite.</media:description>
+    </item>
+    <item>
       <title>How to Keep the Air Inside Safe From Wildfire Smoke</title>
       <link>https://www.nytimes.com/2026/07/17/realestate/indoor-air-quality-wildfire-smoke-safety.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/realestate/indoor-air-quality-wildfire-smoke-safety.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/17/realestate/indoor-air-quality-wildfire-smoke-safety.html" rel="standout"></atom:link>
       <description>Wildfire smoke can contaminate the air inside a home, but there are measures you can take to make your indoor environment safer.</description>
       <dc:creator>Aimee Ortiz</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 15:03:50 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:07:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating, Ventilation and Cooling (HVAC)</category>
@@ -373,24 +401,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/05/25/business/00insurance-breakup/00insurance-breakup-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Renter&amp;iacute;a</media:credit>
-    </item>
-    <item>
-      <title>In Some U.K. Hospitals, the T.L.C. Includes a Movie Theater</title>
-      <link>https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/movies/uk-hospitals-medicinema-movies.html" rel="standout"></atom:link>
-      <description>A British nonprofit helps patients escape the stress and boredom of ward life by watching the latest blockbusters.</description>
-      <dc:creator>Alex Marshall</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 15:17:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Toy Story 5 (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/arts/08cul-hospital-movies-07/08cul-hospital-movies-07-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dominic Whisson for The New York Times</media:credit>
-      <media:description>“When they come here they can be themselves,” Nikki Mulhall, a nurse at Chelsea and Westminster Hospital in London, said of patients who attend the screenings.</media:description>
     </item>
   </channel>
 </rss>
