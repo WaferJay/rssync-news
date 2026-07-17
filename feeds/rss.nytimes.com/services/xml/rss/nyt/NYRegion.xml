@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 15:49:03 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 14:45:56 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 17:34:19 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 17:33:45 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/nyregion/is-new-yorks-love-hate-relationship-with-horse-carriages-over-at-last.html" rel="standout"></atom:link>
       <description>After 165 years, the tourist ritual — which now costs $77.22 for the first 20 minutes — may be coming to an end. Here’s a tour through the archives.</description>
       <dc:creator>John Leland</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 07:00:24 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:20:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Society for the Prevention of Cruelty to Animals</category>
@@ -82,7 +82,8 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html" rel="standout"></atom:link>
       <description>Drawings obtained by The New York Times show the columns called for additional steel plates, but engineers reviewing site photos said they appeared to be missing.</description>
       <dc:creator>James Glanz and Simon Ducroquet</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 03:11:53 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 17:33:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
@@ -99,11 +100,12 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/nyregion/oshae-sibley-case-manslaughter-hate-crime.html" rel="standout"></atom:link>
       <description>Dmitriy Popov, 20, was convicted of manslaughter as a hate crime for fatally stabbing O’Shae Sibley, 28, at a gas station in Brooklyn in 2023.</description>
       <dc:creator>Maria Cramer</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 23:49:15 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 23:49:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Popov, Dmitriy (July 29, 2023 Murder)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sibley, O&#39;Shae (d 2023)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
@@ -191,6 +193,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbus Circle (Manhattan, NY)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16met-salads-mhwj/16met-salads-mhwj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Spencer Platt/Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Fire in Midtown Manhattan Adds to Smoke Above New York City</title>
+      <link>https://www.nytimes.com/2026/07/17/weather/fire-midtown-manhattan-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/weather/fire-midtown-manhattan-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/weather/fire-midtown-manhattan-nyc.html" rel="standout"></atom:link>
+      <description>The three-alarm fire, which broke out around 7 a.m., led to the evacuation of 200 people from a Midtown high-rise on Friday morning. Five minor injuries were reported.</description>
+      <dc:creator>Miles G. Cohen and Claire Fahy</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 17:08:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison Avenue (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/us/17nat-smoke-live-manhattan-fire-topart/17nat-smoke-live-manhattan-fire-topart-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michael Nagle/Bloomberg</media:credit>
+      <media:description>A fire broke out at a restaurant on Madison Avenue in Midtown Manhattan early Friday morning, prompting the evacuation of an adjoining office building.</media:description>
     </item>
     <item>
       <title>In an Ever-Changing East Village, Cafe Mogador Is a Constant</title>
@@ -365,44 +386,15 @@
       <dc:creator>Helen Shaw</dc:creator>
       <pubDate>Thu, 16 Jul 2026 09:01:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hudson Valley Shakespeare Festival</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">As You Like It (Play)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">King Lear (Play)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McCallum, Davis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhoads, Kurt</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berryman, Eric (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hudson Valley Shakespeare Festival</category>
-    </item>
-    <item>
-      <title>Members of Congress Intensify Criticism of Immigration Detention Center</title>
-      <link>https://www.nytimes.com/2026/07/16/nyregion/delaney-hall-conditions-congress.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/nyregion/delaney-hall-conditions-congress.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/nyregion/delaney-hall-conditions-congress.html" rel="standout"></atom:link>
-      <description>Lawmakers are continuing to urge action at Delaney Hall in Newark, where the conditions have been decried by detainees and demonstrators.</description>
-      <dc:creator>Ana Ley</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 20:27:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delaney Hall (Newark, NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Araujo, Lorenzo Salgado</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guerrero, Joan Sebastian (d 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pallone, Frank Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pou, Nellie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16met-delaney-flashpoint1-cgmk/16met-delaney-flashpoint1-cgmk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>Demonstrations outside Delaney Hall in Newark have gone on for weeks.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakespeare, William</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Garrison (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River Valley (NY)</category>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 15:45:30 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 15:36:36 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 17:31:23 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 17:08:38 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/climate/old-ladies-diving-for-trash.html" rel="standout"></atom:link>
       <description>The Old Ladies Against Underwater Garbage estimate they’ve removed 6,000 pounds of refuse from ponds on Cape Cod. “It’s the best feeling,” one said.</description>
       <dc:creator>Cara Buckley and Billy Hickey</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 15:02:20 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:02:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Snorkeling</category>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html" rel="standout"></atom:link>
       <description>Big business made big promises about saving the planet. Following through hasn’t been easy.</description>
       <dc:creator>David Gelles</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 14:30:07 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 16:31:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
@@ -57,11 +57,15 @@
       <description>Attribution science is advancing quickly, researchers said. That could support lawsuits seeking damages for severe events worsened by global warming.</description>
       <dc:creator>Raymond Zhong</dc:creator>
       <pubDate>Fri, 17 Jul 2026 01:43:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Academies of Sciences, Engineering and Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
       <category domain="">attribution science</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16cli-attribution-vcqf/16cli-attribution-vcqf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stephane Mahe/Reuters</media:credit>
@@ -91,6 +95,38 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
     </item>
     <item>
+      <title>Climate Change Contributes to Rising Share of Wildfire Smoke Deaths</title>
+      <link>https://www.nytimes.com/2026/07/17/climate/smoke-air-quality-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/climate/smoke-air-quality-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/climate/smoke-air-quality-deaths.html" rel="standout"></atom:link>
+      <description>Wildfire smoke is linked to tens of thousands of deaths a year, a number that is rising with climate change.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 16:46:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17cli-smoke-mortality-gthz/17cli-smoke-mortality-gthz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>Smoky haze engulfing Chicago on Thursday.</media:description>
+    </item>
+    <item>
+      <title>E.U. Proposes Changes to Emissions Trading System</title>
+      <link>https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html" rel="standout"></atom:link>
+      <description>The European Union is facing a green backlash as emissions cuts become harder and require bigger overhauls to industry and livelihoods</description>
+      <dc:creator>Chico Harlan</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 15:48:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Caps and Emissions Trading Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1768" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17CLI-EUROPE-CLIMATE-WEAKENING-wkml/17CLI-EUROPE-CLIMATE-WEAKENING-wkml-mediumSquareAt3X.jpg" width="1768"></media:content>
+      <media:credit>Nadja Wohlleben/Reuters</media:credit>
+      <media:description>Europe, which often holds itself up as a climate leader, has been facing political infighting over some of its policies.</media:description>
+    </item>
+    <item>
       <title>As Blazes Spread Near Paris, Extreme Heat Is Changing How France Fights Fires</title>
       <link>https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/france-forest-fires-extreme-heat.html</guid>
@@ -109,6 +145,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/00int-france-fires-promo-tgpj/00int-france-fires-promo-tgpj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
     </item>
@@ -1067,33 +1104,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/04/multimedia/04wea-saturdayheat-vwgj/04wea-saturdayheat-vwgj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rachel Wisniewski for The New York Times</media:credit>
       <media:description>Edward Armstrong used a hand-held fan to cool himself after a parade in Philadelphia was canceled because of excessive heat on Friday.</media:description>
-    </item>
-    <item>
-      <title>Trump Pardons Violators of the Clean Air Act and a Major Donor</title>
-      <link>https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/03/us/politics/trump-pardon-clean-air-act.html" rel="standout"></atom:link>
-      <description>The president used his clemency power to further undermine environmental laws and to help a political supporter who pleaded guilty in a fraud involving Jack Abramoff.</description>
-      <dc:creator>Kenneth P. Vogel and Karen Zraick</dc:creator>
-      <pubDate>Sat, 04 Jul 2026 02:06:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clean Air Act</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diesel Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Emissions (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abramoff, Jack</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kidan, Adam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <media:content height="1391" medium="image" url="https://static01.nyt.com/images/2026/07/03/multimedia/03dc-pardons-clwt/03dc-pardons-clwt-mediumSquareAt3X.jpg" width="1390"></media:content>
-      <media:credit>Acacia Johnson for The New York Times</media:credit>
-      <media:description>One of the pardoned men was Mackenzie Spurlock, of Wasilla, Alaska, who had been charged with removing emissions controls from vehicles.</media:description>
     </item>
   </channel>
 </rss>
