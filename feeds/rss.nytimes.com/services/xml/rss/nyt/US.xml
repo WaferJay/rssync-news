@@ -7,21 +7,38 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 04:28:18 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 04:11:44 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:26:29 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 07:09:35 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
+      <title>A Trump Obsession That Carries a Cost for Democracy</title>
+      <link>https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html" rel="standout"></atom:link>
+      <description>In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 04:34:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16dc-Trump-democracy-kcpv/16dc-Trump-democracy-kcpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump seen on a screen inside the White House briefing room as he addressed the nation on Thursday night.</media:description>
+    </item>
+    <item>
       <title>Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference</title>
       <link>https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html" rel="standout"></atom:link>
-      <description>Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements</description>
+      <description>Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements.</description>
       <dc:creator>Julian E. Barnes and Maggie Haberman</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 04:11:44 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 04:28:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -41,7 +58,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html" rel="standout"></atom:link>
       <description>President Trump claimed that China had tried to acquire American voter data. Possessing such information would not allow votes to be manipulated.</description>
       <dc:creator>Dustin Volz and Julian E. Barnes</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 02:50:06 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 02:50:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -61,7 +78,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/us/politics/trump-again-makes-unfounded-claims-of-noncitizen-voting.html" rel="standout"></atom:link>
       <description>The president offered no concrete evidence, and at least one state — Nevada — rejected his claims immediately.</description>
       <dc:creator>Nick Corasaniti and Alexandra Berzon</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 03:05:54 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 05:02:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -922,18 +939,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16dc-Lafayette-bjqg/16dc-Lafayette-bjqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kent Nishimura for The New York Times</media:credit>
       <media:description>A pro-Palestinian demonstration at Lafayette Square Park in 2023. President Trump and the Secret Service have cited security concerns about such protests.</media:description>
-    </item>
-    <item>
-      <title>How Israel Tried and Failed to Change the Iranian Regime</title>
-      <link>https://www.nytimes.com/video/us/100000011028027/israel-united-states-ahmadinejad-iran-regime-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/us/100000011028027/israel-united-states-ahmadinejad-iran-regime-change.html</guid>
-      <atom:link href="https://www.nytimes.com/video/us/100000011028027/israel-united-states-ahmadinejad-iran-regime-change.html" rel="standout"></atom:link>
-      <description>The U.S. and Israel were united in going to war with Iran to change the regime. Mark Mazzetti, a New York Times investigative reporter, explains how the failure of Israel to install Mahmoud Ahmadinejad as Iran’s new leader led the U.S. to narrow its efforts in Iran to just launching attacks with no plan for a new government.</description>
-      <dc:creator>Mark Mazzetti, Nour Idriss, Nikolay Nikolov, Arijeta Lajka, Stephanie Swart, Rafaela Balster, Jon Miller and Whitney Shefte</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 10:23:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 04:30:04 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 04:28:26 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 07:28:51 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 07:14:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -134,6 +134,23 @@
       <media:description>President Trump made exaggerated claims on election vulnerabilities in a speech at the White House on Thursday.</media:description>
     </item>
     <item>
+      <title>A Trump Obsession That Carries a Cost for Democracy</title>
+      <link>https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/trump-elections-politics.html" rel="standout"></atom:link>
+      <description>In demanding steps to address the integrity of voting, President Trump persisted in relitigating his 2020 election defeat while finding ways to cast doubt on the 2026 outcome.</description>
+      <dc:creator>Peter Baker</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 04:34:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16dc-Trump-democracy-kcpv/16dc-Trump-democracy-kcpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump seen on a screen inside the White House briefing room as he addressed the nation on Thursday night.</media:description>
+    </item>
+    <item>
       <title>Trump Has Dismantled Election Security Efforts. Here’s How.</title>
       <link>https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/politics/trump-election-security-cisa.html</guid>
@@ -153,30 +170,13 @@
       <media:description>President Trump has directed prosecutors to scrutinize a top cybersecurity aide during his first term, Christopher Krebs, who fell from his favor by validating the integrity of the 2020 election.</media:description>
     </item>
     <item>
-      <title>What to Know About Trump’s Attacks on Mail Voting</title>
-      <link>https://www.nytimes.com/2026/07/16/us/politics/trump-mail-voting-elections-speech.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/politics/trump-mail-voting-elections-speech.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/us/politics/trump-mail-voting-elections-speech.html" rel="standout"></atom:link>
-      <description>Many of President Trump’s attempts to curtail mail voting have been blocked by the courts. Before Trump, Republicans actually embraced absentee voting.</description>
-      <dc:creator>Adam Sella</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 02:13:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16pol-trump-mail-vote-explainer-ghpm/16pol-trump-mail-vote-explainer-ghpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Patrick T. Fallon/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Trump continues to target voting by mail with false accusations of fraud even after court orders halted his attempts to curtail the practice before November’s midterm elections.</media:description>
-    </item>
-    <item>
       <title>Trump Released Documents on China and the 2020 Election. Here’s What We Know.</title>
       <link>https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/16/us/politics/documents-china-2020-election-trump.html" rel="standout"></atom:link>
       <description>President Trump claimed that China had tried to acquire American voter data. Possessing such information would not allow votes to be manipulated.</description>
       <dc:creator>Dustin Volz and Julian E. Barnes</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 02:50:06 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 02:50:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
@@ -442,51 +442,48 @@
       <media:credit>Rosem Morton for The New York Times</media:credit>
     </item>
     <item>
-      <title>The Odyssey, by Donald Trump</title>
-      <link>https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html" rel="standout"></atom:link>
-      <description>The president lacks not only a coherent strategic concept but an elementary understanding of what strategy is.</description>
-      <dc:creator>Frank Bruni and Bret Stephens</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 16:36:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tyler, Bonnie (1951-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16conversation-bgzw/16conversation-bgzw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ioulex for The New York Times</media:credit>
+      <title>The King of the North, Andy Burnham, Won’t Save Britain</title>
+      <link>https://www.nytimes.com/2026/07/17/opinion/andy-burnham-britain-prime-minister.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/opinion/andy-burnham-britain-prime-minister.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/opinion/andy-burnham-britain-prime-minister.html" rel="standout"></atom:link>
+      <description>For the country, Andy Burnham looks a lot like more of the same.</description>
+      <dc:creator>Tom Hazeldine</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 05:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manchester (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blair, Tony</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <media:content height="1113" medium="image" url="https://static01.nyt.com/images/2026/07/17/opinion/17hazeldine/17hazeldine-mediumSquareAt3X.jpg" width="1113"></media:content>
+      <media:credit>Kin Cheung/Associated Press</media:credit>
     </item>
     <item>
-      <title>Blue Angels’ Close Beach Flyby in Florida Results in No Punishments for Pilots</title>
-      <link>https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/us/us-navy-jet-blue-angels.html" rel="standout"></atom:link>
-      <description>The elite flying team had announced a safety review after videos posted on social media showed a fighter jet passing just above beachgoers on Wednesday.</description>
-      <dc:creator>Alena Cerro</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 23:03:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Angels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pensacola (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cao, Hung</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16xp-blueangels-kcwb/16xp-blueangels-kcwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kevin Dietsch/Getty Images</media:credit>
-      <media:description>Blue Angels pilots, in formation on July 4 in Washington, fly in F/A-18 Super Hornets.</media:description>
+      <title>Two Dead and Scores Rescued as Flooding Engulfs Central Texas</title>
+      <link>https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/us/flooding-central-texas-hill-country.html" rel="standout"></atom:link>
+      <description>Flooding from relentless rain, which Gov. Greg Abbott said was likely to break records, left a trail of damage in many communities in the Hill Country region.</description>
+      <dc:creator>Jacey Fortin, Pooja Salhotra, Edgar Sandoval, Saile Aranda and Judson Jones</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 01:28:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Camp Mystic (Hunt, Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadalupe River (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-texas-flooding-03-gkfc/16nat-texas-flooding-03-gkfc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christopher Lee for The New York Times</media:credit>
+      <media:description>Destroyed cars in Kerrville, Texas.</media:description>
     </item>
   </channel>
 </rss>
