@@ -7,13 +7,59 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 23:13:08 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 23:10:04 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:52:46 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 00:52:41 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/16/us/trump-speech-election/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/16/us/trump-speech-election/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/16/us/trump-speech-election/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Maggie Haberman</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:52:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Maine ICE Victim Relentlessly Pursued Better Life, Loved Ones Say</title>
+      <link>https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/us/johan-sebastian-guerrero-colombia.html" rel="standout"></atom:link>
+      <description>The partner of Johan Guerrero, who was killed by an immigration agent this week, described him as a tireless worker and doting father who would do anything for his 3-year-old daughter.</description>
+      <dc:creator>Jenna Russell, Jorge Valencia and Murray Carpenter</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:50:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Angus Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Biddeford (Me)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bucaramanga (Colombia)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-guerrero-colombia-gwvt/17nat-guerrero-colombia-gwvt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christopher Capozziello for The New York Times</media:credit>
+      <media:description>A memorial for Johan Guerrero in Biddeford, Maine, where he was shot and killed by a federal immigration agent this week.</media:description>
+    </item>
+    <item>
+      <title>Wildfire Smokes Makes Air Hazardous for Millions in Midwest and East Coast</title>
+      <link>https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html" rel="standout"></atom:link>
+      <description>The haze is likely to ease in the East this weekend but linger in the Upper Midwest, where some cities recorded extremely high pollution indexes on Thursday.</description>
+      <dc:creator>Judson Jones, Nicholas Bogel-Burroughs and Michael Levenson</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:11:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-wildfires-smoke-leadall-det-wqhm-promo/16nat-wildfires-smoke-leadall-det-wqhm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nic Antaya for The New York Times</media:credit>
+    </item>
     <item>
       <title>Trump Administration Restricts Green Cards for Immigrants on Public Assistance</title>
       <link>https://www.nytimes.com/2026/07/16/us/politics/trump-green-cards-public-assistance.html</link>
@@ -64,7 +110,7 @@
       <atom:link href="https://www.nytimes.com/video/us/100000011036303/wildfire-smoke-air-quality-index-toledo.html" rel="standout"></atom:link>
       <description>Our reporter Nicholas Bogel-Burroughs is in Toledo, Ohio, where the air quality level resulting from Canadian wildfire smoke is among the most hazardous in the United States.</description>
       <dc:creator>Nicholas Bogel-Burroughs, Christina Shaman and Stephanie Swart</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 22:35:21 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 00:25:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Ohio)</category>
@@ -93,9 +139,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Committee on the Budget</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16dc-budget-wmvc/16dc-budget-wmvc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Senator John Thune of South Dakota, the majority leader, openly questioned whether “the juice” was “worth the squeeze,” given the deep divisions in among his conference over the measure.</media:description>
+      <media:description>Senator John Thune of South Dakota, the majority leader, openly questioned whether “the juice” was “worth the squeeze,” given the deep divisions in his conference over the measure.</media:description>
     </item>
     <item>
       <title>Blue Angels’ Close Beach Flyby in Florida Results in No Punishments for Pilots</title>
@@ -220,9 +267,9 @@
       <link>https://www.nytimes.com/2026/07/16/us/craig-melvin-today-show-intruder.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/craig-melvin-today-show-intruder.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/16/us/craig-melvin-today-show-intruder.html" rel="standout"></atom:link>
-      <description>The incident did not result in any injuries, the police said.</description>
+      <description>The incident did not result in any injuries, the police said. The suspect has been charged with hate crimes.</description>
       <dc:creator>Sopan Deb</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 21:57:53 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 23:49:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melvin, Craig</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
@@ -269,7 +316,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/us/fbi-search-drugs-houston-ice-shooting.html" rel="standout"></atom:link>
       <description>Federal investigators said a “crystal-like” substance in the bags looked like methamphetamine. A lawyer for the victim’s brother said it was salt.</description>
       <dc:creator>J. David Goodman</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 20:10:48 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 23:36:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
@@ -301,7 +348,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/16/us/politics/georgia-senators-ossoff-warnock-trump-election-fraud.html" rel="standout"></atom:link>
       <description>Senators in both parties say the state’s 2020 Senate election is a long-settled issue.</description>
       <dc:creator>Carl Hulse</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 19:31:12 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 23:21:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
@@ -380,9 +427,9 @@
       <link>https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/16/us/politics/todd-blanche-attorney-general-epstein.html" rel="standout"></atom:link>
-      <description>Senator Thom Tillis of North Carolina made the stipulation during a Senate Judiciary Committee hearing on Thursday for witnesses to discuss Mr. Blanche’s nomination.</description>
+      <description>Senator Thom Tillis of North Carolina, a key vote on confirmation, had demanded the acting attorney general meet with victims.</description>
       <dc:creator>Devlin Barrett</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 17:02:31 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 00:41:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
@@ -688,90 +735,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10nat-trump-house-top-option-wlbh/10nat-trump-house-top-option-wlbh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mark Abramson for The New York Times</media:credit>
       <media:description>A photograph of Kerry Sheron and his wife, Maria Garcia, hanging on the fence outside their home.</media:description>
-    </item>
-    <item>
-      <title>Trump Says He’ll Seek to Replace Immigrant Truck Drivers With Veterans</title>
-      <link>https://www.nytimes.com/2026/07/15/us/politics/trump-immigrant-truck-drivers-veterans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/us/politics/trump-immigrant-truck-drivers-veterans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/us/politics/trump-immigrant-truck-drivers-veterans.html" rel="standout"></atom:link>
-      <description>The president has pushed to curtail the commercial licenses of immigrants, including legal residents, whom he has blamed for crashes.</description>
-      <dc:creator>Aishvarya Kavi</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 01:14:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trucks and Trucking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drivers Licenses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15dc-trump-kqpl/15dc-trump-kqpl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump mentioned a plan to crack down on truck drivers in the United States without legal status and to replace them with veterans during a panel at a military investment summit in Carlisle, Pa., on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Investigators Seek Information From Government Officials as Part of Air Force One Leak Investigation</title>
-      <link>https://www.nytimes.com/2026/07/15/us/politics/air-force-one-lead-investigation-government-officials.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/us/politics/air-force-one-lead-investigation-government-officials.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/us/politics/air-force-one-lead-investigation-government-officials.html" rel="standout"></atom:link>
-      <description>After The New York Times reported on security concerns related to the Qatari-donated jet, the F.B.I. sought to speak with several people who flew aboard the plane with President Trump last week and asked for their phones.</description>
-      <dc:creator>Maggie Haberman and Glenn Thrush</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:36:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subpoenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News Sources, Confidential Status of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Patel, Kashyap</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15DC-leak-vphm/15DC-leak-vphm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump on July 1 at Joint Base Andrews next to the jet donated by Qatar, before its first flight as Air Force One.</media:description>
-    </item>
-    <item>
-      <title>Suspect in Utah Stabbing Wanted to Kill Muslims, Court Filing Says</title>
-      <link>https://www.nytimes.com/2026/07/15/us/utah-mall-stabbing-muslim.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/us/utah-mall-stabbing-muslim.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/us/utah-mall-stabbing-muslim.html" rel="standout"></atom:link>
-      <description>A Muslim man who works at a mall near Salt Lake City is hospitalized with multiple wounds. Charges have not yet been filed against the suspect, who was arrested.</description>
-      <dc:creator>Maia Spoto</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 00:32:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/07/15/us/15nat-utah-stabbing-1/15nat-utah-stabbing-1-mediumSquareAt3X.jpg" width="1200"></media:content>
-      <media:credit>via Adnan Mohammed</media:credit>
-      <media:description>Syed Sohail Uddin was taken to the hospital and is being closely monitored.</media:description>
-    </item>
-    <item>
-      <title>FBI Evidence Team Visits Lincoln Memorial Reflecting Pool</title>
-      <link>https://www.nytimes.com/2026/07/15/us/politics/fbi-reflecting-pool-evidence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/us/politics/fbi-reflecting-pool-evidence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/us/politics/fbi-reflecting-pool-evidence.html" rel="standout"></atom:link>
-      <description>Officials surveyed the newly drained pool, where the floor began peeling soon after a $16 million repair job. President Trump has blamed vandals.</description>
-      <dc:creator>Devlin Barrett and David A. Fahrenthold</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 23:51:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15POOL-FBI-fvlk/15POOL-FBI-fvlk-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Demetrius Freeman for The New York Times</media:credit>
-      <media:description>Investigators examining the drained Lincoln Memorial Reflecting Pool in Washington on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

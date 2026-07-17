@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 16 Jul 2026 23:15:10 +0000</lastBuildDate>
-    <pubDate>Thu, 16 Jul 2026 22:46:36 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:54:51 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 00:19:49 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Fire in National Forest Pocked by Blazes Crosses Into Canada</title>
+      <link>https://www.nytimes.com/2026/07/16/weather/boundary-waters-fire-minnesota.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/weather/boundary-waters-fire-minnesota.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/weather/boundary-waters-fire-minnesota.html" rel="standout"></atom:link>
+      <description>More than a dozen fires are burning in Superior National Forest in Minnesota, sending smoke through the Midwest to the East Coast.</description>
+      <dc:creator>Bernard Mokam</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 00:19:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-smoke-live-mooselake/16nat-smoke-live-mooselake-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anthony Soufflé/The Minnesota Star Tribune, via Getty Images</media:credit>
+      <media:description>Plumes of smoke from the Camp Fire hanging over Ely, Minn., on Thursday.</media:description>
+    </item>
     <item>
       <title>Watch the Wildfire Smoke Ooze Across North America From Space</title>
       <link>https://www.nytimes.com/2026/07/16/weather/wildfire-smoke-from-space.html</link>
@@ -459,7 +474,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boundary Waters Canoe Area (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Superior National Forest (Minn)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26454.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2023/06/09/us/2023-06-06-haze-tracker-index/2023-06-06-haze-tracker-index-mediumSquareAt3X-v26457.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -768,25 +783,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/00lif-los-alamos-lab-pzmt/00lif-los-alamos-lab-pzmt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nina Riggio for The New York Times</media:credit>
       <media:description>The Los Alamos National Laboratory in New Mexico is home to the country’s only active plutonium-handling facility.</media:description>
-    </item>
-    <item>
-      <title>At Least 12 People Die in Southern Spain Wildfire</title>
-      <link>https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/world/europe/spain-wildfire-deaths.html" rel="standout"></atom:link>
-      <description>The blaze in Andalusia, one of the deadliest on record in the country, also left more than 20 people missing. Many of the victims were foreign tourists, the Spanish authorities said.</description>
-      <dc:creator>Carlos Barragán</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 18:45:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Almeria (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Andalusia (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10spain-wildfire-02-gvtc/10spain-wildfire-02-gvtc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Infoca, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>A still from a video provided by the Andalusia Wildfire Service of the wildfire in Los Gallardos district, Spain, on Friday. </media:description>
     </item>
   </channel>
 </rss>
