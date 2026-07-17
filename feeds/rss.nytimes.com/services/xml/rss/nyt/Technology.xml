@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 11:44:34 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 11:26:59 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 14:07:23 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 14:00:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -83,6 +83,19 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/2026-july-biz-promos-spacex-stock/2026-july-biz-promos-spacex-stock-mediumSquareAt3X.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Roger Summit, Who Invented an Early Online Search Service, Dies at 95</title>
+      <link>https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/technology/roger-summit-dead.html" rel="standout"></atom:link>
+      <description>A research scientist at Lockheed, he came up with the idea for a computer system that would search scientific and technical literature almost instantaneously.</description>
+      <dc:creator>Michael S. Rosenwald</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 14:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roger Summit (1930-2026)</category>
     </item>
     <item>
       <title>The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT</title>
@@ -247,6 +260,7 @@
       <dc:creator>Mike Isaac</dc:creator>
       <pubDate>Tue, 14 Jul 2026 14:17:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
@@ -409,27 +423,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/00dc-aiterror-01-kphj/00dc-aiterror-01-kphj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Joris Bolomey/Agence France-Presse — Getty Images</media:credit>
       <media:description>Nigerian soldiers training at a military base in Monguno, Nigeria, last year amid a surge in attacks by jihadists. Extremist groups like Boko Haram are turning to A.I. for tactical on-the-ground advantages, highlighting a broader challenge for the A.I. industry.</media:description>
-    </item>
-    <item>
-      <title>Do Social Media Bans Work? + A Conversation About A.I. Consciousness + Tool Time</title>
-      <link>https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/podcasts/hardfork-social-media-bans.html" rel="standout"></atom:link>
-      <description>“If the net result is that all the teens in Australia are still using social media, even after they’re technically banned from doing it, why are we doing any of this?”</description>
-      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Alyssa Moxley, Chris Wood, Katie McMurran, Dan Powell, Elisheba Ittoop, Marion Lozano, Sophia Lanman and Rowan Niemisto</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 11:00:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/podcasts/10hardfork-bans/10hardfork-bans-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
     </item>
   </channel>
 </rss>
