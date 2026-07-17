@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 04:27:36 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 03:38:36 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 15:45:23 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 15:16:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -170,6 +170,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Physical Therapy</category>
+    </item>
+    <item>
+      <title>How to Keep the Air Inside Safe From Wildfire Smoke</title>
+      <link>https://www.nytimes.com/2026/07/17/realestate/indoor-air-quality-wildfire-smoke-safety.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/realestate/indoor-air-quality-wildfire-smoke-safety.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/realestate/indoor-air-quality-wildfire-smoke-safety.html" rel="standout"></atom:link>
+      <description>Wildfire smoke can contaminate the air inside a home, but there are measures you can take to make your indoor environment safer.</description>
+      <dc:creator>Aimee Ortiz</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 15:03:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating, Ventilation and Cooling (HVAC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Filters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17re-air-quality-tkfg/17re-air-quality-tkfg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelina Katsanis for The New York Times</media:credit>
+      <media:description>Wildfires in Ontario have led to poor air quality in major cities, including New York. </media:description>
     </item>
     <item>
       <title>Leonard Abramson, Health Care Innovator and Philanthropist, Dies at 93</title>
@@ -372,21 +391,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/arts/08cul-hospital-movies-07/08cul-hospital-movies-07-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dominic Whisson for The New York Times</media:credit>
       <media:description>“When they come here they can be themselves,” Nikki Mulhall, a nurse at Chelsea and Westminster Hospital in London, said of patients who attend the screenings.</media:description>
-    </item>
-    <item>
-      <title>Our Bacteria Are Talking. We’ve Just Begun to Understand What They’re Saying.</title>
-      <link>https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/magazine/microbiome-gut-health.html" rel="standout"></atom:link>
-      <description>The human microbiome is essential to our health, but scientists still know very little about it. Two researchers set out to map this largely uncharted terrain.</description>
-      <dc:creator>Jeneen Interlandi</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 17:07:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Digestive Tract</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
   </channel>
 </rss>
