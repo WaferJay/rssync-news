@@ -7,13 +7,22 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 10:13:45 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 09:54:49 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:45:15 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 11:22:55 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/17/weather/wildfire-smoke-air-quality/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/17/weather/wildfire-smoke-air-quality/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/17/weather/wildfire-smoke-air-quality/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Judson Jones and Zeke Minaya</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 10:14:57 +0000</pubDate>
+    </item>
     <item>
       <title>Trump Promised Proof of Election Tampering. His Document Release Fell Far Short.</title>
       <link>https://www.nytimes.com/2026/07/17/us/politics/trump-election-tampering-document-release.html</link>
@@ -21,7 +30,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/trump-election-tampering-document-release.html" rel="standout"></atom:link>
       <description>In the end, the documentary evidence that President Trump claimed would prove his case appeared bound to disappoint those who expected bombshell revelations.</description>
       <dc:creator>David E. Sanger and Dustin Volz</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 09:03:40 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 10:32:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
@@ -374,11 +383,18 @@
       <pubDate>Fri, 17 Jul 2026 00:11:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cleveland (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Ohio)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-wildfires-smoke-leadall-det-wqhm-promo/16nat-wildfires-smoke-leadall-det-wqhm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nic Antaya for The New York Times</media:credit>
     </item>
@@ -901,27 +917,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/2026-07-14-senate-campfin-index/2026-07-14-senate-campfin-index-mediumSquareAt3X-v10.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>White House Faces Stiff Pushback on Subjecting Grants to Political Review</title>
-      <link>https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/us/politics/white-house-federal-grants-political-review.html" rel="standout"></atom:link>
-      <description>Academics, city leaders and congressional lawmakers number among the thousands to urge the Trump administration to reconsider a plan to assert more control over grants.</description>
-      <dc:creator>Tony Romm</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 16:12:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of Management and Budget (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vought, Russell T</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16DC-TRUMP-GRANTS-01-zfpv/16DC-TRUMP-GRANTS-01-zfpv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Russell T. Vought, the director of the Office of Management and Budget, testifying at a hearing in April.</media:description>
     </item>
   </channel>
 </rss>

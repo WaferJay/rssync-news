@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 04:27:38 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 04:23:21 +0000</pubDate>
+    <lastBuildDate>Fri, 17 Jul 2026 11:44:34 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 11:26:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -83,6 +83,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/2026-july-biz-promos-spacex-stock/2026-july-biz-promos-spacex-stock-mediumSquareAt3X.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT</title>
+      <link>https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html" rel="standout"></atom:link>
+      <description>“I don’t know if the public understands this, but these companies hate each other.”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Rowan Niemisto and Diane Wong</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lorde</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/podcasts/17hardfork-AI-Wars/17hardfork-AI-Wars-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
     </item>
     <item>
       <title>White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says</title>
@@ -412,23 +430,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/podcasts/10hardfork-bans/10hardfork-bans-mediumSquareAt3X.png" width="1800"></media:content>
       <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
-    </item>
-    <item>
-      <title>A Top OpenAI Executive, Fidji Simo, Steps Down</title>
-      <link>https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/09/technology/openai-fidji-simo-exit.html" rel="standout"></atom:link>
-      <description>Ms. Simo, who was Sam Altman’s second in command before taking a medical leave in April, will become a part-time adviser to the company.</description>
-      <dc:creator>Cade Metz</dc:creator>
-      <pubDate>Fri, 10 Jul 2026 00:38:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Simo, Fidji</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/business/09biz-openai-simo/09biz-openai-simo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stuart Isett/Fortune, via Shutterstock</media:credit>
-      <media:description>Fidji Simo became OpenAI’s first chief executive of applications in March 2025. </media:description>
     </item>
   </channel>
 </rss>
