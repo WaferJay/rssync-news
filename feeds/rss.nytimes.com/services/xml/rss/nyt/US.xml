@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 15:22:01 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 15:10:24 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 16:24:09 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 16:03:54 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -257,7 +257,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/us/volare-boat-sink-alcatraz.html" rel="standout"></atom:link>
       <description>The Boisas went out on the San Francisco Bay to spread the ashes of one of their own. Then a wave toppled their boat.</description>
       <dc:creator>Soumya Karlamangla, Madaleine Rubin and Heather Knight</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 00:42:34 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 00:42:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
@@ -266,8 +266,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alcatraz (San Francisco)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Treasure Island (San Francisco, Calif)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18nat-sf-boat-tragedy-wzmg/18nat-sf-boat-tragedy-wzmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stephen Lam/San Francisco Chronicle, via Associated Press</media:credit>
       <media:description>Alcatraz Island a day after a boat named Volare capsized in rough seas near the island.</media:description>
@@ -312,11 +310,12 @@
       <description>Mr. Pelosi, the 86-year-old husband of former Speaker Nancy Pelosi, crashed into a parked Tesla near his home among the vineyards this month.</description>
       <dc:creator>Livia Albeck-Ripka</dc:creator>
       <pubDate>Sat, 18 Jul 2026 01:14:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hit-and-Run Drivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hit-and-Run Drivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic and Parking Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Napa (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yountville (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pelosi, Nancy</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/00nat-pelosi-napa-HFO-pfwt/00nat-pelosi-napa-HFO-pfwt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pete Marovich for The New York Times</media:credit>
       <media:description>Paul Pelosi crashed his convertible into a parked Tesla and continued to drive down a street in Yountville, Calif., on July 3.</media:description>
@@ -506,68 +505,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17dc-mullin-ice-tkqm/17dc-mullin-ice-tkqm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Markwayne Mullin, the homeland security secretary, speaking in Washington on Friday. </media:description>
-    </item>
-    <item>
-      <title>Deadly Texas Floods Ebb, but Danger Remains: ‘You Could Hear the Water’</title>
-      <link>https://www.nytimes.com/2026/07/17/us/flooding-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/flooding-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/flooding-texas.html" rel="standout"></atom:link>
-      <description>At least two people died as waters rose rapidly across the Texas Hill Country, the same area of the state that saw catastrophic flooding last year.</description>
-      <dc:creator>Lauren McGaughy, Ramón Ramirez and J. David Goodman</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 22:50:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fredericksburg (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadalupe River (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-texas-flooding-01-jmkb/17nat-texas-flooding-01-jmkb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jordan Vonderhaar for The New York Times</media:credit>
-      <media:description>Debris littered a bridge crossing the Guadalupe River in Center Point, Texas.</media:description>
-    </item>
-    <item>
-      <title>Trump Faces the Limits of U.S. Firepower and the Lessons of Past Wars</title>
-      <link>https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/trump-iran-war-afghanistan-iraq.html" rel="standout"></atom:link>
-      <description>Like his predecessors, President Trump has struggled to turn battlefield successes into long-term victories.</description>
-      <dc:creator>Greg Jaffe and Eric Schmitt</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 16:25:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17dc-trump-bombs-01-bctv/17dc-trump-bombs-01-bctv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross for The New York Times</media:credit>
-      <media:description>“We’re going to knock out all their power plants,” President Trump told Fox News this week. “We’re going to knock out all their bridges unless they get to the table and negotiate.”</media:description>
-    </item>
-    <item>
-      <title>Remains of California Millionaire Who Vanished 45 Years Ago Are Identified</title>
-      <link>https://www.nytimes.com/2026/07/17/us/california-millionaire-remains-found-thelma-gaston.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/california-millionaire-remains-found-thelma-gaston.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/california-millionaire-remains-found-thelma-gaston.html" rel="standout"></atom:link>
-      <description>A con man was convicted in the 1983 murder of Thelma Gaston, 80, but her remains were only just identified thanks to advanced DNA testing.</description>
-      <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 15:46:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forgery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Riverside County (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16xp-coldcase/16xp-coldcase-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alamy Stock Photo</media:credit>
-      <media:description>Remains found in 1981 in the Santa Rosa Mountains near Palm Springs, Calif., were recently identified as those of Thelma Gaston, who was 80 when she was reported missing.</media:description>
     </item>
   </channel>
 </rss>
