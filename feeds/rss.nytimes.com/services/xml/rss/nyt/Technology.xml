@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 00:12:11 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 00:08:50 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 03:35:57 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 01:13:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/business/china-ai-moonshot-kimi.html" rel="standout"></atom:link>
       <description>China’s Moonshot AI unveiled a freely available artificial intelligence model that seemed to narrow the gap with cutting-edge offerings from U.S. tech companies.</description>
       <dc:creator>Meaghan Tobin and Cade Metz</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 20:04:56 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:04:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -143,12 +143,13 @@
       <description>The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.</description>
       <dc:creator>Adam Satariano</dc:creator>
       <pubDate>Thu, 16 Jul 2026 13:56:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>

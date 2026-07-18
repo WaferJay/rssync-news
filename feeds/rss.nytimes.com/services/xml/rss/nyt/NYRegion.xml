@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 00:13:03 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 00:01:02 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 03:35:43 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 01:23:07 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
+    <item>
+      <title>First Patient Dies of Legionnaires’ Disease After New York Outbreak</title>
+      <link>https://www.nytimes.com/2026/07/17/nyregion/first-legionnaires-death-ues.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/nyregion/first-legionnaires-death-ues.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/nyregion/first-legionnaires-death-ues.html" rel="standout"></atom:link>
+      <description>New York City’s Health Department is still seeking to identify the source of an outbreak on the Upper East Side that has infected 67 people.</description>
+      <dc:creator>Joseph Goldstein</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 00:34:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legionnaires&#39; Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Mental Hygiene Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
+      <media:content height="1334" medium="image" url="https://static01.nyt.com/images/2025/08/28/multimedia/17met-legionnaires/zqcm-mediumSquareAt3X.jpg" width="1334"></media:content>
+      <media:credit>Mimi d’Autremont for The New York Times</media:credit>
+      <media:description>Twelve patients remained hospitalized with Legionnaires’ disease as of Thursday night. </media:description>
+    </item>
     <item>
       <title>Firms With Checkered Pasts Tied to Troubled Midtown Construction Project</title>
       <link>https://www.nytimes.com/2026/07/17/nyregion/nyc-building-emergency-companies.html</link>
@@ -38,6 +56,28 @@
       <media:description>Two columns inside a Midtown high-rise construction project buckled last week, sowing panic and causing evacuations around the East 42nd Street site. </media:description>
     </item>
     <item>
+      <title>He Pursued a Pardon in Trump’s Justice System. It Added to His Problems.</title>
+      <link>https://www.nytimes.com/2026/07/17/nyregion/castillero-fraud-trump-pardon-sentence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/nyregion/castillero-fraud-trump-pardon-sentence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/nyregion/castillero-fraud-trump-pardon-sentence.html" rel="standout"></atom:link>
+      <description>Michael Castillero was convicted of defrauding investors in a $386 million scheme. Then he started courting MAGA influencers.</description>
+      <dc:creator>Benjamin Weiser</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 07:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castillero, Michael A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Securities and Commodities Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ticktin, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17met-sdny-pardon-01-bpfz/17met-sdny-pardon-01-bpfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Michael Castillero was convicted by federal prosecutors of defrauding thousands of people in a sprawling investment scheme.</media:description>
+    </item>
+    <item>
       <title>New Yorkers Get Squeamish About Salad Lunches Amid Parasite Outbreak</title>
       <link>https://www.nytimes.com/2026/07/16/nyregion/nyc-cyclospora-salad.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/nyregion/nyc-cyclospora-salad.html</guid>
@@ -59,28 +99,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbus Circle (Manhattan, NY)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16met-salads-mhwj/16met-salads-mhwj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Spencer Platt/Getty Images</media:credit>
-    </item>
-    <item>
-      <title>He Pursued a Pardon in Trump’s Justice System. It Added to His Problems.</title>
-      <link>https://www.nytimes.com/2026/07/17/nyregion/castillero-fraud-trump-pardon-sentence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/nyregion/castillero-fraud-trump-pardon-sentence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/nyregion/castillero-fraud-trump-pardon-sentence.html" rel="standout"></atom:link>
-      <description>Michael Castillero was convicted of defrauding investors in a $386 million scheme. Then he started courting MAGA influencers.</description>
-      <dc:creator>Benjamin Weiser</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 07:00:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Castillero, Michael A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Securities and Commodities Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ticktin, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17met-sdny-pardon-01-bpfz/17met-sdny-pardon-01-bpfz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Michael Castillero was convicted by federal prosecutors of defrauding thousands of people in a sprawling investment scheme.</media:description>
     </item>
     <item>
       <title>The History of the Carriage Horses in Central Park</title>
@@ -123,24 +141,6 @@
       <media:description>Anthony Miranda was appointed sheriff of New York City by former Mayor Eric Adams.</media:description>
     </item>
     <item>
-      <title>Manhattan Building’s Buckled Columns Probably Lacked Required Reinforcements</title>
-      <link>https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html" rel="standout"></atom:link>
-      <description>Drawings obtained by The New York Times show the columns called for additional steel plates, but engineers reviewing site photos said they appeared to be missing.</description>
-      <dc:creator>James Glanz and Simon Ducroquet</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 17:33:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buildings Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-midtown-building-plans-index/2026-07-15-midtown-building-plans-index-mediumSquareAt3X.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
       <title>Paramedics’ Push for a Living Wage</title>
       <link>https://www.nytimes.com/2026/07/17/nyregion/paramedics-push-for-a-living-wage.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/nyregion/paramedics-push-for-a-living-wage.html</guid>
@@ -163,6 +163,24 @@
       <media:credit>Vincent Alban</media:credit>
     </item>
     <item>
+      <title>Manhattan Building’s Buckled Columns Probably Lacked Required Reinforcements</title>
+      <link>https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/nyregion/manhattan-building-collapse-nyc-drawings.html" rel="standout"></atom:link>
+      <description>Drawings obtained by The New York Times show the columns called for additional steel plates, but engineers reviewing site photos said they appeared to be missing.</description>
+      <dc:creator>James Glanz and Simon Ducroquet</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 17:33:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buildings Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-midtown-building-plans-index/2026-07-15-midtown-building-plans-index-mediumSquareAt3X.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
       <title>Man Who Killed Gay Dancer in Brooklyn Is Sentenced to 20 Years</title>
       <link>https://www.nytimes.com/2026/07/16/nyregion/oshae-sibley-case-manslaughter-hate-crime.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/nyregion/oshae-sibley-case-manslaughter-hate-crime.html</guid>
@@ -183,22 +201,21 @@
       <media:description>The fatal stabbing of O’Shae Sibley shocked the L.G.T.B.Q. community.</media:description>
     </item>
     <item>
-      <title>Wildfire Smoke Causes Unhealthy Air Conditions in New York</title>
-      <link>https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html" rel="standout"></atom:link>
-      <description>Air quality levels were predicted to worsen through at least Thursday evening as smoke drifted south from Canada. The mayor urged people to stay inside to avoid negative health effects.</description>
-      <dc:creator>Christina Caron</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 19:33:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <title>Rhode Island Man Who Fled 2005 Rape Trial Is Arrested in New York</title>
+      <link>https://www.nytimes.com/2026/07/17/us/rhode-island-ronald-fischer-nj-yacht-arrest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/rhode-island-ronald-fischer-nj-yacht-arrest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/rhode-island-ronald-fischer-nj-yacht-arrest.html" rel="standout"></atom:link>
+      <description>Ronald L. Fischer vanished just before he was convicted. After more than 20 years on the run, he was arrested on a sailboat in the East River, the authorities said.</description>
+      <dc:creator>John S.W. MacDonald</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 01:23:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fugitives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fischer, Ronald L.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sailboats and Sailing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Marshals Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East River (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16met-hot-smoke-01-vghj/16met-hot-smoke-01-vghj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
-      <media:description>On Thursday morning, New Yorkers continued to experience hazy skies and declining air quality as smoke from the Canadian wildfires still hung in the air. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rhode Island</category>
     </item>
     <item>
       <title>Fire in Midtown Manhattan Adds to Smoke Above New York City</title>
@@ -272,6 +289,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16met-kean-campaign-01-hwgk/16met-kean-campaign-01-hwgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Representative Tom Kean Jr., center, on June 30, when he returned to Congress after a monthslong absence.</media:description>
+    </item>
+    <item>
+      <title>Wildfire Smoke Causes Unhealthy Air Conditions in New York</title>
+      <link>https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html" rel="standout"></atom:link>
+      <description>Air quality levels were predicted to worsen through at least Thursday evening as smoke drifted south from Canada. The mayor urged people to stay inside to avoid negative health effects.</description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Thu, 16 Jul 2026 19:33:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16met-hot-smoke-01-vghj/16met-hot-smoke-01-vghj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelina Katsanis for The New York Times</media:credit>
+      <media:description>On Thursday morning, New Yorkers continued to experience hazy skies and declining air quality as smoke from the Canadian wildfires still hung in the air. </media:description>
     </item>
     <item>
       <title>Maps Show Where Wildfire Smoke Will Darken Skies on Thursday</title>
@@ -357,48 +392,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/nyregion/16nytoday/16nytoday-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>James Barron/The New York Times</media:credit>
       <media:description>Stephanie Lucas, left, and Holly Leicht in Madison Square Park.</media:description>
-    </item>
-    <item>
-      <title>Duchamp Gave Up Art for Chess. At MoMA, He Inspires a New Gambit.</title>
-      <link>https://www.nytimes.com/2026/07/16/arts/design/duchamp-chess-moma.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/arts/design/duchamp-chess-moma.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/arts/design/duchamp-chess-moma.html" rel="standout"></atom:link>
-      <description>Susan Polgar, a chess grandmaster, will be playing 50 artists, critics and fans of Marcel Duchamp at the same time, in honor of his birthday, July 28.</description>
-      <dc:creator>Deborah Solomon</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 21:22:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Babitz, Eve (1943- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bove, Carol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duchamp, Marcel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ono, Yoko</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ray, Man</category>
-    </item>
-    <item>
-      <title>9 Art Shows to Catch Before They Close This Summer</title>
-      <link>https://www.nytimes.com/2026/07/16/arts/design/last-chance-art-shows-new-york.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/arts/design/last-chance-art-shows-new-york.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/arts/design/last-chance-art-shows-new-york.html" rel="standout"></atom:link>
-      <description>Among some must-see exhibitions are the Whitney Biennial, a Marcel Duchamp retrospective and a sprawling New Museum survey.</description>
-      <dc:creator>Rachel Sherman</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 09:01:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guggenheim, Solomon R, Museum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jewish Museum (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Museum of Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MoMA PS1</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New Museum of Contemporary Art</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bassman, Lillian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bove, Carol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duchamp, Marcel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Klee, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tam, Kenneth (1982- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16cul-last-chance-new-york-jzgk/16cul-last-chance-new-york-jzgk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Association Marcel Duchamp/ADAGP, Paris/Artists Rights Society (ARS), New York; Photo by Jonah Rosenberg for The New York Times</media:credit>
-      <media:description>A “Boîte-en-Valise” by Marcel Duchamp.</media:description>
     </item>
   </channel>
 </rss>
