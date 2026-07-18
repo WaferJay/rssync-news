@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 13:53:39 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 13:12:03 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 15:25:37 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 14:42:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -175,6 +175,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Physical Therapy</category>
+    </item>
+    <item>
+      <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
+      <link>https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html" rel="standout"></atom:link>
+      <description>The implicated products were marketed under several brands, and had been shipped as recently as Thursday.</description>
+      <dc:creator>Christina Jewett and Julie Creswell</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 14:24:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sysco Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18dc-cyclo-lettuce-recall-gmfb/18dc-cyclo-lettuce-recall-gmfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Benjamin Fanjoy/Getty Images</media:credit>
+      <media:description>A Taylor Farms facility, in Salinas, Calif., on Friday.</media:description>
     </item>
     <item>
       <title>Walt Odets, Who Delved Into the Minds of Gay Men, Dies at 79</title>
@@ -375,21 +397,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Obsessive-Compulsive Disorder</category>
-    </item>
-    <item>
-      <title>Tiny Love Stories: ‘Why Aren’t You Having Sex Anymore?’</title>
-      <link>https://www.nytimes.com/2026/07/08/style/tiny-modern-love-stories-why-arent-you-having-sex-anymore.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/08/style/tiny-modern-love-stories-why-arent-you-having-sex-anymore.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/08/style/tiny-modern-love-stories-why-arent-you-having-sex-anymore.html" rel="standout"></atom:link>
-      <description>Modern Love in miniature, featuring reader-submitted stories of no more than 100 words.</description>
-      <pubDate>Wed, 08 Jul 2026 16:23:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Modern Love (Times Column)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Divorce, Separations and Annulments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex</category>
-      <media:content height="1716" medium="image" url="https://static01.nyt.com/images/2024/02/01/fashion/00ML-TLS-FEBRUARY-06/00ML-TLS-FEBRUARY-06-mediumSquareAt3X-v2.jpg" width="1716"></media:content>
-      <media:credit>Brian Rea</media:credit>
     </item>
   </channel>
 </rss>

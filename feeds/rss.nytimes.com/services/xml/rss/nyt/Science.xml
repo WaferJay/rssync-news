@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 09:47:30 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 09:01:49 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 15:26:04 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 14:42:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -162,6 +162,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feynman, Richard P</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
+      <link>https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html" rel="standout"></atom:link>
+      <description>The implicated products were marketed under several brands, and had been shipped as recently as Thursday.</description>
+      <dc:creator>Christina Jewett and Julie Creswell</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 14:24:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sysco Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18dc-cyclo-lettuce-recall-gmfb/18dc-cyclo-lettuce-recall-gmfb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Benjamin Fanjoy/Getty Images</media:credit>
+      <media:description>A Taylor Farms facility, in Salinas, Calif., on Friday.</media:description>
     </item>
     <item>
       <title>As Natural Disasters Expand, a Disaster-Tracking App Is Booming</title>

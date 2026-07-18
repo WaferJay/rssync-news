@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 13:53:46 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 13:53:38 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 15:22:01 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 15:10:24 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/us/politics/aipac-democrats-donations-israel-vote.html" rel="standout"></atom:link>
       <description>After 103 Democrats voted to eliminate aid to Israel, the lobbying group closed off online donations for more than a dozen Democratic lawmakers it had endorsed.</description>
       <dc:creator>Adam Sella</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 13:53:38 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 13:55:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Israel Public Affairs Committee</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -40,6 +40,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Adam (1723-90)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18dc-aipac-list-fbph/18dc-aipac-list-fbph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>AIPAC appeared to remove donation links for 15 lawmakers running for re-election, and for Representative Nancy Pelosi of California, who is not.</media:description>
     </item>
     <item>
       <title>The Evolution of Presidential Travel: Horse Carriages to Air Force One</title>
@@ -72,7 +73,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/us/kerrville-cheerleading-texas-flood.html" rel="standout"></atom:link>
       <description>To CeCe Jean Saunders, it seemed like a once-in-a-lifetime event when her studio in Kerrville, Texas, flooded last year. Then it happened again.</description>
       <dc:creator>Lauren McGaughy</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 09:02:26 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 09:02:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
@@ -89,7 +90,16 @@
       <description>The agent, whose identity has not been confirmed by officials, has a history of abusive and frightening behavior, according to a former wife and others who knew him.</description>
       <dc:creator>Jenna Russell, Pooja Salhotra and Jacey Fortin</dc:creator>
       <pubDate>Sat, 18 Jul 2026 09:02:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guerrero, Joan Sebastian (d 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Biddeford (Me)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brouillette, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-maine-shooter-qvwb/17nat-maine-shooter-qvwb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christopher Capozziello for The New York Times</media:credit>
       <media:description>A memorial for Johan Sebastián Durán Guerrero, who was killed by the ICE agent David Brouillette. </media:description>
@@ -558,47 +568,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16xp-coldcase/16xp-coldcase-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alamy Stock Photo</media:credit>
       <media:description>Remains found in 1981 in the Santa Rosa Mountains near Palm Springs, Calif., were recently identified as those of Thelma Gaston, who was 80 when she was reported missing.</media:description>
-    </item>
-    <item>
-      <title>Trump Brings Full Weight of Government to Bolster False Election Claims</title>
-      <link>https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/trump-government-election-claims.html" rel="standout"></atom:link>
-      <description>Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.</description>
-      <dc:creator>Zolan Kanno-Youngs, Nick Corasaniti and Dustin Volz</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 19:39:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Intelligence Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16dc-trump-election-top-ctvw/16dc-trump-election-top-ctvw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tierney L. Cross for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Judges Ask Congress for Power to Fix Crumbling Courthouses</title>
-      <link>https://www.nytimes.com/2026/07/17/us/politics/federal-courthouses-repairs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/federal-courthouses-repairs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/federal-courthouses-repairs.html" rel="standout"></atom:link>
-      <description>Undrinkable water. Leaks. Mold. Federal courthouses need billions of dollars in repairs, and judges say the General Services Administration is a bad landlord.</description>
-      <dc:creator>Mattathias Schwartz</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 14:45:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Services Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/00dc-courts-top-pfjz/00dc-courts-top-pfjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>Inside the modernist, steel-and-glass exterior of the Everett McKinley Dirksen U.S. Courthouse in Chicago, judges say that longstanding maintenance problems are interfering with the performance of their duties.</media:description>
     </item>
   </channel>
 </rss>
