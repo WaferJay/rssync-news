@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 16:22:49 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 15:54:42 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:25:13 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 18:04:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -44,13 +44,13 @@
       <description>A deal would underline how scarce computing power is for artificial intelligence development, and could create a new business for Meta.</description>
       <dc:creator>Eli Tan and Mike Isaac</dc:creator>
       <pubDate>Fri, 17 Jul 2026 17:44:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Enterprise Computing</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17biz-meta-anthropic-qjkb/17biz-meta-anthropic-qjkb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dustin Chambers for The New York Times</media:credit>
       <media:description>A data center owned by Meta in Georgia. A deal with Anthropic could potentially alleviate pressure on Meta from investors, who have questioned how much it has been spending on data centers.</media:description>

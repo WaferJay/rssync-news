@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 15:22:35 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 14:26:00 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:22:54 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 18:21:28 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -181,23 +181,17 @@
       <description>The California company grows produce in more than 12 states, and in Mexico and Canada. Taco Bell and food distributor Sysco have pulled Taylor Farms lettuce from supply chains.</description>
       <dc:creator>Julie Creswell, Christina Jewett and Kevin Draper</dc:creator>
       <pubDate>Fri, 17 Jul 2026 22:46:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yum Brands Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salinas (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guanajuato (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
     </item>
     <item>
       <title>China’s Moonshot AI Unveils Kimi Model, Threatening America’s Lead</title>
@@ -228,7 +222,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/arts/music/x-music-lawsuits.html" rel="standout"></atom:link>
       <description>Elon Musk’s social media platform and the music companies agreed to dismiss dueling claims, from 2023 and 2026. They have not said why.</description>
       <dc:creator>Ben Sisario</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 18:16:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 18:16:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
@@ -361,9 +355,10 @@
       <pubDate>Fri, 17 Jul 2026 20:17:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nasdaq Composite Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taiwan Semiconductor Manufacturing Company Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16biz-stocks1-jlct/16biz-stocks1-jlct-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brendan Mcdermid/Reuters</media:credit>
     </item>

@@ -7,13 +7,52 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 17:27:31 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 16:55:14 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 18:25:40 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 18:03:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities</title>
+      <link>https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html" rel="standout"></atom:link>
+      <description>Nearly 200 fires continued to devastate swaths of the province as smoke continued to drift across parts of Canada and the United States.</description>
+      <dc:creator>Vjosa Isai</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 18:03:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thunder Bay (Ontario)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-canada-fires-ford-bvql/18int-canada-fires-ford-bvql-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cole Burston for The New York Times</media:credit>
+      <media:description>Premier Doug Ford of Ontario after a news conference in Thunder Bay on Saturday. Roughly 1.7 million acres have burned in Ontario, data from the Canadian Interagency Forest Fire Center shows.</media:description>
+    </item>
+    <item>
+      <title>Thunderstorms Bring Threat of Strong Winds to Northeast</title>
+      <link>https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html" rel="standout"></atom:link>
+      <description>Forecasters warned of winds over 70 miles per hour in New York City and Philadelphia.</description>
+      <dc:creator>Amy Graff</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 17:43:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/18/weather/2026-07-18-ny-rain-index-promo/2026-07-18-ny-rain-index-promo-mediumSquareAt3X-v5.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
     <item>
       <title>Scenic Route</title>
       <link>https://www.nytimes.com/2026/07/18/briefing/scenic-route.html</link>
@@ -746,46 +785,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
       <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/14/arts/NOAA-THUMB/NOAA-THUMB-mediumSquareAt3X.jpg" width="1080"></media:content>
       <media:credit>NOAA</media:credit>
-    </item>
-    <item>
-      <title>Texas Faces Potentially ‘Catastrophic’ Amounts of Rain</title>
-      <link>https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/weather/texas-flash-flooding-rain.html" rel="standout"></atom:link>
-      <description>Intense storms overnight dropped heavy rain, and more was falling Tuesday. Forecasters warned about the increasing likelihood of flooding across the state.</description>
-      <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 14:25:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadalupe River (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14WEA-Texas-flooding/14WEA-Texas-flooding-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dustin Safranek-Imagn Images</media:credit>
-      <media:description>Rain in Austin, Texas, in April. The city is facing a higher than usual risk of dangerous flash flooding due to an upcoming storm.</media:description>
-    </item>
-    <item>
-      <title>Tornadoes in Maine? A Rare Forecast for Parts of U.S. and Canada</title>
-      <link>https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/weather/maine-vermont-tornado-quebec.html" rel="standout"></atom:link>
-      <description>Storms on Tuesday could produce damaging winds, large hail and even tornadoes in areas where they are not common.</description>
-      <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 12:44:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environment Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New England States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-maine-index-promo/2026-07-14-maine-index-promo-mediumSquareAt3X-v56.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
