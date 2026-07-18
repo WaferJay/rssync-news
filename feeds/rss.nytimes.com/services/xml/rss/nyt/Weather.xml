@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 19:39:20 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 19:25:01 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:09:27 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 20:33:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Canada Wildfires: What to Know</title>
+      <link>https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html" rel="standout"></atom:link>
+      <description>Hundreds of wildfires in Canada and the United States have blanketed large sections of North America in dense smoke over the past week.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 20:16:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-canada-wildfires-wtk-vcmj/18int-canada-wildfires-wtk-vcmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <media:description>The observation deck of Toronto’s CN Tower on Wednesday as wildfire smoke enveloped downtown.</media:description>
+    </item>
     <item>
       <title>Wildfires Continue To Burn in Ontario, Canada, Sending Smoke to U.S. Cities</title>
       <link>https://www.nytimes.com/2026/07/18/world/canada/ontario-wildfires-smoke-thunder-bay-canada.html</link>
@@ -40,9 +58,9 @@
       <link>https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html" rel="standout"></atom:link>
-      <description>Forecasters warned of winds over 70 miles per hour in New York City and Philadelphia.</description>
+      <description>Forecasters warned of winds over 70 miles per hour in New York City,  Philadelphia, Baltimore and Washington.</description>
       <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 19:25:01 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 20:33:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
@@ -50,7 +68,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/18/weather/2026-07-18-ny-rain-index-promo/2026-07-18-ny-rain-index-promo-mediumSquareAt3X-v7.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/18/weather/2026-07-18-ny-rain-index-promo/2026-07-18-ny-rain-index-promo-mediumSquareAt3X-v13.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>

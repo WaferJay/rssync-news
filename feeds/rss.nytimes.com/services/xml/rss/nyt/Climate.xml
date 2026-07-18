@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 19:39:15 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 18:37:50 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 21:05:28 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 20:16:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -115,6 +115,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Canada Wildfires: What to Know</title>
+      <link>https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html" rel="standout"></atom:link>
+      <description>Hundreds of wildfires in Canada and the United States have blanketed large sections of North America in dense smoke over the past week.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 20:16:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-canada-wildfires-wtk-vcmj/18int-canada-wildfires-wtk-vcmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian Willms for The New York Times</media:credit>
+      <media:description>The observation deck of Toronto’s CN Tower on Wednesday as wildfire smoke enveloped downtown.</media:description>
     </item>
     <item>
       <title>What the US and Canada Can Expect from the Wildfire Smoke This Weekend</title>
@@ -1086,29 +1104,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-    </item>
-    <item>
-      <title>I Wanted an Ecologically Responsible Garden. It Was Harder Than I Thought.</title>
-      <link>https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/magazine/native-plants-garden.html" rel="standout"></atom:link>
-      <description>The native plant movement gets a lot right, but there’s so much more to consider.</description>
-      <dc:creator>Ferris Jabr</dc:creator>
-      <pubDate>Wed, 08 Jul 2026 20:39:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insects</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Invasive Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/magazine/19mag-native/19mag-native-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Balarama Heller for The New York Times</media:credit>
-      <media:description>A field of Phacelia blooming on the property of Douglas Tallamy.</media:description>
     </item>
   </channel>
 </rss>
