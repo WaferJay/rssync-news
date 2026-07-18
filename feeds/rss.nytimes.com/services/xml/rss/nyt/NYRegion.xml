@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 08:11:17 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 07:15:24 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 09:46:30 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 09:15:05 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -201,6 +201,26 @@
       <media:description>The fatal stabbing of O’Shae Sibley shocked the L.G.T.B.Q. community.</media:description>
     </item>
     <item>
+      <title>Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.</title>
+      <link>https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html" rel="standout"></atom:link>
+      <description>Lulu Garcia-Navarro sits down for an interview with the mayor of New York City.</description>
+      <dc:creator>Lulu Garcia-Navarro</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 09:15:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/magazine/26mag-interview-mamdani-03/26mag-interview-mamdani-03-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Devin Oktar Yalkin for The New York Times</media:credit>
+    </item>
+    <item>
       <title>How the MC Hotel in Montclair, N.J., Became a World Cup Hot Spot</title>
       <link>https://www.nytimes.com/2026/07/18/nyregion/world-cup-mc-hotel-montclair-nj.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/nyregion/world-cup-mc-hotel-montclair-nj.html</guid>
@@ -386,20 +406,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16wea-smoke-tpcb/16wea-smoke-tpcb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cole Burston/Agence France-Presse — Getty Images</media:credit>
       <media:description>Smoke gave the sky in Toronto an orange hue on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>‘Put It on My Tab’: The New York Restaurants With House Accounts</title>
-      <link>https://www.nytimes.com/2026/07/16/t-magazine/house-accounts-tab-nyc-restaurants.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/t-magazine/house-accounts-tab-nyc-restaurants.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/t-magazine/house-accounts-tab-nyc-restaurants.html" rel="standout"></atom:link>
-      <description>Plus: a vacation house in Normandy, sorrel dishes in Istanbul and more recommendations from T Magazine.</description>
-      <pubDate>Thu, 16 Jul 2026 21:02:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cooking and Cookbooks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1486" medium="image" url="https://static01.nyt.com/images/2026/07/15/t-magazine/design/15tmag-tlist-slide-AROX/15tmag-tlist-slide-AROX-mediumSquareAt3X-v2.jpg" width="1486"></media:content>
-      <media:credit>Left: Jack Califano. Right: Janice Chung for The New York Times</media:credit>
-      <media:description>Left: at Montague Diner in Brooklyn Heights, Brooklyn, house accounts are popular among neighborhood families. Right: at Wainwright’s Tavern, which opened on Manhattan’s Upper East Side in April, house account holders never have to ask for the check.</media:description>
     </item>
   </channel>
 </rss>
