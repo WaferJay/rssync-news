@@ -7,13 +7,26 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 11:24:13 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 11:12:11 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 12:06:21 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 12:00:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>America Caught World Cup Fever. His Job Is to Capitalize on It.</title>
+      <link>https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/business/dealbook/mls-don-garber-world-cup.html" rel="standout"></atom:link>
+      <description>Don Garber, the M.L.S. commissioner, has been planning for this moment for eight years.</description>
+      <dc:creator>Sarah Kessler</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 12:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garber, Don</category>
+    </item>
     <item>
       <title>World Cup Final Drives Billions in Bets on Kalshi and Polymarket</title>
       <link>https://www.nytimes.com/2026/07/18/business/world-cup-kalshi-polymarket.html</link>
@@ -1002,27 +1015,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15Biz-Ruemmler-Epstein-mhzl/15Biz-Ruemmler-Epstein-mhzl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>William B. Plowman/NBCUniversal, via Getty Images</media:credit>
       <media:description>Kathryn Ruemmler in 2014.</media:description>
-    </item>
-    <item>
-      <title>IBM’s Stock Crash Reignites Fears of A.I. Disruption in Software Sector</title>
-      <link>https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/business/dealbook/ibm-ai-software-consulting.html" rel="standout"></atom:link>
-      <description>The company tumbled sharply after previewing quarterly results that were disappointing. It’s not good news for software and tech consulting companies.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 12:31:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Business Machines Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ServiceNow</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Accenture Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cognizant Technology Solutions Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consultants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15db-ibm-selloff-czvm/15db-ibm-selloff-czvm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Benoit Tessier/Reuters</media:credit>
-      <media:description>A dire earnings preview from IBM’s chief executive, Arvind Krishna, spooked investors yesterday.</media:description>
     </item>
   </channel>
 </rss>
