@@ -3,17 +3,40 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1784329688571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 17 Jul 2026 23:08:08 +0000</lastBuildDate>
-    <pubDate>Fri, 17 Jul 2026 23:04:24 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 00:09:27 +0000</lastBuildDate>
+    <pubDate>Fri, 17 Jul 2026 23:46:33 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>South Carolina Man Who Fired Rifle to Scare a Black Neighbor Gets 9 Years</title>
+      <link>https://www.nytimes.com/2026/07/17/us/south-carolina-black-hate-crime-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/south-carolina-black-hate-crime-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/17/us/south-carolina-black-hate-crime-shooting.html" rel="standout"></atom:link>
+      <description>The man, Jonathan Andrew Felkel, fired a rifle and shouted a racial slur at the victim, whom he targeted because of his race, law enforcement officials said.</description>
+      <dc:creator>Mark Walker</dc:creator>
+      <pubDate>Fri, 17 Jul 2026 23:46:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Firearms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbia (SC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Felkel, Jonathan Andrew</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17xp-columbia-mvpw/17xp-columbia-mvpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeffrey Collins/Associated Press</media:credit>
+      <media:description>Jarvis McKenzie, the man targeted by a white neighbor, said he “was just going to work” the morning of the attack in July 2025.</media:description>
+    </item>
     <item>
       <title>Paul Pelosi Charged With Hit-and-Run in Napa Valley Crash</title>
       <link>https://www.nytimes.com/2026/07/17/us/paul-pelosi-napa-valley-crash.html</link>
@@ -699,31 +722,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-guerrero-colombia-gwvt/17nat-guerrero-colombia-gwvt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christopher Capozziello for The New York Times</media:credit>
       <media:description>A memorial for Johan Guerrero in Biddeford, Maine, where he was shot and killed by a federal immigration agent this week.</media:description>
-    </item>
-    <item>
-      <title>Wildfire Smokes Makes Air Hazardous for Millions in Midwest and East Coast</title>
-      <link>https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/us/wildfire-smoke-air-quality.html" rel="standout"></atom:link>
-      <description>The haze is likely to ease in the East this weekend but linger in the Upper Midwest, where some cities recorded extremely high pollution indexes on Thursday.</description>
-      <dc:creator>Judson Jones, Nicholas Bogel-Burroughs and Michael Levenson</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 00:11:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cleveland (Ohio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Detroit (Mich)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Ohio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Milwaukee (Wis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-wildfires-smoke-leadall-det-wqhm-promo/16nat-wildfires-smoke-leadall-det-wqhm-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nic Antaya for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
