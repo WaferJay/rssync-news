@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 18:25:40 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 18:03:18 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 19:39:20 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 19:25:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -36,13 +36,13 @@
       <media:description>Premier Doug Ford of Ontario after a news conference in Thunder Bay on Saturday. Roughly 1.7 million acres have burned in Ontario, data from the Canadian Interagency Forest Fire Center shows.</media:description>
     </item>
     <item>
-      <title>Thunderstorms Bring Threat of Strong Winds to Northeast</title>
+      <title>Thunderstorms Bring Threat of Flooding and Strong Winds to Northeast</title>
       <link>https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/18/weather/new-york-storms-updates.html" rel="standout"></atom:link>
       <description>Forecasters warned of winds over 70 miles per hour in New York City and Philadelphia.</description>
       <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 17:43:04 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 19:25:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
@@ -50,7 +50,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/18/weather/2026-07-18-ny-rain-index-promo/2026-07-18-ny-rain-index-promo-mediumSquareAt3X-v5.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/18/weather/2026-07-18-ny-rain-index-promo/2026-07-18-ny-rain-index-promo-mediumSquareAt3X-v7.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -191,13 +191,11 @@
       <atom:link href="https://www.nytimes.com/2026/07/17/weather/smoke-forecast.html" rel="standout"></atom:link>
       <description>The interplay between the burning fires, the smoke itself and quickly changing weather patterns is making the next few days more uncertain than usual.</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 20:40:54 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 20:40:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
@@ -213,18 +211,18 @@
       <description>A lack of sirens and flood forecasting systems made the state’s Hill Country vulnerable to deadly floods last summer. That has changed.</description>
       <dc:creator>Scott Dance and Edgar Sandoval</dc:creator>
       <pubDate>Fri, 17 Jul 2026 20:08:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rice University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Texas Tech University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Guadalupe River (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kerr County (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kerrville (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Austin (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17cli-floods-01-lmwz/17cli-floods-01-lmwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brandon Bell/Getty Images</media:credit>
       <media:description>Flood debris blocked a road in Kerrville, Texas, on Thursday.</media:description>

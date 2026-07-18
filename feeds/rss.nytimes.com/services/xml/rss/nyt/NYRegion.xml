@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 18:24:19 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 18:17:18 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 19:35:11 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 19:30:17 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -203,6 +203,23 @@
       <media:description>The carriage ride through the park has been a rite of passage for visitors to the city for ages.</media:description>
     </item>
     <item>
+      <title>Lillian Roberts, Crusading New York Labor Leader, Dies at 98</title>
+      <link>https://www.nytimes.com/2026/07/18/nyregion/lillian-roberts-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/nyregion/lillian-roberts-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/nyregion/lillian-roberts-dead.html" rel="standout"></atom:link>
+      <description>She unionized state hospitals and battled with Mayor Michael R. Bloomberg during her feisty leadership of the nation’s largest municipal workers union.</description>
+      <dc:creator>Alex Williams</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 19:30:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, Lillian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Federation of State, County and Municipal Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">District Council 37</category>
+      <media:content height="1547" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16Roberts-03-vmkb/16Roberts-03-vmkb-mediumSquareAt3X.jpg" width="1548"></media:content>
+      <media:credit>James Estrin/The New York Times</media:credit>
+      <media:description>Lillian Roberts in 2003 at her office at District Council 37. After a long absence, she had returned to lead the powerful union the previous year, when she was well into her 70s.</media:description>
+    </item>
+    <item>
       <title>Zohran Mamdani Knows He Has Political Capital. And He Intends to Spend It.</title>
       <link>https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/magazine/zohran-mamdani-interview.html</guid>
@@ -393,24 +410,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16met-kean-campaign-01-hwgk/16met-kean-campaign-01-hwgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Representative Tom Kean Jr., center, on June 30, when he returned to Congress after a monthslong absence.</media:description>
-    </item>
-    <item>
-      <title>Wildfire Smoke Causes Unhealthy Air Conditions in New York</title>
-      <link>https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/nyregion/new-york-air-quality-wildfire-smoke.html" rel="standout"></atom:link>
-      <description>Air quality levels were predicted to worsen through at least Thursday evening as smoke drifted south from Canada. The mayor urged people to stay inside to avoid negative health effects.</description>
-      <dc:creator>Christina Caron</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 19:33:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16met-hot-smoke-01-vghj/16met-hot-smoke-01-vghj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
-      <media:description>On Thursday morning, New Yorkers continued to experience hazy skies and declining air quality as smoke from the Canadian wildfires still hung in the air. </media:description>
     </item>
   </channel>
 </rss>

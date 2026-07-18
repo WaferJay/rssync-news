@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 18:22:15 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 18:19:08 +0000</pubDate>
+    <lastBuildDate>Sat, 18 Jul 2026 19:38:39 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 19:25:16 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Nebraska’s Democratic Senate Nominee Files to Withdraw From Race</title>
+      <link>https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html" rel="standout"></atom:link>
+      <description>The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.</description>
+      <dc:creator>Bayliss Wagner</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 19:25:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nebraska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18pol-nebraska-senate-khjl/18pol-nebraska-senate-khjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Walker Pickering for The New York Times</media:credit>
+      <media:description>Cindy Burbank in May.</media:description>
+    </item>
     <item>
       <title>Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor</title>
       <link>https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html</link>
@@ -484,23 +499,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17dc-repubs-01-pkhg/17dc-repubs-01-pkhg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump, seen on a screen during his speech at the White House on Thursday. Mr. Trump has made baseless assertions of election fraud for years, largely pointing to a similar set of concerns.</media:description>
-    </item>
-    <item>
-      <title>Trump’s Homeland Security Chief Threatens Election Officials With Prison Time</title>
-      <link>https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html" rel="standout"></atom:link>
-      <description>Markwayne Mullin reiterated the president’s false claims about voting security while escalating the administration’s legally questionable attempts to control state elections.</description>
-      <dc:creator>Nick Corasaniti and Dustin Volz</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 19:34:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Absentee Voting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17pol-mullin-mail-voting-jgcf/17pol-mullin-mail-voting-jgcf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Markwayne Mullin, the secretary of homeland security, repeated several false claims made by President Trump in a prime-time speech Thursday about the security of U.S. elections.</media:description>
     </item>
   </channel>
 </rss>
