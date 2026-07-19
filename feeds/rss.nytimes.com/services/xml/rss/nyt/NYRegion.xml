@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 16:21:43 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 15:57:10 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:26:06 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 16:53:01 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -54,7 +54,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html" rel="standout"></atom:link>
       <description>Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.</description>
       <dc:creator>Jeffery C. Mays</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 15:19:58 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 16:21:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Valdez, Claire (1989- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zinerman, Stefani</category>
@@ -104,12 +104,12 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/nyregion/world-cup-mc-hotel-montclair-nj.html" rel="standout"></atom:link>
       <description>A boutique hotel in Montclair, N.J., has been home base for Germany, England, Norway and now Spain. It has also drawn crowds of fans hoping for a glimpse of soccer stars.</description>
       <dc:creator>Sarah Maslin Nir</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 15:47:07 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 15:47:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montclair (NJ)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haaland, Erling Braut</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sherrill, Mikie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montclair (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18met-world-cup-nj-hotel-06-jpbc/18met-world-cup-nj-hotel-06-jpbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bryan Anselm for The New York Times</media:credit>
       <media:description>A month into the World Cup, the soccer fans of Montclair know the routine for how to spot the players.</media:description>
@@ -121,17 +121,15 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/nyregion/smoke-world-cup-final-nyc.html" rel="standout"></atom:link>
       <description>Smoke has blanketed New York City and other parts of the Northeast United States in a thick haze this week, unleashing smoggy skies and dangerous air.</description>
       <dc:creator>Maia Coleman</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 22:02:34 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 22:02:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MetLife Stadium (NJ)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Rutherford (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18met-smoke-wc-top-hmvf/18met-smoke-wc-top-hmvf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brian Snyder/Reuters</media:credit>
       <media:description>Smoke from the Canadian wildfires surrounded MetLife Stadium in New Jersey on Saturday.</media:description>
@@ -144,15 +142,14 @@
       <description>Mayor Zohran Mamdani said in an interview with The New York Times that he was in “an active conversation” with New York City’s Law Department on whether he had the authority to arrest the Israeli leader.</description>
       <dc:creator>Sally Goldenberg</dc:creator>
       <pubDate>Sat, 18 Jul 2026 21:33:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Law Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Court of Justice (UN)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18met-mamdani-interview-01-bwlf/18met-mamdani-interview-01-bwlf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>This week on “The Interview,” a New York Times show, Mayor Zohran Mamdani addressed questions about the Israeli prime minister, Benjamin Netanyahu, affordability in New York City and his wife.</media:description>
@@ -251,6 +248,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
       <media:content height="999" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/18xp-msg/18xp-msg-mediumSquareAt3X.jpg" width="999"></media:content>
       <media:credit>Jutharat Pinyodoonyachet for The New York Times</media:credit>
       <media:description>Wired reported in a July 9 article that the venue maintained a talent database containing information about the gender identity and sexual orientation of some V.I.P. guests.</media:description>
