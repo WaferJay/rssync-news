@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 12:08:11 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 10:59:49 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 15:27:54 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 15:11:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/weather/wildfire-smoke-latest-updates.html" rel="standout"></atom:link>
       <description>Forecasters expected the worst conditions across the Great Lakes region on Sunday, with air quality alerts in effect across the area.</description>
       <dc:creator>Amy Graff and Nazaneen Ghaffar</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 10:59:49 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 10:59:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -76,6 +76,7 @@
       <dc:creator>Vjosa Isai</dc:creator>
       <pubDate>Sat, 18 Jul 2026 18:03:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
@@ -83,6 +84,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thunder Bay (Ontario)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-canada-fires-ford-bvql/18int-canada-fires-ford-bvql-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cole Burston for The New York Times</media:credit>
