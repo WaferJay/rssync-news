@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 04:00:55 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 03:45:18 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 09:21:54 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 09:00:38 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -88,6 +88,50 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/podcasts/17hardfork-AI-Wars/17hardfork-AI-Wars-mediumSquareAt3X.png" width="1800"></media:content>
       <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Politicians Are Trying to Change What Chatbots Say About Them</title>
+      <link>https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html" rel="standout"></atom:link>
+      <description>Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.</description>
+      <dc:creator>Stuart A. Thompson and Tiffany Hsu</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 09:00:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19pol-chatbots-fqcp/19pol-chatbots-fqcp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Clayton Steward for The New York Times</media:credit>
+      <media:description>Dustin Lloyd, a Democratic candidate for Missouri’s state legislature, has learned how to influence what A.I. tells voters about his campaign.</media:description>
+    </item>
+    <item>
+      <title>The ‘Bad Blood’ Between Polymarket’s Shayne Coplan and Kalshi’s Tarek Mansour</title>
+      <link>https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/technology/polymarket-kalshi-rivalry-coplan-mansour.html" rel="standout"></atom:link>
+      <description>Shayne Coplan of Polymarket and Tarek Mansour of Kalshi are young billionaires intent on dominating prediction markets. It’s more than a battle. It’s “bad blood.”</description>
+      <dc:creator>David Yaffe-Bellany and William K. Rashbaum</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 09:00:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executives and Management (Theory)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intercontinental Exchange Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coplan, Shayne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mansour, Tarek</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/19/business/19Polymarket-cover-illo/19Polymarket-cover-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by Scott Anderson</media:credit>
     </item>
     <item>
       <title>Your ‘Live’ World Cup Broadcast Is Not Really Live</title>
@@ -387,42 +431,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wymer, Steve</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steiner, David (1959- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steiner, Ina (1962- )</category>
-    </item>
-    <item>
-      <title>Meta Removes A.I. Feature on Instagram After Days of Backlash</title>
-      <link>https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html" rel="standout"></atom:link>
-      <description>Users and Hollywood agencies raised privacy and copyright concerns about the new tool, Muse Image.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 12:34:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SAG-AFTRA</category>
-    </item>
-    <item>
-      <title>Apple Sues OpenAI, Accusing It of Stealing Company Secrets</title>
-      <link>https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/technology/apple-openai-lawsuit.html" rel="standout"></atom:link>
-      <description>The two companies struck a deal in 2024 to offer A.I. services on Apple devices, but their partnership has soured.</description>
-      <dc:creator>Kalley Huang and Cade Metz</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 18:00:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Industrial Espionage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/10biz-apple-openai2-tlmg/10biz-apple-openai2-tlmg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>Apple made several accusations against OpenAI in its lawsuit, including that OpenAI had asked job candidates from Apple to share details about secret projects.</media:description>
     </item>
   </channel>
 </rss>
