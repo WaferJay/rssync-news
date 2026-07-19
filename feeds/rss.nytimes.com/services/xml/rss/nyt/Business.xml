@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 17:28:55 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 17:03:38 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 23:10:36 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 22:22:28 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens</title>
+      <link>https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html" rel="standout"></atom:link>
+      <description>Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&amp;P 500 futures remained essentially unchanged.</description>
+      <dc:creator>Rebecca F. Elliott</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 22:22:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19biz-oil-stocks-gas-1-tbcm/19biz-oil-stocks-gas-1-tbcm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+    </item>
     <item>
       <title>Nolan’s ‘The Odyssey’ Brings in $124.5 Million at the Box Office on Opening Weekend</title>
       <link>https://www.nytimes.com/2026/07/19/business/media/the-odyssey-box-office-christopher-nolan.html</link>
@@ -981,26 +998,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15biz-nextera-1-hmtl/15biz-nextera-1-hmtl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Marco Bello/Getty Images</media:credit>
       <media:description>NextEra Energy’s headquarters in Juno Beach, Fla. Florida does not require regulatory approval of NextEra’s deal with Dominion Energy, but the companies filed requests with Virginia, North Carolina and South Carolina.</media:description>
-    </item>
-    <item>
-      <title>PayPal Receives $53 Billion Takeover Offer Involving Stripe</title>
-      <link>https://www.nytimes.com/2026/07/15/business/paypal-stripe-advent-takeover-bid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/business/paypal-stripe-advent-takeover-bid.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/business/paypal-stripe-advent-takeover-bid.html" rel="standout"></atom:link>
-      <description>PayPal, which owns Venmo, is the target of what one group of analysts described as a “lowball” offer from Stripe, another payment processor, and Advent, a private equity firm.</description>
-      <dc:creator>Lauren Hirsch and Stacy Cowley</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 21:05:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PayPal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stripe Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Advent International Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Venmo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eBay Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lores, Enrique</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
-      <media:content height="395" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15biz-paypal-bid-qvlk/15biz-paypal-bid-qvlk-mediumSquareAt3X.jpg" width="395"></media:content>
-      <media:credit>David Becker/Getty Images</media:credit>
-      <media:description>The share price of PayPal, which is led by Enrique Lores, has fallen 24 percent over the past year. </media:description>
     </item>
   </channel>
 </rss>
