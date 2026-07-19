@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 09:18:41 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 09:01:31 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 10:43:05 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 10:09:46 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -202,6 +202,15 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17met-sdny-pardon-01-bpfz/17met-sdny-pardon-01-bpfz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Michael Castillero was convicted by federal prosecutors of defrauding thousands of people in a sprawling investment scheme.</media:description>
+    </item>
+    <item>
+      <title>‘We Would Pile Into the Convertible and Head to Chinatown’</title>
+      <link>https://www.nytimes.com/2026/07/19/nyregion/metropolitan-diary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/nyregion/metropolitan-diary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
+      <description>The writer Jean Hanff Korelitz, the comedian Roy Wood Jr. and other notable friends of Metropolitan Diary share their New York City stories as the column marks its 50th anniversary.</description>
+      <pubDate>Sun, 19 Jul 2026 10:09:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
     </item>
     <item>
       <title>MetLife Stadium Faces Monumental Last Test in Sunday’s World Cup Final</title>
@@ -408,19 +417,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Department (NYC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/nyregion/17nytoday-MET-EMS-03/00MET-EMS-03-kjhp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban</media:credit>
-    </item>
-    <item>
-      <title>In an Ever-Changing East Village, Cafe Mogador Is a Constant</title>
-      <link>https://www.nytimes.com/2026/07/17/t-magazine/cafe-mogador-moroccan-restaurant-east-village-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/t-magazine/cafe-mogador-moroccan-restaurant-east-village-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/t-magazine/cafe-mogador-moroccan-restaurant-east-village-nyc.html" rel="standout"></atom:link>
-      <description>With its tasty, affordable fare and forever-young clientele, the decades-old New York restaurant is still one of the liveliest spots in the neighborhood.</description>
-      <dc:creator>Reggie Nadelson</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 12:47:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cafe Mogador (Manhattan, NY, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Village (Manhattan, NY)</category>
-      <category domain="">Moroccan Food (Cuisine)</category>
     </item>
   </channel>
 </rss>
