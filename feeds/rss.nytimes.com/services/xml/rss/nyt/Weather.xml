@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 04:00:51 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 03:35:48 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 12:08:11 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 10:59:49 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>When Will the Wildfire Smoke Clear?</title>
+      <link>https://www.nytimes.com/2026/07/19/weather/wildfire-smoke-latest-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/weather/wildfire-smoke-latest-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/weather/wildfire-smoke-latest-updates.html" rel="standout"></atom:link>
+      <description>Forecasters expected the worst conditions across the Great Lakes region on Sunday, with air quality alerts in effect across the area.</description>
+      <dc:creator>Amy Graff and Nazaneen Ghaffar</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 10:59:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19wea-sundaysmoke-zcgj/19wea-sundaysmoke-zcgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>Smoke from wildfires in Ontario and Minnesota, pictured in downtown Chicago on Thursday.</media:description>
+    </item>
     <item>
       <title>What to Know About Fires Caused by Lightning in the Pacific Northwest</title>
       <link>https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html</link>
@@ -190,7 +210,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-observed-smoke-embed-index/2026-07-15-observed-smoke-embed-index-mediumSquareAt3X-v5.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-observed-smoke-embed-index/2026-07-15-observed-smoke-embed-index-mediumSquareAt3X-v6.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
