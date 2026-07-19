@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 17:26:06 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 16:53:01 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:34:51 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 18:32:21 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
+    <item>
+      <title>Second Patient Dies in Outbreak of Legionnaires’ Disease in Manhattan</title>
+      <link>https://www.nytimes.com/2026/07/19/nyregion/legionnaires-disease-second-death-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/nyregion/legionnaires-disease-second-death-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/nyregion/legionnaires-disease-second-death-nyc.html" rel="standout"></atom:link>
+      <description>The second victim was an 88-year-old retired businessman and Air Force veteran who lived on the Upper East Side, his lawyer said.</description>
+      <dc:creator>Matthew Haag and Joseph Goldstein</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 18:21:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legionnaires&#39; Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Mental Hygiene Department (NYC)</category>
+      <media:content height="1335" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19met-legionnaires-death-kfhc/19met-legionnaires-death-kfhc-mediumSquareAt3X.jpg" width="1334"></media:content>
+      <media:credit>Mimi d’Autremont for The New York Times</media:credit>
+      <media:description>The city Health Department has ordered 76 buildings cleaned as part of its operation to address an outbreak of Legionnaires’ disease.</media:description>
+    </item>
     <item>
       <title>MetLife Stadium Faces Monumental Last Test in Sunday’s World Cup Final</title>
       <link>https://www.nytimes.com/2026/07/19/nyregion/metlife-stadium-world-cup-final.html</link>
@@ -21,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/nyregion/metlife-stadium-world-cup-final.html" rel="standout"></atom:link>
       <description>New Jersey’s N.F.L. stadium is used to big events. So far, it’s seen few issues during the World Cup, but Sunday’s final presents the biggest challenge yet.</description>
       <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 11:45:27 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 18:21:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
@@ -34,9 +51,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Short Hills (NJ)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montclair (NJ)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19world-cup-nynj-01-bmgq/19world-cup-nynj-01-bmgq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>Fans cheering at the start of a match between France and Senegal in the group stage at MetLife Stadium.</media:description>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19world-cup-nynj-bckv/19world-cup-nynj-bckv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Fans at MetLife Stadium in East Rutherford, N.J., before the start of the World Cup final between Argentina and Spain on Sunday.</media:description>
     </item>
     <item>
       <title>‘We Would Pile Into the Convertible and Head to Chinatown’</title>
@@ -150,6 +167,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Criminal Court</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18met-mamdani-interview-01-bwlf/18met-mamdani-interview-01-bwlf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>This week on “The Interview,” a New York Times show, Mayor Zohran Mamdani addressed questions about the Israeli prime minister, Benjamin Netanyahu, affordability in New York City and his wife.</media:description>
@@ -172,27 +190,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18met-mamdani-trump-02-hfjg/18met-mamdani-trump-02-hfjg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>President Trump and Mayor Zohran Mamdani, both New Yorkers, have maintained an unlikely relationship despite their political differences.</media:description>
-    </item>
-    <item>
-      <title>They Don’t Fight Crime, but They Do Eat Bugs: The Bats of N.Y.C.</title>
-      <link>https://www.nytimes.com/2026/07/18/nyregion/bats-nyc-highline-prospect-park.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/nyregion/bats-nyc-highline-prospect-park.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/18/nyregion/bats-nyc-highline-prospect-park.html" rel="standout"></atom:link>
-      <description>Several species of bats have made the city’s patchwork green spaces their homes, much to the surprise of some scientists.</description>
-      <dc:creator>Lauren Rosenfield and Dave Sanders</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 11:29:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bats</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birdwatching</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">High Line (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bat Conservation International</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Museum of Natural History</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green-Wood Cemetery (Brooklyn, NY)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/18/nyregion/18met-bats11-promo/18met-bats11-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
     </item>
     <item>
       <title>When Will the Wildfire Smoke Clear?</title>
@@ -229,7 +226,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goldberg, Whoopi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Washington, Kerry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">White, Whitney</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/18cul-whoopi-theater-01-zfjv/18cul-whoopi-theater-01-zfjv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/18cul-whoopi-theater-01-zfjv/18cul-whoopi-theater-01-zfjv-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Marcus Maddox for The New York Times</media:credit>
       <media:description>The director Whitney White and the actress Kerry Washington collaborated on “The Whoopi Monologues,” at Lincoln Center Theater.</media:description>
     </item>
@@ -295,6 +292,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/magazine/26mag-interview-mamdani-03/26mag-interview-mamdani-03-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Devin Oktar Yalkin for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>They Don’t Fight Crime, but They Do Eat Bugs: The Bats of N.Y.C.</title>
+      <link>https://www.nytimes.com/2026/07/18/nyregion/bats-nyc-highline-prospect-park.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/nyregion/bats-nyc-highline-prospect-park.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/nyregion/bats-nyc-highline-prospect-park.html" rel="standout"></atom:link>
+      <description>Several species of bats have made the city’s patchwork green spaces their homes, much to the surprise of some scientists.</description>
+      <dc:creator>Lauren Rosenfield and Dave Sanders</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 11:29:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birdwatching</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">High Line (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bat Conservation International</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Museum of Natural History</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Green-Wood Cemetery (Brooklyn, NY)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/18/nyregion/18met-bats11-promo/18met-bats11-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
     </item>
     <item>
       <title>Rhode Island Man Who Fled 2005 Rape Trial Is Arrested in New York</title>
@@ -396,19 +414,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fire Department (NYC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/nyregion/17nytoday-MET-EMS-03/00MET-EMS-03-kjhp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban</media:credit>
-    </item>
-    <item>
-      <title>In an Ever-Changing East Village, Cafe Mogador Is a Constant</title>
-      <link>https://www.nytimes.com/2026/07/17/t-magazine/cafe-mogador-moroccan-restaurant-east-village-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/t-magazine/cafe-mogador-moroccan-restaurant-east-village-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/t-magazine/cafe-mogador-moroccan-restaurant-east-village-nyc.html" rel="standout"></atom:link>
-      <description>With its tasty, affordable fare and forever-young clientele, the decades-old New York restaurant is still one of the liveliest spots in the neighborhood.</description>
-      <dc:creator>Reggie Nadelson</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 12:47:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cafe Mogador (Manhattan, NY, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Village (Manhattan, NY)</category>
-      <category domain="">Moroccan Food (Cuisine)</category>
     </item>
   </channel>
 </rss>

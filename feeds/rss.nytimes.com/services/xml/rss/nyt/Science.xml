@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 15:23:47 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 14:00:33 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:35:32 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 18:18:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -170,17 +170,22 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html" rel="standout"></atom:link>
       <description>The F.D.A. said that a new sample from the company’s Mexico facility had tested positive for cyclospora and that the agency was trying to trace affected products.</description>
       <dc:creator>Christina Jewett and Julie Creswell</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 14:00:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <pubDate>Sun, 19 Jul 2026 14:00:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sysco Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18dc-cyclo-lettuce-recall-gmfb/18dc-cyclo-lettuce-recall-gmfb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Benjamin Fanjoy/Getty Images</media:credit>
       <media:description>Taylor Farms — like other food producers — does not disclose which grocery stores or restaurants it distributes leafy greens or other vegetables to.</media:description>
@@ -193,22 +198,21 @@
       <description>Known for tracking California wildfires, Watch Duty is moving beyond that mission. Millions of people are turning to it for help.</description>
       <dc:creator>Scott Dance</dc:creator>
       <pubDate>Sat, 18 Jul 2026 09:01:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific Gas and Electric Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Watch Duty (Nonprofit)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18cli-watchduty-01-thcf/18cli-watchduty-01-thcf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joel Angel Juarez/Associated Press</media:credit>
       <media:description>An emergency vehicle at the flooding Guadalupe River in Comfort, Texas, on Thursday.</media:description>

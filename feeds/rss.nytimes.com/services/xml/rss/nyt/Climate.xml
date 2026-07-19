@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 16:22:25 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 15:57:10 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 19:33:38 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 18:40:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -143,7 +143,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html" rel="standout"></atom:link>
       <description>Hundreds of wildfires in Canada and the United States have blanketed large sections of North America in dense smoke over the past week.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 20:16:59 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 18:40:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
@@ -152,7 +152,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18int-canada-wildfires-wtk-vcmj/18int-canada-wildfires-wtk-vcmj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ian Willms for The New York Times</media:credit>
-      <media:description>The observation deck of Toronto’s CN Tower on Wednesday as wildfire smoke enveloped downtown.</media:description>
+      <media:description>The observation deck of Toronto’s CN Tower on Wednesday, as wildfire smoke enveloped downtown.</media:description>
     </item>
     <item>
       <title>What the US and Canada Can Expect from the Wildfire Smoke This Weekend</title>
@@ -183,22 +183,21 @@
       <description>Known for tracking California wildfires, Watch Duty is moving beyond that mission. Millions of people are turning to it for help.</description>
       <dc:creator>Scott Dance</dc:creator>
       <pubDate>Sat, 18 Jul 2026 09:01:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific Gas and Electric Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Watch Duty (Nonprofit)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18cli-watchduty-01-thcf/18cli-watchduty-01-thcf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joel Angel Juarez/Associated Press</media:credit>
       <media:description>An emergency vehicle at the flooding Guadalupe River in Comfort, Texas, on Thursday.</media:description>

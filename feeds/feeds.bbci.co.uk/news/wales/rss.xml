@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/wales</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 19 Jul 2026 17:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jul 2026 19:37:11 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/wales/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -19,7 +19,7 @@
             <description><![CDATA[Three men are held on suspicion of drugs-related offences following the death of a 25-year-old.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c20e6x5xe4yo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c20e6x5xe4yo#0</guid>
-            <pubDate>Sun, 19 Jul 2026 13:20:22 GMT</pubDate>
+            <pubDate>Sun, 19 Jul 2026 18:43:01 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0b/live/67a5b720-8372-11f1-b976-0b9c15b0ccfc.png"/>
         </item>
         <item>
@@ -31,7 +31,7 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77ca/live/f940e220-8374-11f1-bd77-1d1e03576fee.png"/>
         </item>
         <item>
-            <title><![CDATA[Robert Peston found it 'too difficult' returning to Wales after his wife's death ]]></title>
+            <title><![CDATA[ITV political editor found it 'too difficult' returning to Wales after wife's death ]]></title>
             <description><![CDATA[The couple spent a lot of time in Wales, enjoying walks along the coast. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqjxr1wwggno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqjxr1wwggno#0</guid>
@@ -45,6 +45,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2047z42e7lo#0</guid>
             <pubDate>Sun, 19 Jul 2026 06:01:10 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/452b/live/6ded8060-82bc-11f1-87aa-2bcbbeff03e6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Man charged with murder after woman dies following street altercation]]></title>
+            <description><![CDATA[Specially-trained firearms officers were sent to a Newport property in the early hours of Saturday. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c04kpx2l3p9o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c04kpx2l3p9o#0</guid>
+            <pubDate>Sun, 19 Jul 2026 18:55:39 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb4/live/db82aa50-82ae-11f1-b712-c75e4f365ddb.jpg"/>
         </item>
         <item>
             <title><![CDATA[FM defends voting with Reform despite criticising Labour for doing same]]></title>
@@ -66,7 +74,7 @@
             <title><![CDATA[Wales' first Esports world champion hopes win will open doors in Formula One ]]></title>
             <description><![CDATA[His world championship win was on simulators, but Otis hopes it translates to the real world.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c4gv1q802yyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gv1q802yyo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gv1q802yyo#1</guid>
             <pubDate>Sun, 19 Jul 2026 06:01:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8256/live/034bfb00-5f8b-11f1-8410-a1e9d4628253.jpg"/>
         </item>
@@ -93,14 +101,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce8515085q6o#1</guid>
             <pubDate>Sat, 18 Jul 2026 19:21:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8070/live/c79ce1d0-82cd-11f1-adf9-c14531781464.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Murder investigation after woman found dead following street altercation]]></title>
-            <description><![CDATA[Specially-trained firearms officers were sent to an altercation, with the woman found nearby. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c04kpx2l3p9o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c04kpx2l3p9o#1</guid>
-            <pubDate>Sat, 18 Jul 2026 12:37:16 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acb4/live/db82aa50-82ae-11f1-b712-c75e4f365ddb.jpg"/>
         </item>
         <item>
             <title><![CDATA[E-bike batteries blamed for second bin lorry fire]]></title>
@@ -255,20 +255,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d093/live/6b4b8490-7ad5-11f1-a802-f3189f6d55aa.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Swansea close in on deal for Motherwell's Just]]></title>
+            <description><![CDATA[Swansea City hope to tie up a deal for Motherwell's Elijah Just after he impressed for New Zealand at the World Cup.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/cqlxreqep15o#3</guid>
+            <pubDate>Sun, 19 Jul 2026 19:16:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d75e/live/fea3aa10-83a4-11f1-8175-0b71720eeb65.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Mounting questions for Wales after Durban defeat]]></title>
             <description><![CDATA[Wales complete Steve Tandy's first season in charge with three wins and nine defeats in 12 internationals.]]></description>
             <link>https://www.bbc.co.uk/sport/rugby-union/articles/cm2gyr70dmno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/cm2gyr70dmno#3</guid>
             <pubDate>Sun, 19 Jul 2026 09:43:00 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c4/live/76261910-82f6-11f1-b2a8-97a80a3a9f99.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Evans sixth in Estonia but extends WRC lead]]></title>
-            <description><![CDATA[Welshman Elfyn Evans extends his lead in his bid for a first World Rally Championship title despite finishing sixth at Delfi Rally Estonia.]]></description>
-            <link>https://www.bbc.co.uk/sport/motorsport/articles/cgmkv1njm34o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/motorsport/articles/cgmkv1njm34o#3</guid>
-            <pubDate>Sun, 19 Jul 2026 13:08:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcff/live/67ded0e0-8364-11f1-a0d2-c70a9d6f1fff.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wales beat Tonga in last warm-up for Commonwealths]]></title>
@@ -295,12 +295,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c36/live/de7081b0-7f5c-11f1-a97a-9b1029617ccb.png"/>
         </item>
         <item>
-            <title><![CDATA[Tandy bitterly disappointed by South Africa drubbing]]></title>
-            <description><![CDATA[Steve Tandy commended his side's efforts but could not hide his disappointment with Wales' Nations Championship loss to South Africa.]]></description>
-            <link>https://www.bbc.co.uk/sport/rugby-union/articles/ckg62xwdwpxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-union/articles/ckg62xwdwpxo#3</guid>
-            <pubDate>Sat, 18 Jul 2026 20:52:40 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e42/live/27d59c90-82dd-11f1-9a15-3bb955e2f294.jpg"/>
+            <title><![CDATA[Wales beaten by determined Canada in Neath]]></title>
+            <description><![CDATA[Wales are nilled by Canada when beaten in Neath as they prepare for the Rugby League World Cup in Australia.]]></description>
+            <link>https://www.bbc.co.uk/sport/rugby-league/articles/cjwx066q41no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/rugby-league/articles/cjwx066q41no#3</guid>
+            <pubDate>Sun, 19 Jul 2026 19:01:21 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b4e/live/3989a830-8393-11f1-a5a2-831b760e8e14.jpg"/>
         </item>
         <item>
             <title><![CDATA[Wrexham boss Parkinson confident of summer deals]]></title>
