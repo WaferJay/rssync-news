@@ -1,57 +1,93 @@
 {
   "last_updated_feeds": [
     {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSUSnews",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSUSnews"
+    },
+    {
       "url": "https://www.rfi.fr/fr/sports/rss",
       "path": "feeds/www.rfi.fr/fr/sports/rss"
-    },
-    {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
-    },
-    {
-      "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
     },
     {
       "url": "https://feeds.bbci.co.uk/news/rss.xml",
       "path": "feeds/feeds.bbci.co.uk/news/rss.xml"
     },
     {
-      "url": "https://www.rfi.fr/fr/rss",
-      "path": "feeds/www.rfi.fr/fr/rss"
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/business/rss.xml"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/afrique/rss",
+      "path": "feeds/www.rfi.fr/fr/afrique/rss"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
     },
     {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
       "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/World.xml"
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "path": "feeds/feeds.bbci.co.uk/news/northern_ireland/rss.xml"
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/US.xml"
     },
     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
     },
     {
-      "url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWSJD"
+      "url": "https://www.rfi.fr/fr/rss",
+      "path": "feeds/www.rfi.fr/fr/rss"
     },
     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Weather.xml"
+      "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/zhongwen/trad/rss.xml"
     },
     {
-      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWorldNews"
+      "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/health/rss.xml"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/rsssportsfeed",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/rsssportsfeed"
+    },
+    {
+      "url": "https://www.rfi.fr/en/sport/rss",
+      "path": "feeds/www.rfi.fr/en/sport/rss"
+    },
+    {
+      "url": "https://www.rfi.fr/en/rss",
+      "path": "feeds/www.rfi.fr/en/rss"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/science_and_environment/rss.xml"
     },
     {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
       "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Business.xml"
     },
     {
-      "url": "https://www.rfi.fr/fr/ameriques/rss",
-      "path": "feeds/www.rfi.fr/fr/ameriques/rss"
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWorldNews"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Weather.xml"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/europe/rss",
+      "path": "feeds/www.rfi.fr/fr/europe/rss"
     }
   ],
-  "update_time": 1784416468531
+  "update_time": 1784420005352
 }

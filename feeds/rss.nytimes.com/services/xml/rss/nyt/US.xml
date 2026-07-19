@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 22:08:38 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 20:57:47 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 00:11:59 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 23:59:03 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>What to Know About Fires Caused by Lightning in the Pacific Northwest</title>
+      <link>https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html" rel="standout"></atom:link>
+      <description>Dozens of fires ignited in Oregon and Washington as more than 14,000 lightning strikes hit the region during thunderstorms this week.</description>
+      <dc:creator>Maia Spoto and Amy Graff</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 23:59:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+    </item>
     <item>
       <title>Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race</title>
       <link>https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html</link>
@@ -386,23 +401,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-ca-billionaire-tax-zfvk/17nat-ca-billionaire-tax-zfvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jae C. Hong/Associated Press</media:credit>
       <media:description>A campaign event for a proposed billionaire tax in Los Angeles in February. </media:description>
-    </item>
-    <item>
-      <title>Trump Endorses Graham for Senate, Scrambling South Carolina Primary</title>
-      <link>https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html" rel="standout"></atom:link>
-      <description>Senator Darline Graham had been seen as a caretaker for her brother’s seat after his sudden death. Now she has the president’s nod in what was shaping up to be a crowded fight to succeed Lindsey Graham.</description>
-      <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 21:50:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17trump-news-graham2-jzck/17trump-news-graham2-jzck-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Darline Graham, left, was sworn in on Tuesday at the Capitol.</media:description>
     </item>
   </channel>
 </rss>

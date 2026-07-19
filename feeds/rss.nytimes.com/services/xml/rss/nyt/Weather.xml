@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 18 Jul 2026 23:14:28 +0000</lastBuildDate>
-    <pubDate>Sat, 18 Jul 2026 23:01:31 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 00:08:58 +0000</lastBuildDate>
+    <pubDate>Sat, 18 Jul 2026 23:59:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>What to Know About Fires Caused by Lightning in the Pacific Northwest</title>
+      <link>https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/us/what-to-know-fires-lightning-pacific-northwest.html" rel="standout"></atom:link>
+      <description>Dozens of fires ignited in Oregon and Washington as more than 14,000 lightning strikes hit the region during thunderstorms this week.</description>
+      <dc:creator>Maia Spoto and Amy Graff</dc:creator>
+      <pubDate>Sat, 18 Jul 2026 23:59:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+    </item>
     <item>
       <title>Canada Wildfires: What to Know</title>
       <link>https://www.nytimes.com/2026/07/18/world/canada/canada-wildfires-what-to-know.html</link>
@@ -175,7 +190,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lightning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-observed-smoke-embed-index/2026-07-15-observed-smoke-embed-index-mediumSquareAt3X-v4.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/2026-07-15-observed-smoke-embed-index/2026-07-15-observed-smoke-embed-index-mediumSquareAt3X-v5.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -760,27 +775,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15int-canada-smoke-wkhc/15int-canada-smoke-wkhc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Laura Proctor/The Canadian Press, via Associated Press</media:credit>
       <media:description>The CN Tower in Toronto on Wednesday as smoke from wildfires enveloped the city.</media:description>
-    </item>
-    <item>
-      <title>California Weather Shift Brings With It a Risk of Unhealthy Heat and Wildfires</title>
-      <link>https://www.nytimes.com/2026/07/15/weather/california-heat-fire-forecast.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/weather/california-heat-fire-forecast.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/weather/california-heat-fire-forecast.html" rel="standout"></atom:link>
-      <description>Wednesday will bring some of the hottest temperatures of the year, and fire experts are warning of combustible conditions throughout the state.</description>
-      <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 12:00:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Southern California Wildfires (Jan 2025)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cal Fire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pacific Gas and Electric Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Bay (San Francisco, Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/14/weather/2026-07-14-ca-heat-index-promo/2026-07-14-ca-heat-index-promo-mediumSquareAt3X-v69.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
