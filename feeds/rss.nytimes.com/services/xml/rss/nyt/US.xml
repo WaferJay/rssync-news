@@ -7,13 +7,41 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 19 Jul 2026 12:07:57 +0000</lastBuildDate>
-    <pubDate>Sun, 19 Jul 2026 11:44:25 +0000</pubDate>
+    <lastBuildDate>Sun, 19 Jul 2026 13:53:15 +0000</lastBuildDate>
+    <pubDate>Sun, 19 Jul 2026 13:41:13 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Sánchez will attend the World Cup final, and so will his vocal critic, Trump.</title>
+      <link>https://www.nytimes.com/live/2026/us/fifa-world-cup/tension-looms-as-trump-and-sanchez-will-attend-the-world-cup-final</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/us/fifa-world-cup/tension-looms-as-trump-and-sanchez-will-attend-the-world-cup-final</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/us/fifa-world-cup/tension-looms-as-trump-and-sanchez-will-attend-the-world-cup-final" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 13:41:13 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17world-cup-trump-sanchez-hkvf/17world-cup-trump-sanchez-hkvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ludovic Marin/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Prime Minister Pedro Sánchez of Spain’s left-leaning views have made him a frequent target of President Trump’s criticism. Both men will be at the World Cup final on Sunday.</media:description>
+    </item>
+    <item>
+      <title>Misery in the Epicenter of Cyclospora: ‘A Baseball Bat to Your Abdomen’</title>
+      <link>https://www.nytimes.com/2026/07/19/us/cyclospora-michigan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/us/cyclospora-michigan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/us/cyclospora-michigan.html" rel="standout"></atom:link>
+      <description>The debilitating malady has gripped Monroe County, Mich.</description>
+      <dc:creator>Nicholas Bogel-Burroughs</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 13:00:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Monroe (Mich)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/00nat-spora-town-pfqg/00nat-spora-town-pfqg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nick Hagen for The New York Times</media:credit>
+      <media:description>Sherry Dommer is one of several thousand people across the Midwest who are believed to have contracted the cyclospora parasite.</media:description>
+    </item>
     <item>
       <title>D.H.S. Won’t Name Agents Who Kill. Local Police Agencies Are More Open.</title>
       <link>https://www.nytimes.com/2026/07/19/us/dhs-officer-names-shootings.html</link>
@@ -39,7 +67,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html" rel="standout"></atom:link>
       <description>Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.</description>
       <dc:creator>Stuart A. Thompson and Tiffany Hsu</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 09:00:38 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 12:57:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
@@ -48,7 +76,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19pol-chatbots-fqcp/19pol-chatbots-fqcp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Clayton Steward for The New York Times</media:credit>
-      <media:description>Dustin Lloyd, a Democratic candidate for Missouri’s state legislature, has learned how to influence what A.I. tells voters about his campaign.</media:description>
+      <media:description>Dustin Lloyd, a Democratic primary candidate for Missouri’s state legislature, has learned how to influence what A.I. tells voters about his campaign.</media:description>
     </item>
     <item>
       <title>Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations</title>
@@ -354,10 +382,15 @@
       <description>The Southern rapper paid $600,000 to two right-wing operatives. Now, they’re in a dispute over a contract the rapper believes entitles him to at least half his money back.</description>
       <dc:creator>Rick Rojas</dc:creator>
       <pubDate>Sat, 18 Jul 2026 09:02:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boosie Badazz</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/us/18nat-boosie-pardon/18nat-boosie-pardon-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boosie BadAzz (Rapper)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burkman, Jack</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wohl, Jacob (1997- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/us/18nat-boosie-pardon/18nat-boosie-pardon-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jeff Hahne/Getty Images</media:credit>
       <media:description>Boosie BadAzz performing in Charlotte, N.C., last year. </media:description>
     </item>
@@ -415,38 +448,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/00dc-sanctions-zbct/00dc-sanctions-zbct-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>The Treasury Department in Washington.</media:description>
-    </item>
-    <item>
-      <title>How Criminal Cases Against ICE Protesters Are Crumbling</title>
-      <link>https://www.nytimes.com/video/us/100000010977388/how-criminal-cases-against-ice-protesters-are-crumbling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/us/100000010977388/how-criminal-cases-against-ice-protesters-are-crumbling.html</guid>
-      <atom:link href="https://www.nytimes.com/video/us/100000010977388/how-criminal-cases-against-ice-protesters-are-crumbling.html" rel="standout"></atom:link>
-      <description>Our investigative reporter Danny Hakim describes how the government has lost or abandoned hundreds of criminal cases against protesters and immigrants.</description>
-      <dc:creator>Danny Hakim, Gilad Thaler, Caroline Kim, Jon Miller, Joey Sendaydiego, Edward Vega and Melanie Bencosme</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 09:00:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-    </item>
-    <item>
-      <title>They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.</title>
-      <link>https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html" rel="standout"></atom:link>
-      <description>The Trump administration has lost or abandoned hundreds of criminal cases against protesters and immigrants, a Times investigation found.</description>
-      <dc:creator>Mike McIntire, Danny Hakim, Alexandra Berzon, Jazmine Ulloa and Lauren McCarthy</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 19:49:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Border Patrol (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bovino, Gregory</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bondi, Pamela J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Attorneys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
     </item>
   </channel>
 </rss>
