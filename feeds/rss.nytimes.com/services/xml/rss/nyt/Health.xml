@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 19:10:14 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 19:07:44 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:26:15 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 21:19:49 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -30,6 +30,20 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
       <media:content height="1199" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X-v2.jpg" width="1200"></media:content>
       <media:credit>Juan Bernabeu</media:credit>
+    </item>
+    <item>
+      <title>The Sewer Knows What You Ate</title>
+      <link>https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html" rel="standout"></atom:link>
+      <description>During the Covid-19 pandemic, wastewater testing became a virus warning system. Now, scientists are using the approach to understand how communities eat.</description>
+      <dc:creator>Simar Bajaj</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 19:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
     </item>
     <item>
       <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
@@ -165,22 +179,6 @@
       <media:description>Flavored electronic cigarette devices displayed for sale at a store in Pinecrest, Fla. in 2023.</media:description>
     </item>
     <item>
-      <title>‘Sully,’ ‘Miracle on the Hudson’ Pilot, Announces Alzheimer’s Diagnosis</title>
-      <link>https://www.nytimes.com/2026/07/14/us/captain-sully-sullenberger-alzheimers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/us/captain-sully-sullenberger-alzheimers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/us/captain-sully-sullenberger-alzheimers.html" rel="standout"></atom:link>
-      <description>Captain Sullenberger, who is known as Sully, said that the disease was in its early stages, and that he was “in the beginning of this long journey.”</description>
-      <dc:creator>Alena Cerro</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 22:10:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullenberger, Chesley B III</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Airways Flight 1549</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer&#39;s Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dementia</category>
-      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14xp-sully-gvzb/14xp-sully-gvzb-mediumSquareAt3X.jpg" width="1600"></media:content>
-      <media:credit>Heidi Schumann for The New York Times</media:credit>
-      <media:description>Chesley B. Sullenberger III, who is known as Sully, near his home in Danville, Calif., in 2009.</media:description>
-    </item>
-    <item>
       <title>Walt Odets, Who Delved Into the Minds of Gay Men, Dies at 79</title>
       <link>https://www.nytimes.com/2026/07/18/health/walt-odets-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/health/walt-odets-dead.html</guid>
@@ -238,6 +236,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17re-air-quality-tkfg/17re-air-quality-tkfg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Angelina Katsanis for The New York Times</media:credit>
       <media:description>Wildfires in Ontario have led to poor air quality in major cities, including New York. </media:description>
+    </item>
+    <item>
+      <title>‘Sully,’ ‘Miracle on the Hudson’ Pilot, Announces Alzheimer’s Diagnosis</title>
+      <link>https://www.nytimes.com/2026/07/14/us/captain-sully-sullenberger-alzheimers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/us/captain-sully-sullenberger-alzheimers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/us/captain-sully-sullenberger-alzheimers.html" rel="standout"></atom:link>
+      <description>Captain Sullenberger, who is known as Sully, said that the disease was in its early stages, and that he was “in the beginning of this long journey.”</description>
+      <dc:creator>Alena Cerro</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 22:10:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullenberger, Chesley B III</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Airways Flight 1549</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alzheimer&#39;s Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dementia</category>
+      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14xp-sully-gvzb/14xp-sully-gvzb-mediumSquareAt3X.jpg" width="1600"></media:content>
+      <media:credit>Heidi Schumann for The New York Times</media:credit>
+      <media:description>Chesley B. Sullenberger III, who is known as Sully, near his home in Danville, Calif., in 2009.</media:description>
     </item>
     <item>
       <title>Leonard Abramson, Health Care Innovator and Philanthropist, Dies at 93</title>
@@ -384,20 +398,6 @@
       <media:content height="1022" medium="image" url="https://static01.nyt.com/images/2026/07/20/technology/personaltech/08BIZ-TECHTIP-TOPART/08BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="1022"></media:content>
       <media:credit>Google; Samsung; Apple</media:credit>
       <media:description>From left, the Google Health, the Samsung Health and Apple’s Health apps offer plenty of tools and features to help you manage your diet, exercise and personal safety.</media:description>
-    </item>
-    <item>
-      <title>This Kind of Obsessive Attraction Isn’t Love. But It Has a Name.</title>
-      <link>https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html" rel="standout"></atom:link>
-      <description>Limerence is more than a crush, psychologists say, and it can persist for months or years.</description>
-      <dc:creator>Melinda Wenner Moyer</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 09:00:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obsessive-Compulsive Disorder</category>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 20:43:51 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 20:39:21 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 22:24:02 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 22:19:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Trump to Impose 50% Tariff on Many Canadian Goods</title>
+      <link>https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html" rel="standout"></atom:link>
+      <description>The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.</description>
+      <dc:creator>Ana Swanson and Ian Austen</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 22:01:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sales and Excise Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20DC-TRUMP-CANADA-01-twqm/20DC-TRUMP-CANADA-01-twqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Geoff Robins/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The tariffs, which go into effect in 30 days, would be imposed on a range of Canadian exports, including wine and dairy products.</media:description>
+    </item>
     <item>
       <title>Andy Burnham, New UK Prime Minister, Names John Healey As Top Finance Official</title>
       <link>https://www.nytimes.com/2026/07/20/business/andy-burnham-john-healey.html</link>
@@ -921,28 +942,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16db-anthropic-thmv/16db-anthropic-thmv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Anthropic appears to be on track for a mega-I.P.O. scheduled for the fall.</media:description>
-    </item>
-    <item>
-      <title>Google Ordered to Give A.I. Rivals More Access on Android Smartphones</title>
-      <link>https://www.nytimes.com/2026/07/16/technology/google-android-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/technology/google-android-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/technology/google-android-ai.html" rel="standout"></atom:link>
-      <description>The decision by European Union regulators is a response to fears that Google will use its vast Android user base to gain an edge in A.I.</description>
-      <dc:creator>Adam Satariano</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 13:56:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16BIZ-EU-AI-kqgf/16BIZ-EU-AI-kqgf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Poppy Lynch for The New York Times</media:credit>
-      <media:description>Google’s Android operating system powers about 60 percent of all smartphones in the European Union.</media:description>
     </item>
   </channel>
 </rss>
