@@ -7,35 +7,71 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 04:56:42 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 03:15:29 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:19:40 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 12:36:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/health</link>
     </image>
     <item>
-      <title>Cyclospora Linked to Taylor Farms Lettuce Sent to Taco Bell</title>
-      <link>https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/well/cyclospora-taylor-farms-lettuce-taco-bell.html" rel="standout"></atom:link>
-      <description>Federal officials worked with Michigan investigators to trace the outbreak to iceberg lettuce, which may also have gone to other vendors.</description>
-      <dc:creator>Christina Jewett, Alice Callahan and Caroline Hopkins Legaspi</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 20:46:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <title>The Best Genetic Risk Tools Don’t Work Equally for Everyone</title>
+      <link>https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html" rel="standout"></atom:link>
+      <description>Genetic prediction models are poised to revolutionize medicine. But because they have been trained on European DNA, they threaten to widen health care disparities.</description>
+      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 09:01:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X.jpg" width="1200"></media:content>
+      <media:credit>Juan Bernabeu</media:credit>
+    </item>
+    <item>
+      <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
+      <link>https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html" rel="standout"></atom:link>
+      <description>The affected products were shipped starting June 29 and have expiration dates through Aug. 3.</description>
+      <dc:creator>Christina Jewett and Julie Creswell</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 00:10:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16WELL-CYCLOSPORA-SOURCE-gcbk/16WELL-CYCLOSPORA-SOURCE-gcbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mario Tama/Getty Images</media:credit>
-      <media:description>Cyclosporiasis cases have been linked to iceberg lettuce that Taylor Farms supplied to Taco Bell.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sysco Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18dc-cyclo-lettuce-recall-gmfb/18dc-cyclo-lettuce-recall-gmfb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Benjamin Fanjoy/Getty Images</media:credit>
+      <media:description>Taylor Farms — like other food producers — does not disclose which grocery stores or restaurants it distributes leafy greens or other vegetables to.</media:description>
+    </item>
+    <item>
+      <title>Sibling Therapy Is on the Rise. Could It Help My Relationship With My Brother?</title>
+      <link>https://www.nytimes.com/2026/07/19/magazine/sibling-therapy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/magazine/sibling-therapy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/19/magazine/sibling-therapy.html" rel="standout"></atom:link>
+      <description>I was drawn to and worried about this sort of therapy — maybe there were dangers in stirring things up.</description>
+      <dc:creator>Daniel Bergner</dc:creator>
+      <pubDate>Sun, 19 Jul 2026 09:00:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
     </item>
     <item>
       <title>The F.D.A. Approves a New Pill to Slash Cholesterol Levels</title>
@@ -145,80 +181,6 @@
       <media:description>Chesley B. Sullenberger III, who is known as Sully, near his home in Danville, Calif., in 2009.</media:description>
     </item>
     <item>
-      <title>What Is an Aortic Dissection?</title>
-      <link>https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html" rel="standout"></atom:link>
-      <description>The condition that killed Senator Lindsey Graham is deadly, sudden and difficult to treat — “like a knife to the heart,” one expert said.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 15:24:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aorta</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12SCI-TEAR-tjlq/12SCI-TEAR-tjlq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anna Rose Layden for The New York Times</media:credit>
-      <media:description>Senator Lindsey Graham speaking to reporters on Capitol Hill last year. He died on Saturday.</media:description>
-    </item>
-    <item>
-      <title>There’s an Injury Epidemic in Pro Sports. There’s Also a Recovery Revolution.</title>
-      <link>https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/magazine/theres-an-injury-epidemic-in-pro-sports-theres-also-a-recovery-revolution.html" rel="standout"></atom:link>
-      <description>Athletes are pushing their bodies to astonishing feats, knowing that medical advances can heal them quickly.</description>
-      <dc:creator>Devin Gordon</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 13:33:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physical Therapy</category>
-    </item>
-    <item>
-      <title>Sibling Therapy Is on the Rise. Could It Help My Relationship With My Brother?</title>
-      <link>https://www.nytimes.com/2026/07/19/magazine/sibling-therapy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/magazine/sibling-therapy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/19/magazine/sibling-therapy.html" rel="standout"></atom:link>
-      <description>I was drawn to and worried about this sort of therapy — maybe there were dangers in stirring things up.</description>
-      <dc:creator>Daniel Bergner</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 09:00:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-    </item>
-    <item>
-      <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
-      <link>https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html" rel="standout"></atom:link>
-      <description>The affected products were shipped starting June 29 and have expiration dates through Aug. 3.</description>
-      <dc:creator>Christina Jewett and Julie Creswell</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:10:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sysco Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18dc-cyclo-lettuce-recall-gmfb/18dc-cyclo-lettuce-recall-gmfb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Benjamin Fanjoy/Getty Images</media:credit>
-      <media:description>Taylor Farms — like other food producers — does not disclose which grocery stores or restaurants it distributes leafy greens or other vegetables to.</media:description>
-    </item>
-    <item>
       <title>Walt Odets, Who Delved Into the Minds of Gay Men, Dies at 79</title>
       <link>https://www.nytimes.com/2026/07/18/health/walt-odets-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/health/walt-odets-dead.html</guid>
@@ -315,6 +277,24 @@
       <media:description>Major medical groups have consistently stressed that Tylenol is the safest option to treat pain or fever during pregnancy.</media:description>
     </item>
     <item>
+      <title>What Is an Aortic Dissection?</title>
+      <link>https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html" rel="standout"></atom:link>
+      <description>The condition that killed Senator Lindsey Graham is deadly, sudden and difficult to treat — “like a knife to the heart,” one expert said.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Mon, 13 Jul 2026 15:24:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aorta</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/12/multimedia/12SCI-TEAR-tjlq/12SCI-TEAR-tjlq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Rose Layden for The New York Times</media:credit>
+      <media:description>Senator Lindsey Graham speaking to reporters on Capitol Hill last year. He died on Saturday.</media:description>
+    </item>
+    <item>
       <title>U.S. Citizen Tests Positive for Ebola in Democratic Republic of Congo</title>
       <link>https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/11/world/africa/dr-congo-ebola-american-us-citizen.html</guid>
@@ -403,6 +383,20 @@
       <media:content height="1022" medium="image" url="https://static01.nyt.com/images/2026/07/20/technology/personaltech/08BIZ-TECHTIP-TOPART/08BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="1022"></media:content>
       <media:credit>Google; Samsung; Apple</media:credit>
       <media:description>From left, the Google Health, the Samsung Health and Apple’s Health apps offer plenty of tools and features to help you manage your diet, exercise and personal safety.</media:description>
+    </item>
+    <item>
+      <title>This Kind of Obsessive Attraction Isn’t Love. But It Has a Name.</title>
+      <link>https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/09/well/mind/love-attraction-limerence.html" rel="standout"></atom:link>
+      <description>Limerence is more than a crush, psychologists say, and it can persist for months or years.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Thu, 09 Jul 2026 09:00:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Obsessive-Compulsive Disorder</category>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 04:53:07 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 01:23:14 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:21:32 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 13:10:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -115,6 +115,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>When Will the Wildfire Smoke End? Latest Air Quality Updates and Maps</title>
+      <link>https://www.nytimes.com/2026/07/20/weather/canadian-wildfire-smoke-air-quality-us.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/weather/canadian-wildfire-smoke-air-quality-us.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/weather/canadian-wildfire-smoke-air-quality-us.html" rel="standout"></atom:link>
+      <description>On Monday, hazy skies and poor air quality continued to affect parts of the Midwest and Great Lakes region.</description>
+      <dc:creator>Nazaneen Ghaffar</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 13:03:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20wea-monday-smoke-vqbk/20wea-monday-smoke-vqbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cole Burston for The New York Times</media:credit>
+      <media:description>Smoke in Thunder Bay, Ontario, on Sunday.</media:description>
     </item>
     <item>
       <title>When Will the Wildfire Smoke Clear?</title>
@@ -1088,26 +1106,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/climate/07cli-szabo-01/07cli-szabo-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Annabelle Gordon/Sipa USA, via Alamy Live News</media:credit>
       <media:description>Aaron Szabo, right, during a confirmation hearing last year to lead the Environmental Protection Agency’s Office of Air and Radiation.</media:description>
-    </item>
-    <item>
-      <title>Nation’s 250th Celebration Fireworks Sent D.C. Air Pollution Spiking</title>
-      <link>https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/07/climate/washington-dc-fireworks-air-pollution.html" rel="standout"></atom:link>
-      <description>The president promised a record display of some 850,000 pyrotechnics for the country’s 250th birthday. The Park Service warned it could get dirty.</description>
-      <dc:creator>Quinn Glabicki</dc:creator>
-      <pubDate>Tue, 07 Jul 2026 17:41:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clarity Movement</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/07cli-fireworks-pollution-02-hkfw/07cli-fireworks-pollution-02-hkfw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>The pollution began dissipating by morning, though it lingered longer in neighborhoods to the north of the city.</media:description>
     </item>
   </channel>
 </rss>

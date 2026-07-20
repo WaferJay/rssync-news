@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 11:15:44 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 10:24:59 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 13:21:32 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 12:37:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>The Best Genetic Risk Tools Don’t Work Equally for Everyone</title>
+      <link>https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html" rel="standout"></atom:link>
+      <description>Genetic prediction models are poised to revolutionize medicine. But because they have been trained on European DNA, they threaten to widen health care disparities.</description>
+      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 09:01:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X.jpg" width="1200"></media:content>
+      <media:credit>Juan Bernabeu</media:credit>
+    </item>
     <item>
       <title>A Mathematical Tribute to the Soccer Ball</title>
       <link>https://www.nytimes.com/2026/07/17/science/mathematical-tribute-soccer-ball.html</link>
@@ -131,54 +148,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science Advances (Journal)</category>
-    </item>
-    <item>
-      <title>New Winged Robot Can Fly and Swim Like a Puffin</title>
-      <link>https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html" rel="standout"></atom:link>
-      <description>Inspired by the physical feats of diving birds, researchers have created a robot that can plunge into the water and flap back into the air.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 20:20:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Puffins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
-    </item>
-    <item>
-      <title>Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman</title>
-      <link>https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html" rel="standout"></atom:link>
-      <description>Physicists have debated which way a submerged sprinkler sucking in water would spin. Careful experiments provide an answer.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 21:22:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feynman, Richard P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>The Best Genetic Risk Tools Don’t Work Equally for Everyone</title>
-      <link>https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html" rel="standout"></atom:link>
-      <description>Genetic prediction models are poised to revolutionize medicine. But because they have been trained on European DNA, they threaten to widen health care disparities.</description>
-      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 09:01:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X.jpg" width="1200"></media:content>
-      <media:credit>Juan Bernabeu</media:credit>
     </item>
     <item>
       <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
@@ -495,6 +464,21 @@
       <media:description>Flavored electronic cigarette devices displayed for sale at a store in Pinecrest, Fla. in 2023.</media:description>
     </item>
     <item>
+      <title>New Winged Robot Can Fly and Swim Like a Puffin</title>
+      <link>https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/science/new-winged-robot-can-fly-and-swim-like-a-puffin.html" rel="standout"></atom:link>
+      <description>Inspired by the physical feats of diving birds, researchers have created a robot that can plunge into the water and flap back into the air.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Tue, 14 Jul 2026 20:20:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Puffins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
+    </item>
+    <item>
       <title>Roger Worthington Is Suing Over a Heat Wave</title>
       <link>https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html</guid>
@@ -518,6 +502,22 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/00cli-worthington-01-bvqj/00cli-worthington-01-bvqj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael Hanson for The New York Times</media:credit>
       <media:description>Roger Worthington in a garden adjacent to his brewery in Bend, Ore.</media:description>
+    </item>
+    <item>
+      <title>Researchers Claim to Have Solved the Perplexing ‘Reverse Sprinkler’ Problem That Stumped Feynman</title>
+      <link>https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/14/science/reverse-sprinkler-physics-problem.html" rel="standout"></atom:link>
+      <description>Physicists have debated which way a submerged sprinkler sucking in water would spin. Careful experiments provide an answer.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Wed, 15 Jul 2026 21:22:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Physics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feynman, Richard P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Dark Sky Defenders Raise Alarm Along the Border of West Texas</title>
