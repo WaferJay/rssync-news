@@ -7,21 +7,38 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 04:56:43 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 04:11:40 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 08:17:17 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 08:01:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
     <item>
-      <title>Oil Prices Cross $90 a Barrel as U.S.-Iran Conflict Widens</title>
+      <title>U.S. Average Gas Price Returns to $4 a Gallon as Iran Crisis Escalates</title>
+      <link>https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/business/four-dollar-gas-iran-war.html" rel="standout"></atom:link>
+      <description>A month ago, drivers were enjoying some relief at the pump after the U.S. and Iran signed a deal intended to reopen the Strait of Hormuz. Now, prices are rising again.</description>
+      <dc:creator>Katie Robertson</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 07:57:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/Biz-Gas-Four-ctmq/Biz-Gas-Four-ctmq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabriel V. Cárdenas for The New York Times</media:credit>
+      <media:description>Gasoline prices, which had been falling in recent weeks, are almost back up to where they were a month ago.</media:description>
+    </item>
+    <item>
+      <title>Global Oil Price Crosses $90 a Barrel as U.S.-Iran Conflict Widens</title>
       <link>https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/19/business/oil-prices-stocks-gas.html" rel="standout"></atom:link>
       <description>Brent crude, the global benchmark for oil, rose more than 3 percent as trading resumed on Sunday, while S&amp;P 500 futures remained essentially unchanged.</description>
       <dc:creator>Rebecca F. Elliott</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 04:11:40 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 07:45:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -978,30 +995,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/00biz-nytimes-HFO-zktf/00biz-nytimes-HFO-zktf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump boarding the new Air Force One at Joint Base Andrews in Maryland this month.</media:description>
-    </item>
-    <item>
-      <title>NextEra and Dominion File to Form a Huge Power Company</title>
-      <link>https://www.nytimes.com/2026/07/15/business/nextera-dominion-regulators-filing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/business/nextera-dominion-regulators-filing.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/business/nextera-dominion-regulators-filing.html" rel="standout"></atom:link>
-      <description>They asked regulators in three states and at a federal agency to approve a deal that would create a combined company with 10 million customers across the Southeast.</description>
-      <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 23:50:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NextEra Energy Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dominion Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Energy Regulatory Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Florida Power &amp; Light Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ketchum, John W</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15biz-nextera-1-hmtl/15biz-nextera-1-hmtl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Marco Bello/Getty Images</media:credit>
-      <media:description>NextEra Energy’s headquarters in Juno Beach, Fla. Florida does not require regulatory approval of NextEra’s deal with Dominion Energy, but the companies filed requests with Virginia, North Carolina and South Carolina.</media:description>
     </item>
   </channel>
 </rss>
