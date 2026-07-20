@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 16:44:49 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 16:29:42 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:07:52 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 19:06:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html" rel="standout"></atom:link>
       <description>As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.</description>
       <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 14:04:16 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:06:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
@@ -32,7 +32,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Larry</category>
     </item>
     <item>
-      <title>‘Vibecoded’ Apps Are Flooding Apple’s App Store</title>
+      <title>A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store</title>
       <link>https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html" rel="standout"></atom:link>
@@ -82,15 +82,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mansour, Tarek</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executives and Management (Theory)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intercontinental Exchange Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/19/business/19Polymarket-cover-illo/19Polymarket-cover-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Illustration by Scott Anderson</media:credit>
+    </item>
+    <item>
+      <title>Judge Temporarily Pauses Paramount-Warner Bros. Deal</title>
+      <link>https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/business/media/paramount-warner-bros-deal.html" rel="standout"></atom:link>
+      <description>The delay is intended to give the court time to consider a lawsuit that argues the $111 billion merger violates antitrust laws.</description>
+      <dc:creator>David McCabe</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 17:23:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Pictures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20biz-paramount-cgbh/20biz-paramount-cgbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Abramson for The New York Times</media:credit>
+      <media:description>The Warner Bros. studio in Burbank, Calif.</media:description>
     </item>
     <item>
       <title>Politicians Are Trying to Change What Chatbots Say About Them</title>
@@ -106,6 +119,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lloyd, Dustin (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, State Legislature</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19pol-chatbots-fqcp/19pol-chatbots-fqcp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Clayton Steward for The New York Times</media:credit>
       <media:description>Dustin Lloyd, a Democratic primary candidate for Missouri’s state legislature, has learned how to influence what A.I. tells voters about his campaign.</media:description>
@@ -397,30 +413,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/13ST-BACKYARD-BASEBALL-portraits-01-lcvj/13ST-BACKYARD-BASEBALL-portraits-01-lcvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Akilah Townsend for The New York Times</media:credit>
       <media:description>“I had blind confidence,” Lindsay Barnett said, describing her mind-set at the start of her quest.</media:description>
-    </item>
-    <item>
-      <title>U.S. Electric Vehicle Sales are Down but E.V. Chargers are Booming</title>
-      <link>https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/business/electric-vehicles-charging-stations.html" rel="standout"></atom:link>
-      <description>Electric vehicle chargers are proliferating in Southern states as fast food restaurants, stores and other businesses try to lure customers.</description>
-      <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 13:19:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mercedes-Benz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buc-ee&#39;s Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bojangles of America Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Savannah (Ga)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Georgia</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13biz-ev-charging-01-cmzq/13biz-ev-charging-01-cmzq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gavin McIntyre for The New York Times</media:credit>
-      <media:description>A Bojangles in Savannah, Ga., recently added E.V. charging stations outside the restaurant.</media:description>
     </item>
   </channel>
 </rss>

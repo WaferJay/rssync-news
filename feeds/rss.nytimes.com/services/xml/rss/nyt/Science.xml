@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 16:47:09 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 12:37:20 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 19:11:01 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 19:07:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,14 +21,14 @@
       <atom:link href="https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html" rel="standout"></atom:link>
       <description>Genetic prediction models are poised to revolutionize medicine. But because they have been trained on European DNA, they threaten to widen health care disparities.</description>
       <dc:creator>Emily Baumgaertner Nunn</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 09:01:32 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 19:07:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X.jpg" width="1200"></media:content>
+      <media:content height="1199" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X-v2.jpg" width="1200"></media:content>
       <media:credit>Juan Bernabeu</media:credit>
     </item>
     <item>
@@ -148,6 +148,20 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science Advances (Journal)</category>
+    </item>
+    <item>
+      <title>The Sewer Knows What You Ate</title>
+      <link>https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/science/sewer-diet-research.html" rel="standout"></atom:link>
+      <description>During the Covid-19 pandemic, wastewater testing became a virus warning system. Now, scientists are using the approach to understand how communities eat.</description>
+      <dc:creator>Simar Bajaj</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 19:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diet and Nutrition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
     </item>
     <item>
       <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
