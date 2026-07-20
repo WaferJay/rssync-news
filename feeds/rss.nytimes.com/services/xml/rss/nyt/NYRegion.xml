@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 00:55:18 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 00:49:31 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 04:56:42 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 04:45:40 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,26 +39,24 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/nyregion/black-latino-leaders-dsa-nyc.html" rel="standout"></atom:link>
       <description>Longtime leaders and advocates in minority districts fear that victories by the Democratic Socialists of America in gentrifying neighborhoods could mean political erasure.</description>
       <dc:creator>Jeffery C. Mays</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 16:21:49 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 16:21:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Valdez, Claire (1989- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zinerman, Stefani</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Velazquez, Nydia M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Avila Chevalier, Darializa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reynoso, Antonio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huntley, Eon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Hakeem</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/nyregion/26met-dsa-black-latino-qmpf/05met-dsa-black-latino-qmpf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Angelina Katsanis for The New York Times</media:credit>
       <media:description>A watch party for Representative Adriano Espaillat, a five-term incumbent and the first formerly undocumented person elected to Congress. He was among the politicians who lost to a democratic socialist in the primaries.</media:description>
@@ -80,11 +78,11 @@
       <description>New Jersey’s N.F.L. stadium is used to big events. So far, it’s seen few issues during the World Cup, but Sunday’s final presents the biggest challenge yet.</description>
       <dc:creator>David Waldstein</dc:creator>
       <pubDate>Mon, 20 Jul 2026 00:17:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MetLife Stadium (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Two Thousand Twenty Six</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Messi, Lionel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yamal, Lamine (2007- )</category>
@@ -114,21 +112,20 @@
       <media:description>A month into the World Cup, the soccer fans of Montclair know the routine for how to spot the players.</media:description>
     </item>
     <item>
-      <title>Second Patient Dies in Outbreak of Legionnaires’ Disease in Manhattan</title>
+      <title>Two More Patients Die in Outbreak of Legionnaires’ Disease in Manhattan</title>
       <link>https://www.nytimes.com/2026/07/19/nyregion/legionnaires-disease-second-death-nyc.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/nyregion/legionnaires-disease-second-death-nyc.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/19/nyregion/legionnaires-disease-second-death-nyc.html" rel="standout"></atom:link>
-      <description>The second victim was an 88-year-old retired businessman and Air Force veteran who lived on the Upper East Side, his lawyer said.</description>
+      <description>The deaths brought the toll in the outbreak to three. The second person who died was an 88-year-old retired businessman who lived on the Upper East Side, his lawyer said.</description>
       <dc:creator>Matthew Haag and Joseph Goldstein</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 18:21:23 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 04:45:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legionnaires&#39; Disease</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Mental Hygiene Department (NYC)</category>
       <media:content height="1335" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/19met-legionnaires-death-kfhc/19met-legionnaires-death-kfhc-mediumSquareAt3X.jpg" width="1334"></media:content>
       <media:credit>Mimi d’Autremont for The New York Times</media:credit>
-      <media:description>The city Health Department has ordered 76 buildings cleaned as part of its operation to address an outbreak of Legionnaires’ disease.</media:description>
+      <media:description>The city’s health department ordered 76 buildings to clean and disinfect their cooling systems as part of its operation to address an outbreak of Legionnaires’ disease.</media:description>
     </item>
     <item>
       <title>Before Lettuce Felled Thousands, a Cilantro-Linked Cyclospora Outbreak Sickened New Yorkers</title>
@@ -236,7 +233,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/theater/whoopi-goldberg-kerry-washington-whoopi-monologues.html" rel="standout"></atom:link>
       <description>The actress Kerry Washington and the director Whitney White want to honor Goldberg’s theatrical legacy by revisiting her acclaimed portraits of humanity.</description>
       <dc:creator>Salamishah Tillet</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 09:00:52 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 03:21:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Off Broadway)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Whoopi Monologues (Play)</category>
@@ -313,13 +310,14 @@
     </item>
     <item>
       <title>Trump and Mamdani to Attend World Cup Final on Sunday</title>
-      <link>https://www.nytimes.com/live/2026/us/fifa-world-cup/trump-mamdani-world-cup-final</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/us/fifa-world-cup/trump-mamdani-world-cup-final</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/us/fifa-world-cup/trump-mamdani-world-cup-final" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/article/trump-mamdani-world-cup-final.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/article/trump-mamdani-world-cup-final.html</guid>
+      <atom:link href="https://www.nytimes.com/article/trump-mamdani-world-cup-final.html" rel="standout"></atom:link>
       <description>They have no plans to meet, but it is the second time in a month that the two ubiquitous political figures will be at the same signature sporting event.</description>
       <dc:creator>Jeffery C. Mays</dc:creator>
       <pubDate>Sat, 18 Jul 2026 14:38:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
