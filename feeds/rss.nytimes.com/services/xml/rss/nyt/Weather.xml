@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 13:21:38 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:24:13 +0000</lastBuildDate>
     <pubDate>Mon, 20 Jul 2026 13:10:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -65,7 +65,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-two-al022026-satellite_map/cyclone-tracker-2025-two-al022026-satellite_map-mediumSquareAt3X-v22.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-two-al022026-satellite_map/cyclone-tracker-2025-two-al022026-satellite_map-mediumSquareAt3X-v25.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -774,25 +774,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16wea-smoke-tpcb/16wea-smoke-tpcb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cole Burston/Agence France-Presse — Getty Images</media:credit>
       <media:description>Smoke gave the sky in Toronto an orange hue on Wednesday.</media:description>
-    </item>
-    <item>
-      <title>Flash Flooding Worsens in Texas After Dozens Are Rescued From Rising Water</title>
-      <link>https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/weather/texas-flooding-boerne.html" rel="standout"></atom:link>
-      <description>The Guadalupe River had surged to potentially catastrophic levels, forecasters warned on Thursday. Over 20 river gauges across the state were expected to reach flood stage.</description>
-      <dc:creator>Judson Jones, Christine Hauser and Isabella Kwai</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 14:59:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Central Texas Floods (July 2025)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rio Grande River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Antonio (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
     </item>
   </channel>
 </rss>
