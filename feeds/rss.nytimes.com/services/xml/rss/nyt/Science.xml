@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 20 Jul 2026 00:57:19 +0000</lastBuildDate>
-    <pubDate>Mon, 20 Jul 2026 00:10:09 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Jul 2026 11:15:44 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Jul 2026 10:24:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -162,6 +162,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Feynman, Richard P</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>The Best Genetic Risk Tools Don’t Work Equally for Everyone</title>
+      <link>https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html" rel="standout"></atom:link>
+      <description>Genetic prediction models are poised to revolutionize medicine. But because they have been trained on European DNA, they threaten to widen health care disparities.</description>
+      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 09:01:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X.jpg" width="1200"></media:content>
+      <media:credit>Juan Bernabeu</media:credit>
     </item>
     <item>
       <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
@@ -587,23 +604,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/13/science/13tylenol-lawsuits/13tylenol-lawsuits-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kylie Cooper/Reuters</media:credit>
       <media:description>Major medical groups have consistently stressed that Tylenol is the safest option to treat pain or fever during pregnancy.</media:description>
-    </item>
-    <item>
-      <title>‘We’re Fighting Satan’: The War to Save Bees From a Hornet Invasion</title>
-      <link>https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/science/south-carolina-yellow-legged-hornets.html" rel="standout"></atom:link>
-      <description>As yellow-legged hornets spread through South Carolina’s Lowcountry region, threatening the local honey crop, a state team of bee defenders is racing to the rescue.</description>
-      <dc:creator>Jack Tamisiea and Sean Rayford</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 15:26:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hornets (Insects)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pest Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <media:content height="1051" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/SCI-CAROLINAHORNETS-stillpromo/SCI-CAROLINAHORNETS-stillpromo-mediumSquareAt3X.jpg" width="1051"></media:content>
-      <media:credit>Sean Rayford for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
