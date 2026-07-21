@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 09:44:50 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 09:05:30 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:26:06 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 14:24:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -23,10 +23,12 @@
       <dc:creator>Emily Baumgaertner Nunn</dc:creator>
       <pubDate>Mon, 20 Jul 2026 19:07:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
       <media:content height="1199" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X-v2.jpg" width="1200"></media:content>
       <media:credit>Juan Bernabeu</media:credit>
@@ -44,6 +46,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
     </item>
     <item>
       <title>A Mathematical Tribute to the Soccer Ball</title>
@@ -148,6 +151,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds</title>
+      <link>https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html" rel="standout"></atom:link>
+      <description>New research also shows that children and high-risk adult populations have been particularly affected.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 14:24:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">amfAR, The Foundation for AIDS Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clinton Health Access Initiative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International AIDS Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-hiv-data-photo-jcmw/21dc-hiv-data-photo-jcmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>A health clinic in Johannesburg that was closed in 2025, following cuts in U.S. aid.</media:description>
     </item>
     <item>
       <title>The U.S. Is Pulling Back on Energy Efficiency</title>
@@ -538,31 +560,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Massachusetts Institute of Technology</category>
-    </item>
-    <item>
-      <title>Roger Worthington Is Suing Over a Heat Wave</title>
-      <link>https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html" rel="standout"></atom:link>
-      <description>Roger Worthington is helping to lead a $50 billion lawsuit against oil producers. This week he’ll face powerful critics in Congress.</description>
-      <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 14:50:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Worthington, Roger (1961- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Multnomah County (Ore)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Law Institute (Nonprofit)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/00cli-worthington-01-bvqj/00cli-worthington-01-bvqj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael Hanson for The New York Times</media:credit>
-      <media:description>Roger Worthington in a garden adjacent to his brewery in Bend, Ore.</media:description>
     </item>
   </channel>
 </rss>

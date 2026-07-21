@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 09:45:47 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 09:11:15 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:27:03 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 14:24:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -23,10 +23,12 @@
       <dc:creator>Emily Baumgaertner Nunn</dc:creator>
       <pubDate>Mon, 20 Jul 2026 19:07:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
       <media:content height="1199" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X-v2.jpg" width="1200"></media:content>
       <media:credit>Juan Bernabeu</media:credit>
@@ -44,6 +46,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
     </item>
     <item>
       <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
@@ -177,6 +180,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14dc-tobacco-fjlt/14dc-tobacco-fjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rebecca Blackwell/Associated Press</media:credit>
       <media:description>Flavored electronic cigarette devices displayed for sale at a store in Pinecrest, Fla. in 2023.</media:description>
+    </item>
+    <item>
+      <title>1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds</title>
+      <link>https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html" rel="standout"></atom:link>
+      <description>New research also shows that children and high-risk adult populations have been particularly affected.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 14:24:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">amfAR, The Foundation for AIDS Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clinton Health Access Initiative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International AIDS Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-hiv-data-photo-jcmw/21dc-hiv-data-photo-jcmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joao Silva/The New York Times</media:credit>
+      <media:description>A health clinic in Johannesburg that was closed in 2025, following cuts in U.S. aid.</media:description>
     </item>
     <item>
       <title>‘Too Rare to Care’? A New Center for Rare Diseases Hopes to Change That</title>
@@ -378,25 +400,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming Pools</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>New York Sues Companies Over ‘Forever Chemicals’</title>
-      <link>https://www.nytimes.com/2026/07/09/nyregion/ny-pfas-lawsuit-3m-dupont.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/nyregion/ny-pfas-lawsuit-3m-dupont.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/09/nyregion/ny-pfas-lawsuit-3m-dupont.html" rel="standout"></atom:link>
-      <description>The lawsuit claims that the companies, including 3M and DuPont, contaminated the environment and engaged in fraud by withholding information from the public about the harms of the chemicals, known as PFAS.</description>
-      <dc:creator>Christina Caron and Hilary Howard</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 22:22:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">3M Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DuPont Co</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/09met-pfas-lawsuit-zvtq/09met-pfas-lawsuit-zvtq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Alban/The New York Times</media:credit>
-      <media:description>Letitia James, the New York attorney general, said that chemical companies operating in the state “knowingly sold toxic products.”</media:description>
     </item>
   </channel>
 </rss>
