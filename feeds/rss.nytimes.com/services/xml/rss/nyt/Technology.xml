@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 16:49:16 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 16:46:01 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 18:43:08 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 18:29:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -66,8 +66,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TheVerge.com</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berners-Lee, Tim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Larry</category>
     </item>
     <item>
       <title>A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store</title>
@@ -83,6 +81,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/APPLE-VIBECODING-sub-mgqt/APPLE-VIBECODING-sub-mgqt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
       <media:description>Artificial intelligence is feeding a boom in the number of apps available in Apple’s App Store.</media:description>
@@ -136,12 +135,16 @@
       <dc:creator>Cade Metz</dc:creator>
       <pubDate>Mon, 20 Jul 2026 09:02:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenRouter Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/00biz-us-china-ai-xi-qcwh/00biz-us-china-ai-xi-qcwh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Greg Baker/Agence France-Presse — Getty Images</media:credit>
       <media:description>On Friday, China’s leader, Xi Jinping, hailed Beijing as the champion of a new global A.I. order.</media:description>
