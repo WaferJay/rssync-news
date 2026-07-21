@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 03:51:41 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 02:47:51 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:44:22 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 09:12:06 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -47,7 +47,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20met-edc-kpch/20met-edc-kpch-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20met-edc-kpch/20met-edc-kpch-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Richard Perry/The New York Times</media:credit>
       <media:description>Anthony Shorris, a former first deputy mayor under Bill de Blasio, is a government veteran who ran the Port Authority of New York and New Jersey, and now works for McKinsey.</media:description>
     </item>
@@ -176,6 +176,77 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20met-mayo-01-vhwc/20met-mayo-01-vhwc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jefferson Siegel for The New York Times</media:credit>
       <media:description>Ismael Zambada García pleaded guilty to sweeping drug trafficking charges. As a co-founder of the Sinaloa cartel, he was responsible for trafficking drugs into the United States for decades.</media:description>
+    </item>
+    <item>
+      <title>Tuesday Forecast: Millions In Northeast Face Heavy Rain and Powerful Winds</title>
+      <link>https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html" rel="standout"></atom:link>
+      <description>Forecasters zeroed in on an area from Kentucky to New York as being the most at risk for dangerous weather.</description>
+      <dc:creator>Erin McCann, Judson Jones and Nazaneen Ghaffar</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 09:12:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jersey City (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/20/weather/2026-07-20-tuesday-northeast-index-promo/2026-07-20-tuesday-northeast-index-promo-mediumSquareAt3X-v19.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>He Sent $1 to Mamdani. City Hall Sent It Back.</title>
+      <link>https://www.nytimes.com/2026/07/21/nyregion/mamdani-dollar-bill-artist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/nyregion/mamdani-dollar-bill-artist.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/mamdani-dollar-bill-artist.html" rel="standout"></atom:link>
+      <description>A Brooklyn artist had hoped that the mayor would tape the decorated dollar bill above his desk “just like at a bodega.”</description>
+      <dc:creator>James Barron</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 09:02:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appraisals and Valuation (Property)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Conflicts of Interest Board (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zambada Garcia, Ismael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crown Heights (Brooklyn, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/nyregion/21nytoday/21nytoday-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>via Steve Pikelny</media:credit>
+    </item>
+    <item>
+      <title>The World Cup in New York and New Jersey, by the Numbers</title>
+      <link>https://www.nytimes.com/2026/07/21/nyregion/world-cup-nyc-nj-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/nyregion/world-cup-nyc-nj-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/world-cup-nyc-nj-economy.html" rel="standout"></atom:link>
+      <description>The World Cup brought hordes of soccer fans to town, and locals flocked to watch parties. But did the games deliver on promises of an economic boon?</description>
+      <dc:creator>Emma G. Fitzsimmons, David Waldstein and Stefanos Chen</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Metropolitan Area</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Airbnb</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citi Bike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MetLife Stadium (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hotel Association of New York</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Dating</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/nyregion/26met-world-cup-impact-kicker-klmv/21met-world-cup-impact-kicker-klmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Officials said the economic impact of the World Cup was on track to exceed expectations.</media:description>
     </item>
     <item>
       <title>Trump Says Netanyahu Will Not Be Arrested in the U.S.</title>
@@ -353,68 +424,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/nyregion/19met-disease-detectives-1/19met-disease-detectives-1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alamy Stock Photo</media:credit>
       <media:description>The New York City health department investigated a smaller cyclosporiasis outbreak earlier this year.</media:description>
-    </item>
-    <item>
-      <title>Madison Square Garden Sues Wired Magazine Over L.G.B.T.Q. Tracking Report</title>
-      <link>https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/18/business/media/msg-entertainment-sues-wired-magazine.html" rel="standout"></atom:link>
-      <description>The Manhattan venue claims a July article from the technology magazine falsely implied that it tracked information about some celebrities’ sexual orientation for “discriminatory purposes.”</description>
-      <dc:creator>John S.W. MacDonald and Mack Liederman</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 02:34:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Square Garden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wired (Magazine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <media:content height="999" medium="image" url="https://static01.nyt.com/images/2026/07/02/multimedia/18xp-msg/18xp-msg-mediumSquareAt3X.jpg" width="999"></media:content>
-      <media:credit>Jutharat Pinyodoonyachet for The New York Times</media:credit>
-      <media:description>Wired reported in a July 9 article that the venue maintained a talent database containing information about the gender identity and sexual orientation of some V.I.P. guests.</media:description>
-    </item>
-    <item>
-      <title>Wildfire Smoke Hangs Over World Cup Final</title>
-      <link>https://www.nytimes.com/2026/07/18/nyregion/smoke-world-cup-final-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/nyregion/smoke-world-cup-final-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/18/nyregion/smoke-world-cup-final-nyc.html" rel="standout"></atom:link>
-      <description>Smoke has blanketed New York City and other parts of the Northeast United States in a thick haze this week, unleashing smoggy skies and dangerous air.</description>
-      <dc:creator>Maia Coleman</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 22:02:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stadiums and Arenas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MetLife Stadium (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Rutherford (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18met-smoke-wc-top-hmvf/18met-smoke-wc-top-hmvf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brian Snyder/Reuters</media:credit>
-      <media:description>Smoke from the Canadian wildfires surrounded MetLife Stadium in New Jersey on Saturday.</media:description>
-    </item>
-    <item>
-      <title>Lillian Roberts, Crusading New York Labor Leader, Dies at 98</title>
-      <link>https://www.nytimes.com/2026/07/18/nyregion/lillian-roberts-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/nyregion/lillian-roberts-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/18/nyregion/lillian-roberts-dead.html" rel="standout"></atom:link>
-      <description>She unionized state hospitals and battled with Mayor Michael R. Bloomberg during her feisty leadership of the nation’s largest municipal workers union.</description>
-      <dc:creator>Alex Williams</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 19:30:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, Lillian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Federation of State, County and Municipal Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">District Council 37</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <media:content height="1547" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16Roberts-03-vmkb/16Roberts-03-vmkb-mediumSquareAt3X.jpg" width="1548"></media:content>
-      <media:credit>James Estrin/The New York Times</media:credit>
-      <media:description>Lillian Roberts in 2003 at her office at District Council 37. After a long absence, she had returned to lead the powerful union the previous year, when she was well into her 70s.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 06:41:29 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 04:22:49 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 09:41:47 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 09:01:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -89,6 +89,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/19/business/19Polymarket-cover-illo/19Polymarket-cover-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Illustration by Scott Anderson</media:credit>
+    </item>
+    <item>
+      <title>When Listening to Music Was a Team Sport</title>
+      <link>https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html" rel="standout"></atom:link>
+      <description>An exhibition at the Cooper Hewitt celebrates the glorious machines that gave us the soundtracks of our lives before streaming sites shoved them toward obsolescence.</description>
+      <dc:creator>Walker Mimms</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 09:01:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acoustics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cooper Hewitt, Smithsonian Design Museum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rams, Dieter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dylan, Bob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Glaser, Milton</category>
     </item>
     <item>
       <title>Judge Temporarily Pauses Paramount-Warner Bros. Deal</title>
@@ -400,28 +416,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/13/multimedia/13biz-kalshi-openai-kqcj/13biz-kalshi-openai-kqcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Helgas for The New York Times</media:credit>
       <media:description>Kalshi has struck a partnership with OpenAI tied to the World Cup.</media:description>
-    </item>
-    <item>
-      <title>How a Teacher Revived Backyard Baseball</title>
-      <link>https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/13/style/backyard-baseball-video-game-teacher.html" rel="standout"></atom:link>
-      <description>Backyard Baseball, a favorite game for 1990s kids, had been off the market for years. But Lindsay Barnett was determined.</description>
-      <dc:creator>Alessandra Schade</dc:creator>
-      <pubDate>Mon, 13 Jul 2026 16:28:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Backyard Baseball (Video Game)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Nineties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Highland Park (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barnett, Lindsay</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Playground Productions LLC</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/13ST-BACKYARD-BASEBALL-portraits-01-lcvj/13ST-BACKYARD-BASEBALL-portraits-01-lcvj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Akilah Townsend for The New York Times</media:credit>
-      <media:description>“I had blind confidence,” Lindsay Barnett said, describing her mind-set at the start of her quest.</media:description>
     </item>
   </channel>
 </rss>
