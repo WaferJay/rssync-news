@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 22:13:19 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 22:09:25 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:15:01 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 23:13:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,20 +40,56 @@
       <media:description>A satellite image shows Bab al-Mandab Strait off the coast of Yemen in February.</media:description>
     </item>
     <item>
-      <title>Pentagon Identifies Soldier Killed in Iran War as Sgt. Michael Emmanuel Swinton</title>
-      <link>https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/us/pentagon-identifies-soldier-iran-war-emmanuel-swinton.html" rel="standout"></atom:link>
-      <description>Sgt. Michael Emmanuel Swinton, the 17th service member to be named, was killed during the disposal of a drone in northern Iraq.</description>
-      <dc:creator>Jacey Fortin, Pooja Salhotra and Maia Spoto</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 20:25:29 +0000</pubDate>
+      <title>Water Plants Under Fire in the Gulf Are Crucial to Civilians</title>
+      <link>https://www.nytimes.com/2026/07/21/world/middleeast/desalination-water-middle-east.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/world/middleeast/desalination-water-middle-east.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/world/middleeast/desalination-water-middle-east.html" rel="standout"></atom:link>
+      <description>Several days of airstrikes have hit water and energy plants in Kuwait, a nation that relies on desalination for 90 percent of its drinking water.</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 19:04:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fayetteville (NC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuwait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Desalination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <media:content height="1014" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21nat-soldier17-named-mkbj/21nat-soldier17-named-mkbj-mediumSquareAt3X.jpg" width="1015"></media:content>
-      <media:credit>U.S. Army</media:credit>
-      <media:description>Sgt. Michael Emmanuel Swinton had been assigned to a unit at Fort Bragg in North Carolina.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <media:content height="1508" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21mideast-live-desalination-plants-topart-zlpb/21mideast-live-desalination-plants-topart-zlpb-mediumSquareAt3X.jpg" width="1506"></media:content>
+      <media:credit>Airbus DS SPOT CNES, via Reuters</media:credit>
+      <media:description>A satellite image showing smoke rising from the Subiya Power and Water Desalination Plant in Kuwait on Saturday.</media:description>
+    </item>
+    <item>
+      <title>What to Know About Iran’s Pickaxe Mountain</title>
+      <link>https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/world/middleeast/pickaxe-mountain-iran-nuclear.html" rel="standout"></atom:link>
+      <description>The fortified underground complex, in central Iran, is about one mile away from the Natanz uranium enrichment facility.</description>
+      <dc:creator>Anushka Patil</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 20:59:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fordo (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Natanz (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Atomic Energy Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Institute for Science and International Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <media:content height="1071" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21mideast-live-wwk-pickaxe-mountain-topart-vbfh/21mideast-live-wwk-pickaxe-mountain-topart-vbfh-mediumSquareAt3X.jpg" width="1071"></media:content>
+      <media:credit>Vantor, via Reuters</media:credit>
+      <media:description>A satellite image provided by Vantor shows an entrance to tunnels at Pickaxe Mountain in Iran last month.</media:description>
+    </item>
+    <item>
+      <title>Zelensky Removes Ukraine’s Top General</title>
+      <link>https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/briefing/zelensky-removes-top-general.html" rel="standout"></atom:link>
+      <description>Also, the Pentagon estimates the Iran war has cost $37.5 billion. Here’s the latest at the end of Tuesday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 22:01:29 +0000</pubDate>
+      <media:content height="1567" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21evening-nl-ukraine-syrskyi-zwlf/21evening-nl-ukraine-syrskyi-zwlf-mediumSquareAt3X.jpg" width="1565"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+      <media:description>Oleksandr Syrskyi, left, with Volodymyr Zelensky in March.</media:description>
     </item>
     <item>
       <title>Zelensky Dismisses Ukraine’s Top General After Protests</title>
@@ -125,6 +161,22 @@
       <media:description>President Trump with President Vladimir V. Putin of Russia in 2025. Mr. Trump has consistently resisted admitting U.S. findings that Russia has tried to interfere in American presidential elections. </media:description>
     </item>
     <item>
+      <title>Cyclosporiasis Cases in the United States Hit Record High</title>
+      <link>https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/well/cyclospora-cases-record-cdc.html" rel="standout"></atom:link>
+      <description>Federal health officials have confirmed another 2,500 cases of the parasitic infection.</description>
+      <dc:creator>Alice Callahan and Caroline Hopkins Legaspi</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 23:07:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21WELL-CYCLO-CASES-vjzl/21WELL-CYCLO-CASES-vjzl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Scott Rossi for The New York Times</media:credit>
+      <media:description>Farmworkers harvesting lettuce in Holtville, Ca. last year.</media:description>
+    </item>
+    <item>
       <title>Cyclospora Spreads Through Human Feces. How Did It Get Into Our Food Supply?</title>
       <link>https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html</guid>
@@ -145,30 +197,13 @@
       <media:description>These cyclospora oocysts were found in a stool sample. The parasite infects the small intestine, causing frequent watery diarrhea that carries its oocysts, or eggs. </media:description>
     </item>
     <item>
-      <title>What the Cyclospora Outbreak Reveals</title>
-      <link>https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html" rel="standout"></atom:link>
-      <description>Warming is expected to fuel the spread of food-borne pathogens. We might not be prepared.</description>
-      <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 20:52:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/21cli-newsletter-cyclospora/21cli-newsletter-cyclospora-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Melanie Moser/CDC, via Associated Press</media:credit>
-      <media:description>A microscopic view of cyclospora parasite eggs, stained reddish pink, in a lab sample.</media:description>
-    </item>
-    <item>
       <title>A Family’s Daring Escape From North Korea</title>
       <link>https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html" rel="standout"></atom:link>
       <description>Their resolve for freedom hardened during the pandemic, when they lived through a crippling food shortage and were forced to witness frequent public executions.</description>
       <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 18:02:12 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 23:03:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seoul (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
@@ -220,26 +255,6 @@
       <media:description>OpenAI and other companies have warned that their new A.I. systems could be powerful hacking tools.</media:description>
     </item>
     <item>
-      <title>Google Releases Three New Gemini A.I. Models</title>
-      <link>https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html" rel="standout"></atom:link>
-      <description>The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.</description>
-      <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 19:38:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="">Gemini</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-google-ai-lvhf/21biz-google-ai-lvhf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kelsey McClellan for The New York Times</media:credit>
-      <media:description>The Google campus in Mountain View, Calif.</media:description>
-    </item>
-    <item>
       <title>How Republicans Turned Olive Garden Into a Voter ID Talking Point</title>
       <link>https://www.nytimes.com/2026/07/21/us/politics/olive-garden-voting-save-america-act-republicans.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/us/politics/olive-garden-voting-save-america-act-republicans.html</guid>
@@ -268,7 +283,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html" rel="standout"></atom:link>
       <description>A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.</description>
       <dc:creator>Tracey Tully</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 22:09:25 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 22:31:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drivers Licenses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting Rights, Registration and Requirements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -420,7 +435,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html" rel="standout"></atom:link>
       <description>New York was under a tornado watch, and forecasters warned that flash flooding was possible into the evening.</description>
       <dc:creator>Erin McCann, Judson Jones, Nazaneen Ghaffar and Amy Graff</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 21:47:36 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 22:45:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
@@ -430,7 +445,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/20/weather/2026-07-20-tuesday-northeast-index-promo/2026-07-20-tuesday-northeast-index-promo-mediumSquareAt3X-v7.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/20/weather/2026-07-20-tuesday-northeast-index-promo/2026-07-20-tuesday-northeast-index-promo-mediumSquareAt3X-v9.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -516,27 +531,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-    </item>
-    <item>
-      <title>Mamdani’s Version of DOGE Tries to Put a New Spin on Efficiency</title>
-      <link>https://www.nytimes.com/2026/07/21/nyregion/mamdani-coge-charter-revision.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/nyregion/mamdani-coge-charter-revision.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/mamdani-coge-charter-revision.html" rel="standout"></atom:link>
-      <description>The mayor’s version has sought to include public input as it formulates changes to the New York City Charter aimed at streamlining the government.</description>
-      <dc:creator>Emma Goldberg</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 21:24:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Charter Revision Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Government Efficiency Department (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commission on Government Efficiency</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21met-mamdani-coge-01-jhqc/21met-mamdani-coge-01-jhqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Mayor Zohran Mamdani empaneled a Charter Revision Commission to come up with ways to improve government efficiency.</media:description>
     </item>
   </channel>
 </rss>
