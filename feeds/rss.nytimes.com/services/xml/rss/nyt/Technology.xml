@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 20:36:55 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 19:38:58 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:13:33 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 21:27:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library</title>
+      <link>https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html" rel="standout"></atom:link>
+      <description>The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 21:27:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aaron Wojack for The New York Times</media:credit>
+      <media:description>OpenAI and other companies have warned that their new A.I. systems could be powerful hacking tools.</media:description>
+    </item>
     <item>
       <title>What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram</title>
       <link>https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html</link>
@@ -68,25 +87,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
     </item>
     <item>
-      <title>A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store</title>
-      <link>https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html" rel="standout"></atom:link>
-      <description>Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.</description>
-      <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 14:02:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/APPLE-VIBECODING-sub-mgqt/APPLE-VIBECODING-sub-mgqt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>Artificial intelligence is feeding a boom in the number of apps available in Apple’s App Store.</media:description>
-    </item>
-    <item>
       <title>When Listening to Music Was a Team Sport</title>
       <link>https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/arts/design/art-of-noise-cooper-hewitt-smithsonian-design.html</guid>
@@ -125,6 +125,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20biz-paramount-cgbh/20biz-paramount-cgbh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mark Abramson for The New York Times</media:credit>
       <media:description>The Warner Bros. studio in Burbank, Calif.</media:description>
+    </item>
+    <item>
+      <title>A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store</title>
+      <link>https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/technology/apple-app-store-vibecoding.html" rel="standout"></atom:link>
+      <description>Mobile apps are easy to make with artificial intelligence. That doesn’t mean people are excited to use them.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Mon, 20 Jul 2026 14:02:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/APPLE-VIBECODING-sub-mgqt/APPLE-VIBECODING-sub-mgqt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>Artificial intelligence is feeding a boom in the number of apps available in Apple’s App Store.</media:description>
     </item>
     <item>
       <title>Why Silicon Valley Can’t Stop Looking Over Its Shoulder at China</title>

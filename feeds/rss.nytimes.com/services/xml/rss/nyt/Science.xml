@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 21 Jul 2026 20:36:01 +0000</lastBuildDate>
-    <pubDate>Tue, 21 Jul 2026 19:33:57 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:13:18 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Jul 2026 21:43:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -153,6 +153,23 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/16SCI-PUFFBALL-PLANETS-kzwq/16SCI-PUFFBALL-PLANETS-kzwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Rutter/NASA</media:credit>
       <media:description>An artist’s concept of the sunlike star TOI-791 and two giant planets, TOI-791b and TOI-791c, that are roughly the size of Jupiter but much less dense.</media:description>
+    </item>
+    <item>
+      <title>What the Cyclospora Outbreak Reveals</title>
+      <link>https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html" rel="standout"></atom:link>
+      <description>Warming is expected to fuel the spread of food-borne pathogens. We might not be prepared.</description>
+      <dc:creator>Claire Brown</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 20:52:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/21cli-newsletter-cyclospora/21cli-newsletter-cyclospora-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Melanie Moser/CDC, via Associated Press</media:credit>
+      <media:description>A microscopic view of cyclospora parasite eggs, stained reddish pink, in a lab sample.</media:description>
     </item>
     <item>
       <title>Susumu Tonegawa Dies at 86; Nobel Laureate Showed How Antibodies Fight Infection</title>
@@ -554,24 +571,6 @@
       <media:content height="1663" medium="image" url="https://static01.nyt.com/images/2026/07/09/science/00SCI-ODYSSEY-battle/00SCI-ODYSSEY-battle-mediumSquareAt3X.jpg" width="1664"></media:content>
       <media:credit>Fine Art Images/Heritage Images, via Getty Images</media:credit>
       <media:description>A 19th-century painting by the Swiss painter Arnold Bocklin depicting Odysseus fleeing the Cyclops Polyphemus.</media:description>
-    </item>
-    <item>
-      <title>An Extraordinary White House Meeting</title>
-      <link>https://www.nytimes.com/2026/07/14/climate/climate-an-extraordinary-white-house-meeting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/climate/climate-an-extraordinary-white-house-meeting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/climate/climate-an-extraordinary-white-house-meeting.html" rel="standout"></atom:link>
-      <description>A new book sheds light on President Trump’s affinity for fossil fuels.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 13:28:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/14cli-newsletter-01/14cli-newsletter-01-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
-      <media:description>An oil refinery in Punto Fijo, Venezuela. In a meeting with the president, the Chevron chief executive pushed for an extension of the company’s license to operate in the country.</media:description>
     </item>
   </channel>
 </rss>
