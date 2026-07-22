@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 16:50:02 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 16:07:38 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:33:17 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 18:18:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html" rel="standout"></atom:link>
       <description>U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons.</description>
       <dc:creator>David E. Sanger, Edward Wong and William J. Broad</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 15:36:40 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 15:36:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
@@ -75,7 +75,9 @@
       <pubDate>Tue, 21 Jul 2026 17:58:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PNAS (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Carnegie Mellon University</category>
     </item>
     <item>
@@ -198,7 +200,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html" rel="standout"></atom:link>
       <description>Charles Ross spent 50 years building “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?</description>
       <dc:creator>Travis Diehl and Brad Trone</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 15:35:23 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:05:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sculpture</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
@@ -211,6 +213,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ross, Charles (1937- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smithson, Robert</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26cul-charles-ross-01-kqlv/26cul-charles-ross-01-kqlv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Charles Ross/Artists Rights Society (ARS), New York</media:credit>
       <media:description>The Milky Way ribbons through the sky above “Star Axis.”</media:description>
     </item>
     <item>
@@ -221,11 +224,12 @@
       <description>Warming is expected to fuel the spread of food-borne pathogens. We might not be prepared.</description>
       <dc:creator>Claire Brown</dc:creator>
       <pubDate>Tue, 21 Jul 2026 20:52:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclospora (Parasite)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/21cli-newsletter-cyclospora/21cli-newsletter-cyclospora-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Melanie Moser/CDC, via Associated Press</media:credit>
       <media:description>A microscopic view of cyclospora parasite eggs, stained reddish pink, in a lab sample.</media:description>
@@ -282,7 +286,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html" rel="standout"></atom:link>
       <description>New research also shows that children and high-risk adult populations have been particularly affected.</description>
       <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 14:24:29 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 18:18:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
@@ -290,6 +294,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clinton Health Access Initiative</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International AIDS Society</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-hiv-data-photo-jcmw/21dc-hiv-data-photo-jcmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joao Silva/The New York Times</media:credit>
       <media:description>A health clinic in Johannesburg that was closed in 2025, following cuts in U.S. aid.</media:description>
@@ -328,7 +335,8 @@
       <atom:link href="https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html" rel="standout"></atom:link>
       <description>The affected products were shipped starting June 29 and have expiration dates through Aug. 3.</description>
       <dc:creator>Christina Jewett and Julie Creswell</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:10:09 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 00:10:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclospora (Parasite)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
@@ -549,59 +557,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15xp-recall-phbl/15xp-recall-phbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick T. Fallon/Agence France-Presse — Getty Images</media:credit>
       <media:description>Santa Clara County also warned that desert willows sold at certain Costco locations across 15 Northern California counties between late June 24 and July 3 might also be affected.</media:description>
-    </item>
-    <item>
-      <title>New Jersey Couple Aids Meteorite Discovery After it Crashes Through Their Roof</title>
-      <link>https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/science/meteorite-new-jersey.html" rel="standout"></atom:link>
-      <description>A New Jersey couple helped scientists uncover the makeup of an unusual asteroid after it fell into their bedroom.</description>
-      <dc:creator>Robin George Andrews</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 18:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roofs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science Advances (Journal)</category>
-    </item>
-    <item>
-      <title>Meet Earth’s Newest Monkey. (And Check Out Its Orange Lips.)</title>
-      <link>https://www.nytimes.com/2026/07/15/science/meet-earths-newest-monkey-and-check-out-its-orange-lips.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/15/science/meet-earths-newest-monkey-and-check-out-its-orange-lips.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/15/science/meet-earths-newest-monkey-and-check-out-its-orange-lips.html" rel="standout"></atom:link>
-      <description>It is only the fifth new African monkey identified as a new species in the past 75 years.</description>
-      <dc:creator>Kate Golembiewski</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 20:23:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PLoS One (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Congo, Democratic Republic of (Congo-Kinshasa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>Canada Wildfire Air Pollution and Heat Wave Combo Pose Heightened Health Risks</title>
-      <link>https://www.nytimes.com/article/heat-air-pollution-climate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/article/heat-air-pollution-climate.html</guid>
-      <atom:link href="https://www.nytimes.com/article/heat-air-pollution-climate.html" rel="standout"></atom:link>
-      <description>Days that are both extremely hot and polluted come with higher risks of respiratory ailments and other health hazards.</description>
-      <dc:creator>Claire Brown and Christina Kelso</dc:creator>
-      <pubDate>Wed, 15 Jul 2026 21:24:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asthma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lungs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15cli-heat-pollution-gltq/15cli-heat-pollution-gltq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Laura Proctor/The Canadian Press, via Associated Press</media:credit>
-      <media:description>A hazy street in Toronto as wildfire smoke blanketed the city on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

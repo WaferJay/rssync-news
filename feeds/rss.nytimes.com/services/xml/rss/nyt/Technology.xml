@@ -7,13 +7,40 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 16:49:33 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 14:48:10 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 18:35:08 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 18:33:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>Lawsuit Against Meta Over Social Media Addiction Is Dropped</title>
+      <link>https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/technology/meta-social-media-lawsuit.html" rel="standout"></atom:link>
+      <description>For Meta, the move was a reprieve after it and YouTube were found guilty in another case in March of negligence and personal injury for their platforms’ addictive features.</description>
+      <dc:creator>Eli Tan and Cecilia Kang</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 18:29:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22biz-meta-lawsuit-fmkh/22biz-meta-lawsuit-fmkh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stella Kalinina for The New York Times</media:credit>
+      <media:description>The dismissal follows Meta’s loss in March in the same court against a now 20-year-old California woman who accused the company and YouTube of negligence and personal injury for their addictive features.</media:description>
+    </item>
     <item>
       <title>OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library</title>
       <link>https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</link>
@@ -21,13 +48,14 @@
       <atom:link href="https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html" rel="standout"></atom:link>
       <description>The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.</description>
       <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 14:06:18 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aaron Wojack for The New York Times</media:credit>
       <media:description>OpenAI and other companies have warned that their new A.I. systems could be powerful hacking tools.</media:description>
@@ -40,13 +68,13 @@
       <description>Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.</description>
       <dc:creator>Stuart A. Thompson and Eli Tan</dc:creator>
       <pubDate>Wed, 22 Jul 2026 03:10:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/META-AI-1-06-jgcb/META-AI-1-06-jgcb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Rodrigues for The New York Times</media:credit>
     </item>
@@ -58,32 +86,17 @@
       <description>The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.</description>
       <dc:creator>Kate Conger</dc:creator>
       <pubDate>Tue, 21 Jul 2026 19:38:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
       <category domain="">Gemini</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-google-ai-lvhf/21biz-google-ai-lvhf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kelsey McClellan for The New York Times</media:credit>
       <media:description>The Google campus in Mountain View, Calif.</media:description>
-    </item>
-    <item>
-      <title>How Google’s A.I. Search Is Imperiling the Open Web</title>
-      <link>https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html" rel="standout"></atom:link>
-      <description>As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.</description>
-      <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 01:50:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TheVerge.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
     </item>
     <item>
       <title>When Listening to Music Was a Team Sport</title>
@@ -100,6 +113,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rams, Dieter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dylan, Bob</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Glaser, Milton</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Judge Temporarily Pauses Paramount-Warner Bros. Deal</title>
@@ -124,6 +138,21 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20biz-paramount-cgbh/20biz-paramount-cgbh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mark Abramson for The New York Times</media:credit>
       <media:description>The Warner Bros. studio in Burbank, Calif.</media:description>
+    </item>
+    <item>
+      <title>How Google’s A.I. Search Is Imperiling the Open Web</title>
+      <link>https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/20/technology/google-ai-open-web.html" rel="standout"></atom:link>
+      <description>As Google incorporates more artificial intelligence into search, people are spending more time on Google. Some website operators are crying foul.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 01:50:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TheVerge.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wikipedia</category>
     </item>
     <item>
       <title>A.I. ‘Vibecoded’ Apps Are Flooding Apple’s App Store</title>
@@ -174,7 +203,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/19/us/politics/chatbots-political-campaigns.html" rel="standout"></atom:link>
       <description>Political campaigns have something new to worry about these days: unflattering or incomplete information produced by A.I. programs when voters ask questions about candidates.</description>
       <dc:creator>Stuart A. Thompson and Tiffany Hsu</dc:creator>
-      <pubDate>Sun, 19 Jul 2026 16:15:05 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 17:01:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
