@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml?nocache=1" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 12:06:28 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 12:03:21 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 14:28:11 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 14:24:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/22/world/middleeast/saudi-nuclear-deal-israel.html" rel="standout"></atom:link>
       <description>An Israeli minister sought to downplay the deal, but critics said it could spur other regional countries to pursue a nuclear program, and potentially the creation of a bomb.</description>
       <dc:creator>Natan Odenheimer and Aaron Boxerman</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 11:55:35 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 11:55:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
@@ -38,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/22/world/europe/ukraine-military-chief-drapatyi.html" rel="standout"></atom:link>
       <description>Maj. Gen. Mykhailo Drapatyi faces a balancing act between asserting the independence favored by military reformers and accommodating political input on battlefield strategy.</description>
       <dc:creator>Marc Santora</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 11:58:08 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 12:33:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
@@ -51,13 +51,13 @@
       <media:description>In a photograph released by the Ukrainian Presidential Press Service, Maj. Gen. Mykhailo Drapatyi attended a meeting with President Volodymyr Zelensky in Kyiv, Ukraine, on Monday.</media:description>
     </item>
     <item>
-      <title>A Lettuce-Growing Region in Mexico Stomachs the Fallout From the Cyclospora Outbreak</title>
+      <title>A Mexican Town Was Known for Lettuce. Now It’s Because of Cyclospora.</title>
       <link>https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/22/world/americas/cyclospora-lettuce-mexico-guanajuato.html" rel="standout"></atom:link>
       <description>In central Mexico, a lettuce-growing region has been potentially linked to an outbreak in the U.S. that has sickened thousands.</description>
       <dc:creator>Emiliano Rodríguez Mega and Fred Ramos</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 11:09:54 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 13:53:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
@@ -70,16 +70,16 @@
       <media:description>Crop fields behind the Taylor Farms processing facility in Doctor Mora, Guanajuato, Mexico.</media:description>
     </item>
     <item>
-      <title>Iran War Live Updates: Rubio Signals No Letup in U.S. Strikes</title>
+      <title>Iran War Live Updates: Trump Threatens Retaliation Against Civilian Targets if Iran Strikes in Strait</title>
       <link>https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz</guid>
       <atom:link href="https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz" rel="standout"></atom:link>
-      <description>Secretary of State Marco Rubio said that the United States would continue attacking Iran as long as it tried to control the Strait of Hormuz, and suggested that Tehran was “not serious” about diplomacy.</description>
+      <description>President Trump said the United States would target a bridge or power plant, including in or near the Iranian capital, if Iran fired on the Strait of Hormuz. Secretary of State Marco Rubio earlier suggested that Tehran was “not serious” about diplomacy.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 12:03:21 +0000</pubDate>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo1/22mideast-live-header-lftg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Marco Rubio last month.</media:description>
+      <pubDate>Wed, 22 Jul 2026 14:03:05 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-promo/22mideast-live-header-wchq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump on Wednesday.</media:description>
     </item>
     <item>
       <title>Japan Is Startled by Prime Minister’s Grueling Sleep Schedule</title>
@@ -108,7 +108,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/22/world/europe/ukraine-syrskyi-general-russia-war.html" rel="standout"></atom:link>
       <description>Gen. Oleksandr Syrskyi, who commanded crucial battles, oversaw an expansion of drone warfare against Russia, but many Ukrainians want even more.</description>
       <dc:creator>Carlotta Gall</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 10:46:16 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 10:46:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -141,13 +141,13 @@
       <media:credit>Asim Hafeez for The New York Times</media:credit>
     </item>
     <item>
-      <title>Germany’s Military Buyers Look to Reduce Caution and Embrace Drones</title>
+      <title>After Decades of Caution, Germany Is Shaking Up How It Makes Weapons</title>
       <link>https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/22/world/europe/germany-rearmament-innovation-reinvention-arms.html" rel="standout"></atom:link>
       <description>As threats from Moscow rise and support from Washington dwindles, the German military is reinventing how it researches, funds and wields 21st-century arms.</description>
       <dc:creator>Christopher F. Schuetze</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 09:00:11 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 12:28:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pistorius, Boris</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -286,13 +286,56 @@
       <media:description>Winder Delfín, 17, right, and his brother Deivi, 15, during the 24th day of searching for their mother, younger brother and grandmother, who lived on the first floor of a twelve story building that collapsed during the twin earthquakes last month.</media:description>
     </item>
     <item>
+      <title>Coveted U.S. Nuclear Deal is a Coup for Saudi Crown Prince</title>
+      <link>https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/world/middleeast/us-saudi-arabia-nuclear-deal.html" rel="standout"></atom:link>
+      <description>Saudi Arabia had for years sought the controversial deal to transfer American nuclear technology to the kingdom. It is expected to be sealed on Wednesday.</description>
+      <dc:creator>Vivian Nereim</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 14:22:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-saudi-nuclear-1-gkwl/22int-saudi-nuclear-1-gkwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Prince Mohammed bin Salman, the de facto Saudi ruler, and President Trump at the White House in November.</media:description>
+    </item>
+    <item>
+      <title>Trump’s 50% Tariffs on Canada: What to Know, and What’s Next</title>
+      <link>https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/world/canada/canada-trump-tariffs-trade.html" rel="standout"></atom:link>
+      <description>The president said punishing 50 percent tariffs would begin by Aug. 19, a significant escalation of the trade war between Canada and the U.S. that he started over a year ago.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 13:18:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Trade Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-canada-tariffs-wtk-vfwk/22int-canada-tariffs-wtk-vfwk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Trump and Mark Carney in the Oval Office last year.</media:description>
+    </item>
+    <item>
       <title>Here’s the latest.</title>
       <link>https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz/heres-the-latest</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz/heres-the-latest</guid>
       <atom:link href="https://www.nytimes.com/live/2026/07/22/world/iran-war-strikes-trump-hormuz/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Edward Wong, Yan Zhuang and Leo Sands</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 11:20:20 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 13:48:27 +0000</pubDate>
     </item>
     <item>
       <title>See Which 52 Places to Go We’ve Already Visited From Warsaw to Bangkok</title>
@@ -301,7 +344,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/22/travel/vacation-destinations-warsaw-bangkok-barcelona.html" rel="standout"></atom:link>
       <description>Now halfway through the year, we’ve made it to 11 of our picks, uncovering lesser-known spots where the American Revolution was fought, all-night parties in Poland and more.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 09:01:06 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 12:58:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Culture (Arts)</category>
@@ -332,14 +375,14 @@
       <description>President Trump is facing a critical moment in the war, which has failed to bring about the “unconditional surrender” he once demanded.</description>
       <dc:creator>David E. Sanger</dc:creator>
       <pubDate>Wed, 22 Jul 2026 00:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-prexy-gzjm/21dc-prexy-gzjm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>“We’ll be hitting that area probably pretty soon,” President Trump said of Pickaxe Mountain on Tuesday. “And there’s not a thing they can do about it.”</media:description>
@@ -412,16 +455,17 @@
       <description>The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.</description>
       <dc:creator>Marc Santora</dc:creator>
       <pubDate>Tue, 21 Jul 2026 21:39:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Drapatyi, Mykhailo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/00int-ukraine-syrskyi-HFO-wmpf/00int-ukraine-syrskyi-HFO-wmpf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Volodymyr Zelensky and the Ukrainian commander in chief, Oleksandr Syrskyi, in Ukraine’s Donetsk region in March.</media:description>
@@ -1048,39 +1092,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20int-spain-cup-01-jzcw/20int-spain-cup-01-jzcw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joseph Fox for The New York Times</media:credit>
       <media:description>Spain fans watching the World Cup final in Plaza de Colón in Madrid on Sunday night.</media:description>
-    </item>
-    <item>
-      <title>What Happens Behind the Scenes Once Burnham Enters 10 Downing Street</title>
-      <link>https://www.nytimes.com/2026/07/20/world/europe/behind-the-scenes-downing-street.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/world/europe/behind-the-scenes-downing-street.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/world/europe/behind-the-scenes-downing-street.html" rel="standout"></atom:link>
-      <description>Calls with foreign leaders, cabinet appointments and writing the “letters of last resort”: Andy Burnham’s first hours and days in office will be busy.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 13:07:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Submarines and Submersibles</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20uk-burnham-downing-street-lvwm/20uk-burnham-downing-street-lvwm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Kin Cheung</media:credit>
-      <media:description>The staff at 10 Downing Street welcoming new Prime Minister Andy Burnham and his wife Marie-France van Heel on Monday.</media:description>
-    </item>
-    <item>
-      <title>Aiming for My Fastest Marathon, I Turned to Distance Running’s Mecca</title>
-      <link>https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/world/africa/kenya-iten-marathon-training.html" rel="standout"></atom:link>
-      <description>A New York Times reporter’s quest to beat the personal best he set 14 years ago took him to a Kenyan village, where the biggest benefit he got was not what he expected.</description>
-      <dc:creator>John Eligon and Brian Otieno</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 15:41:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marathon Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iten (Kenya)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/00int-kenya-iten-marathon01a-photo-tfhw/00int-kenya-iten-marathon01a-photo-tfhw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>The author, in the middle in red, training in Iten, Kenya.</media:description>
     </item>
   </channel>
 </rss>
