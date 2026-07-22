@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 03:50:42 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 02:31:55 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 09:43:15 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 09:00:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -190,6 +190,29 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/15cli-heat-pollution-gltq/15cli-heat-pollution-gltq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Laura Proctor/The Canadian Press, via Associated Press</media:credit>
       <media:description>A hazy street in Toronto as wildfire smoke blanketed the city on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Government Overhauls Teen Pregnancy Program to Focus on Marriage and Starting Families</title>
+      <link>https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html" rel="standout"></atom:link>
+      <description>The administration canceled federal grants to organizations across the country, accusing them of encouraging premarital sex. New criteria say programs should stress abstinence.</description>
+      <dc:creator>Jan Hoffman</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 09:00:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenage Pregnancy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abstinence (Sexual)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heritage Foundation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/us/dc-teen-pregnancy/dc-teen-pregnancy-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sean Rayford for The New York Times</media:credit>
+      <media:description>The Trump administration canceled a $1.6 million grant for a teen pregnancy prevention project run by Fact Forward, a nonprofit in Columbia, S.C., led by Rena Dixon.</media:description>
     </item>
     <item>
       <title>‘Too Rare to Care’? A New Center for Rare Diseases Hopes to Change That</title>
@@ -387,19 +410,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/11/multimedia/11xp-ebola-cpzb/11xp-ebola-cpzb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arlette Bashizi for The New York Times</media:credit>
       <media:description>An Ebola outbreak has killed hundreds of people in the Democratic Republic of Congo this year.</media:description>
-    </item>
-    <item>
-      <title>An Insider’s Guide to 6 of Vienna’s Splendid Public Pools</title>
-      <link>https://www.nytimes.com/2026/07/10/travel/vienna-public-pools.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/10/travel/vienna-public-pools.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/10/travel/vienna-public-pools.html" rel="standout"></atom:link>
-      <description>Whether you’re looking to do laps in the pool or lounge in the shade beneath towering lindens, these swimming spots are a perfect way to beat the summer heat.</description>
-      <dc:creator>Martin Fritz Huber and David Payr</dc:creator>
-      <pubDate>Sat, 11 Jul 2026 19:47:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vienna (Austria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Swimming Pools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
   </channel>
 </rss>
