@@ -7,13 +7,50 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 22 Jul 2026 09:41:00 +0000</lastBuildDate>
-    <pubDate>Wed, 22 Jul 2026 09:09:52 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 12:07:49 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Jul 2026 12:01:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Trump’s New Trade Fights (and Deals)</title>
+      <link>https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/business/dealbook/trump-trade-saudi-canada.html" rel="standout"></atom:link>
+      <description>President Trump has resumed his approach of big threats against some trading partners and generous pacts with others. Experts see new risks.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Ian Mount and Lauren McCarthy</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 12:01:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generic Brands and Products</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22db-trump-jcgh/22db-trump-jcgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Trade fights and agreements are increasingly front of mind for President Trump.</media:description>
+    </item>
+    <item>
+      <title>Global Oil Price Jumps as War Threats Intensify</title>
+      <link>https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/22/business/oil-prices-iran-war.html" rel="standout"></atom:link>
+      <description>The risk of continued fighting and a threatened blockade in the Red Sea added to uncertainty about the flow of energy from the region.</description>
+      <dc:creator>Laura Stevens and Jason Karaian</dc:creator>
+      <pubDate>Wed, 22 Jul 2026 11:46:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/biz-osg-hormuz-tfhm/biz-osg-hormuz-tfhm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tomas Munita for The New York Times</media:credit>
+    </item>
     <item>
       <title>See How Houthis Put the Red Sea at Risk as an Alternative Oil Route</title>
       <link>https://www.nytimes.com/2026/07/22/business/energy-environment/red-sea-saudi-arabia-houthis.html</link>
@@ -41,7 +78,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-21-middle-east-chokepoints-index/2026-07-21-middle-east-chokepoints-index-mediumSquareAt3X-v8.png" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-21-middle-east-chokepoints-index/2026-07-21-middle-east-chokepoints-index-mediumSquareAt3X-v9.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -945,46 +982,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Automobile Assn</category>
-    </item>
-    <item>
-      <title>Beijing Rejects Trump’s Claim of Meddling, but Avoids a Fight</title>
-      <link>https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/world/asia/china-trump-meddling-election.html" rel="standout"></atom:link>
-      <description>Chinese officials called the election-meddling accusation baseless, while analysts said Beijing was trying to preserve a fragile détente.</description>
-      <dc:creator>Alexandra Stevenson</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 09:56:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Speeches and Statements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17int-china-diplo-pcjz/17int-china-diplo-pcjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump addressing the nation from the East Room of the White House on Thursday.</media:description>
-    </item>
-    <item>
-      <title>When a World Cup Team Needs a Trim, the Barbershop Comes to Them</title>
-      <link>https://www.nytimes.com/2026/07/17/sports/world-cup-egypt-seattle-barbershop.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/sports/world-cup-egypt-seattle-barbershop.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/sports/world-cup-egypt-seattle-barbershop.html" rel="standout"></atom:link>
-      <description>Maram Hammadi, who grew up playing on dirt fields in Iraq before opening a barbershop outside Seattle, heard Egypt needed a barber. He cleared his books.</description>
-      <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 15:08:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Barbers and Barbering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Salah, Mohamed (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seattle (Wash)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/00world-cup-businesses-03-lzqh/00world-cup-businesses-03-lzqh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ruth Fremson/The New York Times</media:credit>
-      <media:description>Maram Hammadi, who owns Jazz Barbershop, often talks soccer with his customers.</media:description>
     </item>
   </channel>
 </rss>
