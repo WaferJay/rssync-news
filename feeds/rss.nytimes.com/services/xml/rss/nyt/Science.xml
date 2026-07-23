@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 23 Jul 2026 17:51:24 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 17:44:41 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 19:47:32 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 19:41:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,11 +21,16 @@
       <atom:link href="https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html" rel="standout"></atom:link>
       <description>The awards are bestowed only once every four years to mathematicians under the age of 40.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 17:44:41 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 19:11:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Congress of Mathematicians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deng, Yu (1989- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pardon, John (1989- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsimerman, Jacob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Hong (1991- )</category>
     </item>
     <item>
       <title>What Were the Lotus-Eaters Eating in Homer’s ‘Odyssey’?</title>
@@ -179,6 +184,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston Children&#39;s Hospital</category>
       <media:content height="1594" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21sci-gene-therapy-promo-vqpw/21sci-gene-therapy-promo-vqpw-mediumSquareAt3X.jpg" width="1594"></media:content>
       <media:credit>Moriah Ratner for The New York Times</media:credit>
+      <media:description>Nina Frost with her 10-year-old daughter, Annabel, who at 2 months old was diagnosed with a rare neurological disorder that affects just 400 children in the United States and has no cure.</media:description>
     </item>
     <item>
       <title>John Pardon Untangles the Theoretical Loops</title>
@@ -187,11 +193,13 @@
       <atom:link href="https://www.nytimes.com/2026/07/23/science/john-pardon-fields-medal.html" rel="standout"></atom:link>
       <description>The mathematics professor has won a prestigious Fields Medal for his work at the intersection of geometry, topology and physics.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:34:31 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 14:34:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State University of New York at Stony Brook</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pardon, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pardon, John (1989- )</category>
     </item>
     <item>
       <title>Jacob Tsimerman Lives in Number Theory</title>
@@ -200,11 +208,14 @@
       <atom:link href="https://www.nytimes.com/2026/07/23/science/jacob-tsimerman-fields-medal.html" rel="standout"></atom:link>
       <description>Dr. Tsimerman won one of four Fields Medals, an award for top mathematicians under 40, for his work on the André-Oort conjecture, but is now changing his focus to artificial intelligence.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:34:02 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 14:34:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Toronto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsimerman, Jacob</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Toronto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
     </item>
     <item>
       <title>Yu Deng Predicts the Actions of the Whole From Its Tiniest Parts</title>
@@ -213,11 +224,13 @@
       <atom:link href="https://www.nytimes.com/2026/07/23/science/yu-deng-fields-medal.html" rel="standout"></atom:link>
       <description>Dr. Deng, a mathematics professor at the University of Chicago, received a Fields Medal for his work on an equation describing fluid mechanics.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:34:14 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 14:34:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deng, Yu (1989- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Chicago</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yu Deng</category>
     </item>
     <item>
       <title>Hong Wang Twirls in Fractal Dimensions of Three</title>
@@ -226,10 +239,13 @@
       <atom:link href="https://www.nytimes.com/2026/07/23/science/hong-wang-fields-medal.html" rel="standout"></atom:link>
       <description>The young mathematician won a prestigious Fields Medal for her work on the so-called Kakeya conjecture.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:34:49 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 14:34:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Hong (1991- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Hong</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
     </item>
     <item>
       <title>A Peptide Showdown: F.D.A. Scientists May Clash With R.F.K.’s Agenda</title>
@@ -238,7 +254,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html" rel="standout"></atom:link>
       <description>Agency scientists are advising against allowing widespread use of several peptide injections. Robert F. Kennedy Jr., the health secretary, has said people should be free to experiment.</description>
       <dc:creator>Christina Jewett and Dana G. Smith</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:04:41 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 18:06:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
@@ -606,41 +622,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/16SCI-PUFFBALL-PLANETS-kzwq/16SCI-PUFFBALL-PLANETS-kzwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Rutter/NASA</media:credit>
       <media:description>An artist’s concept of the sunlike star TOI-791 and two giant planets, TOI-791b and TOI-791c, that are roughly the size of Jupiter but much less dense.</media:description>
-    </item>
-    <item>
-      <title>Burning Houses to Save Houses</title>
-      <link>https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html" rel="standout"></atom:link>
-      <description>We visited researchers seeking ways to make homes safer. They set a lot of fires.</description>
-      <dc:creator>Mira Rojanasakul</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 19:35:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16cli-newsletter-fire-01-jqbf/16cli-newsletter-fire-01-jqbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Will Crooks for The New York Times</media:credit>
-      <media:description>A wildfire test at the Insurance Institute for Business &amp; Home Safety lab in Richburg, S.C.</media:description>
-    </item>
-    <item>
-      <title>Astronomers Find an Atmosphere on a Nearby Earthlike Planet</title>
-      <link>https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/science/astronomy-exoplanet-atmosphere.html" rel="standout"></atom:link>
-      <description>It’s the first potentially habitable world known to host an atmosphere, making it a lead contender in the search for life beyond our solar system.</description>
-      <dc:creator>Katrina Miller</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 20:17:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Planets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helium</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/science/16SCI-PLANET-HABITABLE/16SCI-PLANET-HABITABLE-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Melissa Weiss/CFA</media:credit>
-      <media:description>An artist’s concept of the exoplanet LHS 1140b, surrounded by a helium-rich atmosphere. Another rocky planet orbits the same cool red dwarf star in the distance.</media:description>
     </item>
   </channel>
 </rss>
