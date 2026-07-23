@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 23 Jul 2026 15:25:03 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 15:12:06 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 17:51:24 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 17:44:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html" rel="standout"></atom:link>
       <description>The awards are bestowed only once every four years to mathematicians under the age of 40.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 15:12:06 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 17:44:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Congress of Mathematicians</category>
@@ -41,6 +41,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Homer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greek Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/science/00SCI-LOTUS-EATERS-02/00SCI-LOTUS-EATERS-02-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Scott Carruthers/Alamy</media:credit>
       <media:description>Blue lotus, Nymphaea caerulea, which botanists say is one plausible candidate for the plant that kept Odysseus’s men from wanting to leave the land of the lotus-eaters.</media:description>
@@ -640,23 +641,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/science/16SCI-PLANET-HABITABLE/16SCI-PLANET-HABITABLE-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Melissa Weiss/CFA</media:credit>
       <media:description>An artist’s concept of the exoplanet LHS 1140b, surrounded by a helium-rich atmosphere. Another rocky planet orbits the same cool red dwarf star in the distance.</media:description>
-    </item>
-    <item>
-      <title>Mary-Dell Chilton Dies at 87; Helped Create First Genetically Modified Plant</title>
-      <link>https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/science/mary-dell-chilton-dead.html" rel="standout"></atom:link>
-      <description>In 1982, she led the research team that figured out how to genetically alter plants, a discovery that would eventually transform global agriculture.</description>
-      <dc:creator>Jeré Longman</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 16:38:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chilton, Mary-Dell</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biotechnology and Bioengineering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetically Modified Food (GMOs)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Food Prize</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Syngenta AG</category>
     </item>
   </channel>
 </rss>
