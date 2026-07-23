@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 23 Jul 2026 04:38:12 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 04:01:17 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:45:42 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 07:32:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Global Oil Prices Rise as Conflict With Iran Deepens</title>
+      <link>https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/23/business/iran-crude-oil-gas-stock-prices.html" rel="standout"></atom:link>
+      <description>The Houthis claimed to have attacked two ships in the Red Sea, and Iran said a third caught fire near the Strait of Hormuz.</description>
+      <dc:creator>Laura Stevens</dc:creator>
+      <pubDate>Thu, 23 Jul 2026 07:32:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23biz-oil-stocks-gas-promo-cjth/23biz-oil-stocks-gas-promo-cjth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
+    </item>
     <item>
       <title>Diesel Crisis Puts Poor Farmers Around the World at Risk</title>
       <link>https://www.nytimes.com/2026/07/23/business/bangladesh-farmers-diesel-water-iran.html</link>
@@ -990,24 +1006,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17biz-pentagon-escort-fzvl/17biz-pentagon-escort-fzvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jared Soares for The New York Times</media:credit>
       <media:description>The Pentagon is seen from the Washington Monument. One judge on a three-judge panel wrote that he would have allowed the pause in policy to remain in effect.</media:description>
-    </item>
-    <item>
-      <title>America’s Enterprising Spirit Is Booming After Decades-Long Slump</title>
-      <link>https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/business/economy/american-small-business-boom.html" rel="standout"></atom:link>
-      <description>Hundreds of thousands of people are creating companies each year, ending a decades-long drought.</description>
-      <dc:creator>Sydney Ember</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 16:51:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Census Bureau</category>
-      <media:content height="1580" medium="image" url="https://static01.nyt.com/images/2026/07/15/multimedia/00biz-new-businesses-02-vcpg/00biz-new-businesses-02-vcpg-mediumSquareAt3X.jpg" width="1580"></media:content>
-      <media:credit>Kayla Wolf for The New York Times</media:credit>
-      <media:description>With things slow at her job and with the help of A.I., Cassidy Winkler started her own boutique Pilates business, Revel Method Pilates.</media:description>
     </item>
   </channel>
 </rss>

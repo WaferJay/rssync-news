@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 23 Jul 2026 04:42:18 +0000</lastBuildDate>
-    <pubDate>Thu, 23 Jul 2026 03:18:44 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Jul 2026 07:41:09 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Jul 2026 07:25:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -144,6 +144,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Repairing Storm Damage Is Expensive. It’s Only Going to Get Worse.</title>
+      <link>https://www.nytimes.com/2026/07/23/nyregion/new-york-storm-damage-repair-cost-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/nyregion/new-york-storm-damage-repair-cost-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/23/nyregion/new-york-storm-damage-repair-cost-climate-change.html" rel="standout"></atom:link>
+      <description>A report from a group called Rebuild by Design estimates that New York will have to spend more than half a trillion dollars to repair the effects of climate change in the next 24 years.</description>
+      <dc:creator>Hilary Howard</dc:creator>
+      <pubDate>Thu, 23 Jul 2026 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rebuild by Design</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Highland Falls (NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23met-trillion-climate-damage-01-wqkz/23met-trillion-climate-damage-01-wqkz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lauren Lancaster for The New York Times</media:credit>
+      <media:description>A small bridge that was washed out in a flood three years ago has been rebuilt in Highland Falls, N.Y.</media:description>
     </item>
     <item>
       <title>Trump’s Plan for Science: More Money for A.I., Less for Universities</title>
@@ -1120,23 +1143,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/09cli-newsletter-recycling-03-wclg/09cli-newsletter-recycling-03-wclg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maddie McGarvey for The New York Times</media:credit>
       <media:description>xc</media:description>
-    </item>
-    <item>
-      <title>Trump’s Plans for Nuclear Power Lurch Ahead</title>
-      <link>https://www.nytimes.com/2026/07/09/climate/trumps-plans-nuclear-power.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/09/climate/trumps-plans-nuclear-power.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/09/climate/trumps-plans-nuclear-power.html" rel="standout"></atom:link>
-      <description>Recent technological advances have brought the president’s goals a bit closer to reality.</description>
-      <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Thu, 09 Jul 2026 18:56:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/07cli-newsletter-nuclear-01-fhqv/07cli-newsletter-nuclear-01-fhqv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Josh Edelson/Agence France-Presse &amp;mdash; Getty Images</media:credit>
-      <media:description>Energy Secretary Chris Wright, center, visited the National Reactor Innovation Center near Idaho Falls, Idaho, last month.</media:description>
     </item>
   </channel>
 </rss>

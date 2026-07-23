@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world/us_and_canada</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 23 Jul 2026 04:42:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jul 2026 07:45:46 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,12 +31,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/993e/live/b3e43600-861c-11f1-bee8-53ce494e1abc.jpg"/>
         </item>
         <item>
-            <title><![CDATA[OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack]]></title>
-            <description><![CDATA[It is one of the first publicly disclosed cyber-attacks carried out by AI without direct human involvement. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3ek3gvdnj3o#0</guid>
-            <pubDate>Wed, 22 Jul 2026 11:40:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9d4/live/4b4f4070-8640-11f1-bee8-53ce494e1abc.jpg"/>
+            <title><![CDATA[Firm hacked by rogue OpenAI models says it is 'a wake-up call']]></title>
+            <description><![CDATA[A co-founder of start-up Hugging Face told the BBC that most firms are not aware that the "game has changed".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdrvy3pn3r0o#0</guid>
+            <pubDate>Thu, 23 Jul 2026 06:18:37 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57c/live/927f2eb0-8645-11f1-bb06-cd4aa2d50a91.jpg"/>
         </item>
         <item>
             <title><![CDATA[Canada's 'powerful' dairy sector is in Trump's trade crosshairs]]></title>
@@ -47,12 +47,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e5eb/live/f92abbb0-85dd-11f1-9837-c51febdbeb82.jpg"/>
         </item>
         <item>
-            <title><![CDATA[EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US]]></title>
-            <description><![CDATA[The European Commission gave its green light, but it came with conditions attached for Paramount.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2kyyeyeklo#0</guid>
-            <pubDate>Wed, 22 Jul 2026 21:33:01 GMT</pubDate>
-            <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8859/live/953210f0-8609-11f1-926f-c90d1bcfbc84.jpg"/>
+            <title><![CDATA[Google burning through cash with spiralling AI costs]]></title>
+            <description><![CDATA[The company said earlier this year it expected to spend as much as $190bn on AI investments.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c235n47g8g8o#0</guid>
+            <pubDate>Thu, 23 Jul 2026 07:15:59 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f610/live/9cc8bdc0-8616-11f1-8dd8-4d5cff7c66df.jpg"/>
         </item>
         <item>
             <title><![CDATA[Mamdani backs off pledge to arrest Netanyahu citing lack of authority]]></title>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cdrvyllxj71o#0</guid>
             <pubDate>Wed, 22 Jul 2026 15:50:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54fb/live/2c63c4e0-85ca-11f1-926f-c90d1bcfbc84.png"/>
+        </item>
+        <item>
+            <title><![CDATA[EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US]]></title>
+            <description><![CDATA[The European Commission gave its green light, but it came with conditions attached for Paramount.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2kyyeyeklo#1</guid>
+            <pubDate>Wed, 22 Jul 2026 21:33:01 GMT</pubDate>
+            <media:thumbnail width="240" height="159" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8859/live/953210f0-8609-11f1-926f-c90d1bcfbc84.jpg"/>
         </item>
         <item>
             <title><![CDATA[China's Moonshot AI stole from Anthropic, Trump tech adviser says]]></title>
@@ -103,36 +111,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5b6/live/950bd730-85fc-11f1-b3ca-7f13da683e7e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Canada's Carney under pressure to fight back against Trump tariffs]]></title>
-            <description><![CDATA[The Canadian leader must weigh whether to make more concessions or take a tough stance as difficult trade talks drag on.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cg5l2mn8lllo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cg5l2mn8lllo#1</guid>
-            <pubDate>Tue, 21 Jul 2026 20:56:56 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32f/live/44f282d0-8539-11f1-ab57-69b83adbeeff.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[YouTube star MrBeast marries Thea Booysen ]]></title>
             <description><![CDATA[The world's biggest YouTuber said he had finally found his "Mrs Beast". ]]></description>
             <link>https://www.bbc.co.uk/news/articles/clyq2dnq2zzo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyq2dnq2zzo#1</guid>
             <pubDate>Wed, 22 Jul 2026 11:05:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e04/live/fd6b9680-85d9-11f1-bee8-53ce494e1abc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Devastated' Millie Bobby Brown leads Kaylee Hottle tributes]]></title>
-            <description><![CDATA[The 18-year-old Godzilla vs Kong actress died in a car crash in the US.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cm2glm5r185o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm2glm5r185o#1</guid>
-            <pubDate>Wed, 22 Jul 2026 16:58:30 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7871/live/62c72040-85e8-11f1-8ade-a7a676c613b9.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Gruesome images in D4vd hearing are 'worst nightmare' for teen girl's family]]></title>
-            <description><![CDATA[The court hears the singer ordered a body bag, chainsaws and an inflatable pool to dispose of the teen's body.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c4g4lyze30vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4g4lyze30vo#1</guid>
-            <pubDate>Wed, 22 Jul 2026 02:33:11 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5310/live/31c9bd90-85ac-11f1-a300-4537eea2be58.jpg"/>
         </item>
         <item>
             <title><![CDATA['He launched me in the air' -  Grandfather recounts terrifying Yellowstone Park bison attack]]></title>
@@ -173,6 +157,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/clyej920j5po#2</guid>
             <pubDate>Tue, 21 Jul 2026 13:01:09 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5644/live/ffaf5190-8500-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Canada's Carney under pressure to fight back against Trump tariffs]]></title>
+            <description><![CDATA[The Canadian leader must weigh whether to make more concessions or take a tough stance as difficult trade talks drag on.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cg5l2mn8lllo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cg5l2mn8lllo#3</guid>
+            <pubDate>Tue, 21 Jul 2026 20:56:56 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e32f/live/44f282d0-8539-11f1-ab57-69b83adbeeff.jpg"/>
         </item>
         <item>
             <title><![CDATA[Will the Tate brothers be extradited from the US to the UK?]]></title>
