@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 09:36:52 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 09:10:48 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:55:12 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 11:18:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -96,13 +96,50 @@
       <media:description>Regulators said Google unfairly boosted its services in areas like shopping, travel and games, displaying its own business lines more prominently at the top of search results.</media:description>
     </item>
     <item>
+      <title>Meta Launches New Facebook Marketplace App Called Seller</title>
+      <link>https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html" rel="standout"></atom:link>
+      <description>Seller is part of the Silicon Valley company’s strategy to innovate on its original social network.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 11:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alison, Tom (Technology Executive)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24biz-facebook-marketplace-1-flpt/24biz-facebook-marketplace-1-flpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian C. Bates for The New York Times</media:credit>
+      <media:description>The Menlo Park, Calif., headquarters of Meta, which introduced a stand-alone app for Facebook Marketplace sellers on Friday. </media:description>
+    </item>
+    <item>
+      <title>OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting</title>
+      <link>https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html" rel="standout"></atom:link>
+      <description>“The story that we’re talking about in this segment was science fiction until Tuesday, OK?”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Davis Land, John Woo, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Leah Shaw Dameron</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/podcasts/24hardfork-openai-hug/24hardfork-openai-hug-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
       <title>An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?</title>
       <link>https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/24/arts/music/ai-music-faq.html" rel="standout"></atom:link>
       <description>Advances in A.I. are making it possible to create all kinds of music from scratch, but they also raise questions about what is legal and who will actually listen.</description>
       <dc:creator>Ben Sisario</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 09:00:35 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 10:24:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
@@ -110,6 +147,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotify</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Suno</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Udio (Uncharted Labs Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
     </item>
     <item>
       <title>Judge Extends Pause for Paramount-Warner Bros. Deal</title>
@@ -538,24 +576,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lockheed Martin Corporation</category>
-    </item>
-    <item>
-      <title>The A.I. Trade Secrets War + Economists Say ‘We Must Act Now’ + HatGPT</title>
-      <link>https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/podcasts/hardfork-ai-trade-secrets.html" rel="standout"></atom:link>
-      <description>“I don’t know if the public understands this, but these companies hate each other.”</description>
-      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Rowan Niemisto and Diane Wong</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 11:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lorde</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/podcasts/17hardfork-AI-Wars/17hardfork-AI-Wars-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
     </item>
   </channel>
 </rss>

@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 09:39:58 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 11:57:08 +0000</lastBuildDate>
     <pubDate>Fri, 24 Jul 2026 09:15:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -29,7 +29,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Habits and Routines (Behavior)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24int-paris-spain-heat-kmlz/24int-paris-spain-heat-kmlz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24int-paris-spain-heat-kmlz/24int-paris-spain-heat-kmlz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Dmitry Kostyukov for The New York Times</media:credit>
       <media:description>Trying to stay cool in Paris during a heat wave last month.</media:description>
     </item>
@@ -632,44 +632,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-texas-flooding-01-jmkb/17nat-texas-flooding-01-jmkb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Vonderhaar for The New York Times</media:credit>
       <media:description>Debris littered a bridge crossing the Guadalupe River in Center Point, Texas.</media:description>
-    </item>
-    <item>
-      <title>Ontario Wildfires Burn On, and New Ones Spring Up</title>
-      <link>https://www.nytimes.com/2026/07/17/weather/ontario-wildfires-smoke.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/weather/ontario-wildfires-smoke.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/weather/ontario-wildfires-smoke.html" rel="standout"></atom:link>
-      <description>Nearly 200 fires continued to devastate swaths of the province, prompting evacuations in at least 15 communities.</description>
-      <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 17:02:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indigenous People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17nat-smoke-live-ontario-fires-01-mlqc/17nat-smoke-live-ontario-fires-01-mlqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cole Burston/The Canadian Press, via Associated Press</media:credit>
-      <media:description>Smoke was visible from the observation deck of the CN Tower in Toronto on Thursday.</media:description>
-    </item>
-    <item>
-      <title>When American Smoke Choked Canada</title>
-      <link>https://www.nytimes.com/2026/07/17/weather/american-smoke-canada.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/weather/american-smoke-canada.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/weather/american-smoke-canada.html" rel="standout"></atom:link>
-      <description>Some Republican lawmakers have blamed Canada for poor air quality in the United States and said poor forest management is to blame. But Canadians have also inhaled smoke from American wildfires.</description>
-      <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 10:20:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-smoke-live-south-to-north2-vhcg/16nat-smoke-live-south-to-north2-vhcg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jennifer Gauthier/Reuters</media:credit>
-      <media:description>Smoke from wildfires in Washington State drifted north, casting a haze across Stanley Park in Vancouver in September, 2020.</media:description>
     </item>
   </channel>
 </rss>
