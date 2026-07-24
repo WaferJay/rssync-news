@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 15:46:50 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 14:38:37 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 17:53:32 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 17:44:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html" rel="standout"></atom:link>
       <description>Seller is part of the Silicon Valley company’s strategy to innovate on its original social network.</description>
       <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 11:00:09 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 17:44:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
@@ -42,17 +42,16 @@
       <atom:link href="https://www.nytimes.com/2026/07/23/technology/intel-quarterly-results.html" rel="standout"></atom:link>
       <description>The Silicon Valley chipmaker’s revenue rose 25 percent in the latest quarter, its fastest growth in 15 years, as A.I. firms increasingly bought chips known as central processing units.</description>
       <dc:creator>Don Clark</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 22:09:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <pubDate>Thu, 23 Jul 2026 22:09:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Advanced Micro Devices Inc.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Intel Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tan, Lip-Bu</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/INTEL-EARNINGS-1-01-wqvh/INTEL-EARNINGS-1-01-wqvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Loren Elliott for The New York Times</media:credit>
       <media:description>An Intel wafer at the company’s Ocotillo campus in Chandler, Ariz.</media:description>
@@ -83,13 +82,14 @@
       <description>China is seeking global influence and good will with its open, low-cost artificial intelligence software.</description>
       <dc:creator>Steve Lohr</dc:creator>
       <pubDate>Thu, 23 Jul 2026 17:11:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/Biz-AI-China-01-lztf/Biz-AI-China-01-lztf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
       <media:description>Moonshot’s booth at the World Artificial Intelligence Conference in Shanghai last week. Moonshot and other Chinese tech companies have championed open-source A.I.</media:description>
@@ -135,16 +135,16 @@
       <description>The court blocked the companies from closing the acquisition through mid-August, as a judge considers two lawsuits challenging it.</description>
       <dc:creator>David McCabe</dc:creator>
       <pubDate>Fri, 24 Jul 2026 00:54:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Pictures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Writers Guild of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain=""></category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23biz-paramount-1-bflz/23biz-paramount-1-bflz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
       <media:description>The Paramount lot in Los Angeles.</media:description>
@@ -521,25 +521,6 @@
       <media:content height="1612" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16xp-tvdelay2-cgfv/16xp-tvdelay2-cgfv-mediumSquareAt3X.jpg" width="1612"></media:content>
       <media:credit>Paul Ellis/Agence France-Presse — Getty Images</media:credit>
       <media:description>Lautaro Martinez of Argentina scored the winning goal over England on Wednesday. When did you see it?</media:description>
-    </item>
-    <item>
-      <title>Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal</title>
-      <link>https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html" rel="standout"></atom:link>
-      <description>A deal would underline how scarce computing power is for artificial intelligence development, and could create a new business for Meta.</description>
-      <dc:creator>Eli Tan and Mike Isaac</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 17:44:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Enterprise Computing</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17biz-meta-anthropic-qjkb/17biz-meta-anthropic-qjkb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dustin Chambers for The New York Times</media:credit>
-      <media:description>A data center owned by Meta in Georgia. A deal with Anthropic could potentially alleviate pressure on Meta from investors, who have questioned how much it has been spending on data centers.</media:description>
     </item>
   </channel>
 </rss>

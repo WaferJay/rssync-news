@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 15:47:21 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 15:35:46 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 17:52:31 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 17:14:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -29,6 +29,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revel Pharmaceuticals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aaron Cravens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Life of Alan Turing Emerges in Richer Detail From Short Story</title>
@@ -57,15 +58,13 @@
       <description>The Agency for Healthcare Research and Quality slowed the awarding of new grants last year. Now it is stopping existing ones.</description>
       <dc:creator>Katrina Miller</dc:creator>
       <pubDate>Fri, 24 Jul 2026 14:25:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grants (Corporate and Foundation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agency for Healthcare Research and Quality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24SCI-HEALTH-CUTS-ljhf/24SCI-HEALTH-CUTS-ljhf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Grant Hindsley for The New York Times</media:credit>
       <media:description>The Agency for Healthcare Research and Quality, an arm of the Department of Health and Human Services, is a small agency that aims to make quality health care in the United States more affordable and accessible.</media:description>
@@ -97,13 +96,12 @@
       <description>Jackie found an online audience through a webcam pointed at her nest in California. She was rescued last week after a fight with other eagles, officials said.</description>
       <dc:creator>Alexandra E. Petri</dc:creator>
       <pubDate>Fri, 24 Jul 2026 00:06:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bald Eagles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterinary Medicine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Big Bear Lake (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Bernardino County (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
     </item>
     <item>
@@ -612,39 +610,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17cli-floods-01-lmwz/17cli-floods-01-lmwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brandon Bell/Getty Images</media:credit>
       <media:description>Flood debris blocked a road in Kerrville, Texas, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Rudolph Marcus, Who Illuminated Electrochemical Processes, Dies at 102</title>
-      <link>https://www.nytimes.com/2026/07/17/science/rudolph-marcus-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/science/rudolph-marcus-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/science/rudolph-marcus-dead.html" rel="standout"></atom:link>
-      <description>He received a 1992 Nobel Prize for developing a theory that explained fundamental processes behind photosynthesis, respiration, oxidation and even how fireflies produce light.</description>
-      <dc:creator>Dylan Loeb McClain</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 21:13:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marcus, Rudolph (1923-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photosynthesis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Institute of Technology</category>
-    </item>
-    <item>
-      <title>E.U. Proposes Changes to Emissions Trading System</title>
-      <link>https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/17/climate/european-union-emissions-rollback.html" rel="standout"></atom:link>
-      <description>The European Union is facing a green backlash as emissions cuts become harder and require bigger overhauls to industry and livelihoods</description>
-      <dc:creator>Chico Harlan</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 15:48:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Caps and Emissions Trading Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sustainable Living</category>
-      <media:content height="1768" medium="image" url="https://static01.nyt.com/images/2026/07/17/multimedia/17CLI-EUROPE-CLIMATE-WEAKENING-wkml/17CLI-EUROPE-CLIMATE-WEAKENING-wkml-mediumSquareAt3X.jpg" width="1768"></media:content>
-      <media:credit>Nadja Wohlleben/Reuters</media:credit>
-      <media:description>Europe, which often holds itself up as a climate leader, has been facing political infighting over some of its policies.</media:description>
     </item>
   </channel>
 </rss>

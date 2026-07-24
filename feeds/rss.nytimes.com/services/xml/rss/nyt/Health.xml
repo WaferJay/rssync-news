@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 15:49:55 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 14:42:15 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 17:51:22 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 17:13:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,15 +22,13 @@
       <description>The Agency for Healthcare Research and Quality slowed the awarding of new grants last year. Now it is stopping existing ones.</description>
       <dc:creator>Katrina Miller</dc:creator>
       <pubDate>Fri, 24 Jul 2026 14:25:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grants (Corporate and Foundation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agency for Healthcare Research and Quality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24SCI-HEALTH-CUTS-ljhf/24SCI-HEALTH-CUTS-ljhf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Grant Hindsley for The New York Times</media:credit>
       <media:description>The Agency for Healthcare Research and Quality, an arm of the Department of Health and Human Services, is a small agency that aims to make quality health care in the United States more affordable and accessible.</media:description>
@@ -50,6 +48,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revel Pharmaceuticals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aaron Cravens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Key Republican Senator Says He Will Support Erica Schwartz for C.D.C. Director</title>
@@ -61,14 +60,18 @@
       <pubDate>Thu, 23 Jul 2026 18:51:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwartz, Erica (Doctor)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwartz, Erica (Doctor)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cassidy, Bill (1957- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23dc-cdc-director-photo-fhmj/23dc-cdc-director-photo-fhmj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Dr. Erica Schwartz gained Senator Bill Cassidy’s backing after the Centers for Disease Control and Prevention revised a webpage about vaccines and autism to address his concerns.</media:description>
