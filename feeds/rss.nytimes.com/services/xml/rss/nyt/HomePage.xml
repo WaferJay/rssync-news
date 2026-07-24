@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 24 Jul 2026 06:40:38 +0000</lastBuildDate>
-    <pubDate>Fri, 24 Jul 2026 05:34:03 +0000</pubDate>
+    <lastBuildDate>Fri, 24 Jul 2026 09:35:30 +0000</lastBuildDate>
+    <pubDate>Fri, 24 Jul 2026 09:28:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -54,7 +54,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/2026-tariff-tracker-embeds-index/2026-tariff-tracker-embeds-index-mediumSquareAt3X.png" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/2026-tariff-tracker-embeds-index/2026-tariff-tracker-embeds-index-mediumSquareAt3X-v4.png" width="1000"></media:content>
       <media:credit>Edison Wu/The New York Times</media:credit>
     </item>
     <item>
@@ -135,18 +135,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23dc-troops-cvgb/23dc-troops-cvgb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23dc-troops-cvgb/23dc-troops-cvgb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>The remains of U.S. Army First Lt. Tyler James Feehan, who was killed in Jordan, in a dignified transfer this week.</media:description>
     </item>
     <item>
       <title>Brent Crude Oil Prices Top $100 as Conflict With Iran Drags On</title>
-      <link>https://www.nytimes.com/2026/07/24/technology/oil-prices-global-stocks-shipping.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/technology/oil-prices-global-stocks-shipping.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/technology/oil-prices-global-stocks-shipping.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/business/oil-prices-global-stocks-shipping.html" rel="standout"></atom:link>
       <description>Stocks in Asia were down following a sell-off in the U.S. markets over soaring oil prices, rising borrowing costs and worries about the technology industry.</description>
       <dc:creator>Laura Stevens</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 05:12:38 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 09:28:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -272,7 +272,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23int-india-protests-1-pbkh/23int-india-protests-1-pbkh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23int-india-protests-1-pbkh/23int-india-protests-1-pbkh-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Ashish Vaishnav/Associated Press</media:credit>
       <media:description>Rhiya Ahir blocking a police van carrying detained protesters in Mumbai, India, on Wednesday.</media:description>
     </item>
@@ -408,40 +408,38 @@
       <media:credit>Sotheby’s, via Associated Press</media:credit>
     </item>
     <item>
-      <title>Gen Z Fell Out of Love With Work. I Don’t Blame Them.</title>
-      <link>https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html" rel="standout"></atom:link>
-      <description>For Gen Z college graduates, the way millennials lived out their ambitions no longer makes sense.</description>
-      <dc:creator>Emi Nietfeld</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 22:16:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/23nietfeld-02-lmpz/23nietfeld-02-lmpz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Photo illustration by Rosie Clements for The New York Times</media:credit>
+      <title>Our Vast Collective Jeffrey Epstein Failure</title>
+      <link>https://www.nytimes.com/2026/07/24/opinion/jeffrey-epstein-crimes-collaborators-files.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/opinion/jeffrey-epstein-crimes-collaborators-files.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/opinion/jeffrey-epstein-crimes-collaborators-files.html" rel="standout"></atom:link>
+      <description>We need to hold accountable the web of accomplices who enabled his crimes.</description>
+      <dc:creator>Rachel Louise Snyder</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 09:00:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maxwell, Ghislaine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/opinion/22snyder/22snyder-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Illustration by The New York Times</media:credit>
     </item>
     <item>
-      <title>How Trump and His Allies Can Corrupt the Midterms</title>
-      <link>https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html" rel="standout"></atom:link>
-      <description>Stop the steal before it starts.</description>
-      <dc:creator>David French</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:51:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2020</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eastman, John C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <title>Platner’s Top Campaign Strategist on What Went Wrong</title>
+      <link>https://www.nytimes.com/2026/07/24/opinion/ezra-klein-podcast-morris-katz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/opinion/ezra-klein-podcast-morris-katz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/opinion/ezra-klein-podcast-morris-katz.html" rel="standout"></atom:link>
+      <description>Morris Katz helped Zohran Mamdani win, and then tried to do the same for Graham Platner. What has he learned?</description>
+      <dc:creator>Ezra Klein, Rollin Hu, Annie Galvin and Marie Cascione</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 09:04:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Morris (1999- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Platner, Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/opinion/24eks-katz-image/24eks-katz-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Jimmy Fallon Pokes Fun at Trump’s ‘Pinky Herman’</title>
