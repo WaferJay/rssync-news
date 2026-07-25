@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 06:31:04 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 06:20:32 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:10:52 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 09:07:55 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/24/world/iran-war-us-strikes-trump-oil" rel="standout"></atom:link>
       <description>The discussions at the White House came days before a planned meeting with Prime Minister Benjamin Netanyahu of Israel.  Across the region, Iran and the United States continued to trade attacks.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 01:58:53 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 08:56:39 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24mideast-live-promo8p-klzg/24mideast-live-promo8p-klzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
     </item>
@@ -287,13 +287,136 @@
       <media:description>Trying to stay cool in Paris during a heat wave last month.</media:description>
     </item>
     <item>
+      <title>Wildfire Smoke Chokes Skies in Spain and France</title>
+      <link>https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html" rel="standout"></atom:link>
+      <description>Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 09:07:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25Int-Europe-Fires-Visual-thlq/25Int-Europe-Fires-Visual-thlq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maximilien Lamy/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Beachgoers on Friday in Moutchic, in southwestern France, watch plumes of smoke rising from a wildfire.</media:description>
+    </item>
+    <item>
+      <title>Iran Journey Reveals Society’s Wartime Defiance and Hope</title>
+      <link>https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html" rel="standout"></atom:link>
+      <description>From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful.</description>
+      <dc:creator>Abdi Latif Dahir and Emile Ducke</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 09:01:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Funerals and Memorials</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25iran-01-gvkh/25iran-01-gvkh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>A portrait of a defiant Ayatollah Ali Khamenei looms over Tehran streets.</media:description>
+    </item>
+    <item>
+      <title>Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities</title>
+      <link>https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html" rel="standout"></atom:link>
+      <description>While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers. He himself was investigated by U.S. authorities, though never charged.</description>
+      <dc:creator>Annie Correal and David Ovalle</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 09:00:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sergio Acero/Reuters</media:credit>
+      <media:description>The Colombian president-elect Abelardo de la Espriella with a sign for his political movement, Defenders of the Homeland. </media:description>
+    </item>
+    <item>
+      <title>How Tā Moko, the Māori Tattoo Art, Made A Comeback in New Zealand</title>
+      <link>https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/world/australia/new-zealand-maori-ta-moko-tattoos.html" rel="standout"></atom:link>
+      <description>Young Māori in New Zealand are embracing tā moko, the ritual tattoos that were banned under British colonial rule and became an act of protest in the 1970s.</description>
+      <dc:creator>Francesca Regalado and Tatsiana Chypsanava</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 09:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tattoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colonization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Zealand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/08/multimedia/00xp-tattoos-lbzg/00xp-tattoos-lbzg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Two men perform a hongi, a traditional Māori greeting, at a regional festival in Whakatāne on New Zealand’s North Island in February.</media:description>
+    </item>
+    <item>
+      <title>Here’s the latest.</title>
+      <link>https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/25/world/iran-war-us-strikes-trump-oil/heres-the-latest" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Aaron Boxerman and Ismaeel Naar</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 08:56:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying</title>
+      <link>https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html" rel="standout"></atom:link>
+      <description>The authorities in Belgium did not name the country that the intern, a woman “of Chinese origin,” is suspected of spying for.</description>
+      <dc:creator>Francesca Regalado</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 07:59:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <media:content height="1755" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25xp-nato-shape/25xp-nato-shape-mediumSquareAt3X.jpg" width="1753"></media:content>
+      <media:credit>Nic Edouard Bocquet/SHAPE, via Reuters</media:credit>
+      <media:description>The military headquarters of NATO, known as SHAPE, in Belgium.</media:description>
+    </item>
+    <item>
+      <title>Who Are the People Out Protesting in India?</title>
+      <link>https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/world/asia/india-protests-profiles.html" rel="standout"></atom:link>
+      <description>Some of the young demonstrators describe the anger, frustration and desires that drove them into the streets to join a movement that is testing the government of Prime Minister Narendra Modi.</description>
+      <dc:creator>Anupreeta Das and Akansha Bahadur</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 07:26:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cockroach Janta Party (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delhi (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24INDIA-PROTEST-PROFILES-flcw/24INDIA-PROTEST-PROFILES-flcw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Saumya Khandelwal for The New York Times</media:credit>
+      <media:description>People shouting anti-government slogans gathered near the protest site at Jantar Mantar in New Delhi, India, on Thursday.</media:description>
+    </item>
+    <item>
       <title>Taiwan Tests How It Would Resist a Chinese Siege at Sea</title>
       <link>https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html" rel="standout"></atom:link>
       <description>Taiwan is stepping up plans to secure fuel and other vital imports as Chinese government ships practice moves that could one day be used in a blockade.</description>
       <dc:creator>Chris Buckley and Amy Chang Chien</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 04:01:07 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 07:10:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
@@ -966,119 +1089,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-japan-abe-chzq/22int-japan-abe-chzq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kentaro Takahashi for The New York Times</media:credit>
       <media:description>Sanae Takaichi has frequently leveraged her ties to Shinzo Abe.</media:description>
-    </item>
-    <item>
-      <title>Debate Over Ancient Iranian Jewelry Worn by Zendaya to ‘Odyssey’ Event</title>
-      <link>https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/style/zendaya-odyssey-earrings-jewelry.html" rel="standout"></atom:link>
-      <description>The actress wore earrings to an event for “The Odyssey” that a London gallery has said were made from an ancient artifact.</description>
-      <dc:creator>Yola Mzizi</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 15:16:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jewels and Jewelry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arts and Antiquities Looting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coleman, Zendaya</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roach, Law</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hathaway, Anne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22ST-ZENDAYA-EARRING-PHOTO-mwzt/22ST-ZENDAYA-EARRING-PHOTO-mwzt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Scott A Garfitt/Invision, via Associated Press</media:credit>
-      <media:description>Zendaya at an event for “The Odyssey” in London this month. </media:description>
-    </item>
-    <item>
-      <title>Houthis Claim Strikes on 2 Saudi Oil Tankers in Red Sea</title>
-      <link>https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/world/middleeast/houthis-saudi-oil-tankers-red-sea.html" rel="standout"></atom:link>
-      <description>The Saudi authorities confirmed a strike on one of the ships. These are the first claimed attacks since the Iranian-backed Yemeni group announced a blockade on Saudi Arabia.</description>
-      <dc:creator>Pranav Baskar</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 02:59:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="770" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22mideast-live-oil-tankers-htqp/22mideast-live-oil-tankers-htqp-mediumSquareAt3X.jpg" width="770"></media:content>
-      <media:credit>NASA Worldview, via Reuters</media:credit>
-      <media:description>A satellite image of the Bab al-Mandab Strait earlier this month.</media:description>
-    </item>
-    <item>
-      <title>What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East</title>
-      <link>https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html" rel="standout"></atom:link>
-      <description>Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.</description>
-      <dc:creator>Aric Toler and Christoph Koettl</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 01:37:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jordan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-visual-investigations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>Three Airports Plan to Ditch T.S.A. Agents Amid Push for Private Security</title>
-      <link>https://www.nytimes.com/2026/07/22/travel/tsa-privatization-push.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/travel/tsa-privatization-push.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/travel/tsa-privatization-push.html" rel="standout"></atom:link>
-      <description>The airports have opted in to the agency’s new security model, an agency spokesperson confirmed on Wednesday. A union official said the move could jeopardize public safety.</description>
-      <dc:creator>Ryley Ober</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 01:34:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privatization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Charleston International Airport (SC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Des Moines International Airport</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tampa International Airport</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Security Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Federation of Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Des Moines (Iowa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tampa (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Charleston (SC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelley, Everett B</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22trav-tsa-hmzb/22trav-tsa-hmzb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chris O&#39;Meara/Associated Press</media:credit>
-      <media:description>Tampa International is one of three U.S. airports opting in to a new program.</media:description>
-    </item>
-    <item>
-      <title>Saudi Arabia’s Nuclear Plans</title>
-      <link>https://www.nytimes.com/2026/07/22/world/saudi-nuclear-deal-trump-houthis.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/world/saudi-nuclear-deal-trump-houthis.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/world/saudi-nuclear-deal-trump-houthis.html" rel="standout"></atom:link>
-      <description>The U.S. will help the Saudis develop a civilian nuclear program, with uncertain consequences for the Middle East.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 04:51:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed bin Salman (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23int-theworld-saudi-nuclear-deal-01-bltg-promo/23int-theworld-saudi-nuclear-deal-01-bltg-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
     </item>
   </channel>
 </rss>

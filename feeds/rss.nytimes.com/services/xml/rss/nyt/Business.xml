@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 06:29:08 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 06:20:43 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 09:11:23 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 09:02:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Tankers Sail Through Red Sea Despite Houthi Blockade</title>
+      <link>https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html" rel="standout"></atom:link>
+      <description>Dozens of ships continued to traverse the Red Sea this week, but with scattered disruption, uncertainty about the passage grows by the hour.</description>
+      <dc:creator>Leanne Abraham and Jenny Gross</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 09:02:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Suez Canal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/2026-07-22-aden-ship-traffic-index/2026-07-22-aden-ship-traffic-index-mediumSquareAt3X.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
     <item>
       <title>A Global Economy Jolted by an Oil Shock Now Gets a Tariff Reminder</title>
       <link>https://www.nytimes.com/2026/07/25/business/economy/trump-tariffs-iran-war-inflation.html</link>
@@ -1067,25 +1086,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/25/business/25Biz-Maga-Dealmakers/25Biz-Maga-Dealmakers-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chandan Khanna/AFP, via Getty Images (Malik); Alex Brandon/AP (Trump)</media:credit>
       <media:description>Omeed Malik, left, and Donald Trump Jr.</media:description>
-    </item>
-    <item>
-      <title>Trump Plans to Impose Tariffs on Generic Drugs</title>
-      <link>https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/business/trump-tariffs-generic-drugs.html" rel="standout"></atom:link>
-      <description>The administration has repeatedly said it will impose steep pharmaceutical tariffs but has not followed through on them.</description>
-      <dc:creator>Rebecca Robbins</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 01:24:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generic Brands and Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2024/12/21/multimedia/21dc-trump-drugs/21SCI-SPAN-05-tqkf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mette Lampcov for The New York Times</media:credit>
-      <media:description>President Trump said he plans to impose tariffs on generic medicines in an effort to bring pharmaceutical manufacturing back to the United States.</media:description>
     </item>
   </channel>
 </rss>
