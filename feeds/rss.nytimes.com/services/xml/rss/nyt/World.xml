@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 17:22:57 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 17:21:06 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 18:13:03 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 18:06:23 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/07/25/world/france-spain-wildfires-evacuations" rel="standout"></atom:link>
       <description>Firefighters were racing to contain blazes that were moving closer to Madrid and Bordeaux.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 17:20:37 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 18:06:23 +0000</pubDate>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-promo-1245pm-vwbc/25europe-wildfires-promo-1245pm-vwbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cesar Manso/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -183,7 +183,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html" rel="standout"></atom:link>
       <description>Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 13:44:37 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 18:05:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
@@ -277,6 +277,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24int-Venezuela-quake-inequality-promo/24int-Venezuela-quake-inequality-qjvf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>Michell Mendoza, 16, right, standing next to a truck holding her mother’s coffin after being turned away from a cemetery.</media:description>
+    </item>
+    <item>
+      <title>Conditions for European Wildfires Created by Summer of Extremes</title>
+      <link>https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/world/europe/wildfires-europe-spain-france.html" rel="standout"></atom:link>
+      <description>The wildfires are scorching parts of France and Spain that had already faced usually hot and dry summers.</description>
+      <dc:creator>Chico Harlan</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 17:23:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25europe-wildfires-conditions-topart-lqch/25europe-wildfires-conditions-topart-lqch-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Violeta Santos Moura/Reuters</media:credit>
+      <media:description>Firefighters outside El Tiemblo, Spain, on Friday. The areas of France and Spain with active wildfires suffered heat waves and dry conditions for weeks before the outbreaks.</media:description>
     </item>
     <item>
       <title>‘There have always been wildfires here, but never like this.’</title>
@@ -1035,28 +1053,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23int-skorea-us-nuclear-bwtm/23int-skorea-us-nuclear-bwtm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kim Hong-Ji/Reuters</media:credit>
       <media:description>A beach near Wolseong Nuclear Power Plant in Gyeongju, South Korea, in 2022. The country has one of the biggest nuclear power industries in the world.</media:description>
-    </item>
-    <item>
-      <title>Zelensky’s Dizzying U-Turn Is the Latest Zigzag in a Presidency Full of Them</title>
-      <link>https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/world/europe/zelensky-ukraine-military-reversal.html" rel="standout"></atom:link>
-      <description>President Volodymyr Zelensky of Ukraine has pivoted from unpopular moves before, but a recent decision about military leadership and strategy could weaken his position.</description>
-      <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 15:45:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fedorov, Mykhailo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Syrsky, Oleksandr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23int-ukraine-zelensky-gbzh/23int-ukraine-zelensky-gbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Teresa Suarez</media:credit>
-      <media:description>President Volodymyr Zelensky of Ukraine during a visit to Paris this month. His country is in the grips of some of the worst turbulence in domestic politics since Russia’s all-out invasion in 2022.</media:description>
     </item>
   </channel>
 </rss>
