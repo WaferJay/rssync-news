@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 21:07:51 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 22:10:47 +0000</lastBuildDate>
     <pubDate>Sat, 25 Jul 2026 20:44:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
@@ -263,6 +263,27 @@
       <media:description>In the last few weeks, the Chinese start-ups Z.ai and Moonshot AI released artificial intelligence models that rival those from American labs.</media:description>
     </item>
     <item>
+      <title>Sally the Robot Was Coming to a New York School. Then the Plug Was Pulled.</title>
+      <link>https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html" rel="standout"></atom:link>
+      <description>Students helped design the A.I.-powered creation as a young female with dark hair and an upbeat personality. Then came the outrage.</description>
+      <dc:creator>Matthew Haag</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 20:36:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Salamanca City Central School District</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York State United Teachers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salamanca (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Allegany (NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/nyregion/24met-school-robot/24met-school-robot-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Abbie Parr/Associated Press</media:credit>
+      <media:description>Andrew Kiguel, right, the chief executive of Realbotix, talking to a humanoid robot made by the company at a trade show last year.</media:description>
+    </item>
+    <item>
       <title>Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.</title>
       <link>https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html</guid>
@@ -344,27 +365,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (Book)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/25/opinion/25dowd-ody/25dowd-ody-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Heritage Images, via Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Sally the Robot Was Coming to a New York School. Then the Plug Was Pulled.</title>
-      <link>https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/nyregion/robot-school-new-york-salamanca.html" rel="standout"></atom:link>
-      <description>Students helped design the A.I.-powered creation as a young female with dark hair and an upbeat personality. Then came the outrage.</description>
-      <dc:creator>Matthew Haag</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 20:36:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Salamanca City Central School District</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (NYS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York State United Teachers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salamanca (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Allegany (NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/nyregion/24met-school-robot/24met-school-robot-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Abbie Parr/Associated Press</media:credit>
-      <media:description>Andrew Kiguel, right, the chief executive of Realbotix, talking to a humanoid robot made by the company at a trade show last year.</media:description>
     </item>
   </channel>
 </rss>
