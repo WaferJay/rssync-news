@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 14:03:41 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 13:27:52 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 17:22:28 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 16:47:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html" rel="standout"></atom:link>
       <description>Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.</description>
       <dc:creator>Mike Isaac, Kate Conger, Ana Swanson and Meaghan Tobin</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 13:00:08 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 16:47:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
@@ -52,15 +52,14 @@
       <description>Seller is part of the Silicon Valley company’s strategy to innovate on its original social network.</description>
       <dc:creator>Eli Tan</dc:creator>
       <pubDate>Fri, 24 Jul 2026 17:44:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alison, Tom (Technology Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24biz-facebook-marketplace-1-flpt/24biz-facebook-marketplace-1-flpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ian C. Bates for The New York Times</media:credit>
       <media:description>The Menlo Park, Calif., headquarters of Meta, which introduced a stand-alone app for Facebook Marketplace sellers on Friday. </media:description>
@@ -518,28 +517,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/19/business/19Polymarket-cover-illo/19Polymarket-cover-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Illustration by Scott Anderson</media:credit>
-    </item>
-    <item>
-      <title>Your ‘Live’ World Cup Broadcast Is Not Really Live</title>
-      <link>https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/18/sports/soccer/world-cup-live-tv-delay.html" rel="standout"></atom:link>
-      <description>Everyone is watching the goals after they happen, and some get them significantly faster.</description>
-      <dc:creator>Victor Mather</dc:creator>
-      <pubDate>Sat, 18 Jul 2026 15:48:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="1612" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16xp-tvdelay2-cgfv/16xp-tvdelay2-cgfv-mediumSquareAt3X.jpg" width="1612"></media:content>
-      <media:credit>Paul Ellis/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Lautaro Martinez of Argentina scored the winning goal over England on Wednesday. When did you see it?</media:description>
     </item>
   </channel>
 </rss>
