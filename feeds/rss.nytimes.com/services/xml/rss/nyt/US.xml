@@ -3,17 +3,32 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1785008148571" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 18:11:44 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 17:49:22 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 19:35:48 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 19:06:38 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Military Families Express Outrage After Pentagon Lowers Number of U.S. Troop Deaths in Iran War</title>
+      <link>https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html" rel="standout"></atom:link>
+      <description>The change in the number to 14 from 18 this week has prompted scrutiny over the Defense Department’s accounting and reporting practices.</description>
+      <dc:creator>Tim Arango, Georgia Gee and Pooja Salhotra</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 18:34:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24nat-number-outrage-jwmb/24nat-number-outrage-jwmb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump and Defense Secretary Pete Hegseth at the dignified transfer of four soldiers recently killed overseas.</media:description>
+    </item>
     <item>
       <title>Ida Schmertz, Who Studied Women in Politics, Dies at 91</title>
       <link>https://www.nytimes.com/2026/07/25/us/ida-schmertz-dead.html</link>
@@ -74,7 +89,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html" rel="standout"></atom:link>
       <description>A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.</description>
       <dc:creator>Eric Lipton, Tyler Pager and Maggie Haberman</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 14:31:56 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 19:06:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -140,7 +155,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html" rel="standout"></atom:link>
       <description>Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.</description>
       <dc:creator>Bayliss Wagner, Lisa Lerer and Theodore Schleifer</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 17:08:30 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 19:03:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Susan M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
@@ -414,110 +429,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24pol-michigan-senate-whitmer-01-zjmq/24pol-michigan-senate-whitmer-01-zjmq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nick Hagen for The New York Times</media:credit>
       <media:description>Gov. Gretchen Whitmer at the Michigan Democratic Legacy Dinner honoring her in April.</media:description>
-    </item>
-    <item>
-      <title>Opposing Defense Bill, Democrats Shift Their Tactics</title>
-      <link>https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/us/politics/democrats-defense-bill.html" rel="standout"></atom:link>
-      <description>Crossing what was once seen as a political red line, Democrats voted against the usually bipartisan measure, registering dissent about the war in Iran.</description>
-      <dc:creator>Carl Hulse</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 01:29:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">King, Angus Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24dc-dems-jkvp/24dc-dems-jkvp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Senator Angus King, a Maine independent, this month opposed the annual Pentagon policy measure for the first time.</media:description>
-    </item>
-    <item>
-      <title>What We Know About the Police Shooting in Madison</title>
-      <link>https://www.nytimes.com/2026/07/24/us/madison-wisconsin-police-shooting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/us/madison-wisconsin-police-shooting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/us/madison-wisconsin-police-shooting.html" rel="standout"></atom:link>
-      <description>A Black man was shot and killed by the police on Wednesday, not far from the Wisconsin Capitol. An investigation is underway.</description>
-      <dc:creator>Jacey Fortin, Pooja Salhotra and Robert Chiarito</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 00:41:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison (Wis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24nat-madison-WWK-1-jvfh/24nat-madison-WWK-1-jvfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kayla Wolf/Associated Press</media:credit>
-      <media:description>A memorial at the site where a man was shot and killed by a police officer in Madison, Wis.</media:description>
-    </item>
-    <item>
-      <title>Cornell, Northwestern and Other Universities Plan for Classes at Middle East Campuses</title>
-      <link>https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/us/middle-east-campuses-american-universities.html" rel="standout"></atom:link>
-      <description>Even after the collapse of the cease-fire between the United States and Iran, American universities expect to teach in Qatar and the United Arab Emirates, and a new outpost is on track to open in Saudi Arabia.</description>
-      <dc:creator>Alan Blinder</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 21:32:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Study and Teaching</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of New Haven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25nat-mideast-campuses-cjmv/25nat-mideast-campuses-cjmv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bernd von Jutrczenka/Picture-Alliance/DPA, via Associated Press Images</media:credit>
-      <media:description>The University of New Haven is still planning to inaugurate its new campus in Riyadh, Saudi Arabia.</media:description>
-    </item>
-    <item>
-      <title>Iran’s New Leader Is More Open to Pursuing a Nuclear Weapon, U.S. Intelligence Says</title>
-      <link>https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/us/politics/iran-nuclear-weapon.html" rel="standout"></atom:link>
-      <description>The previous supreme leader, who was killed early in the war, had renounced nuclear weapons. U.S. spy agencies believe his son is more interested in building a bomb.</description>
-      <dc:creator>Julian E. Barnes</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 18:18:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Espionage and Intelligence Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Mojtaba (1969- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khamenei, Ali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Fordo (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24dc-intel01-photo-vfhz/24dc-intel01-photo-vfhz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>A billboard in Tehran of Iran’s three supreme leaders, including Ayatollah Mojtaba Khamenei at right. A determination that he is potentially open to pursuing a bomb would provide additional justification for an escalation of the Trump administration’s military campaign.</media:description>
-    </item>
-    <item>
-      <title>Trump Meets With Top Advisers as He Weighs a Major Escalation in Iran</title>
-      <link>https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/us/politics/trump-escalation-iran.html" rel="standout"></atom:link>
-      <description>President Trump has insisted the U.S.-Israeli war in Iran would be a relatively short “excursion,” although it has lasted nearly five months, with no end in sight.</description>
-      <dc:creator>Maggie Haberman, Jonathan Swan, Tyler Pager and Eric Schmitt</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 21:41:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24dc-trump-iran-hjmc/24dc-trump-iran-hjmc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>A Marine sentry posted outside the doors of the West Wing on Friday afternoon. </media:description>
     </item>
   </channel>
 </rss>
