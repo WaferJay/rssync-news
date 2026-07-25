@@ -7,13 +7,54 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 09:11:23 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 09:02:10 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 14:02:46 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 13:23:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Sell the Company for $400 Million? He’s Giving It Away Instead.</title>
+      <link>https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html" rel="standout"></atom:link>
+      <description>After his sole heir died, Eddie Smith, the owner of Grady-White Boats, looked for a way to pass on his legacy. He was inspired by Patagonia to pledge future profits to charity.</description>
+      <dc:creator>David Gelles</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 12:00:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chouinard, Yvon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenville (NC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grady-White Boats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Eddie Jr.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patagonia Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23biz-grady-white-hjbc/23biz-grady-white-hjbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kate Medley for The New York Times</media:credit>
+      <media:description>Eddie Smith Jr., chief executive emeritus of Grady-White Boats in Greenville, N.C., decided to give the company’s future profits to charitable causes. </media:description>
+    </item>
+    <item>
+      <title>Blockbuster I.P.O.s Are Creating New Millionaires. Philanthropies Want a Cut.</title>
+      <link>https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/business/dealbook/spacex-anthropic-philanthropy.html" rel="standout"></atom:link>
+      <description>As start-ups like Anthropic and OpenAI prepare to go public, nonprofits are hoping for a secondary giving windfall from the new tech ultrawealthy.</description>
+      <dc:creator>Ian Frisch</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 12:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/business/25DB-IPO-Philanthropy/25DB-IPO-Philanthropy-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fortunate Joaquin</media:credit>
+    </item>
     <item>
       <title>Tankers Sail Through Red Sea Despite Houthi Blockade</title>
       <link>https://www.nytimes.com/2026/07/25/business/energy-environment/houthi-blockade-red-sea-maps.html</link>
@@ -63,7 +104,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/24/business/egg-recall-salmonella-texas.html" rel="standout"></atom:link>
       <description>The voluntary recall included eggs produced in Texas and sold under several brand names in six states, the Food and Drug Administration said.</description>
       <dc:creator>Alena Cerro</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 23:47:27 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 23:47:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Salmonella (Bacteria)</category>
@@ -1042,50 +1083,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/2026-07-21-middle-east-chokepoints-index/2026-07-21-middle-east-chokepoints-index-mediumSquareAt3X-v10.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Laredo’s Future Rides on Trump’s Next Trade Move</title>
-      <link>https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/business/economy/trump-tariffs-laredo-trade-mexico.html" rel="standout"></atom:link>
-      <description>The economy of Laredo, Texas, has boomed under the president’s global tariffs. Now, his demands may threaten its success.</description>
-      <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 19:20:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Laredo (Tex)</category>
-      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-laredo-trade-vid-cover-2-zpmj/21dc-laredo-trade-vid-cover-2-zpmj-mediumSquareAt3X-v2.jpg" width="1200"></media:content>
-      <media:credit>Gabriel V. Cárdenas for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Donald Trump Jr.’s Investment Firm Posts Staggering Returns of 200%</title>
-      <link>https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html" rel="standout"></atom:link>
-      <description>The fledgling firm, run by the president’s oldest son and his partner Omeed Malik, has made investments in A.I. and defense technology that have tripled in value in just months.</description>
-      <dc:creator>Maureen Farrell</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 20:04:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">1789 Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malik, Omeed</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coplan, Shayne</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shinsegae Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reflection AI Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">VulcanForms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vulcan Elements</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/06/25/business/25Biz-Maga-Dealmakers/25Biz-Maga-Dealmakers-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chandan Khanna/AFP, via Getty Images (Malik); Alex Brandon/AP (Trump)</media:credit>
-      <media:description>Omeed Malik, left, and Donald Trump Jr.</media:description>
     </item>
   </channel>
 </rss>

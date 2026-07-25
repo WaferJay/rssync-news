@@ -7,13 +7,43 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 25 Jul 2026 09:10:44 +0000</lastBuildDate>
-    <pubDate>Sat, 25 Jul 2026 09:00:40 +0000</pubDate>
+    <lastBuildDate>Sat, 25 Jul 2026 14:03:41 +0000</lastBuildDate>
+    <pubDate>Sat, 25 Jul 2026 13:27:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>Silicon Valley Splits Over Closing the Borders to Chinese A.I.</title>
+      <link>https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html" rel="standout"></atom:link>
+      <description>Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.</description>
+      <dc:creator>Mike Isaac, Kate Conger, Ana Swanson and Meaghan Tobin</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 13:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadella, Satya</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/00biz-ai-open-source-china-02-gtqc/00biz-ai-open-source-china-02-gtqc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>In the last few weeks, the Chinese start-ups Z.ai and Moonshot AI released artificial intelligence models that rival those from American labs.</media:description>
+    </item>
     <item>
       <title>Meta Launches New Facebook Marketplace App Called Seller</title>
       <link>https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html</link>
@@ -75,33 +105,13 @@
       <media:credit>Sisi Yu</media:credit>
     </item>
     <item>
-      <title>China Rewrites the ‘Soft Power’ Playbook for the A.I. Age</title>
-      <link>https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/business/china-ai-soft-power.html" rel="standout"></atom:link>
-      <description>China is seeking global influence and good will with its open, low-cost artificial intelligence software.</description>
-      <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 17:11:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/Biz-AI-China-01-lztf/Biz-AI-China-01-lztf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Moonshot’s booth at the World Artificial Intelligence Conference in Shanghai last week. Moonshot and other Chinese tech companies have championed open-source A.I.</media:description>
-    </item>
-    <item>
       <title>QR Codes Make Their Way Down Wedding Aisles</title>
       <link>https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html" rel="standout"></atom:link>
       <description>The technology, often associated with pandemic-era menus, is being used by more couples for ease, cost, expedience and sustainability.</description>
       <dc:creator>Shivani Vora</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 09:00:40 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 13:10:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
     </item>
     <item>
