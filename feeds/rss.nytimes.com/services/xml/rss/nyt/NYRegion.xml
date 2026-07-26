@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 26 Jul 2026 21:11:00 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Jul 2026 20:49:49 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 22:22:15 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 22:15:35 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -63,16 +63,19 @@
       <description>The Democratic Socialists of America, after a string of election victories in New York, is eager to tax the rich and enact anti-Israel policies.</description>
       <dc:creator>Emma Goldberg and Sally Goldenberg</dc:creator>
       <pubDate>Sun, 26 Jul 2026 13:41:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26met-dsa-future-01-mbkv/26met-dsa-future-01-mbkv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Graham Dickie for The New York Times</media:credit>
       <media:description>A large rally in Albany, N.Y., was the cornerstone event of a campaign to tax the rich that ultimately fell short, but democratic socialists plan to push ahead next year.</media:description>
@@ -188,6 +191,24 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24met-paraprofessionals-mamdani-jzgc/24met-paraprofessionals-mamdani-jzgc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>After the Democratic primary, Mayor Zohran Mamdani was endorsed by the United Federation of Teachers, which is led by Michael Mulgrew, left.</media:description>
+    </item>
+    <item>
+      <title>Netanyahu Accuses Mamdani of ‘Hate Speech’ After Mayor’s Video Address</title>
+      <link>https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/nyregion/netanyahu-mamdani-fox-news.html" rel="standout"></atom:link>
+      <description>The Israeli prime minister criticized Mr. Mamdani for releasing a video last week in which the mayor called for the federal government to arrest Mr. Netanyahu for war crimes.</description>
+      <dc:creator>Emma Goldberg</dc:creator>
+      <pubDate>Sun, 26 Jul 2026 22:15:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26met-netanyahu-mamdani-lpbm/26met-netanyahu-mamdani-lpbm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ohad Zwigenberg/Associated Press</media:credit>
+      <media:description>Prime Minister Benjamin Netanyahu of Israel called a video address by Mayor Zohran Mamdani ”hate speech” against himself and Israel.</media:description>
     </item>
     <item>
       <title>You’ll Want to Raise Her Glass</title>
@@ -393,28 +414,6 @@
       <media:content height="946" medium="image" url="https://static01.nyt.com/images/2021/08/13/nyregion/26met-nypd-mcdonald123231/10mulheren2-mediumSquareAt3X.jpg" width="947"></media:content>
       <media:credit>James Estrin/The New York Times</media:credit>
       <media:description>Officer Steven McDonald in 1995. He spent nearly 40 years traveling the world and promoting his message of forgiveness after he was left paralyzed from a shooting.</media:description>
-    </item>
-    <item>
-      <title>Salman Rushdie Recalls ‘Lake of Blood’ in Testimony Against His Attacker</title>
-      <link>https://www.nytimes.com/2026/07/23/nyregion/salman-rushdie-stabbing-attack-court-testimony.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/nyregion/salman-rushdie-stabbing-attack-court-testimony.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/nyregion/salman-rushdie-stabbing-attack-court-testimony.html" rel="standout"></atom:link>
-      <description>Mr. Rushdie, an author, testified about the 2022 stabbing in upstate New York, where he was speaking at a literary festival. He was left blind in one eye, with scars all over his body.</description>
-      <dc:creator>Mark Sommer and Santul Nerkar</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 21:01:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rushdie, Salman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Matar, Hadi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Knife: Meditations After an Attempted Murder (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Satanic Verses (Book)</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23met-rushdie-01-jcwt/23met-rushdie-01-jcwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chris Pizzello/Associated Press</media:credit>
-      <media:description>Salman Rushdie lost the use of one eye in a 2022 attack. He testified in Buffalo in the federal trial of his attacker.</media:description>
     </item>
   </channel>
 </rss>
