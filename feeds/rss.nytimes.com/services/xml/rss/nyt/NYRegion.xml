@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 26 Jul 2026 13:59:52 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Jul 2026 13:51:54 +0000</pubDate>
+    <lastBuildDate>Sun, 26 Jul 2026 15:29:45 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 14:57:39 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -215,8 +215,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meadow Lane</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nussdorf, Sammy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meadow Lane Flower &amp; Coffee Co LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">TriBeCa (Manhattan, NY)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/23SAMMY-NUSSDORF-01-bfcj/23SAMMY-NUSSDORF-01-bfcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris Perez for The New York Times</media:credit>
@@ -230,13 +231,16 @@
       <description>Nearly 300,000 have been told to evacuate or take shelter as major fires edged closer to Madrid and Bordeaux.</description>
       <dc:creator>Claire Moses, Carlos Barragán and Alan Yuhas</dc:creator>
       <pubDate>Sat, 25 Jul 2026 22:55:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Landes (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cap Ferret (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-europe-fires-ledeall-02-bkvl/25int-europe-fires-ledeall-02-bkvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse, via Sdis33 - Caporal-Chef Damien Rem</media:credit>
       <media:description>Firefighters on Friday trying to extinguish a wildfire near Saumos and Sainte-Hélène, France. Fires were about 20 miles from Bordeaux.</media:description>
