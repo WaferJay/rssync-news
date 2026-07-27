@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 27 Jul 2026 01:03:59 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 00:24:24 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 04:52:45 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 04:36:25 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>At Least 2 Killed in Shooting at Food Festival in Seattle</title>
+      <link>https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html" rel="standout"></atom:link>
+      <description>At least five others were injured during the shooting near the city’s Space Needle, the authorities said. No information about a suspect or a potential motive was immediately available.</description>
+      <dc:creator>Yan Zhuang and Ishani Desai</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 04:36:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harborview Medical Center (Seattle, Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Seattle (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <media:content height="1737" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26xp-seattle-1/26xp-seattle-1-mediumSquareAt3X.jpg" width="1737"></media:content>
+      <media:credit>Nick Wagner/The Seattle Times, via Associated Press</media:credit>
+      <media:description>Police responding to a shooting at the Seattle Center during a food festival on Sunday.</media:description>
+    </item>
     <item>
       <title>Pentagon Changes How It Reports Casualties in Iran War</title>
       <link>https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html</link>
@@ -208,7 +225,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html" rel="standout"></atom:link>
       <description>A recent Supreme Court ruling cleared the way for the Trump administration to end a humanitarian program that has allowed about one million immigrants to work legally in the U.S.</description>
       <dc:creator>Miriam Jordan and Madeleine Ngo</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 16:10:07 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 16:10:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Haitian-Americans</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
@@ -229,7 +246,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html" rel="standout"></atom:link>
       <description>The Democrats should be well positioned to make gains in this year’s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.</description>
       <dc:creator>Shane Goldmacher and Reid J. Epstein</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 17:31:21 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 17:31:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic National Committee</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Ken (1973- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -270,7 +287,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/26/us/near-drowning-texas-brain-dead.html" rel="standout"></atom:link>
       <description>A Texas family sued to stop a hospital from testing whether their child was brain-dead. Opposition to the test has been gaining support from anti-abortion activists.</description>
       <dc:creator>Pooja Salhotra</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 09:00:22 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 02:20:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Life-Sustaining Support Systems, Withdrawal Of</category>
@@ -288,7 +305,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/us/politics/appeals-court-trump-mail-voting.html" rel="standout"></atom:link>
       <description>The ruling on Saturday was the latest rebuke to President Trump’s attacks on mail-in voting. The government says it may take the case to the Supreme Court.</description>
       <dc:creator>Adam Sella</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 00:20:15 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 02:37:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
@@ -396,25 +413,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25pol-maine-senate-hfo-zqkp/25pol-maine-senate-hfo-zqkp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sophie Park for The New York Times</media:credit>
       <media:description>Troy Jackson during a Democratic convention in Bangor, Maine, on Saturday.</media:description>
-    </item>
-    <item>
-      <title>From Celebration to Escalation: How Trump’s Iran Cease-Fire Collapsed</title>
-      <link>https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/us/politics/trump-iran-cease-fire-collapse.html" rel="standout"></atom:link>
-      <description>The U.S. deal with Iran signed in June initially appeared to be a success. It didn’t take long to fall apart.</description>
-      <dc:creator>Michael Crowley</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 13:58:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/00dc-strait01a-photo-lpgb/00dc-strait01a-photo-lpgb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
     </item>
   </channel>
 </rss>

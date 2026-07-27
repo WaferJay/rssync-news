@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 26 Jul 2026 22:23:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 04:57:34 +0000</lastBuildDate>
     <pubDate>Sun, 26 Jul 2026 16:35:49 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -106,7 +106,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-six-e-ep062026-satellite_map/cyclone-tracker-2025-six-e-ep062026-satellite_map-mediumSquareAt3X-v113.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-six-e-ep062026-satellite_map/cyclone-tracker-2025-six-e-ep062026-satellite_map-mediumSquareAt3X-v115.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -462,23 +462,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20wea-monday-smoke-vqbk/20wea-monday-smoke-vqbk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cole Burston for The New York Times</media:credit>
       <media:description>Smoke in Thunder Bay, Ontario, on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Five Members of a Family Found Dead After Storms Flooded Utah Canyon</title>
-      <link>https://www.nytimes.com/2026/07/19/us/utah-flooding-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/19/us/utah-flooding-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/19/us/utah-flooding-deaths.html" rel="standout"></atom:link>
-      <description>A Provo fire captain, his wife and their three sons were found dead over the weekend near a campground in southern Utah. They were likely flood victims, the authorities said.</description>
-      <dc:creator>Sejal Govindarao</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 18:52:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Camps and Camping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Provo (Utah)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-      <media:content height="1125" medium="image" url="https://static01.nyt.com/images/2026/07/19/us/19nat-utah-flood-deaths-prov/19nat-utah-flood-deaths-prov-mediumSquareAt3X.jpg" width="1125"></media:content>
-      <media:credit>Provo Fire and Rescue</media:credit>
-      <media:description>Provo Fire and Rescue Captain Spencer Long was found dead along with four members of his family near Sunglow Campground in Utah.</media:description>
     </item>
   </channel>
 </rss>
