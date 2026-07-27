@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world/latin_america</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 24 Jul 2026 09:39:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jul 2026 08:50:03 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Argentinian leader calls Brazilian president a 'thief' and a 'convict']]></title>
+            <description><![CDATA[Javier Milei made the comments while in Brazil at a rally to launch the campaign of right-wing presidential candidate Flávio Bolsonaro.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgx91vdedno#0</guid>
+            <pubDate>Mon, 27 Jul 2026 01:35:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5038/live/93560670-8955-11f1-ab9e-df08bae98609.jpg"/>
+        </item>
         <item>
             <title><![CDATA[One month after earthquakes, Venezuelans still search for loved ones and answers]]></title>
             <description><![CDATA[As families continue to look for missing loved ones, there is growing anger and resentment at the authorities. ]]></description>
@@ -62,14 +70,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqx78eplqqlo#0</guid>
             <pubDate>Tue, 21 Jul 2026 15:57:29 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2cbf/live/3257b150-84de-11f1-8a1f-271692b35cb6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Watch: Flooded towns and evacuations as Chile hit by heavy rain]]></title>
-            <description><![CDATA[A "state of catastrophe" has been declared in Coquimbo and Huasco following the downpour.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo#0</guid>
-            <pubDate>Tue, 21 Jul 2026 11:21:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ee/live/c1f90d80-84f3-11f1-926f-c90d1bcfbc84.jpg"/>
         </item>
         <item>
             <title><![CDATA[This farmer wanted to quit the cocaine industry - he couldn't]]></title>
@@ -129,6 +129,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d231/live/346f5820-861a-11f1-926f-c90d1bcfbc84.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Watch: Flooded towns and evacuations as Chile hit by heavy rain]]></title>
+            <description><![CDATA[A "state of catastrophe" has been declared in Coquimbo and Huasco following the downpour.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cy9wq8j2p7qo#2</guid>
+            <pubDate>Tue, 21 Jul 2026 11:21:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ee/live/c1f90d80-84f3-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: TikTok legend Gangster Granny on her love for Messi]]></title>
             <description><![CDATA[Online sensation 'Gangster Granny' has been courting the affection of the Argentine football star.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c0m7nv093gvo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -143,14 +151,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cjrggj051pvo#2</guid>
             <pubDate>Mon, 06 Jul 2026 07:17:57 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b351/live/062281a0-7908-11f1-9510-1546718f668b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Families search for earthquake survivors in one of Venezuela's hardest hit areas]]></title>
-            <description><![CDATA[BBC correspondent Will Grant reports from Caraballeda, La Guaira, where locals are still desperately searching for family members in the rubble.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cy06378zyl3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cy06378zyl3o#2</guid>
-            <pubDate>Wed, 01 Jul 2026 06:10:43 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/451e/live/e96265b0-751c-11f1-b1db-af71d47507d6.jpg"/>
         </item>
     </channel>
 </rss>
