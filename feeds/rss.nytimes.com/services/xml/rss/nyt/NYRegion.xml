@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 26 Jul 2026 23:23:32 +0000</lastBuildDate>
-    <pubDate>Sun, 26 Jul 2026 23:00:49 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 01:03:05 +0000</lastBuildDate>
+    <pubDate>Sun, 26 Jul 2026 23:53:14 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,6 +33,19 @@
       <media:description>Prime Minister Benjamin Netanyahu of Israel called a video address by Mayor Zohran Mamdani ”hate speech” against himself and Israel.</media:description>
     </item>
     <item>
+      <title>Explore New York City’s Layered Histories for the 250th Anniversary of the U.S.</title>
+      <link>https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html" rel="standout"></atom:link>
+      <description>The New York Times on Saturday hosted an in-person search for places that hold centuries of the city’s history. Here’s what you need to explore those spots on your own.</description>
+      <dc:creator>Anna Kodé</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 17:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
       <title>The Indian Diaspora in New York Joins the ‘Cockroach Party’ Protests</title>
       <link>https://www.nytimes.com/2026/07/26/nyregion/indians-nyc-cockroach-party-protests.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/nyregion/indians-nyc-cockroach-party-protests.html</guid>
@@ -55,13 +68,37 @@
       <media:description>Protesters during a ‘Cockroach party’ protest in Manhattan in support of the Gen Z-led movement in India.</media:description>
     </item>
     <item>
-      <title>A 12-Year-Old Biked to Buy a Ball. He Was Killed by a Stray Bullet.</title>
+      <title>Uber and Lyft Dominate the Ride-Share Industry. Can Rivals Cut In?</title>
+      <link>https://www.nytimes.com/2026/07/25/nyregion/uber-lyft-competitor-throo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/nyregion/uber-lyft-competitor-throo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/nyregion/uber-lyft-competitor-throo.html" rel="standout"></atom:link>
+      <description>Companies offering for-hire vehicles via apps are hoping to make inroads in New York City with driver-friendly overtures. Others have tried and failed.</description>
+      <dc:creator>Stefanos Chen</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 12:06:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freelancing, Self-Employment and Independent Contracting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woo, Kay Kyeongsik</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Throo (TADA Mobility Pte Ltd)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Empower (Yazam Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yazam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taxi and Limousine Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27met-rideshare-pgfh/27met-rideshare-pgfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelina Katsanis for The New York Times</media:credit>
+      <media:description>Kay Woo, the chief executive of TADA, personally tries to recruit drivers, including Anwar Hossen, left, to use his ride-sharing app, Throo.</media:description>
+    </item>
+    <item>
+      <title>A 12-Year-Old Went to Buy a Ball. He Was Killed by a Stray Bullet.</title>
       <link>https://www.nytimes.com/2026/07/26/nyregion/boy-killed-bronx-shooting-arrest.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/nyregion/boy-killed-bronx-shooting-arrest.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/26/nyregion/boy-killed-bronx-shooting-arrest.html" rel="standout"></atom:link>
       <description>Jacob Freytes, the son of a retired detective sergeant, died near his Bronx home after he was struck by the bullet from a gun fired during a brawl, law enforcement officials said.</description>
       <dc:creator>Chelsia Rose Marcius and Miles G. Cohen</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 22:51:11 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 23:26:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Eden (Bronx, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Crime and Criminals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -99,6 +136,15 @@
       <media:description>A large rally in Albany, N.Y., was the cornerstone event of a campaign to tax the rich that ultimately fell short, but democratic socialists plan to push ahead next year.</media:description>
     </item>
     <item>
+      <title>‘In This City, Breakfast Orders Are Not Taken Lightly’</title>
+      <link>https://www.nytimes.com/2026/07/26/nyregion/metropolitan-diary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/nyregion/metropolitan-diary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/26/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
+      <description>The drag queen Monét X Change, the writer Sarah MacLean and other notable friends of Metropolitan Diary share their stories to help the column celebrate its 50th anniversary.</description>
+      <pubDate>Sun, 26 Jul 2026 10:53:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
       <title>Meet Jeffrey Epstein’s Girlfriend, Who Stands to Inherit Much of His Estate</title>
       <link>https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html</guid>
@@ -120,52 +166,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/business/00epstein-girlfriend/00epstein-girlfriend-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Cristiana Couceiro</media:credit>
-    </item>
-    <item>
-      <title>Explore New York City’s Layered Histories for the 250th Anniversary of the U.S.</title>
-      <link>https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/nyregion/nyc-history-america-250-clues.html" rel="standout"></atom:link>
-      <description>The New York Times on Saturday hosted an in-person search for places that hold centuries of the city’s history. Here’s what you need to explore those spots on your own.</description>
-      <dc:creator>Anna Kodé</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 17:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-    </item>
-    <item>
-      <title>‘In This City, Breakfast Orders Are Not Taken Lightly’</title>
-      <link>https://www.nytimes.com/2026/07/26/nyregion/metropolitan-diary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/nyregion/metropolitan-diary.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
-      <description>The drag queen Monét X Change, the writer Sarah MacLean and other notable friends of Metropolitan Diary share their stories to help the column celebrate its 50th anniversary.</description>
-      <pubDate>Sun, 26 Jul 2026 10:53:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-    </item>
-    <item>
-      <title>Uber and Lyft Dominate the Ride-Share Industry. Can Rivals Cut In?</title>
-      <link>https://www.nytimes.com/2026/07/25/nyregion/uber-lyft-competitor-throo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/nyregion/uber-lyft-competitor-throo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/nyregion/uber-lyft-competitor-throo.html" rel="standout"></atom:link>
-      <description>Companies offering for-hire vehicles via apps are hoping to make inroads in New York City with driver-friendly overtures. Others have tried and failed.</description>
-      <dc:creator>Stefanos Chen</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 12:06:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freelancing, Self-Employment and Independent Contracting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woo, Kay Kyeongsik</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Throo (TADA Mobility Pte Ltd)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lyft Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Empower (Yazam Inc)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yazam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taxi and Limousine Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27met-rideshare-pgfh/27met-rideshare-pgfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
-      <media:description>Kay Woo, the chief executive of TADA, personally tries to recruit drivers, including Anwar Hossen, left, to use his ride-sharing app, Throo.</media:description>
     </item>
     <item>
       <title>Sally the Robot Was Coming to a New York School. Then the Plug Was Pulled.</title>
