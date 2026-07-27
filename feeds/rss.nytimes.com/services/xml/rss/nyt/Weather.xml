@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 27 Jul 2026 19:59:54 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 19:59:31 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 21:33:31 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 21:25:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Heat Wave Threatens Further Wildfire Spread in France and Spain</title>
+      <link>https://www.nytimes.com/2026/07/27/world/europe/france-spain-fires.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/france-spain-fires.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/france-spain-fires.html" rel="standout"></atom:link>
+      <description>The record wildfires, which have destroyed more than 200 homes and prompted large evacuations, could intensify with the arrival of a new heat wave.</description>
+      <dc:creator>Ségolène Le Stradic, Carlos Barragán and Thomas Fuller</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 20:30:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27int-europe-wildfires-ledeall-1-bcvz/27int-europe-wildfires-ledeall-1-bcvz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Baz Ratner/Associated Press</media:credit>
+      <media:description>Fighting a fire outside Bordeaux, France, on Monday.</media:description>
+    </item>
     <item>
       <title>Man Dies After Being Struck by a Falling Rock at Glacier National Park</title>
       <link>https://www.nytimes.com/2026/07/27/us/rock-fall-death-glacier-national-park.html</link>
@@ -35,13 +55,13 @@
       <media:description>Going-to-the-Sun Road was constructed in the late 1920s and early 1930s, and is one of Glacier National Park’s most popular areas to visit, according to the National Park Service.</media:description>
     </item>
     <item>
-      <title>Powerful Storms Prompt Tornado Warnings in Wisconsin and Near Chicago</title>
+      <title>Tornado Damage Reported in Wisconsin as Storms Unleash Heavy Rain and Winds</title>
       <link>https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html" rel="standout"></atom:link>
       <description>Forecasters warned that more storms were expected through the day.</description>
-      <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 19:20:15 +0000</pubDate>
+      <dc:creator>Judson Jones and Johnny Diaz</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 21:15:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
@@ -50,7 +70,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-outlooks-monday-index-promo/2026-07-27-outlooks-monday-index-promo-mediumSquareAt3X-v7.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-outlooks-monday-index-promo/2026-07-27-outlooks-monday-index-promo-mediumSquareAt3X-v11.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -483,23 +503,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Mexico</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-two-al022026-satellite_map/cyclone-tracker-2025-two-al022026-satellite_map-mediumSquareAt3X-v90.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Evacuees of Ontario’s Wildfires Wait and Worry</title>
-      <link>https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/world/canada/ontario-wildfire-evacuations-thunder-bay.html" rel="standout"></atom:link>
-      <description>Flames crept, and then sprinted, toward unsuspecting residents who fled remote parts of northwestern Ontario. Now they want to know why officials weren’t prepared.</description>
-      <dc:creator>Vjosa Isai and Cole Burston</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 02:17:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Thunder Bay (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20int-canada-fires-evacuees-promo/20int-canada-fires-evacuees-whbt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cole Burston for The New York Times</media:credit>
-      <media:description>Lyndon Paavola showing footage on his phone from his evacuation alongside community members from Namaygoosisagagun First Nation due to fast spreading wildfire that destroyed his community.</media:description>
     </item>
   </channel>
 </rss>

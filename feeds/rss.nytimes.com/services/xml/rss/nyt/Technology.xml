@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 27 Jul 2026 19:58:21 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 19:54:45 +0000</pubDate>
+    <lastBuildDate>Mon, 27 Jul 2026 21:31:45 +0000</lastBuildDate>
+    <pubDate>Mon, 27 Jul 2026 20:53:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -101,6 +101,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/podcasts/24hardfork-openai-hug/24hardfork-openai-hug-mediumSquareAt3X.png" width="1800"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Apple Regains Spot Over Nvidia as Most Valuable Public Company</title>
+      <link>https://www.nytimes.com/2026/07/27/technology/apple-valuation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/apple-valuation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/technology/apple-valuation.html" rel="standout"></atom:link>
+      <description>The company slipped by the chipmaker Nvidia, amid growing concern about costs associated with the artificial intelligence boom.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 20:34:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ternus, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appraisals and Valuation (Property)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27biz-apple-valuation-2-mkpz/27biz-apple-valuation-2-mkpz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Unlike the rest of the technology industry, Apple is not overhauling itself around AI.</media:description>
     </item>
     <item>
       <title>Microsoft Unveils A.I. Cybersecurity Tools</title>
