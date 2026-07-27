@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Mon, 27 Jul 2026 17:58:17 GMT</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 19:58:35 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -15,8 +15,8 @@
 </image>
 <item>
 <guid isPermaLink="false">lc-wsj-stock-market-today-dow-sp-500-nasdaq-07-27-2026</guid>
-<title>Stock Market Today: Chip Stocks Tumble, Dragging Down Nasdaq</title>
-<description>Oil prices fall after Trump puts Mideast fighting on hold</description>
+<title>Stock Market Today: Chip Stocks Fall, Weighing on Nasdaq</title>
+<description>Oil prices tumble after Trump puts Mideast fighting on hold</description>
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-27-2026?mod=rss_markets_main</link>
 <pubDate>Mon, 27 Jul 2026 08:06:20 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-925349" medium="image" type="image/jpeg">
@@ -34,6 +34,13 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003765216</guid>
+<title>Treasury Yields Fall Ahead of Fed Meeting as U.S., Iran Hold Fire</title>
+<description>Demand for Treasurys partially recovered from last week&#x2019;s slump, sending yields lower, as oil prices plunged.</description>
+<link>https://www.wsj.com/finance/investing/jgb-futures-rise-amid-falling-crude-oil-prices-2f1d5195?mod=rss_markets_main</link>
+<pubDate>Mon, 27 Jul 2026 19:47:00 GMT</pubDate>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003761970</guid>
 <title>How the Big Premium Credit Cards Stack Up Against Each Other</title>
 <description>The high-end credit card market is more crowded than ever. Here&#x2019;s a guide to key perks that come with five of the elite cards.</description>
@@ -44,13 +51,6 @@
 <media:content url="https://images.wsj.net/im-61837960" medium="image" type="image/jpeg">
 <media:credit>Uncredited</media:credit>
 </media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003765216</guid>
-<title>Treasury Yields Fall as U.S.-Iran Hostilities Take a Break</title>
-<description>The 10-year and two-year yields declined as the week began with a pause in fighting between the U.S. and Iran.</description>
-<link>https://www.wsj.com/finance/investing/jgb-futures-rise-amid-falling-crude-oil-prices-2f1d5195?mod=rss_markets_main</link>
-<pubDate>Mon, 27 Jul 2026 13:05:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003765829</guid>
@@ -247,21 +247,14 @@
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003765769</guid>
-<title>Chip Stocks Tumble, Dragging Down Nasdaq</title>
-<description>U.S. stocks were mixed as chip stocks pulled Nasdaq lower to start the week.</description>
+<title>Chip Stocks Drop, Dragging Down Nasdaq</title>
+<description>U.S. stocks were mostly lower as chip stocks pulled Nasdaq lower to start the week.</description>
 <link>https://www.wsj.com/finance/stocks/oil-prices-slide-u-s-futures-rally-after-u-s-iran-pause-attacks-f6281828?mod=rss_markets_main</link>
-<pubDate>Mon, 27 Jul 2026 16:43:00 GMT</pubDate>
+<pubDate>Mon, 27 Jul 2026 18:50:00 GMT</pubDate>
 <dc:creator>Chelsey Dulaney</dc:creator>
 <media:content url="https://images.wsj.net/im-09924062" medium="image" type="image/jpeg">
 <media:credit>Michael M. Santiago/Getty Images</media:credit>
 </media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003765148</guid>
-<title>Oil Futures Pull Back on Break in U.S.-Iran Fighting</title>
-<description>Oil futures started the week lower after the U.S. put on hold plans to step up its military campaign against Iran.</description>
-<link>https://www.wsj.com/finance/commodities-futures/oil-falls-amid-easing-supply-disruption-concerns-b794368e?mod=rss_markets_main</link>
-<pubDate>Mon, 27 Jul 2026 13:07:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003765208</guid>
@@ -291,6 +284,17 @@
 <dc:creator>James Mackintosh</dc:creator>
 <media:content url="https://images.wsj.net/im-38628965" medium="image" type="image/jpeg">
 <media:credit>Angelina Katsanis/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003762759</guid>
+<title>Wild Markets Week Settles Down</title>
+<description>Stocks ended the week lower after volatility gave way to a calmer Friday.</description>
+<link>https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352?mod=rss_markets_main</link>
+<pubDate>Fri, 24 Jul 2026 21:30:00 GMT</pubDate>
+<dc:creator>Krystal Hur</dc:creator>
+<media:content url="https://images.wsj.net/im-14667093" medium="image" type="image/jpeg">
+<media:credit>Spencer Platt/Getty Images</media:credit>
 </media:content>
 </item>
 <item>
@@ -359,6 +363,13 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003765148</guid>
+<title>Oil Futures Slide as U.S. Puts Off Planned Attacks</title>
+<description>Oil futures posted sharp losses as the U.S. postponed planned major attacks on Iran to see if talks can be resumed.</description>
+<link>https://www.wsj.com/finance/commodities-futures/oil-falls-amid-easing-supply-disruption-concerns-b794368e?mod=rss_markets_main</link>
+<pubDate>Mon, 27 Jul 2026 19:21:00 GMT</pubDate>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003765180</guid>
 <title>Comex Gold Settles 0.17% Higher at $4074.50</title>
 <description>Gold settled 0.2% higher, up for a second-consecutive session, and silver fell 0.3%, down two of the past three sessions.</description>
@@ -388,13 +399,6 @@
 <description>U.S. natural gas futures gave up early gains and extended their pullback from Thursday&#x2019;s test of the $3 level, settling down 1.5% at $2.871/mmBtu for a small 1.4% weekly loss.</description>
 <link>https://www.wsj.com/finance/commodities-futures/u-s-natural-gas-futures-stuck-in-range-3a962fd3?mod=rss_markets_main</link>
 <pubDate>Fri, 24 Jul 2026 19:12:00 GMT</pubDate>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003760203</guid>
-<title>Comex Gold Ends the Week 1.37% Higher at $4067.60</title>
-<description>Gold settled up 0.5% Friday, and silver rose 1.5%, with both metals also posting gains for the week.</description>
-<link>https://www.wsj.com/finance/commodities-futures/gold-declines-on-stronger-dollar-fed-rate-hike-prospects-71b26469?mod=rss_markets_main</link>
-<pubDate>Fri, 24 Jul 2026 17:44:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003765237</guid>
@@ -510,17 +514,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003762759</guid>
-<title>Wild Markets Week Settles Down</title>
-<description>Stocks ended the week lower after volatility gave way to a calmer Friday.</description>
-<link>https://www.wsj.com/finance/stocks/wild-markets-week-settles-down-40d27352?mod=rss_markets_main</link>
-<pubDate>Fri, 24 Jul 2026 21:30:00 GMT</pubDate>
-<dc:creator>Krystal Hur</dc:creator>
-<media:content url="https://images.wsj.net/im-14667093" medium="image" type="image/jpeg">
-<media:credit>Spencer Platt/Getty Images</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003762310</guid>
 <title>Spending Worries Weigh On Tech Shares</title>
 <description>Plus, oil prices fall and Elon Musk&#x2019;s empire struggles as investors await next week&#x2019;s interest-rate decision.</description>
@@ -555,6 +548,19 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003759691</guid>
+<title>Oil Prices Roar Back, Threatening Economy and GOP&#x2019;s Midterm Hopes</title>
+<description>As the global benchmark topped $100, stocks slumped and Treasury yields hit their highest levels of President Trump&#x2019;s second term.</description>
+<link>https://www.wsj.com/business/energy-oil/oil-prices-roar-back-threatening-economy-and-gops-midterm-hopes-73df238a?mod=rss_markets_main</link>
+<pubDate>Fri, 24 Jul 2026 01:00:00 GMT</pubDate>
+<dc:creator>Alison Sider</dc:creator>
+<dc:creator>Beno&#xee;t Morenne</dc:creator>
+<dc:creator>Sam Goldfarb</dc:creator>
+<media:content url="https://images.wsj.net/im-63665542" medium="image" type="image/jpeg">
+<media:credit>Dustin Chambers/Bloomberg News</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003737935</guid>
 <title>The Startup Insiders Who Stash Huge Sums in Tax-Subsidized Retirement Accounts</title>
 <description>More than 1,000 Americans racked up IRAs worth at least $25 million. &#x201c;This is yacht financing or dynasty building.&#x201d;</description>
@@ -578,6 +584,18 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003760140</guid>
+<title>The Everyday Guide to Supersizing Your Retirement Account</title>
+<description>Even those with modest means can grow their nest eggs bigger than they might think.</description>
+<link>https://www.wsj.com/personal-finance/retirement/the-everyday-guide-to-supersizing-your-retirement-account-8e914e8e?mod=rss_markets_main</link>
+<pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+<dc:creator>Anne Tergesen</dc:creator>
+<dc:creator>Theo Francis</dc:creator>
+<media:content url="https://images.wsj.net/im-15748811" medium="image" type="image/jpeg">
+<media:credit>Elena Scotti/WSJ; iStock</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003752697</guid>
 <title>Private-Equity Assets Stuck in &#x2018;Zombie Funds&#x2019; Are at a Record High</title>
 <description>Funds are outliving their intended lifespans as fund managers struggle to sell the remaining assets.</description>
@@ -598,18 +616,6 @@
 <dc:creator>Micah Maidenberg</dc:creator>
 <media:content url="https://images.wsj.net/im-65438401" medium="image" type="image/jpeg">
 <media:credit>Eric Gay/Associated Press</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003760140</guid>
-<title>The Everyday Guide to Supersizing Your Retirement Account</title>
-<description>Even those with modest means can grow their nest eggs bigger than they might think.</description>
-<link>https://www.wsj.com/personal-finance/retirement/the-everyday-guide-to-supersizing-your-retirement-account-8e914e8e?mod=rss_markets_main</link>
-<pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
-<dc:creator>Anne Tergesen</dc:creator>
-<dc:creator>Theo Francis</dc:creator>
-<media:content url="https://images.wsj.net/im-15748811" medium="image" type="image/jpeg">
-<media:credit>Elena Scotti/WSJ; iStock</media:credit>
 </media:content>
 </item>
 <item>
