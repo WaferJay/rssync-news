@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 03:43:23 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 01:29:58 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 06:46:33 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 06:44:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Massive Wildfires Draw Close to Madrid</title>
+      <link>https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/spain-wildfires-madrid.html" rel="standout"></atom:link>
+      <description>Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 04:01:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-spain-madrid-1-fpcq/28int-spain-madrid-1-fpcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Oscar Del Pozo/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A burned home in Pelayos de la Presa, 40 miles west of Madrid, on Sunday.</media:description>
+    </item>
     <item>
       <title>Heat Wave Threatens Further Wildfire Spread in France and Spain</title>
       <link>https://www.nytimes.com/2026/07/27/world/europe/france-spain-fires.html</link>
@@ -62,7 +82,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html" rel="standout"></atom:link>
       <description>Forecasters warned that more storms were expected into the evening stretching across the Midwest.</description>
       <dc:creator>Judson Jones and Alexandra E. Petri</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 01:29:58 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 05:09:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
@@ -71,6 +91,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28vid-wea-midwest-vjtp/28vid-wea-midwest-vjtp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Scott Olson/Getty Images</media:credit>
     </item>
     <item>
       <title>New Heat Wave Could Intensify Wildfires in France and Spain</title>
