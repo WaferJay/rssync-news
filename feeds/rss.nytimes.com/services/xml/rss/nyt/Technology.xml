@@ -7,100 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 27 Jul 2026 21:31:45 +0000</lastBuildDate>
-    <pubDate>Mon, 27 Jul 2026 20:53:34 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 03:39:18 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 03:26:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
     <item>
-      <title>How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal</title>
-      <link>https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html" rel="standout"></atom:link>
-      <description>A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.</description>
-      <dc:creator>Eli Tan and Maureen Farrell</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 19:54:45 +0000</pubDate>
+      <title>OpenAI Close to Landing $500 Billion Data Center With Backing From Nvidia</title>
+      <link>https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/technology/openai-data-center-nvidia.html" rel="standout"></atom:link>
+      <description>The chipmaking giant is in talks with OpenAI to provide a $250 billion financial backstop for the project, which would be among the largest of the A.I. boom.</description>
+      <dc:creator>Maureen Farrell and Cade Metz</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 03:08:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nondisclosure Agreements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Owl Capital Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/21/multimedia/21biz-ai-backlash-meta-lqfh/21biz-ai-backlash-meta-lqfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Scott Ball for The New York Times</media:credit>
-      <media:description>Massive data centers are being built around the country, like this one in Louisiana by Meta.</media:description>
-    </item>
-    <item>
-      <title>5 Things to Know About Meta’s Giant Data Center in Louisiana</title>
-      <link>https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/business/meta-data-center-louisiana-takeaways.html" rel="standout"></atom:link>
-      <description>The road to the giant project was paved with secret meetings and an ever-expanding building plan.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 14:13:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Entergy Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/biz-meta-louisiana-takeaways-gwml/biz-meta-louisiana-takeaways-gwml-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Scott Ball for The New York Times</media:credit>
-      <media:description>An aerial view of the construction of the data center in Richland Parish, La., the largest of its kind to be built by Meta.</media:description>
-    </item>
-    <item>
-      <title>Silicon Valley Splits Over Closing the Borders to Chinese A.I.</title>
-      <link>https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html" rel="standout"></atom:link>
-      <description>Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.</description>
-      <dc:creator>Mike Isaac, Kate Conger, Ana Swanson and Meaghan Tobin</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 20:07:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SOFTBANK Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/00biz-ai-open-source-china-02-gtqc/00biz-ai-open-source-china-02-gtqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
-      <media:description>In the last few weeks, the Chinese start-ups Z.ai and Moonshot AI released artificial intelligence models that rival those from American labs.</media:description>
-    </item>
-    <item>
-      <title>OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting</title>
-      <link>https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html" rel="standout"></atom:link>
-      <description>“The story that we’re talking about in this segment was science fiction until Tuesday, OK?”</description>
-      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Davis Land, John Woo, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Leah Shaw Dameron</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 11:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/podcasts/24hardfork-openai-hug/24hardfork-openai-hug-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>The New York Times</media:credit>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/business/27biz-openai-nvidia/27biz-openai-nvidia-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brian Kaiser/Bloomberg</media:credit>
+      <media:description>The groundbreaking ceremony for the data center in Piketon, Ohio, in March. The financing for the project is indicative of the elaborate deals that have helped fuel the A.I. boom.</media:description>
     </item>
     <item>
       <title>Apple Regains Spot Over Nvidia as Most Valuable Public Company</title>
@@ -117,8 +48,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ternus, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appraisals and Valuation (Property)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27biz-apple-valuation-2-mkpz/27biz-apple-valuation-2-mkpz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Unlike the rest of the technology industry, Apple is not overhauling itself around AI.</media:description>
@@ -144,13 +74,35 @@
       <media:description>Mustafa Suleyman, who oversees development of Microsoft’s A.I. models, says his company has deep knowledge of cybersecurity because its technology has faced so many attacks.</media:description>
     </item>
     <item>
+      <title>How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal</title>
+      <link>https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html" rel="standout"></atom:link>
+      <description>A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.</description>
+      <dc:creator>Eli Tan and Maureen Farrell</dc:creator>
+      <pubDate>Mon, 27 Jul 2026 19:54:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nondisclosure Agreements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Owl Capital Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/21/multimedia/21biz-ai-backlash-meta-lqfh/21biz-ai-backlash-meta-lqfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Scott Ball for The New York Times</media:credit>
+      <media:description>Massive data centers are being built around the country, like this one in Louisiana by Meta.</media:description>
+    </item>
+    <item>
       <title>Nvidia Forms Alliance to Back Open-Source A.I. Amid Debate Over Safety</title>
       <link>https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/27/technology/nvidia-open-source-ai.html" rel="standout"></atom:link>
       <description>The company is continuing to back A.I. systems that can be freely used by others amid a continuing debate over the use of Chinese-made technology.</description>
       <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 18:32:34 +0000</pubDate>
+      <pubDate>Mon, 27 Jul 2026 18:32:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
@@ -228,6 +180,37 @@
       <media:description>Sammy Nussdorf’s gourmet food market on Greenwich Street in Manhattan has drawn crowds while also inspiring an online backlash.</media:description>
     </item>
     <item>
+      <title>Silicon Valley Splits Over Closing the Borders to Chinese A.I.</title>
+      <link>https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html" rel="standout"></atom:link>
+      <description>Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.</description>
+      <dc:creator>Mike Isaac, Kate Conger, Ana Swanson and Meaghan Tobin</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 20:07:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/00biz-ai-open-source-china-02-gtqc/00biz-ai-open-source-china-02-gtqc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
+      <media:description>In the last few weeks, the Chinese start-ups Z.ai and Moonshot AI released artificial intelligence models that rival those from American labs.</media:description>
+    </item>
+    <item>
       <title>QR Codes Make Their Way Down Wedding Aisles</title>
       <link>https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/style/wedding-qr-codes.html</guid>
@@ -257,6 +240,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24biz-facebook-marketplace-1-flpt/24biz-facebook-marketplace-1-flpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ian C. Bates for The New York Times</media:credit>
       <media:description>The Menlo Park, Calif., headquarters of Meta, which introduced a stand-alone app for Facebook Marketplace sellers on Friday. </media:description>
+    </item>
+    <item>
+      <title>OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting</title>
+      <link>https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html" rel="standout"></atom:link>
+      <description>“The story that we’re talking about in this segment was science fiction until Tuesday, OK?”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Davis Land, John Woo, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Leah Shaw Dameron</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/podcasts/24hardfork-openai-hug/24hardfork-openai-hug-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>An A.I. Music F.A.Q.: Can I Remix Madonna? Is This All Legal?</title>
