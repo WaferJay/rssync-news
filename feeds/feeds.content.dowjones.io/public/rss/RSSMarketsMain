@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Tue, 28 Jul 2026 06:44:23 GMT</lastBuildDate>
+<lastBuildDate>Tue, 28 Jul 2026 09:58:39 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -15,11 +15,35 @@
 </image>
 <item>
 <guid isPermaLink="false">lc-wsj-stock-market-today-dow-sp-500-nasdaq-07-28-2026</guid>
-<title>Stock Market Today: Asia Stocks Slide, Weighed Down by Chip Makers</title>
+<title>Stock Market Today: Chip Selloff Deepens in Asia</title>
 <description>Nasdaq futures drop more than 1%</description>
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-07-28-2026?mod=rss_markets_main</link>
 <pubDate>Tue, 28 Jul 2026 05:45:29 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-925351" medium="image" type="image/jpeg">
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003762728</guid>
+<title>The Price to Finance the AI Data Center Boom Is Rising, Just Ask Meta</title>
+<description>Meta&#x2019;s data-center project priced a $12.5 billion offering with a higher interest rate than a similar deal last year, as AI companies flood the market with new debt.</description>
+<link>https://www.wsj.com/finance/the-price-to-finance-the-ai-data-center-boom-is-rising-just-ask-meta-7894d503?mod=rss_markets_main</link>
+<pubDate>Tue, 28 Jul 2026 09:30:00 GMT</pubDate>
+<dc:creator>AnnaMaria Andriotis</dc:creator>
+<dc:creator>Jack Pitcher</dc:creator>
+<dc:creator>Peter Rudegeair</dc:creator>
+<media:content url="https://images.wsj.net/im-29595526" medium="image" type="image/jpeg">
+<media:credit>Omar Ornelas/USA TODAY Network/Imagn Images/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003767549</guid>
+<title>Big Tech Stocks Are Pricing In a Miracle on Costs</title>
+<description>Analysts&#x2019; models are assuming new efficiencies, but some of the numbers look too good to be true.</description>
+<link>https://www.wsj.com/finance/big-tech-stocks-are-pricing-in-a-miracle-on-costs-6d93664f?mod=rss_markets_main</link>
+<pubDate>Tue, 28 Jul 2026 09:30:00 GMT</pubDate>
+<dc:creator>Jonathan Weil</dc:creator>
+<media:content url="https://images.wsj.net/im-16766542" medium="image" type="image/jpeg">
+<media:credit>Michael Nagle/Bloomberg</media:credit>
 </media:content>
 </item>
 <item>
@@ -59,29 +83,6 @@
 <dc:creator>Ben Glickman</dc:creator>
 <media:content url="https://images.wsj.net/im-85401856" medium="image" type="image/jpeg">
 <media:credit>Michael Nagle/Bloomberg News</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003761970</guid>
-<title>How the Big Premium Credit Cards Stack Up Against Each Other</title>
-<description>The high-end credit card market is more crowded than ever. Here&#x2019;s a guide to key perks that come with five of the elite cards.</description>
-<link>https://www.wsj.com/finance/how-the-big-premium-credit-cards-stack-up-against-each-other-13132b90?mod=rss_markets_main</link>
-<pubDate>Mon, 27 Jul 2026 14:19:00 GMT</pubDate>
-<dc:creator>Elyse Goncalves</dc:creator>
-<dc:creator>Peter Santilli</dc:creator>
-<media:content url="https://images.wsj.net/im-61837960" medium="image" type="image/jpeg">
-<media:credit>Uncredited</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003765829</guid>
-<title>The ETF Crazy Train Is Picking Up Speed</title>
-<description>Plus, the Fed and Mag Seven dominate the week.</description>
-<link>https://www.wsj.com/finance/investing/the-etf-crazy-train-is-picking-up-speed-99189a11?mod=rss_markets_main</link>
-<pubDate>Mon, 27 Jul 2026 10:26:00 GMT</pubDate>
-<dc:creator>Spencer Jakab</dc:creator>
-<media:content url="https://images.wsj.net/im-56002594" medium="image" type="image/jpeg">
-<media:credit>Richard Drew/Associated Press</media:credit>
 </media:content>
 </item>
 <item>
@@ -140,6 +141,18 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003761970</guid>
+<title>How the Big Premium Credit Cards Stack Up Against Each Other</title>
+<description>The high-end credit card market is more crowded than ever. Here&#x2019;s a guide to key perks that come with five of the elite cards.</description>
+<link>https://www.wsj.com/finance/how-the-big-premium-credit-cards-stack-up-against-each-other-13132b90?mod=rss_markets_main</link>
+<pubDate>Mon, 27 Jul 2026 14:19:00 GMT</pubDate>
+<dc:creator>Elyse Goncalves</dc:creator>
+<dc:creator>Peter Santilli</dc:creator>
+<media:content url="https://images.wsj.net/im-61837960" medium="image" type="image/jpeg">
+<media:credit>Uncredited</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003757896</guid>
 <title>Big Banks Are Wading Back Into Commercial Real-Estate Lending</title>
 <description>Lenders had shunned the category just a few years ago, with investors and analysts warning of a wave of defaults.</description>
@@ -183,22 +196,22 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003754738</guid>
-<title>Digital Bank Revolut, Europe&#x2019;s Most Valuable Startup, Valued at $115 Billion</title>
-<description>The British company agreed to a secondary share sale that boosted its valuation by around 50%.</description>
-<link>https://www.wsj.com/finance/banking/digital-bank-revolut-europes-most-valuable-startup-valued-at-115-billion-0344c14e?mod=rss_markets_main</link>
-<pubDate>Wed, 22 Jul 2026 14:34:00 GMT</pubDate>
-<dc:creator>Corrie Driebusch</dc:creator>
-<media:content url="https://images.wsj.net/im-35054870" medium="image" type="image/jpeg">
-<media:credit>Hiba Kola/Reuters</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003768610</guid>
+<title>Oil Extends Fall on Hopes of Hormuz Reopening, But Chip Selloff Deepens</title>
+<description>President Trump said that talks with Iran were taking place. In response,  Brent crude further declined while Treasurys strengthened and the dollar fell.</description>
+<link>https://www.wsj.com/finance/stocks/oil-extends-fall-on-hopes-of-hormuz-reopening-but-chip-selloff-deepens-331d84a1?mod=rss_markets_main</link>
+<pubDate>Tue, 28 Jul 2026 08:40:00 GMT</pubDate>
+<dc:creator>Dow Jones Newswires Staff</dc:creator>
+<media:content url="https://images.wsj.net/im-40075619" medium="image" type="image/jpeg">
+<media:credit>Angela Weiss/Agence France-Presse/Getty Images</media:credit>
 </media:content>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003768063</guid>
-<title>JGBs Fall on Worries Over Japan&#x2019;s Fiscal Situation</title>
-<description>JGBs fell in price terms in the morning Tokyo session amid worries over potential worsening of Japan&#x2019;s fiscal situation.</description>
+<title>Eurozone Government Bond Yields Fall, Tracking Treasury Yields, Oil</title>
+<description>Eurozone government bond yields fell in early trade, tracking declines in Treasury yields as oil prices continued to slip amid efforts to find a solution to the conflict in the Middle East.</description>
 <link>https://www.wsj.com/finance/investing/jgbs-fall-on-worries-over-japans-fiscal-situation-e1d83f6e?mod=rss_markets_main</link>
-<pubDate>Tue, 28 Jul 2026 00:44:00 GMT</pubDate>
+<pubDate>Tue, 28 Jul 2026 07:07:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003766000</guid>
@@ -231,32 +244,23 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003765993</guid>
-<title>Tech, Media &amp; Telecom Roundup: Market Talk</title>
-<description>Find insight on Microsoft, Shopify and more in the latest Market Talks covering Technology, Media and Telecom.</description>
-<link>https://www.wsj.com/business/tech-media-telecom-roundup-market-talk-9bfbc0f3?mod=rss_markets_main</link>
-<pubDate>Mon, 27 Jul 2026 20:59:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-45348394" medium="image" type="image/jpeg">
-<media:credit>Dado Ruvic/Reuters</media:credit>
-</media:content>
+<guid isPermaLink="false">WP-WSJ-0003768024</guid>
+<title>U.S. Chip Stocks Suffering from Fragile Investor Sentiment</title>
+<description>U.S. chip stocks were struggling as a result of fragile investor sentiment ahead of U.S. hyperscaler earnings this week, UBS said as Micron Technology, Intel and Sandisk fell premarket.</description>
+<link>https://www.wsj.com/finance/stocks/nikkei-falls-2-6-dragged-by-chip-metals-stocks-1bd06fc9?mod=rss_markets_main</link>
+<pubDate>Tue, 28 Jul 2026 09:03:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003768399</guid>
-<title>Asia Equities Slide as Doubts Over AI Spending Grow</title>
+<title>Korean Stocks Tumble on Doubts Over AI, Leading Asian Equities Lower</title>
 <description>Asia stocks fell Tuesday, with South Korean markets leading the losses amid growing concerns over spending linked to the artificial-intelligence boom.</description>
 <link>https://www.wsj.com/finance/stocks/asia-equities-doubts-ai-spending-grow-84d374e6?mod=rss_markets_main</link>
-<pubDate>Tue, 28 Jul 2026 04:59:00 GMT</pubDate>
+<pubDate>Tue, 28 Jul 2026 08:09:00 GMT</pubDate>
+<dc:creator>Kwanwoo Jun</dc:creator>
 <dc:creator>Ronnie Harui</dc:creator>
 <media:content url="https://images.wsj.net/im-47995500" medium="image" type="image/jpeg">
 <media:credit>Jung Yeon-Je/Agence France-Presse/Getty Images</media:credit>
 </media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003768024</guid>
-<title>Nikkei Falls 2.6%, Dragged by Chip, Metals Stocks</title>
-<description>Japanese stocks were lower in early trade following overnight drops in U.S. technology stocks</description>
-<link>https://www.wsj.com/finance/stocks/nikkei-falls-2-6-dragged-by-chip-metals-stocks-1bd06fc9?mod=rss_markets_main</link>
-<pubDate>Tue, 28 Jul 2026 00:34:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003766684</guid>
@@ -281,14 +285,14 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003765319</guid>
-<title>Big Tech Earnings and Fed Rate Decision Put Stock Rally to the Test</title>
-<description>Plus, America&#x2019;s big cities are rapidly losing kids, and Trump puts off a major escalation of his military campaign against Iran.</description>
-<link>https://www.wsj.com/finance/stocks/big-tech-earnings-and-fed-rate-decision-put-stock-rally-to-the-test-be602633?mod=rss_markets_main</link>
-<pubDate>Mon, 27 Jul 2026 10:10:00 GMT</pubDate>
-<dc:creator>Emma Tucker</dc:creator>
-<media:content url="https://images.wsj.net/im-67531328" medium="image" type="image/jpeg">
-<media:credit>Mel Musto/Bloomberg News</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003765829</guid>
+<title>The ETF Crazy Train Is Picking Up Speed</title>
+<description>Plus, the Fed and Mag Seven dominate the week.</description>
+<link>https://www.wsj.com/finance/investing/the-etf-crazy-train-is-picking-up-speed-99189a11?mod=rss_markets_main</link>
+<pubDate>Mon, 27 Jul 2026 10:26:00 GMT</pubDate>
+<dc:creator>Spencer Jakab</dc:creator>
+<media:content url="https://images.wsj.net/im-56002594" medium="image" type="image/jpeg">
+<media:credit>Richard Drew/Associated Press</media:credit>
 </media:content>
 </item>
 <item>
@@ -358,17 +362,17 @@
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003768049</guid>
-<title>Gold Declines Ahead of Central Bank Decisions</title>
-<description>Gold fell in Asian trade. The precious metal remains at risk amid elevated global yields in an environment where oil prices are volatile, said DHF Capital.</description>
+<title>Gold Back Below $4,100 As Investors Await Fed Speech</title>
+<description>Gold prices were under renewed pressure, slipping back below $4,100 an ounce as investors await remarks from Federal Reserve Chairman Kevin Warsh this week.</description>
 <link>https://www.wsj.com/finance/commodities-futures/gold-declines-ahead-of-central-bank-decisions-333bb4f2?mod=rss_markets_main</link>
-<pubDate>Tue, 28 Jul 2026 01:52:00 GMT</pubDate>
+<pubDate>Tue, 28 Jul 2026 07:15:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003768050</guid>
-<title>Oil Falls Amid Ongoing Pause in U.S.-Iran Hostilities</title>
-<description>Oil fell in the early Asian trade amid the continuing pause in U.S.-Iran hostilities.</description>
+<title>Oil Extends Losses Despite Heightened Red Sea Risks</title>
+<description>Oil extended losses as a lull in U.S.-Iran hostilities spurred diplomatic efforts, with Iran and Oman seeking an agreement to reopen the Hormuz Strait.</description>
 <link>https://www.wsj.com/finance/commodities-futures/oil-falls-amid-ongoing-pause-in-u-s-iran-hostilities-53fc3d17?mod=rss_markets_main</link>
-<pubDate>Tue, 28 Jul 2026 00:42:00 GMT</pubDate>
+<pubDate>Tue, 28 Jul 2026 07:05:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003765148</guid>
@@ -396,10 +400,10 @@
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003768042</guid>
-<title>Singapore Dollar Steady, Supported by Tighter MAS Policy</title>
-<description>The Singapore dollar was steady against its U.S. counterpart, supported by the Monetary Authority of Singapore&#x2019;s tighter policy</description>
+<title>Sterling Could Fall if BOE Pushes Back Against Rate Rise Bets</title>
+<description>Sterling rose against the dollar after hitting a near four-week low.  Monex Europe said the pound could could fall if the BOE keeps rates steady Thursday and dampens expectations for rate rises later this year.</description>
 <link>https://www.wsj.com/finance/currencies/asian-currencies-consolidate-may-be-weighed-by-lingering-geopolitical-risks-a4e96d7a?mod=rss_markets_main</link>
-<pubDate>Tue, 28 Jul 2026 03:20:00 GMT</pubDate>
+<pubDate>Tue, 28 Jul 2026 09:19:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003765237</guid>
@@ -495,6 +499,17 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003765319</guid>
+<title>Big Tech Earnings and Fed Rate Decision Put Stock Rally to the Test</title>
+<description>Plus, America&#x2019;s big cities are rapidly losing kids, and Trump puts off a major escalation of his military campaign against Iran.</description>
+<link>https://www.wsj.com/finance/stocks/big-tech-earnings-and-fed-rate-decision-put-stock-rally-to-the-test-be602633?mod=rss_markets_main</link>
+<pubDate>Mon, 27 Jul 2026 10:10:00 GMT</pubDate>
+<dc:creator>Emma Tucker</dc:creator>
+<media:content url="https://images.wsj.net/im-67531328" medium="image" type="image/jpeg">
+<media:credit>Mel Musto/Bloomberg News</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003762676</guid>
 <title>The &#x2018;Unsettled&#x2019; Vibe That&#x2019;s Creeping Through the Markets</title>
 <description>Stocks face major tests this week from tech earnings and the Federal Reserve rate decision.</description>
@@ -539,16 +554,6 @@
 <dc:creator>Krystal Hur</dc:creator>
 <media:content url="https://images.wsj.net/im-14667093" medium="image" type="image/jpeg">
 <media:credit>Spencer Platt/Getty Images</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003762310</guid>
-<title>Spending Worries Weigh On Tech Shares</title>
-<description>Plus, oil prices fall and Elon Musk&#x2019;s empire struggles as investors await next week&#x2019;s interest-rate decision.</description>
-<link>https://www.wsj.com/finance/stocks/spending-worries-weigh-on-tech-shares-5a6ba62e?mod=rss_markets_main</link>
-<pubDate>Fri, 24 Jul 2026 20:20:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-37056882" medium="image" type="image/jpeg">
-<media:credit>Cheng Yu-Chen/Agence France-Presse/Getty Images</media:credit>
 </media:content>
 </item>
 <item>

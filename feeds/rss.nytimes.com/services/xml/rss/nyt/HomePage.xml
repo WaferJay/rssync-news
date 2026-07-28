@@ -7,21 +7,21 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 06:46:14 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 06:44:28 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 09:55:48 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 09:51:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
     <item>
-      <title>Trump Backs New Talks but It’s Unclear What He Hopes to Achieve This Time</title>
+      <title>Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time</title>
       <link>https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html" rel="standout"></atom:link>
       <description>Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.</description>
       <dc:creator>Michael Crowley</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 00:21:41 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 09:29:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
@@ -94,6 +94,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Melenchon, Jean-Luc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-response-vlmg/27europe-wildfires-response-vlmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Romain Perrocheau/Agence France-Presse — Getty Images</media:credit>
       <media:description>Wildfires in Europe have fueled political spats.</media:description>
@@ -183,7 +185,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/zelensky-trump-meeting-ukraine-war-russia.html" rel="standout"></atom:link>
       <description>President Trump will meet his Ukrainian counterpart in Washington this week. President Volodymyr Zelensky will also attend the funeral of Senator Lindsey Graham.</description>
       <dc:creator>Kim Barker and Ken Bensinger</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 04:01:27 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 08:00:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
@@ -327,6 +329,26 @@
       <media:description>The U.S. Supreme Court last week. The Trump administration filed an emergency application asking the court to allow an order that restricts voting by mail.</media:description>
     </item>
     <item>
+      <title>Tech Stocks Tumble on Worries About A.I. Spending and China’s Chip Competition</title>
+      <link>https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html" rel="standout"></atom:link>
+      <description>South Korea temporarily paused trading on Tuesday as its benchmark stock index led losses across the region, closing more than 10 percent lower.</description>
+      <dc:creator>River Akira Davis</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:40:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ChangXin Memory Technologies (CXMT)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hynix Semiconductor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28biz-tech-markets-qjwv/28biz-tech-markets-qjwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
+      <media:description>South Korea’s benchmark stock index plunged on Tuesday.</media:description>
+    </item>
+    <item>
       <title>Seattle Police Search for 3rd Shooter in Deadly Food Festival Shooting</title>
       <link>https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/us/seattle-food-festival-shooting.html</guid>
@@ -343,31 +365,6 @@
       <media:description>The mayor said the shootings at the Bite of Seattle festival were the third major occurrence of gun violence in the city in just a few days.</media:description>
     </item>
     <item>
-      <title>Should We Make Daylight Saving Time Permanent?</title>
-      <link>https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html" rel="standout"></atom:link>
-      <description>More light at the day’s end comes at a price: much later winter sunrises across much of the U.S. Scientists have documented consequences for public health and the economy.</description>
-      <dc:creator>Lynne Peeples</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 18:15:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Daylight Saving Time</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biorhythms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunlight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sleep</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lighting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/00SCI-DST-01-thzb/00SCI-DST-01-thzb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kevin Lamarque/Reuters</media:credit>
-    </item>
-    <item>
       <title>Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole</title>
       <link>https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html</guid>
@@ -381,43 +378,43 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nursing and Nurses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Billings (Mont)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/nyregion/28xp-hiker-02/28xp-hiker-02-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brad Reich</media:credit>
       <media:description>David Cifaldi and two friends were hiking toward the summit of Granite Peak in Montana last week when he slipped and fell on one of his trekking poles. It pierced his shirt and backpack.</media:description>
     </item>
     <item>
-      <title>‘You Aren’t Going to Like What Comes After America’</title>
-      <link>https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html" rel="standout"></atom:link>
-      <description>Remember when ‘blame Canada’ was a joke?</description>
-      <dc:creator>Chrystia Freeland</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 05:34:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28freeland-twcz/28freeland-twcz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Amber Bracken for The New York Times</media:credit>
+      <title>Mamdani’s Netanyahu Stunt Was a Waste of His Talent and Our Time</title>
+      <link>https://www.nytimes.com/2026/07/28/opinion/mamdani-netanyahu-stunt-israel.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/opinion/mamdani-netanyahu-stunt-israel.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/opinion/mamdani-netanyahu-stunt-israel.html" rel="standout"></atom:link>
+      <description>What if Mamdani actually wanted to be a bridge builder between Israelis and Palestinians, a role for which he has the unique capacity and talent?</description>
+      <dc:creator>Thomas L. Friedman</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:03:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28friedman-jbmw/28friedman-jbmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Hendardy for The New York Times</media:credit>
     </item>
     <item>
-      <title>Putin Saw a Gap in Which He Could Act With Impunity. Let’s Close the Gap.</title>
-      <link>https://www.nytimes.com/2026/07/28/opinion/conquest-justice-putin.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/opinion/conquest-justice-putin.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/opinion/conquest-justice-putin.html" rel="standout"></atom:link>
-      <description>Justice may proceed slowly, and cautiously, but it does proceed.</description>
-      <dc:creator>Iryna Mudra, Mykola Yurlov, Taras Semenyuk and Mark Ellis</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 06:43:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <title>The Democratic Party Needs Change</title>
+      <link>https://www.nytimes.com/2026/07/28/opinion/ezra-klein-podcast-ben-wikler.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/opinion/ezra-klein-podcast-ben-wikler.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/opinion/ezra-klein-podcast-ben-wikler.html" rel="standout"></atom:link>
+      <description>Ben Wikler, a former state party chair, thinks the Democratic Party needs to reinvent itself.</description>
+      <dc:creator>Ezra Klein and Rollin Hu</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 09:41:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wikler, Ben</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/opinion/28eks-wikler-image/28eks-wikler-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Late Night Roasts President Trump’s Attempt at Comedy</title>
