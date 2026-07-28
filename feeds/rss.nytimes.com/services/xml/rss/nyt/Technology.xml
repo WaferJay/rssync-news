@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 14:43:43 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 14:19:04 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 16:51:01 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 16:22:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -128,7 +128,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html" rel="standout"></atom:link>
       <description>CapuchinAI, a portable testing station equipped with a touch screen and facial recognition software, could help scientists study primate intelligence in the wild.</description>
       <dc:creator>Emily Anthes</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 14:19:04 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 16:22:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -173,6 +173,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27biz-nvidia-security-jensen-qblg/27biz-nvidia-security-jensen-qblg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Manuel Orbegozo for The New York Times</media:credit>
       <media:description>Jensen Huang, Nvidia’s chief executive, has pushed for so-called open source A.I. that is built with his company’s computer chips.</media:description>
@@ -228,7 +229,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/26/style/meadow-lane-sammy-nussdorf.html" rel="standout"></atom:link>
       <description>How the scion Sammy Nussdorf found his calling among the carefully arranged shelves of Meadow Lane, his chic market in Lower Manhattan.</description>
       <dc:creator>Carson Griffith</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 13:45:01 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 15:18:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
@@ -567,44 +568,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aaron Wojack for The New York Times</media:credit>
       <media:description>OpenAI and other companies have warned that their new A.I. systems could be powerful hacking tools.</media:description>
-    </item>
-    <item>
-      <title>What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram</title>
-      <link>https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html" rel="standout"></atom:link>
-      <description>Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.</description>
-      <dc:creator>Stuart A. Thompson and Eli Tan</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 03:10:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/META-AI-1-06-jgcb/META-AI-1-06-jgcb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Daniel Rodrigues for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Google Releases Three New Gemini A.I. Models</title>
-      <link>https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/technology/google-ai-cybersecurity-gemini.html" rel="standout"></atom:link>
-      <description>The models include one that is the company’s most powerful and another that is fine-tuned for cybersecurity, as Google competes with rivals like OpenAI and Anthropic.</description>
-      <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 19:38:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="">Gemini</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-google-ai-lvhf/21biz-google-ai-lvhf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kelsey McClellan for The New York Times</media:credit>
-      <media:description>The Google campus in Mountain View, Calif.</media:description>
     </item>
   </channel>
 </rss>
