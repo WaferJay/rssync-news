@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 20:36:07 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 20:23:01 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:28:02 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 21:57:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -76,7 +76,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/25/science/ucla-marmot-onlyfans-research-onlymarms.html" rel="standout"></atom:link>
       <description>A team of scientists uploaded videos of the squirrel-like rodents in the wild on the adult-content site OnlyFans to raise money amid government budget cuts.</description>
       <dc:creator>Emmett Lindner</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 23:15:38 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 20:50:09 +0000</pubDate>
       <category domain="">Marmots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rodents</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
@@ -187,6 +187,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
+      <title>Gunther von Hagens, Creator of Polarizing ‘Body Worlds’ Exhibits, Dies at 81</title>
+      <link>https://www.nytimes.com/2026/07/28/science/gunther-von-hagens-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/science/gunther-von-hagens-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/science/gunther-von-hagens-dead.html" rel="standout"></atom:link>
+      <description>A German scientist, he developed a process for turning corpses into posable figures. His shows drew millions of visitors, and many detractors.</description>
+      <dc:creator>Clay Risen</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 21:57:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cadavers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anatomy and Physiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Body Worlds (Exhibit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gunther von Hagens (1945-2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00vonhagens-cjpk/00vonhagens-cjpk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sion Touhig/Getty Images</media:credit>
+      <media:description>Gunther von Hagens in 2002 with a flayed, bisected human specimen used in one of his “Body Worlds” exhibitions. In the late 1970s, he developed plastination, the method of making corpses into malleable figures.</media:description>
+    </item>
+    <item>
       <title>An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms</title>
       <link>https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</guid>
@@ -208,7 +225,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html" rel="standout"></atom:link>
       <description>I didn’t want to have to depend on a weather app to know when the storms are coming.</description>
       <dc:creator>Heidi Julavits</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 16:26:40 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 21:55:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
@@ -217,6 +234,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1536" medium="image" url="https://static01.nyt.com/images/2026/07/30/magazine/30mag-weather-17/30mag-weather-17-mediumSquareAt3X.jpg" width="1536"></media:content>
       <media:credit>Natalie Ivis for The New York Times</media:credit>
       <media:description>Fog approaching off the coast of Brooklin, Maine.</media:description>
@@ -496,24 +514,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26cul-charles-ross-01-kqlv/26cul-charles-ross-01-kqlv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Charles Ross/Artists Rights Society (ARS), New York; Photograph by Brad Trone for The New York Times</media:credit>
       <media:description>The Milky Way ribbons through the sky above “Star Axis.”</media:description>
-    </item>
-    <item>
-      <title>What the Cyclospora Outbreak Reveals</title>
-      <link>https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/climate/climate-cyclospora.html" rel="standout"></atom:link>
-      <description>Warming is expected to fuel the spread of food-borne pathogens. We might not be prepared.</description>
-      <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 20:52:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclospora (Parasite)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/21cli-newsletter-cyclospora/21cli-newsletter-cyclospora-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Melanie Moser/CDC, via Associated Press</media:credit>
-      <media:description>A microscopic view of cyclospora parasite eggs, stained reddish pink, in a lab sample.</media:description>
     </item>
   </channel>
 </rss>

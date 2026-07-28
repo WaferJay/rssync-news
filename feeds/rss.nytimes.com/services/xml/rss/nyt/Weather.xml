@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 20:37:37 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 18:49:15 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:29:34 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 21:55:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -87,7 +87,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v31.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v35.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -97,7 +97,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html" rel="standout"></atom:link>
       <description>I didn’t want to have to depend on a weather app to know when the storms are coming.</description>
       <dc:creator>Heidi Julavits</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 16:26:40 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 21:55:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
@@ -106,6 +106,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1536" medium="image" url="https://static01.nyt.com/images/2026/07/30/magazine/30mag-weather-17/30mag-weather-17-mediumSquareAt3X.jpg" width="1536"></media:content>
       <media:credit>Natalie Ivis for The New York Times</media:credit>
       <media:description>Fog approaching off the coast of Brooklin, Maine.</media:description>
@@ -211,7 +212,6 @@
       <dc:creator>Claire Moses</dc:creator>
       <pubDate>Mon, 27 Jul 2026 16:04:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
@@ -308,7 +308,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-six-e-ep062026-satellite_map/cyclone-tracker-2025-six-e-ep062026-satellite_map-mediumSquareAt3X-v120.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-six-e-ep062026-satellite_map/cyclone-tracker-2025-six-e-ep062026-satellite_map-mediumSquareAt3X-v124.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -515,24 +515,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/20/weather/2026-07-20-tuesday-northeast-index-promo/2026-07-20-tuesday-northeast-index-promo-mediumSquareAt3X-v41.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>NYC Businesses Brace for More Flooding With Severe Storms in the Forecast</title>
-      <link>https://www.nytimes.com/2026/07/21/nyregion/nyc-flooding-storms-rain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/nyregion/nyc-flooding-storms-rain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/nyregion/nyc-flooding-storms-rain.html" rel="standout"></atom:link>
-      <description>Some businesses in low-lying areas of New York City have developed routines to keep their goods and customers dry.</description>
-      <dc:creator>Hilary Howard</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 20:41:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sewers and Sewage</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basements and Cellars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Department of Environmental Protection (NYC)</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/18/arts/thumb/thumb-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>Sarah Kerr/The New York Times</media:credit>
     </item>
   </channel>
 </rss>

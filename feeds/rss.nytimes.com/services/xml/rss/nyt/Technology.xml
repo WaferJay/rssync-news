@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 20:36:32 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 20:35:55 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:25:22 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 22:22:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html" rel="standout"></atom:link>
       <description>As Silicon Valley debates how artificial intelligence software should be created, “open weight” has been a major part of the discussions. Here’s what to know.</description>
       <dc:creator>Kate Conger, Mike Isaac and Meaghan Tobin</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 20:34:55 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 21:43:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -99,13 +99,57 @@
       <media:description>The groundbreaking ceremony for the data center in Piketon, Ohio, in March. The financing for the project is indicative of the elaborate deals that have helped fuel the A.I. boom.</media:description>
     </item>
     <item>
+      <title>Mark Zuckerberg Blasts Centralization of A.I. Power</title>
+      <link>https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html" rel="standout"></atom:link>
+      <description>In an interview, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”</description>
+      <dc:creator>Mike Isaac and Eli Tan</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 22:22:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28-biz-ai-zuckerberg-gztv/28-biz-ai-zuckerberg-gztv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Mark Zuckerberg, Meta’s chief executive, said there needed to be people “bringing realism” to a debate about the way forward on artificial intelligence development.</media:description>
+    </item>
+    <item>
+      <title>Couple Stalked by eBay Settle for $56 Million</title>
+      <link>https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/technology/ebay-settles-stalking-case.html" rel="standout"></atom:link>
+      <description>Two Massachusetts journalists were harassed by a Silicon Valley security team in a case that raised questions about when executives should be held responsible.</description>
+      <dc:creator>David Streitfeld</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 21:02:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eBay Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steiner, Ina (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wenig, Devin N</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-ebay-settlement-01-bvkh/27biz-ebay-settlement-01-bvkh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <media:description>The headquarters of eBay in San Jose, Calif.</media:description>
+    </item>
+    <item>
       <title>Writers Guild Withdraws Support From Film Festival Over A.I.</title>
       <link>https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/28/movies/urbanworld-writers-guild-ai.html" rel="standout"></atom:link>
       <description>Urbanworld, a New York event, has added a section for movies made with A.I. tools. The union was a sponsor but has been outspoken on the dangers of A.I.</description>
       <dc:creator>Brooks Barnes</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 20:24:32 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 20:24:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -611,25 +655,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22biz-meta-lawsuit-fmkh/22biz-meta-lawsuit-fmkh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stella Kalinina for The New York Times</media:credit>
       <media:description>The dismissal follows Meta’s loss in March in the same court against a now 20-year-old California woman who accused the company and YouTube of negligence and personal injury for their addictive features.</media:description>
-    </item>
-    <item>
-      <title>OpenAI Says Its A.I. Models Hacked Into Hugging Face, a Digital Library</title>
-      <link>https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html" rel="standout"></atom:link>
-      <description>The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.</description>
-      <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 17:00:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21biz-openai-security-gwch/21biz-openai-security-gwch-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Aaron Wojack for The New York Times</media:credit>
-      <media:description>OpenAI and other companies have warned that their new A.I. systems could be powerful hacking tools.</media:description>
     </item>
   </channel>
 </rss>

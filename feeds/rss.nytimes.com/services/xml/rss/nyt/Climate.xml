@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 20:34:13 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 19:30:48 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:29:33 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 21:55:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -194,7 +194,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html" rel="standout"></atom:link>
       <description>I didn’t want to have to depend on a weather app to know when the storms are coming.</description>
       <dc:creator>Heidi Julavits</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 16:26:40 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 21:55:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
@@ -203,6 +203,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1536" medium="image" url="https://static01.nyt.com/images/2026/07/30/magazine/30mag-weather-17/30mag-weather-17-mediumSquareAt3X.jpg" width="1536"></media:content>
       <media:credit>Natalie Ivis for The New York Times</media:credit>
       <media:description>Fog approaching off the coast of Brooklin, Maine.</media:description>
@@ -1043,24 +1044,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/14biz-pjm-rates-sub-vjgq/14biz-pjm-rates-sub-vjgq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Leah Millis/Reuters</media:credit>
       <media:description>Northern Virginia is home to several data centers, including the Digital Realty Data Center in Ashburn.</media:description>
-    </item>
-    <item>
-      <title>An Extraordinary White House Meeting</title>
-      <link>https://www.nytimes.com/2026/07/14/climate/climate-an-extraordinary-white-house-meeting.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/climate/climate-an-extraordinary-white-house-meeting.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/climate/climate-an-extraordinary-white-house-meeting.html" rel="standout"></atom:link>
-      <description>A new book sheds light on President Trump’s affinity for fossil fuels.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 13:28:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/14cli-newsletter-01/14cli-newsletter-01-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
-      <media:description>An oil refinery in Punto Fijo, Venezuela. In a meeting with the president, the Chevron chief executive pushed for an extension of the company’s license to operate in the country.</media:description>
     </item>
   </channel>
 </rss>
