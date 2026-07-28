@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 12:17:30 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 11:31:00 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:40:53 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 14:26:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html" rel="standout"></atom:link>
       <description>The vast majority of cases begin in the fallopian tubes — and removing them can reduce the risk by nearly 80 percent.</description>
       <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 11:31:00 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 13:13:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ovarian Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johns Hopkins Hospital (Baltimore, Md)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
@@ -36,7 +36,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html" rel="standout"></atom:link>
       <description>Private entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.</description>
       <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 03:31:06 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 14:09:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -195,6 +195,35 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23dc-cdc-director-photo-fhmj/23dc-cdc-director-photo-fhmj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Dr. Erica Schwartz gained Senator Bill Cassidy’s backing after the Centers for Disease Control and Prevention revised a webpage about vaccines and autism to address his concerns.</media:description>
+    </item>
+    <item>
+      <title>Prediction Market Betting on Drug Trials and Approvals Sparks Concern About Undermining Research</title>
+      <link>https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/business/kalshi-polymarket-prediction-market-drugs.html" rel="standout"></atom:link>
+      <description>Prediction markets on Kalshi and Polymarket now let people wager money on drug approvals. Kalshi also plans to allow bets on clinical trial results.</description>
+      <dc:creator>Rebecca Robbins</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 14:26:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insider Trading</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Securities and Commodities Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biotechnology and Bioengineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Change.org</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/business/00biz-kalshi-biotech/00biz-kalshi-biotech-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pingnan Lu</media:credit>
     </item>
     <item>
       <title>Should We Make Daylight Saving Time Permanent?</title>
@@ -400,34 +429,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-    </item>
-    <item>
-      <title>Taylor Farms Expands Iceberg Lettuce Recall to 27 States Amid Cyclospora Outbreak</title>
-      <link>https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/18/health/taylor-farms-iceberg-lettuce-recall.html" rel="standout"></atom:link>
-      <description>The affected products were shipped starting June 29 and have expiration dates through Aug. 3.</description>
-      <dc:creator>Christina Jewett and Julie Creswell</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 00:10:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclospora (Parasite)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parasites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sysco Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/18/multimedia/18dc-cyclo-lettuce-recall-gmfb/18dc-cyclo-lettuce-recall-gmfb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Benjamin Fanjoy/Getty Images</media:credit>
-      <media:description>Taylor Farms — like other food producers — does not disclose which grocery stores or restaurants it distributes leafy greens or other vegetables to.</media:description>
     </item>
   </channel>
 </rss>

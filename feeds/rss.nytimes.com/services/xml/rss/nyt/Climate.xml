@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 09:59:30 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 09:02:46 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 14:44:13 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 14:19:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -153,7 +153,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html" rel="standout"></atom:link>
       <description>CapuchinAI, a portable testing station equipped with a touch screen and facial recognition software, could help scientists study primate intelligence in the wild.</description>
       <dc:creator>Emily Anthes</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 09:02:46 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 14:19:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -189,11 +189,11 @@
       <description>Madrid is booming, culturally and economically, but the wildfires raging within a short drive of the capital have provided a reality check.</description>
       <dc:creator>Jason Horowitz</dc:creator>
       <pubDate>Tue, 28 Jul 2026 04:01:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
@@ -1041,31 +1041,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/19/multimedia/14cli-newsletter-01/14cli-newsletter-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
       <media:description>An oil refinery in Punto Fijo, Venezuela. In a meeting with the president, the Chevron chief executive pushed for an extension of the company’s license to operate in the country.</media:description>
-    </item>
-    <item>
-      <title>Roger Worthington Is Suing Over a Heat Wave</title>
-      <link>https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/14/climate/roger-worthington-portland-oil-industry-lawyer.html" rel="standout"></atom:link>
-      <description>Roger Worthington is helping to lead a $50 billion lawsuit against oil producers. This week he’ll face powerful critics in Congress.</description>
-      <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Tue, 14 Jul 2026 14:50:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Worthington, Roger (1961- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Multnomah County (Ore)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chevron Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Law Institute (Nonprofit)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/00cli-worthington-01-bvqj/00cli-worthington-01-bvqj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michael Hanson for The New York Times</media:credit>
-      <media:description>Roger Worthington in a garden adjacent to his brewery in Bend, Ore.</media:description>
     </item>
   </channel>
 </rss>
