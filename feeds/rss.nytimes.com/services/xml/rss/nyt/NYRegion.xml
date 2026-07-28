@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 16:51:08 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 16:47:44 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 18:47:30 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 18:45:04 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -146,7 +146,6 @@
       <dc:creator>Emma G. Fitzsimmons</dc:creator>
       <pubDate>Mon, 27 Jul 2026 18:54:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discount Selling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
@@ -154,6 +153,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shorris, Anthony E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27met-mamdani-groceries-khfq/27met-mamdani-groceries-khfq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban/The New York Times</media:credit>
       <media:description>Produce and other key items will be steeply discounted in city-owned groceries, Mayor Zohran Mamdani will announce.</media:description>
@@ -197,7 +197,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v23.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v27.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -208,14 +208,14 @@
       <description>As you enter this meticulously designed restaurant inside Sotheby’s headquarters on the Upper East Side, all appears ready to dazzle. Then the food arrives.</description>
       <dc:creator>Ligaya Mishan</dc:creator>
       <pubDate>Tue, 28 Jul 2026 09:02:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Architecture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marcel (Manhattan, NY, Restaurant)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sotheby&#39;s</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Breuer, Marcel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman &amp; Williams</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rose, Marie-Aude</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gaylord, Rae</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Marcel (Manhattan, NY, Restaurant)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Met Breuer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/28FD-rest-marcel-cover2-mtcf/28FD-rest-marcel-cover2-mtcf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yuvraj Khanna for The New York Times</media:credit>
     </item>
@@ -227,16 +227,17 @@
       <description>The musical, set to begin previews next March, is an adaptation of the 1984 film about a musician whose talent is threatened by tumult at home and at the club.</description>
       <dc:creator>Michael Paulson</dc:creator>
       <pubDate>Mon, 27 Jul 2026 18:40:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Purple Rain (Play)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Majestic Theater (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince (1958- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ali, Saheem</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jacobs-Jenkins, Branden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prince (1958- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wolf, Orin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duchan, Peter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blain-Cruz, Lileana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Majestic Theater (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/27cul-purple-rain-top/27cul-purple-rain-top-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Everett Collection</media:credit>
       <media:description>A still from “Purple Rain,” Prince’s film from 1984, which a new musical adapts.</media:description>
@@ -249,6 +250,7 @@
       <description>A new production at Barrington Stage Company reminds us of how the “singular sensation” changed our relationship to performance.</description>
       <dc:creator>Helen Shaw</dc:creator>
       <pubDate>Mon, 27 Jul 2026 09:06:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Chorus Line (Play)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dancing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Barrington Stage Co</category>
@@ -257,7 +259,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Jess (1923-2004)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamlisch, Marvin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kleban, Edward</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">A Chorus Line (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pittsfield (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirkwood, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dante, Nicholas</category>
     </item>
     <item>
       <title>Congress Budgeted Billions for Big Transit Projects. Trump Isn’t Spending It.</title>

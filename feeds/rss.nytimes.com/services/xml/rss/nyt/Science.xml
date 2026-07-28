@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 16:50:01 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 16:26:40 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 18:47:18 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 17:24:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html" rel="standout"></atom:link>
       <description>CapuchinAI, a portable testing station equipped with a touch screen and facial recognition software, could help scientists study primate intelligence in the wild.</description>
       <dc:creator>Emily Anthes</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 16:22:36 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 16:22:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -186,6 +186,21 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsimerman, Jacob</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Hong (1991- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms</title>
+      <link>https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html" rel="standout"></atom:link>
+      <description>Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.</description>
+      <dc:creator>Dustin Volz</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 17:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
     </item>
     <item>
       <title>How to Predict the Weather in Our Era of Freakish Storms</title>
@@ -500,21 +515,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/21cli-newsletter-cyclospora/21cli-newsletter-cyclospora-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Melanie Moser/CDC, via Associated Press</media:credit>
       <media:description>A microscopic view of cyclospora parasite eggs, stained reddish pink, in a lab sample.</media:description>
-    </item>
-    <item>
-      <title>Monkeys Understand Shapes in Almost the Same Way as Humans</title>
-      <link>https://www.nytimes.com/2026/07/21/science/monkeys-cognition-shapes-geometry.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/science/monkeys-cognition-shapes-geometry.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/science/monkeys-cognition-shapes-geometry.html" rel="standout"></atom:link>
-      <description>Our geometric intuition, long considered something that sets us apart, seems to be shared with other primates.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Tue, 21 Jul 2026 17:58:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Proceedings of the National Academy of Sciences</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Carnegie Mellon University</category>
     </item>
   </channel>
 </rss>

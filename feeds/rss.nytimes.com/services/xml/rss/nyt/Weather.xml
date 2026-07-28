@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 16:54:35 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 16:26:40 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 18:51:25 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 18:49:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -53,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html" rel="standout"></atom:link>
       <description>Faced with massive blazes, firefighters in both countries are using a brief window of opportunity to bring the flames under control before temperatures spike.</description>
       <dc:creator>Carlos Barragán, Roser Toll Pifarré and Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 15:19:20 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 17:14:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
@@ -65,6 +65,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-europe-fires-01-bjtw/28int-europe-fires-01-bjtw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Manu Fernandez/Associated Press</media:credit>
       <media:description>Firefighters near Cebreros in Ávila Province in Spain early on Tuesday.</media:description>
@@ -86,7 +87,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v23.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v27.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -177,15 +178,9 @@
       <atom:link href="https://www.nytimes.com/2026/07/27/weather/chicago-wisconsin-tornadoes-forecast.html" rel="standout"></atom:link>
       <description>The mayor of Menasha, Wis., declared a local state of disaster as downed power lines and debris devastated the area.</description>
       <dc:creator>Judson Jones and Alexandra E. Petri</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 12:57:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <pubDate>Tue, 28 Jul 2026 12:57:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Lakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midwestern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28vid-wea-midwest-vjtp/28vid-wea-midwest-vjtp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Scott Olson/Getty Images</media:credit>
     </item>
