@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 09:57:36 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 09:40:32 +0000</pubDate>
+    <lastBuildDate>Tue, 28 Jul 2026 12:15:29 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 12:02:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>The Chips Rout Goes Global </title>
+      <link>https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/business/dealbook/chips-market-rout-ai.html" rel="standout"></atom:link>
+      <description>Shares in semiconductor companies plunged in South Korea and Europe, adding fresh doubts to the durability of the artificial intelligence trade.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Ian Mount</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 11:25:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Advanced Micro Devices Inc.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28db-kospi-bfmw/28db-kospi-bfmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Greg Baker/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The chips rout has gone global.</media:description>
+    </item>
     <item>
       <title>Public Control or ‘20th-Century Socialism’? U.K. Debates a Different Way.</title>
       <link>https://www.nytimes.com/2026/07/28/business/andy-burnham-uk.html</link>
@@ -108,7 +130,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html" rel="standout"></atom:link>
       <description>South Korea temporarily paused trading on Tuesday as its benchmark stock index led losses across the region, closing more than 10 percent lower.</description>
       <dc:creator>River Akira Davis</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 09:40:32 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 11:26:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
@@ -186,9 +208,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27Biz-China-Moonshot-tcgj/27Biz-China-Moonshot-tcgj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
@@ -383,6 +402,7 @@
       <dc:creator>Eli Tan and Maureen Farrell</dc:creator>
       <pubDate>Mon, 27 Jul 2026 19:54:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
@@ -390,8 +410,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nondisclosure Agreements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blue Owl Capital Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Richland Parish (La)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/02/21/multimedia/21biz-ai-backlash-meta-lqfh/21biz-ai-backlash-meta-lqfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Scott Ball for The New York Times</media:credit>
       <media:description>Massive data centers are being built around the country, like this one in Louisiana by Meta.</media:description>
@@ -405,13 +426,12 @@
       <dc:creator>Steve Lohr</dc:creator>
       <pubDate>Mon, 27 Jul 2026 16:09:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ChangXin Memory Technologies (CXMT)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shanghai Stock Exchange</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27-China-chip-hltz/27-China-chip-hltz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>The headquarters of CXMT, China’s biggest memory chipmaker, in Hefei.</media:description>
@@ -1063,33 +1083,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/2026-tariff-tracker-embeds-index/2026-tariff-tracker-embeds-index-mediumSquareAt3X-v4.png" width="1000"></media:content>
       <media:credit>Edison Wu/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Did the World Cup Live Up to Tourism Expectations? Here Are the Winners and Losers.</title>
-      <link>https://www.nytimes.com/2026/07/23/travel/world-cup-tourism-us-canada-mexico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/travel/world-cup-tourism-us-canada-mexico.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/travel/world-cup-tourism-us-canada-mexico.html" rel="standout"></atom:link>
-      <description>Host cities, hotels, tourism boards and more had lofty expectations for the World Cup, but some struck gold, while some fizzled. Here’s the breakdown.</description>
-      <dc:creator>Christine Chung, Emma Baker and Arfa Momin</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 13:33:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup 2026 (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Verde</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas City (Mo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <media:content height="1243" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23trav-worldcup-winners-promo-fkjz/23trav-worldcup-winners-promo-fkjz-mediumSquareAt3X.jpg" width="1243"></media:content>
-      <media:credit>Clockwise, Ryan Pierse/FIFA, via Getty Images, Roberto Hernandez/Reuters, Molly Darlington/Getty Images</media:credit>
     </item>
   </channel>
 </rss>
