@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 03:45:26 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 03:14:17 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:21:12 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 11:12:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -215,6 +215,23 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24SCI-HEALTH-CUTS-ljhf/24SCI-HEALTH-CUTS-ljhf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Grant Hindsley for The New York Times</media:credit>
       <media:description>The Agency for Healthcare Research and Quality, an arm of the Department of Health and Human Services, is a small agency that aims to make quality health care in the United States more affordable and accessible.</media:description>
+    </item>
+    <item>
+      <title>Fauci and His Senate Nemesis Rand Paul to Face Off in Hearing</title>
+      <link>https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html" rel="standout"></atom:link>
+      <description>The Kentucky Republican has accused Dr. Anthony Fauci of funding research that triggered the Covid pandemic and lying about it to Congress — charges Dr. Fauci denies.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 11:12:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29trump-news-fauci-btcl/29trump-news-fauci-btcl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Moneymaker for The New York Times</media:credit>
+      <media:description>Dr. Anthony S. Fauci speaks during a Senate hearing in 2021.</media:description>
     </item>
     <item>
       <title>Trump Will End Subsidies for Medicare Drug Premiums</title>
@@ -432,25 +449,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/00DC-hantavirus-quarantine-01-tcqb/00DC-hantavirus-quarantine-01-tcqb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Gale for The New York Times</media:credit>
       <media:description>Dr. Steve Kornfeld, who was quarantined because of hantavirus exposure, at his home in Bend, Ore., last month.</media:description>
-    </item>
-    <item>
-      <title>The Best Genetic Risk Tools Don’t Work Equally for Everyone</title>
-      <link>https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/science/polygenic-risk-scores-diversity.html" rel="standout"></atom:link>
-      <description>Genetic prediction models are poised to revolutionize medicine. But because they have been trained on European DNA, they threaten to widen health care disparities.</description>
-      <dc:creator>Emily Baumgaertner Nunn</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 19:07:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Minorities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <media:content height="1199" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/20SCI-PRS-DIVERSITY-02/20SCI-PRS-DIVERSITY-02-mediumSquareAt3X-v2.jpg" width="1200"></media:content>
-      <media:credit>Juan Bernabeu</media:credit>
     </item>
   </channel>
 </rss>

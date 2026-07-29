@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 10:00:27 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 09:55:53 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 12:25:37 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 10:48:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Wildfires Slow in France and Spain, but Worse May Be Ahead</title>
+      <link>https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html" rel="standout"></atom:link>
+      <description>Firefighters have contained vast fires in both countries, but winds are high and temperatures rising. Spain’s prime minister said the next 12 hours would be “decisive.”</description>
+      <dc:creator>Carlos Barragán and Ségolène Le Stradic</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 10:37:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29int-europe-fires-01-vbfw/29int-europe-fires-01-vbfw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Emma Da Silva/Associated Press</media:credit>
+      <media:description>A firefighter resting near Lanton, France, on Tuesday.</media:description>
+    </item>
     <item>
       <title>Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate</title>
       <link>https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html</link>
@@ -21,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html" rel="standout"></atom:link>
       <description>The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said.</description>
       <dc:creator>Mark Landler and Chico Harlan</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 09:55:53 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 10:37:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
@@ -149,7 +170,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v41.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v45.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
