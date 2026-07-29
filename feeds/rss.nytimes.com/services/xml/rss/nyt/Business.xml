@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 28 Jul 2026 22:27:37 +0000</lastBuildDate>
-    <pubDate>Tue, 28 Jul 2026 21:39:23 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:13:55 +0000</lastBuildDate>
+    <pubDate>Tue, 28 Jul 2026 23:44:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Trump Will End Subsidies for Medicare Drug Premiums</title>
+      <link>https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html" rel="standout"></atom:link>
+      <description>Millions of older Americans could pay more for their prescription drug coverage next year.</description>
+      <dc:creator>Rebecca Robbins and Reed Abelson</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 23:12:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28biz-medicare-drugs-lzvk/28biz-medicare-drugs-lzvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Ending federal subsidies for Medicare drug plans could be politically damaging for Republicans in the midterm elections at a time when affordability is a major concern.</media:description>
+    </item>
     <item>
       <title>Ross Douthat Joins ‘60 Minutes’ as a Correspondent</title>
       <link>https://www.nytimes.com/2026/07/28/business/media/60-minutes-ross-douthat.html</link>
@@ -338,7 +359,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/business/stocks-ai-chips.html" rel="standout"></atom:link>
       <description>The Nasdaq Composite index slid more than 1 percent before recovering, a bumpy ride that has escalated in recent days.</description>
       <dc:creator>Joe Rennison and River Akira Davis</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 20:22:39 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 23:44:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
@@ -1064,25 +1085,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Altria Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soft Drinks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
-    </item>
-    <item>
-      <title>China Has Come Through Trump’s Trade War in a Good Position</title>
-      <link>https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/business/china-tariffs-trump.html" rel="standout"></atom:link>
-      <description>Despite threats from President Trump, the overall average weighted tariff on Chinese goods remained about the same.</description>
-      <dc:creator>Alexandra Stevenson</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 20:12:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24Biz-China-Tariffs-02-phcl/24Biz-China-Tariffs-02-phcl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Qilai Shen for The New York Times</media:credit>
-      <media:description>The tariffs imposed on China are part of Mr. Trump’s broader effort to transform global trade.</media:description>
     </item>
   </channel>
 </rss>
