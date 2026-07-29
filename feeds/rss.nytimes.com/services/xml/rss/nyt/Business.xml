@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 21:22:02 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 21:12:10 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 22:22:18 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 21:33:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Government Borrowing Cost Hits Two-Decade High After Fed Rate Decision</title>
+      <link>https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html" rel="standout"></atom:link>
+      <description>The surge in Treasury yields suggests investors doubt that the Federal Reserve can keep inflation contained.</description>
+      <dc:creator>Joe Rennison</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 21:33:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29fed-meeting-bonds-phlk/29fed-meeting-bonds-phlk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
+      <media:description>Kevin Warsh, the Fed chairman, speaking Wednesday after policymakers voted to keep interest rates steady. </media:description>
+    </item>
     <item>
       <title>What to know about the Fed’s decision.</title>
       <link>https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-to-know-about-the-feds-decision</link>
@@ -1004,25 +1024,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qatar</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/Biz-LNG-Future-01-lvfw/Biz-LNG-Future-01-lvfw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:description>An offshore terminal was built in Batangas in 2023 to import L.N.G., but the country is now looking to source more gas domestically.</media:description>
-    </item>
-    <item>
-      <title>Oil Prices Sink After U.S. and Iran Pause Fighting a Second Day</title>
-      <link>https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/business/oil-prices-fall-iran-war.html" rel="standout"></atom:link>
-      <description>No strikes have been reported from either side since Friday, leaving oil investors optimistic about a resolution to the conflict.</description>
-      <dc:creator>Rebecca F. Elliott and Jenny Gross</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 20:28:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27-biz-oil-stocks-gas-image-wvbm/27-biz-oil-stocks-gas-image-wvbm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Frank Franklin Ii/Associated Press</media:credit>
     </item>
   </channel>
 </rss>
