@@ -7,21 +7,70 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 14:35:51 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 13:58:46 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:41:45 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 16:41:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
     <item>
-      <title>Shipping Risks Rise Across Crucial Middle East Oil Routes</title>
+      <title>Sanctions Bill Would Give Trump Sweeping New Tariff Powers</title>
+      <link>https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/us/politics/trump-tariffs-sanctions.html" rel="standout"></atom:link>
+      <description>A bipartisan bill in the Senate would allow President Trump to impose tariffs on the biggest importers of Russian energy.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 16:19:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29dc-trump-tariffs-ghtq/29dc-trump-tariffs-ghtq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>The president has expressed a preference for using tariffs over sanctions as an economic weapon.</media:description>
+    </item>
+    <item>
+      <title>What the Fed’s rate decision means for your finances.</title>
+      <link>https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-the-feds-rate-decision-means-for-your-finances</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-the-feds-rate-decision-means-for-your-finances</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-the-feds-rate-decision-means-for-your-finances" rel="standout"></atom:link>
+      <description>The central bank’s stance can influence consumer savings and borrowing, from credit cards to home loans and more.</description>
+      <dc:creator>Tara Siegel Bernard</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 16:02:04 +0000</pubDate>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29fed-meeting-personal-rates-kqfv/29fed-meeting-personal-rates-kqfv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ariana Drehsler for The New York Times</media:credit>
+      <media:description>Consumers are unlikely to see most of their borrowing costs change for the time being.</media:description>
+    </item>
+    <item>
+      <title>What to watch at the meeting.</title>
+      <link>https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-to-watch-at-the-meeting</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-to-watch-at-the-meeting</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/07/29/business/fed-meeting-rates-kevin-warsh/what-to-watch-at-the-meeting" rel="standout"></atom:link>
+      <description>Kevin M. Warsh, presiding over his second meeting as chairman of the central bank, faces pressure to raise interest rates as inflation remains elevated.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 16:01:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+    </item>
+    <item>
+      <title>Shipping Risks Spread Across Crucial Middle East Oil Routes</title>
       <link>https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html" rel="standout"></atom:link>
       <description>Attacks on ships in the Strait of Hormuz and the Bab al-Mandab strait are disrupting the passage of oil tankers in the Persian Gulf and the Red Sea.</description>
       <dc:creator>Jenny Gross and Peter Eavis</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 13:58:46 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 16:10:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
@@ -47,7 +96,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/style/bernard-arnault-open-letter-x.html" rel="standout"></atom:link>
       <description>Bernard Arnault, the chairman of LVMH, makes an unexpected social media move.</description>
       <dc:creator>Vanessa Friedman</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 12:53:00 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 14:55:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
@@ -158,8 +207,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/video/business/100000011045522/ai-chips-nvidia.html</guid>
       <atom:link href="https://www.nytimes.com/video/business/100000011045522/ai-chips-nvidia.html" rel="standout"></atom:link>
       <description>Our technology correspondent Adam Satariano explains how the future of artificial intelligence may be determined by the number of A.I. chips around the world.</description>
-      <dc:creator>Adam Satariano, Gilad Thaler, Nikolay Nikolov, Nour Idriss, Rafaela Balster, Stephanie Swart and Phil Caller</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 10:45:53 +0000</pubDate>
+      <dc:creator>Adam Satariano, Gilad Thaler, Nikolay Nikolov, Nour Idriss, Rafaela Balster, Stephanie Swart, Phil Caller and Jacqueline Gu</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 15:43:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
     </item>
@@ -181,13 +230,13 @@
       <media:description>The Elmdale Outpost convenience store in Abilene, Texas.</media:description>
     </item>
     <item>
-      <title>Global Oil Prices Jump as Attacks Resume in the Middle East</title>
+      <title>Oil Prices Rise as Iran and U.S. Strikes Slow Traffic in Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/07/29/business/oil-prices-iran-war-us-attacks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/oil-prices-iran-war-us-attacks.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/29/business/oil-prices-iran-war-us-attacks.html" rel="standout"></atom:link>
       <description>After several days of a lull in the direct conflict, a flare up in tensions left investors concerned about the continued flow of energy from the region.</description>
       <dc:creator>Laura Stevens</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 13:34:13 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 16:04:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -204,7 +253,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html" rel="standout"></atom:link>
       <description>SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.</description>
       <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 10:08:30 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 15:00:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
@@ -494,11 +543,15 @@
       <dc:creator>Michael Forsythe and David Yaffe-Bellany</dc:creator>
       <pubDate>Wed, 29 Jul 2026 01:50:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Binance</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhao, Changpeng</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/00inv-binance-01-wgpc/00inv-binance-01-wgpc-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -514,18 +567,19 @@
       <dc:creator>Tiffany Hsu</dc:creator>
       <pubDate>Tue, 28 Jul 2026 09:00:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lattimore, Kenny</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lattimore, Faith Jenkins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Killer Relationship With Faith Jenkins (TV Program)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/YOUTUBE-DISINFO-faith-wbmf/YOUTUBE-DISINFO-faith-wbmf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
       <media:description>Faith Jenkins Lattimore with her husband, Kenny Lattimore, in Los Angeles.</media:description>
@@ -992,67 +1046,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/23SAMMY-NUSSDORF-01-bfcj/23SAMMY-NUSSDORF-01-bfcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris Perez for The New York Times</media:credit>
       <media:description>Sammy Nussdorf’s gourmet food market on Greenwich Street in Manhattan has drawn crowds while also inspiring an online backlash.</media:description>
-    </item>
-    <item>
-      <title>Meet Jeffrey Epstein’s Girlfriend, Who Stands to Inherit Much of His Estate</title>
-      <link>https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html" rel="standout"></atom:link>
-      <description>Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death.</description>
-      <dc:creator>Matthew Goldstein and Sharon Otterman</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 16:17:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostitution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teeth and Dentistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shuliak, Karyna</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Columbia University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/business/00epstein-girlfriend/00epstein-girlfriend-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cristiana Couceiro</media:credit>
-    </item>
-    <item>
-      <title>How the Prius Traces Its Lineage to a 1900 Car From Ferdinand Porsche</title>
-      <link>https://www.nytimes.com/2026/07/26/business/porsche-history-hybrid.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/business/porsche-history-hybrid.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/business/porsche-history-hybrid.html" rel="standout"></atom:link>
-      <description>The Lohner-Porsche Semper Vivus had a generator that recharged a battery, and it even had regenerative braking. Sound familiar?</description>
-      <dc:creator>Paul Stenquist</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 20:29:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Porsche AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Porsche, Ferdinand</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/00wheels-porsche-03-hctk/00wheels-porsche-03-hctk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Thomas Kienzle/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Porsche executives rode in a replica Semper Vivus, considered the world’s first full-hybrid car, during a 2011 rally in Stuttgart, Germany.</media:description>
-    </item>
-    <item>
-      <title>Sell the Company for $400 Million? He’s Giving It Away Instead.</title>
-      <link>https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/business/grady-white-boats-charity.html" rel="standout"></atom:link>
-      <description>After his sole heir died, Eddie Smith, the owner of Grady-White Boats, looked for a way to pass on his legacy. He was inspired by Patagonia to pledge future profits to charity.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 13:35:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Eddie Jr (1942- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Grady-White Boats Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chouinard, Yvon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Patagonia Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenville (NC)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23biz-grady-white-hjbc/23biz-grady-white-hjbc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kate Medley for The New York Times</media:credit>
-      <media:description>Eddie Smith Jr., chief executive emeritus of Grady-White Boats in Greenville, N.C., decided to give the company’s future profits to charitable causes. </media:description>
     </item>
   </channel>
 </rss>

@@ -7,13 +7,48 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 14:33:42 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 13:46:29 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:38:58 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 15:47:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands</title>
+      <link>https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html" rel="standout"></atom:link>
+      <description>The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.</description>
+      <dc:creator>Lydia DePillis</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 09:01:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vocational Training</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Associated Builders and Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGarvey, Sean</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/00BIZ-DATACENTER-LABOR-01-vczj/00BIZ-DATACENTER-LABOR-01-vczj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sarah Rice for The New York Times</media:credit>
+      <media:description>Juan Amarante working last week in the data center training lab at the Detroit Electrical Industry Training Center in Warren, Mich.</media:description>
+    </item>
+    <item>
+      <title>SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters</title>
+      <link>https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html" rel="standout"></atom:link>
+      <description>SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.</description>
+      <dc:creator>Steve Lohr</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 15:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SK Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29Biz-AI-Chips-zcvp/29Biz-AI-Chips-zcvp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Florence Lo/Reuters</media:credit>
+      <media:description>A booth for the South Korean chipmaker SK Hynix at an expo in Beijing last month.</media:description>
+    </item>
     <item>
       <title>Mark Zuckerberg Blasts Centralization of A.I. Power</title>
       <link>https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html</link>
@@ -37,70 +72,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28-biz-ai-zuckerberg-gztv/28-biz-ai-zuckerberg-gztv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Mark Zuckerberg, Meta’s chief executive, said there needed to be people “bringing realism” to a debate about the way forward on artificial intelligence development.</media:description>
-    </item>
-    <item>
-      <title>What Is Open-Weights A.I.?</title>
-      <link>https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html" rel="standout"></atom:link>
-      <description>As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know.</description>
-      <dc:creator>Kate Conger, Mike Isaac and Meaghan Tobin</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 22:38:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00biz-open-explainer-fjgm/00biz-open-explainer-fjgm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brennan Smart for The New York Times</media:credit>
-      <media:description>The Open Weights Mini March in San Francisco drew demonstrators last week.</media:description>
-    </item>
-    <item>
-      <title>An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms</title>
-      <link>https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html" rel="standout"></atom:link>
-      <description>Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.</description>
-      <dc:creator>Dustin Volz</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 17:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-    </item>
-    <item>
-      <title>Apple Introduces Leasing Program for iPhones and Other Devices</title>
-      <link>https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html" rel="standout"></atom:link>
-      <description>The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.</description>
-      <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 12:35:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28biz-apple-leasing-mfpj/28biz-apple-leasing-mfpj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Chang W. Lee/The New York Times</media:credit>
-      <media:description>An Apple Store in Beijing. The company is rolling out a leasing program for some iPhone, iPad, Mac and Apple Watch models.</media:description>
     </item>
     <item>
       <title>Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism</title>
@@ -139,9 +110,36 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steiner, Ina (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wenig, Devin N</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Natick (Mass)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newsletters</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-ebay-settlement-01-bvkh/27biz-ebay-settlement-01-bvkh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Sullivan/Getty Images</media:credit>
       <media:description>The headquarters of eBay in San Jose, Calif.</media:description>
+    </item>
+    <item>
+      <title>What Is Open-Weights A.I.?</title>
+      <link>https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html" rel="standout"></atom:link>
+      <description>As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know.</description>
+      <dc:creator>Kate Conger, Mike Isaac and Meaghan Tobin</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 22:38:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00biz-open-explainer-fjgm/00biz-open-explainer-fjgm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brennan Smart for The New York Times</media:credit>
+      <media:description>The Open Weights Mini March in San Francisco drew demonstrators last week.</media:description>
     </item>
     <item>
       <title>Writers Guild Withdraws Support From Film Festival Over A.I.</title>
@@ -164,6 +162,44 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28cul-ai-festival-zclk/28cul-ai-festival-zclk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Shuran Huang for The New York Times</media:credit>
       <media:description>Stacy Spikes, founder of Urbanworld, a festival that specializes in Black and multicultural films.</media:description>
+    </item>
+    <item>
+      <title>An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms</title>
+      <link>https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html" rel="standout"></atom:link>
+      <description>Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.</description>
+      <dc:creator>Dustin Volz</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 17:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+    </item>
+    <item>
+      <title>Apple Introduces Leasing Program for iPhones and Other Devices</title>
+      <link>https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html" rel="standout"></atom:link>
+      <description>The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Tue, 28 Jul 2026 12:35:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28biz-apple-leasing-mfpj/28biz-apple-leasing-mfpj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+      <media:description>An Apple Store in Beijing. The company is rolling out a leasing program for some iPhone, iPad, Mac and Apple Watch models.</media:description>
     </item>
     <item>
       <title>In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.</title>

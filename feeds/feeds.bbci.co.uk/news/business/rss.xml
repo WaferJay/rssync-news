@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 29 Jul 2026 14:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jul 2026 16:42:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Some tech shares are plunging - what does that mean for the AI revolution?]]></title>
+            <description><![CDATA[Sharp falls in the value of chip makers have stoked investor concerns that the euphoria around AI related companies is fading.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cevm09wkgz0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cevm09wkgz0o#0</guid>
+            <pubDate>Wed, 29 Jul 2026 15:32:28 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3471/live/5f73f4d0-8b52-11f1-8139-b39d1c7486b2.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Ticket prices set to rise by 15p as Heathrow able to recover runway project money]]></title>
             <description><![CDATA[UK airport gets green light to charge airlines more to use the hub, which is expected to mean higher fares for flyers.]]></description>
@@ -61,14 +69,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yeg1wegpno#0</guid>
             <pubDate>Tue, 28 Jul 2026 23:00:15 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcb4/live/f740c5a0-8a75-11f1-a7ab-8b30adf0800a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The evidence that shows today's 20-somethings really do have it worse]]></title>
-            <description><![CDATA[People in their 20s are facing a tougher start to adulthood than any generation in almost half a century, according to analysis for the BBC.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cy8mnvk4r48o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8mnvk4r48o#0</guid>
-            <pubDate>Tue, 28 Jul 2026 23:52:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aff6/live/4463fc90-8b1a-11f1-b2ab-0dd01740f9f6.png"/>
         </item>
         <item>
             <title><![CDATA[The evidence that shows today's 20-somethings really do have it worse]]></title>
@@ -263,6 +263,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab90/live/3f28f8c0-6e1e-11f1-806d-d1ff7e093f07.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What happens here has a big impact on your money]]></title>
+            <description><![CDATA[BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo#3</guid>
+            <pubDate>Wed, 29 Jul 2026 16:00:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618c/live/9a13a080-8b53-11f1-8322-5bf52455cf04.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Middle-earners 'struggling' over schools bonus cap]]></title>
             <description><![CDATA[A mum says not getting the back to school bonus is a "kick in the teeth" for working parents just above the income threshold.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cn5nygzpkqlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -293,14 +301,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c8rng70k711o#3</guid>
             <pubDate>Wed, 29 Jul 2026 05:05:18 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6227/live/4cf73a80-89b6-11f1-a7ab-8b30adf0800a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Burnham has no scope to increase borrowing, think tank warns]]></title>
-            <description><![CDATA[The Prime Minister has announced a series of cost-of-living measure since taking office but is facing questions about how he will fund them.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c62ev62381mo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62ev62381mo#3</guid>
-            <pubDate>Tue, 28 Jul 2026 23:00:12 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc77/live/c4407fe0-8aae-11f1-951f-a70d41b77a63.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why Gen Z are planning for life without a state pension]]></title>
@@ -343,12 +343,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ee8/live/64014b70-4551-11f1-ac78-2112837ce2aa.jpg"/>
         </item>
         <item>
+            <title><![CDATA[What happens here has a big impact on your money]]></title>
+            <description><![CDATA[BBC business reporter Dearbail Jordan explains how it works from inside the Bank of England.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckg4jxwkn2lo#5</guid>
+            <pubDate>Wed, 29 Jul 2026 16:00:24 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/618c/live/9a13a080-8b53-11f1-8322-5bf52455cf04.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[1975: The world's first shop for left-handers]]></title>
             <description><![CDATA[A London shop selling goods designed for left-handed people was doing a brisk trade.]]></description>
             <link>https://www.bbc.co.uk/videos/cr47gvdk9n3o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/videos/cr47gvdk9n3o#5</guid>
             <pubDate>Wed, 29 Jul 2026 07:23:40 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edbc/live/8fa328f0-7ed3-11f1-926f-c90d1bcfbc84.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Shabaz Asks: Are Billionaires Bad?]]></title>
+            <description><![CDATA[Shabaz Ali turns author to see if the internet's favourite villains deserve the hate.]]></description>
+            <link>https://www.bbc.co.uk/iplayer/episode/m002ydrr?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m002ydrr#5</guid>
+            <pubDate>Tue, 28 Jul 2026 05:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p17tmm.jpg"/>
         </item>
         <item>
             <title><![CDATA[Money Box]]></title>
@@ -365,22 +381,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c0jlnw825w8o#5</guid>
             <pubDate>Fri, 24 Jul 2026 05:22:37 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b079/live/6de25860-85d3-11f1-ab29-01af26e68f77.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Business Daily]]></title>
-            <description><![CDATA[What tech earnings reveal about AI investment and Donald Trump's tariff talks]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8g9k?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8g9k#5</guid>
-            <pubDate>Thu, 23 Jul 2026 20:30:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p0j2w8.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What about cuts for cafes and hotels?]]></title>
-            <description><![CDATA[The new PM has announced at 20% business rate cut for pubs, clubs and live music venues in England,]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cwy4ek4n15vo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwy4ek4n15vo#5</guid>
-            <pubDate>Thu, 23 Jul 2026 09:45:19 GMT</pubDate>
-            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf45/live/88f6c230-8673-11f1-b976-0b9c15b0ccfc.jpg"/>
         </item>
     </channel>
 </rss>

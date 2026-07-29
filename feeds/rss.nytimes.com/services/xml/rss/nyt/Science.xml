@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 14:37:32 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 14:05:37 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 16:38:11 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 16:30:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -189,13 +189,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
-      <title>Fauci Invokes the Fifth Amendment, Refusing to Answer Senate Committee Questions</title>
+      <title>Fauci Pleads the Fifth, Refusing to Answer Questions on Covid Origins at Senate Hearing</title>
       <link>https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html" rel="standout"></atom:link>
       <description>The panel’s chairman, Rand Paul, has long accused Dr. Fauci of funding research that triggered the Covid pandemic and lying about it to Congress — charges Dr. Fauci denies.</description>
       <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 14:05:37 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 16:20:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
@@ -252,7 +252,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Tahoe (Nev)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1536" medium="image" url="https://static01.nyt.com/images/2026/07/30/magazine/30mag-weather-17/30mag-weather-17-mediumSquareAt3X.jpg" width="1536"></media:content>
       <media:credit>Natalie Ivis for The New York Times</media:credit>
@@ -490,25 +490,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/climate/22cli-lizard/22cli-lizard-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ryan Hagerty/USFWS</media:credit>
       <media:description>The dunes sagebrush lizard is found only in areas of the Permian Basin in southeast New Mexico and West Texas.</media:description>
-    </item>
-    <item>
-      <title>Deep in This Lake, a Contagious Cancer Is Spreading</title>
-      <link>https://www.nytimes.com/2026/07/22/science/contagious-cancer-catfish.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/science/contagious-cancer-catfish.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/science/contagious-cancer-catfish.html" rel="standout"></atom:link>
-      <description>Transmissible tumors have been reported in a handful of animal species, but never before among fish. Is it possible in humans?</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 19:20:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Melanomas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vermont</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Quebec Province (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tasmanian Devils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clams</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
     </item>
   </channel>
 </rss>
