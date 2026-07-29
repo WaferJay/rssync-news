@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 20:27:50 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 18:38:36 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:25:33 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 20:59:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>The Summer That Broke Europe</title>
+      <link>https://www.nytimes.com/2026/07/29/world/europe-summer-heat-fires-saudi.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/world/europe-summer-heat-fires-saudi.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/world/europe-summer-heat-fires-saudi.html" rel="standout"></atom:link>
+      <description>Record heat and wildfires are devastating the continent, and scientists warn the climate crisis is getting worse.</description>
+      <dc:creator>Alicia P.Q. Wittmeyer</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 20:58:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tour de France (Bicycle Race)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Damon, Matt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30int-theworld-eu-wildfires-promo-pzcb/30int-theworld-eu-wildfires-promo-pzcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
+    </item>
     <item>
       <title>Wildfires Slow in France and Spain, but Worse May Be Ahead</title>
       <link>https://www.nytimes.com/2026/07/29/world/europe/wildfires-spain-france.html</link>
@@ -170,7 +190,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v63.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v65.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -539,26 +559,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23met-trillion-climate-damage-01-wqkz/23met-trillion-climate-damage-01-wqkz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lauren Lancaster for The New York Times</media:credit>
       <media:description>A small bridge that was washed out in a flood three years ago has been rebuilt in Highland Falls, N.Y.</media:description>
-    </item>
-    <item>
-      <title>What to Know About Tropical Storm Bertha: Rainfall Tracker and Latest on Forecast</title>
-      <link>https://www.nytimes.com/2026/07/22/weather/tropical-storm-bertha-forecast-texas-louisiana.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/weather/tropical-storm-bertha-forecast-texas-louisiana.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/weather/tropical-storm-bertha-forecast-texas-louisiana.html" rel="standout"></atom:link>
-      <description>Here are three things to know about the storm as it meanders west.</description>
-      <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 18:24:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Houston (Tex)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Orleans (La)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-two-al022026-satellite_map/cyclone-tracker-2025-two-al022026-satellite_map-mediumSquareAt3X-v90.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 20:24:49 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 19:56:41 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 21:24:52 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 21:02:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html" rel="standout"></atom:link>
       <description>The future of artificial intelligence depends on finding more skilled humans for some very physical jobs.</description>
       <dc:creator>Lydia DePillis</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 19:35:22 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 20:34:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vocational Training</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Associated Builders and Contractors</category>
@@ -32,22 +32,67 @@
       <media:description>Juan Amarante working last week in the data center training lab at the Detroit Electrical Industry Training Center in Warren, Mich.</media:description>
     </item>
     <item>
-      <title>SK Hynix Reports Strong Earnings, Defying A.I. Market Jitters</title>
-      <link>https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html" rel="standout"></atom:link>
-      <description>SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.</description>
-      <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 18:05:05 +0000</pubDate>
+      <title>Meta’s Profit Falls 14 Percent as A.I. Spending Continues</title>
+      <link>https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html" rel="standout"></atom:link>
+      <description>The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 21:02:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SK Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29Biz-AI-Chips-zcvp/29Biz-AI-Chips-zcvp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Florence Lo/Reuters</media:credit>
-      <media:description>A booth for the South Korean chipmaker SK Hynix at an expo in Beijing last month.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Alexandr (Technology Executive)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-meta-earnings-lpzq/29biz-meta-earnings-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>Products on display at the Meta Lab store in Midtown Manhattan.</media:description>
+    </item>
+    <item>
+      <title>Microsoft Increases Spending on A.I. as Profit Jumps 31.6%</title>
+      <link>https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html" rel="standout"></atom:link>
+      <description>Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 20:34:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadella, Satya</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-microsoft1-vmcl/29biz-microsoft1-vmcl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>The Microsoft Experience Center in Manhattan on Wednesday, when Microsoft reported quarterly capital expenditures of $41 billion. </media:description>
+    </item>
+    <item>
+      <title>Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism</title>
+      <link>https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html" rel="standout"></atom:link>
+      <description>The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.</description>
+      <dc:creator>Ivan Nechepurenko and Adam Satariano</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 13:46:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Security Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vkontakte Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durov, Pavel Valeryevich (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/world/29int-russia-telegram/29int-russia-telegram-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Poitout Florian/Abaca Press, via Shutterstock</media:credit>
+      <media:description>Pavel Durov, left, founder of Telegram, in Paris in 2025. The Kremlin has used various methods to try to restrict access to Telegram in Russia.</media:description>
     </item>
     <item>
       <title>Mark Zuckerberg Blasts Centralization of A.I. Power</title>
@@ -72,26 +117,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28-biz-ai-zuckerberg-gztv/28-biz-ai-zuckerberg-gztv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Mark Zuckerberg, Meta’s chief executive, said there needed to be people “bringing realism” to a debate about the way forward on artificial intelligence development.</media:description>
-    </item>
-    <item>
-      <title>Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism</title>
-      <link>https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/world/europe/telegram-russia-pavel-durov.html" rel="standout"></atom:link>
-      <description>The case against Pavel Durov reflected an ongoing fight over one of the world’s most popular messaging and media apps, which is widely used in the country.</description>
-      <dc:creator>Ivan Nechepurenko and Adam Satariano</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 13:46:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Security Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Vkontakte Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durov, Pavel Valeryevich (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/world/29int-russia-telegram/29int-russia-telegram-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Poitout Florian/Abaca Press, via Shutterstock</media:credit>
-      <media:description>Pavel Durov, left, founder of Telegram, in Paris in 2025. The Kremlin has used various methods to try to restrict access to Telegram in Russia.</media:description>
     </item>
     <item>
       <title>Couple Stalked by eBay Settle for $56 Million</title>
@@ -651,26 +676,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23trump-ethics-bkhv/23trump-ethics-bkhv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump disclosed in June that he and his family had made $1.4 billion in crypto revenue. </media:description>
-    </item>
-    <item>
-      <title>Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments</title>
-      <link>https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html" rel="standout"></atom:link>
-      <description>Google’s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.</description>
-      <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 22:18:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22biz-google-earnings-qpgz/22biz-google-earnings-qpgz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lucia Vazquez for The New York Times</media:credit>
-      <media:description>A Times Square ad for Google, which reported its financial results on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
