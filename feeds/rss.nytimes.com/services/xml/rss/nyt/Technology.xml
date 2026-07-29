@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 22:22:57 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 21:45:42 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 23:25:24 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 23:17:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -38,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html" rel="standout"></atom:link>
       <description>The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.</description>
       <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 21:45:42 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 23:17:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
@@ -56,13 +56,13 @@
       <media:description>Products on display at the Meta Lab store in Midtown Manhattan.</media:description>
     </item>
     <item>
-      <title>Microsoft Increases Spending on A.I. as Profit Jumps 31.6%</title>
+      <title>Microsoft Increases Spending on A.I. as Profit Jumps 31%</title>
       <link>https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html" rel="standout"></atom:link>
       <description>Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.</description>
       <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 20:34:10 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 23:10:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
@@ -653,29 +653,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/business/00techfix/00techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sisi Yu</media:credit>
-    </item>
-    <item>
-      <title>Clarity Act Mired In Debate Over Whether to Bar President From Selling Crypto</title>
-      <link>https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/technology/crypto-bill-trump.html" rel="standout"></atom:link>
-      <description>Democrats and Republicans are haggling about the Clarity Act, a major bill pushed by the crypto industry, as it moves closer to a Senate vote.</description>
-      <dc:creator>David Yaffe-Bellany</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 00:43:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="">Clarity Act</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23trump-ethics-bkhv/23trump-ethics-bkhv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Doug Mills/The New York Times</media:credit>
-      <media:description>President Trump disclosed in June that he and his family had made $1.4 billion in crypto revenue. </media:description>
     </item>
   </channel>
 </rss>
