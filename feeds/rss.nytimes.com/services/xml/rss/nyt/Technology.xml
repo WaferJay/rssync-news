@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 16:38:58 +0000</lastBuildDate>
-    <pubDate>Wed, 29 Jul 2026 15:47:12 +0000</pubDate>
+    <lastBuildDate>Wed, 29 Jul 2026 18:25:15 +0000</lastBuildDate>
+    <pubDate>Wed, 29 Jul 2026 18:05:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -38,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/business/skhynix-chips-memory.html" rel="standout"></atom:link>
       <description>SK Hynix, a leading memory chipmaker, reported stratospheric sales and profits on Wednesday. But it was not enough to calm skittish investors.</description>
       <dc:creator>Steve Lohr</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 15:00:08 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 18:05:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
@@ -56,19 +56,19 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html" rel="standout"></atom:link>
       <description>In an interview with The Times, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”</description>
       <dc:creator>Mike Isaac and Eli Tan</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 00:59:08 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 00:59:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28-biz-ai-zuckerberg-gztv/28-biz-ai-zuckerberg-gztv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Mark Zuckerberg, Meta’s chief executive, said there needed to be people “bringing realism” to a debate about the way forward on artificial intelligence development.</media:description>
@@ -101,13 +101,15 @@
       <description>Two Massachusetts journalists were harassed by a Silicon Valley security team in a case that raised questions about when executives should be held responsible.</description>
       <dc:creator>David Streitfeld</dc:creator>
       <pubDate>Tue, 28 Jul 2026 21:02:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eBay Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steiner, David (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steiner, Ina (1962- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">eBay Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Steiner, Ina (1962- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wenig, Devin N</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Natick (Mass)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newsletters</category>
@@ -122,12 +124,11 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/technology/open-weight-ai.html" rel="standout"></atom:link>
       <description>As Silicon Valley debates how artificial intelligence software should be created, “open weights” have been a major part of the discussions. Here’s what to know.</description>
       <dc:creator>Kate Conger, Mike Isaac and Meaghan Tobin</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 22:38:23 +0000</pubDate>
+      <pubDate>Tue, 28 Jul 2026 22:38:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
@@ -226,11 +227,15 @@
       <dc:creator>Michael Forsythe and David Yaffe-Bellany</dc:creator>
       <pubDate>Wed, 29 Jul 2026 01:50:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Binance</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhao, Changpeng</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/10/multimedia/00inv-binance-01-wgpc/00inv-binance-01-wgpc-mediumSquareAt3X.jpg" width="1800"></media:content>

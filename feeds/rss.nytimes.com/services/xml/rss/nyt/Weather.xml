@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 29 Jul 2026 16:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 18:28:32 +0000</lastBuildDate>
     <pubDate>Wed, 29 Jul 2026 16:24:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -170,7 +170,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v55.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v59.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -559,27 +559,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/19/multimedia/cyclone-tracker-2025-two-al022026-satellite_map/cyclone-tracker-2025-two-al022026-satellite_map-mediumSquareAt3X-v90.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Air Pollution From Wildfire Smoke Set Records for Many, Analysis Shows</title>
-      <link>https://www.nytimes.com/2026/07/22/weather/canada-wildfire-smoke-air-quality-aqi-how-bad.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/22/weather/canada-wildfire-smoke-air-quality-aqi-how-bad.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/22/weather/canada-wildfire-smoke-air-quality-aqi-how-bad.html" rel="standout"></atom:link>
-      <description>Many towns and cities recorded their highest readings of one pollutant, known as PM 2.5, in 20 years.</description>
-      <dc:creator>Amy Graff and Bea Malsky</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 18:26:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Coast (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ontario (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toledo (Ohio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-smoke-live-air-quality-max-topart-jclg/16nat-smoke-live-air-quality-max-topart-jclg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angela Weiss/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Smoke from wildfires affected regions ranging from the Great Lakes to New York last week.</media:description>
     </item>
   </channel>
 </rss>
