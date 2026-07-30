@@ -3,17 +3,96 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/us.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 16:52:50 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 16:51:56 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 18:46:51 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 18:44:44 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Colin Gray, Father of Teenage Shooter in Georgia, Sentenced to 15 Years in Prison</title>
+      <link>https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/us/colin-gray-sentencing-apalachee-school-shooting.html" rel="standout"></atom:link>
+      <description>Prosecutors argued that Colin Gray bore responsibility for the 2024 shooting because he had given his son a gun and failed to act as the teen’s mental health deteriorated.</description>
+      <dc:creator>Rick Rojas and Johnny Kauffman</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 17:27:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apalachee High School, Ga, Shooting (2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gray, Colin (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gray, Colt (Apalachee HS Gunman)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Winder (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">School Shootings and Armed Attacks</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30nat-dad-gray-sentencing-mjbk/30nat-dad-gray-sentencing-mjbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Abbey Cutrer</media:credit>
+      <media:description>Colin Gray was convicted in March of murder and other offenses in connection with the deadly shooting carried out by his son, Colt Gray, at Apalachee High School.</media:description>
+    </item>
+    <item>
+      <title>Why Democrats Won’t Stop Forcing Votes On Trump’s Iran War Powers</title>
+      <link>https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/us/politics/democrats-war-powers-votes.html" rel="standout"></atom:link>
+      <description>Even after winning approval of a measure calling on President Trump to end the war, they continue to call votes to force Republicans to answer for it.</description>
+      <dc:creator>Robert Jimison</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 17:17:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Powers Act (1973)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Emergency Powers (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29dc-warpowers-wfbt/29dc-warpowers-wfbt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Senator Kirsten Gillibrand, Democrat of New York, put forward this week the latest measure to rein in the president’s war powers.</media:description>
+    </item>
+    <item>
+      <title>Elon Musk Plans at Least $100 Million in Midterm Spending to Help Republicans</title>
+      <link>https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/us/politics/elon-musk-midterms-republicans.html" rel="standout"></atom:link>
+      <description>Elon Musk, a year after a huge blowup with President Trump and the Republican Party, is said to be planning to spend in at least eight states to help them in November.</description>
+      <dc:creator>Theodore Schleifer</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 17:51:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">America PAC</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30pol-musk-midterms-musk-bftj/30pol-musk-midterms-musk-bftj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jim Vondruska for The New York Times</media:credit>
+      <media:description>Elon Musk was the biggest donor in the 2024 presidential election, when he spent hundreds of millions.</media:description>
+    </item>
+    <item>
+      <title>A ‘Zombie Court’ for Terror Cases Awakens</title>
+      <link>https://www.nytimes.com/2026/07/30/us/politics/the-docket-alien-removal-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/politics/the-docket-alien-removal-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/us/politics/the-docket-alien-removal-court.html" rel="standout"></atom:link>
+      <description>Dormant for 30 years, a little-known tribunal is hearing its first case.</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 16:57:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Classified Information and State Secrets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30thedocket-nl-fgch/30thedocket-nl-fgch-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mandel Ngan/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The William B. Bryant Annex in Washington, D.C.</media:description>
+    </item>
     <item>
       <title>Bipartisan Senate Bill Would Give Judiciary Control of Some Courthouses</title>
       <link>https://www.nytimes.com/2026/07/30/us/senate-bill-gsa-courthouses.html</link>
@@ -22,18 +101,26 @@
       <description>A new bipartisan bill comes after years of complaints from the courts that the General Services Administration is a bad landlord.</description>
       <dc:creator>Mattathias Schwartz</dc:creator>
       <pubDate>Thu, 30 Jul 2026 16:51:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Services Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Government Accountability Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Durbin, Richard J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30dc-gsa-fqbt/30dc-gsa-fqbt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Senator Richard J. Durbin, Democrat of Illinois and the bill’s lead sponsor, said the purpose of the proposed law was to “ensure our federal courthouses remain safe, secure, and operating effectively for those who work in and visit them,”</media:description>
+      <media:description>Senator Richard J. Durbin, Democrat of Illinois and the bill’s lead sponsor, said the purpose of the proposed law was to “ensure our federal courthouses remain safe, secure, and operating effectively for those who work in and visit them.”</media:description>
     </item>
     <item>
       <title>Trump Says He May Drop Blanche’s Attorney General Nomination, for Now</title>
       <link>https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html" rel="standout"></atom:link>
-      <description>President Trump’s threat followed a day of fruitless negotiations with two holdout Republicans, Senators John Cornyn and Thom Tillis.</description>
-      <dc:creator>Glenn Thrush and Michael Gold</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 16:34:37 +0000</pubDate>
+      <description>President Trump’s threat followed a day of fruitless negotiations with two Republican holdouts, Senators John Cornyn and Thom Tillis.</description>
+      <dc:creator>Glenn Thrush, Michael Gold and Carl Hulse</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 18:42:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -80,13 +167,13 @@
       <media:description>Dozens of municipal water systems in Minnesota were the targets of a cyberattack this week.</media:description>
     </item>
     <item>
-      <title>L.A. Warehouse Fire Leaves Behind Rats, Flies and an Unending Stench</title>
+      <title>A Fire Burned Next Door. Now They Live With the Stench of Rotting Meat.</title>
       <link>https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/us/boyle-heights-warehouse-fire-smell.html" rel="standout"></atom:link>
-      <description>The Boyle Heights neighborhood of Los Angeles is still dealing with the smell of rotting food and fears over possible toxins after a cold-storage facility burst into flames in June.</description>
+      <description>The Boyle Heights neighborhood of Los Angeles is still dealing with foul odor and fears over possible toxins over a month after a cold-storage facility burst into flames.</description>
       <dc:creator>Orlando Mayorquín and Ana Facio-Krajcer</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 13:28:35 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 17:09:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lineage Logistics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
@@ -105,8 +192,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/doj-isis-alien-terrorist-removal-court.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/us/doj-isis-alien-terrorist-removal-court.html" rel="standout"></atom:link>
       <description>The case is an early test of a court that has never been used before, where much of the evidence is presented in secret and defendants cannot challenge how it was collected.</description>
-      <dc:creator>Alan Feuer</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 13:15:22 +0000</pubDate>
+      <dc:creator>Alan Feuer and Adam Sella</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 18:26:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Foreign Intelligence Surveillance Court</category>
@@ -133,6 +220,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
@@ -148,9 +236,9 @@
       <link>https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html" rel="standout"></atom:link>
-      <description>To meet the growing needs of his church, Justin Lester created an A.I. duplicate of himself. Every day he sees more people using it.</description>
+      <description>To meet the growing needs of his congregation, Justin Lester created an A.I. duplicate of himself. Every day he sees more people using it.</description>
       <dc:creator>Eli Saslow and Erin Schaff</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 10:59:06 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 17:11:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ministers (Protestant)</category>
@@ -197,7 +285,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/us/pinot-noir-california-wine-sales-decline.html" rel="standout"></atom:link>
       <description>The rise and fall of pinot noir symbolizes the larger struggles of the wine industry as younger generations turn to other beverages.</description>
       <dc:creator>Soumya Karlamangla</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:00:08 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 18:41:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pinot Noir (Wine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Au Bon Climat LLC</category>
@@ -240,7 +328,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/us/arizona-toddler-dead-alive-morgue.html" rel="standout"></atom:link>
       <description>The boy, who was 18 months old, had been found unconscious in a pool at the family home in Gilbert, Ariz., and was declared dead. But a medical examiner’s employee later discovered he was breathing.</description>
       <dc:creator>Mark Walker</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 02:48:28 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 18:44:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
@@ -391,7 +479,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/us/iran-war-military-families-anxiety.html" rel="standout"></atom:link>
       <description>As the war with Iran has continued, some are finding that the stress is bringing back old anxieties.</description>
       <dc:creator>Bernard Mokam and Georgia Gee</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 21:10:30 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 17:37:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
@@ -429,79 +517,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29xp-leto-ljtm/29xp-leto-ljtm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mario Anzuoni/Reuters</media:credit>
       <media:description>Jared Leto at the premiere for “Tron: Ares” in Los Angeles in October. </media:description>
-    </item>
-    <item>
-      <title>Fauci’s Pardon From Biden Would Not Shield Him From New Offenses</title>
-      <link>https://www.nytimes.com/2026/07/29/us/politics/fauci-biden-pardon-covid-hearing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/politics/fauci-biden-pardon-covid-hearing.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/us/politics/fauci-biden-pardon-covid-hearing.html" rel="standout"></atom:link>
-      <description>Republicans have argued that the pre-emptive pardon Dr. Fauci received from former President Biden ought to preclude him from invoking the Fifth Amendment. But the pardon applies only to what happened before it was issued.</description>
-      <dc:creator>Karoun Demirjian</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 15:31:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hawley, Josh D (1979- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29trump-news-pardon-topart-gfjp/29trump-news-pardon-topart-gfjp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stefani Reynolds for The New York Times</media:credit>
-      <media:description>Former President Joseph R. Biden Jr. and Dr. Anthony S. Fauci during a news conference at the White House in 2021. Mr. Biden issued a pre-emptive pardon for Dr. Fauci on the last day of his term as president.</media:description>
-    </item>
-    <item>
-      <title>Teenage Lifeguard Fights Intense Waves to Bring Boy to Safety</title>
-      <link>https://www.nytimes.com/2026/07/29/us/santa-cruz-lifeguard-rescue-ryder-williams.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/santa-cruz-lifeguard-rescue-ryder-williams.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/us/santa-cruz-lifeguard-rescue-ryder-williams.html" rel="standout"></atom:link>
-      <description>A lifeguard with a relentless grip on a young boy brought him to safety amid enormous waves that ripped across a Santa Cruz beach over the weekend.</description>
-      <dc:creator>Sejal Govindarao and Pooja Salhotra</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 02:43:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lifeguards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Cruz (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29nat-ca-lifeguard-promo-wtlk/29nat-ca-lifeguard-promo-wtlk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Scott Vander Dussen/Instagram, via Reuters</media:credit>
-    </item>
-    <item>
-      <title>Senators Cornyn and Tillis Force Delay of Blanche Nomination Over Trump’s IRS Deal</title>
-      <link>https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html" rel="standout"></atom:link>
-      <description>John Cornyn and Thom Tillis accused the nominee for attorney general of refusing to put on paper his promise to kill aspects of the deal he cut to settle President Trump’s suit against the agency.</description>
-      <dc:creator>Glenn Thrush and Michael Gold</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 16:18:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Weaponization Fund (Trump v IRS)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/29/multimedia/29dc-blanche-topart-sub-ktzf/29dc-blanche-topart-sub-ktzf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Todd Blanche, the acting attorney general, cannot afford to lose a single Republican vote.</media:description>
-    </item>
-    <item>
-      <title>Lindsay Clancy Trial Update: In 911 Call, Husband Screams, ‘She Killed the Kids’</title>
-      <link>https://www.nytimes.com/2026/07/29/us/lindsay-clancy-murder-trial-husband.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/us/lindsay-clancy-murder-trial-husband.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/us/lindsay-clancy-murder-trial-husband.html" rel="standout"></atom:link>
-      <description>Prosecutors say Lindsay Clancy planned the killings of her three young children. Her lawyers point to her severe postpartum mental illness.</description>
-      <dc:creator>Jenna Russell</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 17:46:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nine-One-One (911) (Emergency Phone Number)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Lindsay (1990- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Duxbury (Mass)</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29nat-clancy-trial-plfb/29nat-clancy-trial-plfb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Greg Derr</media:credit>
-      <media:description>Patrick Clancy, testifying in court on Monday in Plymouth, Mass. On Tuesday, his voice was barely audible at times.</media:description>
     </item>
   </channel>
 </rss>
