@@ -7,13 +7,26 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 18:46:52 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 18:24:51 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:38:07 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 20:35:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly</title>
+      <link>https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html" rel="standout"></atom:link>
+      <description>Scientists have found smallpox viruses in the remains of people in Chile from around 500 years ago, revealing how the virus may have evolved into a global killer.</description>
+      <dc:creator>Carl Zimmer</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 18:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smallpox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+    </item>
     <item>
       <title>Mission to Save Falling NASA Space Telescope Suffers Setback</title>
       <link>https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html</link>
@@ -162,34 +175,27 @@
       <media:credit>SpaceX, via Reuters</media:credit>
     </item>
     <item>
-      <title>Can This New Enzyme Turn Back the Clock in Bodily Tissues?</title>
-      <link>https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html" rel="standout"></atom:link>
-      <description>In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 19:25:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Proteins</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Communications (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revel Pharmaceuticals Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cravens, Aaron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly</title>
-      <link>https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html" rel="standout"></atom:link>
-      <description>Scientists have found smallpox viruses in the remains of people in Chile from around 500 years ago, revealing how the virus may have evolved into a global killer.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 18:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smallpox</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <title>A City With a Plan</title>
+      <link>https://www.nytimes.com/2026/07/30/climate/cincinnati-climate-migrants-plan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/climate/cincinnati-climate-migrants-plan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/climate/cincinnati-climate-migrants-plan.html" rel="standout"></atom:link>
+      <description>Cincinnati wants to take in people fleeing climate disasters. Plus, the latest on fires in Europe.</description>
+      <dc:creator>Alexander Nazaryan</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 19:16:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cincinnati (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrants (Environmental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/30/climate/00cli-newsletter-cincinatti-01/00cli-newsletter-cincinatti-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Barry Fowler/Alamy</media:credit>
+      <media:description>Cincinnati has come up with a Climate Migration Readiness Plan in hopes that newcomers can help revitalize the area.</media:description>
     </item>
     <item>
       <title>Military Testosterone Policy Raises Questions About Its Links to Aggression</title>
@@ -274,9 +280,13 @@
       <pubDate>Thu, 30 Jul 2026 01:01:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Origins Investigation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Homeland Security and Governmental Affairs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institute of Allergy and Infectious Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29trump-news-header-9am-qkmz-copy/29trump-news-header-9am-qkmz-copy-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Dr. Anthony S. Fauci, the former director of the National Institute of Allergy and Infectious Diseases, on Capitol Hill on Wednesday.</media:description>
@@ -389,6 +399,23 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24xp-turing-art/24xp-turing-art-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>King’s College, Cambridge</media:credit>
       <media:description>Sarah Dillon, a professor of English literature, with Alan Turing’s handwritten short story in the Archive Centre at King’s College, Cambridge.</media:description>
+    </item>
+    <item>
+      <title>Can This New Enzyme Turn Back the Clock in Bodily Tissues?</title>
+      <link>https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html" rel="standout"></atom:link>
+      <description>In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.</description>
+      <dc:creator>K. R. Callaway</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 19:25:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Proteins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Longevity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Communications (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Revel Pharmaceuticals Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cravens, Aaron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Jackie, Bald Eagle and Webcam Star, Is Recovering After an Attack in California</title>

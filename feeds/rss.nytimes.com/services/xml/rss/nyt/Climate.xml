@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 18:50:10 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 18:27:33 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 20:37:24 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 19:24:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -152,6 +152,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
     </item>
     <item>
+      <title>A City With a Plan</title>
+      <link>https://www.nytimes.com/2026/07/30/climate/cincinnati-climate-migrants-plan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/climate/cincinnati-climate-migrants-plan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/climate/cincinnati-climate-migrants-plan.html" rel="standout"></atom:link>
+      <description>Cincinnati wants to take in people fleeing climate disasters. Plus, the latest on fires in Europe.</description>
+      <dc:creator>Alexander Nazaryan</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 19:16:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cincinnati (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrants (Environmental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/30/climate/00cli-newsletter-cincinatti-01/00cli-newsletter-cincinatti-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Barry Fowler/Alamy</media:credit>
+      <media:description>Cincinnati has come up with a Climate Migration Readiness Plan in hopes that newcomers can help revitalize the area.</media:description>
+    </item>
+    <item>
       <title>Civilians Battle Wildfire Threatening Bordeaux</title>
       <link>https://www.nytimes.com/video/world/europe/100000011061309/france-wildfires-bordeaux-civilian-volunteers.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/world/europe/100000011061309/france-wildfires-bordeaux-civilian-volunteers.html</guid>
@@ -215,17 +238,18 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/business/china-beef-imports-tariffs.html" rel="standout"></atom:link>
       <description>As increased rain makes grasslands and cornfields possible in areas that once were deserts, the world’s largest beef importer is becoming more self-reliant by expanding domestic herds.</description>
       <dc:creator>Keith Bradsher</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 12:13:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <pubDate>Thu, 30 Jul 2026 12:13:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gobi Desert</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mongolia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/Biz-China-Beef-1/c-01-jmqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gilles Sabri&amp;eacute; for The New York Times</media:credit>
       <media:description>A herder taking her cows to graze in mountain pastures in northern China’s Hebei Province.</media:description>
@@ -1145,23 +1169,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-smoke-live-new-normal-qclf/16nat-smoke-live-new-normal-qclf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nick Hagen for The New York Times</media:credit>
       <media:description>A stretch of highway in Southeast Michigan under thick smoke on Thursday. </media:description>
-    </item>
-    <item>
-      <title>Burning Houses to Save Houses</title>
-      <link>https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/climate/burning-houses-to-save-houses.html" rel="standout"></atom:link>
-      <description>We visited researchers seeking ways to make homes safer. They set a lot of fires.</description>
-      <dc:creator>Mira Rojanasakul</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 19:35:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16cli-newsletter-fire-01-jqbf/16cli-newsletter-fire-01-jqbf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Will Crooks for The New York Times</media:credit>
-      <media:description>A wildfire test at the Insurance Institute for Business &amp; Home Safety lab in Richburg, S.C.</media:description>
     </item>
   </channel>
 </rss>
