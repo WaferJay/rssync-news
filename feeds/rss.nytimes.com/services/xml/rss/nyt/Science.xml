@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 14:37:52 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 14:25:10 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:53:10 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 16:19:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html" rel="standout"></atom:link>
       <description>A spacecraft meant to push NASA’s Swift Observatory to a higher orbit malfunctioned and started tumbling several days ago. Engineers think it can still succeed.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 14:13:02 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 14:13:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
@@ -179,6 +179,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
+      <title>Military Testosterone Policy Raises Questions About Its Links to Aggression</title>
+      <link>https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html" rel="standout"></atom:link>
+      <description>Defense Secretary Pete Hegseth’s call for a “High-T military” raises questions about testosterone’s effect on aggression in some men.</description>
+      <dc:creator>Azeen Ghorayshi</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 16:19:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Testosterone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aggression (Behavior)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30Sci-testosterone-aggression-04-mclt/30Sci-testosterone-aggression-04-mclt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Recent evidence points to a condition called “operator syndrome,” a pattern of medical problems, including decreased testosterone, that those who have served long stretches in special operations units are more likely to report.</media:description>
+    </item>
+    <item>
       <title>Bipartisan Anger Grows at Pentagon’s Delayed ‘Forever Chemicals’ Cleanups</title>
       <link>https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html</guid>
@@ -206,21 +223,19 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html" rel="standout"></atom:link>
       <description>In the latest example, the Energy Department will convert a shuttered Cold War-era uranium enrichment facility into a data center campus and gas plants.</description>
       <dc:creator>Brad Plumer</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 19:46:04 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 19:46:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paducah (Ky)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NextEra Energy Inc</category>
@@ -228,10 +243,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sierra Club</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Chris (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paducah (Ky)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Piketon (Ohio)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29cli-datacenters-01b-fzhm/29cli-datacenters-01b-fzhm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Trump and Energy Secretary Chris Wright during a White House event last week in which 200 companies vowed to prevent A.I. data centers from driving up power costs.</media:description>

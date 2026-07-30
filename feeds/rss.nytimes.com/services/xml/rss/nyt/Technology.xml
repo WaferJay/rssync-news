@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Technology</title>
     <link>https://www.nytimes.com/section/technology</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml?_cb=1785422105578" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 14:35:06 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 14:08:54 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:51:34 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 16:29:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html" rel="standout"></atom:link>
       <description>An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.</description>
       <dc:creator>Brian X. Chen</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:03:07 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 09:03:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
@@ -75,9 +75,9 @@
       <link>https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html" rel="standout"></atom:link>
-      <description>An appeals court in Canada acquitted Brandon Klayme of child pornography-related charges. His Kik username had one less underscore than another account that was involved.</description>
+      <description>An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was involved.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:03:25 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 16:21:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
@@ -109,9 +109,14 @@
       <dc:creator>Eli Saslow and Erin Schaff</dc:creator>
       <pubDate>Thu, 30 Jul 2026 10:59:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ministers (Protestant)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baptist Churches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="">Digital twins</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lester, Justin (1988- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Friendship Baptist Church</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Justin Lester</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26digital-twins-promo/26digital-twins-01-glzf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
     </item>

@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 14:37:20 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 12:49:16 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 16:51:07 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 16:17:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/climate</link>
     </image>
+    <item>
+      <title>Bipartisan Anger Grows at Pentagon’s Delayed ‘Forever Chemicals’ Cleanups</title>
+      <link>https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html" rel="standout"></atom:link>
+      <description>Hundreds of bases are contaminated with PFAS, which are linked to low birth weight and other risks. Politicians from both parties are demanding explanations.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 09:02:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bergman, Jack (1947- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/00CLI-DOD-FOREVER-CHEMICALS-03/00CLI-DOD-FOREVER-CHEMICALS-03-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nina Riggio for The New York Times</media:credit>
+      <media:description>A burned airplane fuselage used in firefighting exercises at Cannon Air Force Base in New Mexico, a PFAS-contaminated site.</media:description>
+    </item>
     <item>
       <title>Trump Administration Is Repurposing Federal Land for A.I. Data Centers</title>
       <link>https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html</link>
@@ -21,21 +42,19 @@
       <atom:link href="https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html" rel="standout"></atom:link>
       <description>In the latest example, the Energy Department will convert a shuttered Cold War-era uranium enrichment facility into a data center campus and gas plants.</description>
       <dc:creator>Brad Plumer</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 19:46:04 +0000</pubDate>
+      <pubDate>Wed, 29 Jul 2026 19:46:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cold War Era</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paducah (Ky)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NextEra Energy Inc</category>
@@ -43,10 +62,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sierra Club</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Chris (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paducah (Ky)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Piketon (Ohio)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29cli-datacenters-01b-fzhm/29cli-datacenters-01b-fzhm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>President Trump and Energy Secretary Chris Wright during a White House event last week in which 200 companies vowed to prevent A.I. data centers from driving up power costs.</media:description>
@@ -94,28 +113,6 @@
       <media:description>The wastewater, which can be radioactive, has risen to the surface through older oil and gas wells near Marietta, Ohio, such as this one.</media:description>
     </item>
     <item>
-      <title>Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate</title>
-      <link>https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html" rel="standout"></atom:link>
-      <description>The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said.</description>
-      <dc:creator>Mark Landler and Chico Harlan</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 14:06:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29int-europe-heat-moment-01-qgwb/29int-europe-heat-moment-01-qgwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
-      <media:description>Firefighters using controlled burns to stop the spread of wildfires near Madrid on Tuesday.</media:description>
-    </item>
-    <item>
       <title>How Companies Have Abandoned Their Climate Goals and Let Themselves Off the Hook</title>
       <link>https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/17/climate/company-climate-change-commitments-renege.html</guid>
@@ -155,27 +152,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
     </item>
     <item>
-      <title>Bipartisan Anger Grows at Pentagon’s Delayed ‘Forever Chemicals’ Cleanups</title>
-      <link>https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html" rel="standout"></atom:link>
-      <description>Hundreds of bases are contaminated with PFAS, which are linked to low birth weight and other risks. Politicians from both parties are demanding explanations.</description>
-      <dc:creator>Hiroko Tabuchi</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:02:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazardous and Toxic Substances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">PFAS (Per- and Polyfluoroalkyl Substances)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bergman, Jack (1947- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/00CLI-DOD-FOREVER-CHEMICALS-03/00CLI-DOD-FOREVER-CHEMICALS-03-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nina Riggio for The New York Times</media:credit>
-      <media:description>A burned airplane fuselage used in firefighting exercises at Cannon Air Force Base in New Mexico, a PFAS-contaminated site.</media:description>
-    </item>
-    <item>
       <title>How to Watch Two Summer Meteor Showers Peak On the Same Night</title>
       <link>https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html</guid>
@@ -204,17 +180,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swinney, John R</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="">climate change</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30int-uk-scotland-wildfires-01-qmkl/30int-uk-scotland-wildfires-01-qmkl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jeff J Mitchell/Getty Images</media:credit>
       <media:description>Land charred by the Cairngorm wildfire in Aviemore, Scotland, on Tuesday.</media:description>
@@ -281,6 +253,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/espanol/29int-europe-fires-01-vbfw-ES-copy1/29int-europe-fires-01-vbfw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emma Da Silva/Associated Press</media:credit>
       <media:description>Un bombero descansando cerca de Lanton, Francia, el martes</media:description>
+    </item>
+    <item>
+      <title>Summer of Heat, Fires and Storms Is a Reckoning for Europe on Climate</title>
+      <link>https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/world/europe/summer-heat-wave-fires-climate-change.html" rel="standout"></atom:link>
+      <description>The continent is experiencing some of its biggest fires and highest temperatures ever. Residents are fleeing, leaders are struggling to respond and “it will get worse,” one climate expert said.</description>
+      <dc:creator>Mark Landler and Chico Harlan</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 14:06:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29int-europe-heat-moment-01-qgwb/29int-europe-heat-moment-01-qgwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
+      <media:description>Firefighters using controlled burns to stop the spread of wildfires near Madrid on Tuesday.</media:description>
     </item>
     <item>
       <title>Fossil Fuel Executives Cash In</title>
@@ -1151,48 +1145,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16cli-newsletter-fire-01-jqbf/16cli-newsletter-fire-01-jqbf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
       <media:description>A wildfire test at the Insurance Institute for Business &amp; Home Safety lab in Richburg, S.C.</media:description>
-    </item>
-    <item>
-      <title>Mamdani Urges New Yorkers to Stay Indoors Because of Wildfire Smoke</title>
-      <link>https://www.nytimes.com/2026/07/16/us/mamdani-nyc-wildfire-smoke-aqi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/us/mamdani-nyc-wildfire-smoke-aqi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/us/mamdani-nyc-wildfire-smoke-aqi.html" rel="standout"></atom:link>
-      <description>“Every New Yorker should take precautions,” Mayor Zohran Mamdani said. Gov. Kathy Hochul also issued a statewide air quality advisory.</description>
-      <dc:creator>Sally Goldenberg</dc:creator>
-      <pubDate>Thu, 16 Jul 2026 16:53:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16nat-smoke-live-mamdani-nyc-topart-pmfq/16nat-smoke-live-mamdani-nyc-topart-pmfq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
-      <media:description>Smoke filled the sky over New York City on Thursday morning.</media:description>
-    </item>
-    <item>
-      <title>National Academies Report Backs Climate Change Attribution Science</title>
-      <link>https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/16/climate/national-academies-extreme-weather-attribution.html" rel="standout"></atom:link>
-      <description>Attribution science is advancing quickly, researchers said. That could support lawsuits seeking damages for severe events worsened by global warming.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Fri, 17 Jul 2026 01:43:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Academies of Sciences, Engineering and Medicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="">attribution science</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/16cli-attribution-vcqf/16cli-attribution-vcqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stephane Mahe/Reuters</media:credit>
-      <media:description>A firefighting helicopter at a wildfire burning in the Forest of Fontainebleau near Paris on Monday.</media:description>
     </item>
   </channel>
 </rss>
