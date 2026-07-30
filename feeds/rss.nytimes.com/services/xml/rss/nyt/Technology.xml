@@ -3,17 +3,56 @@
   <channel>
     <title>NYT &gt; Technology</title>
     <link>https://www.nytimes.com/section/technology</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml?_cb=1785422105578" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 12:09:00 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 11:03:49 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:35:06 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 14:08:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic</title>
+      <link>https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html" rel="standout"></atom:link>
+      <description>An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 11:03:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archive of Our Own</category>
+    </item>
+    <item>
+      <title>Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.</title>
+      <link>https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html" rel="standout"></atom:link>
+      <description>An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.</description>
+      <dc:creator>Brian X. Chen</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 09:03:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoom Video Communications</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/business/00techfix/00techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sisi Yu</media:credit>
+    </item>
     <item>
       <title>A.I. Companies Are Recruiting Electricians and Carpenters by the Thousands</title>
       <link>https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html</link>
@@ -30,49 +69,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/00BIZ-DATACENTER-LABOR-01-vczj/00BIZ-DATACENTER-LABOR-01-vczj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sarah Rice for The New York Times</media:credit>
       <media:description>Juan Amarante working last week in the data center training lab at the Detroit Electrical Industry Training Center in Warren, Mich.</media:description>
-    </item>
-    <item>
-      <title>Meta’s Profit Falls 14 Percent as A.I. Spending Continues</title>
-      <link>https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html" rel="standout"></atom:link>
-      <description>The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 23:17:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Alexandr (Technology Executive)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-meta-earnings-lpzq/29biz-meta-earnings-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>Products on display at the Meta Lab store in Midtown Manhattan.</media:description>
-    </item>
-    <item>
-      <title>Microsoft Increases Spending on A.I. as Profit Jumps 31%</title>
-      <link>https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html" rel="standout"></atom:link>
-      <description>Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.</description>
-      <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 23:10:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadella, Satya</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-microsoft1-vmcl/29biz-microsoft1-vmcl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>The Microsoft Experience Center in Manhattan on Wednesday, when Microsoft reported quarterly capital expenditures of $41 billion. </media:description>
     </item>
     <item>
       <title>Mistaken Username Sent Man to Prison for 18 Months, Court Finds</title>
@@ -105,26 +101,6 @@
       <media:description>The Nova Scotia provincial flag. Prosecutors in Nova Scotia acknowledged the conviction had been flawed.</media:description>
     </item>
     <item>
-      <title>Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.</title>
-      <link>https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html" rel="standout"></atom:link>
-      <description>An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.</description>
-      <dc:creator>Brian X. Chen</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:03:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoom Video Communications</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/business/00techfix/00techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sisi Yu</media:credit>
-    </item>
-    <item>
       <title>A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time</title>
       <link>https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html</guid>
@@ -140,23 +116,47 @@
       <media:credit>Erin Schaff/The New York Times</media:credit>
     </item>
     <item>
-      <title>When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic</title>
-      <link>https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html" rel="standout"></atom:link>
-      <description>An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.</description>
+      <title>Microsoft Increases Spending on A.I. as Profit Jumps 31%</title>
+      <link>https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html" rel="standout"></atom:link>
+      <description>Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.</description>
       <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 11:03:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reddit Inc</category>
+      <pubDate>Wed, 29 Jul 2026 23:10:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X (Formerly Twitter)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archive of Our Own</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadella, Satya</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-microsoft1-vmcl/29biz-microsoft1-vmcl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>The Microsoft Experience Center in Manhattan on Wednesday, when Microsoft reported quarterly capital expenditures of $41 billion. </media:description>
+    </item>
+    <item>
+      <title>Meta’s Profit Falls 14 Percent as A.I. Spending Continues</title>
+      <link>https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html" rel="standout"></atom:link>
+      <description>The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.</description>
+      <dc:creator>Eli Tan</dc:creator>
+      <pubDate>Wed, 29 Jul 2026 23:17:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Alexandr (Technology Executive)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-meta-earnings-lpzq/29biz-meta-earnings-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>Products on display at the Meta Lab store in Midtown Manhattan.</media:description>
     </item>
     <item>
       <title>Russia Charges Telegram’s Founder Pavel Durov With Facilitating Terrorism</title>
@@ -185,7 +185,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html" rel="standout"></atom:link>
       <description>In an interview with The Times, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”</description>
       <dc:creator>Mike Isaac and Eli Tan</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 00:59:09 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 14:08:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -656,37 +656,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/INTEL-EARNINGS-1-01-wqvh/INTEL-EARNINGS-1-01-wqvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Loren Elliott for The New York Times</media:credit>
       <media:description>An Intel wafer at the company’s Ocotillo campus in Chandler, Ariz.</media:description>
-    </item>
-    <item>
-      <title>Ford Will Use Apple Maps in New Self-Driving System</title>
-      <link>https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/business/ford-apple-software-self-driving.html" rel="standout"></atom:link>
-      <description>In a first, Apple software will influence the way a new line of electric vehicles made by Ford Motor operates, and other automakers may follow.</description>
-      <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:28:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ford Motor Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Xiaomi Tech</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rivian Automotive LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cue, Eddy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farley, James D Jr (1962- )</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23biz-ford-apple-01-ghvb/23biz-ford-apple-01-ghvb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joe Raedle/Getty Images</media:credit>
-      <media:description>Ford Motor said Thursday that self-driving technology in a new line of electric vehicles available next year would use Apple software.</media:description>
     </item>
   </channel>
 </rss>

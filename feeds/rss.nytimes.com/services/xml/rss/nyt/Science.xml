@@ -7,13 +7,64 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 12:05:27 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 10:38:38 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:37:52 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 14:25:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>Mission to Save Falling NASA Space Telescope Suffers Setback</title>
+      <link>https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html" rel="standout"></atom:link>
+      <description>A spacecraft meant to push NASA’s Swift Observatory to a higher orbit malfunctioned and started tumbling several days ago. Engineers think it can still succeed.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 14:13:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+    </item>
+    <item>
+      <title>How to Watch Two Summer Meteor Showers Peak On the Same Night</title>
+      <link>https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html" rel="standout"></atom:link>
+      <description>The end of July brings the Alpha Capricornids and the Southern Delta Aquarids, both of which will be most active on Thursday night into Friday morning.</description>
+      <dc:creator>Katrina Miller</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 09:00:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30SCI-meteor-showers-bzhg/30SCI-meteor-showers-bzhg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jorge Guerrero/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Hoping to catch these two meteor showers at their most active? Astronomers suggest not using telescopes or binoculars, which could limit the field of view.</media:description>
+    </item>
+    <item>
+      <title>A.I. Data Centers in Space? A System to Cool Chips Could Help.</title>
+      <link>https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html" rel="standout"></atom:link>
+      <description>Researchers at Caltech and Sophia Space, a start-up, have developed a technology using solar power to prevent computer equipment from overheating in orbit.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 04:01:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating, Ventilation and Cooling (HVAC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Institute of Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sophia Space Inc</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-space-solar-lcqv/30biz-space-solar-lcqv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>NASA, via Reuters</media:credit>
+      <media:description>Small solar arrays, like those on the International Space Station, are already used in space, but A.I. data centers would require substantially more equipment for electricity generation.</media:description>
+    </item>
     <item>
       <title>In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.</title>
       <link>https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html</link>
@@ -128,66 +179,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
-      <title>Life of Alan Turing Emerges in Richer Detail From Short Story</title>
-      <link>https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html" rel="standout"></atom:link>
-      <description>A Cambridge professor has transcribed a handwritten story that the famous mathematician wrote in the year before his death, presenting a different side of him.</description>
-      <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 14:46:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turing, Alan M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cryptography, Codes and Ciphers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24xp-turing-art/24xp-turing-art-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>King’s College, Cambridge</media:credit>
-      <media:description>Sarah Dillon, a professor of English literature, with Alan Turing’s handwritten short story in the Archive Centre at King’s College, Cambridge.</media:description>
-    </item>
-    <item>
-      <title>Health Care Agency Discontinues Dozens of Active Research Awards</title>
-      <link>https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html" rel="standout"></atom:link>
-      <description>The Agency for Healthcare Research and Quality slowed the awarding of new grants last year. Now it is stopping existing ones.</description>
-      <dc:creator>Katrina Miller</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 14:25:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agency for Healthcare Research and Quality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24SCI-HEALTH-CUTS-ljhf/24SCI-HEALTH-CUTS-ljhf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Grant Hindsley for The New York Times</media:credit>
-      <media:description>The Agency for Healthcare Research and Quality, an arm of the Department of Health and Human Services, is a small agency that aims to make quality health care in the United States more affordable and accessible.</media:description>
-    </item>
-    <item>
-      <title>Four Young Mathematicians Receive Prestigious Fields Medals</title>
-      <link>https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/science/fields-medals-pardon-deng-wang-tsimerman.html" rel="standout"></atom:link>
-      <description>The awards are bestowed only once every four years to mathematicians under the age of 40.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 19:49:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Congress of Mathematicians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deng, Yu (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pardon, John (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsimerman, Jacob</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Hong (1991- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
       <title>Bipartisan Anger Grows at Pentagon’s Delayed ‘Forever Chemicals’ Cleanups</title>
       <link>https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/climate/pfas-forever-chemical-pentagon-cleanup-delay.html</guid>
@@ -207,24 +198,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/05/12/multimedia/00CLI-DOD-FOREVER-CHEMICALS-03/00CLI-DOD-FOREVER-CHEMICALS-03-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nina Riggio for The New York Times</media:credit>
       <media:description>A burned airplane fuselage used in firefighting exercises at Cannon Air Force Base in New Mexico, a PFAS-contaminated site.</media:description>
-    </item>
-    <item>
-      <title>How to Watch Two Summer Meteor Showers Peak On the Same Night</title>
-      <link>https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/science/meteors-capricornids-aquarids.html" rel="standout"></atom:link>
-      <description>The end of July brings the Alpha Capricornids and the Southern Delta Aquarids, both of which will be most active on Thursday night into Friday morning.</description>
-      <dc:creator>Katrina Miller</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:00:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30SCI-meteor-showers-bzhg/30SCI-meteor-showers-bzhg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jorge Guerrero/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Hoping to catch these two meteor showers at their most active? Astronomers suggest not using telescopes or binoculars, which could limit the field of view.</media:description>
     </item>
     <item>
       <title>Trump Administration Is Repurposing Federal Land for A.I. Data Centers</title>
@@ -368,6 +341,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
     </item>
     <item>
+      <title>Life of Alan Turing Emerges in Richer Detail From Short Story</title>
+      <link>https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/24/world/europe/alan-turing-short-story-cambridge.html" rel="standout"></atom:link>
+      <description>A Cambridge professor has transcribed a handwritten story that the famous mathematician wrote in the year before his death, presenting a different side of him.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 14:46:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Turing, Alan M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cryptography, Codes and Ciphers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24xp-turing-art/24xp-turing-art-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>King’s College, Cambridge</media:credit>
+      <media:description>Sarah Dillon, a professor of English literature, with Alan Turing’s handwritten short story in the Archive Centre at King’s College, Cambridge.</media:description>
+    </item>
+    <item>
       <title>Jackie, Bald Eagle and Webcam Star, Is Recovering After an Attack in California</title>
       <link>https://www.nytimes.com/2026/07/23/us/jackie-bald-eagle-critical-condition.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/us/jackie-bald-eagle-critical-condition.html</guid>
@@ -401,65 +396,23 @@
       <media:credit>Catherine Falls/Getty Images</media:credit>
     </item>
     <item>
-      <title>John Pardon Untangles the Theoretical Loops</title>
-      <link>https://www.nytimes.com/2026/07/23/science/john-pardon-fields-medal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/science/john-pardon-fields-medal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/science/john-pardon-fields-medal.html" rel="standout"></atom:link>
-      <description>The mathematics professor has won a prestigious Fields Medal for his work at the intersection of geometry, topology and physics.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:34:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State University of New York at Stony Brook</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pardon, John (1989- )</category>
-    </item>
-    <item>
-      <title>Jacob Tsimerman Lives in Number Theory</title>
-      <link>https://www.nytimes.com/2026/07/23/science/jacob-tsimerman-fields-medal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/science/jacob-tsimerman-fields-medal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/science/jacob-tsimerman-fields-medal.html" rel="standout"></atom:link>
-      <description>Dr. Tsimerman won one of four Fields Medals, an award for top mathematicians under 40, for his work on the André-Oort conjecture, but is now changing his focus to artificial intelligence.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 13:32:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tsimerman, Jacob</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Toronto</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
-    </item>
-    <item>
-      <title>Yu Deng Predicts the Actions of the Whole From Its Tiniest Parts</title>
-      <link>https://www.nytimes.com/2026/07/23/science/yu-deng-fields-medal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/science/yu-deng-fields-medal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/science/yu-deng-fields-medal.html" rel="standout"></atom:link>
-      <description>Dr. Deng, a mathematics professor at the University of Chicago, received a Fields Medal for his work on an equation describing fluid mechanics.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 23 Jul 2026 14:34:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deng, Yu (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Chicago</category>
-    </item>
-    <item>
-      <title>Hong Wang Twirls in Fractal Dimensions of Three</title>
-      <link>https://www.nytimes.com/2026/07/23/science/hong-wang-fields-medal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/science/hong-wang-fields-medal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/science/hong-wang-fields-medal.html" rel="standout"></atom:link>
-      <description>The young mathematician won a prestigious Fields Medal for her work on the so-called Kakeya conjecture.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 00:10:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Awards, Decorations and Honors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Hong (1991- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
+      <title>Health Care Agency Discontinues Dozens of Active Research Awards</title>
+      <link>https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/23/science/health-research-funding-ahrq.html" rel="standout"></atom:link>
+      <description>The Agency for Healthcare Research and Quality slowed the awarding of new grants last year. Now it is stopping existing ones.</description>
+      <dc:creator>Katrina Miller</dc:creator>
+      <pubDate>Fri, 24 Jul 2026 14:25:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agency for Healthcare Research and Quality</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24SCI-HEALTH-CUTS-ljhf/24SCI-HEALTH-CUTS-ljhf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Grant Hindsley for The New York Times</media:credit>
+      <media:description>The Agency for Healthcare Research and Quality, an arm of the Department of Health and Human Services, is a small agency that aims to make quality health care in the United States more affordable and accessible.</media:description>
     </item>
   </channel>
 </rss>

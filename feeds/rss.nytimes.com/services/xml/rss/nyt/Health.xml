@@ -7,13 +7,62 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 09:55:12 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 09:24:54 +0000</pubDate>
+    <lastBuildDate>Thu, 30 Jul 2026 14:33:07 +0000</lastBuildDate>
+    <pubDate>Thu, 30 Jul 2026 14:27:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/health</link>
     </image>
+    <item>
+      <title>After Obamacare Cuts, Hospitals Are Treating More Uninsured Patients</title>
+      <link>https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html" rel="standout"></atom:link>
+      <description>More people who lost coverage after congressional Republicans ended enhanced federal subsidies are now seeking care in emergency rooms and unable to pay bills.</description>
+      <dc:creator>Reed Abelson</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 14:27:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Community Health Systems Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HCA Healthcare Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-hospitals-aca-gbmt/29biz-hospitals-aca-gbmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <media:description>Major hospitals have expressed growing concerns about the significant decrease in paying patients.</media:description>
+    </item>
+    <item>
+      <title>Rescue Boat Crews Show Signs of Brain Injuries, but Coast Guard Isn’t Looking</title>
+      <link>https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html" rel="standout"></atom:link>
+      <description>Untreated and undiagnosed, the crews that save lives in the roughest seas face the relentless pounding of waves.</description>
+      <dc:creator>Dave Philipps</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 13:41:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suicides and Suicide Attempts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Post-Traumatic Stress Disorder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Traumatic Encephalopathy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Concussions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Golden Gate Bridge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Columbia River (Pacific Northwest)</category>
+    </item>
     <item>
       <title>Fauci Pleads the Fifth, Refusing to Answer Questions on Covid Origins at Senate Hearing</title>
       <link>https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html</link>
@@ -145,98 +194,6 @@
       <media:credit>Pingnan Lu</media:credit>
     </item>
     <item>
-      <title>Legionnaires’ Disease Has Made a Home in New York City. Here’s How.</title>
-      <link>https://www.nytimes.com/2026/07/27/nyregion/nyc-legionnaires-disease-epicenter.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/nyregion/nyc-legionnaires-disease-epicenter.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/nyregion/nyc-legionnaires-disease-epicenter.html" rel="standout"></atom:link>
-      <description>New York has endured significant outbreaks in recent years. Some experts say officials should focus more on risks in plumbing systems, even shower heads.</description>
-      <dc:creator>Joseph Goldstein</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 00:00:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legionnaires&#39; Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plumbing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Mental Hygiene Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Alister S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Harlem (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Bronx (Bronx, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/02/nyregion/02met-legionnaires-endemic-vgmp/27met-legionnaires-endemic-vgmp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
-      <media:description>Robert Goldstein, 88, was among the first people in New York City to die from Legionnaires&#39; disease during this summer’s outbreak. His wife, Ida Goldstein, and her sister, Selma Tenenbaum, mourned Mr. Goldstein’s passing.</media:description>
-    </item>
-    <item>
-      <title>What Geriatric Emergency Departments Do Differently</title>
-      <link>https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html" rel="standout"></atom:link>
-      <description>These specialized units can help keep older patients out of the hospital, lower their health care costs and more.</description>
-      <dc:creator>Paula Span</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 14:31:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Falls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/well/25Well-NOA-ERs/25Well-NOA-ERs-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bianca Bagnarelli</media:credit>
-    </item>
-    <item>
-      <title>With Hopes High for New H.I.V. Prevention Pill, Merck Takes Steps to Ensure Access</title>
-      <link>https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/us/politics/merck-hiv-pill.html" rel="standout"></atom:link>
-      <description>Companies in Africa and India will make generic versions of the pill that could cost as little as $5 per person per year. But access to the drug and other new products in much of Latin America remains uncertain.</description>
-      <dc:creator>Stephanie Nolen</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 15:03:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generic Brands and Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck &amp; Company Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far East, South and Southeast Asia and Pacific Areas</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24dc-hiv-drug01-photo-hlfv/24dc-hiv-drug01-photo-hlfv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arlette Bashizi for The New York Times</media:credit>
-      <media:description>Health workers speaking with students about H.I.V. prevention drugs at the University of Zambia in Lusaka in March.</media:description>
-    </item>
-    <item>
-      <title>After Obamacare Cuts, Hospitals Are Treating More Uninsured Patients</title>
-      <link>https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/business/aca-obamacare-health-insurance.html" rel="standout"></atom:link>
-      <description>More people who lost coverage after congressional Republicans ended enhanced federal subsidies are now seeking care in emergency rooms and unable to pay bills.</description>
-      <dc:creator>Reed Abelson</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:02:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Patient Protection and Affordable Care Act (2010)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Community Health Systems Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">HCA Healthcare Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-hospitals-aca-gbmt/29biz-hospitals-aca-gbmt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>Major hospitals have expressed growing concerns about the significant decrease in paying patients.</media:description>
-    </item>
-    <item>
       <title>Should We Make Daylight Saving Time Permanent?</title>
       <link>https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html</guid>
@@ -259,6 +216,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/00SCI-DST-01-thzb/00SCI-DST-01-thzb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kevin Lamarque/Reuters</media:credit>
+    </item>
+    <item>
+      <title>What Geriatric Emergency Departments Do Differently</title>
+      <link>https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/25/well/geriatric-emergency-departments.html" rel="standout"></atom:link>
+      <description>These specialized units can help keep older patients out of the hospital, lower their health care costs and more.</description>
+      <dc:creator>Paula Span</dc:creator>
+      <pubDate>Sat, 25 Jul 2026 14:31:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Falls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/well/25Well-NOA-ERs/25Well-NOA-ERs-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bianca Bagnarelli</media:credit>
     </item>
     <item>
       <title>1.6 Million Egg Cartons Are Recalled Over Salmonella Risk</title>
@@ -448,6 +422,29 @@
       <media:content height="1594" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/21sci-gene-therapy-promo-vqpw/21sci-gene-therapy-promo-vqpw-mediumSquareAt3X.jpg" width="1594"></media:content>
       <media:credit>Moriah Ratner for The New York Times</media:credit>
       <media:description>Nina Frost with her 10-year-old daughter, Annabel, who at 2 months old was diagnosed with a rare neurological disorder that affects just 400 children in the United States and has no cure.</media:description>
+    </item>
+    <item>
+      <title>The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’</title>
+      <link>https://www.nytimes.com/2026/07/21/health/hantavirus-quarantine-americans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/health/hantavirus-quarantine-americans.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/21/health/hantavirus-quarantine-americans.html" rel="standout"></atom:link>
+      <description>Eighteen Americans were isolated for weeks in a Nebraska quarantine facility after being exposed to the deadly virus on a cruise ship. Many found the experience traumatic.</description>
+      <dc:creator>Apoorva Mandavilli</dc:creator>
+      <pubDate>Tue, 21 Jul 2026 09:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hantavirus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Quarantines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Nebraska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Omaha (Neb)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bhattacharya, Jay</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/16/multimedia/00DC-hantavirus-quarantine-01-tcqb/00DC-hantavirus-quarantine-01-tcqb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jordan Gale for The New York Times</media:credit>
+      <media:description>Dr. Steve Kornfeld, who was quarantined because of hantavirus exposure, at his home in Bend, Ore., last month.</media:description>
     </item>
   </channel>
 </rss>
