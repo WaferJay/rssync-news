@@ -7,32 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 21:29:39 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 21:08:55 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 23:26:06 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 22:35:21 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
-    <item>
-      <title>New York Sues Kalshi in Latest Bid to Regulate Prediction Markets</title>
-      <link>https://www.nytimes.com/2026/07/31/nyregion/kalshi-ny-lawsuit-gambling.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/nyregion/kalshi-ny-lawsuit-gambling.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/nyregion/kalshi-ny-lawsuit-gambling.html" rel="standout"></atom:link>
-      <description>The suit is the latest effort by states to crack down on an industry that critics have called predatory. At least 15 states have introduced legislation this year to regulate the markets.</description>
-      <dc:creator>Hurubie Meko and Santul Nerkar</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 18:04:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31met-kalshi-pgjl/31met-kalshi-pgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Helgas for The New York Times</media:credit>
-      <media:description>New York sued Kalshi, accusing them of operating illegally. It’s the latest state to try to crack down and regulate prediction markets.</media:description>
-    </item>
     <item>
       <title>Legionnaires’ Outbreak on Upper East Side Is Over, N.Y.C. Officials Say</title>
       <link>https://www.nytimes.com/2026/07/31/nyregion/nyc-legionnaires-outbreak-over.html</link>
@@ -61,22 +42,23 @@
       <media:description>New York City officials have conducted laboratory tests on samples of the bacteria that cause Legionnaires’ disease.</media:description>
     </item>
     <item>
-      <title>Meet the Man Who Oversees the Sorting and Shipping of NYC’s Library Books</title>
-      <link>https://www.nytimes.com/2026/07/31/nyregion/nypl-queens-bookops-salvatore-magaddino.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/nyregion/nypl-queens-bookops-salvatore-magaddino.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/nyregion/nypl-queens-bookops-salvatore-magaddino.html" rel="standout"></atom:link>
-      <description>For 20 years, a retired Police Department captain has overseen the shipping of books to library branches. Tens of thousands of books are sorted each day.</description>
-      <dc:creator>Claire Fahy and Juan Arredondo</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 07:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brooklyn Public Library</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Public Library</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/PROMO-BOOK-OPS-01-ljqm/PROMO-BOOK-OPS-01-ljqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Juan Arredondo for The New York Times</media:credit>
+      <title>New York Sues Kalshi in Latest Bid to Regulate Prediction Markets</title>
+      <link>https://www.nytimes.com/2026/07/31/nyregion/kalshi-ny-lawsuit-gambling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/nyregion/kalshi-ny-lawsuit-gambling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/31/nyregion/kalshi-ny-lawsuit-gambling.html" rel="standout"></atom:link>
+      <description>The suit is the latest effort by states to crack down on an industry that critics have called predatory. At least 15 states have introduced legislation this year to regulate the markets.</description>
+      <dc:creator>Hurubie Meko and Santul Nerkar</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 18:04:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, Letitia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31met-kalshi-pgjl/31met-kalshi-pgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Helgas for The New York Times</media:credit>
+      <media:description>New York sued Kalshi, accusing them of operating illegally. It’s the latest state to try to crack down and regulate prediction markets.</media:description>
     </item>
     <item>
       <title>You’re Welcome at SUNY, New York Tells Students Disenrolled by Howard</title>
@@ -106,6 +88,43 @@
       <media:description>The State University of New York at Stony Brook is among the SUNY campuses accepting students disenrolled by Howard University.</media:description>
     </item>
     <item>
+      <title>Meet the Man Who Oversees the Sorting and Shipping of NYC’s Library Books</title>
+      <link>https://www.nytimes.com/2026/07/31/nyregion/nypl-queens-bookops-salvatore-magaddino.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/nyregion/nypl-queens-bookops-salvatore-magaddino.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/31/nyregion/nypl-queens-bookops-salvatore-magaddino.html" rel="standout"></atom:link>
+      <description>For 20 years, a retired Police Department captain has overseen the shipping of books to library branches. Tens of thousands of books are sorted each day.</description>
+      <dc:creator>Claire Fahy and Juan Arredondo</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 07:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libraries and Librarians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Brooklyn Public Library</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Public Library</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/PROMO-BOOK-OPS-01-ljqm/PROMO-BOOK-OPS-01-ljqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Juan Arredondo for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Mamdani Leaves Door Open to Paying Reparations to Black New Yorkers</title>
+      <link>https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html" rel="standout"></atom:link>
+      <description>The mayor said in recent interviews that it was important to acknowledge the city’s role in slavery but that he could not commit to payouts before his racial equity commission completes its report.</description>
+      <dc:creator>Jeffery C. Mays</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 12:52:16 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commission on Racial Equity (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30met-mamdani-reparations-01-fzvp/30met-mamdani-reparations-01-fzvp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
+      <media:description>Mayor Zohran Mamdani said this week that New York City’s effort to determine potential reparations was “critically important.” </media:description>
+    </item>
+    <item>
       <title>Mamdani Names Prominent Black Leader as Head of Police Review Board</title>
       <link>https://www.nytimes.com/2026/07/31/nyregion/ccrb-mamdani-jennifer-jones-austin.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/nyregion/ccrb-mamdani-jennifer-jones-austin.html</guid>
@@ -131,25 +150,6 @@
       <media:description>Jennifer Jones Austin, the new leader of the Civilian Complaint Review Board, runs the Federation of Protestant Welfare Agencies and worked in the de Blasio administration.</media:description>
     </item>
     <item>
-      <title>Mamdani Leaves Door Open to Paying Reparations to Black New Yorkers</title>
-      <link>https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/nyregion/mamdani-reparations-slavery.html" rel="standout"></atom:link>
-      <description>The mayor said in recent interviews that it was important to acknowledge the city’s role in slavery but that he could not commit to payouts before his racial equity commission completes its report.</description>
-      <dc:creator>Jeffery C. Mays</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 12:52:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reparations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commission on Racial Equity (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30met-mamdani-reparations-01-fzvp/30met-mamdani-reparations-01-fzvp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Mayor Zohran Mamdani said this week that New York City’s effort to determine potential reparations was “critically important.” </media:description>
-    </item>
-    <item>
       <title>Big Losses for Small Businesses in the ‘Frozen Zone’</title>
       <link>https://www.nytimes.com/2026/07/31/nyregion/big-losses-for-small-businesses-in-the-frozen-zone.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/nyregion/big-losses-for-small-businesses-in-the-frozen-zone.html</guid>
@@ -170,6 +170,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30met-frozen-zone-06-btvk/30met-frozen-zone-06-btvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Angelina Katsanis for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Tossed Tuna and Furloughed Workers: Midtown’s ‘Frozen Zone’ Scrapes By</title>
+      <link>https://www.nytimes.com/2026/07/30/nyregion/tossed-tuna-and-furloughed-workers-midtowns-frozen-zone-scrapes-by.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/nyregion/tossed-tuna-and-furloughed-workers-midtowns-frozen-zone-scrapes-by.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/nyregion/tossed-tuna-and-furloughed-workers-midtowns-frozen-zone-scrapes-by.html" rel="standout"></atom:link>
+      <description>For nearly three weeks, restaurants and other small businesses in the shadow of the former Pfizer building were shut when the tower began to buckle.</description>
+      <dc:creator>Sarah Maslin Nir</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 15:50:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sushi Yasuda (Manhattan, NY, Restaurant)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30met-frozen-zone-04-btvk/30met-frozen-zone-04-btvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angelina Katsanis for The New York Times</media:credit>
+      <media:description>Restaurants, a hotel and many small businesses dot the stretch of 43rd Street that had remained closed for nearly three weeks after the former Pfizer building became dangerously unstable. Izakaya Futago had to toss fresh fish and furlough workers.</media:description>
     </item>
     <item>
       <title>Rollout of New York City’s Second-Home Tax Is Confusing Some Residents</title>
@@ -193,22 +211,26 @@
       <media:description>The rollout of a new second-home tax caused some anxiety this week.</media:description>
     </item>
     <item>
-      <title>Tossed Tuna and Furloughed Workers: Midtown’s ‘Frozen Zone’ Scrapes By</title>
-      <link>https://www.nytimes.com/2026/07/30/nyregion/tossed-tuna-and-furloughed-workers-midtowns-frozen-zone-scrapes-by.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/nyregion/tossed-tuna-and-furloughed-workers-midtowns-frozen-zone-scrapes-by.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/nyregion/tossed-tuna-and-furloughed-workers-midtowns-frozen-zone-scrapes-by.html" rel="standout"></atom:link>
-      <description>For nearly three weeks, restaurants and other small businesses in the shadow of the former Pfizer building were shut when the tower began to buckle.</description>
-      <dc:creator>Sarah Maslin Nir</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 15:50:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sushi Yasuda (Manhattan, NY, Restaurant)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30met-frozen-zone-04-btvk/30met-frozen-zone-04-btvk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Angelina Katsanis for The New York Times</media:credit>
-      <media:description>Restaurants, a hotel and many small businesses dot the stretch of 43rd Street that had remained closed for nearly three weeks after the former Pfizer building became dangerously unstable. Izakaya Futago had to toss fresh fish and furlough workers.</media:description>
+      <title>Divers Search a New Jersey River for Second of 2 Children They Fear Drowned</title>
+      <link>https://www.nytimes.com/2026/07/31/nyregion/passaic-river-new-jersey-drownings.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/nyregion/passaic-river-new-jersey-drownings.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/31/nyregion/passaic-river-new-jersey-drownings.html" rel="standout"></atom:link>
+      <description>A girl, 10, was still missing in the Passaic River on Friday, nearly two days after she was swept away. The body of a boy the same age was recovered earlier; another girl, 11, was rescued.</description>
+      <dc:creator>Neil Vigdor</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 21:52:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diving and Divers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Passaic River (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Passaic (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31xp-passaic-pjwk/31xp-passaic-pjwk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Julian Leshay Guadalupe/NorthJersey.com</media:credit>
+      <media:description>Divers searched on Thursday for a 10-year-old girl who was swept into the Passaic River. The body of a boy, also 10, who was with her was recovered on Wednesday, the authorities said.</media:description>
     </item>
     <item>
       <title>Next Met Gala Show Will Honor John Galliano, Celebrated Designer Infamous for Antisemitic Rant</title>
@@ -217,7 +239,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/style/met-gala-costume-institute-john-galliano.html" rel="standout"></atom:link>
       <description>As famous for his antisemitic rant in 2011 as he is for his fashion, Galliano would be one of only three living designers ever to receive the honor.</description>
       <dc:creator>Vanessa Friedman</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 21:08:55 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 21:08:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Met Gala</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Galliano, John</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wintour, Anna</category>
@@ -385,26 +407,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anonymous Hair Salon (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">SoHo (Manhattan, NY)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/29SOHO-HAIR-SALON-02-mfcg/29SOHO-HAIR-SALON-02-mfcg-mediumSquareAt3X.jpg" width="1800"></media:content>
-    </item>
-    <item>
-      <title>Books That Illuminate New York’s Forgotten History</title>
-      <link>https://www.nytimes.com/2026/07/30/books/new-york-books-historical-fiction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/books/new-york-books-historical-fiction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/books/new-york-books-historical-fiction.html" rel="standout"></atom:link>
-      <description>The best-selling authors Marie Benedict and Victoria Christopher Murray recommend gripping books that illuminate hidden chapters of the city’s past.</description>
-      <dc:creator>Marie Benedict and Victoria Christopher Murray</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:00:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">genre-books-historical-fiction</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Glaser, Karina Yan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Highsmith, Patricia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Larsen, Nella</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marshall, Paule</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moore, Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Whitehead, Colson</category>
-      <media:content height="1400" medium="image" url="https://static01.nyt.com/images/2026/06/18/books/18TBR-HISTORICALFICTIONLIST-NewYork/18TBR-HISTORICALFICTIONLIST-NewYork-mediumSquareAt3X.jpg" width="1400"></media:content>
-      <media:credit>The New York Times; Author photos by Jen Barker Worley Photography LLC</media:credit>
     </item>
   </channel>
 </rss>

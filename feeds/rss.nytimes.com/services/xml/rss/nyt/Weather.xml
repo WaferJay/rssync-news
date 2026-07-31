@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 21:33:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 23:27:15 +0000</lastBuildDate>
     <pubDate>Fri, 31 Jul 2026 18:11:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -30,7 +30,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/weather/2026-07-30-outlooks-heat-index-promo/2026-07-30-outlooks-heat-index-promo-mediumSquareAt3X-v43.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/weather/2026-07-30-outlooks-heat-index-promo/2026-07-30-outlooks-heat-index-promo-mediumSquareAt3X-v45.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -467,29 +467,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/multimedia/25int-europe-fires-wtk-mjqc/25int-europe-fires-wtk-mjqc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stephane Mahe/Reuters</media:credit>
       <media:description>Firefighters in Lège-Cap-Ferret, France, less than 30 miles west of Bordeaux, on Friday.</media:description>
-    </item>
-    <item>
-      <title>Critical Wildfire Weather in Oregon, Idaho and Washington</title>
-      <link>https://www.nytimes.com/2026/07/24/weather/oregon-wildfire-update-washington.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/weather/oregon-wildfire-update-washington.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/weather/oregon-wildfire-update-washington.html" rel="standout"></atom:link>
-      <description>Forecasters warned fires would spread more easily across a region where dozens are already burning.</description>
-      <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 20:04:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Interagency Fire Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bend (Ore)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boise (Idaho)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/24/weather/2026-07-24-outlooks-fire-index-promo/2026-07-24-outlooks-fire-index-promo-mediumSquareAt3X-v73.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
