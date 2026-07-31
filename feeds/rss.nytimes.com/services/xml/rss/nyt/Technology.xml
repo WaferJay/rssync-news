@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 30 Jul 2026 22:27:48 +0000</lastBuildDate>
-    <pubDate>Thu, 30 Jul 2026 22:27:23 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:55:55 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 00:17:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -97,13 +97,31 @@
       <media:credit>Sisi Yu</media:credit>
     </item>
     <item>
+      <title>Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations</title>
+      <link>https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html" rel="standout"></atom:link>
+      <description>The disclosure followed OpenAI’s report last week that its own artificial intelligence had hacked into the network of an online library.</description>
+      <dc:creator>Mike Isaac and Kate Conger</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 00:17:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-anthropic-hack-lmtk/30biz-anthropic-hack-lmtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>A lectern bearing the logo of Anthropic, which did not disclose the identity of the organizations that its artificial intelligence systems had breached. </media:description>
+    </item>
+    <item>
       <title>Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint</title>
       <link>https://www.nytimes.com/2026/07/30/technology/apple-earnings.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/apple-earnings.html</guid>
       <atom:link href="https://www.nytimes.com/2026/07/30/technology/apple-earnings.html" rel="standout"></atom:link>
       <description>The company recently raised prices on a number of products because of component supply shortages caused by the artificial intelligence boom.</description>
       <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 22:27:23 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 22:27:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -115,7 +133,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ternus, John</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/APPLE-EARNIGNS-1-cqjp/APPLE-EARNIGNS-1-cqjp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>Apple regained its spot as the world’s most valuable publicly traded company earlier this week.</media:description>
+      <media:description>Apple regained its spot as the world’s most valuable publicly traded company this week.</media:description>
     </item>
     <item>
       <title>U.S. Government Mislabels Map of African Countries at AIDS Conference</title>
@@ -686,28 +704,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Udio (Uncharted Labs Inc)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-design</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-    </item>
-    <item>
-      <title>Judge Extends Pause for Paramount-Warner Bros. Deal</title>
-      <link>https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/technology/judge-paramount-warner-bros-deal.html" rel="standout"></atom:link>
-      <description>The court blocked the companies from closing the acquisition through mid-August, as a judge considers two lawsuits challenging it.</description>
-      <dc:creator>David McCabe</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 00:54:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/multimedia/23biz-paramount-1-bflz/23biz-paramount-1-bflz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
-      <media:description>The Paramount lot in Los Angeles.</media:description>
     </item>
   </channel>
 </rss>
