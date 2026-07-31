@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 10:57:09 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 10:39:51 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 13:09:30 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 13:03:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -97,6 +97,24 @@
       <media:credit>Sisi Yu</media:credit>
     </item>
     <item>
+      <title>Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight</title>
+      <link>https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html" rel="standout"></atom:link>
+      <description>“It just seems like the temperature is rising on Silicon Valley.”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Rowan Niemisto, Chris Wood and Alyssa Moxley</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stapleton, Claire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Substack Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/podcasts/31hardfork-openletters/31hardfork-openletters-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
       <title>Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble</title>
       <link>https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html</guid>
@@ -123,7 +141,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html" rel="standout"></atom:link>
       <description>Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.</description>
       <dc:creator>Alex Vadukul</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 09:04:17 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 11:55:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Errands (Web-Original Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blau, Noah</category>
@@ -173,7 +191,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html" rel="standout"></atom:link>
       <description>The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.</description>
       <dc:creator>Jack Ewing and Jim Tankersley</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 09:02:23 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 11:17:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -238,7 +256,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html" rel="standout"></atom:link>
       <description>Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.</description>
       <dc:creator>Stuart A. Thompson</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 09:00:32 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 13:03:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blaze, The</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
@@ -813,42 +831,6 @@
       <pubDate>Sat, 25 Jul 2026 13:10:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bar Codes</category>
-    </item>
-    <item>
-      <title>Meta Launches New Facebook Marketplace App Called Seller</title>
-      <link>https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/technology/meta-facebook-marketplace-seller.html" rel="standout"></atom:link>
-      <description>Seller is part of the Silicon Valley company’s strategy to innovate on its original social network.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 17:44:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24biz-facebook-marketplace-1-flpt/24biz-facebook-marketplace-1-flpt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ian C. Bates for The New York Times</media:credit>
-      <media:description>The Menlo Park, Calif., headquarters of Meta, which introduced a stand-alone app for Facebook Marketplace sellers on Friday. </media:description>
-    </item>
-    <item>
-      <title>OpenAI Models Go Rogue + Kimi K3 Freakout + A.I. Superforecasting</title>
-      <link>https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/podcasts/hardfork-hugging-face-openai.html" rel="standout"></atom:link>
-      <description>“The story that we’re talking about in this segment was science fiction until Tuesday, OK?”</description>
-      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Davis Land, John Woo, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Leah Shaw Dameron</dc:creator>
-      <pubDate>Fri, 24 Jul 2026 11:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/podcasts/24hardfork-openai-hug/24hardfork-openai-hug-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
