@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 17:57:16 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 17:25:34 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:55:46 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 19:31:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,12 +21,15 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/media/adults-fx-prequel-season-2.html" rel="standout"></atom:link>
       <description>Many viewers turned away from “Adults” after an over-the-top scene in the show’s first episode, so FX made a new one.</description>
       <dc:creator>John Koblin</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 17:00:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">FX (TV Network)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Adults (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hulu.com</category>
+      <pubDate>Fri, 31 Jul 2026 18:11:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Adults (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">FX (TV Network)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hulu.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kronengold, Ben</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shaw, Rebecca (Screenwriter)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/30/business/00biz-adults-1-02/00biz-adults-1-02-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael Gibson/FX</media:credit>
       <media:description>From left, Owen Thiele, Lucy Freyer, Malik Elassal, Amita Rao and Jack Innanen in the first episode of Season 1 of “Adults” on FX.</media:description>
@@ -38,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/media/washington-post-opinion-editor-resigns-after-1-year.html" rel="standout"></atom:link>
       <description>Adam O’Neal inherited a mandate from the paper’s owner, Jeff Bezos, to shift toward “personal liberties and free markets.”</description>
       <dc:creator>Erik Wemple</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 17:25:34 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 19:14:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
@@ -57,7 +60,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html" rel="standout"></atom:link>
       <description>Companies are seizing on what many say is perhaps the most favorable regulatory environment for businesses in years.</description>
       <dc:creator>Lauren Hirsch</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 15:34:31 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 18:21:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
@@ -316,7 +319,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/korea-stocks-chips-kospi.html" rel="standout"></atom:link>
       <description>South Korea’s KOSPI index has swung wildly because of both the enthusiasm and anxiety related to investing in the global artificial intelligence boom.</description>
       <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 14:57:04 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 19:31:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kospi Stock Index (South Korea)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
@@ -373,17 +376,16 @@
       <description>Transparency around pulling affected lettuce from stores has helped Taco Bell regain consumer trust, its parent company, Yum Brands, said.</description>
       <dc:creator>Julie Creswell</dc:creator>
       <pubDate>Thu, 30 Jul 2026 17:56:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclospora (Parasite)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclospora (Parasite)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tacos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yum Brands Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pizza Hut</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kentucky Fried Chicken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-yum-earnings-klzv/30biz-yum-earnings-klzv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nick Hagen for The New York Times</media:credit>
       <media:description>Executives at Yum Brands, which owns Taco Bell, said Thursday that the restaurant chain was showing signs of moving past its link to a cyclosporiasis outbreak.</media:description>
@@ -576,15 +578,11 @@
       <description>An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.</description>
       <dc:creator>Brian X. Chen</dc:creator>
       <pubDate>Thu, 30 Jul 2026 09:03:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoom Video Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/business/00techfix/00techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sisi Yu</media:credit>
     </item>

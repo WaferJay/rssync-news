@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 17:57:00 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 17:49:56 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 19:55:49 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 19:11:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -286,7 +286,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html" rel="standout"></atom:link>
       <description>Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”</description>
       <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 19:53:44 +0000</pubDate>
+      <pubDate>Thu, 30 Jul 2026 19:53:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -296,7 +296,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30xp-map-zlwm/30xp-map-zlwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Picture Obtained By Reuters/UGC</media:credit>
       <media:description>A map presented by the State Department at AIDS 2026, a conference in Brazil this week. </media:description>
@@ -308,25 +308,15 @@
       <atom:link href="https://www.nytimes.com/2026/07/30/world/canada/wrongful-conviction-kik-username-underscore.html" rel="standout"></atom:link>
       <description>An appeals court in Canada acquitted Brandon Klayme of charges related to child sexual abuse imagery. His Kik username had one less underscore than another account that was involved.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 20:51:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <pubDate>Thu, 30 Jul 2026 20:51:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Pornography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">False Arrests, Convictions and Imprisonments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Indecency, Obscenity and Profanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kik Messenger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dane County (Wis)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Halifax (Nova Scotia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison (Wis)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nova Scotia (Canada)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/29/obituaries/29xp-acquittal-1/29xp-acquittal-1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adrian Wyld/The Canadian Press, via ZUMA Press</media:credit>
       <media:description>The Nova Scotia provincial flag. Prosecutors in Nova Scotia acknowledged the conviction had been flawed.</media:description>
@@ -339,15 +329,11 @@
       <description>An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.</description>
       <dc:creator>Brian X. Chen</dc:creator>
       <pubDate>Thu, 30 Jul 2026 09:03:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoom Video Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/business/00techfix/00techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sisi Yu</media:credit>
     </item>
