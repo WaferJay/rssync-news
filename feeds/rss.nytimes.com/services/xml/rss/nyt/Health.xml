@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 13:05:07 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 12:50:01 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 15:30:25 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 13:23:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/health</link>
     </image>
+    <item>
+      <title>Military Testosterone Policy Raises Questions About Its Links to Aggression</title>
+      <link>https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html" rel="standout"></atom:link>
+      <description>A new policy raises questions about testosterone’s effect on aggression in some men.</description>
+      <dc:creator>Azeen Ghorayshi</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 11:27:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Testosterone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aggression (Behavior)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/30Sci-testosterone-aggression-04-mclt/30Sci-testosterone-aggression-04-mclt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Recent evidence points to a condition called “operator syndrome,” a pattern of medical problems, including decreased testosterone, that those who have served long stretches in special operations units are more likely to report.</media:description>
+    </item>
     <item>
       <title>What We Know About Dr. Fauci Pleading the Fifth in Senate Hearing on Covid Origins</title>
       <link>https://www.nytimes.com/2026/07/30/health/fauci-allegations-covid-origins.html</link>
@@ -117,23 +134,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30trump-news-health-nominees-topart-ctbm/30trump-news-health-nominees-topart-ctbm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Dr. Erica Schwartz during her nomination hearing in front of the Senate Committee on Health, Labor and Pensions in Washington earlier this month.</media:description>
-    </item>
-    <item>
-      <title>Military Testosterone Policy Raises Questions About Its Links to Aggression</title>
-      <link>https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/science/testosterone-behavior-aggression.html" rel="standout"></atom:link>
-      <description>A new policy raises questions about testosterone’s effect on aggression in some men.</description>
-      <dc:creator>Azeen Ghorayshi</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 11:27:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Testosterone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hormones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aggression (Behavior)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/30Sci-testosterone-aggression-04-mclt/30Sci-testosterone-aggression-04-mclt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Recent evidence points to a condition called “operator syndrome,” a pattern of medical problems, including decreased testosterone, that those who have served long stretches in special operations units are more likely to report.</media:description>
     </item>
     <item>
       <title>Fauci Pleads the Fifth, Refusing to Answer Questions on Covid Origins at Senate Hearing</title>

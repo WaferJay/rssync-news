@@ -7,13 +7,26 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 13:09:30 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 13:03:42 +0000</pubDate>
+    <lastBuildDate>Fri, 31 Jul 2026 15:32:33 +0000</lastBuildDate>
+    <pubDate>Fri, 31 Jul 2026 15:28:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?</title>
+      <link>https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html" rel="standout"></atom:link>
+      <description>Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.</description>
+      <dc:creator>Jonathan Mahler, Jim Rutenberg and Kirsten Grind</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 09:03:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Lawrence J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oracle Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+    </item>
     <item>
       <title>Why an A.I. Bubble Might Not Be a Bad Thing</title>
       <link>https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html</link>
@@ -57,44 +70,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-bigtech-earnings-vqmc/30biz-bigtech-earnings-vqmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christie Hemm Klok for The New York Times</media:credit>
       <media:description>Meta’s Eagle Mountain Data Center in Utah. Meta, Amazon, Google and Microsoft are expected to spend $1.5 trillion building data centers through next year.</media:description>
-    </item>
-    <item>
-      <title>When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic</title>
-      <link>https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html" rel="standout"></atom:link>
-      <description>An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.</description>
-      <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 11:03:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archive of Our Own (Web Site)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-    </item>
-    <item>
-      <title>Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.</title>
-      <link>https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html" rel="standout"></atom:link>
-      <description>An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.</description>
-      <dc:creator>Brian X. Chen</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 09:03:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoom Video Communications</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/business/00techfix/00techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sisi Yu</media:credit>
     </item>
     <item>
       <title>Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight</title>
@@ -141,28 +116,17 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html" rel="standout"></atom:link>
       <description>Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.</description>
       <dc:creator>Alex Vadukul</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 11:55:25 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 11:55:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Errands (Web-Original Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blau, Noah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blau, Noah (2000- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wolk, Ivy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bushwick (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/02/fashion/30ST-ERRANDS-01-wgcj/30ST-ERRANDS-01-wgcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lanna Apisukh for The New York Times</media:credit>
       <media:description>Noah Blau, the creator of the online video series “Errands,” and Aitana Doyle, an actress, on the streets of Bushwick in Brooklyn, during the making of a recent episode.</media:description>
-    </item>
-    <item>
-      <title>Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?</title>
-      <link>https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html" rel="standout"></atom:link>
-      <description>Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.</description>
-      <dc:creator>Jonathan Mahler, Jim Rutenberg and Kirsten Grind</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 09:03:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Lawrence J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oracle Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
     </item>
     <item>
       <title>What You Need to Know About Installing Plug-In Solar Panels</title>
@@ -256,7 +220,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/us/politics/trump-iran-economy-media-critics.html" rel="standout"></atom:link>
       <description>Once united in support of President Trump, right-wing influencers are embroiled in feuds and losing viewers, creating a problem for Republicans in the midterm elections.</description>
       <dc:creator>Stuart A. Thompson</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 13:03:42 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 15:28:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blaze, The</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fox News Channel</category>
@@ -367,6 +331,26 @@
       <media:description>The Nova Scotia provincial flag. Prosecutors in Nova Scotia acknowledged the conviction had been flawed.</media:description>
     </item>
     <item>
+      <title>Apple’s Siri Got an A.I. Brain Transplant. Try These 5 Prompts to Get Acclimated.</title>
+      <link>https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/technology/personaltech/apple-siri-ai-prompts.html" rel="standout"></atom:link>
+      <description>An upgrade transformed the beleaguered virtual assistant into a modern chatbot. It’s imperfect but worth trying.</description>
+      <dc:creator>Brian X. Chen</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 09:03:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Videophones and Videoconferencing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zoom Video Communications</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/business/00techfix/00techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sisi Yu</media:credit>
+    </item>
+    <item>
       <title>A Bay Area Pastor Made an A.I. Twin to Talk About God at Any Time</title>
       <link>https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/ai-twin-pastor-justin-lester-california-church.html</guid>
@@ -385,6 +369,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco Bay Area (Calif)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/26digital-twins-promo/26digital-twins-01-glzf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Erin Schaff/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>When A.I. Invaded ‘Heated Rivalry’ Fan Fiction, the Meltdown Was Epic</title>
+      <link>https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/technology/ai-heated-rivalry-fan-fiction.html" rel="standout"></atom:link>
+      <description>An anonymous X account posted a detailed breakdown of chatbot text in 38 popular stories inspired by the hockey romance. The fandom spiraled.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 11:03:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archive of Our Own (Web Site)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
     </item>
     <item>
       <title>Microsoft Increases Spending on A.I. as Profit Jumps 31%</title>

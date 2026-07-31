@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 31 Jul 2026 13:10:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 31 Jul 2026 15:33:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -418,20 +418,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deed/live/a50e5120-8b66-11f1-b8ee-9b3c26ad07bb.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Documentary Podcast]]></title>
+            <description><![CDATA[Ed Butler investigates one of Europe’s most wanted drug smugglers]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/p0p1b25p?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0p1b25p#8</guid>
+            <pubDate>Wed, 29 Jul 2026 00:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p0mdmt.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Things need to change': The campaign for women's minister]]></title>
             <description><![CDATA[Eimear, Pearse, Aoísha and Devyn from Ballycastle want to see a change in how women are protected in NI.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c20j1l232k7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c20j1l232k7o#8</guid>
             <pubDate>Tue, 28 Jul 2026 05:45:16 GMT</pubDate>
             <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/010e/live/2201a370-89d8-11f1-b2ab-0dd01740f9f6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Assignment]]></title>
-            <description><![CDATA[We follow a lawyer and a nurse who are building this unprecedented case]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8h1g?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8h1g#8</guid>
-            <pubDate>Tue, 28 Jul 2026 02:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p14k8h.jpg"/>
         </item>
     </channel>
 </rss>
