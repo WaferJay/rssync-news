@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 15:28:56 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 14:07:28 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:27:22 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 17:25:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>‘Spider-Man’ Heads for $875 Million Global Opening, Defying Superhero Slump</title>
+      <link>https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html" rel="standout"></atom:link>
+      <description>The movie, the 11th big-budget Spider-Man movie since 2002, was on pace to have one of the biggest domestic first weekends ever.</description>
+      <dc:creator>Brooks Barnes</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 17:20:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Reviews</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spider-Man (Fictional Character)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sony Pictures Entertainment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holland, Tom (1996- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Spider-Man: Brand New Day (Movie)</category>
+    </item>
     <item>
       <title>The High-Stakes Battle for Invisible Real Estate in Space</title>
       <link>https://www.nytimes.com/2026/08/01/business/dealbook/spacex-spectrum-battle.html</link>
@@ -120,8 +136,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aschenbrenner, Leopold</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffin, Kenneth C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Situational Awareness LP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffin, Kenneth C</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citadel Investment Group</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/Biz-Situational-Awareness-twfz/Biz-Situational-Awareness-twfz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicholas Albrecht for The New York Times</media:credit>
@@ -157,11 +173,14 @@
       <description>The Federal Reserve has met at least eight times a year for decades. Reducing the number of meetings would represent the biggest change by Kevin M. Warsh since he became chairman.</description>
       <dc:creator>Colby Smith and Ben Casselman</dc:creator>
       <pubDate>Sat, 01 Aug 2026 00:26:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Open Market Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31dc-fed-meet-lvbz/31dc-fed-meet-lvbz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anna Rose Layden for The New York Times</media:credit>
       <media:description>Kevin M. Warsh, who took over as chairman of the Federal Reserve in May, is said to have raised the idea of changing the frequency of Fed meetings at its gathering this week.</media:description>
@@ -194,13 +213,13 @@
       <description>Adam O’Neal inherited a mandate from the paper’s owner, Jeff Bezos, to shift toward “personal liberties and free markets.”</description>
       <dc:creator>Erik Wemple</dc:creator>
       <pubDate>Fri, 31 Jul 2026 19:14:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">D&#39;Onofrio, Jeff</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O&#39;Neal, Adam (Journalist)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31BIZ-WAPO-1-qfwt/31BIZ-WAPO-1-qfwt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael A. McCoy for The New York Times</media:credit>
       <media:description>The Washington Post office building.</media:description>
@@ -255,13 +274,13 @@
       <dc:creator>Colby Smith</dc:creator>
       <pubDate>Fri, 31 Jul 2026 16:16:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31dc-fed-dissent-qfgp/31dc-fed-dissent-qfgp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Disagreement inside the Federal Reserve has materialized early in Kevin M. Warsh’s tenure as chairman.</media:description>
@@ -974,32 +993,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29dc-fed-jbqz/29dc-fed-jbqz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evelyn Hockstein/Reuters</media:credit>
       <media:description>Kevin M. Warsh, chairman of the Federal Reserve, opened his news conference on Wednesday by saying that “where necessary and appropriate, we will not hesitate to act.”</media:description>
-    </item>
-    <item>
-      <title>Shipping Risks Spread Across Crucial Middle East Oil Routes</title>
-      <link>https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/business/iran-war-hormuz-red-sea-shipping.html" rel="standout"></atom:link>
-      <description>Attacks on ships in the Strait of Hormuz and the Bab al-Mandab Strait are disrupting the passage of oil tankers in the Persian Gulf and the Red Sea.</description>
-      <dc:creator>Jenny Gross and Peter Eavis</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 17:51:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29Biz-Iran-Shipping-plmk/29Biz-Iran-Shipping-plmk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Khaled Ziad/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Vessels transiting the Bab al-Mandab Strait off the coast of Yemen. The passageway has become an alternative route for Saudi Arabia to ship oil.</media:description>
     </item>
   </channel>
 </rss>

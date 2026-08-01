@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 15:28:04 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 15:07:53 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:24:58 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 16:48:03 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
+    <item>
+      <title>Baby’s First R-Rated Blockbuster</title>
+      <link>https://www.nytimes.com/2026/08/01/nyregion/baby-movie-showings-parents.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/nyregion/baby-movie-showings-parents.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/nyregion/baby-movie-showings-parents.html" rel="standout"></atom:link>
+      <description>“The Odyssey” is selling out in all formats at all times of day. Even at morning screenings, which are packed with newborns and parents desperate to feel “normal.”</description>
+      <dc:creator>Andrew Keh</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 07:00:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alamo Drafthouse Cinema</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nitehawk Cinema (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
+      <media:content height="1308" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/baby-cinema-01-hcbf/baby-cinema-01-hcbf-mediumSquareAt3X.jpg" width="1308"></media:content>
+      <media:credit>Kent J. Edwards for The New York Times</media:credit>
+      <media:description>At the Alamo Drafthouse in Downtown Brooklyn, early morning screenings for “The Odyssey” drew a young crowd. </media:description>
+    </item>
     <item>
       <title>The Bagpiper’s Endless Quest for a Place to Practice</title>
       <link>https://www.nytimes.com/2026/08/01/nyregion/bagpipes-new-york.html</link>
@@ -35,26 +55,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Prospect Park (Brooklyn, NY)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/nyregion/09BAGPIPES-PROMO-01-fltc/BAGPIPES-PROMO-01-fltc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jonah Markowitz for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Baby’s First R-Rated Blockbuster</title>
-      <link>https://www.nytimes.com/2026/08/01/nyregion/baby-movie-showings-parents.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/nyregion/baby-movie-showings-parents.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/nyregion/baby-movie-showings-parents.html" rel="standout"></atom:link>
-      <description>“The Odyssey” is selling out in all formats at all times of day. Even at morning screenings, which are packed with newborns and parents desperate to feel “normal.”</description>
-      <dc:creator>Andrew Keh</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 07:00:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alamo Drafthouse Cinema</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nitehawk Cinema (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
-      <media:content height="1308" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/baby-cinema-01-hcbf/baby-cinema-01-hcbf-mediumSquareAt3X.jpg" width="1308"></media:content>
-      <media:credit>Kent J. Edwards for The New York Times</media:credit>
-      <media:description>At the Alamo Drafthouse in Downtown Brooklyn, early morning screenings for “The Odyssey” drew a young crowd. </media:description>
     </item>
     <item>
       <title>‘Where Are the Kids?’: Caregivers Charged After Twin Starves to Death</title>
@@ -148,7 +148,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/nyregion/suny-howard-students-hochul.html" rel="standout"></atom:link>
       <description>The Washington, D.C., university told incoming freshmen who missed a tuition deadline that they no longer had a spot. But they now can attend a New York State school or CUNY.</description>
       <dc:creator>Caitlyn Freeman</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 07:00:11 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2026 16:26:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuition</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Historically Black Colleges and Universities</category>
@@ -282,13 +282,12 @@
       <pubDate>Fri, 31 Jul 2026 09:01:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tony Awards (Theater Awards)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Death of a Salesman (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Moulin Rouge!: The Musical (Play)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Ragtime (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Titanique (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Moulin Rouge!: The Musical (Play)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Cats: The Jellicle Ball (Play)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Every Brilliant Thing (Play)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Titanique (Play)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31last-chance-print-death-tzpq/31last-chance-print-death-tzpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sara Krulwich/The New York Times</media:credit>
     </item>
