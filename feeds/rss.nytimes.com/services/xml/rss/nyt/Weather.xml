@@ -7,13 +7,56 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 31 Jul 2026 23:27:15 +0000</lastBuildDate>
-    <pubDate>Fri, 31 Jul 2026 18:11:39 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 04:43:20 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 04:01:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Extreme Heat Has Transformed What Summer Means Across Generations in Europe</title>
+      <link>https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html" rel="standout"></atom:link>
+      <description>Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.</description>
+      <dc:creator>Jim Tankersley and Tatiana Firsova</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 04:01:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/00int-Europe-Heat-Generation-01-gbzh/00int-Europe-Heat-Generation-01-gbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
+      <media:description>Krumme Lanke lake on a hot day in Berlin this summer.</media:description>
+    </item>
+    <item>
+      <title>Japan’s Rescuers Battle Cruel Heat After Major Earthquake</title>
+      <link>https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html" rel="standout"></atom:link>
+      <description>Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.</description>
+      <dc:creator>River Akira Davis, Hisako Ueno, Kiuko Notoya and Chang W. Lee</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 04:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto Prefecture (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01int-japan-quake-dispatch-01-kvgj/01int-japan-quake-dispatch-01-kvgj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>A woman collecting water on Friday from a stream near a home that collapsed after this week’s earthquake in Kumamoto Prefecture, Japan. </media:description>
+    </item>
     <item>
       <title>The Western United States Is Facing a Weekend of Record Heat</title>
       <link>https://www.nytimes.com/2026/07/31/weather/california-western-us-heat.html</link>
