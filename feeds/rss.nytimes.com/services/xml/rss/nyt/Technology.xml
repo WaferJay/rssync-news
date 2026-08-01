@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 10:09:29 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 02:41:12 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 14:00:13 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 13:14:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -155,7 +155,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html" rel="standout"></atom:link>
       <description>The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.</description>
       <dc:creator>Jack Ewing and Jim Tankersley</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 11:17:26 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2026 13:14:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
@@ -778,37 +778,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/26/multimedia/23SAMMY-NUSSDORF-01-bfcj/23SAMMY-NUSSDORF-01-bfcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris Perez for The New York Times</media:credit>
       <media:description>Sammy Nussdorf’s gourmet food market on Greenwich Street in Manhattan has drawn crowds while also inspiring an online backlash.</media:description>
-    </item>
-    <item>
-      <title>Silicon Valley Splits Over Closing the Borders to Chinese A.I.</title>
-      <link>https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/25/technology/open-source-silicon-valley-china.html" rel="standout"></atom:link>
-      <description>Anthropic and OpenAI are clashing with the rest of the tech industry over whether “open-source” models from China should be freely available or restricted.</description>
-      <dc:creator>Mike Isaac, Kate Conger, Ana Swanson and Meaghan Tobin</dc:creator>
-      <pubDate>Sat, 25 Jul 2026 20:07:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/00biz-ai-open-source-china-02-gtqc/00biz-ai-open-source-china-02-gtqc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hector Retamal/Agence France-Presse — Getty Images</media:credit>
-      <media:description>In the last few weeks, the Chinese start-ups Z.ai and Moonshot AI released artificial intelligence models that rival those from American labs.</media:description>
     </item>
   </channel>
 </rss>
