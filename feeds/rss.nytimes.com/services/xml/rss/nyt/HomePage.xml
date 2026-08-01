@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 22:10:46 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 21:23:42 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 23:12:11 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 22:59:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -45,7 +45,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html" rel="standout"></atom:link>
       <description>President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.</description>
       <dc:creator>Pooja Salhotra</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 19:52:51 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2026 22:49:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
@@ -186,6 +186,27 @@
       <media:content height="1333" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01dc-cyberattack-topart-fgpz/01dc-cyberattack-topart-fgpz-mediumSquareAt3X.jpg" width="1333"></media:content>
       <media:credit>Erin Kirkland for The New York Times</media:credit>
       <media:description>Michigan officials said some of their water systems had been affected but continued to operate safely.</media:description>
+    </item>
+    <item>
+      <title>Mitch McConnell, Still Hospitalized, Misses Signature Kentucky Political Picnic</title>
+      <link>https://www.nytimes.com/2026/08/01/us/mitch-mcconnell-kentucky-republicans.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/us/mitch-mcconnell-kentucky-republicans.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/us/mitch-mcconnell-kentucky-republicans.html" rel="standout"></atom:link>
+      <description>Senator Mitch McConnell’s ongoing hospitalization meant he missed his final chance to attend the signature western Kentucky event while in office.</description>
+      <dc:creator>Emily Cochrane and Jon Cherry</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 22:59:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Picnics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beshear, Andrew G (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paducah (Ky)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01nat-fancyfarm-06-bwjm/01nat-fancyfarm-06-bwjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>James Comer supporters look on at the 146th St. Jerome Picnic.</media:description>
     </item>
     <item>
       <title>She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.</title>
