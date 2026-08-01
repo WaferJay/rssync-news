@@ -3,17 +3,65 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1785613248571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 19:40:48 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 19:32:03 +0000</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2026 21:12:46 +0000</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2026 20:14:09 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Trump Calls for $1.8 Billion Fund Over Blanche Attorney General Fight</title>
+      <link>https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html" rel="standout"></atom:link>
+      <description>The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.</description>
+      <dc:creator>Mark Walker</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 20:14:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Weaponization Fund (Trump v IRS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01xp-fund-mgcj/01xp-fund-mgcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>President Trump departing for Bedminster, N.J. Over the weekend, Mr. Trump raised the prospect of resurrecting a $1.8 billion supporter fund as negotiations stalled over Todd Blanche’s nomination for attorney general.</media:description>
+    </item>
+    <item>
+      <title>Timeline of Trump’s Lincoln Memorial Reflecting Pool Renovation Saga</title>
+      <link>https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/us/reflecting-pool-trump-timeline.html" rel="standout"></atom:link>
+      <description>President Trump vowed to restore the Reflecting Pool, a defining feature of Washington. Months later, it is empty and closed to the public.</description>
+      <dc:creator>Pooja Salhotra</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 19:52:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Algae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Greenwater Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlantic Industrial Coatings LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pirro, Jeanine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01nat-reflecting-pool-timeline-topart-pqbf/01nat-reflecting-pool-timeline-topart-pqbf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Salwan Georges for The New York Times</media:credit>
+      <media:description>The Lincoln Memorial Reflecting Pool sat empty and fenced in last month, after what prosecutors said was a “botched” renovation.</media:description>
+    </item>
     <item>
       <title>Trump’s Polling Numbers Hit a New Low. Don’t Expect Him to Change Course.</title>
       <link>https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html</link>
@@ -89,7 +137,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html" rel="standout"></atom:link>
       <description>Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.</description>
       <dc:creator>Dustin Volz and Ernesto Londoño</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 14:46:38 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2026 19:54:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
@@ -134,7 +182,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/us/politics/trump-iran-war-toll-oil-fact-check.html" rel="standout"></atom:link>
       <description>The president misleadingly blamed the Biden administration’s weapons transfers to Ukraine for current concerns over munitions stockpiles, among other claims about the Iran war.</description>
       <dc:creator>Linda Qiu</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 09:02:16 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2026 20:13:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
@@ -408,78 +456,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00dc-headstart-jvhq/00dc-headstart-jvhq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rebecca Blackwell/Associated Press</media:credit>
       <media:description>A teacher at a Head Start program run by Easterseals South Florida instructing students on reading and writing. Head Start has served over 30 million children since it was created.</media:description>
-    </item>
-    <item>
-      <title>John Ali, Nation of Islam Official Who Clashed With Malcolm X, Dies at 98</title>
-      <link>https://www.nytimes.com/2026/07/31/us/john-ali-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/us/john-ali-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/us/john-ali-dead.html" rel="standout"></atom:link>
-      <description>He was widely suspected of being an F.B.I. informant and of playing a role in the 1965 assassination of Malcolm, the charismatic Black activist.</description>
-      <dc:creator>Clay Risen</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 20:28:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ali, John (1926-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights Movement (1954-68)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Malcolm X</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Muhammad, Elijah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nation of Islam</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30Ali-kpbw/30Ali-kpbw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bettmann Archive/Getty Images</media:credit>
-      <media:description>John Ali, back row center, the Nation of Islam’s de facto second-in-command, stands behind the group’s leader, Elijah Muhammad, and between Jabir Herbert Muhammad, left, Mr. Muhammad’s son, and James Shabazz during a news conference after the assassination of Malcolm X in February 1965.</media:description>
-    </item>
-    <item>
-      <title>Why Mitch McConnell Isn’t Giving Up His Senate Seat</title>
-      <link>https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/us/why-mitch-mcconnell-isnt-giving-up-his-senate-seat.html" rel="standout"></atom:link>
-      <description>Democrats are demanding that the Kentucky Republican resign. Others who were sidelined for far longer faced no such calls, but times are changing.</description>
-      <dc:creator>Carl Hulse</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 20:23:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McConnell, Mitch</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beshear, Andrew G (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31dc-mcconnell-gjvh/31dc-mcconnell-gjvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>Senator Mitch McConnell heading to a vote in May. </media:description>
-    </item>
-    <item>
-      <title>Nancy Guthrie Ransom Notes Released by Sheriff’s Department Searching for New Leads</title>
-      <link>https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html" rel="standout"></atom:link>
-      <description>The 84-year-old mother of Savannah Guthrie, the television news anchor, has been missing for nearly six months.</description>
-      <dc:creator>Nicholas Bogel-Burroughs</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 22:21:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guthrie, Nancy (1942- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pima County (Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tucson (Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guthrie, Savannah</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31nat-guthrie-notes-gwlm/31nat-guthrie-notes-gwlm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joe Raedle/Getty Images</media:credit>
-      <media:description>A memorial near the driveway to Nancy Guthrie’s residence in February in Tucson, Ariz.</media:description>
-    </item>
-    <item>
-      <title>Trump Blames Minnesota, Not Iran, for Cyberattack, Despite Initial Investigation</title>
-      <link>https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/us/politics/trump-minnesota-iran-cyberattack-walz.html" rel="standout"></atom:link>
-      <description>President Trump claimed without evidence that Minnesota’s Democratic government was “behind” a cyberattack on the state’s own water systems. Investigators believe Iran is likely responsible.</description>
-      <dc:creator>Chris Cameron</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 19:48:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberwarfare and Defense</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walz, Tim</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31trump-news-minnesota-topart-fjcl/31trump-news-minnesota-topart-fjcl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee for The New York Times</media:credit>
-      <media:description>Gov. Tim Walz of Minnesota said President Trump’s attempt to blame him for the cyberattack “further illustrates there’s no plan to win a war with Iran.”</media:description>
     </item>
   </channel>
 </rss>
