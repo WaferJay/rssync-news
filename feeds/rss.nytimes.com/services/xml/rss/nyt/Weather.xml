@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 07:42:16 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Aug 2026 05:29:22 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 10:11:53 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 08:44:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/weather/oregon-washington-fire.html" rel="standout"></atom:link>
       <description>Forecasters in Washington and Oregon are using their strongest language this weekend to signal a worst-case wildfire threat and get people’s attention.</description>
       <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 18:54:40 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 08:44:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
@@ -51,7 +51,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/31/weather/2026-07-31-outlooks-nwfire-index-promo/2026-07-31-outlooks-nwfire-index-promo-mediumSquareAt3X-v45.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/31/weather/2026-07-31-outlooks-nwfire-index-promo/2026-07-31-outlooks-nwfire-index-promo-mediumSquareAt3X-v51.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -145,7 +145,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/weather/2026-07-30-outlooks-heat-index-promo/2026-07-30-outlooks-heat-index-promo-mediumSquareAt3X-v77.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/weather/2026-07-30-outlooks-heat-index-promo/2026-07-30-outlooks-heat-index-promo-mediumSquareAt3X-v83.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -529,19 +529,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-fireclouds-tpbv/27europe-wildfires-fireclouds-tpbv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Romain Perrocheau/Agence France-Presse — Getty Images</media:credit>
       <media:description>Smoke from wildfires north of the Arcachon basin in southwestern France last week.</media:description>
-    </item>
-    <item>
-      <title>Europe Is Heating Up Again This Week. Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/07/26/weather/europe-heat-what-to-know.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/26/weather/europe-heat-what-to-know.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/26/weather/europe-heat-what-to-know.html" rel="standout"></atom:link>
-      <description>A new heat wave is forecast to hit the continent, piling the pressure on countries that are already fighting deadly wildfires that have forced hundreds of thousands to evacuate.</description>
-      <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Sun, 26 Jul 2026 09:39:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
     </item>
   </channel>
 </rss>

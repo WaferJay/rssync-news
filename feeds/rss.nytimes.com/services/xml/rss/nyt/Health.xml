@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 21:08:37 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 20:26:14 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 10:08:18 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 09:00:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -195,6 +195,26 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28biz-medicare-drugs-lzvk/28biz-medicare-drugs-lzvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Ending federal subsidies for Medicare drug plans could be politically damaging for Republicans in the midterm elections at a time when affordability is a major concern.</media:description>
+    </item>
+    <item>
+      <title>U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme</title>
+      <link>https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html" rel="standout"></atom:link>
+      <description>The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.</description>
+      <dc:creator>Stephanie Nolen</dc:creator>
+      <pubDate>Sun, 02 Aug 2026 09:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gavi, the Vaccine Alliance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00dc-state-health-funding-gfkl/00dc-state-health-funding-gfkl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>A camp for people displaced by violence and drought in Somalia’s southern Gedo region, seen in April.</media:description>
     </item>
     <item>
       <title>Prediction Market Betting on Drug Trials and Approvals Sparks Concern About Undermining Research</title>
@@ -417,28 +437,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/15/us/dc-teen-pregnancy/dc-teen-pregnancy-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sean Rayford for The New York Times</media:credit>
       <media:description>The Trump administration canceled a $1.6 million grant for a teen pregnancy prevention project run by Fact Forward, a nonprofit in Columbia, S.C., led by Rena Dixon.</media:description>
-    </item>
-    <item>
-      <title>1,700 H.I.V. Treatment Sites Closed After Trump Aid Cuts, a Study Finds</title>
-      <link>https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/21/health/hiv-trump-cuts-pepfar.html" rel="standout"></atom:link>
-      <description>New research also shows that children and high-risk adult populations have been particularly affected.</description>
-      <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Wed, 22 Jul 2026 18:18:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">amfAR, The Foundation for AIDS Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Clinton Health Access Initiative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International AIDS Society</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/multimedia/21dc-hiv-data-photo-jcmw/21dc-hiv-data-photo-jcmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joao Silva/The New York Times</media:credit>
-      <media:description>A health clinic in Johannesburg that was closed in 2025, following cuts in U.S. aid.</media:description>
     </item>
   </channel>
 </rss>
