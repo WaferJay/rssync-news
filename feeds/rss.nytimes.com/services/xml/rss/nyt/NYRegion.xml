@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 17:25:52 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Aug 2026 16:55:41 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 21:08:59 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 20:49:42 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -57,15 +57,6 @@
       <media:content height="1730" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/00MET-DISPENSARY-VIBES-premium-swap-vjpf/00MET-DISPENSARY-VIBES-premium-swap-vjpf-mediumSquareAt3X.jpg" width="1732"></media:content>
     </item>
     <item>
-      <title>‘I Thought: This Guy Must Be the Worst Negotiator Ever’</title>
-      <link>https://www.nytimes.com/2026/08/02/nyregion/metropolitan-diary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/nyregion/metropolitan-diary.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/02/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
-      <description>Bartering on the L, a beautiful baritone from behind a closed door and more reader tales of New York City in this week’s Metropolitan Diary.</description>
-      <pubDate>Sun, 02 Aug 2026 07:00:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-    </item>
-    <item>
       <title>How a Reporter Turned an Article Into a Manhattan Walking Tour</title>
       <link>https://www.nytimes.com/2026/08/02/insider/250-scavenger-hunt-new-york-times.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/insider/250-scavenger-hunt-new-york-times.html</guid>
@@ -88,18 +79,13 @@
       <media:description>Anna Kodé, middle right, recently led Times readers on an interactive tour of New York City’s past.</media:description>
     </item>
     <item>
-      <title>The Bagpiper’s Endless Quest for a Place to Practice</title>
-      <link>https://www.nytimes.com/2026/08/01/nyregion/bagpipes-new-york.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/nyregion/bagpipes-new-york.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/nyregion/bagpipes-new-york.html" rel="standout"></atom:link>
-      <description>A tour of New York’s cemeteries, toxic canals and industrial zones where a great Highland bagpipe can drone in peace.</description>
-      <dc:creator>Andrew Keh and Jonah Markowitz</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 12:41:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bagpipes</category>
+      <title>‘I Thought: This Guy Must Be the Worst Negotiator Ever’</title>
+      <link>https://www.nytimes.com/2026/08/02/nyregion/metropolitan-diary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/nyregion/metropolitan-diary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/02/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
+      <description>Bartering on the L, a beautiful baritone from behind a closed door and more reader tales of New York City in this week’s Metropolitan Diary.</description>
+      <pubDate>Sun, 02 Aug 2026 07:00:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/nyregion/09BAGPIPES-PROMO-01-fltc/BAGPIPES-PROMO-01-fltc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jonah Markowitz for The New York Times</media:credit>
     </item>
     <item>
       <title>Baby’s First R-Rated Blockbuster</title>
@@ -120,6 +106,20 @@
       <media:content height="1308" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/baby-cinema-01-hcbf/baby-cinema-01-hcbf-mediumSquareAt3X.jpg" width="1308"></media:content>
       <media:credit>Kent J. Edwards for The New York Times</media:credit>
       <media:description>At the Alamo Drafthouse in Downtown Brooklyn, early morning screenings for “The Odyssey” drew a young crowd. </media:description>
+    </item>
+    <item>
+      <title>The Bagpiper’s Endless Quest for a Place to Practice</title>
+      <link>https://www.nytimes.com/2026/08/01/nyregion/bagpipes-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/nyregion/bagpipes-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/nyregion/bagpipes-new-york.html" rel="standout"></atom:link>
+      <description>A tour of New York’s cemeteries, toxic canals and industrial zones where a great Highland bagpipe can drone in peace.</description>
+      <dc:creator>Andrew Keh and Jonah Markowitz</dc:creator>
+      <pubDate>Sat, 01 Aug 2026 12:41:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bagpipes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/nyregion/09BAGPIPES-PROMO-01-fltc/BAGPIPES-PROMO-01-fltc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jonah Markowitz for The New York Times</media:credit>
     </item>
     <item>
       <title>Legionnaires’ Outbreak on Upper East Side Is Over, N.Y.C. Officials Say</title>
