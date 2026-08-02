@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 00:59:31 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Aug 2026 00:49:59 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 04:40:29 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 03:25:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -305,13 +305,16 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html" rel="standout"></atom:link>
       <description>A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.” The police said the shooter was dead.</description>
       <dc:creator>Mack Liederman and Alena Cerro</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 00:23:13 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 03:25:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">In-N-Out Burger</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Twin Falls (Idaho)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Idaho</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01xp-shooting-update-zmkj/01xp-shooting-update-zmkj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>KMVT, via Associated Press</media:credit>
+      <media:description>Police and fire crews respond at an In-N-Out Burger restaurant in Twin Falls, Idaho, on Saturday after a shooting that left at least three people dead.</media:description>
     </item>
   </channel>
 </rss>
