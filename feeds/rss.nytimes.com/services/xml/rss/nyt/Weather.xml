@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 01 Aug 2026 23:16:05 +0000</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2026 22:07:49 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 01:02:31 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 00:54:33 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Wildfires in Spokane, Wash., Force Thousands to Evacuate</title>
+      <link>https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html" rel="standout"></atom:link>
+      <description>The Old Trails fire had grown to about 2,500 acres by Saturday afternoon, propelled by strong wind gusts and high temperatures.</description>
+      <dc:creator>Pooja Salhotra</dc:creator>
+      <pubDate>Sun, 02 Aug 2026 00:48:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01nat-spokane-wildfire-ckgp/01nat-spokane-wildfire-ckgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Young Kwak/Associated Press</media:credit>
+      <media:description>The Old Trails fire is seen from the Centennial Trail near West College Ave. in Spokane, Wash., on Saturday.</media:description>
+    </item>
     <item>
       <title>Wildfire Weather Poses ‘Particularly Dangerous Situation’ in Pacific Northwest</title>
       <link>https://www.nytimes.com/2026/08/01/weather/oregon-washington-fire.html</link>
@@ -94,7 +113,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html" rel="standout"></atom:link>
       <description>Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.</description>
       <dc:creator>River Akira Davis, Hisako Ueno, Kiuko Notoya and Chang W. Lee</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 04:57:29 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 00:54:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
