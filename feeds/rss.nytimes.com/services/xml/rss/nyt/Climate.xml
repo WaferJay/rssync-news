@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 17:26:57 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Aug 2026 16:45:26 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:39:44 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 18:41:38 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -217,15 +217,18 @@
       <description>The president decided to buy 11 polar icebreakers after a game of golf with Finland’s president. Experts say it’s far from clear the United States needs so many.</description>
       <dc:creator>Christopher Flavelle, Andrea Fuller and Nicholas Nehamas</dc:creator>
       <pubDate>Sat, 01 Aug 2026 09:00:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vought, Russell T</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stubb, Alexander (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Finland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00dc-trump-arctic-ships-top-new-wmcv/00dc-trump-arctic-ships-top-new-wmcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vesa Laitinen for The New York Times</media:credit>
     </item>
@@ -247,29 +250,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/00int-Europe-Heat-Generation-01-gbzh/00int-Europe-Heat-Generation-01-gbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sergey Ponomarev for The New York Times</media:credit>
       <media:description>Krumme Lanke lake on a hot day in Berlin this summer.</media:description>
-    </item>
-    <item>
-      <title>Japan’s Rescuers Battle Cruel Heat After Major Earthquake</title>
-      <link>https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/world/asia/japan-earthquake-recovery-heat.html" rel="standout"></atom:link>
-      <description>Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.</description>
-      <dc:creator>River Akira Davis, Hisako Ueno, Kiuko Notoya and Chang W. Lee</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 00:54:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto Prefecture (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01int-japan-quake-dispatch-01-kvgj/01int-japan-quake-dispatch-01-kvgj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>A woman collecting water on Friday from a stream near a home that collapsed after this week’s earthquake in Kumamoto Prefecture, Japan. </media:description>
     </item>
     <item>
       <title>In Area Hit by Blaze, French Officials Failed to Enforce Wildfire Rules</title>

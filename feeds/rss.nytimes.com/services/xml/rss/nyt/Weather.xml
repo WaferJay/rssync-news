@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 17:29:26 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Aug 2026 16:45:26 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:36:02 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 19:33:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Spokane Wildfires Destroy Hundreds of Buildings as Thousands Evacuate</title>
+      <link>https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html" rel="standout"></atom:link>
+      <description>Firefighters were hopeful that weather conditions in Washington state could improve their efforts, but worried that fire might spread to a canyon, where it could expand rapidly.</description>
+      <dc:creator>Christina Morales and Bernard Mokam</dc:creator>
+      <pubDate>Sun, 02 Aug 2026 19:33:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02nat-spokane-wildfires-1-zglf/02nat-spokane-wildfires-1-zglf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>John Stember for The New York Times</media:credit>
+      <media:description>All of Christine and Bryan Farris’s belongings burned in the Old Trail fire in Spokane, Wash.</media:description>
+    </item>
     <item>
       <title>More Than a Dozen Wildfires Burn in Washington State, Forcing Evacuations</title>
       <link>https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html</link>
@@ -21,17 +42,18 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/us/wildfires-spokane-washington-evacuations.html" rel="standout"></atom:link>
       <description>The Old Trails fire near Spokane had grown to about 3,500 acres by Sunday morning, propelled by strong wind gusts and high temperatures.</description>
       <dc:creator>Pooja Salhotra</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 13:36:42 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 18:03:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01nat-spokane-wildfire-ckgp/01nat-spokane-wildfire-ckgp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Young Kwak/Associated Press</media:credit>
-      <media:description>The Old Trails fire is seen from the Centennial Trail near West College Ave. in Spokane, Wash., on Saturday.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/01/multimedia/01nat-spokane-wildfire-sub-1-kqwp/01nat-spokane-wildfire-sub-1-kqwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>John Stember for The New York Times</media:credit>
+      <media:description>The Old Trail fire leveled homes overnight in northwest Spokane, Wash. Residents surveyed the damage on Sunday morning.</media:description>
     </item>
     <item>
       <title>Wildfire Weather Poses ‘Particularly Dangerous Situation’ in Pacific Northwest</title>
@@ -51,7 +73,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (State)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/31/weather/2026-07-31-outlooks-nwfire-index-promo/2026-07-31-outlooks-nwfire-index-promo-mediumSquareAt3X-v67.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/31/weather/2026-07-31-outlooks-nwfire-index-promo/2026-07-31-outlooks-nwfire-index-promo-mediumSquareAt3X-v71.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -114,18 +136,14 @@
       <description>Kumamoto faces a “double disaster,” as rescuers work in 100 degree heat, and shelters with limited air-conditioning put displaced people at risk for heatstroke.</description>
       <dc:creator>River Akira Davis, Hisako Ueno, Kiuko Notoya and Chang W. Lee</dc:creator>
       <pubDate>Sun, 02 Aug 2026 00:54:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto (Japan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto Prefecture (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01int-japan-quake-dispatch-01-kvgj/01int-japan-quake-dispatch-01-kvgj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>A woman collecting water on Friday from a stream near a home that collapsed after this week’s earthquake in Kumamoto Prefecture, Japan. </media:description>
     </item>
@@ -145,7 +163,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/weather/2026-07-30-outlooks-heat-index-promo/2026-07-30-outlooks-heat-index-promo-mediumSquareAt3X-v99.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/weather/2026-07-30-outlooks-heat-index-promo/2026-07-30-outlooks-heat-index-promo-mediumSquareAt3X-v103.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>

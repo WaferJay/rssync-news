@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 17:24:44 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Aug 2026 17:15:42 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 19:39:18 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 19:25:56 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>For a Day, Google Made It Easy to Spoof Satellite Imagery</title>
+      <link>https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html" rel="standout"></atom:link>
+      <description>A new Google Earth tool allowed the creation of A.I. deepfake maps. The tech giant quickly pulled it back after a backlash and concerns about disinformation risks.</description>
+      <dc:creator>Adeel Hassan</dc:creator>
+      <pubDate>Sun, 02 Aug 2026 19:25:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="">Deepfake</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bellingcat</category>
+      <media:content height="1546" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02xp-google1/02xp-google1-mediumSquareAt3X.jpg" width="1548"></media:content>
+      <media:credit>Google</media:credit>
+      <media:description>A screenshot of Google’s announcement on Thursday about Nano Banana 2, an artificial intelligence feature.</media:description>
+    </item>
     <item>
       <title>Nanit and Other Baby-Tracking Start-Ups Eye Collecting Even More Data</title>
       <link>https://www.nytimes.com/2026/08/02/business/smart-baby-monitors-nanit-owlet.html</link>
@@ -173,12 +193,16 @@
       <description>As radio spectrum becomes more valuable, companies like SpaceX are jostling alongside governments to control more of it.</description>
       <dc:creator>Peter Coy</dc:creator>
       <pubDate>Sat, 01 Aug 2026 13:43:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio Spectrum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Starlink Satellite Constellation (SpaceX)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Telecommunication Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01DB-Space2-kmtl/01DB-Space2-kmtl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Steve Nesius/Reuters</media:credit>
       <media:description>A rocket lifts off carrying Amazon’s Project Kuiper internet network satellites.</media:description>
@@ -247,12 +271,11 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/business/turbo-engines-cars-trucks.html" rel="standout"></atom:link>
       <description>A hyped technology from four decades ago, turbocharging is now standard in almost half of all cars sold in the United States, largely to help meet efficiency standards.</description>
       <dc:creator>Jim Koscs</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 09:00:15 +0000</pubDate>
+      <pubDate>Sat, 01 Aug 2026 09:00:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Engines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Efficiency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ford Motor Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Honda Motor Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01wheels-turbo1-vlgb/01wheels-turbo1-vlgb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Caroline Yang for The New York Times</media:credit>
       <media:description>A 1962 Oldsmobile Jetfire, one of the first cars to have a turbocharged engine.</media:description>
@@ -1025,26 +1048,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-penske-1-qzgc/29biz-penske-1-qzgc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Krista Schlueter for The New York Times</media:credit>
       <media:description>The Golden Globe Awards, for years owned by the Hollywood Foreign Press Association, was sold in 2023 to Penske Media, the owner of several Hollywood trade publications. </media:description>
-    </item>
-    <item>
-      <title>Government Borrowing Cost Hits Two-Decade High After Fed Rate Decision</title>
-      <link>https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/business/economy/treasury-yields-fed-inflation.html" rel="standout"></atom:link>
-      <description>The surge in Treasury yields suggests investors doubt that the Federal Reserve can keep inflation contained.</description>
-      <dc:creator>Joe Rennison</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 21:33:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29fed-meeting-bonds-phlk/29fed-meeting-bonds-phlk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
-      <media:description>Kevin Warsh, the Fed chairman, speaking Wednesday after policymakers voted to keep interest rates steady. </media:description>
     </item>
   </channel>
 </rss>
