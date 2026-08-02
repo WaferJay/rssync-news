@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 02 Aug 2026 15:32:16 +0000</lastBuildDate>
-    <pubDate>Sun, 02 Aug 2026 14:10:05 +0000</pubDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:24:44 +0000</lastBuildDate>
+    <pubDate>Sun, 02 Aug 2026 17:15:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -155,16 +155,15 @@
       <link>https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/01/business/media/spider-man-box-office-superhero.html" rel="standout"></atom:link>
-      <description>The movie, the 11th big-budget Spider-Man movie since 2002, was on pace to have one of the biggest domestic first weekends ever.</description>
+      <description>The Sony Pictures movie, the 11th big-budget Spider-Man blockbuster since 2002, was on pace to have one of the biggest domestic first weekends ever.</description>
       <dc:creator>Brooks Barnes</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 20:00:52 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 16:48:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Spider-Man: Brand New Day (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Reviews</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spider-Man (Fictional Character)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sony Pictures Entertainment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holland, Tom (1996- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Spider-Man: Brand New Day (Movie)</category>
     </item>
     <item>
       <title>The High-Stakes Battle for Invisible Real Estate in Space</title>
@@ -192,7 +191,7 @@
       <description>Founded in 1472, Banca Monte dei Paschi di Siena has survived wars, pandemics and scandals. But a hostile takeover bid has Tuscans on edge.</description>
       <dc:creator>Bernhard Warner and Patrick Junker</dc:creator>
       <pubDate>Sat, 01 Aug 2026 09:43:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Monte dei Paschi di Siena SpA</category>
@@ -202,7 +201,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lovaglio, Luigi (1955- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tuscany (Italy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Siena (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01DB-ITALY-BANK-FIGHT-wmgq/01DB-ITALY-BANK-FIGHT-wmgq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Luigi Lovaglio, the chief executive of Banca Monte dei Paschi di Siena, in the bank’s historical archive inside Palazzo Salimbeni in Siena, Italy.</media:description>
     </item>
@@ -215,7 +214,8 @@
       <dc:creator>Lora Kelley</dc:creator>
       <pubDate>Sat, 01 Aug 2026 09:01:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Slang</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/02/business/02shoptalk-scheming-illo/02shoptalk-scheming-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jackson Gibbs</media:credit>
     </item>
@@ -226,17 +226,16 @@
       <atom:link href="https://www.nytimes.com/2026/08/01/business/inheritance-real-estate-retirement.html" rel="standout"></atom:link>
       <description>Real estate passed down without a clear title of ownership can prevent families from creating generational wealth.</description>
       <dc:creator>Martha C. White</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 12:45:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
+      <pubDate>Sat, 01 Aug 2026 12:45:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Property Taxes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appraisals and Valuation (Property)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Urban Institute</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/01biz-retiring-property-01-tqmp/01biz-retiring-property-01-tqmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Samuel Corum for The New York Times</media:credit>
       <media:description>“If you leave a property to one person, it’s easy,” said Christine Parker, a financial planner. “If you leave it to multiple people, that’s where the entanglement comes in.”</media:description>
@@ -489,7 +488,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html" rel="standout"></atom:link>
       <description>Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.</description>
       <dc:creator>Jonathan Mahler, Jim Rutenberg and Kirsten Grind</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 02:27:21 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 15:45:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Lawrence J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oracle Corporation</category>
