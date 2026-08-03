@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 12:35:39 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 11:21:28 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 15:57:19 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 14:57:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -84,7 +84,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/energy-environment/plug-in-balcony-solar.html" rel="standout"></atom:link>
       <description>Ten U.S. states have legalized systems that can be plugged into standard wall outlets. The technology typically does not require permits or electricians.</description>
       <dc:creator>Ivan Penn and Claire Brown</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 09:00:48 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 13:34:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
@@ -172,7 +172,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/science/honeybees-veterinary-medicine.html" rel="standout"></atom:link>
       <description>Veterinarians are gingerly embracing the honeybee, a vital pollinator for agriculture but one that’s in increasing danger.</description>
       <dc:creator>Emily Anthes and Will Crooks</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 11:21:28 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 13:33:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterinary Medicine</category>
@@ -195,21 +195,12 @@
       <description>For a few weeks in the summer, they emerge from underground and perform their aerial light show, hoping to find some action.</description>
       <dc:creator>Hilary Howard</dc:creator>
       <pubDate>Sun, 02 Aug 2026 11:21:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireflies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Botanical Garden</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ware, Jessica (Entomologist)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn Navy Yard (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn-Queens Expressway</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Roosevelt Island (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/09/nyregion/09met-fireflies-nyc-01-fbgv/met-fireflies-nyc-01-fbgv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yuvraj Khanna for The New York Times</media:credit>
       <media:description>Nighttime is the right time for fireflies to perform their luminescent acrobatics in Brooklyn.</media:description>
@@ -1173,24 +1164,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/21/science/21cli-academies/21cli-academies-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Coleman/Alamy</media:credit>
       <media:description>The National Academies of Sciences building in Washington, D.C.</media:description>
-    </item>
-    <item>
-      <title>When Will the Wildfire Smoke End? Latest Air Quality Updates and Maps</title>
-      <link>https://www.nytimes.com/2026/07/20/weather/canadian-wildfire-smoke-air-quality-us.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/20/weather/canadian-wildfire-smoke-air-quality-us.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/20/weather/canadian-wildfire-smoke-air-quality-us.html" rel="standout"></atom:link>
-      <description>On Monday, hazy skies and poor air quality continued to affect parts of the Midwest and Great Lakes region.</description>
-      <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Mon, 20 Jul 2026 17:18:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/20wea-monday-smoke-vqbk/20wea-monday-smoke-vqbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cole Burston for The New York Times</media:credit>
-      <media:description>Smoke in Thunder Bay, Ontario, on Sunday.</media:description>
     </item>
   </channel>
 </rss>
