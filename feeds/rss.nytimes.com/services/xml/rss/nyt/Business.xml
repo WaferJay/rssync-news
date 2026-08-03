@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 00:59:59 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 00:46:05 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 04:49:08 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 03:25:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -78,6 +78,7 @@
       <description>Nanit and other start-ups want to track your children through the night — and soon, for much longer than that.</description>
       <dc:creator>Sapna Maheshwari</dc:creator>
       <pubDate>Sun, 02 Aug 2026 11:29:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
@@ -85,6 +86,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Owlet Protection Enterprises LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nanit (Udisense Inc)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02biz-babytech-lede-flwk/02biz-babytech-lede-flwk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Photo illustration by Margeaux Walter for The New York Times</media:credit>
       <media:description>Young parents are increasingly willing to embrace tracking and analytics for their children — part of a broader cultural obsession with health data and optimization.</media:description>
@@ -379,7 +382,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/media/adults-fx-prequel-season-2.html" rel="standout"></atom:link>
       <description>Many viewers turned away from “Adults” after an over-the-top scene in the show’s first episode, so FX made a new one.</description>
       <dc:creator>John Koblin</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 18:11:15 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 18:11:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
@@ -418,7 +421,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/business/corporate-mergers-deals-trump.html" rel="standout"></atom:link>
       <description>Companies are seizing on what many say is perhaps the most favorable regulatory environment for businesses in years.</description>
       <dc:creator>Lauren Hirsch</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 20:54:48 +0000</pubDate>
+      <pubDate>Fri, 31 Jul 2026 20:54:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
