@@ -7,13 +7,51 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 08:40:49 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 07:25:06 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:36:39 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 12:27:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Trump’s ‘Perimeter of a Deal’ Rallies the Market</title>
+      <link>https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/business/dealbook/trump-iran-deal-oil-market.html" rel="standout"></atom:link>
+      <description>Bullish investors are out in force on Monday despite more mixed messages about potential U.S.-Iran peace talks.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 12:27:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03db-trump-vcgz/03db-trump-vcgz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pete Marovich for The New York Times</media:credit>
+      <media:description>President Trump’s statement that Iran peace talks are back on have lifted global markets.</media:description>
+    </item>
+    <item>
+      <title>What Are Companies Getting for All That A.I. Spending?</title>
+      <link>https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html" rel="standout"></atom:link>
+      <description>A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.</description>
+      <dc:creator>Lydia DePillis</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 09:00:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/business/00token-economics/00token-economics-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nicolás Ortega</media:credit>
+    </item>
     <item>
       <title>U.S. and Japan Coordinated to Help Stabilize the Yen</title>
       <link>https://www.nytimes.com/2026/08/02/business/us-japan-yen.html</link>
@@ -38,9 +76,9 @@
       <link>https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/02/business/oil-prices-plummet-iran-war.html" rel="standout"></atom:link>
-      <description>The markets’ moves were the first since President Trump said late Saturday that he had halted a U.S. assault on Iran.</description>
+      <description>The markets’ moves were the first since President Trump said he had halted a planned U.S. assault on Iran.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 23:30:13 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 08:50:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -272,6 +310,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/02/business/02shoptalk-scheming-illo/02shoptalk-scheming-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jackson Gibbs</media:credit>
     </item>
@@ -648,7 +687,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-07-jtfz/00biz-german-cars-07-jtfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-07-jtfz/00biz-german-cars-07-jtfz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Silas/Stein, via Agence France-Presse — Getty Images</media:credit>
       <media:description>The new Mercedes-Benz S-Class at the celebration of the company’s 140th anniversary. Carl Benz filed a patent for a car in 1886.</media:description>
     </item>
@@ -993,50 +1032,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Air India</category>
-    </item>
-    <item>
-      <title>China Threatens Retaliation as U.S. Moves to Block Robot Imports</title>
-      <link>https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/business/china-robots-ban-fcc.html" rel="standout"></atom:link>
-      <description>The dispute highlights how robotics has become the latest battleground in the intensifying technological and industrial rivalry between Washington and Beijing.</description>
-      <dc:creator>Steve Lohr and Xinyun Wu</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 14:04:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protectionism (Trade)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30Biz-China-Robots-vlzp/30Biz-China-Robots-vlzp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Qilai Shen for The New York Times</media:credit>
-      <media:description>Humanoid robots on display at a convention in Shanghai last year.</media:description>
-    </item>
-    <item>
-      <title>A.I. Data Centers in Space? A System to Cool Chips Could Help.</title>
-      <link>https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/business/solar-powered-data-centers.html" rel="standout"></atom:link>
-      <description>Researchers at Caltech and Sophia Space, a start-up, have developed a technology using solar power to prevent computer equipment from overheating in orbit.</description>
-      <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 04:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heating, Ventilation and Cooling (HVAC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Institute of Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sophia Space Inc</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-space-solar-lcqv/30biz-space-solar-lcqv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>NASA, via Reuters</media:credit>
-      <media:description>Small solar arrays, like those on the International Space Station, are already used in space, but A.I. data centers would require substantially more equipment for electricity generation.</media:description>
     </item>
   </channel>
 </rss>

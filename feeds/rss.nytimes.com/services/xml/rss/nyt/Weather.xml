@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 08:44:41 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 08:36:30 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 12:39:22 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 10:33:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/02/us/spokane-wildfires.html" rel="standout"></atom:link>
       <description>Firefighters were hopeful that improving weather conditions in Washington state could help efforts to contain the blaze, which officials described as the largest natural disaster in the history of Spokane.</description>
       <dc:creator>Christina Morales</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 08:36:30 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 08:36:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
@@ -531,40 +531,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28vid-wea-midwest-vjtp/28vid-wea-midwest-vjtp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Scott Olson/Getty Images</media:credit>
-    </item>
-    <item>
-      <title>New Heat Wave Could Intensify Wildfires in France and Spain</title>
-      <link>https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/heat-wave-forecast-france-spain-wildfires.html" rel="standout"></atom:link>
-      <description>Soaring temperatures in parts of France, Spain and Portugal could combine with dry conditions and strong winds to worsen the wildfire threat. It is the fourth heat wave to affect Europe since May.</description>
-      <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 13:22:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Scotland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27europe-fire-pqtg/27europe-fire-pqtg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Romain Perrocheau/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Heat From France’s Wildfires Creates a ‘Fire Cloud,’ or Pyrocumulonimbus</title>
-      <link>https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html" rel="standout"></atom:link>
-      <description>A pyrocumulonimbus — a thundercloud created by intense heat — is a phenomenon that can spark new blazes and is “unprecedented in France,” officials said.</description>
-      <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 16:04:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27europe-wildfires-fireclouds-tpbv/27europe-wildfires-fireclouds-tpbv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Romain Perrocheau/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Smoke from wildfires north of the Arcachon basin in southwestern France last week.</media:description>
     </item>
   </channel>
 </rss>
