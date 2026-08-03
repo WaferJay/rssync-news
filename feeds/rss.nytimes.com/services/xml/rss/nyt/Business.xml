@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 15:57:19 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 15:43:25 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:12:41 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 18:05:26 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Boeing’s Smallest 737 Jet Wins F.A.A. Approval</title>
+      <link>https://www.nytimes.com/2026/08/03/business/boeing-737-max.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/business/boeing-737-max.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/business/boeing-737-max.html" rel="standout"></atom:link>
+      <description>After years of delays, the Federal Aviation Administration has certified the Boeing 737 Max 7, the smallest version of the company’s best-selling plane.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 18:05:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boeing 737 Max Groundings and Safety Concerns (2019)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accreditation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/biz-boeing-faa-pmhq/biz-boeing-faa-pmhq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lindsey Wasson/Reuters</media:credit>
+      <media:description>A Boeing 737 MAX 7 landing in Seattle during an evaluation flight in 2020 by the Federal Aviation Administration.</media:description>
+    </item>
     <item>
       <title>Former ’60 Minutes’ Correspondents Sharyn Alfonsi, Scott Pelley Will Teach At Columbia</title>
       <link>https://www.nytimes.com/2026/08/03/business/media/sharyn-alfonsi-scott-pelley-columbia-journalism-school.html</link>
@@ -156,13 +176,14 @@
       <description>A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.</description>
       <dc:creator>Adeel Hassan</dc:creator>
       <pubDate>Mon, 03 Aug 2026 14:31:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Maps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Maps</category>
       <category domain="">Deepfake</category>
       <media:content height="1546" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02xp-google1/02xp-google1-mediumSquareAt3X.jpg" width="1548"></media:content>
       <media:credit>Google</media:credit>
@@ -263,6 +284,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-sqft-family-offices-miami-01-fjql/30biz-sqft-family-offices-miami-01-fjql-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Scott McIntyre for The New York Times</media:credit>
       <media:description>Peter Thiel broke rental records in Miami when he leased space in a skyscraper at the 830 Brickell tower, center, for his family office.</media:description>
@@ -275,25 +297,25 @@
       <description>Paul Weiss was a progressive stalwart for decades and led the legal resistance against President Trump in his first term. Then it surrendered without a fight. This is the inside story of its transformation.</description>
       <dc:creator>Michael S. Schmidt and Jessica Silver-Greenberg</dc:creator>
       <pubDate>Sun, 02 Aug 2026 14:03:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paul Weiss Rifkind Wharton &amp; Garrison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Power (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paul Weiss Rifkind Wharton &amp; Garrison</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Karp, Brad S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Barshay, Scott A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Korberg, Lex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dunn, Karen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Black, Leon D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apollo Global Management</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burck, William A</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epshteyn, Boris</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kraft, Robert K</category>
@@ -1015,28 +1037,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/biz-osg-damietta-jbzc/biz-osg-damietta-jbzc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Social Media/UGC, via Social Media Via Reuters</media:credit>
-    </item>
-    <item>
-      <title>Markets Challenge Warsh’s Approach to Taming Inflation</title>
-      <link>https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/business/warshs-performance-falls-flat-with-markets-as-fed-holds-rates-steady.html" rel="standout"></atom:link>
-      <description>Kevin M. Warsh has made controlling inflation the top priority of his tenure as Federal Reserve chairman. But his hesitancy to embrace the possibility of higher borrowing costs has sparked a backlash.</description>
-      <dc:creator>Colby Smith</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 15:10:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Powell, Jerome H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brainard, Lael</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/30DC-FED-tgfj/30DC-FED-tgfj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brendan Mcdermid/Reuters</media:credit>
-      <media:description>Traders on the floor of the New York Stock Exchange as a screen broadcasts a news conference by Federal Reserve Chairman Kevin Warsh on Wednesday.</media:description>
     </item>
   </channel>
 </rss>

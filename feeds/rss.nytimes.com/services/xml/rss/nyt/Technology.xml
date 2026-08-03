@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 15:56:30 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 15:40:01 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 18:11:48 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 17:57:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -97,13 +97,14 @@
       <description>A new Google Earth tool allowed the creation of A.I. deepfake maps. The company quickly pulled it back after users noted there were no safeguards to prevent content that could be harmful.</description>
       <dc:creator>Adeel Hassan</dc:creator>
       <pubDate>Mon, 03 Aug 2026 14:31:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Maps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Maps</category>
       <category domain="">Deepfake</category>
       <media:content height="1546" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02xp-google1/02xp-google1-mediumSquareAt3X.jpg" width="1548"></media:content>
       <media:credit>Google</media:credit>
@@ -732,26 +733,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27biz-apple-valuation-2-mkpz/27biz-apple-valuation-2-mkpz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Unlike the rest of the technology industry, Apple is not overhauling itself around AI.</media:description>
-    </item>
-    <item>
-      <title>Microsoft Unveils A.I. Cybersecurity Tools</title>
-      <link>https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/27/technology/microsoft-unveils-ai-cybersecurity-tools.html" rel="standout"></atom:link>
-      <description>As some executives fret over the safety of new A.I. systems, protecting against them could be a big business for tech companies.</description>
-      <dc:creator>Cade Metz and Karen Weise</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 16:51:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suleyman, Mustafa</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/27BIZ-MICROSOFT-CYBERSECURITY-1-gfpw/27BIZ-MICROSOFT-CYBERSECURITY-1-gfpw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chona Kasinger for The New York Times</media:credit>
-      <media:description>Mustafa Suleyman, who oversees development of Microsoft’s A.I. models, says his company has deep knowledge of cybersecurity because its technology has faced so many attacks.</media:description>
     </item>
   </channel>
 </rss>
