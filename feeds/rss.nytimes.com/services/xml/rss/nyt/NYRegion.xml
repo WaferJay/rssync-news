@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 03 Aug 2026 20:00:50 +0000</lastBuildDate>
-    <pubDate>Mon, 03 Aug 2026 17:46:53 +0000</pubDate>
+    <lastBuildDate>Mon, 03 Aug 2026 21:34:16 +0000</lastBuildDate>
+    <pubDate>Mon, 03 Aug 2026 21:33:14 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,12 +22,9 @@
       <description>From $130 dinners to expensive cocktails and even exorbitant movie tickets, a crushing economy in New York City is creating a fresh barrier to love.</description>
       <dc:creator>Troy Closson</dc:creator>
       <pubDate>Mon, 03 Aug 2026 14:02:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Online Dating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Love (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/29/nyregion/29-broke-dating1/29visualUploader-97380-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -155,6 +152,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
+      <title>N.Y. Law Barring ICE Agents From Wearing Masks Is Blocked by Judge</title>
+      <link>https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/nyregion/ice-mask-ban-new-york.html" rel="standout"></atom:link>
+      <description>While the ruling dealt a blow to New York’s efforts to rein in ICE, a ban on formal cooperation with local police officers will move forward.</description>
+      <dc:creator>Grace Ashford</dc:creator>
+      <pubDate>Mon, 03 Aug 2026 21:25:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04met-ice-hwmv/04met-ice-hwmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Madison Swart for The New York Times</media:credit>
+      <media:description>The Trump administration has argued that ICE agents need to wear masks to protect them from harassment.</media:description>
+    </item>
+    <item>
       <title>Heavy Rain and Thunderstorms Expected Across the Northeast on Monday</title>
       <link>https://www.nytimes.com/2026/08/03/weather/heavy-rain-and-thunderstorms-expected-across-the-northeast-on-monday.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/weather/heavy-rain-and-thunderstorms-expected-across-the-northeast-on-monday.html</guid>
@@ -170,7 +187,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River Valley (NY)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/weather/2026-08-03-outlooks-index-promo/2026-08-03-outlooks-index-promo-mediumSquareAt3X-v15.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/weather/2026-08-03-outlooks-index-promo/2026-08-03-outlooks-index-promo-mediumSquareAt3X-v19.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -373,21 +390,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Titanique (Play)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31last-chance-print-death-tzpq/31last-chance-print-death-tzpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sara Krulwich/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Flaco on Film (Along With the Community the Owl Inspired)</title>
-      <link>https://www.nytimes.com/2026/07/31/movies/flaco-owl-wild-inside-documentary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/movies/flaco-owl-wild-inside-documentary.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/movies/flaco-owl-wild-inside-documentary.html" rel="standout"></atom:link>
-      <description>“Wild Inside” starts off with the director Penny Lane’s characteristic curiosity and winds up being a collective tribute to a bird and his city.</description>
-      <dc:creator>Alissa Wilkinson</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 09:01:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Owls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Wild Inside (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lane, Penny</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
     </item>
   </channel>
 </rss>
