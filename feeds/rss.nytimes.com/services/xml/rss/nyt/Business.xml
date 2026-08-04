@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 12:19:56 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 12:05:15 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:44:58 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 14:37:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>U.S. Trade Deficit Dips in June as Imports Fall Back</title>
+      <link>https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/business/economy/us-trade-deficit-june.html" rel="standout"></atom:link>
+      <description>Imports and exports both declined, retreating from a busy month in May, data from the Commerce Department showed.</description>
+      <dc:creator>Ana Swanson</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 13:26:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commerce Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/07/multimedia/09dc-trade-data/07dc-trade-qgcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ruth Fremson/The New York Times</media:credit>
+      <media:description>Imports continued to outpace exports in June despite President Trump’s tariffs.</media:description>
+    </item>
     <item>
       <title>Why Wall Street Is Feeling So Bullish</title>
       <link>https://www.nytimes.com/2026/08/04/business/dealbook/wall-street-bullish-stocks.html</link>
@@ -37,13 +55,13 @@
       <media:description>The bull market rally has kicked into another gear, fueled by corporate profits.</media:description>
     </item>
     <item>
-      <title>U.S. Stocks Near a Record High Amid Lull in Iran War</title>
+      <title>Stocks Open at Record High as Oil Falls on Hopes of Iran Deal</title>
       <link>https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/04/business/stocks-sp500-oil-prices.html" rel="standout"></atom:link>
-      <description>Markets have been lashed between disruptions in the Strait of Hormuz and anxiety about massive corporate investments in artificial intelligence.</description>
+      <description>The price of Brent crude oil fell sharply </description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 12:05:15 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 13:50:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -150,7 +168,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html" rel="standout"></atom:link>
       <description>The ride-hailing giant promised to handle legal claims “in a way that is best for the survivor.” Its lawyers are pursuing a far more aggressive strategy.</description>
       <dc:creator>Emily Steel</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 09:00:12 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 14:34:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
@@ -205,7 +223,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/business/iran-strait-hormuz-shipping-sailors.html" rel="standout"></atom:link>
       <description>Thousands of civilian workers remain stranded on ships at risk of attack by Iran. On one vessel, sailors have been held by the Iranian navy for more than three months.</description>
       <dc:creator>Jenny Gross and Peter Eavis</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 11:37:16 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 14:37:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
@@ -235,19 +253,19 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html" rel="standout"></atom:link>
       <description>Coordinated intervention allowed Japan to support its currency without selling off its U.S. debt holdings.</description>
       <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 04:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <pubDate>Tue, 04 Aug 2026 13:55:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yen (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
@@ -286,12 +304,18 @@
       <pubDate>Mon, 03 Aug 2026 23:02:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Taxes (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Weaponization Fund (Trump v IRS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cornyn, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillis, Thomas R</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03dc-trump-irs-vhfl/03dc-trump-irs-vhfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump no longer has to worry about the Internal Revenue Service coming after him for any of the many aggressive tax positions he has taken over the years.</media:description>
@@ -416,7 +440,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/business/00token-economics/00token-economics-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/business/00token-economics/00token-economics-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicolás Ortega</media:credit>
     </item>
     <item>
@@ -1022,43 +1046,6 @@
       <media:content height="1577" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00biz-plugin-explainer-01/00biz-plugin-explainer-01-mediumSquareAt3X.jpg" width="1577"></media:content>
       <media:credit>Patrick Junker for The New York Times</media:credit>
       <media:description>Plug-in solar panels are as large as windows, and in Germany they are often installed on balconies.</media:description>
-    </item>
-    <item>
-      <title>The German Auto Industry, a Pillar of the National Psyche, Is Trembling</title>
-      <link>https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/business/germany-mercedes-bmw-volkswagen.html" rel="standout"></atom:link>
-      <description>The country’s iconic carmakers are struggling with tariffs, the growth of electric vehicles and intense competition from Chinese companies.</description>
-      <dc:creator>Jack Ewing and Jim Tankersley</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 00:58:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alternative for Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayerische Motorenwerke AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BYD Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mercedes-Benz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Volkswagen AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blume, Oliver (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kallenius, Ola</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merz, Friedrich</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00biz-german-cars-07-jtfz/00biz-german-cars-07-jtfz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Silas/Stein, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>The new Mercedes-Benz S-Class at the celebration of the company’s 140th anniversary. Carl Benz filed a patent for a car in 1886.</media:description>
     </item>
   </channel>
 </rss>

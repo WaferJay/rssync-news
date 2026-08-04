@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 12:22:26 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 00:35:20 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:46:00 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 14:41:58 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Stressed by Heat, 3 Lions Die at Tokyo Zoo</title>
+      <link>https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html" rel="standout"></atom:link>
+      <description>The female lions died within five days of each other despite zookeepers’ efforts to shelter them from Japan’s blistering summer temperatures.</description>
+      <dc:creator>Leo Sands and Kiuko Notoya</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 14:41:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ueno Zoo (Tokyo, Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04xp-japan-lions-03-qzbh-promo/04xp-japan-lions-03-qzbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tokyo Zoological Park Society/Reuters</media:credit>
+    </item>
     <item>
       <title>Heavy Rain and Thunderstorms Expected Across the Northeast on Monday</title>
       <link>https://www.nytimes.com/2026/08/03/weather/heavy-rain-and-thunderstorms-expected-across-the-northeast-on-monday.html</link>
@@ -30,7 +46,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River Valley (NY)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/weather/2026-08-03-outlooks-index-promo/2026-08-03-outlooks-index-promo-mediumSquareAt3X-v31.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/weather/2026-08-03-outlooks-index-promo/2026-08-03-outlooks-index-promo-mediumSquareAt3X-v35.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -396,23 +412,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/00nat-extreme-summer-callout-zltp/00nat-extreme-summer-callout-zltp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>A construction worker under the heat wave in New York earlier this month.</media:description>
-    </item>
-    <item>
-      <title>Fourth Heat Wave of the Summer Hits Europe as France and Spain Fight Wildfires</title>
-      <link>https://www.nytimes.com/2026/07/28/weather/europe-heat-wave-weather-forecast.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/weather/europe-heat-wave-weather-forecast.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/weather/europe-heat-wave-weather-forecast.html" rel="standout"></atom:link>
-      <description>Temperatures are soaring on the continent this week as wide swaths of France and Spain are already fighting big blazes.</description>
-      <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 11:41:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
     </item>
   </channel>
 </rss>

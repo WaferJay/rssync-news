@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 12:17:30 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 11:52:12 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 14:41:21 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 14:35:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules</title>
+      <link>https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html" rel="standout"></atom:link>
+      <description>The Trump administration has struggled over how to approach “open source” models, which are freely available to download and favored by Chinese companies.</description>
+      <dc:creator>David McCabe, Mike Isaac, Ana Swanson and Kate Conger</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 12:39:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03biz-ai-whiplash--03-chmf/03biz-ai-whiplash--03-chmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Chinese open-source artificial models like Kimi, made by Moonshot AI, have added a new and urgent dimension to the fight between Washington and Beijing over who will control critical technologies.</media:description>
+    </item>
     <item>
       <title>SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.</title>
       <link>https://www.nytimes.com/2026/08/03/technology/spacex-lockup-stock-market.html</link>
@@ -49,7 +68,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/business/00token-economics/00token-economics-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/business/00token-economics/00token-economics-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicolás Ortega</media:credit>
     </item>
     <item>
@@ -72,43 +91,6 @@
       <media:credit>Sam Bush for The New York Times</media:credit>
     </item>
     <item>
-      <title>Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight</title>
-      <link>https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html" rel="standout"></atom:link>
-      <description>“It just seems like the temperature is rising on Silicon Valley.”</description>
-      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Rowan Niemisto, Chris Wood and Alyssa Moxley</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 11:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stapleton, Claire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Substack Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/podcasts/31hardfork-openletters/31hardfork-openletters-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules</title>
-      <link>https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html" rel="standout"></atom:link>
-      <description>The Trump administration has struggled over how to approach “open source” models, which are freely available to download and favored by Chinese companies.</description>
-      <dc:creator>David McCabe, Mike Isaac, Ana Swanson and Kate Conger</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 11:52:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03biz-ai-whiplash--03-chmf/03biz-ai-whiplash--03-chmf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Chinese open-source artificial models like Kimi, made by Moonshot AI, have added a new and urgent dimension to the fight between Washington and Beijing over who will control critical technologies.</media:description>
-    </item>
-    <item>
       <title>Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns</title>
       <link>https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/technology/google-earth-ai-satellite-images.html</guid>
@@ -128,6 +110,24 @@
       <media:content height="1546" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02xp-google1/02xp-google1-mediumSquareAt3X.jpg" width="1548"></media:content>
       <media:credit>Google</media:credit>
       <media:description>A screenshot of Google’s announcement on Thursday about Nano Banana 2, an artificial intelligence feature.</media:description>
+    </item>
+    <item>
+      <title>Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight</title>
+      <link>https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html" rel="standout"></atom:link>
+      <description>“It just seems like the temperature is rising on Silicon Valley.”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Rowan Niemisto, Chris Wood and Alyssa Moxley</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stapleton, Claire</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Substack Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/podcasts/31hardfork-openletters/31hardfork-openletters-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble</title>
@@ -649,29 +649,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-    </item>
-    <item>
-      <title>Apple Introduces Leasing Program for iPhones and Other Devices</title>
-      <link>https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html" rel="standout"></atom:link>
-      <description>The program is an effort to make products more affordable as artificial intelligence sends some component prices soaring.</description>
-      <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 12:35:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPad</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28biz-apple-leasing-mfpj/28biz-apple-leasing-mfpj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Chang W. Lee/The New York Times</media:credit>
-      <media:description>An Apple Store in Beijing. The company is rolling out a leasing program for some iPhone, iPad, Mac and Apple Watch models.</media:description>
     </item>
   </channel>
 </rss>
