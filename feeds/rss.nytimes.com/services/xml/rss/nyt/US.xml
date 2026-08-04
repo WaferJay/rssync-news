@@ -7,18 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 10:00:09 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 09:55:48 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 12:18:02 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 11:54:43 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
+      <title>Michigan’s Democratic Senate Primary Poses a Test for a Divided Party</title>
+      <link>https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/michigan-democratic-senate-race-test</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/michigan-democratic-senate-race-test</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/michigan-democratic-senate-race-test" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Reid J. Epstein and Sam Easter</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 10:24:26 +0000</pubDate>
+      <media:content height="1024" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04midterms-michigan-senate-VERSION-bkqh/04midterms-michigan-senate-VERSION-bkqh-mediumSquareAt3X.jpg" width="1024"></media:content>
+      <media:credit>Nick Hagen and Emily Elconin for The New York Times</media:credit>
+      <media:description>Dr. Abdul El-Sayed and Representative Haley Stevens.</media:description>
+    </item>
+    <item>
       <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/08/04/us/midterms-michigan-virginia/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/04/us/midterms-michigan-virginia/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/08/04/us/midterms-michigan-virginia/heres-the-latest" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Tim Balk</dc:creator>
       <pubDate>Tue, 04 Aug 2026 09:54:58 +0000</pubDate>
@@ -30,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html" rel="standout"></atom:link>
       <description>As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support.</description>
       <dc:creator>Erica L. Green</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 09:04:28 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 09:04:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
@@ -53,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html" rel="standout"></atom:link>
       <description>A new study of a bot running a first-of-its-kind San Francisco store finds it is really friendly, but not very smart.</description>
       <dc:creator>Heather Knight</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 09:03:36 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 09:03:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
@@ -107,7 +119,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html" rel="standout"></atom:link>
       <description>Health Secretary Robert F. Kennedy Jr., his son, and Senator Rand Paul have all written books criticizing Dr. Anthony S. Fauci. All were published by a company led by a close Kennedy adviser.</description>
       <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 01:49:06 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 01:49:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
@@ -126,8 +138,9 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html" rel="standout"></atom:link>
       <description>The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.</description>
       <dc:creator>David E. Sanger, Farnaz Fassihi and Eric Schmitt</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 01:19:28 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 01:19:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -180,7 +193,7 @@
       <atom:link href="https://www.nytimes.com/video/us/politics/100000011064084/democratic-socialists-of-america.html" rel="standout"></atom:link>
       <description>Our politics reporter Kellen Browning went to the Democratic Socialists of America’s national summit in Chicago to learn more about the group’s new platform.</description>
       <dc:creator>Kellen Browning, Christina Shaman, Nour Idriss, Jon Hazell, Rafaela Balster and Jamie Kelter Davis</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 22:49:57 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 10:17:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
     </item>
@@ -275,8 +288,10 @@
       <atom:link href="https://www.nytimes.com/article/the-local-twin-cities-minneapolis-saint-paul.html" rel="standout"></atom:link>
       <description>Sign up to be among the first to receive our newsletter for readers in Minneapolis and St. Paul.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 19:30:47 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 19:30:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Paul (Minn)</category>
     </item>
     <item>
       <title>Chino Hills Murder-Kidnapping Tied to Business Dispute, Officials Say</title>
@@ -545,25 +560,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/03Granger-print1/03Granger-btvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alyssa Schukar for The New York Times</media:credit>
       <media:description>Representative Kay Granger of Texas at the Capitol in 2023. In her final term, she became the first Republican woman to run the powerful House Appropriations Committee.</media:description>
-    </item>
-    <item>
-      <title>Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter</title>
-      <link>https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/democrats-autopsy-2024-election-dnc.html" rel="standout"></atom:link>
-      <description>A dispute over the chapter between the author and the Democratic National Committee has added to the party’s turmoil as it tries to look forward, not backward.</description>
-      <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 15:16:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic National Committee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Martin, Ken (1973- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2024</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rivera, Paul</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01pol-dem-autopsy-flags-ckwl/01pol-dem-autopsy-flags-ckwl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kent Nishimura for The New York Times</media:credit>
-      <media:description>The Democratic National Committee’s autopsy of the 2024 election was meant to examine missteps that led to the party’s defeat. </media:description>
     </item>
   </channel>
 </rss>
