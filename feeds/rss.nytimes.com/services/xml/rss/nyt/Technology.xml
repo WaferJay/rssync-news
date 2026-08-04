@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 14:41:21 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 14:35:14 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:05:19 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 16:31:33 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,15 +43,11 @@
       <pubDate>Mon, 03 Aug 2026 15:10:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Short Selling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/business/00spacex-lockup/00spacex-lockup-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael Parkin</media:credit>
     </item>
@@ -81,14 +77,33 @@
       <pubDate>Mon, 03 Aug 2026 09:00:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palantir Technologies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Y Combinator</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00ai-merch-hp-promo-hctw/00ai-merch-hp-promo-hctw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sam Bush for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A SpaceX Rocket Will Soon Crash Into the Moon</title>
+      <link>https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html" rel="standout"></atom:link>
+      <description>The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 14:44:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Planets</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04SCI-SpaceX-Moon-Crash-ROCKET-klqw/04SCI-SpaceX-Moon-Crash-ROCKET-klqw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gregg Newton/Agence France-Presse</media:credit>
+      <media:description>A SpaceX Falcon 9 rocket carrying two private lunar landers launched in January last year. The second stage of this rocket will hit the moon at 5,400 miles per hour on Wednesday.</media:description>
     </item>
     <item>
       <title>Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns</title>
@@ -156,7 +171,7 @@
       <atom:link href="https://www.nytimes.com/2026/07/31/style/errands-should-be-the-most-boring-show-on-the-internet.html" rel="standout"></atom:link>
       <description>Fighting a traffic ticket. Hanging a curtain. Installing an air-conditioner. With his cult-hit online series, Noah Blau has made the mundane fascinating.</description>
       <dc:creator>Alex Vadukul</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 11:55:26 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 15:46:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Errands (Web-Original Program)</category>
@@ -634,21 +649,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28cul-ai-festival-zclk/28cul-ai-festival-zclk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Shuran Huang for The New York Times</media:credit>
       <media:description>Stacy Spikes, founder of Urbanworld, a festival that specializes in Black and multicultural films.</media:description>
-    </item>
-    <item>
-      <title>An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms</title>
-      <link>https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html" rel="standout"></atom:link>
-      <description>Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.</description>
-      <dc:creator>Dustin Volz</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 17:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
     </item>
   </channel>
 </rss>

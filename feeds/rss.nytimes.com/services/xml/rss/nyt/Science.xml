@@ -7,13 +7,26 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 14:45:51 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 14:44:08 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:05:49 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 16:26:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>Darwin Was Right: These Plants Are Carnivores</title>
+      <link>https://www.nytimes.com/2026/08/04/science/darwin-was-right-these-plants-are-carnivores.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/science/darwin-was-right-these-plants-are-carnivores.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/science/darwin-was-right-these-plants-are-carnivores.html" rel="standout"></atom:link>
+      <description>Scientists have proved that a species of plant covered with sticky hairs is carnivorous, confirming Darwin’s 150-year-old hunch.</description>
+      <dc:creator>Jack Tamisiea</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 15:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flowers and Plants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinese Academy of Sciences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Communications (Journal)</category>
+    </item>
     <item>
       <title>A SpaceX Rocket Will Soon Crash Into the Moon</title>
       <link>https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html</link>
@@ -62,16 +75,12 @@
       <dc:creator>Emily Anthes and Will Crooks</dc:creator>
       <pubDate>Mon, 03 Aug 2026 17:37:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Veterinary Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Die-Offs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Antibiotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michigan State University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Georgia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Athens (Ga)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1614" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00SCI-BEE-VET-individual-mjvc/00SCI-BEE-VET-individual-mjvc-mediumSquareAt3X.jpg" width="1614"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
@@ -177,21 +186,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
     </item>
     <item>
-      <title>‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly</title>
-      <link>https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html" rel="standout"></atom:link>
-      <description>Scientists have found smallpox viruses in the remains of people in Chile from around 500 years ago, revealing how the virus may have evolved into a global killer.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 11:46:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smallpox</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-    </item>
-    <item>
       <title>Olga Soffer, Fashion Maven Who Studied Caveman Couture, Dies at 83</title>
       <link>https://www.nytimes.com/2026/08/01/science/olga-soffer-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/science/olga-soffer-dead.html</guid>
@@ -291,6 +285,21 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/30/climate/00cli-newsletter-cincinatti-01/00cli-newsletter-cincinatti-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Barry Fowler/Alamy</media:credit>
       <media:description>Cincinnati has come up with a Climate Migration Readiness Plan in hopes that newcomers can help revitalize the area.</media:description>
+    </item>
+    <item>
+      <title>‘This Is Very Strange’: Ancient Smallpox May Have Been Less Deadly</title>
+      <link>https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/science/ancient-small-pox.html" rel="standout"></atom:link>
+      <description>Scientists have found smallpox viruses in the remains of people in Chile from around 500 years ago, revealing how the virus may have evolved into a global killer.</description>
+      <dc:creator>Carl Zimmer</dc:creator>
+      <pubDate>Fri, 31 Jul 2026 11:46:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smallpox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
     </item>
     <item>
       <title>Bipartisan Anger Grows at Pentagon’s Delayed ‘Forever Chemicals’ Cleanups</title>
@@ -424,21 +433,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/00vonhagens-cjpk-print1SUB/00vonhagens-cjpk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sion Touhig/Getty Images</media:credit>
       <media:description>Gunther von Hagens in 2002 with a flayed, bisected human specimen used in one of his “Body Worlds” exhibitions. In the late 1970s, he developed plastination, the method of making corpses into malleable figures.</media:description>
-    </item>
-    <item>
-      <title>An Anthropic Claude AI Model Finds Flaws in Tough-to-Crack Encryption Algorithms</title>
-      <link>https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/us/politics/anthropic-ai-encryption-security-aes.html" rel="standout"></atom:link>
-      <description>Claude Mythos Preview discovered new attacks in testing against weakened cryptographic algorithms, which protect online financial transactions, private communications and more.</description>
-      <dc:creator>Dustin Volz</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 17:00:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
     </item>
   </channel>
 </rss>

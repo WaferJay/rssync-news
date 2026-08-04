@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/world/latin_america</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 12:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 17:09:09 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -111,6 +111,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4005/live/916366b0-7b8a-11f1-bee8-53ce494e1abc.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Watch: Evacuations as Guatemala volcano erupts]]></title>
+            <description><![CDATA[The Fuego volcano is located near  Escuintla, Chimaltenango, and Sacatepéquez.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c9q91dnljpeo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c9q91dnljpeo#2</guid>
+            <pubDate>Tue, 04 Aug 2026 16:50:07 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd76/live/e4b36b80-9016-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Families still search for bodies a month after Venezuela earthquakes]]></title>
             <description><![CDATA[Officials say the death toll has surpassed 5,300, though estimates of the number still missing could be as high as 50,000.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cwylplxk8nko?at_medium=RSS&amp;at_campaign=rss</link>
@@ -141,14 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c0m7nv093gvo#2</guid>
             <pubDate>Wed, 15 Jul 2026 21:23:44 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f62/live/00595b80-8093-11f1-b976-0b9c15b0ccfc.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Girl trapped in Venezuela quake 'survived on ketchup and cheese' ]]></title>
-            <description><![CDATA[BBC international correspondent Yogita Limayee meets 12-year-old Fabiana, who was trapped in Venezuela's devastating earthquakes. ]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cjrggj051pvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cjrggj051pvo#2</guid>
-            <pubDate>Mon, 06 Jul 2026 07:17:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b351/live/062281a0-7908-11f1-9510-1546718f668b.jpg"/>
         </item>
     </channel>
 </rss>
