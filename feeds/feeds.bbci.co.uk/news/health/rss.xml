@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 04 Aug 2026 03:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Aug 2026 06:46:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -394,6 +394,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Are current breast cancer checks good enough?]]></title>
+            <description><![CDATA[Up to 95% of younger women at higher risk of developing breast cancer are being missed, researchers say.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c89n1xy2917o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c89n1xy2917o#8</guid>
+            <pubDate>Tue, 04 Aug 2026 05:14:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ce/live/e3339670-8f5f-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Student quits university due to epilepsy medicine shortages]]></title>
             <description><![CDATA[Jack Tolley says he found it difficult to find supplies of the key medicines he needs.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cm2gln392vlo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -424,14 +432,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cvg894vz999o#8</guid>
             <pubDate>Thu, 30 Jul 2026 08:02:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deed/live/a50e5120-8b66-11f1-b8ee-9b3c26ad07bb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Documentary Podcast]]></title>
-            <description><![CDATA[Ed Butler investigates one of Europe’s most wanted drug smugglers]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/p0p1b25p?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/p0p1b25p#8</guid>
-            <pubDate>Wed, 29 Jul 2026 00:30:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p0mdmt.jpg"/>
         </item>
     </channel>
 </rss>
