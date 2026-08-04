@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 18:56:43 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 18:34:10 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 20:43:37 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 20:31:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -49,7 +49,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/health/autism-therapy-medicaid.html" rel="standout"></atom:link>
       <description>The program’s spending on the therapy has quintupled since 2021, far outstripping the growth in diagnoses and raising concerns about overprescribing and fraud.</description>
       <dc:creator>Sarah Kliff</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 18:18:11 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 20:31:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
@@ -67,7 +67,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html" rel="standout"></atom:link>
       <description>Health Secretary Robert F. Kennedy Jr., his son, and Senator Rand Paul have all written books criticizing Dr. Anthony S. Fauci. All were published by a company led by a close Kennedy adviser.</description>
       <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 01:49:07 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 19:23:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
@@ -216,6 +216,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30xp-map-zlwm/30xp-map-zlwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Picture Obtained By Reuters/UGC</media:credit>
       <media:description>A map presented by the State Department at AIDS 2026, a conference in Brazil this week. </media:description>
+    </item>
+    <item>
+      <title>Justice Dept. Charges Doctor in $95 Million Skin Substitute Fraud Scheme</title>
+      <link>https://www.nytimes.com/2026/08/04/health/skin-substitutes-medicare-fraud.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/health/skin-substitutes-medicare-fraud.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/health/skin-substitutes-medicare-fraud.html" rel="standout"></atom:link>
+      <description>Dr. Stephen Dubin, a wound care doctor in Nevada, is accused of applying unneeded, expensive wound coverings to seniors. He used the profits to buy yachts, the department said.</description>
+      <dc:creator>Sarah Kliff</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 20:10:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dubin, Stephen (1951- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Legacy Medical Consultants LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04dc-skin-substitute-bjqw/04dc-skin-substitute-bjqw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>The Justice Department said that Dr. Stephen Dubin used his Medicare earnings to finance a lavish lifestyle.</media:description>
     </item>
     <item>
       <title>Russian Strike Destroyed Millions of H.I.V. Prevention Supplies in Ukraine</title>
@@ -431,23 +453,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24dc-peptides-FDA-fkjz/24dc-peptides-FDA-fkjz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Mangum for The New York Times</media:credit>
       <media:description>Some F.D.A. scientists pointed out that the peptides under review had not been proven to be safe or effective, and could present risks to patients.</media:description>
-    </item>
-    <item>
-      <title>What to Know About Peptides the FDA Is Considering for Use</title>
-      <link>https://www.nytimes.com/2026/07/23/well/peptides-fda-research.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/23/well/peptides-fda-research.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/23/well/peptides-fda-research.html" rel="standout"></atom:link>
-      <description>The agency is considering whether compounding pharmacies should be allowed to produce BPC-157, TB-500 and other previously banned peptides.</description>
-      <dc:creator>Dana G. Smith</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 19:38:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peptides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dietary Supplements and Herbal Remedies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/23/well/23WELL-PEPTIDES-EXPLAINER1/23WELL-PEPTIDES-EXPLAINER1-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Catherine Falls/Getty Images</media:credit>
     </item>
   </channel>
 </rss>
