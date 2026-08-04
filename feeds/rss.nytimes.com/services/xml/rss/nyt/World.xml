@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/world.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 06:42:23 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 06:36:06 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:01:02 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 09:56:44 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -306,6 +306,47 @@
       <media:description>Pakistani police officials investigating the scene of a suicide bombing in the Swat Valley on Sunday.</media:description>
     </item>
     <item>
+      <title>Russia Turns Ukraine’s Gas Stations From Social Hubs Into Deadly Targets</title>
+      <link>https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/world/europe/ukraine-gas-stations-russia.html" rel="standout"></atom:link>
+      <description>Drone attacks have hit hundreds of gas stations in apparent retaliation for Ukraine’s attacks on Russian oil refineries.</description>
+      <dc:creator>Cassandra Vinograd and Oleksandr Chubko</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 09:42:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Service and Charging Stations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/07/28/00int-ukraine-gas-stations-01-gkfj-cover/00int-ukraine-gas-stations-01-gkfj-cover-mediumSquareAt3X-v2.jpg" width="1080"></media:content>
+      <media:credit>Brendan Hoffman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Airport chaos, delays as E.U. debuts biometric border system</title>
+      <link>https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/world/europe/eu-passport-control-chaos.html" rel="standout"></atom:link>
+      <description>The biometric system for non-E.U. citizens is causing long delays and short tempers at airports. Officials say the rocky rollout will get better and will improve security.</description>
+      <dc:creator>Jeanna Smialek and Koba Ryckewaert</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 09:00:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biometrics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fraport AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">von der Leyen, Ursula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Passports</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/22/multimedia/22int-europe-travel-chaos-01-cqvg/22int-europe-travel-chaos-01-cqvg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Armando Franca/Associated Press</media:credit>
+      <media:description>Waits for passport control at Lisbon’s airport peaked at six hours last winter, but now top out at a quarter of that, officials said. </media:description>
+    </item>
+    <item>
       <title>New Zealand Has Ended Greyhound Racing. Now It Has to Manage the Aftermath.</title>
       <link>https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/australia/new-zealand-greyhound-racing-ban.html</guid>
@@ -331,7 +372,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html" rel="standout"></atom:link>
       <description>Andy Burnham’s social media push appears to be resonating with some voters. But he faces big decisions about how to pay for his promises.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 04:01:18 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 04:01:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
@@ -341,6 +382,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manchester (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04int-uk-burnham-image-01-mtkl/04int-uk-burnham-image-01-mtkl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Temilade Adelaja</media:credit>
       <media:description>British Prime Minister Andy Burnham, center, visiting an Alstom training center as he unveiled new technical educational routes aimed at tackling youth unemployment, in Derby, England, in July.</media:description>
@@ -404,9 +446,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Joshua</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/Biz-Fifa-JPMorgan-01-cpqt/Biz-Fifa-JPMorgan-01-cpqt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/Biz-Fifa-JPMorgan-01-cpqt/Biz-Fifa-JPMorgan-01-cpqt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>A pregame ceremony at the FIFA World Cup final match last month between Spain and Argentina at MetLife Stadium. FIFA is expected to take in $15 billion in revenue from this year’s event. </media:description>
+      <media:description>A pregame ceremony at the FIFA World Cup final match last month between Spain and Argentina at MetLife Stadium. FIFA is expected to take in $15 billion in revenue from this year’s event.</media:description>
     </item>
     <item>
       <title>Drone Explodes on Russian Beach, Killing 7, Officials Say</title>
@@ -415,7 +457,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/world/europe/drone-russian-beach-explosion.html" rel="standout"></atom:link>
       <description>It was unclear what the drone was targeting and why it crashed in the crowded resort spot, but it has been a deadly summer for civilians caught up in the Russian-Ukrainian war.</description>
       <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 01:55:27 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 09:47:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
@@ -433,7 +475,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html" rel="standout"></atom:link>
       <description>A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.</description>
       <dc:creator>Genevieve Glatsky</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 00:55:34 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 09:56:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -497,7 +539,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/world/europe/mother-dead-body-freezer-phillips-uk.html" rel="standout"></atom:link>
       <description>Christopher Phillips, 60, pleaded guilty to several crimes, including fraud, after the police found his mother’s body in a freezer in his home.</description>
       <dc:creator>Leo Sands</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 21:17:00 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 06:57:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Porthcawl (Wales)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
@@ -557,6 +599,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michigan State University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Georgia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Athens (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1614" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00SCI-BEE-VET-individual-mjvc/00SCI-BEE-VET-individual-mjvc-mediumSquareAt3X.jpg" width="1614"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
     </item>
@@ -1148,46 +1191,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01int-nzealand-china-bwzc/01int-nzealand-china-bwzc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Aaron Favila</media:credit>
       <media:description>New Zealand’s Foreign Minister Winston Peters at the ASEAN meeting in the Philippines last month.</media:description>
-    </item>
-    <item>
-      <title>How 50,000 Migrants Surged Into Ceuta, a Spanish Exclave Near Morocco</title>
-      <link>https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html" rel="standout"></atom:link>
-      <description>On Thursday, tens of thousands of Moroccans broke into Ceuta, a Spanish territory that neighbors Morocco. By Friday evening, most of them had left, hungry and disappointed.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 04:01:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02int-Spain-Scene-pkch/02int-Spain-Scene-pkch-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Abdel Majid Bziouat/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Migrants near the Spain-Morocco border on Friday. Tens of thousands of people illegally entered the Spanish territory of Ceuta this week, though by Friday’s end most had returned.</media:description>
-    </item>
-    <item>
-      <title>Extreme Heat Has Transformed What Summer Means Across Generations in Europe</title>
-      <link>https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html" rel="standout"></atom:link>
-      <description>Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.</description>
-      <dc:creator>Jim Tankersley and Tatiana Firsova</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 12:39:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/00int-Europe-Heat-Generation-01-gbzh/00int-Europe-Heat-Generation-01-gbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
-      <media:description>Krumme Lanke lake on a hot day in Berlin this summer.</media:description>
     </item>
   </channel>
 </rss>

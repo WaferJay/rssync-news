@@ -7,7 +7,7 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 06:45:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:01:33 +0000</lastBuildDate>
     <pubDate>Tue, 04 Aug 2026 00:35:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
@@ -30,7 +30,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River Valley (NY)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/weather/2026-08-03-outlooks-index-promo/2026-08-03-outlooks-index-promo-mediumSquareAt3X-v21.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/weather/2026-08-03-outlooks-index-promo/2026-08-03-outlooks-index-promo-mediumSquareAt3X-v27.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -413,71 +413,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-    </item>
-    <item>
-      <title>France and Spain Race to Contain Fires Before Some Areas Reach 104 Degrees</title>
-      <link>https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/world/europe/wildfires-france-spain.html" rel="standout"></atom:link>
-      <description>Faced with massive blazes, firefighters in both countries are using a brief window of opportunity to bring the flames under control before temperatures spike.</description>
-      <dc:creator>Carlos Barragán, Roser Toll Pifarré and Ségolène Le Stradic</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 07:08:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Macron, Emmanuel (1977- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/28int-europe-fires-01-bjtw/28int-europe-fires-01-bjtw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Manu Fernandez/Associated Press</media:credit>
-      <media:description>Firefighters near Cebreros in Ávila Province in Spain early on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Heavy Rain Expected in New York on Tuesday</title>
-      <link>https://www.nytimes.com/2026/07/28/weather/new-york-rain-storms.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/weather/new-york-rain-storms.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/weather/new-york-rain-storms.html" rel="standout"></atom:link>
-      <description>Forecasters warned that up to seven inches of rain could fall in and around New York City.</description>
-      <dc:creator>Erin McCann</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 11:30:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River Valley (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morris County (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Northeastern States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/27/weather/2026-07-27-nyc-rain-index-promo/2026-07-27-nyc-rain-index-promo-mediumSquareAt3X-v67.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>How to Predict the Weather in Our Era of Freakish Storms</title>
-      <link>https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html" rel="standout"></atom:link>
-      <description>I didn’t want to have to depend on a weather app to know when the storms are coming.</description>
-      <dc:creator>Heidi Julavits</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 21:55:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Tahoe (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1536" medium="image" url="https://static01.nyt.com/images/2026/07/30/magazine/30mag-weather-17/30mag-weather-17-mediumSquareAt3X.jpg" width="1536"></media:content>
-      <media:credit>Natalie Ivis for The New York Times</media:credit>
-      <media:description>Fog approaching off the coast of Brooklin, Maine.</media:description>
     </item>
   </channel>
 </rss>

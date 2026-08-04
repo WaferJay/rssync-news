@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 03:41:51 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 03:20:15 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 09:59:36 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 09:16:03 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,6 +33,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Michigan State University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Georgia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Athens (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1614" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00SCI-BEE-VET-individual-mjvc/00SCI-BEE-VET-individual-mjvc-mediumSquareAt3X.jpg" width="1614"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
     </item>
@@ -188,6 +189,45 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-space-solar-lcqv/30biz-space-solar-lcqv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>NASA, via Reuters</media:credit>
       <media:description>Small solar arrays, like those on the International Space Station, are already used in space, but A.I. data centers would require substantially more equipment for electricity generation.</media:description>
+    </item>
+    <item>
+      <title>A SpaceX Rocket Will Soon Crash Into the Moon</title>
+      <link>https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html" rel="standout"></atom:link>
+      <description>The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 09:04:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Planets</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04SCI-SpaceX-Moon-Crash-ROCKET-klqw/04SCI-SpaceX-Moon-Crash-ROCKET-klqw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gregg Newton/Agence France-Presse</media:credit>
+      <media:description>A SpaceX Falcon 9 rocket carrying two private lunar landers launched in January last year. The second stage of this rocket will hit the moon at 5,400 miles per hour on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Phoenix Species Project Announces Funds for Imperiled Wildlife</title>
+      <link>https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html" rel="standout"></atom:link>
+      <description>A new fund called the Phoenix Species Project will provide $200 million to help pull imperiled species back from the brink of extinction.</description>
+      <dc:creator>Catrin Einhorn</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 09:00:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bezos Earth Fund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Re:wild</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DiCaprio, Leonardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/climate/04cli-endangered-grid/04cli-endangered-grid-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joel Sartore/National Geographic Photo Ark</media:credit>
+      <media:description>Some of the imperiled animals included in the Phoenix Species Project.</media:description>
     </item>
     <item>
       <title>Olga Soffer, Fashion Maven Who Studied Caveman Couture, Dies at 83</title>
@@ -435,43 +475,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Reproduction (Biological)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>In This Costa Rican Forest, Monkeys Come Face-to-Face With A.I.</title>
-      <link>https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/science/costa-rica-monkeys-ai.html" rel="standout"></atom:link>
-      <description>CapuchinAI, a portable testing station equipped with a touch screen and facial recognition software, could help scientists study primate intelligence in the wild.</description>
-      <dc:creator>Emily Anthes</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 16:22:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monkeys and Apes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Cognition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Journal of Primatology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Costa Rica</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>How to Predict the Weather in Our Era of Freakish Storms</title>
-      <link>https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/magazine/weather-forecasting-storms-predictions.html" rel="standout"></atom:link>
-      <description>I didn’t want to have to depend on a weather app to know when the storms are coming.</description>
-      <dc:creator>Heidi Julavits</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 21:55:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Weather Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Tahoe (Nev)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1536" medium="image" url="https://static01.nyt.com/images/2026/07/30/magazine/30mag-weather-17/30mag-weather-17-mediumSquareAt3X.jpg" width="1536"></media:content>
-      <media:credit>Natalie Ivis for The New York Times</media:credit>
-      <media:description>Fog approaching off the coast of Brooklin, Maine.</media:description>
     </item>
   </channel>
 </rss>

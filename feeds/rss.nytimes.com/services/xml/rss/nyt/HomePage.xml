@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 04 Aug 2026 06:45:47 +0000</lastBuildDate>
-    <pubDate>Tue, 04 Aug 2026 06:36:06 +0000</pubDate>
+    <lastBuildDate>Tue, 04 Aug 2026 10:02:12 +0000</lastBuildDate>
+    <pubDate>Tue, 04 Aug 2026 10:00:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -107,6 +107,21 @@
       <media:description>U.S.-Israel attacks against Iran on Feb. 28 followed by Iran’s almost-immediate closure of the Strait of Hormuz, has stranded thousands of sailors.</media:description>
     </item>
     <item>
+      <title>Saudi Aramco Reports 33% Profit Surge Despite War’s Disruption</title>
+      <link>https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/business/saudi-aramco-earnings-iran-war.html" rel="standout"></atom:link>
+      <description>Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.</description>
+      <dc:creator>Lisa Friedman</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 07:31:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasser, Amin H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+    </item>
+    <item>
       <title>A Currency Trader at Heart, Bessent Bets on Japan’s Yen</title>
       <link>https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/business/economy/bessent-yen-currency-support.html</guid>
@@ -129,9 +144,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04dc-us-yen-02-bjct/04dc-us-yen-02-bjct-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04dc-us-yen-02-bjct/04dc-us-yen-02-bjct-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross for The New York Times</media:credit>
-      <media:description>Scott Bessent, the Treasury secretary, last week returned to his roots as a hedge fund manager in making a currency bet to help stabilize Japan’s currency. </media:description>
+      <media:description>Scott Bessent, the Treasury secretary, last week returned to his roots as a hedge fund manager in making a currency bet to help stabilize Japan’s currency.</media:description>
     </item>
     <item>
       <title>Author of Democrats’ 2024 Autopsy Says Party Left Out Key Chapter</title>
@@ -258,7 +273,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/world/americas/venezuela-us-deportation-flights-resume.html" rel="standout"></atom:link>
       <description>A plane with 147 Venezuelans landed on Monday in the South American country amid criticism over the deaths of deportees housed in a collapsed building during June’s quakes.</description>
       <dc:creator>Genevieve Glatsky</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 00:55:34 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 09:56:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -322,7 +337,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/world/europe/andy-burnham-uk-prime-minister.html" rel="standout"></atom:link>
       <description>Andy Burnham’s social media push appears to be resonating with some voters. But he faces big decisions about how to pay for his promises.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 04:01:18 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 04:01:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labour Party (Great Britain)</category>
@@ -332,6 +347,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manchester (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Starmer, Keir</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04int-uk-burnham-image-01-mtkl/04int-uk-burnham-image-01-mtkl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Temilade Adelaja</media:credit>
       <media:description>British Prime Minister Andy Burnham, center, visiting an Alstom training center as he unveiled new technical educational routes aimed at tackling youth unemployment, in Derby, England, in July.</media:description>
@@ -343,7 +359,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/03/us/spokane-wildfires-update.html" rel="standout"></atom:link>
       <description>Despite the scale of the damage, there have been no reported fatalities in the fires that started over the weekend. Late on Monday, officials arrested a man suspected of setting one of the fires.</description>
       <dc:creator>Anna Griffin</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 06:31:39 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 06:56:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03nat-spokane-fires-1-gtbj/03nat-spokane-fires-1-gtbj-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -357,7 +373,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html" rel="standout"></atom:link>
       <description>Aaron Farinacci, 37, was arrested after a witness reported seeing him kneeling near the ignition site of a major fire in Washington State, officials said.</description>
       <dc:creator>Anna Griffin</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 06:27:49 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 06:57:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
@@ -417,46 +433,42 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/29/nyregion/29-broke-dating1/29visualUploader-97380-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gary Hershorn/Getty Images</media:credit>
       <media:description>People in their 20s and 30s are dating less than earlier generations did. The high cost of going out is one of the reasons.</media:description>
     </item>
     <item>
-      <title>What Do Dictators Fear Most? Just Ask Nicaragua.</title>
-      <link>https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html" rel="standout"></atom:link>
-      <description>Nicaragua shows what happens when even dictators fear a rigged election.</description>
-      <dc:creator>Gioconda Belli</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 05:00:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nicaragua</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ortega, Daniel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murillo, Rosario</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ortega, Humberto</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Somoza Debayle, Anastasio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Term Limits (Political Office)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutions</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/opinion/04belli/04belli-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Illustration by The New York Times; source photographs by AFP/Getty and Alfredo Zuniga</media:credit>
+      <title>David Ellison: In Defense of the Paramount-Warner Deal</title>
+      <link>https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html" rel="standout"></atom:link>
+      <description>The issue is whether I can be trusted as a steward of CNN</description>
+      <dc:creator>David Ellison</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 09:03:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CNN</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS News</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Brothers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CBS Corporation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04ellison3-ctfl/04ellison3-ctfl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jae C. Hong/Associated Press</media:credit>
     </item>
     <item>
-      <title>I Helped Run Lululemon. The A.I. Revolution Is a Hot Mess.</title>
-      <link>https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/opinion/ai-hype-tech-layoffs.html" rel="standout"></atom:link>
-      <description>The A.I. revolution is stalling because companies don’t want to admit that integrating the technology is expensive and slow and requires human effort.</description>
-      <dc:creator>Julie Averill</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 20:05:28 +0000</pubDate>
+      <title>The A.I. Giants Weren’t Prepared for This</title>
+      <link>https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html" rel="standout"></atom:link>
+      <description>Jasmine Sun, a writer covering technology, takes us into the backlash against A.I. data centers.</description>
+      <dc:creator>Ezra Klein and Rollin Hu</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 10:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jasmine Sun</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lululemon Athletica Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/opinion/04eks-sun-image/04eks-sun-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Late Night Reacts to Trump’s Latest Iran Deal Comments</title>
@@ -498,9 +510,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Berlusconi, Silvio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Joshua</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/Biz-Fifa-JPMorgan-01-cpqt/Biz-Fifa-JPMorgan-01-cpqt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/Biz-Fifa-JPMorgan-01-cpqt/Biz-Fifa-JPMorgan-01-cpqt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
-      <media:description>A pregame ceremony at the FIFA World Cup final match last month between Spain and Argentina at MetLife Stadium. FIFA is expected to take in $15 billion in revenue from this year’s event. </media:description>
+      <media:description>A pregame ceremony at the FIFA World Cup final match last month between Spain and Argentina at MetLife Stadium. FIFA is expected to take in $15 billion in revenue from this year’s event.</media:description>
     </item>
   </channel>
 </rss>
