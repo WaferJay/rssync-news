@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 17:55:29 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 17:36:33 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 19:58:22 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 19:15:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -45,11 +45,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dean, Jeff (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghemawat, Sanjay</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le, Quoc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vinyals, Oriol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Discovery Loop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepMind Technologies Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Discovery Loop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghemawat, Sanjay</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Le, Quoc (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vinyals, Oriol</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05biz-google-dean-1-kqvl/05biz-google-dean-1-kqvl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Quoc V. Le, left, Oriol Vinyals, Jeff Dean and Sanjay Ghemawat are leaving Google to start a new A.I. company called Discovery Loop.</media:description>
@@ -82,7 +82,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html" rel="standout"></atom:link>
       <description>The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes.</description>
       <dc:creator>Jesse Drucker and Dylan Freedman</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 17:36:33 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 18:38:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Shelters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
@@ -105,7 +105,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html" rel="standout"></atom:link>
       <description>In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.</description>
       <dc:creator>Paul Mozur, Adam Satariano and Aaron Krolik</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 14:12:57 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 18:53:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -156,7 +156,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html" rel="standout"></atom:link>
       <description>The company said it added 280,000 digital subscribers in the second quarter.</description>
       <dc:creator>Katie Robertson</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 17:13:17 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 18:10:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times Company</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
@@ -182,7 +182,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Disney, Walt, World (Lake Buena Vista, Fla)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Universal Orlando Resort</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Orlando (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cavanagh, Michael J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05BIZ-DISNEY-earnings-01-hwfq/05BIZ-DISNEY-earnings-01-hwfq-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -469,15 +468,12 @@
       <description>The fast-food giant replaced its president of U.S. operations, aiming to bring “focus and urgency” to a revamp of its outlets.</description>
       <dc:creator>Julie Creswell</dc:creator>
       <pubDate>Tue, 04 Aug 2026 15:56:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McDonald&#39;s Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McDonald&#39;s Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kempczinski, Chris</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04biz-mcdonalds-earnings-lbqt/04biz-mcdonalds-earnings-lbqt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Charles Krupa/Associated Press</media:credit>
@@ -538,20 +534,13 @@
       <description>Rick Caruso, the billionaire real estate developer and former Los Angeles mayoral candidate, is reviving a property still surrounded by burned-out lots.</description>
       <dc:creator>Kim Bhasin and Shawn Hubler</dc:creator>
       <pubDate>Tue, 04 Aug 2026 19:46:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Southern California Wildfires (Jan 2025)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping Centers and Malls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Palisades Village (Pacific Palisades, Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caruso, Rick J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beverly Hills (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brentwood (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Palisades (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00biz-palisades-village-caruso-06-vbtj/00biz-palisades-village-caruso-06-vbtj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
       <media:description>Palisades Village mall, which was largely intact after the devastating Los Angeles wildfire last year, is nearly complete and set to reopen Aug. 15.</media:description>
@@ -577,16 +566,11 @@
       <dc:creator>Emily Steel</dc:creator>
       <pubDate>Tue, 04 Aug 2026 14:34:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arbitration, Conciliation and Mediation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chauffeurs and Drivers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kirkland &amp; Ellis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/business/0725-uber-tactics-print1/0725-uber-tactics-print1-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>max-o-matic</media:credit>
     </item>
@@ -779,7 +763,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/2026-biz-august-promos-index/2026-biz-august-promos-index-mediumSquareAt3X-v9.png" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/2026-biz-august-promos-index/2026-biz-august-promos-index-mediumSquareAt3X-v13.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
