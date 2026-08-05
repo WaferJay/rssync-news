@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 07:57:31 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 07:21:39 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:53:43 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 09:02:12 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -203,6 +203,21 @@
       <media:description>Several types of electric bikes and scooters are legal in New York City, but many others, including those that can travel at high speeds, are banned.</media:description>
     </item>
     <item>
+      <title>Gen Z’s Dating Doldrums</title>
+      <link>https://www.nytimes.com/2026/08/05/nyregion/gen-zs-dating-doldrums.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/nyregion/gen-zs-dating-doldrums.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/nyregion/gen-zs-dating-doldrums.html" rel="standout"></atom:link>
+      <description>Young people in New York City are going out on fewer dates, partly because everything is so expensive.</description>
+      <dc:creator>Davaughnia Wilson</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 09:02:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/espanol/met-broke-dating-pjft-ES-copy1/met-broke-dating-pjft-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+    </item>
+    <item>
       <title>He Had Tenure. The New School Laid Him Off Anyway.</title>
       <link>https://www.nytimes.com/2026/08/05/nyregion/new-school-faculty-fired-nyc.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/nyregion/new-school-faculty-fired-nyc.html</guid>
@@ -394,26 +409,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/prek-cost-hpbf/prek-cost-hpbf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>A new report from the Center for New York City Affairs builds in higher salaries for some New York City child care educators than are included in the current city budget.</media:description>
-    </item>
-    <item>
-      <title>‘Hadestown’ Parts Ways With Geno Segers After Transgender Comments Surface</title>
-      <link>https://www.nytimes.com/2026/08/02/arts/hadestown-geno-segers-transgender-departs.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/arts/hadestown-geno-segers-transgender-departs.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/02/arts/hadestown-geno-segers-transgender-departs.html" rel="standout"></atom:link>
-      <description>Geno Segers was set to join the production with an all-new principal cast in September.</description>
-      <dc:creator>Johnny Diaz</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 22:56:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Segers, Geno</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hadestown (Play)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/02xp-hadestown-fvgw/02xp-hadestown-fvgw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Alberto E. Rodriguez/Getty Images</media:credit>
-      <media:description>On Sunday, the show issued a statement that said, “The producers of Hadestown and Geno Segers have mutually agreed that Mr. Segers will no longer join the Broadway production.”</media:description>
     </item>
   </channel>
 </rss>

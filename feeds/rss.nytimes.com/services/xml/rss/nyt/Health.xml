@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 07:53:54 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 06:35:59 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 10:52:53 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 09:01:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -216,6 +216,23 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30xp-map-zlwm/30xp-map-zlwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Picture Obtained By Reuters/UGC</media:credit>
       <media:description>A map presented by the State Department at AIDS 2026, a conference in Brazil this week. </media:description>
+    </item>
+    <item>
+      <title>The U.S. Relies on Family Caregivers. Millions of Them Are Kids.</title>
+      <link>https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html" rel="standout"></atom:link>
+      <description>The modern health care system requires the work of caregiving to fall to whoever else lives in a household — even if they’re kids.</description>
+      <dc:creator>Helen Ouyang and Stephanie Sinclair</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 09:01:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/magazine/16mag-caregivers-promo/16mag-caregivers-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephanie Sinclair for The New York Times</media:credit>
+      <media:description>SuSann Forman-Ferreira, 74, and her eighth-grade grandson and caregiver, Zion Zebedee Hedgepeth, at their home in Boca Raton, Fla., in June.</media:description>
     </item>
     <item>
       <title>Justice Dept. Charges Doctor in $95 Million Skin Substitute Fraud Scheme</title>
@@ -432,27 +449,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24xp-egg-recall-htqc/24xp-egg-recall-htqc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tony Gutierrez/Associated Press</media:credit>
       <media:description>Midwest Poultry Services of North Manchester, Ind., said it was recalling eggs produced on two farms in Texas “as a precautionary measure.”</media:description>
-    </item>
-    <item>
-      <title>F.D.A. Panel’s Vote on Peptides Raises Concerns About a Prescribing Boom</title>
-      <link>https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/24/us/politics/fda-panel-vote-peptides.html" rel="standout"></atom:link>
-      <description>The committee endorsed broader use of the peptides in lightly regulated compounding pharmacies that have grown into a multibillion-dollar business.</description>
-      <dc:creator>Christina Jewett and Dana G. Smith</dc:creator>
-      <pubDate>Mon, 27 Jul 2026 13:57:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peptides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telemedicine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24dc-peptides-FDA-fkjz/24dc-peptides-FDA-fkjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Mangum for The New York Times</media:credit>
-      <media:description>Some F.D.A. scientists pointed out that the peptides under review had not been proven to be safe or effective, and could present risks to patients.</media:description>
     </item>
   </channel>
 </rss>
