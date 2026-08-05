@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 10:54:41 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 10:49:44 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 13:03:00 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 12:23:25 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Rep. Chuck Edwards Drops Re-election Bid in North Carolina After Ethics Rebuke</title>
+      <link>https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-north-carolina.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-north-carolina.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/us/politics/chuck-edwards-north-carolina.html" rel="standout"></atom:link>
+      <description>Chuck Edwards made the announcement after the House Ethics Committee recommended he be censured for “persistent unprofessional and inappropriate conduct” toward two female staff members.</description>
+      <dc:creator>Shane Goldmacher</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 11:34:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Edwards, Chuck (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05pol-edwards-phlb/05pol-edwards-phlb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Representative Chuck Edwards, Republican of North Carolina, at the Capitol in April.</media:description>
+    </item>
     <item>
       <title>In Redrawn Tennessee, Democrats Scramble to Hold On to One Seat</title>
       <link>https://www.nytimes.com/2026/08/05/us/elections/tennessee-primary-democrats.html</link>
@@ -44,6 +62,14 @@
       <dc:creator>Livia Albeck-Ripka and Philip Cheung</dc:creator>
       <pubDate>Wed, 05 Aug 2026 09:00:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Avenal (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Democracy (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Preciado, Alvaro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hispanic-Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, City Councils</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01nat-ca-avenal-01-ghjv/01nat-ca-avenal-01-ghjv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Alvaro Preciado, the mayor of Avenal, at City Hall in June. He has refused to vacate his seat after he was ousted in a recall election earlier this year.</media:description>
     </item>
@@ -53,8 +79,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/05/us/michigan-election-results-primary/heres-the-latest</guid>
       <atom:link href="https://www.nytimes.com/live/2026/08/05/us/michigan-election-results-primary/heres-the-latest" rel="standout"></atom:link>
       <description></description>
-      <dc:creator>Kellen Browning</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 10:35:54 +0000</pubDate>
+      <dc:creator>Kellen Browning and Shane Goldmacher</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 11:59:38 +0000</pubDate>
     </item>
     <item>
       <title>William Lawrence Wins Primary in Battleground Michigan House District</title>
@@ -194,7 +220,14 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bell, Wesley (1974- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Cori</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Israel Public Affairs Committee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04POL-MO7-HFO-vcbw/04POL-MO7-HFO-vcbw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>Representative Wesley Bell, Democrat of Missouri, withstood a primary challenge from former Representative Cori Bush, his predecessor, on Tuesday. </media:description>
@@ -377,6 +410,12 @@
       <dc:creator>Bayliss Wagner</dc:creator>
       <pubDate>Wed, 05 Aug 2026 01:35:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Taylor, Shannon Leigh (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wittman, Robert Joseph (1959- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04midterms-HFO-POL-VA1-wlmb/04midterms-HFO-POL-VA1-wlmb-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Mike Kropf/Associated Press</media:credit>
       <media:description>Shannon Taylor posing for a photo with supporters at a door-knocking event last month in Williamsburg, Va.</media:description>
@@ -508,8 +547,9 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/results-timing-michigan-virginia-missouri-washington-kansas.html" rel="standout"></atom:link>
       <description>Voters will cast ballots in several primaries. Results will most likely be known late Tuesday or early Wednesday.</description>
       <dc:creator>Taylor Robinson</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 23:24:16 +0000</pubDate>
+      <pubDate>Tue, 04 Aug 2026 23:24:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
@@ -526,7 +566,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/jan-6-charges-oath-keepers-dismissed.html" rel="standout"></atom:link>
       <description>The judge, Amit P. Mehta, blasted the administration’s request for a dismissal in the case, saying it bestowed “unearned grace” on the Oath Keepers defendants “by wiping their records clean.”</description>
       <dc:creator>Alan Feuer</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 08:39:04 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 08:39:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fringe Groups and Movements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -611,9 +651,12 @@
       <dc:creator>Tyler Pager, Glenn Thrush and Katie Rogers</dc:creator>
       <pubDate>Wed, 05 Aug 2026 05:03:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Attorneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Atlantic Industrial Coatings LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Park Police</category>
@@ -621,7 +664,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hearn, David (1959- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burgum, Douglas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04dc-trump-pirro-top-lgcv/04dc-trump-pirro-top-lgcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Salwan Georges for The New York Times</media:credit>
       <media:description>Jeanine Pirro, the U.S. attorney for the District of Columbia, at a news conference in Washington in April.</media:description>
@@ -791,7 +833,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/mosquito-africa-anopheles-stephensi.html" rel="standout"></atom:link>
       <description>The malaria-carrying mosquito is resistant to all insecticides. Scientists are scrambling to find ways to blunt the risk.</description>
       <dc:creator>Stephanie Nolen</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 06:35:59 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 12:07:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Malaria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
@@ -856,22 +898,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04midtermspol-whattowatch-ks-czqf/04midtermspol-whattowatch-ks-czqf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michael B. Thomas/Getty Images</media:credit>
       <media:description>On Tuesday, Kansas primary voters will also weigh in on a ballot measure on whether to overhaul the way State Supreme Court justices are selected.</media:description>
-    </item>
-    <item>
-      <title>What to Watch in Missouri’s Primaries as Cori Bush Tries to Beat Wesley Bell</title>
-      <link>https://www.nytimes.com/2026/08/04/us/politics/missouri-primary-election-bush-bell.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/missouri-primary-election-bush-bell.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/missouri-primary-election-bush-bell.html" rel="standout"></atom:link>
-      <description>Former Representative Cori Bush, a member of the progressive “squad,” is trying to defeat Representative Wesley Bell, a moderate who ousted her two years ago.</description>
-      <dc:creator>Bayliss Wagner</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:19:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bell, Wesley (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Cori</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
     </item>
   </channel>
 </rss>
