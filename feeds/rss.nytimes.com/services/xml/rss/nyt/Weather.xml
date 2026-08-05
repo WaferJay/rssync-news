@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 20:00:39 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 19:17:08 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:38:17 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 21:27:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Coming Soon to the Asia Pacific: A Storm Named Dim-sum</title>
+      <link>https://www.nytimes.com/2026/08/05/weather/typhoon-dolphin-names-dimsum-pacific.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/weather/typhoon-dolphin-names-dimsum-pacific.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/weather/typhoon-dolphin-names-dimsum-pacific.html" rel="standout"></atom:link>
+      <description>Forecasters in the region maintain a list of typhoon names drawn from national symbols, including foods, animals and local expressions. Here is how the process works.</description>
+      <dc:creator>Francesca Regalado</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 21:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Meteorological Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southeast Asia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/11/multimedia/00xp-cyclone-names-02-bcpt/00xp-cyclone-names-02-bcpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vernon Yuen/Associated Press</media:credit>
+      <media:description>Waves near Victoria Harbor in Hong Kong following Typhoon Wipha last year.</media:description>
+    </item>
     <item>
       <title>Windy Weather Could Worsen Pacific Northwest Fires</title>
       <link>https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html</link>
@@ -56,7 +76,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/world/asia/south-korea-baseball-heat-wave.html" rel="standout"></atom:link>
       <description>The country has been gripped by a record-setting heat wave that endangered both players and spectators.</description>
       <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 18:18:56 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 21:27:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
@@ -388,24 +408,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30xp-japanquake-wpqf/30xp-japanquake-wpqf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jiji Press, via Agence France-Presse — Getty Images</media:credit>
       <media:description>Rescue efforts in Yatsushiro, Kumamoto Prefecture, Japan, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>The Summer That Broke Europe</title>
-      <link>https://www.nytimes.com/2026/07/29/world/europe-summer-heat-fires-saudi.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/world/europe-summer-heat-fires-saudi.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/world/europe-summer-heat-fires-saudi.html" rel="standout"></atom:link>
-      <description>Record heat and wildfires are devastating the continent, and scientists warn the climate crisis is getting worse.</description>
-      <dc:creator>Alicia P.Q. Wittmeyer</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 04:57:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30int-theworld-eu-wildfires-promo-pzcb/30int-theworld-eu-wildfires-promo-pzcb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
     </item>
   </channel>
 </rss>

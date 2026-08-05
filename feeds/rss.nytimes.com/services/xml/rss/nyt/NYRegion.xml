@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 19:58:57 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 19:54:05 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:37:25 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 20:59:42 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -80,10 +80,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buildings Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metro Loft Management</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/buildings-nyc-jtbf/buildings-nyc-jtbf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Nearly a month since the former Pfizer building became dangerously unstable, the project to convert the office towers to apartments remained on hold.</media:description>
@@ -167,6 +167,35 @@
       <media:description>Current state rules require businesses that sell food, including restaurants, stores or carts, food to obtain a separate frozen dessert permit to sell ice cream.</media:description>
     </item>
     <item>
+      <title>Death Renews Scrutiny of Delaney Hall. Here’s What to Know.</title>
+      <link>https://www.nytimes.com/2026/08/05/nyregion/delaney-hall-ice-what-we-know.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/nyregion/delaney-hall-ice-what-we-know.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/nyregion/delaney-hall-ice-what-we-know.html" rel="standout"></atom:link>
+      <description>The death of a Salvadoran immigrant at the federal detention center in Newark has raised questions about the conditions there.</description>
+      <dc:creator>Ana Ley</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 20:45:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delaney Hall (Newark, NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tobin, Joseph W (1952- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex County (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05met-delaney-wwk-qkfj/05met-delaney-wwk-qkfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>Immigration and Customs Enforcement agents have monitored demonstrations outside the Delaney Hall detention center for months.</media:description>
+    </item>
+    <item>
       <title>What One Witness Saw Before a Spokane Wildfire Started </title>
       <link>https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html</guid>
@@ -230,12 +259,11 @@
       <description>When the New York Historical realized that sunlight in its new wing would potentially damage some items on display, it scrambled to reproduce or remove them.</description>
       <dc:creator>Robin Pogrebin</dc:creator>
       <pubDate>Tue, 04 Aug 2026 21:37:42 +0000</pubDate>
+      <category domain=""></category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sunlight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Alliance of Museums</category>
-      <category domain=""></category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mirrer, Louise</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saar, Betye</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/04cul-UNREAL-HIT-11-gzhw/04cul-UNREAL-HIT-11-gzhw-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -386,27 +414,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/29/nyregion/29-broke-dating1/29visualUploader-97380-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gary Hershorn/Getty Images</media:credit>
       <media:description>People in their 20s and 30s are dating less than earlier generations did. The high cost of going out is one of the reasons.</media:description>
-    </item>
-    <item>
-      <title>‘The Odyssey’ for Babies? Some Parents Are on Board.</title>
-      <link>https://www.nytimes.com/2026/08/03/nyregion/the-odyssey-for-babies-some-parents-are-on-board.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/nyregion/the-odyssey-for-babies-some-parents-are-on-board.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/nyregion/the-odyssey-for-babies-some-parents-are-on-board.html" rel="standout"></atom:link>
-      <description>A few movie theaters are offering morning matinees for parents who want to watch the movie that people are talking about and who don’t mind bringing very small companions.</description>
-      <dc:creator>Maya King</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 09:01:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Odyssey (2026) (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theaters (Buildings)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alamo Drafthouse Cinema</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nitehawk Cinema (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nolan, Christopher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="1308" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/03nytoday-baby/baby-cinema-01-hcbf-mediumSquareAt3X.jpg" width="1308"></media:content>
-      <media:credit>Kent J. Edwards for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

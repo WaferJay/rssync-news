@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 19:58:10 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 19:17:32 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 21:35:47 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 20:41:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html" rel="standout"></atom:link>
       <description>In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.</description>
       <dc:creator>Paul Mozur, Adam Satariano and Aaron Krolik</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 18:53:31 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 20:41:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
@@ -202,8 +202,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03biz-ai-whiplash--03-chmf/03biz-ai-whiplash--03-chmf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
       <media:description>Chinese open-source artificial models like Kimi, made by Moonshot AI, have added a new and urgent dimension to the fight between Washington and Beijing over who will control critical technologies.</media:description>
@@ -634,48 +635,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (TV Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archive of Our Own (Web Site)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-    </item>
-    <item>
-      <title>Microsoft Increases Spending on A.I. as Profit Jumps 31%</title>
-      <link>https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html" rel="standout"></atom:link>
-      <description>Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.</description>
-      <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 23:10:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nadella, Satya</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-microsoft1-vmcl/29biz-microsoft1-vmcl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>The Microsoft Experience Center in Manhattan on Wednesday, when Microsoft reported quarterly capital expenditures of $41 billion. </media:description>
-    </item>
-    <item>
-      <title>Meta’s Profit Falls 14 Percent as A.I. Spending Continues</title>
-      <link>https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html" rel="standout"></atom:link>
-      <description>The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 23:17:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Alexandr (Technology Executive)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29biz-meta-earnings-lpzq/29biz-meta-earnings-lpzq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>Products on display at the Meta Lab store in Midtown Manhattan.</media:description>
     </item>
   </channel>
 </rss>
