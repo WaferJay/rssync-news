@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 21:33:47 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 21:11:13 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 23:25:11 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 23:02:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -153,13 +153,17 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/magazine/child-family-caregivers-aacy.html" rel="standout"></atom:link>
       <description>The modern health care system requires the work of caregiving to fall to whoever else lives in a household — even if they’re kids.</description>
       <dc:creator>Helen Ouyang and Stephanie Sinclair</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 16:31:25 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 16:31:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Health Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/magazine/16mag-caregivers-promo/16mag-caregivers-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stephanie Sinclair for The New York Times</media:credit>
       <media:description>SuSann Forman-Ferreira, 74, and her eighth-grade grandson and caregiver, Zion Zebedee Hedgepeth, at their home in Boca Raton, Fla., in June.</media:description>
@@ -204,6 +208,31 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03dc-fauci-kennedy-qkbm/03dc-fauci-kennedy-qkbm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Robert F. Kennedy Jr., now the health secretary, published “The Real Anthony Fauci” in 2021.</media:description>
+    </item>
+    <item>
+      <title>Fauci Faces Contempt Vote. Here Are the Legal Issues Involved.</title>
+      <link>https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html" rel="standout"></atom:link>
+      <description>Dr. Fauci invoked his Constitutional right under the Fifth Amendment in refusing to answer questions from a Senate committee. Republicans say he is ineligible for that protection.</description>
+      <dc:creator>Jan Hoffman</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 22:32:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fifth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Homeland Security and Governmental Affairs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-fauci-legal-explainer-zpbc/05dc-fauci-legal-explainer-zpbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Dr. Anthony Fauci, former director of the National Institute of Allergy and Infectious Diseases, at a Senate Homeland Security Committee hearing last week.</media:description>
     </item>
     <item>
       <title>Russian Strike Destroyed Millions of H.I.V. Prevention Supplies in Ukraine</title>
@@ -433,23 +462,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/business/00biz-kalshi-biotech/00biz-kalshi-biotech-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pingnan Lu</media:credit>
-    </item>
-    <item>
-      <title>There’s a Way to Prevent Ovarian Cancer. Few Know About It.</title>
-      <link>https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html" rel="standout"></atom:link>
-      <description>The vast majority of cases begin in the fallopian tubes — and removing them can reduce the risk by nearly 80 percent.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Tue, 28 Jul 2026 19:02:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ovarian Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surgery and Surgeons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johns Hopkins Hospital (Baltimore, Md)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Memorial Sloan-Kettering Cancer Center</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00SCI-OVARIAN-CANCER-stillpromo-hcbv/00SCI-OVARIAN-CANCER-stillpromo-hcbv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>KT Kanazawich for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
