@@ -3,17 +3,190 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1785890948571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 00:49:08 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 00:46:47 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 04:32:22 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 04:00:26 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>William Lawrence Wins Primary in Battleground Michigan House District</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html" rel="standout"></atom:link>
+      <description>William Lawrence defeated two moderate candidates to challenge a vulnerable Republican incumbent, but some worry his views could hurt his chances in November.</description>
+      <dc:creator>Bayliss Wagner and Evan Gorelick</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 03:27:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04pol-HFO-MI-HOUSE-hfgt/04pol-HFO-MI-HOUSE-hfgt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>William Lawrence for U.S. Congress</media:credit>
+      <media:description>William Lawrence, 35, is a co-founder of the youth-led environmental group the Sunrise Movement. </media:description>
+    </item>
+    <item>
+      <title>John James Wins Republican Nomination for Michigan Governor</title>
+      <link>https://www.nytimes.com/2026/08/04/us/elections/michigan-republican-governor-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/elections/michigan-republican-governor-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/elections/michigan-republican-governor-primary.html" rel="standout"></atom:link>
+      <description>Representative John James emerged from the primary, setting up a competitive general election race.</description>
+      <dc:creator>Mitch Smith</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 02:49:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">James, John (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Perry (1948- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-michigan-republicans-governor-james-gcpw/04nat-michigan-republicans-governor-james-gcpw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Julia Demaree Nikhinson/Associated Press</media:credit>
+      <media:description>Representative John James at a tour of Atomic Industries’ manufacturing facility in Warren, Mich., in April.</media:description>
+    </item>
+    <item>
+      <title>Cindy Holscher Wins Kansas Democratic Primary for Governor</title>
+      <link>https://www.nytimes.com/2026/08/04/us/elections/kansas-democratic-primary-governor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/elections/kansas-democratic-primary-governor.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/elections/kansas-democratic-primary-governor.html" rel="standout"></atom:link>
+      <description>In a race to be governor of Kansas, State Senator Cindy Holscher defeated a fellow Democratic lawmaker who was endorsed by the current governor, Laura Kelly.</description>
+      <dc:creator>Mitch Smith</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 02:34:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <media:content height="1600" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-kansas-democrats-governor-Holscher-gjtm/04nat-kansas-democrats-governor-Holscher-gjtm-mediumSquareAt3X.jpg" width="1600"></media:content>
+      <media:credit>Christopher Smith for The New York Times</media:credit>
+      <media:description>State Senator Cindy Holscher of Kansas in Lenexa, Kan.</media:description>
+    </item>
+    <item>
+      <title>Arizona’s Democratic Governor Set to Pick a Republican Running Mate</title>
+      <link>https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html" rel="standout"></atom:link>
+      <description>Gov. Katie Hobbs, locked in a competitive re-election battle, plans to tap a moderate former mayor of Mesa, Ariz., John Giles, to serve as her lieutenant governor if she wins in November.</description>
+      <dc:creator>Sejal Govindarao, Kellen Browning and Reis Thebault</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 01:39:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biggs, Andy (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Giles, John C (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hobbs, Kathleen M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-ariz-gov-hfbz/04nat-ariz-gov-hfbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ross D. Franklin/Associated Press</media:credit>
+      <media:description>Gov. Katie Hobbs of Arizona on primary Election Day last month in Phoenix.</media:description>
+    </item>
+    <item>
+      <title>Missouri Voters Reject Measure to Limit Their Ballot Box Powers</title>
+      <link>https://www.nytimes.com/2026/08/04/us/elections/missouri-citizen-led-constitutional-amendments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/elections/missouri-citizen-led-constitutional-amendments.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/elections/missouri-citizen-led-constitutional-amendments.html" rel="standout"></atom:link>
+      <description>The state’s conservative Legislature had put the measure on the ballot that would have enacted citizen initiatives only if they won majorities in each of Missouri’s eight U.S. House districts.</description>
+      <dc:creator>Kate Zernike</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 01:17:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Missouri</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutional Amendments</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-missouri-referendum-1-tkzc/04nat-missouri-referendum-1-tkzc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ed Zurga/Associated Press</media:credit>
+      <media:description>Residents place their signatures on a petition in support of a ballot initiative to end Missouri’s near-total ban on abortion during a petition drive in Kansas City in 2024.</media:description>
+    </item>
+    <item>
+      <title>Kansas Voters Crush a Measure to Elect Supreme Court Judges</title>
+      <link>https://www.nytimes.com/2026/08/04/us/elections/kansas-judicial-referendum-supreme-court.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/elections/kansas-judicial-referendum-supreme-court.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/elections/kansas-judicial-referendum-supreme-court.html" rel="standout"></atom:link>
+      <description>The rejection of a measure to begin electing justices was a victory for abortion rights groups who defended the Kansas high court’s ruling that abortion was protected in the state constitution.</description>
+      <dc:creator>Kate Zernike</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 01:09:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitutional Amendments</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/04/us/04nat-kansas-judges-1/04nat-kansas-judges-1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Charlie Riedel/Associated Press</media:credit>
+      <media:description>The Kansas Supreme Court hearing a case in Topeka, Kan., in 2019.</media:description>
+    </item>
+    <item>
+      <title>Ty Masterson Wins Kansas Republican Primary for Governor</title>
+      <link>https://www.nytimes.com/2026/08/04/us/masterson-kansas-republican-primary-governor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/masterson-kansas-republican-primary-governor.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/masterson-kansas-republican-primary-governor.html" rel="standout"></atom:link>
+      <description>Ty Masterson, the president of the Kansas Senate, will aim to flip the governorship in November after eight years of Democratic control.</description>
+      <dc:creator>Mitch Smith</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 02:47:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelly, Laura (1950- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-kansas-republicans-governor-1-whvf/04nat-kansas-republicans-governor-1-whvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>John Hanna/Associated Press</media:credit>
+      <media:description>Ty Masterson, the president of the Kansas Senate.</media:description>
+    </item>
+    <item>
+      <title>Wesley Bell Defeats Cori Bush in Missouri</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/bush-bell-missouri-democratic-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/bush-bell-missouri-democratic-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/bush-bell-missouri-democratic-primary.html" rel="standout"></atom:link>
+      <description>Representative Wesley Bell beat Cori Bush, his predecessor, in a rematch. He will be a heavy favorite in the safely Democratic district in November.</description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 01:04:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bell, Wesley (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bush, Cori</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04POL-MO7-HFO-vcbw/04POL-MO7-HFO-vcbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>Representative Wesley Bell, Democrat of Missouri, withstood a primary challenge from former Representative Cori Bush, his predecessor, on Tuesday. </media:description>
+    </item>
+    <item>
+      <title>Pastor Adam Hamilton Wins Kansas Democratic Senate Primary</title>
+      <link>https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/hamilton-marshall-kansas-senate-election.html" rel="standout"></atom:link>
+      <description>The Rev. Adam Hamilton will be a serious underdog against Roger Marshall, a Republican, but Democrats think the state could be competitive if the November environment is favorable enough to them.</description>
+      <dc:creator>Katie Glueck</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 01:02:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamilton, Adam (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Marshall, Roger W (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04midtermsHFO-POL-KS-SENATE-DEM-gwqt/04midtermsHFO-POL-KS-SENATE-DEM-gwqt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Heather Hollingsworth/Associated Press</media:credit>
+      <media:description>Adam Hamilton, a Methodist megachurch pastor from Kansas, speaks to voters as he wraps up a U.S. Senate listening tour at Limitless Brewing in Lenexa, Kan. in April.</media:description>
+    </item>
+    <item>
+      <title>Michigan Secretary of State Wins Democratic Nomination for Governor</title>
+      <link>https://www.nytimes.com/2026/08/04/us/elections/michigan-democratic-primary-governor.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/elections/michigan-democratic-primary-governor.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/us/elections/michigan-democratic-primary-governor.html" rel="standout"></atom:link>
+      <description>Jocelyn Benson, who has clashed with Republicans in her role administering elections, is expected to face a competitive race in November.</description>
+      <dc:creator>Mitch Smith</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 02:48:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Benson, Jocelyn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-michigan-democrats-governor-1-bqkm/04nat-michigan-democrats-governor-1-bqkm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jose Juarez/Associated Press</media:credit>
+      <media:description>Jocelyn Benson, Michigan’s secretary of state, at the Michigan Democratic Party State Endorsement Convention in Detroit in April.</media:description>
+    </item>
     <item>
       <title>Armed Man Arrested at Trump Golf Club Near Los Angeles</title>
       <link>https://www.nytimes.com/2026/08/04/us/trump-golf-club-armed-man-arrested.html</link>
@@ -35,7 +208,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/spokane-fire-arson-suspect-witness.html" rel="standout"></atom:link>
       <description>A resident of Spokane County, Wash., said he noticed a man acting suspiciously and called 911 after seeing smoke. The police later arrested a suspect tied to one of the wildfires in the area.</description>
       <dc:creator>Pooja Salhotra and Anna Griffin</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:39:16 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 02:51:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
@@ -146,7 +319,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/taylor-knapp-virginia-primary-election.html" rel="standout"></atom:link>
       <description>The Richmond-area district was going to be one of the country’s most competitive in November, before a court threw out a Democrat-drawn redistricting map. Ms. Taylor faces Representative Rob Wittman in November.</description>
       <dc:creator>Bayliss Wagner</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:21:43 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 01:35:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04midterms-HFO-POL-VA1-wlmb/04midterms-HFO-POL-VA1-wlmb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mike Kropf/Associated Press</media:credit>
@@ -211,7 +384,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-primary-top-issues.html" rel="standout"></atom:link>
       <description>As they cast ballots in the Democratic Senate primary, voters said they were concerned about data centers, health care, Israel and the war with Iran.</description>
       <dc:creator>Tim Balk, Ruth Igielnik, McKinnon de Kuyper and Ama Sarpomaa</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 23:30:16 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 01:17:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
@@ -231,7 +404,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/michigan-democratic-senate-primary-aipac.html" rel="standout"></atom:link>
       <description>Representative Haley Stevens has been backed by tens of millions of dollars, much of it from pro-Israel groups and hidden donors. Her rival, Dr. Abdul El-Sayed, has tried to make that support a liability.</description>
       <dc:creator>Theodore Schleifer</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 23:10:05 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 01:43:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
@@ -662,112 +835,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest</guid>
       <atom:link href="https://www.nytimes.com/live/2026/08/04/us/midterms-elections-michigan-virginia/heres-the-latest" rel="standout"></atom:link>
       <description></description>
-      <dc:creator>Kellen Browning and Katie Glueck</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:00:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Trump’s Agenda at Home Is Threatened By Iran War</title>
-      <link>https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/us/politics/iran-war-complications-trump-agenda.html" rel="standout"></atom:link>
-      <description>As President Trump heads to the West Coast to talk to Americans about the economy, the war in Iran is driving up costs and polls show the already unpopular conflict is losing support.</description>
-      <dc:creator>Erica L. Green</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 09:04:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03dc-trump-iran-hjgl/03dc-trump-iran-hjgl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pete Marovich for The New York Times</media:credit>
-      <media:description>President Trump has been the only president in the modern era to take the country to war without the support of the American public.</media:description>
-    </item>
-    <item>
-      <title>These Employees Like Their A.I. Boss. Its Shop Is Kind of a Disaster.</title>
-      <link>https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/us/ai-boss-san-francisco-andon-market.html" rel="standout"></atom:link>
-      <description>A new study of a bot running a first-of-its-kind San Francisco store finds it is really friendly, but not very smart.</description>
-      <dc:creator>Heather Knight</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 15:47:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-ai-boss-01-tvjh/04nat-ai-boss-01-tvjh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mike Kai Chen for The New York Times</media:credit>
-      <media:description>Customers speaking with Luna, an A.I. agent, via a phone plugged into an iPad at Andon Market in San Francisco in July. </media:description>
-    </item>
-    <item>
-      <title>Man Arrested on Suspicion of Arson in Spokane Wildfire</title>
-      <link>https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/us/spokane-wildfires-arson-arrest.html" rel="standout"></atom:link>
-      <description>Aaron Farinacci, 37, was arrested after a witness reported seeing him kneeling near the ignition site, officials said. Winds were forecast to increase Friday and Saturday, bringing a return to extremely critical fire weather.</description>
-      <dc:creator>Anna Griffin</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 16:39:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-spokane-arrest-lfqk/04nat-spokane-arrest-lfqk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Loren Elliott for The New York Times</media:credit>
-      <media:description>Destruction left in the wake of the Old Trails fire in Spokane, Wash.</media:description>
-    </item>
-    <item>
-      <title>Trump, Graham Dominate Senate Race: 5 Takeaways from South Carolina Debate.</title>
-      <link>https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/graham-south-carolina-senate-debate.html" rel="standout"></atom:link>
-      <description>The legacy of Lindsey Graham loomed over the field to replace him in a debate Monday. All eyes were on his sister, Darline, who was endorsed by President Trump.</description>
-      <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 03:41:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Debates (Political)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanford, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fry, Russell (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Ralph W Jr (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/3pol-sc-debate-promo/3pol-sc-debate-takeaways-grid-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Spotlight on Fauci Said to Boost Book Sales for Kennedy and His Publisher</title>
-      <link>https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/us/politics/fauci-rfk-publisher.html" rel="standout"></atom:link>
-      <description>Health Secretary Robert F. Kennedy Jr., his son, and Senator Rand Paul have all written books criticizing Dr. Anthony S. Fauci. All were published by a company led by a close Kennedy adviser.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 19:23:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Skyhorse Publishing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lyons, Tony (Publisher)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03dc-fauci-kennedy-qkbm/03dc-fauci-kennedy-qkbm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Robert F. Kennedy Jr., now the health secretary, published “The Real Anthony Fauci” in 2021.</media:description>
+      <dc:creator>Kellen Browning</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 04:00:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
