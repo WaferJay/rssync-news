@@ -3,17 +3,88 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?_cb=1785935027786" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 13:03:48 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 12:47:14 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:31:39 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 15:25:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Climate Change Comes to Sesame Street</title>
+      <link>https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html" rel="standout"></atom:link>
+      <description>An episode this week focuses on the dangerous effects of warming, without mentioning climate change.</description>
+      <dc:creator>David Gelles</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 15:25:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Broadcasting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PBS Kids</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Corp for Public Broadcasting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sesame Workshop</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Post, Austin (Post Malone) (1995- )</category>
+    </item>
+    <item>
+      <title>How Malta Became a Tax Haven for Crocs and Other U.S. Companies</title>
+      <link>https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html" rel="standout"></atom:link>
+      <description>The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes.</description>
+      <dc:creator>Jesse Drucker and Dylan Freedman</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 14:32:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Shelters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accounting and Accountants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crocs Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malta</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/business/00croc-taxes/00croc-taxes-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pete Gamlen</media:credit>
+    </item>
+    <item>
+      <title>How China’s A.I. Is Surging Across Africa</title>
+      <link>https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html" rel="standout"></atom:link>
+      <description>In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.</description>
+      <dc:creator>Paul Mozur, Adam Satariano and Aaron Krolik</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 14:12:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenRouter Inc</category>
+    </item>
     <item>
       <title>The Winners of Trump’s A.I. Safety Plan</title>
       <link>https://www.nytimes.com/2026/08/05/business/dealbook/winners-trump-ai-policy.html</link>
@@ -39,13 +110,13 @@
       <media:description>From left, OpenAI’s Sam Altman, President Trump and Demis Hassabis, the C.E.O. of Google DeepMind, at a G7 Summit event in June.</media:description>
     </item>
     <item>
-      <title>The New York Times’ Revenue Rises 11%</title>
+      <title>The New York Times’s Revenue Rises 11%</title>
       <link>https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html" rel="standout"></atom:link>
       <description>The company said it added 280,000 digital subscribers in the second quarter.</description>
       <dc:creator>Katie Robertson</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 11:27:06 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 15:20:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times Company</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
@@ -63,7 +134,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/business/media/disney-parks-universal.html" rel="standout"></atom:link>
       <description>Theme parks have long been seen as a bellwether for consumer confidence. Disney’s domestic parks and cruises revenue rose 11 percent in the latest quarter.</description>
       <dc:creator>Brooks Barnes</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 10:30:04 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 13:37:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Amusement and Theme Parks</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
@@ -126,11 +197,12 @@
       <description>The Minnesota Department of Health said it had identified 110 salmonella cases in this outbreak, and the F.D.A. is also investigating.</description>
       <dc:creator>Alena Cerro</dc:creator>
       <pubDate>Wed, 05 Aug 2026 00:02:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chipotle Mexican Grill Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Salmonella (Bacteria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fast Food Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chili Peppers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chipotle Mexican Grill Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04xp-chipotle-zmwc/04xp-chipotle-zmwc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Winnie Au for The New York Times</media:credit>
       <media:description>Chipotle said it “proactively removed the jalapeños from our restaurants and replaced them with product from different growers.”</media:description>
@@ -346,6 +418,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/biz-osg-tanker-lbjg/biz-osg-tanker-lbjg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -378,7 +452,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html" rel="standout"></atom:link>
       <description>The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 14:44:08 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 13:10:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
@@ -974,58 +1048,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01DB-ITALY-BANK-FIGHT-wmgq/01DB-ITALY-BANK-FIGHT-wmgq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Luigi Lovaglio, the chief executive of Banca Monte dei Paschi di Siena, in the bank’s historical archive inside Palazzo Salimbeni in Siena, Italy.</media:description>
-    </item>
-    <item>
-      <title>Is A.I. ‘Scheming’ Against Us?</title>
-      <link>https://www.nytimes.com/2026/08/01/business/ai-scheming.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/business/ai-scheming.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/business/ai-scheming.html" rel="standout"></atom:link>
-      <description>Researchers are sounding the alarm on sneaky artificial intelligence models that stray from humans’ directions to do their own thing.</description>
-      <dc:creator>Lora Kelley</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 09:01:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/02/business/02shoptalk-scheming-illo/02shoptalk-scheming-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jackson Gibbs</media:credit>
-    </item>
-    <item>
-      <title>Leaving Property to Your Heirs Can Lead to Headache, not Robust Wealth</title>
-      <link>https://www.nytimes.com/2026/08/01/business/inheritance-real-estate-retirement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/business/inheritance-real-estate-retirement.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/business/inheritance-real-estate-retirement.html" rel="standout"></atom:link>
-      <description>Real estate passed down without a clear title of ownership can prevent families from creating generational wealth.</description>
-      <dc:creator>Martha C. White</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 12:45:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wills and Estates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Property Taxes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appraisals and Valuation (Property)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/01biz-retiring-property-01-tqmp/01biz-retiring-property-01-tqmp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Samuel Corum for The New York Times</media:credit>
-      <media:description>“If you leave a property to one person, it’s easy,” said Christine Parker, a financial planner. “If you leave it to multiple people, that’s where the entanglement comes in.”</media:description>
-    </item>
-    <item>
-      <title>Carmakers Go Back to the ’80s With Turbo Engines</title>
-      <link>https://www.nytimes.com/2026/08/01/business/turbo-engines-cars-trucks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/business/turbo-engines-cars-trucks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/business/turbo-engines-cars-trucks.html" rel="standout"></atom:link>
-      <description>A hyped technology from four decades ago, turbocharging is now standard in almost half of all cars sold in the United States, largely to help meet efficiency standards.</description>
-      <dc:creator>Jim Koscs</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 09:00:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Efficiency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01wheels-turbo1-vlgb/01wheels-turbo1-vlgb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Caroline Yang for The New York Times</media:credit>
-      <media:description>A 1962 Oldsmobile Jetfire, one of the first cars to have a turbocharged engine.</media:description>
     </item>
   </channel>
 </rss>

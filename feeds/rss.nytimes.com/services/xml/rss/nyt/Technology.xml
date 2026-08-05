@@ -7,13 +7,65 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 10:53:59 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 02:09:14 +0000</pubDate>
+    <lastBuildDate>Wed, 05 Aug 2026 15:33:28 +0000</lastBuildDate>
+    <pubDate>Wed, 05 Aug 2026 15:16:58 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>How China’s A.I. Is Surging Across Africa</title>
+      <link>https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html" rel="standout"></atom:link>
+      <description>In African tech hubs, developers are picking China’s cheap, freely available artificial intelligence models over more powerful U.S. ones.</description>
+      <dc:creator>Paul Mozur, Adam Satariano and Aaron Krolik</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 14:12:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alibaba Group Holding Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Moonshot AI Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepSeek Artificial Intelligence Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenRouter Inc</category>
+    </item>
+    <item>
+      <title>Trump White House Readies AI Framework to Review Security Risks</title>
+      <link>https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html" rel="standout"></atom:link>
+      <description>The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.</description>
+      <dc:creator>David McCabe, Mike Isaac, Kate Conger and Ana Swanson</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 00:17:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AI Security Institute (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04biz-ai-trump-vbcg/04biz-ai-trump-vbcg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Trump at the G7 summit with Sam Altman of OpenAI in June. The Trump administration laid out how the federal government plans to review whether new A.I. tools pose a security risk.</media:description>
+    </item>
     <item>
       <title>SpaceX, in First Earnings After IPO, Reports Soaring AI Spending</title>
       <link>https://www.nytimes.com/2026/08/04/technology/spacex-earnings-elon-musk.html</link>
@@ -54,69 +106,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04biz-amazon-nj-htwk/04biz-amazon-nj-htwk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vincent Alban/The New York Times</media:credit>
       <media:description>Amazon said the lawsuit wrongly characterized the company’s activities, and that its contractor delivery partners were free to operate as they saw fit.</media:description>
-    </item>
-    <item>
-      <title>White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules</title>
-      <link>https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html" rel="standout"></atom:link>
-      <description>The Trump administration has struggled with how to approach “open source” models, which are freely available to download and favored by Chinese companies.</description>
-      <dc:creator>David McCabe, Mike Isaac, Ana Swanson and Kate Conger</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 19:54:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03biz-ai-whiplash--03-chmf/03biz-ai-whiplash--03-chmf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Chinese open-source artificial models like Kimi, made by Moonshot AI, have added a new and urgent dimension to the fight between Washington and Beijing over who will control critical technologies.</media:description>
-    </item>
-    <item>
-      <title>What Are Companies Getting for All That A.I. Spending?</title>
-      <link>https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/business/economy/ai-spending-tokenomics.html" rel="standout"></atom:link>
-      <description>A new field of “tokenomics” has emerged to measure the return on all the money companies are pouring into artificial intelligence.</description>
-      <dc:creator>Lydia DePillis</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 18:56:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/business/00token-economics/00token-economics-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nicol&amp;aacute;s Ortega</media:credit>
-    </item>
-    <item>
-      <title>Trump White House Readies AI Framework to Review Security Risks</title>
-      <link>https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/technology/white-house-ai-framework.html" rel="standout"></atom:link>
-      <description>The voluntary review process will cover closed-source artificial intelligence models, but exclude those that publish the underlying code.</description>
-      <dc:creator>David McCabe, Mike Isaac, Kate Conger and Ana Swanson</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 00:17:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AI Security Institute (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04biz-ai-trump-vbcg/04biz-ai-trump-vbcg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Trump at the G7 summit with Sam Altman of OpenAI in June. The Trump administration laid out how the federal government plans to review whether new A.I. tools pose a security risk.</media:description>
     </item>
     <item>
       <title>Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules</title>
@@ -141,7 +134,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/04/science/spacex-rocket-moon-crash.html" rel="standout"></atom:link>
       <description>The second stage of a Falcon 9 rocket, which sent two private landers to the moon last year, will collide with the moon early Wednesday morning.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 14:44:08 +0000</pubDate>
+      <pubDate>Wed, 05 Aug 2026 13:10:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
@@ -150,6 +143,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04SCI-SpaceX-Moon-Crash-ROCKET-klqw/04SCI-SpaceX-Moon-Crash-ROCKET-klqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Gregg Newton/Agence France-Presse</media:credit>
       <media:description>A SpaceX Falcon 9 rocket carrying two private lunar landers launched in January last year. The second stage of this rocket will hit the moon at 5,400 miles per hour on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules</title>
+      <link>https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html" rel="standout"></atom:link>
+      <description>The Trump administration has struggled with how to approach “open source” models, which are freely available to download and favored by Chinese companies.</description>
+      <dc:creator>David McCabe, Mike Isaac, Ana Swanson and Kate Conger</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 19:54:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03biz-ai-whiplash--03-chmf/03biz-ai-whiplash--03-chmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Chinese open-source artificial models like Kimi, made by Moonshot AI, have added a new and urgent dimension to the fight between Washington and Beijing over who will control critical technologies.</media:description>
     </item>
     <item>
       <title>SpaceX’s Stock Lockup Is Expiring. Prepare for a Bumpy Ride.</title>
