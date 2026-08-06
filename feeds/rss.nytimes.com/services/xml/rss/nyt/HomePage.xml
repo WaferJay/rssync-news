@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 00:45:00 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 00:35:07 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 04:32:59 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 04:01:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -27,6 +27,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rogers, Michael J (1963- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stevens, Haley</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Action Committees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05pol-aipac-01-pwfj/05pol-aipac-01-pwfj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nick Hagen for The New York Times</media:credit>
       <media:description>AIPAC’s super PAC spent $32 million to boost the opponent of Dr. Abdul El-Sayed in the primary.</media:description>
@@ -116,7 +123,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html" rel="standout"></atom:link>
       <description>Marine One, the helicopter that ferries the president, came within less than a mile of an Envoy Air flight on Tuesday, raising new concerns about air traffic control in the congested area.</description>
       <dc:creator>Kate Kelly</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:35:07 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 00:35:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
@@ -153,25 +160,52 @@
       <media:description>President Donald J. Trump unveiling the Qatari-donated 747-8 as the new VC-25B Bridge plane at Joint Base Andrews in June. </media:description>
     </item>
     <item>
-      <title>Senate Confirms Dr. Erica Schwartz as C.D.C. Director</title>
-      <link>https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html" rel="standout"></atom:link>
-      <description>Dr. Schwartz, a deputy surgeon general in the first Trump administration, has publicly supported childhood vaccines.</description>
-      <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 21:11:13 +0000</pubDate>
+      <title>Bessent Declares Widening Gap Between Rich and Poor ‘Dead’</title>
+      <link>https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html" rel="standout"></atom:link>
+      <description>Despite data to the contrary, the Treasury Secretary made the case that the K-shaped economy no longer exists.</description>
+      <dc:creator>Alan Rappeport</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:17:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwartz, Erica (Doctor)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cassidy, Bill (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-cdc-director-tmfp/05dc-cdc-director-tmfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Dr. Erica Schwartz during her Senate confirmation hearing last month.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zandi, Mark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06dc-bessent-hqmw/06dc-bessent-hqmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Treasury Secretary Scott Bessent during a hearing on Capitol Hill in June. He said Tuesday that “the K-shaped economy is over.”</media:description>
+    </item>
+    <item>
+      <title>Europe’s Control of Its Fate Is Tested by Iran and Ukraine Wars, Wildfires and Migration</title>
+      <link>https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/world/europe/europe-war-wildfires-migration.html" rel="standout"></atom:link>
+      <description>A brutal summer has exposed how much Britain, France, Spain and other European countries are under pressure from forces largely out of their control.</description>
+      <dc:creator>Michael D. Shear</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 04:01:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06int-europe-pressure-01-qzct/06int-europe-pressure-01-qzct-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pierre Crom/Getty Images</media:credit>
+      <media:description>Firefighters in Lanton, a town southwest of Bordeaux, France, last week.</media:description>
     </item>
     <item>
       <title>C.I.A. Sets Up Secret Cuba Task Force as Trump Pressures Havana</title>
@@ -192,6 +226,99 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-intel-qzbg/05dc-intel-qzbg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Todd Heisler/The New York Times</media:credit>
       <media:description>Havana in 2019. The C.I.A.’s action coincides with stepped-up efforts by U.S. intelligence agencies to get a better understanding of the situation on the ground inside Cuba.</media:description>
+    </item>
+    <item>
+      <title>Star Scholar Jason Arday Resigns From Cambridge</title>
+      <link>https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html" rel="standout"></atom:link>
+      <description>Jason Arday was hired by the University of Cambridge in 2023 as the youngest Black professor in its history. Doubt has since been cast on his academic qualifications and claims about his life.</description>
+      <dc:creator>Neil Vigdor and Jennifer Schuessler</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 00:08:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Great and Unfortunate Things (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+    </item>
+    <item>
+      <title>Cambridge Professor Jason Arday’s Work Challenged Ahead of Book Launch</title>
+      <link>https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html" rel="standout"></atom:link>
+      <description>A knife-wielding masked man. A pig’s head outside his parents’ door. Running 30 marathons in 35 days. The Cambridge professor Jason Arday, accused of plagiarism, says he’s been through it all. Not everyone believes him.</description>
+      <dc:creator>Jennifer Schuessler and Alexandra Alter</dc:creator>
+      <pubDate>Tue, 04 Aug 2026 17:39:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Great and Unfortunate Things (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Simon &amp; Schuster Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diversity Initiatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/08/06/arts/00TBR-Arday-hcj/00TBR-Arday-hcj-mediumSquareAt3X.jpg" width="1200"></media:content>
+      <media:credit>via Simon &amp; Schuster; Photo by Anselm Ebulue</media:credit>
+      <media:description>Jason Arday</media:description>
+    </item>
+    <item>
+      <title>U.S. Cuts Ties With Organ Donor Group After Reports of Abuses</title>
+      <link>https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html" rel="standout"></atom:link>
+      <description>The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better.</description>
+      <dc:creator>Brian M. Rosenthal</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 20:57:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organ Donation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Life-Sustaining Support Systems, Withdrawal Of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05inv-organs-lgfm/05inv-organs-lgfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Luke Sharrett for The New York Times</media:credit>
+      <media:description>The offices of Network for Hope, an organ donation organization, in Louisville, Ky.</media:description>
+    </item>
+    <item>
+      <title>F.D.A. Approves Moderna’s mRNA Flu Vaccine</title>
+      <link>https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html" rel="standout"></atom:link>
+      <description>The agency had initially refused to even review the application but reversed course after a public outcry.</description>
+      <dc:creator>Christina Jewett</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 02:24:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prasad, Vinayak K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-moderna-flu-wjlt/05dc-moderna-flu-wjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bill Sikes/Associated Press</media:credit>
+      <media:description>Moderna has said that the faster new approach used to prepare the vaccine will enable a shift away from the current process of focusing on one flu strain for an entire hemisphere each season and allow each nation to pick its best option.</media:description>
     </item>
     <item>
       <title>Why Congress Wants a Closer U.S.-Israel Defense Partnership</title>
@@ -242,146 +369,13 @@
       <media:description>Ships in the Gulf of Oman last month.</media:description>
     </item>
     <item>
-      <title>Star Scholar Jason Arday Resigns From Cambridge</title>
-      <link>https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html" rel="standout"></atom:link>
-      <description>Jason Arday was hired by the University of Cambridge in 2023 as the youngest Black professor in its history. Doubt has since been cast on his academic qualifications and claims about his life.</description>
-      <dc:creator>Neil Vigdor and Jennifer Schuessler</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:08:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Great and Unfortunate Things (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-    </item>
-    <item>
-      <title>Cambridge Professor Jason Arday’s Work Challenged Ahead of Book Launch</title>
-      <link>https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/books/jason-arday-cambridge-plagiarism.html" rel="standout"></atom:link>
-      <description>A knife-wielding masked man. A pig’s head outside his parents’ door. Running 30 marathons in 35 days. The Cambridge professor Jason Arday, accused of plagiarism, says he’s been through it all. Not everyone believes him.</description>
-      <dc:creator>Jennifer Schuessler and Alexandra Alter</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 17:39:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Great and Unfortunate Things (Book)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Simon &amp; Schuster Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diversity Initiatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1200" medium="image" url="https://static01.nyt.com/images/2026/08/06/arts/00TBR-Arday-hcj/00TBR-Arday-hcj-mediumSquareAt3X.jpg" width="1200"></media:content>
-      <media:credit>via Simon &amp; Schuster; Photo by Anselm Ebulue</media:credit>
-      <media:description>Jason Arday</media:description>
-    </item>
-    <item>
-      <title>U.S. Cuts Ties With Organ Donor Group After Reports of Abuses</title>
-      <link>https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html" rel="standout"></atom:link>
-      <description>The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better.</description>
-      <dc:creator>Brian M. Rosenthal</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 20:57:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organ Donation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Life-Sustaining Support Systems, Withdrawal Of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Virginia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05inv-organs-lgfm/05inv-organs-lgfm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Luke Sharrett for The New York Times</media:credit>
-      <media:description>The offices of Network for Hope, an organ donation organization, in Louisville, Ky.</media:description>
-    </item>
-    <item>
-      <title>Lobga Rangzen, the Tibetan Activist Who Set Himself on Fire in Manhattan</title>
-      <link>https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/world/asia/lobga-rangzen-united-nations-tibet-china.html" rel="standout"></atom:link>
-      <description>No one doubted the intensity of Lobga Rangzen’s commitment to a Tibet free of Chinese control. But they were not prepared for what he did next.</description>
-      <dc:creator>Vivian Wang and Vincent Alban</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 18:56:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lobga Rangzen (1974-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immolation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tibet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monasteries and Monks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forced Assimilation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31int-rangzen-tibet-qfzl-copy-promo/31int-rangzen-tibet-qfzl-copy-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>A shrine for Lobga Rangzen, a Tibetan activist who self immolated in protest for Tibet’s independence from China, outside the United Nations building in July.</media:description>
-    </item>
-    <item>
-      <title>Death Renews Scrutiny of Delaney Hall. Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/08/05/nyregion/delaney-hall-ice-what-we-know.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/nyregion/delaney-hall-ice-what-we-know.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/nyregion/delaney-hall-ice-what-we-know.html" rel="standout"></atom:link>
-      <description>The death of a Salvadoran immigrant at the federal detention center in Newark has raised questions about the conditions there.</description>
-      <dc:creator>Ana Ley</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 20:45:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delaney Hall (Newark, NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tobin, Joseph W (1952- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex County (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Newark (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05met-delaney-wwk-qkfj/05met-delaney-wwk-qkfj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>Immigration and Customs Enforcement agents have monitored demonstrations outside the Delaney Hall detention center for months.</media:description>
-    </item>
-    <item>
-      <title>ICE Threatens Sheriffs In Chicago and Minneapolis With Prosecution Over Access to Inmates</title>
-      <link>https://www.nytimes.com/2026/08/05/us/ice-minnesota-sheriff-prosecution.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/ice-minnesota-sheriff-prosecution.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/us/ice-minnesota-sheriff-prosecution.html" rel="standout"></atom:link>
-      <description>In a new tactic, federal immigration officials recently started saying they would criminally charge the elected county sheriffs in Minneapolis and Chicago.</description>
-      <dc:creator>Ernesto Londoño and Hamed Aleaziz</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 16:38:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cook County (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hennepin County (Minn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/us/05nat-ice-detainers/05nat-ice-detainers-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Charles Rex Arbogast/Associated Press, Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>Tom Dart, the sheriff of Cook County, Ill., left, and Dawanna S. Witt, sheriff of Hennepin County, Minn., have both been given warnings, conveyed in a series of letters that federal agents began hand-delivering in early July.</media:description>
-    </item>
-    <item>
-      <title>Fauci Faces Contempt Vote. Here Are the Legal Issues Involved.</title>
+      <title>Fauci Faces Contempt of Congress Vote on Thursday</title>
       <link>https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html" rel="standout"></atom:link>
-      <description>Dr. Fauci invoked his Constitutional right under the Fifth Amendment in refusing to answer questions from a Senate committee. Republicans say he is ineligible for that protection.</description>
+      <description>A Senate panel scheduled a vote after Dr. Anthony Fauci declined to answer questions at a hearing last week. Here are the legal issues involved.</description>
       <dc:creator>Jan Hoffman</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 23:52:57 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 01:59:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
@@ -400,74 +394,44 @@
       <media:description>Dr. Anthony Fauci, former director of the National Institute of Allergy and Infectious Diseases, at a Senate Homeland Security Committee hearing last week.</media:description>
     </item>
     <item>
-      <title>How Malta Became a Tax Haven for Crocs and Other U.S. Companies</title>
-      <link>https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/business/economy/crocs-malta-tax-haven.html" rel="standout"></atom:link>
-      <description>The Mediterranean archipelago is a hot destination for U.S. companies seeking to shield profits from income taxes.</description>
-      <dc:creator>Jesse Drucker and Dylan Freedman</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 18:38:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Shelters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Taxes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Evasion</category>
+      <title>Senate Panel Has Obtained Copy of Fauci’s Cellphone</title>
+      <link>https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html" rel="standout"></atom:link>
+      <description>The development comes as a Senate committee prepares to vote Thursday on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions at a hearing.</description>
+      <dc:creator>Sheryl Gay Stolberg</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 03:37:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accounting and Accountants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Ron (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Tax</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Crocs Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malta</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/business/00croc-taxes/00croc-taxes-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pete Gamlen</media:credit>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05DC-FAUCI-PHONE-zjmc/05DC-FAUCI-PHONE-zjmc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>A Senate committee Thursday is set to vote on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions.</media:description>
     </item>
     <item>
-      <title>Windy Weather Could Worsen Pacific Northwest Fires</title>
-      <link>https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html" rel="standout"></atom:link>
-      <description>Forecasters expect winds to pick up in eastern Washington and Oregon on Friday and Saturday, but not to be as strong as last weekend’s were.</description>
-      <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 17:18:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
-    </item>
-    <item>
-      <title>Climate Change Comes to Sesame Street</title>
-      <link>https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/climate/sesame-street-storm-climate-change.html" rel="standout"></atom:link>
-      <description>An episode this week focuses on the dangerous effects of warming, without mentioning climate change.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 15:38:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Broadcasting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PBS Kids</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Corp for Public Broadcasting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sesame Workshop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Post, Austin (Post Malone) (1995- )</category>
-    </item>
-    <item>
-      <title>Butterflies Take Flight in Face of Climate Change and Extreme Weather</title>
-      <link>https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html" rel="standout"></atom:link>
-      <description>In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas.</description>
-      <dc:creator>Annie Roth</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 18:59:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Ecology &amp; Evolution (Journal)</category>
+      <title>Pakistan Starts Sweeping New Crackdown on Journalists</title>
+      <link>https://www.nytimes.com/2026/08/05/world/asia/pakistan-international-news-media-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/world/asia/pakistan-international-news-media-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/world/asia/pakistan-international-news-media-ban.html" rel="standout"></atom:link>
+      <description>With a protest movement in Kashmir challenging its authority in the region, Pakistan restricts independent reporting by local and foreign media.</description>
+      <dc:creator>Elian Peltier</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 02:53:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kashmir</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Al Jazeera</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Committee to Protect Journalists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Rights Watch</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reporters Without Borders</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05int-pakistan-media-cfpg/05int-pakistan-media-cfpg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Asim Hafeez for The New York Times</media:credit>
+      <media:description>Political campaign posters last month in Pakistan-administered Kashmir.</media:description>
     </item>
     <item>
       <title>Abdul El-Sayed Thinks Progressives Have a Way to Win. I Hope He’s Right.</title>
@@ -529,26 +493,13 @@
       <media:credit>Illustration by The New York Times; photo by Nicolas Tucat/Getty</media:credit>
     </item>
     <item>
-      <title>Tell us Your Connections Tips, Strategies and Questions</title>
-      <link>https://www.nytimes.com/2026/08/05/crosswords/connections-questions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/crosswords/connections-questions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/crosswords/connections-questions.html" rel="standout"></atom:link>
-      <description>We’re also looking to find out what questions solvers have about the game.</description>
-      <dc:creator>New York Times Games</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 09:02:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Crossword Puzzles</category>
-      <media:content height="1354" medium="image" url="https://static01.nyt.com/images/2026/08/05/crosswords/05conx-callout/05conx-callout-mediumSquareAt3X.jpg" width="1354"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
       <title>A Four-Ton SpaceX Rocket Stage Hit the Moon, but No One Saw It</title>
       <link>https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html" rel="standout"></atom:link>
       <description>Amateur and professional astronomers pointed their telescopes at the impact site. Most did not detect anything.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 18:41:20 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 03:06:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>

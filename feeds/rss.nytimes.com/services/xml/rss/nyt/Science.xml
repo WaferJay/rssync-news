@@ -7,13 +7,25 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 05 Aug 2026 23:23:56 +0000</lastBuildDate>
-    <pubDate>Wed, 05 Aug 2026 21:36:58 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 04:29:50 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 03:06:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>Butterflies Take Flight in Face of Climate Change and Extreme Weather</title>
+      <link>https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html" rel="standout"></atom:link>
+      <description>In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas.</description>
+      <dc:creator>Annie Roth</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 18:59:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Ecology &amp; Evolution (Journal)</category>
+    </item>
     <item>
       <title>A Four-Ton SpaceX Rocket Stage Hit the Moon, but No One Saw It</title>
       <link>https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html</link>
@@ -21,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html" rel="standout"></atom:link>
       <description>Amateur and professional astronomers pointed their telescopes at the impact site. Most did not detect anything.</description>
       <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 18:41:20 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 03:06:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
@@ -167,18 +179,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
     </item>
     <item>
-      <title>Mission to Save Falling NASA Space Telescope Suffers Setback</title>
-      <link>https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html" rel="standout"></atom:link>
-      <description>A spacecraft meant to push NASA’s Swift Observatory to a higher orbit malfunctioned and started tumbling several days ago. Engineers think it can still succeed.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 18:24:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <title>F.D.A. Approves Moderna’s mRNA Flu Vaccine</title>
+      <link>https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html" rel="standout"></atom:link>
+      <description>The agency had initially refused to even review the application but reversed course after a public outcry.</description>
+      <dc:creator>Christina Jewett</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 02:24:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prasad, Vinayak K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-moderna-flu-wjlt/05dc-moderna-flu-wjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bill Sikes/Associated Press</media:credit>
+      <media:description>Moderna has said that the faster new approach used to prepare the vaccine will enable a shift away from the current process of focusing on one flu strain for an entire hemisphere each season and allow each nation to pick its best option.</media:description>
     </item>
     <item>
       <title>U.S. Cuts Ties With Organ Donor Group After Reports of Abuses</title>
@@ -203,18 +226,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05inv-organs-lgfm/05inv-organs-lgfm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Luke Sharrett for The New York Times</media:credit>
       <media:description>The offices of Network for Hope, an organ donation organization, in Louisville, Ky.</media:description>
-    </item>
-    <item>
-      <title>Butterflies Take Flight in Face of Climate Change and Extreme Weather</title>
-      <link>https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/science/butterflies-climate-change-extreme-weather.html" rel="standout"></atom:link>
-      <description>In 32 of the countries included in a recent study, at least a quarter of the native butterfly species had moved to new areas.</description>
-      <dc:creator>Annie Roth</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 18:59:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Butterflies and Moths</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nature Ecology &amp; Evolution (Journal)</category>
     </item>
     <item>
       <title>Trump’s Push for More A.I. Data Centers Will Mean Major Air Pollution</title>
@@ -420,6 +431,20 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/30Sci-testosterone-aggression-04-mclt/30Sci-testosterone-aggression-04-mclt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>Recent evidence points to a condition called “operator syndrome,” a pattern of medical problems, including decreased testosterone, that those who have served long stretches in special operations units are more likely to report.</media:description>
+    </item>
+    <item>
+      <title>Mission to Save Falling NASA Space Telescope Suffers Setback</title>
+      <link>https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/07/30/science/nasa-swift-link-rescue-mishap.html" rel="standout"></atom:link>
+      <description>A spacecraft meant to push NASA’s Swift Observatory to a higher orbit malfunctioned and started tumbling several days ago. Engineers think it can still succeed.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Thu, 30 Jul 2026 18:24:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
     </item>
     <item>
       <title>Bipartisan Anger Grows at Pentagon’s Delayed ‘Forever Chemicals’ Cleanups</title>
