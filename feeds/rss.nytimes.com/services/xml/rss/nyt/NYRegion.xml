@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 04:31:36 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 03:22:46 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 07:54:13 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 07:00:05 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -165,6 +165,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/met-small-business-wtfl/met-small-business-wtfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Charly Triballeau/Agence France-Presse — Getty Images</media:credit>
       <media:description>Current state rules require businesses that sell food, including restaurants, stores or carts, food to obtain a separate frozen dessert permit to sell ice cream.</media:description>
+    </item>
+    <item>
+      <title>Were You Born After 9/11? We Want to Hear From You.</title>
+      <link>https://www.nytimes.com/2026/08/06/nyregion/born-after-sept-11.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/nyregion/born-after-sept-11.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/nyregion/born-after-sept-11.html" rel="standout"></atom:link>
+      <description>We’re writing about what Sept. 11 means to younger generations. Your insights can help.</description>
+      <dc:creator>Troy Closson and Maia Coleman</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 07:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-reader-callout</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Trade Center (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memory</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pentagon Building</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06met-911-callout-vhmp/06met-911-callout-vhmp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Christian Monterrosa/Reuters</media:credit>
+      <media:description>For millions of younger Americans, the Sept. 11, 2001, attacks are something they have only heard or read about.</media:description>
     </item>
     <item>
       <title>Death Renews Scrutiny of Delaney Hall. Here’s What to Know.</title>
@@ -396,24 +417,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hudson River Valley (NY)</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/weather/2026-08-03-outlooks-index-promo/2026-08-03-outlooks-index-promo-mediumSquareAt3X-v53.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Gen Z Can’t Afford a First Date</title>
-      <link>https://www.nytimes.com/2026/08/03/nyregion/gen-z-dating-too-expensive-cost.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/nyregion/gen-z-dating-too-expensive-cost.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/nyregion/gen-z-dating-too-expensive-cost.html" rel="standout"></atom:link>
-      <description>From $130 dinners to expensive cocktails and even exorbitant movie tickets, a crushing economy in New York City is creating a fresh barrier to love.</description>
-      <dc:creator>Troy Closson</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 14:02:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/07/29/nyregion/29-broke-dating1/29visualUploader-97380-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gary Hershorn/Getty Images</media:credit>
-      <media:description>People in their 20s and 30s are dating less than earlier generations did. The high cost of going out is one of the reasons.</media:description>
     </item>
   </channel>
 </rss>
