@@ -3,17 +3,58 @@
   <channel>
     <title>NYT &gt; Technology</title>
     <link>https://www.nytimes.com/section/technology</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml?_cb=1786021423263" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 13:03:43 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 10:23:17 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:32:58 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 15:29:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots</title>
+      <link>https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html" rel="standout"></atom:link>
+      <description>Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.</description>
+      <dc:creator>Steve Lohr and Xinyun Wu</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 14:51:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/Biz-China-Robot-IPO-video-still-cftp/Biz-China-Robot-IPO-video-still-cftp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Google Names Demis Hassabis to New AI Role in a Leadership Shake-up</title>
+      <link>https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html" rel="standout"></atom:link>
+      <description>Minutes after four top researchers said they were leaving, Google said that Demis Hassabis, the Nobel-winning scientist who led the company’s A.I. lab, was stepping into a new job.</description>
+      <dc:creator>Kate Conger and Cade Metz</dc:creator>
+      <pubDate>Wed, 05 Aug 2026 19:17:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepMind Technologies Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dean, Jeff (1968- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassabis, Demis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05biz-google-deepmind-zkcj/05biz-google-deepmind-zkcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kim Hong-Ji/Reuters</media:credit>
+      <media:description>Demis Hassabis of Google’s DeepMind A.I. lab, gave up his operational role to become chair of DeepMind and chief scientist of Alphabet.</media:description>
+    </item>
     <item>
       <title>How China’s A.I. Is Surging Across Africa</title>
       <link>https://www.nytimes.com/2026/08/05/technology/ai-china-africa.html</link>
@@ -40,6 +81,43 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenRouter Inc</category>
+    </item>
+    <item>
+      <title>Follow the Markets and Track Stocks With These Free Apps</title>
+      <link>https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html" rel="standout"></atom:link>
+      <description>Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.</description>
+      <dc:creator>J. D. Biersdorfer</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 09:03:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <media:content height="399" medium="image" url="https://static01.nyt.com/images/2026/08/05/technology/personaltech/05BIZ-TECHTIP-TOPART/05BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="398"></media:content>
+      <media:credit>Apple</media:credit>
+      <media:description>Apple&#39;s free Stocks app for its devices provides a dashboard for following personal investments, markets and financial news.</media:description>
+    </item>
+    <item>
+      <title>TikTok Lays Off 250 Employees in Office That Includes Content Moderation</title>
+      <link>https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html" rel="standout"></atom:link>
+      <description>TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.</description>
+      <dc:creator>Emmett Lindner</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 13:14:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/05xp-tiktok-layoffs-1/05xp-tiktok-layoffs-1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Robyn Beck/Agence France-Presse — Getty Images</media:credit>
+      <media:description>In January, TikTok’s Chinese parent company, ByteDance, spun out an American venture to operate in the United States.</media:description>
     </item>
     <item>
       <title>Four Top Google A.I. Researchers Form New Start-Up</title>
@@ -109,66 +187,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04biz-spacex-earnings-zhkp/04biz-spacex-earnings-zhkp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
       <media:description>In its first earnings report as a public company, SpaceX also posted a quarterly loss of $541 million, narrower than the $1 billion loss in the same period a year ago.</media:description>
-    </item>
-    <item>
-      <title>Follow the Markets and Track Stocks With These Free Apps</title>
-      <link>https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html" rel="standout"></atom:link>
-      <description>Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.</description>
-      <dc:creator>J. D. Biersdorfer</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 09:03:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <media:content height="399" medium="image" url="https://static01.nyt.com/images/2026/08/05/technology/personaltech/05BIZ-TECHTIP-TOPART/05BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="398"></media:content>
-      <media:credit>Apple</media:credit>
-      <media:description>Apple&#39;s free Stocks app for its devices provides a dashboard for following personal investments, markets and financial news.</media:description>
-    </item>
-    <item>
-      <title>TikTok Is Laying Off 250 Employees in Its Nashville Office</title>
-      <link>https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html" rel="standout"></atom:link>
-      <description>The office was home to members of the app’s content moderation team.</description>
-      <dc:creator>Emmett Lindner</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:24:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/05xp-tiktok-layoffs-1/05xp-tiktok-layoffs-1-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Robyn Beck/Agence France-Presse — Getty Images</media:credit>
-      <media:description>In January, TikTok’s Chinese parent company, ByteDance, spun out an American venture to operate in the United States.</media:description>
-    </item>
-    <item>
-      <title>Google Names Demis Hassabis to New AI Role in a Leadership Shake-up</title>
-      <link>https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/technology/google-ai-leadership.html" rel="standout"></atom:link>
-      <description>Minutes after four top researchers said they were leaving, Google said that Demis Hassabis, the Nobel-winning scientist who led the company’s A.I. lab, was stepping into a new job.</description>
-      <dc:creator>Kate Conger and Cade Metz</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 19:17:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepMind Technologies Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dean, Jeff (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassabis, Demis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05biz-google-deepmind-zkcj/05biz-google-deepmind-zkcj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kim Hong-Ji/Reuters</media:credit>
-      <media:description>Demis Hassabis of Google’s DeepMind A.I. lab, gave up his operational role to become chair of DeepMind and chief scientist of Alphabet.</media:description>
     </item>
     <item>
       <title>In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers</title>

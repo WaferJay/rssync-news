@@ -7,21 +7,70 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 07:55:11 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 04:57:28 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 15:34:47 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 15:27:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
     <item>
-      <title>Coming Soon to the Asia Pacific: A Storm Named Dim-sum</title>
+      <title>El Nino Might Mean More Storms Near California Than the Atlantic Coast</title>
+      <link>https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html" rel="standout"></atom:link>
+      <description>It hasn’t been that long since Hurricane Hilary made a run at Southern California. Could this year see a repeat?</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 14:07:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Otis (2023)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Hilary (2023)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09WEA-pacificstorms-pbfj/09WEA-pacificstorms-pbfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark J. Terrill/Associated Press</media:credit>
+      <media:description>Tropical Storm Hilary caused damage in Cathedral City, Calif., in 2023.</media:description>
+    </item>
+    <item>
+      <title>Can Robots Save Japan’s Aging Cherry Blossom Farmers?</title>
+      <link>https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html" rel="standout"></atom:link>
+      <description>Monster Wolf and Pochi are among the robots deployed to scare away bears and transport cherry blossoms in a northern region where many farmers are in their 70s or older.</description>
+      <dc:creator>Hannah Beech, Kiuko Notoya and Chang W. Lee</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 13:12:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yamagata Prefecture (Japan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fruit</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Snow and Snowstorms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/00int-japan-robot-still-promo-zwvk/00int-japan-robot-still-promo-zwvk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chang W. Lee/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Dolphin, Dim-sum, Banyan: How Tropical Cyclones Get Their Names</title>
       <link>https://www.nytimes.com/2026/08/05/weather/typhoon-dolphin-names-dimsum-pacific.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/weather/typhoon-dolphin-names-dimsum-pacific.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/05/weather/typhoon-dolphin-names-dimsum-pacific.html" rel="standout"></atom:link>
-      <description>Forecasters in the region maintain a list of typhoon names drawn from national symbols, including foods, animals and local expressions. Here is how the process works.</description>
+      <description>Forecasters in the region maintain a list of typhoon names drawn from national symbols, including foods, animals and local expressions. Here’s how the process works.</description>
       <dc:creator>Francesca Regalado</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 22:43:47 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 13:26:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
@@ -374,40 +423,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30CLI-FIRES-ATTRIBUTION-gzcq/30CLI-FIRES-ATTRIBUTION-gzcq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Umit Bektas/Reuters</media:credit>
       <media:description>Firefighters battled a blaze near Formariz, Spain, this week. </media:description>
-    </item>
-    <item>
-      <title>Accept Your Fate. Don’t Wear Shorts to the Office.</title>
-      <link>https://www.nytimes.com/2026/07/30/opinion/office-shorts-men.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/opinion/office-shorts-men.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/opinion/office-shorts-men.html" rel="standout"></atom:link>
-      <description>It might be hot but men must resist showing the knee.</description>
-      <dc:creator>David Coggins</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 14:44:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dress Codes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
-    </item>
-    <item>
-      <title>Japan Earthquake Death Toll Rises to 34</title>
-      <link>https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/world/asia/japan-earthquake-kumamoto-death-toll.html" rel="standout"></atom:link>
-      <description>Rescue crews were working to find people who might still be trapped in a collapsed shopping mall, as the region faced sweltering heat.</description>
-      <dc:creator>Kiuko Notoya and Yan Zhuang</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 08:41:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kumamoto Prefecture (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyushu (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30xp-japanquake-wpqf/30xp-japanquake-wpqf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jiji Press, via Agence France-Presse — Getty Images</media:credit>
-      <media:description>Rescue efforts in Yatsushiro, Kumamoto Prefecture, Japan, on Thursday.</media:description>
     </item>
   </channel>
 </rss>
