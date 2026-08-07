@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 11:12:26 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 10:41:19 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 15:10:47 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 15:09:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>A Drying Danube River Reveals Nazi-Era Vessels, and Hazards of Heat</title>
+      <link>https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/world/europe/danube-germany-ships-serbia.html" rel="standout"></atom:link>
+      <description>The river’s water levels have fallen as extreme heat has afflicted Europe, exposing sunken German vessels from World War II that are impeding navigation.</description>
+      <dc:creator>Lynsey Chutel and Alisa Dogramadzieva</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 15:09:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vucic, Aleksandar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Danube River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eastern Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Serbia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07int-serbia-nazi-fleet-01-fvjz/07int-serbia-nazi-fleet-01-fvjz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Darko Vojinovic/Associated Press</media:credit>
+      <media:description>One of the German ships from World War II exposed in the Danube River near Prahovo, Serbia, this week.</media:description>
+    </item>
     <item>
       <title>Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica</title>
       <link>https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html</link>
@@ -405,25 +426,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/01/multimedia/01int-japan-quake-dispatch-01-kvgj/01int-japan-quake-dispatch-01-kvgj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>A woman collecting water on Friday from a stream near a home that collapsed after this week’s earthquake in Kumamoto Prefecture, Japan. </media:description>
-    </item>
-    <item>
-      <title>The Western United States Is Facing a Weekend of Record Heat</title>
-      <link>https://www.nytimes.com/2026/07/31/weather/california-western-us-heat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/weather/california-western-us-heat.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/weather/california-western-us-heat.html" rel="standout"></atom:link>
-      <description>Unusually hot temperatures, even for the depths of summer, are expected from Arizona to Montana.</description>
-      <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 18:11:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Death Valley (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/weather/2026-07-30-outlooks-heat-index-promo/2026-07-30-outlooks-heat-index-promo-mediumSquareAt3X-v109.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
