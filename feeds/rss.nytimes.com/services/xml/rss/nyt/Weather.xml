@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 08:32:41 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 07:24:18 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 10:15:55 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 10:04:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Rescuers Battled Extreme Weather Conditions During Medevac Mission in Antarctica</title>
+      <link>https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/world/australia/antarctica-rescue-mission-skytraders.html" rel="standout"></atom:link>
+      <description>An Australian flight crew faced subfreezing temperatures, changing weather conditions and almost constant darkness as they worked to rescue a U.S. national.</description>
+      <dc:creator>Laura Chung</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 10:04:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Medical Treatment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlifts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">McMurdo Station (Antarctica)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Antarctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Christchurch (New Zealand)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hobart (Tasmania)</category>
+    </item>
     <item>
       <title>Wildfire Smoke Degrades Air Quality Across Washington and Oregon</title>
       <link>https://www.nytimes.com/2026/08/06/weather/wildfires-air-quality-oregon-washington.html</link>
@@ -77,6 +99,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bears</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Workers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Winter (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/25/multimedia/00int-japan-robot-still-promo-zwvk/00int-japan-robot-still-promo-zwvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chang W. Lee/The New York Times</media:credit>
     </item>
@@ -87,7 +110,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/05/weather/typhoon-dolphin-names-dimsum-pacific.html" rel="standout"></atom:link>
       <description>Forecasters in the region maintain a list of typhoon names drawn from national symbols, including foods, animals and local expressions. Here’s how the process works.</description>
       <dc:creator>Francesca Regalado</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 13:26:24 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 13:26:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclones</category>
@@ -96,6 +119,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Asia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southeast Asia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/11/multimedia/00xp-cyclone-names-02-bcpt/00xp-cyclone-names-02-bcpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vernon Yuen/Associated Press</media:credit>
       <media:description>Waves near Victoria Harbor in Hong Kong following Typhoon Wipha last year.</media:description>
@@ -400,25 +424,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Salt Lake City (Utah)</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/weather/2026-07-30-outlooks-heat-index-promo/2026-07-30-outlooks-heat-index-promo-mediumSquareAt3X-v109.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Was Your Trip to Europe Affected by Heat or Wildfires? Tell Us About It.</title>
-      <link>https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html" rel="standout"></atom:link>
-      <description>Have you had to cancel, reschedule or replan a trip to France, Spain or elsewhere because of raging fires or stifling heat? If so, we want to hear from you.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 22:08:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31trav-europe-heat-fire-callout-bwgl/31trav-europe-heat-fire-callout-bwgl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Costas Metaxakis/Agence France-Presse — Getty Images</media:credit>
     </item>
   </channel>
 </rss>
