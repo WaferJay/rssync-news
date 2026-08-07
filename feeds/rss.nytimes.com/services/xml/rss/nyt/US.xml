@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 20:02:12 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 19:58:46 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 21:00:12 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 20:32:38 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -59,7 +59,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/07/us/trump-mexico-deportations-torture.html" rel="standout"></atom:link>
       <description>Immigration authorities used a rare authority to deport them, even though their removal was blocked over concerns they would be tortured if returned.</description>
       <dc:creator>Hamed Aleaziz</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 18:30:07 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 20:32:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Temporary Protected Status (US Immigration)</category>
@@ -561,8 +561,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cal Fire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">District Attorneys</category>
       <media:content height="924" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06xp-murder2/06xp-murder2-mediumSquareAt3X.png" width="924"></media:content>
       <media:credit>San Diego Sheriff&#39;s Office</media:credit>
       <media:description>Yolanda Olejniczak Marodi pleaded guilty in the death of her wife, Rebecca Marodi.</media:description>
@@ -656,65 +654,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06xp-lobster-02/06xp-lobster-02-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Retrial Ordered in Child Killing With Parallels to Lindsay Clancy Case</title>
-      <link>https://www.nytimes.com/2026/08/06/us/latarsha-sanders-lindsay-clancy-child-killings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/us/latarsha-sanders-lindsay-clancy-child-killings.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/us/latarsha-sanders-lindsay-clancy-child-killings.html" rel="standout"></atom:link>
-      <description>Massachusetts justices ruled that the jury should have heard evidence of mental illness in the case of Latarsha Sanders, who was convicted in the same county where Ms. Clancy is on trial for murder.</description>
-      <dc:creator>Jenna Russell</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 20:53:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Latarsha</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Lindsay (1990- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yates, Andrea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Massachusetts</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/06/us/06nat-child-murder/06nat-child-murder-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Marc Vasconcellos/USA TODAY, via Reuters</media:credit>
-      <media:description>Latarsha Sanders was convicted of murder and sentenced to two life sentences without the possibility of parole in 2022.</media:description>
-    </item>
-    <item>
-      <title>Justice Department Accuses Duke Law School of Racial Discrimination</title>
-      <link>https://www.nytimes.com/2026/08/06/us/justice-department-duke-law-school-racial-discrimination-admissions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/us/justice-department-duke-law-school-racial-discrimination-admissions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/us/justice-department-duke-law-school-racial-discrimination-admissions.html" rel="standout"></atom:link>
-      <description>The federal government said the school’s admissions policies, which promote diversity, allowed for racial preferences.</description>
-      <dc:creator>Alan Blinder</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 23:47:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Admissions Standards</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Duke University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dhillon, Harmeet</category>
-    </item>
-    <item>
-      <title>Union Representing IRS Workers Sues Over Trump’s Deal Granting Sweeping Tax Protections</title>
-      <link>https://www.nytimes.com/2026/08/06/us/irs-workers-lawsuit-trump-tax-protections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/us/irs-workers-lawsuit-trump-tax-protections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/us/irs-workers-lawsuit-trump-tax-protections.html" rel="standout"></atom:link>
-      <description>The request was the first time that anyone had used the courts in an effort to directly kill the sweeping tax protections offered to the president and his family.</description>
-      <dc:creator>Alan Feuer and Andrew Duehren</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 20:19:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Internal Revenue Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Treasury Employees Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trump Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brinkema, Leonie M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Kathleen M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alexandria (Va)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06dc-IRS-kvjm/06dc-IRS-kvjm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Stefani Reynolds for The New York Times</media:credit>
-      <media:description>The union representing Internal Revenue Service workers asked a federal judge to stop the Trump administration from granting the president extraordinary tax protections.</media:description>
     </item>
   </channel>
 </rss>
