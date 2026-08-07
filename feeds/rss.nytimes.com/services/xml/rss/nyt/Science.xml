@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 11:59:43 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 11:44:41 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 16:08:28 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 15:59:58 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -23,6 +23,7 @@
       <dc:creator>Carl Zimmer</dc:creator>
       <pubDate>Fri, 07 Aug 2026 00:30:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
@@ -33,8 +34,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Palo Alto (Calif)</category>
     </item>
     <item>
       <title>Capybaras Were the Newest Lobbyists in This Brazilian Legislature</title>
@@ -43,13 +42,10 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html" rel="standout"></atom:link>
       <description>In Mato Grosso, Brazil, capybaras wandered into the building, but they were polite during the incursion.</description>
       <dc:creator>Victor Mather and Leonardo Coelho</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 00:54:51 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 00:54:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rodents</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/08/06/world/americas/CAPYBARAS-COVER-IMAGE/CAPYBARAS-COVER-IMAGE-mediumSquareAt3X.jpg" width="1080"></media:content>
       <media:credit>Nayara Bueno, via Associated Press</media:credit>
@@ -415,36 +411,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30cli-workplace-heat-01-tgpk/30cli-workplace-heat-01-tgpk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Allison Joyce/Agence France-Presse — Getty Images</media:credit>
       <media:description>A delivery in Wilmington, N.C., this month. Heat is linked to hundreds of workplace deaths each year, but labor groups say the true toll is unknown because heat-related illnesses are not properly tracked or reported.</media:description>
-    </item>
-    <item>
-      <title>U.S. Raises Threat of Steep Water Cuts in Lower Colorado River Basin</title>
-      <link>https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/climate/colorado-river-basin-water-cuts.html" rel="standout"></atom:link>
-      <description>A federal plan would impose drastic water cuts on Arizona, California and Nevada in dry years over the next decade. A legal battle could follow.</description>
-      <dc:creator>Scott Dance</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 19:48:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Reclamation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Mead</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Powell (Utah-Ariz)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rationing and Allocation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31cli-colorado-01-qzpg/31cli-colorado-01-qzpg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rebecca Noble/Reuters</media:credit>
-      <media:description>Water from the Colorado River flowing through an irrigation canal in Arizona earlier this month.</media:description>
     </item>
   </channel>
 </rss>
