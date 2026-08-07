@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 15:32:58 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 15:29:36 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:15:55 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 00:01:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,15 +42,13 @@
       <pubDate>Wed, 05 Aug 2026 19:17:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">DeepMind Technologies Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dean, Jeff (1968- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassabis, Demis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05biz-google-deepmind-zkcj/05biz-google-deepmind-zkcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kim Hong-Ji/Reuters</media:credit>
       <media:description>Demis Hassabis of Google’s DeepMind A.I. lab, gave up his operational role to become chair of DeepMind and chief scientist of Alphabet.</media:description>
@@ -89,7 +87,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/technology/personaltech/finance-stocks-apps.html" rel="standout"></atom:link>
       <description>Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.</description>
       <dc:creator>J. D. Biersdorfer</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 09:03:19 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 00:01:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
@@ -103,18 +101,57 @@
       <media:description>Apple&#39;s free Stocks app for its devices provides a dashboard for following personal investments, markets and financial news.</media:description>
     </item>
     <item>
+      <title>F.C.C. Removes Limit on Broadcast TV Ownership</title>
+      <link>https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html" rel="standout"></atom:link>
+      <description>The move lifts a rule that said a single television-station owner could not reach more than 39 percent of U.S. households.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 20:56:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carr, Brendan Thomas (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06biz-fcc-hpcg/06biz-fcc-hpcg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>Brendan Carr, the F.C.C. chairman, has investigated and threatened to revoke the television licenses of ABC, NBC and CBS as part of an aggressive campaign to combat what he sees as liberal bias in broadcast television.</media:description>
+    </item>
+    <item>
+      <title>French Streamers Convicted in Case Related to Kick Livestream Death</title>
+      <link>https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html" rel="standout"></atom:link>
+      <description>The two men, users of the platform Kick, received suspended sentences and fines.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 18:36:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kick.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nice (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graven, Raphael</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cenazandotti, Owen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamadi, Safine</category>
+      <media:content height="1268" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06xp-french-streamers-promo/06xp-french-streamers-promo-mediumSquareAt3X.png" width="1268"></media:content>
+      <media:credit>Valery Hache/Agence France-Presse — Getty Images</media:credit>
+    </item>
+    <item>
       <title>TikTok Lays Off 250 Employees in Office That Includes Content Moderation</title>
       <link>https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html" rel="standout"></atom:link>
       <description>TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.</description>
       <dc:creator>Emmett Lindner</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 13:14:38 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 13:14:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/05xp-tiktok-layoffs-1/05xp-tiktok-layoffs-1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Robyn Beck/Agence France-Presse — Getty Images</media:credit>
       <media:description>In January, TikTok’s Chinese parent company, ByteDance, spun out an American venture to operate in the United States.</media:description>
@@ -510,112 +547,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/2026-07-21-influencer-metrics-index/2026-07-21-influencer-metrics-index-mediumSquareAt3X-v4.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Anthropic Says Its A.I. Systems Broke Into Computers at 3 Organizations</title>
-      <link>https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/technology/anthropic-ai-hack.html" rel="standout"></atom:link>
-      <description>The disclosure followed OpenAI’s report last week that its own artificial intelligence had hacked into the network of an online library.</description>
-      <dc:creator>Mike Isaac and Kate Conger</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 07:02:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-anthropic-hack-lmtk/30biz-anthropic-hack-lmtk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry for The New York Times</media:credit>
-      <media:description>A lectern bearing the logo of Anthropic, which did not disclose the identity of the organizations that its artificial intelligence systems had breached. </media:description>
-    </item>
-    <item>
-      <title>Why an A.I. Bubble Might Not Be a Bad Thing</title>
-      <link>https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/technology/ai-bubble-venture-capital.html" rel="standout"></atom:link>
-      <description>As fears spread over a possible artificial intelligence bubble, some tech investors say: Bring it on.</description>
-      <dc:creator>Erin Griffith</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 21:30:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/30/business/00ai-bubble-SUB/00ai-bubble-SUB-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Linn Fritz</media:credit>
-    </item>
-    <item>
-      <title>Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint</title>
-      <link>https://www.nytimes.com/2026/07/30/technology/apple-earnings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/apple-earnings.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/technology/apple-earnings.html" rel="standout"></atom:link>
-      <description>The company recently raised prices on a number of products because of component supply shortages caused by the artificial intelligence boom.</description>
-      <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 22:27:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">iPhone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ternus, John</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/APPLE-EARNIGNS-1-cqjp/APPLE-EARNIGNS-1-cqjp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>Apple regained its spot as the world’s most valuable publicly traded company this week.</media:description>
-    </item>
-    <item>
-      <title>Big Tech’s A.I. Spending Keeps Rising. So Do the Jitters.</title>
-      <link>https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/technology/amazon-google-ai-data-center-spending.html" rel="standout"></atom:link>
-      <description>Amazon joined a procession of tech giants that ramped up their spending on artificial intelligence, as its capital expenditures soared 69 percent. Concerns over the industry’s spending are mounting.</description>
-      <dc:creator>Karen Weise</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 02:20:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Enterprise Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Microsoft Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jassy, Andrew R</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30biz-bigtech-earnings-vqmc/30biz-bigtech-earnings-vqmc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Christie Hemm Klok for The New York Times</media:credit>
-      <media:description>Meta’s Eagle Mountain Data Center in Utah. Meta, Amazon, Google and Microsoft are expected to spend $1.5 trillion building data centers through next year.</media:description>
-    </item>
-    <item>
-      <title>U.S. Government Mislabels Map of African Countries at AIDS Conference</title>
-      <link>https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html" rel="standout"></atom:link>
-      <description>Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”</description>
-      <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 19:53:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Africa</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">President&#39;s Emergency Plan for AIDS Relief</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30xp-map-zlwm/30xp-map-zlwm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Picture Obtained By Reuters/UGC</media:credit>
-      <media:description>A map presented by the State Department at AIDS 2026, a conference in Brazil this week. </media:description>
     </item>
   </channel>
 </rss>

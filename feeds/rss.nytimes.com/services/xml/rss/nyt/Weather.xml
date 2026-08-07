@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 06 Aug 2026 15:34:47 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 15:27:34 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 00:20:11 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 22:30:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Wildfire Smoke Degrades Air Quality Across Washington and Oregon</title>
+      <link>https://www.nytimes.com/2026/08/06/weather/wildfires-air-quality-oregon-washington.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/weather/wildfires-air-quality-oregon-washington.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/weather/wildfires-air-quality-oregon-washington.html" rel="standout"></atom:link>
+      <description>Air quality levels reached unhealthy levels across Oregon and Washington this week.</description>
+      <dc:creator>Amy Graff and Anna Griffin</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 19:48:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06wea-PacNW-smoke-02-vqlm/06wea-PacNW-smoke-02-vqlm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Smoke hanging in front of Mount Hood in Oregon. Wildfires have caused air quality to drop precipitously in the region.</media:description>
+    </item>
     <item>
       <title>El Nino Might Mean More Storms Near California Than the Atlantic Coast</title>
       <link>https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html</link>
@@ -21,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html" rel="standout"></atom:link>
       <description>It hasn’t been that long since Hurricane Hilary made a run at Southern California. Could this year see a repeat?</description>
       <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 14:07:53 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 16:48:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
@@ -44,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/world/asia/japan-ai-robot-cherry-blossoms.html" rel="standout"></atom:link>
       <description>Monster Wolf and Pochi are among the robots deployed to scare away bears and transport cherry blossoms in a northern region where many farmers are in their 70s or older.</description>
       <dc:creator>Hannah Beech, Kiuko Notoya and Chang W. Lee</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 13:12:13 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 20:20:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Population</category>
@@ -107,8 +124,7 @@
       <pubDate>Wed, 05 Aug 2026 15:38:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Sesame Street (TV Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Broadcasting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">PBS Kids</category>
@@ -117,6 +133,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sesame Workshop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Post, Austin (Post Malone) (1995- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
     </item>
     <item>
       <title>Record-Breaking Heat Wave in South Korea Leads to Canceled Baseball Games</title>
@@ -402,27 +419,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31trav-europe-heat-fire-callout-bwgl/31trav-europe-heat-fire-callout-bwgl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Costas Metaxakis/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Earth’s Warming Primed France and Spain to Burn, Scientists Find</title>
-      <link>https://www.nytimes.com/2026/07/30/climate/france-spain-wildfires-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/climate/france-spain-wildfires-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/climate/france-spain-wildfires-climate-change.html" rel="standout"></atom:link>
-      <description>The likelihood of hot, dry weather that helps wildfires spread has increased sharply in Europe in recent decades, according to a new report.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 22:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Weather Attribution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30CLI-FIRES-ATTRIBUTION-gzcq/30CLI-FIRES-ATTRIBUTION-gzcq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Umit Bektas/Reuters</media:credit>
-      <media:description>Firefighters battled a blaze near Formariz, Spain, this week. </media:description>
     </item>
   </channel>
 </rss>
