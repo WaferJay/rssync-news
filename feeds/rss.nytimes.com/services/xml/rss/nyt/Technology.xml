@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 10:11:27 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 09:50:23 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 11:07:49 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 11:00:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -98,6 +98,23 @@
       <media:content height="399" medium="image" url="https://static01.nyt.com/images/2026/08/05/technology/personaltech/05BIZ-TECHTIP-TOPART/05BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="398"></media:content>
       <media:credit>Apple</media:credit>
       <media:description>Apple&#39;s free Stocks app for its devices provides a dashboard for following personal investments, markets and financial news.</media:description>
+    </item>
+    <item>
+      <title>The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express</title>
+      <link>https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html" rel="standout"></atom:link>
+      <description>A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.</description>
+      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Alyssa Moxley, Chris Wood, Katie McMurran, Dan Powell, Elisheba Ittoop, Marion Lozano, Sophia Lanman and Rowan Niemisto</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 11:00:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassabis, Demis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/podcasts/07hardfork-secret-rules-art/07hardfork-secret-rules-art-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
     </item>
     <item>
       <title>Meta Ordered to Pay $567 Million Fine by New Mexico Judge</title>
@@ -401,26 +418,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/podcasts/31hardfork-openletters/31hardfork-openletters-mediumSquareAt3X.png" width="1800"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Five Takeaways From the Times Investigation Into Larry Ellison’s A.I. Gamble</title>
-      <link>https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/magazine/takeaways-larry-ellison-oracle-ai.html" rel="standout"></atom:link>
-      <description>The billionaire’s company took on ominous loads of debt to build data centers around the world. The implications go far beyond Oracle.</description>
-      <dc:creator>Jonathan Mahler, Jim Rutenberg and Kirsten Grind</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 09:05:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Lawrence J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oracle Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Bytedance Technology Co Ltd</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/magazine/16mag-Larry-Takeaways/16mag-Larry-Takeaways-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Harnik/Getty Images</media:credit>
-      <media:description>Larry Ellison spoke at the first news conference of the second Trump administration, where the president called him the “C.E.O. of everything.”</media:description>
     </item>
   </channel>
 </rss>
