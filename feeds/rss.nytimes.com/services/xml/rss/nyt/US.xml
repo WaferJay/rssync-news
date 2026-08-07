@@ -3,25 +3,47 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1786139988571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 21:59:48 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 21:37:36 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 22:54:53 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 22:38:54 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>Schumer, Despite Party Tensions, Forges Ahead in Fight for Senate</title>
+      <title>They’re Battle-Tested Democrats. Do Voters Care?</title>
+      <link>https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/us/politics/angie-craig-haley-stevens-democrats.html" rel="standout"></atom:link>
+      <description>Haley Stevens and Angie Craig were celebrated by Democrats in 2018. This year, they’ve faced tough primaries.</description>
+      <dc:creator>Jess Bidgood</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 22:29:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Craig, Angela D (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stevens, Haley</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/us/07pol-on-politics-newsletter/07pol-on-politics-newsletter-mediumSquareAt3X.png" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times; Nic Antaya for The New York Times</media:credit>
+      <media:description>Representatives Angie Craig of Minnesota and Haley Stevens of Michigan</media:description>
+    </item>
+    <item>
+      <title>An Unloved Schumer Tries to Win Over Party’s Insurgents</title>
       <link>https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/07/us/politics/schumer-senate-midterms.html" rel="standout"></atom:link>
       <description>In a phone call this week, the Democratic leader told the new Michigan Senate nominee who had opposed him to just win, working to foster unity ahead of a difficult race.</description>
       <dc:creator>Carl Hulse</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 21:37:36 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 22:37:00 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
@@ -97,13 +119,13 @@
       <media:description>Senator Lindsey Graham, who died suddenly last month, had helped introduce the sanctions package.</media:description>
     </item>
     <item>
-      <title>As Pressure Mounts, U.S. Hunts for Cuba’s Next Leader</title>
+      <title>U.S. Squeezes Cuba Even as It Searches for a New Regime Leader</title>
       <link>https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/07/us/politics/us-search-cuba-leader.html" rel="standout"></atom:link>
       <description>Some officials warn that a more hard-line leader could emerge if the Trump administration moves forward with its plans.</description>
       <dc:creator>Tyler Pager, Julian E. Barnes and Frances Robles</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 17:28:01 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 22:35:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privatization</category>
@@ -126,7 +148,9 @@
       <atom:link href="https://www.nytimes.com/2026/08/07/us/virginia-schools-confederate-names-ruling.html" rel="standout"></atom:link>
       <description>The school board’s decision to rename the schools after Stonewall Jackson, Robert E. Lee and Turner Ashby “cannot be divorced from racial discrimination,” the judge wrote in his ruling.</description>
       <dc:creator>Clyde McGrady</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 17:12:52 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 17:12:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Names, Organizational</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">School Boards</category>
@@ -134,6 +158,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Slavery (Historical)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shenandoah County (Va)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Confederate States of America</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/04/01/multimedia/01nat-confederates-gltb/01nat-confederates-gltb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eze Amos for The New York Times</media:credit>
       <media:description>A public hearing of the Shenandoah County school board in 2022.</media:description>
@@ -405,15 +430,15 @@
       <description>Starting on Friday, the island’s water authority is scheduled to shut off water for rotating 48-hour periods in parts of San Juan and surrounding areas.</description>
       <dc:creator>David Ovalle and Laura N. Pérez Sánchez</dc:creator>
       <pubDate>Fri, 07 Aug 2026 14:30:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rationing and Allocation of Resources</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Maria (2017)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Puerto Rico Aqueduct and Sewer Authority</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez-Colon, Jenniffer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Puerto Rico</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07nat-puerto-rico-phkt/07nat-puerto-rico-phkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Erika P. Rodriguez for The New York Times</media:credit>
       <media:description>Residents of Loíza, P.R., say their water stopped running in early June. </media:description>
@@ -549,47 +574,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06xp-armstrong1-gtlm/06xp-armstrong1-gtlm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Aftoora-Orsagos/Associated Press</media:credit>
       <media:description>The childhood bedroom of Neil Armstrong in Wapakoneta, Ohio. The current owner has collected Armstrong-related memorabilia.</media:description>
-    </item>
-    <item>
-      <title>Woman Who Killed Husband 2 Decades Ago Admits to Murdering Wife</title>
-      <link>https://www.nytimes.com/2026/08/06/us/woman-murder-spouse-california.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/us/woman-murder-spouse-california.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/us/woman-murder-spouse-california.html" rel="standout"></atom:link>
-      <description>A California woman who was sentenced to 11 years in prison in 2004 pleaded guilty this week in another stabbing death.</description>
-      <dc:creator>Ishani Desai</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 22:53:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cal Fire</category>
-      <media:content height="924" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06xp-murder2/06xp-murder2-mediumSquareAt3X.png" width="924"></media:content>
-      <media:credit>San Diego Sheriff&#39;s Office</media:credit>
-      <media:description>Yolanda Olejniczak Marodi pleaded guilty in the death of her wife, Rebecca Marodi.</media:description>
-    </item>
-    <item>
-      <title>Trump Signs Executive Orders Targeting Birthright Citizenship and ‘Birth Tourism’</title>
-      <link>https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html" rel="standout"></atom:link>
-      <description>The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.</description>
-      <dc:creator>Maggie Haberman and Ann E. Marimow</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 12:10:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Tourism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fourteenth Amendment (US Constitution)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scharf, William O</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06dc-birthright-fztc/06dc-birthright-fztc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Trump with the advisers Will Scharf and Stephen Miller, at left, and Commerce Secretary Howard Lutnick, right. The president spoke to the news media after he signed an executive order to limit birthright citizenship on Thursday.</media:description>
     </item>
   </channel>
 </rss>
