@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 00:15:31 +0000</lastBuildDate>
-    <pubDate>Thu, 06 Aug 2026 22:33:39 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 03:17:46 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 02:34:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html" rel="standout"></atom:link>
       <description>Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes. Sixteen of them were viable, yielding new viruses.</description>
       <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 20:19:24 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 00:30:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
@@ -43,7 +43,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/world/americas/capybara-brazil-legislature.html" rel="standout"></atom:link>
       <description>In Mato Grosso, Brazil, capybaras wandered into the building, but they were polite during the incursion.</description>
       <dc:creator>Victor Mather and Leonardo Coelho</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 20:58:52 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 00:54:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rodents</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
@@ -238,6 +238,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legs</category>
     </item>
     <item>
+      <title>A Promising Heart Drug Fails, Challenging a Long-Held Theory of Disease</title>
+      <link>https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html" rel="standout"></atom:link>
+      <description>The drug targeted inflammation, and its shocking failure has experts questioning whether inflammation really does cause heart disease.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 00:58:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novo Nordisk A/S</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/06SCI-HEART-DRUG-zfvh/06SCI-HEART-DRUG-zfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tom Little/Reuters</media:credit>
+      <media:description>A Novo Nordisk study testing an experimental drug for heart disease patients failed.</media:description>
+    </item>
+    <item>
       <title>F.D.A. Approves Moderna’s mRNA Flu Vaccine</title>
       <link>https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</guid>
@@ -282,9 +298,9 @@
       <link>https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/05/climate/data-centers-pollution-trump-ai-energy.html" rel="standout"></atom:link>
-      <description></description>
+      <description>tk</description>
       <dc:creator>Hiroko Tabuchi</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 21:08:42 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 02:18:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
