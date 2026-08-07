@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 03:18:06 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 02:43:02 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:33:49 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 06:18:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -76,18 +76,20 @@
       <description>The Rhine conveys vessels and cargo that power European industry. Record low water levels are disrupting supply chains, adding costs and presenting fresh risks to growth.</description>
       <dc:creator>Christopher F. Schuetze, Patricia Cohen and Patrick Junker</dc:creator>
       <pubDate>Thu, 06 Aug 2026 16:32:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Duisburg (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rhine River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Duisburg (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Siemens AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BASF SE</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ThyssenKrupp AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/Biz-Europe-Rhine-01-lcpj/Biz-Europe-Rhine-01-lcpj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The wreck of a fishing boat that sunk in 1996 is one of several long-submerged relics exposed by low water levels.</media:description>
     </item>
@@ -117,17 +119,18 @@
       <description>After the actor Hudson Williams was photographed carrying a plaid reusable shopping bag, priced under $2, the tote has become a viral fashion accessory.</description>
       <dc:creator>Vjosa Isai</dc:creator>
       <pubDate>Thu, 06 Aug 2026 13:09:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (TV Program)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Hudson (2001- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Tire</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping Bags</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Storrie, Connor (2000- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trader Joe&#39;s</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06int-canada-williams-tote-jkgf/06int-canada-williams-tote-jkgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Strauss/Invision, via Associated Press</media:credit>
       <media:description>Hudson Williams, who plays the gay hockey player Shane Hollander in “Heated Rivalry,” at the Golden Globes in January.</media:description>
@@ -162,14 +165,13 @@
       <description>Google Finance and Apple’s Stocks app have added new features over the years to make them more useful for tracking the markets and your investments.</description>
       <dc:creator>J. D. Biersdorfer</dc:creator>
       <pubDate>Fri, 07 Aug 2026 00:01:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <media:content height="399" medium="image" url="https://static01.nyt.com/images/2026/08/05/technology/personaltech/05BIZ-TECHTIP-TOPART/05BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="398"></media:content>
       <media:credit>Apple</media:credit>
       <media:description>Apple&#39;s free Stocks app for its devices provides a dashboard for following personal investments, markets and financial news.</media:description>

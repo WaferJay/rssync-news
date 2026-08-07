@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 05:08:12 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 03:57:56 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 06:33:56 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 06:32:37 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -43,7 +43,13 @@
       <dc:creator>Emily Cochrane</dc:creator>
       <pubDate>Fri, 07 Aug 2026 03:57:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ogles, Andy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hatcher, Charlie</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/us/06pol-ogles-hfo/06pol-ogles-hfo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>George Walker IV/Associated Press; William DeShazer for The New York Times</media:credit>
       <media:description>Charlie Hatcher and Andy Ogles</media:description>
@@ -131,6 +137,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wapakoneta (Ohio)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06xp-armstrong1-gtlm/06xp-armstrong1-gtlm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Aftoora-Orsagos/Associated Press</media:credit>
       <media:description>The childhood bedroom of Neil Armstrong in Wapakoneta, Ohio. The current owner has collected Armstrong-related memorabilia.</media:description>
@@ -480,6 +487,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lee, William Byron (1959- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hatcher, Charlie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/us/06pol-ogles-tennessee/06pol-ogles-tennessee-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>George Walker IV/Associated Press; Kenny Holston/The New York Times</media:credit>
       <media:description>Charlie Hatcher, left, a former state commissioner of agriculture, was endorsed by Gov. Bill Lee on Tuesday. Andy Ogles, a two-term congressman, has the endorsement of President Trump.</media:description>
@@ -510,15 +519,15 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/us/transgender-gun-rights-wyoming.html" rel="standout"></atom:link>
       <description>Gun-friendly Wyoming has a “stand your ground” statute that allows people to use force to defend themselves. So why is a trans woman being prosecuted after being shoved to the ground?</description>
       <dc:creator>Jack Healy</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 19:49:13 +0000</pubDate>
+      <pubDate>Thu, 06 Aug 2026 19:49:14 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kelver, Rihanna</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shepard, Matthew</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Laramie (Wyo)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Self-Defense</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04nat-trans-gunrights-top-bpkl/04nat-trans-gunrights-top-bpkl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Daniel Brenner for The New York Times</media:credit>
       <media:description>“I had to defend myself,” said Rihanna Kelver, who pulled out a gun outside the Crowbar &amp; Grill in Laramie, Wyo.</media:description>
