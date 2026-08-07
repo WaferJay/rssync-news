@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/tech</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Fri, 07 Aug 2026 12:01:45 GMT</lastBuildDate>
+<lastBuildDate>Fri, 07 Aug 2026 13:42:21 GMT</lastBuildDate>
 <image>
 <title>Technology - WSJ.com</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -82,6 +82,17 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003799445</guid>
+<title>The Summer of Rogue AI Sends a Signal to the Enterprise</title>
+<description>A string of AI models escaping testing environments is testing how seriously enterprises take governance.</description>
+<link>https://www.wsj.com/cio-journal/the-summer-of-rogue-ai-sends-a-signal-to-the-enterprise-0768a0b1?mod=rss_Technology</link>
+<pubDate>Fri, 07 Aug 2026 13:03:00 GMT</pubDate>
+<dc:creator>Tom Loftus</dc:creator>
+<media:content url="https://images.wsj.net/im-09593136" medium="image" type="image/jpeg">
+<media:credit>Matthias Balk/dpa/ZUMA Press</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003798081</guid>
 <title>Inside Amazon&#x2019;s AI Security Playbook</title>
 <description></description>
@@ -124,17 +135,6 @@
 <dc:creator>Isabelle Bousquette</dc:creator>
 <media:content url="https://images.wsj.net/im-837779" medium="image" type="image/jpeg">
 <media:credit>Scott Olson/Getty Images</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003795843</guid>
-<title>Startup Raises $700 Million to Replace Data-Center Wires With Light</title>
-<description>Lumilens, which makes optical gear to speed up data flowing between AI servers, is valued at $5.5 billion in new funding.</description>
-<link>https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358?mod=rss_Technology</link>
-<pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-<dc:creator>Anissa Gardizy</dc:creator>
-<media:content url="https://images.wsj.net/im-94571000" medium="image" type="image/jpeg">
-<media:credit>Lumilens</media:credit>
 </media:content>
 </item>
 <item>
@@ -312,6 +312,17 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003795843</guid>
+<title>Startup Raises $700 Million to Replace Data-Center Wires With Light</title>
+<description>Lumilens, which makes optical gear to speed up data flowing between AI servers, is valued at $5.5 billion in new funding.</description>
+<link>https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358?mod=rss_Technology</link>
+<pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+<dc:creator>Anissa Gardizy</dc:creator>
+<media:content url="https://images.wsj.net/im-94571000" medium="image" type="image/jpeg">
+<media:credit>Lumilens</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003796756</guid>
 <title>Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots</title>
 <description>During cybersecurity testing the model slipped onto the internet and hacked a third-party service, mirroring incidents at Anthropic and OpenAI.</description>
@@ -357,18 +368,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003794570</guid>
-<title>Meta Releases Coding Agent to Compete With OpenAI and Anthropic</title>
-<description>The company, pressed by investors to generate revenue from AI, says its offering will cost less than popular alternatives.</description>
-<link>https://www.wsj.com/tech/ai/meta-releases-coding-agent-to-compete-with-openai-and-anthropic-af87b517?mod=rss_Technology</link>
-<pubDate>Wed, 05 Aug 2026 19:45:00 GMT</pubDate>
-<dc:creator>Meghan Bobrowsky</dc:creator>
-<dc:creator>Tina Li</dc:creator>
-<media:content url="https://images.wsj.net/im-26145138" medium="image" type="image/jpeg">
-<media:credit>David Paul Morris/Bloomberg News</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003777316</guid>
 <title>Facing AI &#x2018;Apocalypse,&#x2019; Once-Hot Software Companies Race to Reinvent Themselves</title>
 <description>Generative AI is steamrollering the once booming industry known as software-as-a-service. &#x201c;You have to burn the ships and start from the ground up.&#x201d;</description>
@@ -380,17 +379,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003795843</guid>
-<title>Startup Raises $700 Million to Replace Data-Center Wires With Light</title>
-<description>Lumilens, which makes optical gear to speed up data flowing between AI servers, is valued at $5.5 billion in new funding.</description>
-<link>https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358?mod=rss_Technology</link>
-<pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
-<dc:creator>Anissa Gardizy</dc:creator>
-<media:content url="https://images.wsj.net/im-94571000" medium="image" type="image/jpeg">
-<media:credit>Lumilens</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003796756</guid>
 <title>Meta AI Model Hacked Outside Company, Adding to Concerns Over Rogue Bots</title>
 <description>During cybersecurity testing the model slipped onto the internet and hacked a third-party service, mirroring incidents at Anthropic and OpenAI.</description>
@@ -399,6 +387,17 @@
 <dc:creator>Sam Schechner</dc:creator>
 <media:content url="https://images.wsj.net/im-56791859" medium="image" type="image/jpeg">
 <media:credit>Daniel Cole/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003795843</guid>
+<title>Startup Raises $700 Million to Replace Data-Center Wires With Light</title>
+<description>Lumilens, which makes optical gear to speed up data flowing between AI servers, is valued at $5.5 billion in new funding.</description>
+<link>https://www.wsj.com/tech/startup-raises-700-million-to-replace-data-center-wires-with-light-adc74358?mod=rss_Technology</link>
+<pubDate>Thu, 06 Aug 2026 12:00:00 GMT</pubDate>
+<dc:creator>Anissa Gardizy</dc:creator>
+<media:content url="https://images.wsj.net/im-94571000" medium="image" type="image/jpeg">
+<media:credit>Lumilens</media:credit>
 </media:content>
 </item>
 <item>
