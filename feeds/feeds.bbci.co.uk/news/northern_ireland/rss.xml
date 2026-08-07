@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/northern_ireland</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 07 Aug 2026 21:04:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Aug 2026 23:53:01 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/northern_ireland/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Belfast university to investigate work co-authored by academic in plagiarism row]]></title>
+            <description><![CDATA[Arday resigned from his University of Cambridge roles on Wednesday following allegations of plagiarism.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckgvxlwe50yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgvxlwe50yo#0</guid>
+            <pubDate>Fri, 07 Aug 2026 23:00:05 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c958/live/b5fe7690-9269-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fleadh to exceed projected £53m economic boost to Belfast]]></title>
             <description><![CDATA[Fleadh Cheoil na hÉireann, hosted this year in Belfast for the first time, runs from 2 to 9 August.]]></description>
@@ -23,20 +31,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d075/live/11433530-91a3-11f1-964d-6f76397ea067.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Big Macs v Supermac's: Irish burger chain wins UK trademark case]]></title>
-            <description><![CDATA[Supermac's and McDonald's  have been embroiled in a long running legal battle over the right to use brand terms including "Mac".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/crl7ez18x9lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crl7ez18x9lo#0</guid>
-            <pubDate>Fri, 07 Aug 2026 16:37:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/590b/live/a54b5260-9272-11f1-b7a2-c7c91f255a18.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Divers find 162-year-old Guinness in shipwreck off the English coast]]></title>
             <description><![CDATA[Samples from the bottle have been sent for analysis, with researchers hoping to learn more about what the stout would have tasted like.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cy4kx9zkd90o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy4kx9zkd90o#0</guid>
             <pubDate>Fri, 07 Aug 2026 05:59:49 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9719/live/067ce450-923b-11f1-b37c-576fd8256624.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Big Macs v Supermac's: Irish burger chain wins UK trademark case]]></title>
+            <description><![CDATA[Supermac's and McDonald's  have been embroiled in a long running legal battle over the right to use brand terms including "Mac".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/crl7ez18x9lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/crl7ez18x9lo#0</guid>
+            <pubDate>Fri, 07 Aug 2026 16:37:49 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/590b/live/a54b5260-9272-11f1-b7a2-c7c91f255a18.jpg"/>
         </item>
         <item>
             <title><![CDATA[Drugs found hidden in young child's bedroom by police dogs]]></title>
@@ -53,14 +61,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c86n5x17j5po#0</guid>
             <pubDate>Fri, 07 Aug 2026 09:35:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f45/live/ff6314a0-91a9-11f1-9c12-47c0acd34ba6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Fear over delay for baby's operation after specialist surgeon resigns]]></title>
-            <description><![CDATA[Jonathan Crooks' son Eli has had two surgeries to close his lip and repair his hard palate but needs another operation before he is 13 months old.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx2kdd0dr0eo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2kdd0dr0eo#0</guid>
-            <pubDate>Fri, 07 Aug 2026 05:26:09 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3977/live/8e96b220-9183-11f1-9587-294e25c71c14.jpg"/>
         </item>
         <item>
             <title><![CDATA[In pictures: Belfast hosts Fleadh for the first time]]></title>
@@ -101,6 +101,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvg89jd44e8o#1</guid>
             <pubDate>Mon, 03 Aug 2026 06:09:20 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e38/live/7f22de40-8e77-11f1-98c2-039438173617.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fear over delay for baby's operation after specialist surgeon resigns]]></title>
+            <description><![CDATA[Jonathan Crooks' son Eli has had two surgeries to close his lip and repair his hard palate but needs another operation before he is 13 months old.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2kdd0dr0eo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2kdd0dr0eo#2</guid>
+            <pubDate>Fri, 07 Aug 2026 05:26:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3977/live/8e96b220-9183-11f1-9587-294e25c71c14.jpg"/>
         </item>
         <item>
             <title><![CDATA[O'Neill out of hospital, but 'no timeline' for return]]></title>
