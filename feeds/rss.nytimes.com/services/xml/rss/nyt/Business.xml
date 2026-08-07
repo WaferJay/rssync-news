@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 17:11:39 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 16:58:58 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 18:06:46 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 17:54:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -93,13 +93,13 @@
       <media:description>Today’s jobs report will be closely scrutinized by investors and Kevin Warsh, the Fed chairman.</media:description>
     </item>
     <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/08/07/business/jobs-report-economy/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/07/business/jobs-report-economy/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/08/07/business/jobs-report-economy/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
+      <title>Labor Market Shifts Into Reverse as Employers Balk at Hiring</title>
+      <link>https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/business/economy/heres-the-latest.html" rel="standout"></atom:link>
+      <description>A spring surge rapidly faded as the summer brought higher prices and more uncertainty for businesses, even as they avoided layoffs.</description>
       <dc:creator>Lydia DePillis</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 12:53:16 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 17:54:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
@@ -107,6 +107,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labor Department (US)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/2026-biz-august-promos-0807-jobsday/2026-biz-august-promos-0807-jobsday-mediumSquareAt3X-v7.png" width="1000"></media:content>
+      <media:credit>Jacqueline Gu/The New York Times</media:credit>
     </item>
     <item>
       <title>Pope Leo XIV Was Elected. The Chicago White Sox Were Resurrected. </title>
@@ -248,6 +250,22 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/Biz-Europe-Rhine-01-lcpj/Biz-Europe-Rhine-01-lcpj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>The wreck of a fishing boat that sunk in 1996 is one of several long-submerged relics exposed by low water levels.</media:description>
+    </item>
+    <item>
+      <title>A Promising Heart Drug Fails, Challenging a Long-Held Theory of Disease</title>
+      <link>https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html" rel="standout"></atom:link>
+      <description>The drug targeted inflammation, and its shocking failure has experts questioning whether inflammation really does cause heart disease.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Fri, 07 Aug 2026 00:58:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novo Nordisk A/S</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/06SCI-HEART-DRUG-zfvh/06SCI-HEART-DRUG-zfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tom Little/Reuters</media:credit>
+      <media:description>A Novo Nordisk study testing an experimental drug for heart disease patients failed.</media:description>
     </item>
     <item>
       <title>China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots</title>
@@ -1020,21 +1038,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kirkland &amp; Ellis</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/25/business/0725-uber-tactics-print1/0725-uber-tactics-print1-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>max-o-matic</media:credit>
-    </item>
-    <item>
-      <title>Oil Giant Saudi Aramco Reports 33% Profit Surge, Despite Iran War Disruptions</title>
-      <link>https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/business/saudi-aramco-oil-bp-earnings-iran-war.html" rel="standout"></atom:link>
-      <description>Higher oil prices propelled a quarterly earnings jump for Saudi Arabia’s energy giant, which used pipelines to work around disruptions in the Strait of Hormuz.</description>
-      <dc:creator>Lisa Friedman</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 10:18:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nasser, Amin H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
     </item>
   </channel>
 </rss>
