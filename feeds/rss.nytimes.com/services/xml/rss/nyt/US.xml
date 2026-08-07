@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 03:20:25 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 02:50:06 +0000</pubDate>
+    <lastBuildDate>Fri, 07 Aug 2026 05:08:12 +0000</lastBuildDate>
+    <pubDate>Fri, 07 Aug 2026 03:57:56 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/us/politics/andy-ogles-loses-tennessee-primary-charlie-hatcher.html" rel="standout"></atom:link>
       <description>Mr. Ogles, a two-term congressman, had held off primary threats before, despite controversy. But on Thursday, Charlie Hatcher, a former state agriculture commissioner, delivered an upset.</description>
       <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 02:50:06 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 03:57:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ogles, Andy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/us/06pol-ogles-hfo/06pol-ogles-hfo-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -55,13 +55,15 @@
       <atom:link href="https://www.nytimes.com/2026/08/06/us/elections/marsha-blackburn-tennessee-governor-primary.html" rel="standout"></atom:link>
       <description>Senator Marsha Blackburn easily beat two Republican rivals and is now favored to become the state’s first female governor after the November elections.</description>
       <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 02:02:25 +0000</pubDate>
+      <pubDate>Fri, 07 Aug 2026 02:02:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blackburn, Marsha</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2025/08/06/multimedia/06nat-marsha-blackburn/06nat-blackburn-fvlz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>Senator Marsha Blackburn, Republican of Tennessee</media:description>
@@ -551,6 +553,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Angela (1963- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <media:content height="985" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06love-letter-nl/06love-letter-nl-mediumSquareAt3X.png" width="985"></media:content>
       <media:credit>Tamir Kalifa for The New York Times, Desiree Rios for The New York Times</media:credit>
     </item>
@@ -596,42 +599,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06pol-localdeniers-fkjt/06pol-localdeniers-fkjt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee/The New York Times</media:credit>
       <media:description>A surge of election deniers hold key offices overseeing or helping administer state and local elections, according to data from the Voting Rights Lab and a Times analysis.</media:description>
-    </item>
-    <item>
-      <title>Paxton and Talarico Offer Diverging Paths on Affordability</title>
-      <link>https://www.nytimes.com/2026/08/06/us/texas-senate-talarico-paxton-taxes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/us/texas-senate-talarico-paxton-taxes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/us/texas-senate-talarico-paxton-taxes.html" rel="standout"></atom:link>
-      <description>The candidates are seeking to win over voters with competing proposals on tax, housing and health care that are aimed at lowering household costs.</description>
-      <dc:creator>Lauren McGaughy</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 04:51:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Talarico, James</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arlington (Tex)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/us/05nat-talarico-paxton-economy/05nat-talarico-paxton-economy-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>Christopher Lee for the New York Times, Brandon Bell/Getty Images</media:credit>
-      <media:description>James Talarico, left, and Ken Paxton laid out competing economic plans at events in the Dallas area this week.</media:description>
-    </item>
-    <item>
-      <title>Senate Panel Has Obtained Copy of Fauci’s Government Cellphone</title>
-      <link>https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/us/politics/fauci-phone-senate.html" rel="standout"></atom:link>
-      <description>The development comes as a Senate committee prepares to vote Thursday on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions at a hearing.</description>
-      <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 13:10:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Ron (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05DC-FAUCI-PHONE-zjmc/05DC-FAUCI-PHONE-zjmc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>A Senate committee Thursday is set to vote on whether to hold Dr. Anthony S. Fauci in contempt of Congress for refusing to answer questions.</media:description>
     </item>
   </channel>
 </rss>
