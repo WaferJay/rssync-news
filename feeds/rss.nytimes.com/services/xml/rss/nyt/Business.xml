@@ -7,13 +7,37 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 07 Aug 2026 23:50:03 +0000</lastBuildDate>
-    <pubDate>Fri, 07 Aug 2026 23:49:51 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2026 02:23:54 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 01:45:28 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Canada Offers U.S. Concessions in Trade Talks but Demands a Comprehensive Deal</title>
+      <link>https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/07/world/canada/us-trade-tariffs-carney-trump.html" rel="standout"></atom:link>
+      <description>Prime Minister Mark Carney is attempting to prevent 50 percent tariffs against many Canadian goods scheduled for this month.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 08 Aug 2026 00:50:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">North American Free Trade Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeBlanc, Dominic (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boycotts</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07canada-trade-jpqt/07canada-trade-jpqt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chris Helgren/Reuters</media:credit>
+      <media:description>The American whiskey section at a B.C. Liquor Store, after U.S.-made products were removed from shelves in Vancouver last year.</media:description>
+    </item>
     <item>
       <title>Trump Restarts Battle to Fire Sitting Fed Governor Lisa Cook</title>
       <link>https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html</link>
@@ -1037,18 +1061,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00biz-palisades-village-caruso-06-vbtj/00biz-palisades-village-caruso-06-vbtj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
       <media:description>Palisades Village mall, which was largely intact after the devastating Los Angeles wildfire last year, is nearly complete and set to reopen Aug. 15.</media:description>
-    </item>
-    <item>
-      <title>Inside Uber’s Legal Strategy to Fight Sexual Assault Lawsuits</title>
-      <link>https://www.nytimes.com/video/business/100000011021856/uber-sexual-assault-lawsuits.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/business/100000011021856/uber-sexual-assault-lawsuits.html</guid>
-      <atom:link href="https://www.nytimes.com/video/business/100000011021856/uber-sexual-assault-lawsuits.html" rel="standout"></atom:link>
-      <description>Our investigative reporter Emily Steel reviewed about a dozen lawsuits against Uber by riders who say they were sexually assaulted or harassed during their rides. They reveal the aggressive tactics Uber’s lawyers are taking as part of their defense strategy.</description>
-      <dc:creator>Emily Steel, Christina Shaman, June Kim, James Surdam and Lauren Pruitt</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 10:17:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
     </item>
   </channel>
 </rss>
