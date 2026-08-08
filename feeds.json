@@ -1,49 +1,77 @@
 {
   "last_updated_feeds": [
     {
-      "url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWSJD"
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSMarketsMain"
     },
     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/World.xml"
     },
     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/US.xml"
+      "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/uk/rss.xml"
     },
     {
-      "url": "https://www.rfi.fr/fr/moyen-orient/rss",
-      "path": "feeds/www.rfi.fr/fr/moyen-orient/rss"
-    },
-    {
-      "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
-    },
-    {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Business.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Business.xml"
-    },
-    {
-      "url": "https://www.rfi.fr/fr/rss",
-      "path": "feeds/www.rfi.fr/fr/rss"
-    },
-    {
-      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWorldNews"
-    },
-    {
-      "url": "https://www.rfi.fr/fr/afrique/rss",
-      "path": "feeds/www.rfi.fr/fr/afrique/rss"
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Weather.xml"
     },
     {
       "url": "https://www.rfi.fr/fr/ameriques/rss",
       "path": "feeds/www.rfi.fr/fr/ameriques/rss"
     },
     {
-      "url": "https://www.rfi.fr/fr/europe/rss",
-      "path": "feeds/www.rfi.fr/fr/europe/rss"
+      "url": "https://www.rfi.fr/fr/culture/rss",
+      "path": "feeds/www.rfi.fr/fr/culture/rss"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/rss.xml"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSLifestyle",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSLifestyle"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/economie/rss",
+      "path": "feeds/www.rfi.fr/fr/economie/rss"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/moyen-orient/rss",
+      "path": "feeds/www.rfi.fr/fr/moyen-orient/rss"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWorldNews"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/rsssportsfeed",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/rsssportsfeed"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSOpinion",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSOpinion"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/latestnewsrealestate",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/latestnewsrealestate"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/rss",
+      "path": "feeds/www.rfi.fr/fr/rss"
     }
   ],
-  "update_time": 1786160900451
+  "update_time": 1786165925463
 }
