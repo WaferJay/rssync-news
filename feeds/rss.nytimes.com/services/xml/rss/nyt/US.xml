@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 08 Aug 2026 14:51:37 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Aug 2026 14:16:27 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2026 15:47:50 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 15:43:23 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -202,15 +202,16 @@
       <atom:link href="https://www.nytimes.com/2026/08/07/us/politics/max-miller-gop.html" rel="standout"></atom:link>
       <description>The Republican House member from Ohio was accused of holding a gun to his ex-wife’s head and fracturing the collarbone of their young daughter. He has denied the accusations.</description>
       <dc:creator>Emily Davies and Annie Karni</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 23:19:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Max (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moreno, Bernie (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Husted, Jon A (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <pubDate>Sat, 08 Aug 2026 15:43:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Max (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07pol-max-miller-scramble-alt-kgvf/07pol-max-miller-scramble-alt-kgvf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee/The New York Times</media:credit>
       <media:description>Max Miller planned to loan his campaign $1 million, effectively rebuffing calls from powerful Republicans in the state to withdraw from the race. </media:description>
@@ -223,13 +224,13 @@
       <description>The authorities said the bodies were found in various of stages of decomposition. It was not clear how long they had been there.</description>
       <dc:creator>Mark Walker</dc:creator>
       <pubDate>Fri, 07 Aug 2026 23:04:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Return to Nature Funeral Home (HallfordHomes LLC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Morgues and Mortuaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Penrose (Colo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pueblo (Colo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morgan, Clark (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morgan, Johanna (1976- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">South Chicago Chapel Funeral Home Inc</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07xp-funeral-home-ctlq/07xp-funeral-home-ctlq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pat Nabong/Chicago Sun-Times, via Pat Nabong/Chicago Sun-Times Via</media:credit>
       <media:description>Outside the South Chicago Chapel in Chicago on Friday. The authorities said more than 50 decomposing bodies were found there. </media:description>
@@ -302,16 +303,18 @@
       <atom:link href="https://www.nytimes.com/2026/08/07/us/trump-mexico-deportations-torture.html" rel="standout"></atom:link>
       <description>Immigration authorities used a rare authority to deport them, even though their removal was blocked over concerns they would be tortured if returned.</description>
       <dc:creator>Hamed Aleaziz</dc:creator>
-      <pubDate>Sat, 08 Aug 2026 01:27:08 +0000</pubDate>
+      <pubDate>Sat, 08 Aug 2026 01:27:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temporary Protected Status (US Immigration)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mullin, Markwayne</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07dc-mexico-pvwh/07dc-mexico-pvwh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adam Gray for The New York Times</media:credit>
       <media:description>Federal agents detaining a person after their immigration court hearing last year.</media:description>
@@ -399,14 +402,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nudism and Nudity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Happiness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Johnson, Mike (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portland (Ore)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07nat-naked-oregon-PROMO-kwvh/07nat-naked-oregon-PROMO-kwvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Gale for The New York Times</media:credit>
     </item>
@@ -446,74 +443,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07dc-trump-iran-top-vbwg/07dc-trump-iran-top-vbwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Getty Images</media:credit>
       <media:description>Anti-government protesters in Tehran in January. Iran has executed at least 26 people in connection with the protests since President Trump made his promise.</media:description>
-    </item>
-    <item>
-      <title>Appeals Court Upholds Block on Trump Ballroom Construction</title>
-      <link>https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html" rel="standout"></atom:link>
-      <description>A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.</description>
-      <dc:creator>Zach Montague and Mattathias Schwartz</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 19:06:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House East Wing and Ballroom (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Leon, Richard J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07dc-ballroom-new-wbjm/07dc-ballroom-new-wbjm-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
-      <media:credit>Allison Robbert for The New York Times</media:credit>
-      <media:description>Construction on the White House ballroom site this week.</media:description>
-    </item>
-    <item>
-      <title>Prosecutor Sues Justice Dept. Over Dismissal After Right-Wing Influencer’s Claim</title>
-      <link>https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html" rel="standout"></atom:link>
-      <description>Will Rosenzweig joins a growing list of former prosecutors and federal agents who have gone to court to contest the purge of law enforcement deemed disloyal.</description>
-      <dc:creator>Alan Feuer</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 17:42:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blanche, Todd (Attorney)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bondi, Pamela J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, James B</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Comey, Maurene</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Miami (Fla)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reding Quinones, Jason A</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/dc-prosecutor-1-pqmc/dc-prosecutor-1-pqmc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>The Justice Department in September fired Will Rosenzweig, a prosecutor who had earned consistent praise, hours after a right-wing commentator demanded on social media that officials dismiss him.</media:description>
-    </item>
-    <item>
-      <title>An ICE Detention Center Roils a Colorado Town and Jolts a House Race</title>
-      <link>https://www.nytimes.com/2026/08/07/us/ice-detention-center-hudson-colorado-house.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/us/ice-detention-center-hudson-colorado-house.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/07/us/ice-detention-center-hudson-colorado-house.html" rel="standout"></atom:link>
-      <description>Tiny Hudson, Colo., was mostly known as a speed trap between plains and suburbs. Then ICE announced it was coming, setting off months of protests.</description>
-      <dc:creator>Jack Healy</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 15:19:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Evans, Gabe (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rutinel, Manny (1994- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07nat-icedetention-colo-PROMO-kmph/07nat-icedetention-colo-PROMO-kmph-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chet Strange for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
