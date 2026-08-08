@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 08 Aug 2026 02:23:26 +0000</lastBuildDate>
-    <pubDate>Sat, 08 Aug 2026 01:09:13 +0000</pubDate>
+    <lastBuildDate>Sat, 08 Aug 2026 09:57:07 +0000</lastBuildDate>
+    <pubDate>Sat, 08 Aug 2026 09:02:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -93,6 +93,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/podcasts/07hardfork-secret-rules-art-2/07hardfork-secret-rules-art-2-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
+    </item>
+    <item>
+      <title>New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.</title>
+      <link>https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html" rel="standout"></atom:link>
+      <description>The tech giant is investing in the natural-gas-burning power plant as part of a huge data center in Texas, even as it pledges to honor climate commitments.</description>
+      <dc:creator>Hiroko Tabuchi</dc:creator>
+      <pubDate>Sat, 08 Aug 2026 09:02:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08CLI-AMAZON-jtbw/08CLI-AMAZON-jtbw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Danielle Villasana/Reuters</media:credit>
+      <media:description>The artificial-intelligence boom is causing tech companies like Amazon to struggle to meet their pledges to cut greenhouse gas emissions.</media:description>
     </item>
     <item>
       <title>F.C.C. Removes Limit on Broadcast TV Ownership</title>
@@ -402,24 +423,6 @@
       <media:content height="1546" medium="image" url="https://static01.nyt.com/images/2026/08/02/multimedia/02xp-google1/02xp-google1-mediumSquareAt3X.jpg" width="1548"></media:content>
       <media:credit>Google</media:credit>
       <media:description>A screenshot of Google’s announcement on Thursday about Nano Banana 2, an artificial intelligence feature.</media:description>
-    </item>
-    <item>
-      <title>Open Model Wars + Claire Stapleton’s Dishy Google Memoir + Substack’s Slop Fight</title>
-      <link>https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/31/podcasts/open-source-google.html" rel="standout"></atom:link>
-      <description>“It just seems like the temperature is rising on Silicon Valley.”</description>
-      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Rowan Niemisto, Chris Wood and Alyssa Moxley</dc:creator>
-      <pubDate>Fri, 31 Jul 2026 11:00:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stapleton, Claire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Substack Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/31/podcasts/31hardfork-openletters/31hardfork-openletters-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>The New York Times</media:credit>
     </item>
   </channel>
 </rss>
