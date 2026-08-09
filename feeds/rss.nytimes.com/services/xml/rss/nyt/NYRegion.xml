@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 02:31:48 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Aug 2026 01:08:30 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 07:25:15 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 07:00:06 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -191,6 +191,15 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07met-delaney-investigation-bjmp/07met-delaney-investigation-bjmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ryan Murphy/Reuters</media:credit>
       <media:description>The federal detention center has been a persistent target of criticism from protesters and Democratic lawmakers since it reopened last year. </media:description>
+    </item>
+    <item>
+      <title>‘The Squirrel Pounced on the Apple and Scampered a Few Steps Away’</title>
+      <link>https://www.nytimes.com/2026/08/09/nyregion/metropolitan-diary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/nyregion/metropolitan-diary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/09/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
+      <description>Catching up on a crosstown bus, a chaotic street scene in the Bronx and more reader tales from New York City in this week’s Metropolitan Diary.</description>
+      <pubDate>Sun, 09 Aug 2026 07:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
     </item>
     <item>
       <title>Luigi Mangione Is Facing Two Trials. Isn’t That Double Jeopardy?</title>
@@ -398,31 +407,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Day You Begin (TV Program)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06cul-jacqueline-woodson-promo-wcfj/06cul-jacqueline-woodson-promo-wcfj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Marcus Maddox for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Why a Coast Guard Boat Came to Times Square</title>
-      <link>https://www.nytimes.com/2026/08/06/nyregion/coast-guard-boat-museum.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/nyregion/coast-guard-boat-museum.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/nyregion/coast-guard-boat-museum.html" rel="standout"></atom:link>
-      <description>The 31-foot-long vessel and some replica weapons recalling those used in the War of 1812 featured in a celebration that looks ahead to a new Coast Guard museum.</description>
-      <dc:creator>James Barron</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 09:03:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tenure</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Models and Replicas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New School</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamilton, Alexander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Times Square and 42nd Street (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Hamilton (Play)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06nytoday-qhlk/06nytoday-qhlk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
     </item>
   </channel>
 </rss>
