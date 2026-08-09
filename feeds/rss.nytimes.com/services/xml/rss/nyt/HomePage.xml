@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 02:28:43 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Aug 2026 01:05:27 +0000</pubDate>
+    <lastBuildDate>Sun, 09 Aug 2026 04:39:27 +0000</lastBuildDate>
+    <pubDate>Sun, 09 Aug 2026 04:01:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -183,6 +183,33 @@
       <media:description>Senator Darline Graham has shied away from interacting with reporters, raising questions about the views and positions of a woman who had never held public office.</media:description>
     </item>
     <item>
+      <title>How a Drone ‘Hellscape’ Might Stop a Chinese Invasion of Taiwan</title>
+      <link>https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/09/world/asia/taiwan-drone-china-invasion.html" rel="standout"></atom:link>
+      <description>Inspired by Ukraine’s battlefield gains, Taiwan is betting on drones to deter a potential Chinese invasion.</description>
+      <dc:creator>Chris Buckley and Amy Chang Chien</dc:creator>
+      <pubDate>Sun, 09 Aug 2026 04:01:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Taiwan Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Liberation Army (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Progressive Party (Taiwan)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08int-taiwan-drone-01-tjlb/08int-taiwan-drone-01-tjlb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>Members of Taiwan’s military operating a drone during the annual Han Kuang military exercises in Changhua, Taiwan on Thursday.</media:description>
+    </item>
+    <item>
       <title>Billy Strings Escaped the Darkness. He’s Playing to Not Go Back.</title>
       <link>https://www.nytimes.com/2026/08/08/magazine/billy-strings-interview.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/08/magazine/billy-strings-interview.html</guid>
@@ -234,14 +261,14 @@
       <atom:link href="https://www.nytimes.com/2026/08/08/us/politics/hunter-biden-says-his-fathers-cancer-is-worsening.html" rel="standout"></atom:link>
       <description>In an interview with the BBC, Mr. Biden said that former President Joseph R. ⁠Biden Jr.’s prostate cancer had spread into his bones and was causing pain.</description>
       <dc:creator>Mack Liederman</dc:creator>
-      <pubDate>Sat, 08 Aug 2026 22:11:30 +0000</pubDate>
+      <pubDate>Sun, 09 Aug 2026 02:44:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostate Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Hunter</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08dc-biden-lkgq/08dc-biden-lkgq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alyssa Schukar for The New York Times</media:credit>
-      <media:description>Former President Joseph R. Biden Jr. at an event in December in Washington. Mr. Biden was diagnosed with prostate cancer in 2025.</media:description>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/08/09/96vid-hunter-biden-embed-38492-cover/96vid-hunter-biden-embed-38492-cover-mediumSquareAt3X.jpg" width="1080"></media:content>
+      <media:credit>BBC Newsnight, via Reuters</media:credit>
+      <media:description>BBC Newsnight, via Reuters</media:description>
     </item>
   </channel>
 </rss>
