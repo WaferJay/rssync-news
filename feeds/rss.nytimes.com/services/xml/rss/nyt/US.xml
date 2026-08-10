@@ -3,17 +3,34 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1786381828571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 17:10:28 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 17:00:47 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 18:05:41 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 17:46:03 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>How Trump’s Yearlong ‘Takeover’ of Washington Has Changed the Capital</title>
+      <link>https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/us/national-guard-washington-dc.html" rel="standout"></atom:link>
+      <description>The deployment of National Guard troops and federal agents into the streets has been expensive. How effective it has been is debatable.</description>
+      <dc:creator>Campbell Robertson</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 17:42:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Federal Takeover of Metropolitan Police Dept (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Guard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Park Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Metropolitan Police Department (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+    </item>
     <item>
       <title>Will Voters Think Francesca Hong Is Too Radical? Here’s Where She Stands.</title>
       <link>https://www.nytimes.com/2026/08/10/us/francesca-hong-positions-wisconsin-governor.html</link>
@@ -46,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/us/politics/trump-reflecting-pool-renovation-vandalism.html" rel="standout"></atom:link>
       <description>The president had insisted for weeks that the landmarks’ algae-stained waters and peeling lining were the fault of vandals, not the project itself.</description>
       <dc:creator>David A. Fahrenthold</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 16:23:06 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 16:23:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hearn, David (1959- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
@@ -63,7 +80,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html" rel="standout"></atom:link>
       <description>Ken Paxton, the Texas attorney general, makes six-figure income from a cellphone tower on the grounds of a hospital where he was a board member.</description>
       <dc:creator>Lauren McGaughy</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 16:06:57 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 17:46:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
@@ -144,7 +161,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html" rel="standout"></atom:link>
       <description>In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.</description>
       <dc:creator>Fernando Alfonso III and Kashmir Hill</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 12:34:18 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 17:14:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
@@ -412,25 +429,6 @@
       <media:content height="1374" medium="image" url="https://static01.nyt.com/images/2026/08/06/us/dc-wlf-header/dc-wlf-header-mediumSquareAt3X-v2.jpg" width="1375"></media:content>
       <media:credit>Vincent Alban for The New York Times</media:credit>
       <media:description>Guren “Bobby” Zhou, top left, with Zach Witkoff, right, in a private suite at the World Cup final match on July 19 in East Rutherford, N.J.</media:description>
-    </item>
-    <item>
-      <title>Moderate Democrat in Hawaii Easily Defeats Progressive House Challenger</title>
-      <link>https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html" rel="standout"></atom:link>
-      <description>Representative Ed Case beat Jarrett Keohokalole, a younger progressive, in a race that centered on questions of generational change and the state’s skyrocketing cost of living.</description>
-      <dc:creator>Bayliss Wagner</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 12:39:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Keohokalole, Jarrett</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Case, Ed</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09pol-hawaii-dems-HFO-zfgq/09pol-hawaii-dems-HFO-zfgq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Brandon/Associated Press</media:credit>
     </item>
   </channel>
 </rss>
