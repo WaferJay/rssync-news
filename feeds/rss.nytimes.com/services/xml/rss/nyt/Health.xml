@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 09 Aug 2026 21:49:43 +0000</lastBuildDate>
-    <pubDate>Sun, 09 Aug 2026 21:29:45 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 02:34:04 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 02:13:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -79,7 +79,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novo Nordisk A/S</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/06SCI-HEART-DRUG-zfvh/06SCI-HEART-DRUG-zfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tom Little/Reuters</media:credit>
-      <media:description>A Novo Nordisk study testing an experimental drug for heart disease patients failed.</media:description>
+      <media:description>A Novo Nordisk study tested an experimental drug for heart disease patients.</media:description>
     </item>
     <item>
       <title>Amid Cyclospora Outbreak, Demand for Locally Grown Lettuce Surges</title>
@@ -208,6 +208,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
     </item>
     <item>
+      <title>Taylor Farms Voluntarily Recalls Fresh Jalapeños Over Salmonella Concerns</title>
+      <link>https://www.nytimes.com/2026/08/09/business/taylor-farms-jalapenos-salmonella.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/business/taylor-farms-jalapenos-salmonella.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/09/business/taylor-farms-jalapenos-salmonella.html" rel="standout"></atom:link>
+      <description>The company said it was unaware of any reported illnesses linked to its products containing jalapeños, which were distributed to major retailers across 26 states.</description>
+      <dc:creator>Alexandra E. Petri</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 02:13:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chili Peppers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salmonella (Bacteria)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclospora (Parasite)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
+      <category domain="">Jalapenos</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09xp-jalapenos-pbcj/09xp-jalapenos-pbcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fred Ramos for The New York Times</media:credit>
+      <media:description>The Taylor Farms processing plant in Doctor Mora, Guanajuato, Mexico. The F.D.A. is investigating a food-borne parasite outbreak linked to shredded lettuce traced to the facility.</media:description>
+    </item>
+    <item>
       <title>Dr. Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61</title>
       <link>https://www.nytimes.com/2026/08/09/obituaries/maura-l-gillison-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/obituaries/maura-l-gillison-dead.html</guid>
@@ -273,15 +295,15 @@
       <dc:creator>Helen Ouyang and Stephanie Sinclair</dc:creator>
       <pubDate>Wed, 05 Aug 2026 16:31:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Health Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diabetes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/magazine/16mag-caregivers-promo/16mag-caregivers-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stephanie Sinclair for The New York Times</media:credit>
       <media:description>SuSann Forman-Ferreira, 74, and her eighth-grade grandson and caregiver, Zion Zebedee Hedgepeth, at their home in Boca Raton, Fla., in June.</media:description>
@@ -415,34 +437,6 @@
       <media:content height="1289" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/27ST-NICOLE-LEPERA-01-tzwk/27ST-NICOLE-LEPERA-01-tzwk-mediumSquareAt3X.jpg" width="1288"></media:content>
       <media:credit>Paul Archuleta/Shutterstock</media:credit>
       <media:description>Nicole LePera at an author talk in Los Angeles in 2023.</media:description>
-    </item>
-    <item>
-      <title>U.S. Restores Some Vaccine and Health Aid to Unicef, Gavi and World Food Programme</title>
-      <link>https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html" rel="standout"></atom:link>
-      <description>The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.</description>
-      <dc:creator>Stephanie Nolen</dc:creator>
-      <pubDate>Sun, 02 Aug 2026 15:22:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Aid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Developing Countries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Gavi, the Vaccine Alliance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Agency for International Development</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">World Food Program</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations Children&#39;s Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Operation End Starvation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Committee of the Red Cross</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Red Cross and Red Crescent Societies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Global Fund to Fight AIDS, Tuberculosis and Malaria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00dc-state-health-funding-gfkl/00dc-state-health-funding-gfkl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>A camp for people displaced by violence and drought in Somalia’s southern Gedo region, seen in April.</media:description>
     </item>
   </channel>
 </rss>
