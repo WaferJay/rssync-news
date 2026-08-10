@@ -7,13 +7,36 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 22:56:28 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 22:03:02 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:54:30 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 23:28:13 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom</title>
+      <link>https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html" rel="standout"></atom:link>
+      <description>Six giant investment firms announced a $500 billion effort to raise money for customers of Nvidia to pay for computing power.</description>
+      <dc:creator>Rob Copeland and Kalley Huang</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 23:28:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BlackRock Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goldman Sachs Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">KKR &amp; Co LP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solomon, David M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fink, Laurence D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10biz-Wall-Street-AI-fink-jtqm/10biz-Wall-Street-AI-fink-jtqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Markus Schreiber/Associated Press</media:credit>
+      <media:description>The chief executive of BlackRock, Larry Fink, shown in January, said on Monday that the artificial intelligence industry needed to raise money “as fast as possible.” </media:description>
+    </item>
     <item>
       <title>Traffic to Trump’s Truth Social Falls Sharply This Summer</title>
       <link>https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html</link>
@@ -1024,24 +1047,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05db-closed-ai-qpbj/05db-closed-ai-qpbj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evelyn Hockstein/Reuters</media:credit>
       <media:description>From left, OpenAI’s Sam Altman, President Trump and Demis Hassabis, the C.E.O. of Google DeepMind, at a G7 Summit event in June.</media:description>
-    </item>
-    <item>
-      <title>The New York Times’s Revenue Rises 11% as Costs Increase</title>
-      <link>https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/business/media/new-york-times-earnings-q2.html" rel="standout"></atom:link>
-      <description>The company said it added 280,000 digital subscribers in the second quarter, fewer than the previous quarter.</description>
-      <dc:creator>Katie Robertson</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 21:01:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Athletic Media Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kopit Levien, Meredith</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05biz-NYTimes-earnings-mkzb/05biz-NYTimes-earnings-mkzb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>The New York Times Company said it had 13.35 million total subscribers at the end of the second quarter. </media:description>
     </item>
   </channel>
 </rss>
