@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Mon, 10 Aug 2026 08:52:05 GMT</lastBuildDate>
+<lastBuildDate>Mon, 10 Aug 2026 10:38:08 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -20,6 +20,28 @@
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-10-2026?mod=rss_markets_main</link>
 <pubDate>Mon, 10 Aug 2026 08:30:04 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-925349" medium="image" type="image/jpeg">
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003805289</guid>
+<title>When Food Scares Serve Up Healthy Profits</title>
+<description>Plus, Warren Buffett&#x2019;s buying again</description>
+<link>https://www.wsj.com/finance/stocks/when-food-scares-serve-up-healthy-profits-1076b038?mod=rss_markets_main</link>
+<pubDate>Mon, 10 Aug 2026 10:20:00 GMT</pubDate>
+<dc:creator>Spencer Jakab</dc:creator>
+<media:content url="https://images.wsj.net/im-61969136" medium="image" type="image/jpeg">
+<media:credit>Mario Tama/Getty Images</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003801307</guid>
+<title>War Is Helping Chinese EVs Upend the Global Car Market</title>
+<description>High gasoline prices are giving a boost to China&#x2019;s electric-vehicle exports.</description>
+<link>https://www.wsj.com/business/autos/war-is-helping-chinese-evs-upend-the-global-car-market-b1b7ea57?mod=rss_markets_main</link>
+<pubDate>Mon, 10 Aug 2026 09:30:00 GMT</pubDate>
+<dc:creator>Carol Ryan</dc:creator>
+<media:content url="https://images.wsj.net/im-60183419" medium="image" type="image/jpeg">
+<media:credit>Qilai Shen/Bloomberg News</media:credit>
 </media:content>
 </item>
 <item>
@@ -64,28 +86,6 @@
 <dc:creator>William Power</dc:creator>
 <media:content url="https://images.wsj.net/im-13291345" medium="image" type="image/jpeg">
 <media:credit>Giacomo Bagnara</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003803629</guid>
-<title>Victims Are Losing Thousands of Dollars on the &#x2018;Jury Duty&#x2019; Scam</title>
-<description>Plus, Iran&#x2019;s new demands for reopening the Strait of Hormuz narrow Trump&#x2019;s options, and estate sales get competitive.</description>
-<link>https://www.wsj.com/tech/victims-are-losing-thousands-of-dollars-on-the-jury-duty-scam-c8fbafb2?mod=rss_markets_main</link>
-<pubDate>Sun, 09 Aug 2026 11:10:00 GMT</pubDate>
-<dc:creator>Emma Tucker</dc:creator>
-<media:content url="https://images.wsj.net/im-14378324" medium="image" type="image/jpeg">
-<media:credit>Megan May for WSJ</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003802349</guid>
-<title>Why Your Condo Association Might Be Raising Your Dues Soon</title>
-<description>Tighter federal mortgage rules will require many condominium associations to set aside more of their budgets into reserve accounts for future repairs.</description>
-<link>https://www.wsj.com/finance/regulation/why-your-condo-association-might-be-raising-your-dues-soon-20d6adba?mod=rss_markets_main</link>
-<pubDate>Sun, 09 Aug 2026 11:00:00 GMT</pubDate>
-<dc:creator>Veronica Dagher</dc:creator>
-<media:content url="https://images.wsj.net/im-36554915" medium="image" type="image/jpeg">
-<media:credit>Joe Raedle/Getty Images</media:credit>
 </media:content>
 </item>
 <item>
@@ -251,8 +251,8 @@
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003805254</guid>
-<title>Oil Broadly Flat, U.S. Futures Mostly Higher Ahead of Key U.S. CPI Data</title>
-<description>Treasury yields fell, while gold rose, as doubts about an imminent peace deal in the Middle East lingered.</description>
+<title>U.S. Stock Futures Mostly Higher Ahead of Key CPI Data</title>
+<description>U.S. futures were mostly higher ahead of key inflation data later this week. ma</description>
 <link>https://www.wsj.com/finance/stocks/oil-broadly-flat-u-s-futures-mostly-higher-ahead-of-key-u-s-cpi-data-db69b2c8?mod=rss_markets_main</link>
 <pubDate>Mon, 10 Aug 2026 08:19:00 GMT</pubDate>
 <dc:creator>Dow Jones Newswires Staff</dc:creator>
@@ -372,7 +372,7 @@
 <item>
 <guid isPermaLink="false">WP-WSJ-0003805011</guid>
 <title>U.A.E.&#x2019;s Adnoc Gas to Invest More Than $8 Billion in Expansion Push</title>
-<description>Plan to boost production comes after OPEC exit earlier this year frees state-owned Adnoc of cartel&#x2019;s restrictions.</description>
+<description>An exit from OPEC earlier this year freed state-owned Adnoc of the cartel&#x2019;s restrictions.</description>
 <link>https://www.wsj.com/business/energy-oil/u-a-e-s-adnoc-gas-to-invest-more-than-8-billion-in-expansion-push-cceb572d?mod=rss_markets_main</link>
 <pubDate>Mon, 10 Aug 2026 07:54:00 GMT</pubDate>
 <dc:creator>Adam Whittaker</dc:creator>
@@ -451,6 +451,17 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003802349</guid>
+<title>Why Your Condo Association Might Be Raising Your Dues Soon</title>
+<description>Tighter federal mortgage rules will require many condominium associations to set aside more of their budgets into reserve accounts for future repairs.</description>
+<link>https://www.wsj.com/finance/regulation/why-your-condo-association-might-be-raising-your-dues-soon-20d6adba?mod=rss_markets_main</link>
+<pubDate>Sun, 09 Aug 2026 11:00:00 GMT</pubDate>
+<dc:creator>Veronica Dagher</dc:creator>
+<media:content url="https://images.wsj.net/im-36554915" medium="image" type="image/jpeg">
+<media:credit>Joe Raedle/Getty Images</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003790903</guid>
 <title>The Morning Risk Report: How Trump&#x2019;s Financial Windfall Stiffened Opposition to Landmark Crypto Bill</title>
 <description>Plus: SEC climate rule rescission faces investor opposition, OpenAI settles with Justice Department over U.S. worker discrimination claims</description>
@@ -497,14 +508,14 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003759119</guid>
-<title>Wisconsin&#x2019;s Warning on Election Bets Intensifies Fight With Prediction Markets</title>
-<description>A sprawling legal battle between state regulators and sites like Kalshi is heating up ahead of the midterm elections.</description>
-<link>https://www.wsj.com/finance/regulation/wisconsins-warning-on-election-bets-intensifies-fight-with-prediction-markets-b0923735?mod=rss_markets_main</link>
-<pubDate>Sun, 26 Jul 2026 17:00:00 GMT</pubDate>
-<dc:creator>Krystal Hur</dc:creator>
-<media:content url="https://images.wsj.net/im-24150806" medium="image" type="image/jpeg">
-<media:credit>Michael Nagle/Bloomberg News</media:credit>
+<guid isPermaLink="false">WP-WSJ-0003803629</guid>
+<title>Victims Are Losing Thousands of Dollars on the &#x2018;Jury Duty&#x2019; Scam</title>
+<description>Plus, Iran&#x2019;s new demands for reopening the Strait of Hormuz narrow Trump&#x2019;s options, and estate sales get competitive.</description>
+<link>https://www.wsj.com/tech/victims-are-losing-thousands-of-dollars-on-the-jury-duty-scam-c8fbafb2?mod=rss_markets_main</link>
+<pubDate>Sun, 09 Aug 2026 11:10:00 GMT</pubDate>
+<dc:creator>Emma Tucker</dc:creator>
+<media:content url="https://images.wsj.net/im-14378324" medium="image" type="image/jpeg">
+<media:credit>Megan May for WSJ</media:credit>
 </media:content>
 </item>
 <item>
@@ -549,17 +560,6 @@
 <dc:creator>Mark Maurer</dc:creator>
 <media:content url="https://images.wsj.net/im-16986457" medium="image" type="image/jpeg">
 <media:credit>Michael Nagle/Bloomberg News</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003798295</guid>
-<title>How a Few Hot Stocks Can Make &#x2018;Twin&#x2019; Funds Act Like Strangers</title>
-<description>Index funds that seem to invest the same way are performing very differently this year.</description>
-<link>https://www.wsj.com/finance/investing/how-a-few-hot-stocks-can-make-twin-funds-act-like-strangers-0ef7c52b?mod=rss_markets_main</link>
-<pubDate>Fri, 07 Aug 2026 13:00:00 GMT</pubDate>
-<dc:creator>Jason Zweig</dc:creator>
-<media:content url="https://images.wsj.net/im-27361692" medium="image" type="image/jpeg">
-<media:credit>Alex Nabaum for WSJ</media:credit>
 </media:content>
 </item>
 <item>
