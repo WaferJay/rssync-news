@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 10 Aug 2026 10:35:49 +0000</lastBuildDate>
-    <pubDate>Mon, 10 Aug 2026 09:09:10 +0000</pubDate>
+    <lastBuildDate>Mon, 10 Aug 2026 12:03:38 +0000</lastBuildDate>
+    <pubDate>Mon, 10 Aug 2026 12:01:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Boeing to Sell 3 Autonomous Flight Subsidiaries</title>
+      <link>https://www.nytimes.com/2026/08/10/business/boeing-subsidiaries-sale-archer-aviation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/boeing-subsidiaries-sale-archer-aviation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/business/boeing-subsidiaries-sale-archer-aviation.html" rel="standout"></atom:link>
+      <description>In exchange for the sale to Archer Aviation, which is developing a piloted electric aircraft, Boeing will receive a 16.5 percent stake in Archer.</description>
+      <dc:creator>Niraj Chokshi</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 12:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archer Aviation Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wisk Aero LLC</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/business/10biz-boeing-airtaxi/10biz-boeing-airtaxi-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Richard Baker/in Pictures, via Getty Images</media:credit>
+      <media:description>Archer Aviation is currently developing piloted electric aircraft capable of taking off and landing vertically like a helicopter, for both commercial and military uses.</media:description>
+    </item>
     <item>
       <title>Private Equity Is Stuck With 33,575 Unsold Businesses</title>
       <link>https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html</link>
@@ -38,7 +56,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html" rel="standout"></atom:link>
       <description>A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.</description>
       <dc:creator>Elaine Glusac</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 09:01:42 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:24:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -97,7 +115,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/09/business/oil-stocks-iran-war.html" rel="standout"></atom:link>
       <description>Hopes were dashed over the weekend for a breakthrough on shipping traffic through the critical waterway in the Persian Gulf.</description>
       <dc:creator>Veronica Majerol and Jason Karaian</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 09:03:17 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 12:01:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -157,10 +175,14 @@
       <dc:creator>Stacey Freed and Ryan David Brown</dc:creator>
       <pubDate>Sun, 09 Aug 2026 09:00:16 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Paper and Pulp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Paper Industries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison (Me)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TimberHP</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/00BIZ-SQFT-PAPERMILL-kbvq/00BIZ-SQFT-PAPERMILL-kbvq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>When the Madison Paper Industries plant closed in 2016, no one was surprised. Paper sales had been declining.</media:description>
     </item>
@@ -1030,29 +1052,6 @@
       <media:content height="582" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04cli-greenbank-hfwp/04cli-greenbank-hfwp-mediumSquareAt3X.jpg" width="581"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>Portraits of President Trump and Vice President Vance hang in the employee entrance of the Environmental Protection Agency in Washington.</media:description>
-    </item>
-    <item>
-      <title>Judge Sets Paramount-Warner Bros. Merger Trial for March</title>
-      <link>https://www.nytimes.com/2026/08/04/business/media/paramount-warner-bros-trial-march.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/business/media/paramount-warner-bros-trial-march.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/business/media/paramount-warner-bros-trial-march.html" rel="standout"></atom:link>
-      <description>Paramount, which struck a $111 billion deal to acquire Warner Bros., had requested a November trial for an antitrust lawsuit brought by state attorneys general.</description>
-      <dc:creator>Benjamin Mullin</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 20:48:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Writers Guild of America</category>
-      <category domain=""></category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04biz-paramount-tzbh/04biz-paramount-tzbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mark Abramson for The New York Times</media:credit>
-      <media:description>A trial is scheduled to determine whether Paramount’s purchase of Warner Bros. violates an antitrust law.</media:description>
     </item>
   </channel>
 </rss>
