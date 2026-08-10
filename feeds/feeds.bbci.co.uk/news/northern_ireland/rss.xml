@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/northern_ireland</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 09 Aug 2026 22:54:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Aug 2026 06:47:04 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/northern_ireland/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -23,20 +23,28 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c84/live/2e385c70-9431-11f1-b2ab-0dd01740f9f6.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Roll on 2027' as Fleadh 2026 comes to an end]]></title>
+            <description><![CDATA[The 2026 festival was being hosted in the city for the first time and ended on Sunday.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c4gk74vpzxzo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4gk74vpzxzo#0</guid>
+            <pubDate>Mon, 10 Aug 2026 05:42:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7995/live/f8e4f260-947e-11f1-9918-857a225fb14e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Emergency meeting to be held after cattle shot dead in field]]></title>
+            <description><![CDATA[The shooting took place on land in County Tyrone in June, prompting widespread criticism and claims of a "wild west" scene.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cly5n8w7dnvo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cly5n8w7dnvo#0</guid>
+            <pubDate>Mon, 10 Aug 2026 05:09:48 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c9a/live/d40959c0-9269-11f1-9f0c-8d4ddef91df6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Man's body found in burning car ]]></title>
             <description><![CDATA[The man was pronounced dead at the scene after police and firefighters were called to a car fire.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c0km1zed1lyo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0km1zed1lyo#0</guid>
             <pubDate>Sun, 09 Aug 2026 14:17:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7bae/live/1b164370-93df-11f1-8231-7d4e2048054e.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Celebrations taking place to mark the end of the Fleadh ]]></title>
-            <description><![CDATA[The All-Ireland Fleadh is coming to a close, with visitor numbers set to exceed expectations.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cy9wyvglp11o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy9wyvglp11o#0</guid>
-            <pubDate>Sun, 09 Aug 2026 20:52:25 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9289/live/00021d50-9427-11f1-b227-cbb40f085dd2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Plan to extend some Belfast bus lane times postponed]]></title>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f12/live/84d6f2a0-9259-11f1-b2ab-0dd01740f9f6.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Fulham agree £30m fee for Southampton's Charles]]></title>
-            <description><![CDATA[Fulham agree a deal worth up to £30m for Southampton midfielder Shea Charles, subject to a medical.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o#0</guid>
-            <pubDate>Sun, 09 Aug 2026 13:10:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/4ef88fb0-93f1-11f1-bd38-f1deaeb1a5de.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Car carrying eight teenagers crashes on wrong side of motorway]]></title>
             <description><![CDATA[Gardaí (Irish police) say eight male juveniles were in one vehicle.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c80nj1n22g1o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -63,12 +63,20 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e74/live/117c4790-9409-11f1-8f01-dd11a6b8b0b3.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Harry Potter fans force diversion of UK-Ireland power link to avoid 'Dobby's grave']]></title>
-            <description><![CDATA[Potter fans complained after a project manager suggested cables would go under the grave in a BBC interview.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cy8mgpl27dpo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8mgpl27dpo#0</guid>
-            <pubDate>Sun, 09 Aug 2026 16:45:23 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42db/live/874ab0d0-9411-11f1-a7ab-8b30adf0800a.png"/>
+            <title><![CDATA[Most of sun to be eclipsed across island of Ireland]]></title>
+            <description><![CDATA[Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39epmz7ex4o#0</guid>
+            <pubDate>Sun, 09 Aug 2026 05:19:17 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/5f6e90c0-91ac-11f1-9c12-47c0acd34ba6.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Celebrations taking place to mark the end of the Fleadh ]]></title>
+            <description><![CDATA[The All-Ireland Fleadh is coming to a close, with visitor numbers set to exceed expectations.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy9wyvglp11o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy9wyvglp11o#1</guid>
+            <pubDate>Sun, 09 Aug 2026 20:52:25 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9289/live/00021d50-9427-11f1-b227-cbb40f085dd2.jpg"/>
         </item>
         <item>
             <title><![CDATA[The people using music at the Fleadh to bring others together ]]></title>
@@ -135,20 +143,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e38/live/7f22de40-8e77-11f1-98c2-039438173617.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Fulham agree £30m fee for Southampton's Charles]]></title>
+            <description><![CDATA[Fulham agree a deal worth up to £30m for Southampton midfielder Shea Charles, subject to a medical.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/ce3qgzv43d3o#2</guid>
+            <pubDate>Sun, 09 Aug 2026 13:10:10 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906c/live/4ef88fb0-93f1-11f1-bd38-f1deaeb1a5de.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Coleman training with Killybegs - but no GAA return for now]]></title>
             <description><![CDATA[Former Everton defender Seamus Coleman has been training with Killybegs but a return to his local Gaelic football club is unlikely to be on the cards for now.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/c4g32r7yd2eo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c4g32r7yd2eo#2</guid>
             <pubDate>Sun, 09 Aug 2026 16:36:39 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84d8/live/2bf5c7a0-93fe-11f1-a10f-45ed743c6e4b.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Most of sun to be eclipsed across island of Ireland]]></title>
-            <description><![CDATA[Skywatchers are set to witness two major celestial events next week, with a deep partial solar eclipse followed by the peak of the Perseid meteor shower.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c39epmz7ex4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c39epmz7ex4o#2</guid>
-            <pubDate>Sun, 09 Aug 2026 05:19:17 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/925f/live/5f6e90c0-91ac-11f1-9c12-47c0acd34ba6.png"/>
         </item>
         <item>
             <title><![CDATA[Cycling is 'mental medicine' after cancer diagnosis, says Transplant Games competitor]]></title>
@@ -189,6 +197,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgvxlwe50yo#2</guid>
             <pubDate>Fri, 07 Aug 2026 23:00:05 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c958/live/b5fe7690-9269-11f1-b2ab-0dd01740f9f6.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Harry Potter fans force diversion of UK-Ireland power link to avoid 'Dobby's grave']]></title>
+            <description><![CDATA[Potter fans complained after a project manager suggested cables would go under the grave in a BBC interview.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cy8mgpl27dpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy8mgpl27dpo#2</guid>
+            <pubDate>Sun, 09 Aug 2026 16:45:23 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/880d/live/dedf3c60-9481-11f1-870d-5d08c49babb2.jpg"/>
         </item>
         <item>
             <title><![CDATA[Artist's 'anger and frustration' with internet copycats ]]></title>
