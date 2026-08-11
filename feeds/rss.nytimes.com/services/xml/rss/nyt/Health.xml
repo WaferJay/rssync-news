@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 18:10:04 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 15:44:27 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:26:16 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 19:11:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -213,6 +213,22 @@
       <media:description>Moderna has said that the faster new approach used to prepare the vaccine will enable a shift away from the current process of focusing on one flu strain for an entire hemisphere each season and allow each nation to pick its best option.</media:description>
     </item>
     <item>
+      <title>Ocasio-Cortez Opened Up About Freezing her Eggs. She Got Women Talking.</title>
+      <link>https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html" rel="standout"></atom:link>
+      <description>Many women say being open about the fertility treatment is a form of empowerment. But critics say all the talk can be misleading.</description>
+      <dc:creator>Juliet Macur and Anemona Hartocollis</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 19:11:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egg Donation and Freezing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11nat-egg-freezing-hpmz/11nat-egg-freezing-hpmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Representative Alexandria Ocasio-Cortez said there was “a political risk” in sharing the information.</media:description>
+    </item>
+    <item>
       <title>This A.I. Just Created Viruses Not Found in Nature</title>
       <link>https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html</guid>
@@ -415,26 +431,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03dc-fauci-kennedy-qkbm/03dc-fauci-kennedy-qkbm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Robert F. Kennedy Jr., now the health secretary, published “The Real Anthony Fauci” in 2021.</media:description>
-    </item>
-    <item>
-      <title>Russian Strike Destroyed Millions of H.I.V. Prevention Supplies in Ukraine</title>
-      <link>https://www.nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/03/health/ukraine-war-hiv-aids.html" rel="standout"></atom:link>
-      <description>No medications were affected, but if new prevention items are not procured, aid groups fear a surge in new infections next year.</description>
-      <dc:creator>Apoorva Mandavilli and Constant Méheut</dc:creator>
-      <pubDate>Mon, 03 Aug 2026 14:24:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Acquired Immune Deficiency Syndrome</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Condoms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/03dc-ukraine-hiv-zpmv/03dc-ukraine-hiv-zpmv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anatolii Stepanov/Reuters</media:credit>
-      <media:description>A building damaged in a Russian missile attack in the region around Kyiv, Ukraine, last month.</media:description>
     </item>
   </channel>
 </rss>

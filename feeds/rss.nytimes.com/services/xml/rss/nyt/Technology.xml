@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 17:20:21 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 16:56:02 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 19:30:27 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 19:00:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -49,14 +49,15 @@
       <description>A co-founder of xAI is going all in on building open-source artificial intelligence so that “anyone can control and shape A.I. for their own needs.”</description>
       <dc:creator>Cade Metz</dc:creator>
       <pubDate>Tue, 11 Aug 2026 13:50:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Babuschkin, Igor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">River AI</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">X.ai Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Babuschkin, Igor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">River AI</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07biz-river-ai--01-fpmc/07biz-river-ai--01-fpmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Poppy Lynch for The New York Times</media:credit>
       <media:description>Igor Babuschkin built a new start-up, River AI, and hopes to provide ways for people to “retrain,” or modify, artificial intelligence as they see fit.</media:description>
@@ -93,21 +94,52 @@
       <dc:creator>Emmy Martin</dc:creator>
       <pubDate>Mon, 10 Aug 2026 20:37:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Highway Traffic Safety Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lurie, Daniel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Independence Day (US) (July 4)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fireworks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Highway Traffic Safety Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lurie, Daniel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defective Products</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/00biz-waymo-hbmq/00biz-waymo-hbmq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Waymo driverless cars are in San Francisco and 14 other metropolitan areas, including Denver, Las Vegas, San Diego and Tampa.</media:description>
+    </item>
+    <item>
+      <title>Spotify Will Label A.I. Artists and Avoid Recommending Them</title>
+      <link>https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html" rel="standout"></atom:link>
+      <description>The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app.</description>
+      <dc:creator>Malia Mendez</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 19:00:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotify</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+    </item>
+    <item>
+      <title>Brad Lightcap, a Top OpenAI Executive, Steps Down</title>
+      <link>https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/technology/brad-lightcap-openai.html" rel="standout"></atom:link>
+      <description>In OpenAI’s latest exit, Brad Lightcap, a longtime leader at the artificial intelligence company, said he was leaving to start a new venture.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 18:52:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lightcap, Brad</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11biz-openai-lightcap-qfmv/11biz-openai-lightcap-qfmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mike Kai Chen for The New York Times</media:credit>
+      <media:description>Brad Lightcap, who was OpenAI’s chief operating officer until April, joined the company in 2018. </media:description>
     </item>
     <item>
       <title>Meta Unveils an Open Version of Its Most Powerful A.I. Model</title>
@@ -214,9 +246,9 @@
       <link>https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/10/arts/vhs-dates-instagram-tapes.html" rel="standout"></atom:link>
-      <description>VHS Dates advertises itself as resurfacing lost dating service videotapes from the 1980s. The account’s followers have been genuinely touched.</description>
+      <description>The Instagram account advertises itself as resurfacing lost dating service videotapes from the 1980s. Social media users have been genuinely touched.</description>
       <dc:creator>Sopan Deb and Maggie Shannon</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 09:00:29 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 18:29:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
@@ -484,29 +516,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04biz-spacex-earnings-zhkp/04biz-spacex-earnings-zhkp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
       <media:description>In its first earnings report as a public company, SpaceX also posted a quarterly loss of $541 million, narrower than the $1 billion loss in the same period a year ago.</media:description>
-    </item>
-    <item>
-      <title>In Lawsuit, NJ Accuses Amazon of Suppressing Pay for Delivery Drivers</title>
-      <link>https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/technology/amazon-nj-lawsuit.html" rel="standout"></atom:link>
-      <description>The state attorney general said in an antitrust lawsuit filed on Tuesday that the company was abusing its market power to keep its delivery costs low.</description>
-      <dc:creator>Karen Weise</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 18:32:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davenport, Jennifer (1975- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04biz-amazon-nj-htwk/04biz-amazon-nj-htwk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Alban/The New York Times</media:credit>
-      <media:description>Amazon said the lawsuit wrongly characterized the company’s activities, and that its contractor delivery partners were free to operate as they saw fit.</media:description>
     </item>
   </channel>
 </rss>
