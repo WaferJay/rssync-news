@@ -3,17 +3,55 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?_cb=1786455961961" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 13:46:01 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 13:45:33 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:22:02 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 15:18:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Frenzy for Solar Eclipse Glasses Takes Over London</title>
+      <link>https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html" rel="standout"></atom:link>
+      <description>Ahead of Wednesday’s rare cosmic event, thousands of people in London are searching for protective eyewear, as prices surge and stocks sell out.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 15:17:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyeglasses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyes and Eyesight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Price Gouging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-glasses-01-cvfz/12europe-eclipse-glasses-01-cvfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amir Hamja/The New York Times</media:credit>
+      <media:description>People watching Solar eclipse from Washington Square park, New York, in 2024.</media:description>
+    </item>
+    <item>
+      <title>G.M.’s ‘Car Guy’ Talks Electrics, China and Nepotism</title>
+      <link>https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/business/general-motors-mark-reuss.html" rel="standout"></atom:link>
+      <description>Mark Reuss became the automaker’s president seven years ago, ascending to a role his father was fired from decades before. We got the chance to speak with him.</description>
+      <dc:creator>Jamie Lincoln Kitman</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 14:50:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Reuss, Mark L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/Biz-Wheels-Reuss-GM-01-tvck/Biz-Wheels-Reuss-GM-01-tvck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sylvia Jarrus for The New York Times</media:credit>
+      <media:description>“We have not stopped producing any of our electric vehicles,” Mark Reuss, the General Motors president, said in an interview. “We believe in the sustainability piece of this.”</media:description>
+    </item>
     <item>
       <title>Robots That Walk and Talk Are Coming to Car Factories</title>
       <link>https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html</link>
@@ -21,7 +59,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html" rel="standout"></atom:link>
       <description>But experts warn they may not deliver the gains in efficiency that proponents claim.</description>
       <dc:creator>Jack Ewing</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 13:45:33 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 13:45:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
@@ -29,9 +67,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayerische Motorenwerke AG</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spartanburg County (SC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Savannah (Ga)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/00biz-auto-robots-tzjk/00biz-auto-robots-tzjk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/00biz-auto-robots-promo-ghzw/00biz-auto-robots-promo-ghzw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
-      <media:description>A humanoid robot at the BMW plant. A problem that has long stumped robotics experts is how to duplicate the dexterity and sensitivity of the human hand.</media:description>
     </item>
     <item>
       <title>Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End</title>
@@ -40,7 +77,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html" rel="standout"></atom:link>
       <description>The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.</description>
       <dc:creator>Michael Paulson</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 13:00:07 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 14:36:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Ariel Z</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ATG Entertainment Ltd</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
@@ -61,18 +98,28 @@
       <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
       <pubDate>Tue, 11 Aug 2026 11:59:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hedge Funds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BlackRock Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blackstone Group, The</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apollo Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">KKR &amp; Co LP</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goldman Sachs Group Inc</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11db-fink1-wjmv/11db-fink1-wjmv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
       <media:description>Larry Fink of BlackRock said that lining up money to finance the artificial intelligence boom was an urgent matter.</media:description>
     </item>
     <item>
-      <title>Oil Prices Rise to $90 a Barrel Over U.S.-Iran Stalemate</title>
+      <title>Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate</title>
       <link>https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html" rel="standout"></atom:link>
       <description>The stalemate over the Iran war hardened and commercial shipping in the Strait of Hormuz continued to dwindle.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 11:37:46 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 14:32:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
@@ -84,13 +131,13 @@
       <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
-      <title>In a Summer of Climate Misery, Businesses Confront the Need to Adapt</title>
+      <title>Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy</title>
       <link>https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html" rel="standout"></atom:link>
       <description>Repeated heat waves, wildfires, droughts and storms are solidifying the understanding that new investments are unavoidable.</description>
       <dc:creator>Lydia DePillis</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 09:04:05 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 14:19:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
@@ -138,18 +185,15 @@
       <description>If you’re single and unemployed, it may make sense to prioritize job hunting. But that doesn’t have to mean putting your life on pause.</description>
       <dc:creator>Kailyn Rhone</dc:creator>
       <pubDate>Tue, 11 Aug 2026 09:02:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dating and Relationships</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Unemployment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Careers and Professions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Credit Karma Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Millennial Generation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation X</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08Biz-Unemployed-Dating-01-cfjm/08Biz-Unemployed-Dating-01-cfjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Persons</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/08Biz-Unemployed-Dating-01-cfjm/08Biz-Unemployed-Dating-01-cfjm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sandy Huffaker for The New York Times</media:credit>
       <media:description>For Claire Doty, being unemployed is not a deal breaker. But after going on dates with unemployed men, she said, she feels uneasy about seeing someone who may suddenly have to move for work.</media:description>
     </item>
@@ -330,11 +374,12 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html" rel="standout"></atom:link>
       <description>A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.</description>
       <dc:creator>Elaine Glusac</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 11:24:07 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 11:24:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservations (Airlines, Hotels, Etc.)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budget Travel</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/travel/00frugal-AI-savings-illo/00frugal-AI-savings-illo-mediumSquareAt3X.png" width="1800"></media:content>
       <media:credit>Chanelle Nibbelink</media:credit>
     </item>
@@ -990,45 +1035,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-moderna-flu-wjlt/05dc-moderna-flu-wjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bill Sikes/Associated Press</media:credit>
       <media:description>Moderna has said that the faster new approach used to prepare the vaccine will enable a shift away from the current process of focusing on one flu strain for an entire hemisphere each season and allow each nation to pick its best option.</media:description>
-    </item>
-    <item>
-      <title>TikTok Lays Off 250 Employees in Office That Includes Content Moderation</title>
-      <link>https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html" rel="standout"></atom:link>
-      <description>TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.</description>
-      <dc:creator>Emmett Lindner</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 13:14:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2025/05/03/multimedia/05xp-tiktok-layoffs-1/05xp-tiktok-layoffs-1-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Robyn Beck/Agence France-Presse — Getty Images</media:credit>
-      <media:description>In January, TikTok’s Chinese parent company, ByteDance, spun out an American venture to operate in the United States.</media:description>
-    </item>
-    <item>
-      <title>Bessent Declares Widening Gap Between Rich and Poor ‘Dead’</title>
-      <link>https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html" rel="standout"></atom:link>
-      <description>Despite data to the contrary, the Treasury Secretary made the case that the K-shaped economy no longer exists.</description>
-      <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 00:17:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Income Inequality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06dc-bessent-hqmw/06dc-bessent-hqmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Treasury Secretary Scott Bessent during a hearing on Capitol Hill in June. He said Tuesday that “the K-shaped economy is over.”</media:description>
     </item>
   </channel>
 </rss>

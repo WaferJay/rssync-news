@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 13:44:13 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 12:23:41 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:25:03 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 15:03:52 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/health</link>
     </image>
+    <item>
+      <title>A.I. Offers Hope for Men With Infertility, Spotting ‘Hidden’ Sperm</title>
+      <link>https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html" rel="standout"></atom:link>
+      <description>New technology may make it easier for men with extremely low sperm counts to have biological children.</description>
+      <dc:creator>Andrew Zaleski</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 09:02:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sperm</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11Sci-male-infertility-stillpromo-plbv/11Sci-male-infertility-stillpromo-plbv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Elias Williams for The New York Times</media:credit>
+    </item>
     <item>
       <title>Trump Signs Executive Order Calling for Fewer Childhood Vaccines</title>
       <link>https://www.nytimes.com/2026/08/10/well/trump-vaccines-executive-order.html</link>
@@ -23,11 +39,15 @@
       <dc:creator>Apoorva Mandavilli and Dani Blum</dc:creator>
       <pubDate>Mon, 10 Aug 2026 20:43:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mumps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Autism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10VACCINE-EO-sub-fbzg/10VACCINE-EO-sub-fbzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump signed an executive order calling for fewer childhood vaccines in the Oval Office on Monday.</media:description>
@@ -191,25 +211,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-moderna-flu-wjlt/05dc-moderna-flu-wjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bill Sikes/Associated Press</media:credit>
       <media:description>Moderna has said that the faster new approach used to prepare the vaccine will enable a shift away from the current process of focusing on one flu strain for an entire hemisphere each season and allow each nation to pick its best option.</media:description>
-    </item>
-    <item>
-      <title>Trump Seeks a Boost for Hemp That Would Benefit a Top Aide’s Family</title>
-      <link>https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/us/politics/trump-wiles-hemp-white-house.html" rel="standout"></atom:link>
-      <description>At the White House’s request, senators tucked a change sought by the hemp industry into a crucial spending bill. It would benefit the son-in-law of Susie Wiles, the president’s chief of staff.</description>
-      <dc:creator>Kenneth P. Vogel, Christina Jewett and Olivia Diaz</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 16:26:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cannabis Foods and Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Marijuana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wiles, Susie</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-hemp-top-hwzl/05dc-hemp-top-hwzl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Antranik Tavitian for The New York Times</media:credit>
-      <media:description>Intoxicating hemp, which is less regulated than marijuana and alcohol, has gained popularity in recent years as a pain reliever and an alternative to other intoxicants.</media:description>
     </item>
     <item>
       <title>This A.I. Just Created Viruses Not Found in Nature</title>

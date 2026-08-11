@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 13:48:26 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 13:29:31 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 15:26:01 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 14:19:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -31,13 +31,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
     </item>
     <item>
-      <title>In a Summer of Climate Misery, Businesses Confront the Need to Adapt</title>
+      <title>Heat, Fire, Smoke and Storms Are Wreaking Havoc on the Economy</title>
       <link>https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/11/business/economy/climate-change-costs-economy-businesses.html" rel="standout"></atom:link>
       <description>Repeated heat waves, wildfires, droughts and storms are solidifying the understanding that new investments are unavoidable.</description>
       <dc:creator>Lydia DePillis</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 09:04:05 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 14:19:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
@@ -57,7 +57,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/world/asia/extreme-heat-wave-korea-japan-china-cooling.html" rel="standout"></atom:link>
       <description>The innovations include air-conditioned apparel, refrigerators for humans and hand-held fans that use the science behind semiconductors. Governments are making cooling devices central to heat adaptation.</description>
       <dc:creator>Max Kim</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 09:02:19 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 14:14:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Airflow)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Umbrellas</category>
@@ -501,23 +501,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05trav-vacation-hell-01-cwpk/05trav-vacation-hell-01-cwpk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joel Bissell/Kalamazoo Gazette, via Associated Press</media:credit>
       <media:description>Wildfire smoke along the Lake Michigan shore on July 16.</media:description>
-    </item>
-    <item>
-      <title>Stressed by Heat, 3 Lions Die at Tokyo Zoo</title>
-      <link>https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/world/asia/lions-die-japan-zoo-extreme-heat.html" rel="standout"></atom:link>
-      <description>The female lions died within five days of each other despite zookeepers’ efforts to shelter them from Japan’s blistering summer temperatures.</description>
-      <dc:creator>Leo Sands and Kiuko Notoya</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 17:13:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ueno Zoo (Tokyo, Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04xp-japan-lions-03-qzbh-promo/04xp-japan-lions-03-qzbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tokyo Zoological Park Society/Reuters</media:credit>
     </item>
   </channel>
 </rss>
