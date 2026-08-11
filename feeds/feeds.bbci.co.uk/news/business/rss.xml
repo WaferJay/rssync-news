@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 11 Aug 2026 10:22:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Aug 2026 11:09:41 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -415,6 +415,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33c2/live/926ae700-59dd-11f1-8b8c-6d33e1d5abb6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Global Story]]></title>
+            <description><![CDATA[Are we entering the Chinese Century, or is the Chinese Dream already fading for some?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8mhx?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8mhx#5</guid>
+            <pubDate>Tue, 11 Aug 2026 09:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p3tr3p.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Business Daily]]></title>
+            <description><![CDATA[Europe's biggest business district in Paris is turning vacant office space into housing]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8gr6?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8gr6#5</guid>
+            <pubDate>Mon, 10 Aug 2026 20:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p36ww6.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Jeff Bezos and Liverpool explained]]></title>
             <description><![CDATA[BBC Sport's Sam Harris breaks down the potential new investment of Jeff Bezos into Liverpool.]]></description>
             <link>https://www.bbc.co.uk/sport/football/videos/cn0nw1j48pjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -437,22 +453,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8g9m#5</guid>
             <pubDate>Thu, 06 Aug 2026 20:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p31z9j.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[What happened to the internet?]]></title>
-            <description><![CDATA[Faced with a barrage of ads, misinformation, AI slop, toxicity and doom-scrolling, it can feel like the internet is kind of... broken. Is it? And what are the alternatives?]]></description>
-            <link>https://www.bbc.co.uk/videos/cvgwvkn84ggo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/videos/cvgwvkn84ggo#5</guid>
-            <pubDate>Wed, 05 Aug 2026 09:59:33 GMT</pubDate>
-            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac0/live/321b29f0-9015-11f1-a7ab-8b30adf0800a.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[How the dry weather affects your supermarket shop]]></title>
-            <description><![CDATA[Tomos Morgan visits farm in Vale of Glamorgan to explain how the hot and dry spell affects crops.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cre4x0qdr3jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cre4x0qdr3jo#5</guid>
-            <pubDate>Tue, 04 Aug 2026 14:12:08 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4017/live/64895620-900e-11f1-b2ab-0dd01740f9f6.jpg"/>
         </item>
     </channel>
 </rss>
