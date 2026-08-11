@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 15:25:58 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 15:24:52 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 16:15:03 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 16:13:24 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,15 +21,22 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html" rel="standout"></atom:link>
       <description>President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.</description>
       <dc:creator>Maggie Haberman, Eric Schmitt and Zolan Kanno-Youngs</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 11:11:16 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 11:11:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Force One (Jet)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Secret Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Aircraft</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10dc-trump-plane-gfwk/10dc-trump-plane-gfwk-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>Two catering containers are shown alongside Air Force One on the tarmac in Turkey.</media:description>
@@ -61,10 +68,10 @@
       <description>Dennis Kirk, a former adviser to Tulsi Gabbard, is President Trump’s nominee for inspector general for the Interior Department.</description>
       <dc:creator>Isabella Kwai</dc:creator>
       <pubDate>Tue, 11 Aug 2026 13:46:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lincoln Memorial (Washington, DC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mandate for Leadership (Project 2025) (Book)</category>
@@ -134,6 +141,25 @@
       <media:description>The former Los Angeles Dodgers player Yasiel Puig was one of the Cubans smuggled into the United States by a criminal group known as the Cuban Mafia.</media:description>
     </item>
     <item>
+      <title>With El-Sayed’s Victory Comes a Wave of Islamophobia</title>
+      <link>https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/us/politics/muslim-voters-candidates.html" rel="standout"></atom:link>
+      <description>As Muslim politicians like Abdul El-Sayed in Michigan have become more prominent, they have experienced considerable bigotry. President Trump said Democrats were electing “jihadists.”</description>
+      <dc:creator>Jennifer Medina</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 15:36:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11pol-muslims-01-kzfg/11pol-muslims-01-kzfg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nick Hagen for The New York Times</media:credit>
+      <media:description>Since Dr. Abdul El-Sayed’s victory in the Democratic Senate primary in Michigan last week, Republicans have embraced Islamophobic attacks and falsehoods.</media:description>
+    </item>
+    <item>
       <title>Democrats Plan New Push to Defeat Max Miller in Ohio After Abuse Accusations</title>
       <link>https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/democrats-max-miller-ohio-abuse-accusations.html</guid>
@@ -154,23 +180,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11pol-poindexter-democrats-gtjk/11pol-poindexter-democrats-gtjk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Daniel Lozada for The New York Times</media:credit>
       <media:description>Brian Poindexter is the type of candidate Democrats believe can win over working-class voters who have flocked to President Trump in recent years.</media:description>
-    </item>
-    <item>
-      <title>How We’re Covering an ‘Identity Crisis’ in Politics</title>
-      <link>https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html</guid>
-      <atom:link href="https://www.nytimes.com/video/insider/100000011077518/how-were-covering-an-identity-crisis-in-politics.html" rel="standout"></atom:link>
-      <description>Recent primary wins have posed critical questions for both Republicans and Democrats as they head into the fall midterms. Carolyn Ryan, managing editor of The New York Times, shares how reporters approach coverage of shifting political dynamics.</description>
-      <dc:creator>Carolyn Ryan, Jillian Eugenios, Megan DiTrolio, Michael Johnson, Adam Wolffbrandt, Leland James, Lauren Pruitt, Mike Abrams and Patrick Healy</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 09:40:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
     </item>
     <item>
       <title>What to Watch in Tuesday’s Primary Elections in Wisconsin, Minnesota and South Carolina</title>
@@ -318,17 +327,17 @@
       <description>President Trump is eager to declare success in Iran and Gaza, but he is struggling to impose his will in either conflict.</description>
       <dc:creator>Anton Troianovski</dc:creator>
       <pubDate>Tue, 11 Aug 2026 02:34:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10dc-prexy-fwch/10dc-prexy-fwch-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -336,22 +345,20 @@
       <media:description>President Trump boarding Air Force One in New Jersey on Sunday. Over the weekend, he said his strategy is to be “low-keying” it in Iran.</media:description>
     </item>
     <item>
-      <title>Oil Prices Touch $90 a Barrel Over U.S.-Iran Stalemate</title>
-      <link>https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/business/oil-prices-iran-war-hormuz.html" rel="standout"></atom:link>
-      <description>The stalemate over the Iran war hardened and commercial shipping in the Strait of Hormuz continued to dwindle.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 14:32:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <title>Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says</title>
+      <link>https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html" rel="standout"></atom:link>
+      <description>The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait. The Iran-backed Houthis have not commented on the attack.</description>
+      <dc:creator>Ismaeel Naar</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 15:42:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11biz-oil-prices-lbph/11biz-oil-prices-lbph-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Atta Kenare/Agence France-Presse — Getty Images</media:credit>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-redsea-houthis-1-mvzb/11int-redsea-houthis-1-mvzb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Khaled Abdullah/Reuters</media:credit>
+      <media:description>At a Houthi rally in Sanaa, Yemen, last month.</media:description>
     </item>
     <item>
       <title>After Deadly Earthquake in Colombia, a Late-Night Hunt for Survivors</title>
@@ -558,6 +565,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rabbis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
       <media:content height="1663" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10met-mamdani-rabbis-mlvf/10met-mamdani-rabbis-mlvf-mediumSquareAt3X.jpg" width="1663"></media:content>
       <media:credit>Victor J. Blue for The New York Times</media:credit>
       <media:description>Mayor Zohran Mamdani’s relationship with large swaths of the Jewish community in New York City has been rocky.</media:description>
