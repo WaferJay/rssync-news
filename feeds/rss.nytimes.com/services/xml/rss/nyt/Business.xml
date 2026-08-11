@@ -3,17 +3,55 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?_cb=1786455961961" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 12:01:36 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 11:59:33 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 13:46:01 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 13:45:33 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Robots That Walk and Talk Are Coming to Car Factories</title>
+      <link>https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/business/humanoid-robots-car-factories.html" rel="standout"></atom:link>
+      <description>But experts warn they may not deliver the gains in efficiency that proponents claim.</description>
+      <dc:creator>Jack Ewing</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 13:45:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hyundai Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bayerische Motorenwerke AG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spartanburg County (SC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Savannah (Ga)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/00biz-auto-robots-tzjk/00biz-auto-robots-tzjk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Will Crooks for The New York Times</media:credit>
+      <media:description>A humanoid robot at the BMW plant. A problem that has long stumped robotics experts is how to duplicate the dexterity and sensitivity of the human hand.</media:description>
+    </item>
+    <item>
+      <title>Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End</title>
+      <link>https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html" rel="standout"></atom:link>
+      <description>The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.</description>
+      <dc:creator>Michael Paulson</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 13:00:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Ariel Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ATG Entertainment Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theaters (Buildings)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11cul-emanuel-theaters-plfm/11cul-emanuel-theaters-plfm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Tullo for The New York Times</media:credit>
+      <media:description>ATG Entertainment operates seven Broadway theaters, including the Lyric Theater, which has housed “Harry Potter and the Cursed Child” for eight years.</media:description>
+    </item>
     <item>
       <title>The Perils of Wall St.’s Race to Pour Billions More Into A.I.</title>
       <link>https://www.nytimes.com/2026/08/11/business/dealbook/ai-lending-nvidia-blackrock.html</link>
@@ -72,7 +110,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html" rel="standout"></atom:link>
       <description>A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.</description>
       <dc:creator>Steven Lee Myers, Aida Alami and Carlos Barragán</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 09:03:41 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 13:23:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -122,7 +160,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/business/home-equity-credit-card-debt.html" rel="standout"></atom:link>
       <description>A rise in home equity to record levels has led many Americans to refinance their mortgages to pay their bills.</description>
       <dc:creator>Gregory Schmidt</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 11:36:34 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 13:02:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
@@ -301,13 +339,13 @@
       <media:credit>Chanelle Nibbelink</media:credit>
     </item>
     <item>
-      <title>Why Are So Many People Upset About Flock Cameras?</title>
+      <title>Flock Cameras Are Dividing U.S. Cities. Here’s What to Know About Them.</title>
       <link>https://www.nytimes.com/article/flock-safety-camera-technology.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/article/flock-safety-camera-technology.html</guid>
       <atom:link href="https://www.nytimes.com/article/flock-safety-camera-technology.html" rel="standout"></atom:link>
       <description>Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 15:58:27 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 13:12:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Registration and License Plates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
@@ -991,49 +1029,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06dc-bessent-hqmw/06dc-bessent-hqmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Treasury Secretary Scott Bessent during a hearing on Capitol Hill in June. He said Tuesday that “the K-shaped economy is over.”</media:description>
-    </item>
-    <item>
-      <title>Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview</title>
-      <link>https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html" rel="standout"></atom:link>
-      <description>In a 23-minute appearance with the anchor Jake Tapper, the Ohio Republican made an unusual effort to rebut a multitude of allegations that have threatened his re-election bid.</description>
-      <dc:creator>Michael M. Grynbaum</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 21:51:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Max (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05CNN-MILLER-01-cjlt/05CNN-MILLER-01-cjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Lee for The New York Times</media:credit>
-      <media:description>Representative Max Miller was interviewed live on CNN about his allegations on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Pilot Smuggled 55 Pounds of Ecstasy Into Indonesia, Officials Say</title>
-      <link>https://www.nytimes.com/2026/08/05/world/asia/malaysian-airlines-pilot-drugs-arrest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/world/asia/malaysian-airlines-pilot-drugs-arrest.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/world/asia/malaysian-airlines-pilot-drugs-arrest.html" rel="standout"></atom:link>
-      <description>The pilot, identified only by his initials, also tested positive for ecstasy and cocaine when he was arrested last week at the Jakarta airport, the Indonesian police said.</description>
-      <dc:creator>Johnny Diaz</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 12:56:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Methamphetamines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luggage and Packing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Malaysia Airlines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Soekarno-Hatta International Airport</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jakarta (Indonesia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/08/05/world/asia/05vid-malaysia-pilot-drug-smuggling-cover-image/05vid-malaysia-pilot-drug-smuggling-cover-image-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>Soekarno-Hatta Airport Customs, via Agence France-Presse</media:credit>
     </item>
   </channel>
 </rss>
