@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 22:06:56 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 21:43:45 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:06:03 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 22:26:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Judge Awards $250,000 to Musician Who Fled Trump-Led Kennedy Center Gig</title>
+      <link>https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html" rel="standout"></atom:link>
+      <description>The center had sued Chuck Redd when he canceled a free concert last year, citing the addition of the Trump name to the venue. But a judge dismissed the case.</description>
+      <dc:creator>Julia Jacobs</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 22:26:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grenell, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redd, Chuck (1958- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11cul-kennedy-lawsuit-qjkp/11cul-kennedy-lawsuit-qjkp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
+      <media:description>Chuck Redd was scheduled to perform at a free Christmas Eve concert. It was canceled after he and other performers backed out. </media:description>
+    </item>
     <item>
       <title>Frenzy for Solar Eclipse Glasses Takes Over London</title>
       <link>https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html</link>
@@ -994,25 +1012,6 @@
       <media:content height="399" medium="image" url="https://static01.nyt.com/images/2026/08/05/technology/personaltech/05BIZ-TECHTIP-TOPART/05BIZ-TECHTIP-TOPART-mediumSquareAt3X.jpg" width="398"></media:content>
       <media:credit>Apple</media:credit>
       <media:description>Apple&#39;s free Stocks app for its devices provides a dashboard for following personal investments, markets and financial news.</media:description>
-    </item>
-    <item>
-      <title>Why So Many C.E.O.s Are Getting a Chief of Staff</title>
-      <link>https://www.nytimes.com/2026/08/06/business/ceos-chief-of-staff.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/ceos-chief-of-staff.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/business/ceos-chief-of-staff.html" rel="standout"></atom:link>
-      <description>The position as a trusted sounding board is in high demand as business gets more complex — and everyone wants to get in on the latest bureaucratic fad.</description>
-      <dc:creator>Jordyn Holman</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 09:01:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executives and Management (Theory)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Careers and Professions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gelfond, Richard L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">IMAX Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jarrett, Valerie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Obama Foundation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Stitch Fix Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00biz-chief-of-staff-01-tvwg/00biz-chief-of-staff-01-tvwg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Oliver Farshi for The New York Times</media:credit>
-      <media:description>Richard Gelfond, IMAX’s chief executive, and Natalie Mayer, his chief of staff. His various chiefs of staff, he said, have helped him “think through what I want to say and what I want to accomplish and then how to execute it.” </media:description>
     </item>
   </channel>
 </rss>
