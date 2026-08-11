@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 19:25:41 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 19:15:48 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:09:29 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 20:56:19 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -61,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/nyregion/mamdani-elizabeth-street-garden-housing.html" rel="standout"></atom:link>
       <description>After more than a decade, the fight over an effort to build affordable housing on the site of a community garden in Manhattan is winding down.</description>
       <dc:creator>Mihir Zaveri and Dana Rubinstein</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 18:41:13 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 20:56:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
@@ -79,7 +79,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/nyregion/luigi-mangione-hearing-murder-trial.html" rel="standout"></atom:link>
       <description>The identities of the 12 jurors will be shielded from the public. Jury selection is set to start on Sept. 8.</description>
       <dc:creator>Hurubie Meko, Kate Christobek and Anusha Bayya</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 18:30:32 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:51:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -96,14 +96,17 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/nyregion/orthodox-doctor-women-abuse.html" rel="standout"></atom:link>
       <description>Some former patients, many of whom are Orthodox Jewish women, are seeking financial damages in two lawsuits, but say they also want to stop the doctor from opening a new practice.</description>
       <dc:creator>Maya King</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 14:03:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goodman, Robert (Dr.)</category>
+      <pubDate>Tue, 11 Aug 2026 14:04:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Orthodox Judaism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Board for Professional Medical Conduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Goodman, Robert (Dr.)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11met-orthodox-doctor-01-qwkt/11met-orthodox-doctor-01-qwkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michelle V. Agins/The New York Times</media:credit>
       <media:description>Dr. Robert Goodman’s license to practice medicine in New York is under review by the New York State Board for Professional Medical Conduct.</media:description>
@@ -273,15 +276,10 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html" rel="standout"></atom:link>
       <description>Investigators are focusing on the tour operator and the captain of the boat that capsized in New York Bay on Saturday, killing a mother and her infant daughter.</description>
       <dc:creator>Miles G. Cohen and Christopher Maag</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 15:50:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bogota (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East River (NYC)</category>
+      <pubDate>Tue, 11 Aug 2026 15:50:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Harbor</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/nyregion/10met-drowning/10met-cohen1-jtmk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Miles Cohen</media:credit>
       <media:description>Alexander Reyes, right, embraces his wife and daughter after the three survived a boat accident that claimed the life of another passenger and her infant.</media:description>
@@ -357,25 +355,21 @@
       <description>New York City’s mayor wants major companies to hire employees directly rather than relying on contractors. The firms say that will raise prices and slow service.</description>
       <dc:creator>Patrick McGeehan</dc:creator>
       <pubDate>Mon, 10 Aug 2026 18:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AKRF Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fedex Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Caban, Tiffany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">AKRF Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Jumaane D</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10met-labor-strikes-zpkb/10met-labor-strikes-zpkb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Many of the workers delivering packages for companies such as Amazon are employed by contractors, not the big firms.</media:description>
@@ -429,7 +423,6 @@
       <pubDate>Mon, 10 Aug 2026 12:14:32 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liberty Island (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Harbor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <media:content height="1539" medium="image" url="https://static01.nyt.com/images/2026/08/09/nyregion/09xp-nydrowning-02/09xp-nydrowning-02-mediumSquareAt3X.jpg" width="1539"></media:content>

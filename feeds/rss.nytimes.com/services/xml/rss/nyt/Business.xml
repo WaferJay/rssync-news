@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 19:25:47 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 18:57:37 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 21:05:22 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 19:58:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -307,6 +307,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defective Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/00biz-waymo-hbmq/00biz-waymo-hbmq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Waymo driverless cars are in San Francisco and 14 other metropolitan areas, including Denver, Las Vegas, San Diego and Tampa.</media:description>
@@ -1008,31 +1009,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00biz-chief-of-staff-01-tvwg/00biz-chief-of-staff-01-tvwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Oliver Farshi for The New York Times</media:credit>
       <media:description>Richard Gelfond, IMAX’s chief executive, and Natalie Mayer, his chief of staff. His various chiefs of staff, he said, have helped him “think through what I want to say and what I want to accomplish and then how to execute it.” </media:description>
-    </item>
-    <item>
-      <title>F.D.A. Approves Moderna’s mRNA Flu Vaccine</title>
-      <link>https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html" rel="standout"></atom:link>
-      <description>The agency had initially refused to even review the application but reversed course after a public outcry.</description>
-      <dc:creator>Christina Jewett</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 02:24:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prasad, Vinayak K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-moderna-flu-wjlt/05dc-moderna-flu-wjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bill Sikes/Associated Press</media:credit>
-      <media:description>Moderna has said that the faster new approach used to prepare the vaccine will enable a shift away from the current process of focusing on one flu strain for an entire hemisphere each season and allow each nation to pick its best option.</media:description>
     </item>
   </channel>
 </rss>
