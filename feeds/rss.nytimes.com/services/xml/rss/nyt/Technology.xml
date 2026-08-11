@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 11 Aug 2026 21:06:47 +0000</lastBuildDate>
-    <pubDate>Tue, 11 Aug 2026 19:59:44 +0000</pubDate>
+    <lastBuildDate>Tue, 11 Aug 2026 22:07:09 +0000</lastBuildDate>
+    <pubDate>Tue, 11 Aug 2026 21:57:42 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -116,7 +116,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html" rel="standout"></atom:link>
       <description>The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app.</description>
       <dc:creator>Malia Mendez</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 19:59:44 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 19:59:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
@@ -211,17 +211,19 @@
       <atom:link href="https://www.nytimes.com/article/flock-safety-camera-technology.html" rel="standout"></atom:link>
       <description>Flock Safety’s automated license plate-reading cameras, used by thousands of law enforcement agencies in the U.S., have drawn intense criticism from civil liberties groups.</description>
       <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 13:12:48 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 13:12:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flock Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Registration and License Plates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flock Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Border Patrol (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ring Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/xp-flock-explainer-hwlp/xp-flock-explainer-hwlp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Desiree Rios for The New York Times</media:credit>
       <media:description>A Flock Security camera in Addison, Texas.</media:description>
@@ -233,7 +235,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html" rel="standout"></atom:link>
       <description>In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.</description>
       <dc:creator>Fernando Alfonso III and Kashmir Hill</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 20:04:24 +0000</pubDate>
+      <pubDate>Tue, 11 Aug 2026 21:57:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
