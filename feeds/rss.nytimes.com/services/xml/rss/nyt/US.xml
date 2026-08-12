@@ -3,24 +3,75 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1786558048571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 18:07:28 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 18:00:13 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 19:27:43 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 19:19:17 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
+      <title>With Big Choices Ahead, Ocasio-Cortez Navigates New Territory</title>
+      <link>https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html" rel="standout"></atom:link>
+      <description>Representative Alexandria Ocasio-Cortez’s decision to share her decision to freeze her eggs, the news that her longtime relationship had ended and talk of a presidential run have only intensified the debates that swirl around her.</description>
+      <dc:creator>Annie Karni</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 19:09:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egg Donation and Freezing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12dc-aoc-top-hvtz/12dc-aoc-top-hvtz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Celeste Sloman for The New York Times</media:credit>
+      <media:description>Representative Alexandria Ocasio-Cortez</media:description>
+    </item>
+    <item>
+      <title>Three Questions for Democrats After an Eye-Opening Loss for Progressives</title>
+      <link>https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/david-crowley-francesca-hong-democrats-wisconsin.html" rel="standout"></atom:link>
+      <description>Democratic voters in key battlegrounds are showing themselves to be fiercely split. The party has a lot to hash out between now and 2028.</description>
+      <dc:creator>Jess Bidgood</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 18:36:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crowley, David C (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12pol-on-politics-newsletter-zmtk/12pol-on-politics-newsletter-zmtk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>David Crowley narrowly won the Democratic primary for governor of Wisconsin.</media:description>
+    </item>
+    <item>
+      <title>How Crowley Eked Out a Win in the Wisconsin Governor Primary</title>
+      <link>https://www.nytimes.com/2026/08/12/us/david-crowley-tony-evers-undecided-voters.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/david-crowley-tony-evers-undecided-voters.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/us/david-crowley-tony-evers-undecided-voters.html" rel="standout"></atom:link>
+      <description>A shifting race and a key endorsement helped the moderate Democrat overcome his progressive challenger, Francesca Hong, voters said.</description>
+      <dc:creator>Julie Bosman</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 18:45:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crowley, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12nat-wisconsin-1--kzpb/12nat-wisconsin-1--kzpb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>David Crowley, the Milwaukee County executive, casting his ballot alongside his daughter at Milwaukee German Immersion School on Tuesday.</media:description>
+    </item>
+    <item>
       <title>A Look Inside Trump’s Patriot Games</title>
       <link>https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html</guid>
       <atom:link href="https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html" rel="standout"></atom:link>
-      <description>President Trump made an appearance at his first-ever Patriot Games in Geneva, Ohio, last night. Zolan Kanno-Youngs dialed in Natalie Kitroeff on “The Call” to break down what he was seeing and how sports have become a defining part of Mr. Trump’s presidency.</description>
-      <pubDate>Wed, 12 Aug 2026 18:00:13 +0000</pubDate>
+      <description>President Trump made an appearance at his first-ever Patriot Games in Geneva, Ohio, last night. Zolan Kanno-Youngs joined Natalie Kitroeff on “The Call” to break down what he was seeing and how sports have become a defining part of Mr. Trump’s presidency.</description>
+      <pubDate>Wed, 12 Aug 2026 18:59:30 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
@@ -107,13 +158,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
     </item>
     <item>
-      <title>Three People Are Killed at a Minnesota Day Care Center</title>
+      <title>3 People Are Killed at a Minnesota Day Care Center</title>
       <link>https://www.nytimes.com/2026/08/12/us/stabbing-minnesota-day-care.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/stabbing-minnesota-day-care.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/12/us/stabbing-minnesota-day-care.html" rel="standout"></atom:link>
       <description>The authorities in Hopkins, Minn., said two adults and a child, all family members, were killed at an in-home day care center.</description>
       <dc:creator>Ernesto Londoño and Alexandra E. Petri</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 17:56:40 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 18:54:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Day Care Centers</category>
@@ -129,8 +180,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html" rel="standout"></atom:link>
       <description>The Department of Homeland Security described the gloves as a “de-escalation device,” but critics said they could encourage agents to use more force.</description>
-      <dc:creator>Madeleine Ngo</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 16:03:30 +0000</pubDate>
+      <dc:creator>Madeleine Ngo and Shaila Dewan</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 19:19:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -143,13 +194,13 @@
       <media:description>The government could spend up to $20 million to equip immigration officers with the gloves.</media:description>
     </item>
     <item>
-      <title>Ward Churchill, Professor Who Challenged His Dismissal, Dies at 78</title>
+      <title>Ward Churchill, Professor Who Challenged His Dismissal Over 9/11 Essay, Dies at 78</title>
       <link>https://www.nytimes.com/2026/08/12/us/ward-churchill-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/ward-churchill-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/12/us/ward-churchill-dead.html" rel="standout"></atom:link>
-      <description>His inflammatory essay about the Sept. 11 attacks prompted his dismissal by the University of Colorado for unrelated research misconduct. A jury later found that he had been wrongfully terminated for his views.</description>
+      <description>His inflammatory essay about the attacks prompted his dismissal by the University of Colorado for unrelated research misconduct. A jury later found that he had been wrongfully terminated.</description>
       <dc:creator>Francesca Regalado</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 15:49:03 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 18:31:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Churchill, Ward L</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
@@ -360,7 +411,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/2026-08-11-trump-plane-reconstruct-index/2026-08-11-trump-plane-reconstruct-index-mediumSquareAt3X-v10.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/2026-08-11-trump-plane-reconstruct-index/2026-08-11-trump-plane-reconstruct-index-mediumSquareAt3X-v11.jpg" width="1000"></media:content>
       <media:credit>Simon Ducroquet/The New York Times</media:credit>
     </item>
     <item>
@@ -920,65 +971,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11POL-WHOIS-NORMAN-pfck/11POL-WHOIS-NORMAN-pfck-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Meg Kinnard/Associated Press</media:credit>
       <media:description>Representative Ralph Norman, one of five candidates for the Republican nomination to replace the late Senator Lindsey Graham, is the vice chairman of the House Freedom Caucus.</media:description>
-    </item>
-    <item>
-      <title>5 Things to Know About Mark Sanford, Republican Senate Candidate in South Carolina</title>
-      <link>https://www.nytimes.com/2026/08/11/us/politics/mark-sanford-south-carolina-senate-candidate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/mark-sanford-south-carolina-senate-candidate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/us/politics/mark-sanford-south-carolina-senate-candidate.html" rel="standout"></atom:link>
-      <description>The former governor and congressman is a staunch fiscal conservative who repeatedly broke with President Trump on government spending, among other issues.</description>
-      <dc:creator>Emily Davies</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 23:28:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanford, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11pol-whois-sanford-jhgb/11pol-whois-sanford-jhgb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Meg Kinnard/Associated Press</media:credit>
-      <media:description>Mark Sanford is a former governor of South Carolina and current candidate in the special Republican Senate primary election.</media:description>
-    </item>
-    <item>
-      <title>When to Expect Results in Wisconsin, Minnesota, South Carolina and Beyond</title>
-      <link>https://www.nytimes.com/2026/08/11/us/politics/election-results-timing-wisconsin-minnesota.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/election-results-timing-wisconsin-minnesota.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/us/politics/election-results-timing-wisconsin-minnesota.html" rel="standout"></atom:link>
-      <description>Six states are holding elections on Tuesday. The unofficial results will be known late Tuesday or early Wednesday.</description>
-      <dc:creator>Taylor Robinson</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 22:13:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vermont</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11POL-RESULTS-TIMING-lfht/11POL-RESULTS-TIMING-lfht-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Narayan Mahon for The New York Times</media:credit>
-      <media:description>Voters in Wisconsin were casting ballots on Tuesday in a variety of primary races, including for governor, where the front-runner for the Democratic nomination is Francesca Hong, a state lawmaker and a democratic socialist.</media:description>
-    </item>
-    <item>
-      <title>Angie Craig Has Cash Edge Over Peggy Flanagan in Minnesota’s Democratic Senate Primary</title>
-      <link>https://www.nytimes.com/2026/08/11/us/politics/minnesota-angie-craig-fundraising-advantage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/minnesota-angie-craig-fundraising-advantage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/us/politics/minnesota-angie-craig-fundraising-advantage.html" rel="standout"></atom:link>
-      <description>Representative Angie Craig has benefited from nearly $10 million in spending from groups whose donors remain hidden, giving her an advantage in her Senate primary against Lt. Gov. Peggy Flanagan.</description>
-      <dc:creator>Theodore Schleifer</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 21:14:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Craig, Angela D (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flanagan, Peggy (1979- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Campaign Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <media:content height="1779" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11pol-minnesota-money-lzbc/11pol-minnesota-money-lzbc-mediumSquareAt3X.jpg" width="1779"></media:content>
-      <media:credit>Tom Baker/Getty Images</media:credit>
-      <media:description>Representative Angie Craig, a moderate, is trying to beat Lt. Gov. Peggy Flanagan, a progressive, in Minnesota’s Democratic primary race for Senate.</media:description>
     </item>
   </channel>
 </rss>
