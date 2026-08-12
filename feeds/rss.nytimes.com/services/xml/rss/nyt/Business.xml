@@ -3,17 +3,96 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?_cb=1786536168878" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 10:26:49 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 10:04:11 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 12:02:49 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 11:27:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Benign Inflation Data Would Reduce Urgency Around September Rate Rise</title>
+      <link>https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html" rel="standout"></atom:link>
+      <description>The latest Consumer Price Index report will either help to reinforce patience or compel officials to more readily consider lifting borrowing costs.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 11:26:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Price Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12biz-inflation-blog-Fed-flwk/12biz-inflation-blog-Fed-flwk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Rose Layden for The New York Times</media:credit>
+      <media:description>Kevin M. Warsh, the Federal Reserve chairman.</media:description>
+    </item>
+    <item>
+      <title>The labor market slowed as employers grew wary of hiring.</title>
+      <link>https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/the-labor-market-slowed-as-employers-grew-wary-of-hiring" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Lydia DePillis</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 11:01:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labor Department (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/12biz-inflation-blog-labor-market-VERSION/07jobs-blog-promo-wfbm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Patrick T. Fallon/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Hiring lagged in July despite a spring surge in job creation as employers faced rising costs and the prospect of renewed tariffs.</media:description>
+    </item>
+    <item>
+      <title>Energy Prices Expected to Fall in Latest Inflation Data</title>
+      <link>https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html" rel="standout"></atom:link>
+      <description>The war with Iran injected volatility into the oil and gas market, with prices rising and falling in concert with the conflict.</description>
+      <dc:creator>Aruni Soni</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 11:14:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12biz-inflation-blog-energy-zhgw/12biz-inflation-blog-energy-zhgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ali Saeedi/Getty Images</media:credit>
+      <media:description>Vessels anchored this week in the Strait of Hormuz near Bandar Abbas, Iran.</media:description>
+    </item>
+    <item>
+      <title>Homeowners tight on cash are tapping into their homes’ equity.</title>
+      <link>https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/homeowners-tight-on-cash-are-tapping-into-their-homes-equity</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/homeowners-tight-on-cash-are-tapping-into-their-homes-equity</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/homeowners-tight-on-cash-are-tapping-into-their-homes-equity" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Gregory Schmidt</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 11:01:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Equity Loans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit Cards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/12biz-inflation-blog-home-equity-VERSION/12biz-inflation-blog-home-equity-VERSION-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Lozada for The New York Times</media:credit>
+      <media:description>More Americans are taking advantage of the equity in their homes and using the money to pay credit card bills and other debt.</media:description>
+    </item>
+    <item>
+      <title>What to know about the report.</title>
+      <link>https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/what-to-know-about-the-report</link>
+      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/what-to-know-about-the-report</guid>
+      <atom:link href="https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/what-to-know-about-the-report" rel="standout"></atom:link>
+      <description></description>
+      <dc:creator>Lydia DePillis</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 11:00:56 +0000</pubDate>
+    </item>
     <item>
       <title>Heat Kills Hundreds of Workers Each Year. A Postal Carrier Was One.</title>
       <link>https://www.nytimes.com/2026/08/12/business/extreme-heat-worker-deaths.html</link>
@@ -76,7 +155,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html" rel="standout"></atom:link>
       <description>Ahead of Wednesday’s rare cosmic event, thousands of people in London are searching for protective eyewear, as prices surge and stocks sell out.</description>
       <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 09:26:40 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 10:37:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyeglasses</category>
@@ -213,12 +292,12 @@
       <description>A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.</description>
       <dc:creator>Steven Lee Myers, Aida Alami and Carlos Barragán</dc:creator>
       <pubDate>Tue, 11 Aug 2026 13:23:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
@@ -227,7 +306,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/00biz-ceuta-disinfo-1-wgjt/00biz-ceuta-disinfo-1-wgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sergey Ponomarev for The New York Times</media:credit>
       <media:description>Moroccan border guards and boats patrolling the coastline on the border with Spain in Fnideq, Morocco, this month.</media:description>
@@ -554,7 +632,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/09/business/manufacturing-mill-town-madison-maine.html" rel="standout"></atom:link>
       <description>For over a century, Madison Paper Industries was a small Maine town’s economic engine. A new owner moved in, but uncertainty persists.</description>
       <dc:creator>Stacey Freed and Ryan David Brown</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 01:11:29 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 10:59:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Paper and Pulp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Paper Industries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
@@ -897,119 +975,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06Biz-Fifa-Board-04-bcwz/06Biz-Fifa-Board-04-bcwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Spain’s players celebrate winning the World Cup. UEFA, European soccer’s governing body, led the opposition to the plan.</media:description>
-    </item>
-    <item>
-      <title>Amid Cyclospora Outbreak, Demand for Locally Grown Lettuce Surges</title>
-      <link>https://www.nytimes.com/2026/08/06/business/cyclospora-lettuce-local-produce.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/cyclospora-lettuce-local-produce.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/business/cyclospora-lettuce-local-produce.html" rel="standout"></atom:link>
-      <description>Small produce stands and farmers’ markets are seeing a surge in demand for leafy greens as sales of lettuce and salad kits from grocery chains and big retailers drop.</description>
-      <dc:creator>Julie Creswell</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 16:47:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyclospora (Parasite)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taylor Farms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lettuce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vegetables</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Farmers&#39; Markets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factory Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taco Bell Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walmart Stores Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/06biz-greenhouse-lettuce-01-wghj/06biz-greenhouse-lettuce-01-wghj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Amir Hamja for The New York Times</media:credit>
-      <media:description>Lettuce at a farmers’ market in New York City this week. Sales of prepackaged salads in grocery and other retailers dropped in July, as the confirmed cases of cyclospora grew.</media:description>
-    </item>
-    <item>
-      <title>Drought Threatens a Vital Economic Artery in the Heart of Europe</title>
-      <link>https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/business/rhine-drought-germany-economy.html" rel="standout"></atom:link>
-      <description>The Rhine conveys vessels and cargo that power European industry. Record low water levels are disrupting supply chains, adding costs and presenting fresh risks to growth.</description>
-      <dc:creator>Christopher F. Schuetze, Patricia Cohen and Patrick Junker</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 16:32:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rhine River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Duisburg (Germany)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Siemens AG</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/Biz-Europe-Rhine-01-lcpj/Biz-Europe-Rhine-01-lcpj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>The wreck of a fishing boat that sunk in 1996 is one of several long-submerged relics exposed by low water levels.</media:description>
-    </item>
-    <item>
-      <title>A Promising Heart Drug Fails, Challenging a Long-Held Theory of Disease</title>
-      <link>https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html" rel="standout"></atom:link>
-      <description>The drug targeted inflammation, and its shocking failure has experts questioning whether inflammation really does cause heart disease.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 00:58:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novo Nordisk A/S</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/06SCI-HEART-DRUG-zfvh/06SCI-HEART-DRUG-zfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tom Little/Reuters</media:credit>
-      <media:description>A Novo Nordisk study tested an experimental drug for heart disease patients.</media:description>
-    </item>
-    <item>
-      <title>China’s Unitree Prices IPO in Bet Investors Are Ready for Humanoid Robots</title>
-      <link>https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/business/china-unitree-ipo-robot.html" rel="standout"></atom:link>
-      <description>Unitree Robotics wants to raise about $900 million in an I.P.O. that tests market interest in humanoid robots, a technology that wows but has yet to prove its viability.</description>
-      <dc:creator>Steve Lohr and Xinyun Wu</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 08:10:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/Biz-China-Robot-IPO-video-still-cftp/Biz-China-Robot-IPO-video-still-cftp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Hiroko Masuike/The New York Times</media:credit>
-    </item>
-    <item>
-      <title>The ‘Heated Rivalry’ Star Hudson Williams Uplifts a Canadian Tire Bag</title>
-      <link>https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/world/canada/hudson-williams-heated-rivalry-canadian-tire.html" rel="standout"></atom:link>
-      <description>After the actor Hudson Williams was photographed carrying a plaid reusable shopping bag, priced under $2, the tote has become a viral fashion accessory.</description>
-      <dc:creator>Vjosa Isai</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 13:09:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Heated Rivalry (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Williams, Hudson (2001- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Canadian Tire</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping Bags</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Storrie, Connor (2000- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06int-canada-williams-tote-jkgf/06int-canada-williams-tote-jkgf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jordan Strauss/Invision, via Associated Press</media:credit>
-      <media:description>Hudson Williams, who plays the gay hockey player Shane Hollander in “Heated Rivalry,” at the Golden Globes in January.</media:description>
     </item>
   </channel>
 </rss>
