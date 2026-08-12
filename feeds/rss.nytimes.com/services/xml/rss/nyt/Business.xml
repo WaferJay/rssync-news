@@ -3,17 +3,56 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?_cb=1786536168878" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 12:02:49 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 11:27:51 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:50:51 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 13:16:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Will Paramount’s Brinkmanship Work?</title>
+      <link>https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html" rel="standout"></atom:link>
+      <description>The media company’s leader, David Ellison, is threatening to pull the company out of California in the face of a lawsuit by states seeking to block its big deal.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 12:28:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Lawrence J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Delrahim, Makan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12db-paramount-kczv/12db-paramount-kczv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
+      <media:description>Paramount’s C.E.O., David Ellison, is threatening to pull the company out of California if there isn’t progress in settling a lawsuit by states seeking to block its planned takeover of Warner Bros. Discovery.</media:description>
+    </item>
+    <item>
+      <title>Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion</title>
+      <link>https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html" rel="standout"></atom:link>
+      <description>The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.</description>
+      <dc:creator>Michael J. de la Merced</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 12:26:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Holdings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Joshua</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12db-kushner-htmz/12db-kushner-htmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <media:description>Thrive Holdings was created by the investment firm led by Joshua Kushner, left, as a bet on applying artificial intelligence to traditional service businesses.</media:description>
+    </item>
     <item>
       <title>Benign Inflation Data Would Reduce Urgency Around September Rate Rise</title>
       <link>https://www.nytimes.com/2026/08/12/business/economy/inflation-federal-reserve-interest-rates.html</link>
@@ -50,7 +89,7 @@
       <media:description>Hiring lagged in July despite a spring surge in job creation as employers faced rising costs and the prospect of renewed tariffs.</media:description>
     </item>
     <item>
-      <title>Energy Prices Expected to Fall in Latest Inflation Data</title>
+      <title>July CPI Report Is Expected to Show Falling Energy Prices</title>
       <link>https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/12/business/economy/energy-oil-prices-inflation.html" rel="standout"></atom:link>
@@ -72,7 +111,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/homeowners-tight-on-cash-are-tapping-into-their-homes-equity" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Gregory Schmidt</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 11:01:31 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 12:19:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Equity Loans</category>
@@ -85,13 +124,18 @@
       <media:description>More Americans are taking advantage of the equity in their homes and using the money to pay credit card bills and other debt.</media:description>
     </item>
     <item>
-      <title>What to know about the report.</title>
+      <title>Here’s what to know about the report.</title>
       <link>https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/what-to-know-about-the-report</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/what-to-know-about-the-report</guid>
       <atom:link href="https://www.nytimes.com/live/2026/08/12/business/inflation-cpi-report/what-to-know-about-the-report" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Lydia DePillis</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 11:00:56 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 13:16:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Labor Department (US)</category>
     </item>
     <item>
       <title>Heat Kills Hundreds of Workers Each Year. A Postal Carrier Was One.</title>
@@ -157,6 +201,7 @@
       <dc:creator>Jonathan Wolfe</dc:creator>
       <pubDate>Wed, 12 Aug 2026 10:37:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyeglasses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
@@ -932,49 +977,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kruger National Park (South Africa)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/travel/00trav101-safari-illo/00trav101-safari-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Philip Lindeman</media:credit>
-    </item>
-    <item>
-      <title>China’s Export Boom Rolls On Despite Trade Backlash</title>
-      <link>https://www.nytimes.com/2026/08/07/business/china-trade-exports.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/business/china-trade-exports.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/07/business/china-trade-exports.html" rel="standout"></atom:link>
-      <description>China’s factories are finding eager buyers abroad even as weak consumer spending and a prolonged property slump weigh on growth at home.</description>
-      <dc:creator>Daisuke Wakabayashi</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 07:20:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07Biz-China-Trade-gcbq/07Biz-China-Trade-gcbq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Qilai Shen for The New York Times</media:credit>
-      <media:description>Production at a factory in Ninghai, China, in July.</media:description>
-    </item>
-    <item>
-      <title>FIFA Executives Were Given Ultimatum to Approve World Cup Privatization Plan</title>
-      <link>https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/business/fifa-world-cup-privatization.html" rel="standout"></atom:link>
-      <description>The day before the World Cup final, key FIFA figures faced a stunning demand to sign off on a multibillion-dollar privatization project.</description>
-      <dc:creator>Tariq Panja</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 21:51:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Cup (Soccer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Infantino, Gianni</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Joshua</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privatization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">JPMorgan Chase &amp; Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Capital</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06Biz-Fifa-Board-04-bcwz/06Biz-Fifa-Board-04-bcwz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Spain’s players celebrate winning the World Cup. UEFA, European soccer’s governing body, led the opposition to the plan.</media:description>
     </item>
   </channel>
 </rss>

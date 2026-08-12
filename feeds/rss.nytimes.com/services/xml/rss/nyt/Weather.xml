@@ -7,13 +7,39 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 12:03:57 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 12:00:59 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 13:52:59 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 13:42:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Will the Weather Cooperate? Here’s a Roundup of Forecasts on the Eclipse’s Path</title>
+      <link>https://www.nytimes.com/2026/08/12/weather/solar-eclipse-europe-weather-forecast.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/weather/solar-eclipse-europe-weather-forecast.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/weather/solar-eclipse-europe-weather-forecast.html" rel="standout"></atom:link>
+      <description>The spectacle will be at the mercy of the meteorological conditions, with clouds threatening to block the view in some places.</description>
+      <dc:creator>Nazaneen Ghaffar</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 13:42:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Met Office (United Kingdom)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/world/12wea-eclipse-weather-01/12wea-eclipse-weather-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nacho Doce/Reuters</media:credit>
+      <media:description>Campers near a lighthouse on the Costa da Morte in northwestern Spain on Tuesday, the eve of the eclipse.</media:description>
+    </item>
     <item>
       <title>Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough</title>
       <link>https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</link>
@@ -21,7 +47,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html" rel="standout"></atom:link>
       <description>With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.</description>
       <dc:creator>Elisabetta Povoledo, Giulia Imbert and Carlos Barragán</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 12:00:59 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 12:50:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
@@ -33,7 +59,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00int-europe-heat-cmbg/00int-europe-heat-cmbg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Guglielmo Mangiapane/Reuters</media:credit>
-      <media:description>A woman resting at the Vatican on Wednesday during the latest heat wave to hit Europe.</media:description>
+      <media:description>A woman cooling off at the Vatican on Wednesday.</media:description>
     </item>
     <item>
       <title>Powerful ‘Derecho’ Storms Tear Through Midwest</title>
