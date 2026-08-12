@@ -3,17 +3,67 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1786558048571" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 17:22:20 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 17:13:07 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 18:07:28 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 18:00:13 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>A Look Inside Trump’s Patriot Games</title>
+      <link>https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html</guid>
+      <atom:link href="https://www.nytimes.com/video/us/politics/100000011088255/a-look-inside-trumps-patriot-games.html" rel="standout"></atom:link>
+      <description>President Trump made an appearance at his first-ever Patriot Games in Geneva, Ohio, last night. Zolan Kanno-Youngs dialed in Natalie Kitroeff on “The Call” to break down what he was seeing and how sports have become a defining part of Mr. Trump’s presidency.</description>
+      <pubDate>Wed, 12 Aug 2026 18:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <category domain="">Patriot Games</category>
+    </item>
+    <item>
+      <title>Prediction Firms Are Flagging Insider Traders. Many Will Not Face Charges.</title>
+      <link>https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html" rel="standout"></atom:link>
+      <description>The agency that polices the industry does not have the staffing, the legal tools or the will to broadly crack down on wagers that are easily manipulated, experts say.</description>
+      <dc:creator>Sharon LaFraniere</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 17:25:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Selig, Michael S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Santos, George (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/dc-prediction-markets-1-qwgk/dc-prediction-markets-1-qwgk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Laura Brett/ZUMA Press, via Reuters</media:credit>
+      <media:description>Kalshi, a leading prediction market, referred 32 possible insider traders to the Commodity Futures Trading Commission in the three months ending in June.</media:description>
+    </item>
+    <item>
+      <title>Why Were Polls So Wrong in the Wisconsin Governor’s Race?</title>
+      <link>https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html" rel="standout"></atom:link>
+      <description>Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?</description>
+      <dc:creator>Bayliss Wagner and Ruth Igielnik</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 17:54:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crowley, David C (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">El-Sayed, Abdul</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12pol-wisconsin-polls-pbth/12pol-wisconsin-polls-pbth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jenn Ackerman for The New York Times</media:credit>
+      <media:description>Francesca Hong, a democratic socialist, was the front-runner in polls ahead of the Wisconsin Democratic primary for governor. But her bid came up short.</media:description>
+    </item>
     <item>
       <title>Trump-Backed Mike Lindell Loses Minnesota Governor Primary to Lisa Demuth</title>
       <link>https://www.nytimes.com/2026/08/12/us/politics/trump-lindell-minnesota-republican-primary.html</link>
@@ -63,12 +113,15 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/us/stabbing-minnesota-day-care.html" rel="standout"></atom:link>
       <description>The authorities in Hopkins, Minn., said two adults and a child, all family members, were killed at an in-home day care center.</description>
       <dc:creator>Ernesto Londoño and Alexandra E. Petri</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 16:58:01 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 17:56:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Day Care Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12nat-minn-stabbing-1-pkwl/12nat-minn-stabbing-1-pkwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mark Vancleave/Associated Press</media:credit>
+      <media:description>Law enforcement responded to a call at a home day care in Hopkins, Minn.</media:description>
     </item>
     <item>
       <title>ICE Plans to Give Officers Gloves That Can Deliver Electric Shocks</title>
@@ -138,13 +191,13 @@
       <media:description>David Crowley, the Milwaukee County executive, outside a polling station in Milwaukee on Tuesday.</media:description>
     </item>
     <item>
-      <title>After a Typo, Officers Used Excessive Force in an Arrest, a Report Finds</title>
+      <title>A Driver’s Fatal Spiral After a Police Officer’s Typo</title>
       <link>https://www.nytimes.com/2026/08/12/us/san-francisco-police-typo-arrest-matthew-ludwig.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/san-francisco-police-typo-arrest-matthew-ludwig.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/12/us/san-francisco-police-typo-arrest-matthew-ludwig.html" rel="standout"></atom:link>
-      <description>Officers with the San Francisco Police Department thought they had caught a car thief. Instead, they had mistyped his license plate number, a watchdog agency said.</description>
+      <description>Police thought they had caught a car thief in San Francisco. Instead, they had mistyped his license plate number, a watchdog agency said, then arrested him with excessive force.</description>
       <dc:creator>Livia Albeck-Ripka</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 14:08:35 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 17:51:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Registration and License Plates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (San Francisco, Calif)</category>
@@ -926,53 +979,6 @@
       <media:content height="1779" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11pol-minnesota-money-lzbc/11pol-minnesota-money-lzbc-mediumSquareAt3X.jpg" width="1779"></media:content>
       <media:credit>Tom Baker/Getty Images</media:credit>
       <media:description>Representative Angie Craig, a moderate, is trying to beat Lt. Gov. Peggy Flanagan, a progressive, in Minnesota’s Democratic primary race for Senate.</media:description>
-    </item>
-    <item>
-      <title>This is how President Trump came to back Darline Graham.</title>
-      <link>https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/this-is-how-president-trump-came-to-back-darline-graham</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/this-is-how-president-trump-came-to-back-darline-graham</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/this-is-how-president-trump-came-to-back-darline-graham" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Emily Davies</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 20:45:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/24/multimedia/24pol-darline-graham-top-tzpq/24pol-darline-graham-top-tzpq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>President Trump’s support for Darline Graham, the sister of the late senator Lindsey Graham but a political unknown, is a gamble as Republicans and Democrats battle for control of the House and Senate.</media:description>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/08/11/us/elections-south-carolina-wisconsin/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Tim Balk and Bayliss Wagner</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 06:04:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ocasio-Cortez Opened Up About Freezing Her Eggs. She Got Women Talking.</title>
-      <link>https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/us/politics/egg-freezing-aoc.html" rel="standout"></atom:link>
-      <description>Many women say being open about the fertility treatment is a form of empowerment. But critics say all the talk can be misleading.</description>
-      <dc:creator>Juliet Macur and Anemona Hartocollis</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 20:22:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egg Donation and Freezing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11nat-egg-freezing-hpmz/11nat-egg-freezing-hpmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Haiyun Jiang/The New York Times</media:credit>
-      <media:description>Representative Alexandria Ocasio-Cortez said there was “a political risk” in sharing the information.</media:description>
     </item>
   </channel>
 </rss>
