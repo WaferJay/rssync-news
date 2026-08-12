@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 05:07:45 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 03:31:13 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:31:22 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 09:33:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -109,6 +109,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Muggy Heat and Storms Continue to Grip the U.S., but an End Is in Sight</title>
@@ -462,41 +463,6 @@
       <media:content height="1612" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05int-skorea-baseball-heat-hftv/05int-skorea-baseball-heat-hftv-mediumSquareAt3X.jpg" width="1612"></media:content>
       <media:credit>Yonhap, via Agence France-Presse — Getty Images</media:credit>
       <media:description>Water cannons cooled off the crowd during a professional baseball game in Seoul last month.</media:description>
-    </item>
-    <item>
-      <title>How Being Cool Is Making The Hague a Vacation Hot Spot</title>
-      <link>https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/world/europe/hague-heat-coolcation.html" rel="standout"></atom:link>
-      <description>Looking for respite from European heat waves, summer tourists are flocking to the diplomatic hub. But city leaders are wary of overcrowding.</description>
-      <dc:creator>Jeanna Smialek and Ilvy Njiokiktjien</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 11:50:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hague (Netherlands)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>Wildfire Smoke and Airport Chaos: My Summer Vacation From Hell</title>
-      <link>https://www.nytimes.com/2026/08/05/travel/midwest-wildfire-smoke-tornadoes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/travel/midwest-wildfire-smoke-tornadoes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/travel/midwest-wildfire-smoke-tornadoes.html" rel="standout"></atom:link>
-      <description>Used to chronicling other people’s vacation disasters, a travel reporter faced the new normal on her own long-awaited family trip.</description>
-      <dc:creator>Ceylan Yeğinsu</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 09:20:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Geneva (NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05trav-vacation-hell-01-cwpk/05trav-vacation-hell-01-cwpk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joel Bissell/Kalamazoo Gazette, via Associated Press</media:credit>
-      <media:description>Wildfire smoke along the Lake Michigan shore on July 16.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 08:39:23 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 08:11:19 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:30:07 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 10:29:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -75,6 +75,66 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-uk-binface-01-chlb/12int-uk-binface-01-chlb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>Count Binface, played by the comedian Jon Harvey, being interviewed at a studio in London last month.</media:description>
+    </item>
+    <item>
+      <title>Ecuadorean Fishing Boats Hit by Mystery Attackers</title>
+      <link>https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/americas/ecuador-fishing-boat-strikes.html" rel="standout"></atom:link>
+      <description>Ecuadorean crews plying the waters of the Pacific have been targeted by a mysterious outfit equipped with drones. Some sailors appear to have lost their lives.</description>
+      <dc:creator>Maria Abi-Habib, Riley Mellen, José María León Cabrera and Christiaan Triebert</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 09:02:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ecuador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fishing, Commercial</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mercenaries and Private Military Contractors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/00int-ecuador-boats-zbgh/00int-ecuador-boats-zbgh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniele Volpe for The New York Times</media:credit>
+      <media:description>Fishing vessels off the Ecuadorean coast last October.</media:description>
+    </item>
+    <item>
+      <title>Trump Tariffs Force Some Canadian Companies to Move South of the Border</title>
+      <link>https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/canada/canada-tariffs-manufacturing-trade-trump.html" rel="standout"></atom:link>
+      <description>If President Trump moves ahead with 50 percent tariffs on a wide range of Canadian products later this month, some companies may only survive by relocating to the United States.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 09:02:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aluminum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/world/00int-canada-tariffs/00int-canada-tariffs-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ian Austen/The New York Times</media:credit>
+      <media:description>Turning nearly pure copper into electrical wires is one of the first stages of production at Northern Cable in Brockville, Ontario.</media:description>
+    </item>
+    <item>
+      <title>Thailand Halts New Gun Permits After Mass Shooting at a School</title>
+      <link>https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/asia/thailand-gun-permits-school-shooting.html" rel="standout"></atom:link>
+      <description>It remains to be seen how far the government will go to tighten gun control in the country, which has experienced a string of high-profile shootings in recent years.</description>
+      <dc:creator>Max Kim and Muktita Suhartono</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 09:39:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gun Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mass Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anutin Charnvirakul (1966- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bangkok (Thailand)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-thailand-gun-permits-jftw/12int-thailand-gun-permits-jftw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anthony Wallace/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Officials offered prayers at temple in Bangkok on Tuesday for the victims of a 14-year-old gunman.</media:description>
     </item>
     <item>
       <title>Zambia Election: President Hichilema Faces Backlash Ahead of Vote</title>
@@ -178,20 +238,24 @@
       <media:description>Firefighters rescuing Diana Marcela Troncoso from a collapsed building in Cali, Colombia, on Tuesday, more than 24 hours after a powerful earthquake struck the western part of the country.</media:description>
     </item>
     <item>
-      <title>Four Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says</title>
-      <link>https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html" rel="standout"></atom:link>
-      <description>The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.</description>
-      <dc:creator>Ismaeel Naar</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 18:29:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-redsea-houthis-1-mvzb/11int-redsea-houthis-1-mvzb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Khaled Abdullah/Reuters</media:credit>
-      <media:description>At a Houthi rally in Sanaa, Yemen, last month.</media:description>
+      <title>What We Know About the Earthquake in Colombia</title>
+      <link>https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html" rel="standout"></atom:link>
+      <description>The 7.4-magnitude quake, which killed more than 100 people and damaged hundreds of buildings, was the strongest recorded in Colombia in a decade.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 19:05:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Geological Survey</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11xp-colombiaquake-wwk-qjlc/11xp-colombiaquake-wwk-qjlc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Federico Rios for The New York Times</media:credit>
+      <media:description>A rescue dog and his guide are among those looking for survivors on Monday in Cali, Colombia.</media:description>
     </item>
     <item>
       <title>Ex-Marine Robert Gilman, Freed by Russia After 4 Years in Prison, Arrives in the U.S.</title>
@@ -220,71 +284,6 @@
       <media:description>Robert Gilman in April. He had been sentenced by a Russian court to 10 years in prison.</media:description>
     </item>
     <item>
-      <title>Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge</title>
-      <link>https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html" rel="standout"></atom:link>
-      <description>Claims swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 14:44:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardem, Javier</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Marjorie Taylor (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed VI, King of Morocco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Danon, Danny (1971- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-spain-rumors-tjmz/11int-spain-rumors-tjmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>Migrants from sub-Saharan Africa waiting on a beach for humanitarian assistance after about tens of thousands of people, mostly from Morocco, surged across the border into Ceuta, Spain, this month.</media:description>
-    </item>
-    <item>
-      <title>Syria Sentences Former President al-Assad to Death for Crimes Against Humanity</title>
-      <link>https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html" rel="standout"></atom:link>
-      <description>The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.</description>
-      <dc:creator>Raja Abdulrahim</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 15:00:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Maher al-</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Najib, Atef (1960- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-syria-verdict-jqvt/11int-syria-verdict-jqvt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Louai Beshara/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Bashar al-Assad, Syria’s former leader, in Damascus in 2023.</media:description>
-    </item>
-    <item>
-      <title>What We Know About the Earthquake in Colombia</title>
-      <link>https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/world/americas/colombia-earthquake-cali-medellin-deaths.html" rel="standout"></atom:link>
-      <description>The 7.4-magnitude quake, which killed more than 100 people and damaged hundreds of buildings, was the strongest recorded in Colombia in a decade.</description>
-      <dc:creator>John Yoon</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 19:05:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">De La Espriella, Abelardo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Geological Survey</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11xp-colombiaquake-wwk-qjlc/11xp-colombiaquake-wwk-qjlc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>A rescue dog and his guide are among those looking for survivors on Monday in Cali, Colombia.</media:description>
-    </item>
-    <item>
       <title>In a Sweltering Summer, These Italians Want Romans to Curl</title>
       <link>https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/europe/italy-curling-rome.html</guid>
@@ -298,6 +297,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rome (Italy)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Olympic Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>He Was Deported to Eswatini in Southern Africa. He May Never Go Free.</title>
+      <link>https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html" rel="standout"></atom:link>
+      <description>As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.</description>
+      <dc:creator>Nicholas Casey</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 09:00:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Eswatini</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/23/magazine/23mag-eswatini-roberto/23mag-eswatini-roberto-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Moises Saman/Magnum, for The New York Times</media:credit>
+      <media:description>Roberto Mosquera in detention in Eswatini.</media:description>
     </item>
     <item>
       <title>Why Nigel Farage Is Running Against a ‘Trash Can’</title>
@@ -351,8 +367,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html</guid>
       <atom:link href="https://www.nytimes.com/video/world/africa/100000011032450/deported-from-the-us-trapped-in-a-prison-in-africa.html" rel="standout"></atom:link>
       <description>Roberto Mosquera, a Cuban immigrant who has lived in the United States since 1980 and completed a prison sentence in 1996, was arrested by ICE last year and sent to a prison in Eswatini, a country in Africa he’d never heard of. After a hunger strike, Mosquera obtained a phone and talked with Nicholas Casey of The New York Times Magazine to share what is happening there.</description>
-      <dc:creator>Nicholas Casey, Rebecca Suner, Sutton Raphael, Maria Gestoso and Joey Sendaydiego</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 21:02:44 +0000</pubDate>
+      <dc:creator>Nicholas Casey, Rebecca Suner, Sutton Raphael, Maria Gestoso, Joey Sendaydiego and Thomas Vollkommer</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 10:29:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
@@ -407,13 +423,29 @@
       <media:description>President Trump disembarking Air Force One in Britain last month.</media:description>
     </item>
     <item>
+      <title>Six Killed in Houthi Strike on Red Sea Ship, Yemeni Government Says</title>
+      <link>https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/world/middleeast/deadly-houthi-strike-red-sea.html" rel="standout"></atom:link>
+      <description>The Yemeni government said the ship was carrying food supplies to a port on the Bab al-Mandab Strait while the Iran-backed Houthis accused Saudi Arabia of transporting weapons.</description>
+      <dc:creator>Ismaeel Naar</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 08:55:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yemen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-redsea-houthis-1-mvzb/11int-redsea-houthis-1-mvzb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Khaled Abdullah/Reuters</media:credit>
+      <media:description>At a Houthi rally in Sanaa, Yemen, last month.</media:description>
+    </item>
+    <item>
       <title>Frenzy for Solar Eclipse Glasses Takes Over London</title>
       <link>https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html" rel="standout"></atom:link>
       <description>Ahead of Wednesday’s rare cosmic event, thousands of people in London are searching for protective eyewear, as prices surge and stocks sell out.</description>
       <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 15:22:49 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 09:26:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyeglasses</category>
@@ -424,9 +456,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-glasses-01-cvfz/12europe-eclipse-glasses-01-cvfz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amir Hamja/The New York Times</media:credit>
-      <media:description>People watching a solar eclipse from Washington Square Park, New York, in 2024.</media:description>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/11/multimedia/11xp-eclipse-glasses-01c-fgcz/11xp-eclipse-glasses-01c-fgcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Henry Nicholls/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Solar eclipse glasses for sale in East London on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Syria Sentences Former President al-Assad to Death for Crimes Against Humanity</title>
+      <link>https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/world/middleeast/syria-bashar-al-assad-death-sentence.html" rel="standout"></atom:link>
+      <description>The former president was convicted of crimes against humanity during the country’s civil war, the first verdict since he fled to Russia in 2024.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 15:00:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Torture</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Maher al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Najib, Atef (1960- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-syria-verdict-jqvt/11int-syria-verdict-jqvt-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Louai Beshara/Agence France-Presse — Getty Images</media:credit>
+      <media:description>President Bashar al-Assad, Syria’s former leader, in Damascus in 2023.</media:description>
     </item>
     <item>
       <title>The Eclipse Is Coming, and Iceland Is Looking for a Break in the Clouds</title>
@@ -444,6 +495,32 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-iceland-eclipse-top-twqp/11int-iceland-eclipse-top-twqp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amelia Nierenberg/The New York Times</media:credit>
       <media:description>Cloudy skies along the road to the Latrabjarg cliffs, the place in Iceland where the total eclipse will last the longest on Wednesday.</media:description>
+    </item>
+    <item>
+      <title>Why Rumors About Morocco Followed Spain’s Ceuta Migrant Surge</title>
+      <link>https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/world/europe/spain-ceuta-morocco-migrants.html" rel="standout"></atom:link>
+      <description>Claims swirled that Morocco, perhaps spurred by Israel and the United States, organized a recent border disaster. That unproven speculation, experts said, was exacerbated by the region’s complicated history.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 14:44:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bardem, Javier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greene, Marjorie Taylor (1974- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mohammed VI, King of Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Danon, Danny (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanchez Perez-Castejon, Pedro (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11int-spain-rumors-tjmz/11int-spain-rumors-tjmz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Migrants from sub-Saharan Africa waiting on a beach for humanitarian assistance after about tens of thousands of people, mostly from Morocco, surged across the border into Ceuta, Spain, this month.</media:description>
     </item>
     <item>
       <title>How Social Media Sparked a Refugee Crisis Between Spain and Morocco</title>
@@ -988,90 +1065,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/00int-pakistan-chiles-dispatch-promo-hmpq/00int-pakistan-chiles-dispatch-promo-hmpq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Asim Hafeez for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Malaysia Was Confident in Its Social Media Ban, but Kids Are Still Logged In</title>
-      <link>https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/asia/malaysia-social-media-ban-delayed.html" rel="standout"></atom:link>
-      <description>Officials told platforms to verify children’s ages using government-issued documents, like identity cards. But the companies have balked, apparently over privacy concerns.</description>
-      <dc:creator>Zunaira Saieed</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 08:27:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Screen Time (Device)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/00int-malaysia-social-media-wbcm/00int-malaysia-social-media-wbcm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Annice Lyn/Getty Images</media:credit>
-      <media:description>Malaysia’s social media ban for children under 16 was supposed to take effect on June 1.</media:description>
-    </item>
-    <item>
-      <title>He Transformed His Spanish Hometown. Did He Also Spoil It?</title>
-      <link>https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/europe/malaga-spain-mayor-torre-urban-regeneration.html" rel="standout"></atom:link>
-      <description>Francisco de la Torre, the mayor of Málaga, is credited with turning the once drab port into a culture and tech hub. Critics say he’s also destroyed the city’s soul.</description>
-      <dc:creator>Jason Horowitz</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 04:01:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaga (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">de la Torre, Francisco (1942- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gentrification</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Investments</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/14/multimedia/00int-spain-malaga-qwfb/00int-spain-malaga-qwfb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Laura Leon for The New York Times</media:credit>
-      <media:description>Francisco de la Torre has been the mayor of Málaga since 2000. He is preparing to run next year for his eighth consecutive term.</media:description>
-    </item>
-    <item>
-      <title>Daniel Kinahan Extradited From the U.A.E. to Ireland</title>
-      <link>https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/09/world/europe/daniel-kinahan-ireland-extradition.html" rel="standout"></atom:link>
-      <description>Daniel Kinahan, accused of leading a family crime syndicate, was flown home from Dubai on an Irish government jet on Sunday.</description>
-      <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 03:55:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kinahan, Daniel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/world/09IRELAND-KINAHAN/09IRELAND-KINAHAN-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Damien Eagers/PA Images, via Getty Images</media:credit>
-      <media:description>Reporters waited for Daniel Kinahan’s arrival at a military base west of Dublin. </media:description>
-    </item>
-    <item>
-      <title>Still Waiting for Peace in Gaza</title>
-      <link>https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/09/world/gaza-israel-iran.html" rel="standout"></atom:link>
-      <description>A photojournalist with The New York Times details the displacement and danger, in words and images, that have come to define his home.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 04:36:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza City (Gaza Strip)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Alghorra, Saher</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/10int-theworld-gaza-saher-promo/10int-theworld-gaza-saher-promo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Saher Alghorra for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

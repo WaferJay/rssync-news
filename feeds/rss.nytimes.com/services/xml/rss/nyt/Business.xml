@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 05:09:58 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 03:31:19 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 10:26:49 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 10:04:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Heat Kills Hundreds of Workers Each Year. A Postal Carrier Was One.</title>
+      <link>https://www.nytimes.com/2026/08/12/business/extreme-heat-worker-deaths.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/extreme-heat-worker-deaths.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/business/extreme-heat-worker-deaths.html" rel="standout"></atom:link>
+      <description>About half a dozen states explicitly protect workers from excessive heat. And some others, like Texas, prevent local governments from passing their own laws.</description>
+      <dc:creator>Kurtis Lee and Shelby Tauber</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 09:01:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/00biz-workers-heat-lede-mcvf/00biz-workers-heat-lede-mcvf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Scorching temperatures and high humidity blanketed much of the country this summer.</media:description>
+    </item>
     <item>
       <title>David Ellison Floats Hollywood Exit as States Threaten His Warner Bros. Deal</title>
       <link>https://www.nytimes.com/2026/08/11/business/media/david-ellison-hollywood-paramount-warner-bros.html</link>
@@ -61,7 +76,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/11/world/europe/solar-eclipse-glasses-uk.html" rel="standout"></atom:link>
       <description>Ahead of Wednesday’s rare cosmic event, thousands of people in London are searching for protective eyewear, as prices surge and stocks sell out.</description>
       <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 15:22:49 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 09:26:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Protective Clothing and Gear</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyeglasses</category>
@@ -72,9 +87,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-glasses-01-cvfz/12europe-eclipse-glasses-01-cvfz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amir Hamja/The New York Times</media:credit>
-      <media:description>People watching a solar eclipse from Washington Square Park, New York, in 2024.</media:description>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/09/11/multimedia/11xp-eclipse-glasses-01c-fgcz/11xp-eclipse-glasses-01c-fgcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Henry Nicholls/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Solar eclipse glasses for sale in East London on Tuesday.</media:description>
     </item>
     <item>
       <title>G.M.’s ‘Car Guy’ Talks Electrics, China and Nepotism</title>
@@ -88,7 +103,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Motors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/Biz-Wheels-Reuss-GM-01-tvck/Biz-Wheels-Reuss-GM-01-tvck-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/Biz-Wheels-Reuss-GM-01-tvck/Biz-Wheels-Reuss-GM-01-tvck-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Sylvia Jarrus for The New York Times</media:credit>
       <media:description>“We have not stopped producing any of our electric vehicles,” Mark Reuss, the General Motors president, said in an interview. “We believe in the sustainability piece of this.”</media:description>
     </item>
@@ -233,6 +248,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation X</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Single Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/08Biz-Unemployed-Dating-01-cfjm/08Biz-Unemployed-Dating-01-cfjm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sandy Huffaker for The New York Times</media:credit>
       <media:description>For Claire Doty, being unemployed is not a deal breaker. But after going on dates with unemployed men, she said, she feels uneasy about seeing someone who may suddenly have to move for work.</media:description>
@@ -994,28 +1010,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06int-canada-williams-tote-jkgf/06int-canada-williams-tote-jkgf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Strauss/Invision, via Associated Press</media:credit>
       <media:description>Hudson Williams, who plays the gay hockey player Shane Hollander in “Heated Rivalry,” at the Golden Globes in January.</media:description>
-    </item>
-    <item>
-      <title>What’s Behind the A.I. Shake-Up at Google</title>
-      <link>https://www.nytimes.com/2026/08/06/business/dealbook/hassabis-google-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/business/dealbook/hassabis-google-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/business/dealbook/hassabis-google-ai.html" rel="standout"></atom:link>
-      <description>A new role for Demis Hassabis, the head of Google’s artificial intelligence unit, reflects reality at the tech giant. Investors remain worried.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 16:58:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassabis, Demis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brin, Sergey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dean, Jeff (1968- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06db-hassabis-vbqj/06db-hassabis-vbqj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Julia Demaree Nikhinson</media:credit>
-      <media:description>Demis Hassabis, center, with President Trump and President Lee Jae Myung of South Korea. He leads artificial intelligence at Google but acts as more of a statesman for the technology.</media:description>
     </item>
   </channel>
 </rss>
