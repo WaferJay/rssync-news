@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 13:52:22 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 13:05:32 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:23:45 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 17:04:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -132,6 +132,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
     </item>
     <item>
+      <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>
+      <link>https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
+      <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
+      <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 17:04:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ritesh Shukla/Getty Images</media:credit>
+      <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
+    </item>
+    <item>
       <title>Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough</title>
       <link>https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</guid>
@@ -161,11 +181,13 @@
       <dc:creator>Raymond Zhong</dc:creator>
       <pubDate>Tue, 11 Aug 2026 20:02:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spinrad, Rick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/climate/11cli-arcticreport/11cli-arcticreport-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emilio Morenatti/Associated Press</media:credit>
       <media:description>The Arctic Report Card drew on the expertise of hundreds of scientists and other specialists around the world.</media:description>
@@ -926,63 +948,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30int-theworld-eu-wildfires-promo-pzcb/30int-theworld-eu-wildfires-promo-pzcb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ed Jones/Agence France-Presse — Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Trump Administration Is Repurposing Federal Land for A.I. Data Centers</title>
-      <link>https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/climate/trump-federal-data-centers.html" rel="standout"></atom:link>
-      <description>In the latest example, the Energy Department will convert a shuttered Cold War-era uranium enrichment facility into a data center campus and gas plants.</description>
-      <dc:creator>Brad Plumer</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 19:46:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Energy Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Natural Gas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Paducah (Ky)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public-Private Sector Cooperation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NextEra Energy Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rhodium Group LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sierra Club</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wright, Chris (1965- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Piketon (Ohio)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29cli-datacenters-01b-fzhm/29cli-datacenters-01b-fzhm-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>President Trump and Energy Secretary Chris Wright during a White House event last week in which 200 companies vowed to prevent A.I. data centers from driving up power costs.</media:description>
-    </item>
-    <item>
-      <title>European Wildfires Amplified by Emptying Countryside and Fewer Farms</title>
-      <link>https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/29/climate/france-spain-europe-megafires.html" rel="standout"></atom:link>
-      <description>A warming planet and a shift away from farming have set the stage for larger fires on the continent. “We must learn to coexist with them,” one report said.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Wed, 29 Jul 2026 16:18:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madrid (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/29CLI-BIGGER-FIRES-01-qfgc/29CLI-BIGGER-FIRES-01-qfgc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Philippe Lopez/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Wildfire smoke from a fire burning west of Bordeaux, France, on Tuesday. The giant blazes in France and Spain are their largest on record.</media:description>
     </item>
   </channel>
 </rss>

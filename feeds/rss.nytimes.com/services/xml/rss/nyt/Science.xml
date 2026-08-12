@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 16:13:36 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 16:07:52 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:23:44 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 17:05:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>A Space Expert Hoped to Use the Eclipse as Science Class. The D.J.s Had Other Plans.</title>
+      <link>https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/spain-eclipse-astrophysicist-festival.html" rel="standout"></atom:link>
+      <description>Mar Carretero-Castrillo, an astrophysicist, returned to her remote village in Spain to be in the path of totality. Hundreds of  partygoers came too.</description>
+      <dc:creator>Jason Horowitz</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 16:19:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-spain-eclipse-01-pgbz/12int-spain-eclipse-01-pgbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>Mar Carretero-Castrillo playing an eclipse-themed card game with residents in Castrillo de la Reina, Spain, on Tuesday.</media:description>
+    </item>
     <item>
       <title>What to Know About Europe’s Total Solar Eclipse: Where to See It and How to Watch Safely</title>
       <link>https://www.nytimes.com/2026/08/10/science/europe-total-solar-eclipse-how-to-watch.html</link>
@@ -147,18 +163,24 @@
       <media:credit>Sergei Grits/Associated Press</media:credit>
     </item>
     <item>
-      <title>Video: Dolphin Carries Dead Calf in What Experts Call Mourning</title>
-      <link>https://www.nytimes.com/2026/08/04/science/dolphin-mother-dead-calf.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/science/dolphin-mother-dead-calf.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/science/dolphin-mother-dead-calf.html" rel="standout"></atom:link>
-      <description>Footage posted by a conservancy group offers an unusual glimpse of a common behavior by dolphins that often goes unobserved.</description>
-      <dc:creator>Sopan Deb</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 20:43:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dolphins and Porpoises</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grief (Emotion)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>
+      <link>https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
+      <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
+      <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 17:04:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ritesh Shukla/Getty Images</media:credit>
+      <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
     </item>
     <item>
       <title>Trump Administration Kills Annual Arctic Report Card</title>
@@ -169,11 +191,13 @@
       <dc:creator>Raymond Zhong</dc:creator>
       <pubDate>Tue, 11 Aug 2026 20:02:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spinrad, Rick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/climate/11cli-arcticreport/11cli-arcticreport-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Emilio Morenatti/Associated Press</media:credit>
       <media:description>The Arctic Report Card drew on the expertise of hundreds of scientists and other specialists around the world.</media:description>

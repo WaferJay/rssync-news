@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 16:15:22 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 16:11:33 +0000</pubDate>
+    <lastBuildDate>Wed, 12 Aug 2026 17:23:47 +0000</lastBuildDate>
+    <pubDate>Wed, 12 Aug 2026 17:04:20 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>
+      <link>https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
+      <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
+      <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 17:04:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ritesh Shukla/Getty Images</media:credit>
+      <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
+    </item>
     <item>
       <title>How Scientists Use Eclipses for Research</title>
       <link>https://www.nytimes.com/2026/08/12/world/europe/eclipse-scientists.html</link>
@@ -474,20 +494,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/11/multimedia/00xp-cyclone-names-02-bcpt/00xp-cyclone-names-02-bcpt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vernon Yuen/Associated Press</media:credit>
       <media:description>Waves near Victoria Harbor in Hong Kong following Typhoon Wipha last year.</media:description>
-    </item>
-    <item>
-      <title>Windy Weather Could Worsen Pacific Northwest Fires</title>
-      <link>https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/weather/pacific-northwest-fires-could-worsen-with-more-wind.html" rel="standout"></atom:link>
-      <description>Forecasters expect winds to pick up in eastern Washington and Oregon on Friday and Saturday, but not to be as strong as last weekend’s were.</description>
-      <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 17:18:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Northwestern States (US)</category>
     </item>
   </channel>
 </rss>
