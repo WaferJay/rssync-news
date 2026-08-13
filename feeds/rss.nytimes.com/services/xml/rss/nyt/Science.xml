@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 12:03:31 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 11:29:26 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 13:52:42 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 13:17:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -51,25 +51,34 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/solar-eclipse-europe-photos.html" rel="standout"></atom:link>
       <description>People gathered across the continent to watch the total solar eclipse on Wednesday.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 06:11:44 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 13:17:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-eclipse-visual-stack-promo-thgl/12xp-eclipse-visual-stack-promo-thgl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-eclipse-visual-stack-promo-thgl/12xp-eclipse-visual-stack-promo-thgl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Borja Suarez/Reuters</media:credit>
     </item>
     <item>
-      <title>The Perseids, Summer’s Strongest Meteor Shower, Will Peak Tonight</title>
-      <link>https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html" rel="standout"></atom:link>
-      <description>Unlike the total solar eclipse that swept across Europe, the Perseids can be seen at night by anyone in the Northern Hemisphere.</description>
-      <dc:creator>Katrina Miller</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 19:48:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
+      <title>How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark</title>
+      <link>https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html" rel="standout"></atom:link>
+      <description>On Aug. 2, Southern Europe, North Africa and the Middle East will witness a solar blockbuster with extra-long totality. If you want to see it, book soon.</description>
+      <dc:creator>Danielle Dowling</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 11:29:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-perseids-1-jgpm/12europe-eclipse-perseids-1-jgpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergei Gapon/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Meteors over the village of Wigry, Poland, during the Perseids shower in 2024.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egyptian Civilization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Algeria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gibraltar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13trav-eclipse-2027-preview-khqw/13trav-eclipse-2027-preview-khqw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
+      <media:description>The solar eclipse on Wednesday in Castrillo de la Reina, Spain. Next summer’s total solar eclipse will darken a 9,500-mile-long swath from the tip of southern Spain past the Horn of Africa.</media:description>
     </item>
     <item>
       <title>Mike Fincke, Astronaut Who Spent 549 Days in Space, Has Retired</title>
@@ -91,21 +100,24 @@
       <media:description>The NASA astronaut Michael Fincke last month at the Kennedy Space Center in Florida.</media:description>
     </item>
     <item>
-      <title>The Perseid Meteor Shower Is Peaking. Here’s How to Watch.</title>
-      <link>https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html" rel="standout"></atom:link>
-      <description>The Perseids will be most active on Wednesday into Thursday morning, on the moonless night after a total solar eclipse.</description>
-      <dc:creator>Katrina Miller</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 09:00:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12SCI-PERSEIDS-ECLIPSE-kgcq/12SCI-PERSEIDS-ECLIPSE-kgcq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Darrin Zammit Lupi/Reuters</media:credit>
-      <media:description>Stargazers observing the Perseid meteor shower in Malta in August 2024.</media:description>
+      <title>Trump Administration Kills Annual Arctic Report Card</title>
+      <link>https://www.nytimes.com/2026/08/11/climate/noaa-arctic-report-card.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/climate/noaa-arctic-report-card.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/climate/noaa-arctic-report-card.html" rel="standout"></atom:link>
+      <description>The top of the world is warming faster than any other region. For 20 years, the Arctic Report Card chronicled the extraordinary transformation.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 20:02:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spinrad, Rick</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/climate/11cli-arcticreport/11cli-arcticreport-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Emilio Morenatti/Associated Press</media:credit>
+      <media:description>The Arctic Report Card drew on the expertise of hundreds of scientists and other specialists around the world.</media:description>
     </item>
     <item>
       <title>This A.I. Just Created Viruses Not Found in Nature</title>
@@ -177,27 +189,18 @@
       <media:description>American farmers spray millions of pounds of paraquat on crops each year, though experts could not say precisely how much.</media:description>
     </item>
     <item>
-      <title>How to Catch the ‘Eclipse of the Century’ in 2027, When Spain, Egypt and More Go Dark</title>
-      <link>https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/travel/solar-eclipse-2027-morocco-egypt.html" rel="standout"></atom:link>
-      <description>On Aug. 2, Southern Europe, North Africa and the Middle East will witness a solar blockbuster with extra-long totality. If you want to see it, book soon.</description>
-      <dc:creator>Danielle Dowling</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 11:29:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <title>The Perseids, Summer’s Strongest Meteor Shower, Will Peak Tonight</title>
+      <link>https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html" rel="standout"></atom:link>
+      <description>Unlike the total solar eclipse that swept across Europe, the Perseids can be seen at night by anyone in the Northern Hemisphere.</description>
+      <dc:creator>Katrina Miller</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 19:48:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Egyptian Civilization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Egypt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Morocco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Algeria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gibraltar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13trav-eclipse-2027-preview-khqw/13trav-eclipse-2027-preview-khqw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
-      <media:description>The solar eclipse on Wednesday in Castrillo de la Reina, Spain. Next summer’s total solar eclipse will darken a 9,500-mile-long swath from the tip of southern Spain past the Horn of Africa.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-perseids-1-jgpm/12europe-eclipse-perseids-1-jgpm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sergei Gapon/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Meteors over the village of Wigry, Poland, during the Perseids shower in 2024.</media:description>
     </item>
     <item>
       <title>Trump Wants the M.M.R. Vaccine Split Into Three Separate Shots. Doctors Say It’s a Bad Idea.</title>
@@ -270,26 +273,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ritesh Shukla/Getty Images</media:credit>
       <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
-    </item>
-    <item>
-      <title>Trump Administration Kills Annual Arctic Report Card</title>
-      <link>https://www.nytimes.com/2026/08/11/climate/noaa-arctic-report-card.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/climate/noaa-arctic-report-card.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/climate/noaa-arctic-report-card.html" rel="standout"></atom:link>
-      <description>The top of the world is warming faster than any other region. For 20 years, the Arctic Report Card chronicled the extraordinary transformation.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 20:02:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spinrad, Rick</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/climate/11cli-arcticreport/11cli-arcticreport-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Emilio Morenatti/Associated Press</media:credit>
-      <media:description>The Arctic Report Card drew on the expertise of hundreds of scientists and other specialists around the world.</media:description>
     </item>
     <item>
       <title>An Electric Motorcycle Revolution</title>
@@ -368,6 +351,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11CLI-E-MOTORCYCLES-stillpromos-zckl/11CLI-E-MOTORCYCLES-stillpromos-zckl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Asim Hafeez for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The Perseid Meteor Shower Is Peaking. Here’s How to Watch.</title>
+      <link>https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/11/science/perseids-meteor-shower.html" rel="standout"></atom:link>
+      <description>The Perseids will be most active on Wednesday into Thursday morning, on the moonless night after a total solar eclipse.</description>
+      <dc:creator>Katrina Miller</dc:creator>
+      <pubDate>Tue, 11 Aug 2026 09:00:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asteroids</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12SCI-PERSEIDS-ECLIPSE-kgcq/12SCI-PERSEIDS-ECLIPSE-kgcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Darrin Zammit Lupi/Reuters</media:credit>
+      <media:description>Stargazers observing the Perseid meteor shower in Malta in August 2024.</media:description>
     </item>
     <item>
       <title>From Nest to Deathbed, Jackie the Eagle Entranced California and Beyond</title>

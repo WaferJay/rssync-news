@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Thu, 13 Aug 2026 12:03:46 GMT</lastBuildDate>
+<lastBuildDate>Thu, 13 Aug 2026 13:53:21 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -15,7 +15,7 @@
 </image>
 <item>
 <guid isPermaLink="false">lc-wsj-stock-market-today-dow-sp-500-nasdaq-08-13-2026</guid>
-<title>Stock Market Today: Stock Futures Tick Higher</title>
+<title>Stock Market Today: Dow Opens Higher</title>
 <description>Asian markets climb on AI enthusiasm, yields dip</description>
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-13-2026?mod=rss_markets_main</link>
 <pubDate>Thu, 13 Aug 2026 08:31:51 GMT</pubDate>
@@ -251,17 +251,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003814383</guid>
-<title>U.S. Futures Edge Higher After Subdued Inflation Data</title>
-<description>U.S. stock futures ticked higher as traders adjust to predictions that the Federal Reserve won&#x2019;t raise rates imminently.</description>
-<link>https://www.wsj.com/finance/stocks/u-s-futures-edge-higher-after-subdued-inflation-data-74bd7dc4?mod=rss_markets_main</link>
-<pubDate>Thu, 13 Aug 2026 11:15:00 GMT</pubDate>
-<dc:creator>Caitlin McCabe</dc:creator>
-<media:content url="https://images.wsj.net/im-09924062" medium="image" type="image/jpeg">
-<media:credit>Michael M. Santiago/Getty Images</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003813147</guid>
 <title>The Jobless Boom Has Arrived</title>
 <description>The stock market thinks the economy is accelerating. Don&#x2019;t expect jobs to follow.</description>
@@ -298,6 +287,17 @@
 <dc:creator>Rob Curran</dc:creator>
 <media:content url="https://images.wsj.net/im-83917176" medium="image" type="image/jpeg">
 <media:credit>Timothy A. Clary/Agence France-Presse/Getty Images</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003811231</guid>
+<title>How the Bond Market Inflated Powerball</title>
+<description>Plus, AI&#x2019;s bit players delivered</description>
+<link>https://www.wsj.com/finance/stocks/how-the-bond-market-inflated-powerball-4f5b5f26?mod=rss_markets_main</link>
+<pubDate>Wed, 12 Aug 2026 10:35:00 GMT</pubDate>
+<dc:creator>Spencer Jakab</dc:creator>
+<media:content url="https://images.wsj.net/im-18735798" medium="image" type="image/jpeg">
+<media:credit>Matt Rourke/Associated Press</media:credit>
 </media:content>
 </item>
 <item>
@@ -364,6 +364,20 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003814666</guid>
+<title>U.S. Natural Gas Futures Fall Ahead of Storage Data</title>
+<description>U.S. natural gas futures fell ahead of the EIA&#x2019;s weekly inventory report.</description>
+<link>https://www.wsj.com/finance/commodities-futures/european-gas-market-faces-supply-pressures-but-u-s-cargoes-might-ease-some-concerns-9c9f662e?mod=rss_markets_main</link>
+<pubDate>Thu, 13 Aug 2026 13:48:00 GMT</pubDate>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003813871</guid>
+<title>Crude Futures Pull Back After Days of Gains</title>
+<description>Oil prices fell after days of gains, with the U.S. and Iran both claiming to have control over the Strait of Hormuz and still limited shipping through the waterway.</description>
+<link>https://www.wsj.com/finance/commodities-futures/oil-falls-amid-rising-u-s-inventories-8ca9d77f?mod=rss_markets_main</link>
+<pubDate>Thu, 13 Aug 2026 13:35:00 GMT</pubDate>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003814533</guid>
 <title>Basic Materials Roundup: Market Talk</title>
 <description>Find insight on Antofagasta, Glencore, SD Guthrie and more in the latest Market Talks covering basic materials.</description>
@@ -372,13 +386,6 @@
 <media:content url="https://images.wsj.net/im-60048253" medium="image" type="image/jpeg">
 <media:credit>Alexander Manzyuk/Reuters</media:credit>
 </media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003813871</guid>
-<title>Oil Falls Amid Weaker Demand Outlook, Stalled Hormuz Talks</title>
-<description>Oil prices fell as investors assessed a weaker demand outlook and continued to monitor developments in the Middle East, though talks to reopen the Strait of Hormuz remained stalled.</description>
-<link>https://www.wsj.com/finance/commodities-futures/oil-falls-amid-rising-u-s-inventories-8ca9d77f?mod=rss_markets_main</link>
-<pubDate>Thu, 13 Aug 2026 08:03:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003813816</guid>
@@ -396,16 +403,6 @@
 <dc:creator>Adam Whittaker</dc:creator>
 <media:content url="https://images.wsj.net/im-79932078" medium="image" type="image/jpeg">
 <media:credit>Company Suppled Image</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003811401</guid>
-<title>Basic Materials Roundup: Market Talk</title>
-<description>Find insight on gold and silver futures, palm oil, Glencore and more in the latest Market Talks covering basic materials.</description>
-<link>https://www.wsj.com/business/basic-materials-roundup-market-talk-60fb7057?mod=rss_markets_main</link>
-<pubDate>Wed, 12 Aug 2026 21:31:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-60048253" medium="image" type="image/jpeg">
-<media:credit>Alexander Manzyuk/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -503,17 +500,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003811231</guid>
-<title>How the Bond Market Inflated Powerball</title>
-<description>Plus, AI&#x2019;s bit players delivered</description>
-<link>https://www.wsj.com/finance/stocks/how-the-bond-market-inflated-powerball-4f5b5f26?mod=rss_markets_main</link>
-<pubDate>Wed, 12 Aug 2026 10:35:00 GMT</pubDate>
-<dc:creator>Spencer Jakab</dc:creator>
-<media:content url="https://images.wsj.net/im-18735798" medium="image" type="image/jpeg">
-<media:credit>Matt Rourke/Associated Press</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003808145</guid>
 <title>Financial Services Roundup: Market Talk</title>
 <description>Find insight on Legal &amp; General Group, M&amp;G and more in the latest Market Talks covering financial services.</description>
@@ -553,6 +539,17 @@
 <pubDate>Tue, 11 Aug 2026 20:15:00 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-75798666" medium="image" type="image/jpeg">
 <media:credit>Dado Ruvic/Reuters</media:credit>
+</media:content>
+</item>
+<item>
+<guid isPermaLink="false">WP-WSJ-0003809322</guid>
+<title>Bezos Is Among Investors Nearing Deal for Stake in Liverpool Soccer Team</title>
+<description>Investors aim for an agreement with Fenway Sports Group at an $8 billion valuation, with an option to acquire the rest of the team.</description>
+<link>https://www.wsj.com/business/deals/bezos-is-among-investors-nearing-deal-for-liverpool-soccer-team-365f54b5?mod=rss_markets_main</link>
+<pubDate>Tue, 11 Aug 2026 18:43:00 GMT</pubDate>
+<dc:creator>Becky Peterson</dc:creator>
+<media:content url="https://images.wsj.net/im-42259692" medium="image" type="image/jpeg">
+<media:credit>Darren Staples/AFP/Getty Images</media:credit>
 </media:content>
 </item>
 <item>
@@ -618,7 +615,7 @@
 <title>10 of the Best Financial Advisor Companies: Well-Known Fiduciary Investment Firms to Consider</title>
 <description>We analyzed everything from advisor credentials to fees to portfolio options at some of the larger and more well-known registered investment advisor firms to help you select a firm that could best connect you with a fiduciary financial advisor.</description>
 <link>https://www.wsj.com/buyside/personal-finance/financial-advisors/best-financial-advisors?mod=rss_markets_main</link>
-<pubDate>Wed, 12 Aug 2026 12:49:00 GMT</pubDate>
+<pubDate>Thu, 13 Aug 2026 13:07:00 GMT</pubDate>
 <dc:creator>Miranda Marquit</dc:creator>
 <media:content url="https://www.wsj.com/buyside/content-images/a8ae897f-5089-409c-97ed-81063d36da0e" medium="image" type="image/jpeg">
 </media:content>
