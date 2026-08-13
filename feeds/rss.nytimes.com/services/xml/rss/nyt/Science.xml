@@ -7,13 +7,27 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 12 Aug 2026 23:04:12 +0000</lastBuildDate>
-    <pubDate>Wed, 12 Aug 2026 22:59:39 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 03:02:04 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 03:01:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>The Perseids, Summer’s Strongest Meteor Shower, Will Peak Tonight</title>
+      <link>https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html" rel="standout"></atom:link>
+      <description>Unlike the total solar eclipse that swept across Europe, the Perseids can be seen at night by anyone in the Northern Hemisphere.</description>
+      <dc:creator>Katrina Miller</dc:creator>
+      <pubDate>Wed, 12 Aug 2026 19:48:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-perseids-1-jgpm/12europe-eclipse-perseids-1-jgpm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sergei Gapon/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Meteors over the village of Wigry, Poland, during the Perseids shower in 2024.</media:description>
+    </item>
     <item>
       <title>The MOTHRA Telescope Captured the Faint Aftermath of a Star’s Death</title>
       <link>https://www.nytimes.com/2026/08/12/science/mothra-telescope-helix-nebula.html</link>
@@ -43,20 +57,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12SCI-MERGING-BLACKHOLES-01-mgfw/12SCI-MERGING-BLACKHOLES-01-mgfw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris Gunn/NASA</media:credit>
       <media:description>Engineers working with the James Webb Space Telescope’s near-infrared spectrograph. The instrument can tease apart the individual wavelengths of light hitting it, which allowed scientists to observe gases behaving in ways only a black hole’s pull can cause.</media:description>
-    </item>
-    <item>
-      <title>The Perseids, Summer’s Strongest Meteor Shower, Will Peak Tonight</title>
-      <link>https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/science/perseids-meteor-eclipse.html" rel="standout"></atom:link>
-      <description>Unlike the total solar eclipse that swept across Europe, the Perseids can be seen at night by anyone in the Northern Hemisphere.</description>
-      <dc:creator>Katrina Miller</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 19:48:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Meteors and Meteorites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-perseids-1-jgpm/12europe-eclipse-perseids-1-jgpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergei Gapon/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Meteors over the village of Wigry, Poland, during the Perseids shower in 2024.</media:description>
     </item>
     <item>
       <title>See the 2026 European Solar Eclipse, in Photos and Videos</title>
@@ -351,13 +351,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/10/climate/national-academies-climate-chapter-judges.html" rel="standout"></atom:link>
       <description>The National Academies of Sciences, Engineering and Medicine had been under pressure from Republican leaders, including President Trump.</description>
       <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 18:06:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <pubDate>Mon, 10 Aug 2026 18:06:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Academies of Sciences, Engineering and Medicine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Judicial Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Academies of Sciences, Engineering and Medicine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/climate/00CLI-JUDGES-CHAPTER-01/00CLI-JUDGES-CHAPTER-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Kelly/Reuters</media:credit>
       <media:description>Several months ago the Federal Judicial Center, a government agency, also removed the climate chapter from its website under Republican pressure.</media:description>
@@ -482,31 +482,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/06SCI-HEART-DRUG-zfvh/06SCI-HEART-DRUG-zfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tom Little/Reuters</media:credit>
       <media:description>A Novo Nordisk study tested an experimental drug for heart disease patients.</media:description>
-    </item>
-    <item>
-      <title>F.D.A. Approves Moderna’s mRNA Flu Vaccine</title>
-      <link>https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/health/mrna-flu-vaccine-moderna.html" rel="standout"></atom:link>
-      <description>The agency had initially refused to even review the application but reversed course after a public outcry.</description>
-      <dc:creator>Christina Jewett</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 02:24:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Influenza</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Prasad, Vinayak K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-healthcare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-moderna-flu-wjlt/05dc-moderna-flu-wjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bill Sikes/Associated Press</media:credit>
-      <media:description>Moderna has said that the faster new approach used to prepare the vaccine will enable a shift away from the current process of focusing on one flu strain for an entire hemisphere each season and allow each nation to pick its best option.</media:description>
     </item>
   </channel>
 </rss>
