@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 19:26:52 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 18:47:18 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:07:49 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 19:51:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -37,14 +37,14 @@
       <description>China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete.</description>
       <dc:creator>Meaghan Tobin and Amir Hamja</dc:creator>
       <pubDate>Thu, 13 Aug 2026 11:25:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haggerty, Teddy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robo Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robo Inc.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haggerty, Teddy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Biz-US-Robots-01-bgjt/13Biz-US-Robots-01-bgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>As a distributor for Unitree Robotics, Teddy Haggerty had a close-up view of China’s massive robotics industry. He also saw how much demand there was in the United States.</media:description>
     </item>
@@ -103,13 +103,13 @@
       <description>Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.</description>
       <dc:creator>Mike Isaac</dc:creator>
       <pubDate>Thu, 13 Aug 2026 18:47:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dresser, Denise H</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brockman, Greg</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Denise Dresser</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-openai-exec-Denise-Dresser-1-mvjl/13biz-openai-exec-Denise-Dresser-1-mvjl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Shane Anthony Sinclair/Getty Images for Cannes Lions</media:credit>
       <media:description>Denise Dresser, OpenAI’s chief revenue officer, is one of a number of executives to leave OpenAI in recent months.</media:description>
@@ -413,25 +413,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06biz-meta-new-mexico-clph/06biz-meta-new-mexico-clph-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Peter Dasilva/Reuters</media:credit>
       <media:description>A New Mexico judge ordered Meta to pay $567 million and make changes to the way young people can use its platform</media:description>
-    </item>
-    <item>
-      <title>F.C.C. Removes Limit on Broadcast TV Ownership</title>
-      <link>https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/technology/fcc-broadcast-tv-ownership.html" rel="standout"></atom:link>
-      <description>The move lifts a rule that said a single television-station owner could not reach more than 39 percent of U.S. households.</description>
-      <dc:creator>Cecilia Kang</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 20:56:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carr, Brendan Thomas (1979- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06biz-fcc-hpcg/06biz-fcc-hpcg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lexi Parra/The New York Times</media:credit>
-      <media:description>Brendan Carr, the F.C.C. chairman, has investigated and threatened to revoke the television licenses of ABC, NBC and CBS as part of an aggressive campaign to combat what he sees as liberal bias in broadcast television.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 18:11:24 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 18:01:35 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:04:25 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 19:48:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -134,14 +134,14 @@
       <description>China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete.</description>
       <dc:creator>Meaghan Tobin and Amir Hamja</dc:creator>
       <pubDate>Thu, 13 Aug 2026 11:25:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haggerty, Teddy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robo Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robo Inc.</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haggerty, Teddy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Biz-US-Robots-01-bgjt/13Biz-US-Robots-01-bgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>As a distributor for Unitree Robotics, Teddy Haggerty had a close-up view of China’s massive robotics industry. He also saw how much demand there was in the United States.</media:description>
     </item>
@@ -292,13 +292,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/business/consumer-debt-inflation.html" rel="standout"></atom:link>
       <description>Homeowners with low fixed-rate mortgages lead a resilient picture of the economy. But many consumers are frustrated with declining real wages and other loans.</description>
       <dc:creator>Talmon Joseph Smith</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 17:56:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <pubDate>Thu, 13 Aug 2026 19:48:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <media:content height="1124" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12biz-inflation-fed-data-bqvz/12biz-inflation-fed-data-bqvz-mediumSquareAt3X.jpg" width="1124"></media:content>
       <media:credit>Mike Belleme for The New York Times</media:credit>
       <media:description>Mortgage debt balances ticked down in the second quarter of the year.</media:description>

@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 19:25:45 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 17:20:52 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:06:30 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 19:56:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>This Pesticide May Be Too Dangerous to Use. Farmers Say They Need It.</title>
+      <link>https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html" rel="standout"></atom:link>
+      <description>California announced that it’s phasing out paraquat, a pesticide widely used in the United States that is linked to Parkinson’s disease.</description>
+      <dc:creator>Ted Alcorn</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 09:03:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parkinson&#39;s Disease</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Syngenta AG</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/science/00SCI-PARAQUAT-01/00SCI-PARAQUAT-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bill Barksdale/Design Pics Editorial/Universal Images Group, via Getty Images</media:credit>
+      <media:description>American farmers spray millions of pounds of paraquat on crops each year, though experts could not say precisely how much.</media:description>
+    </item>
     <item>
       <title>Telescope Spots Two Black Holes on the Cusp of Merging</title>
       <link>https://www.nytimes.com/2026/08/12/science/space/james-webb-telescope-black-holes-merging.html</link>
@@ -88,13 +104,11 @@
       <description>Mike Fincke spent 459 days in space across four missions, the fourth most time of any NASA astronaut.</description>
       <dc:creator>Adeel Hassan</dc:creator>
       <pubDate>Thu, 13 Aug 2026 16:59:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johnson Space Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space Stations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fincke, Michael (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Space Station</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Isaacman, Jared (1983- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space Stations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-astronaut-qmhz/12xp-astronaut-qmhz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Miguel J. Rodriguez Carrillo/Agence France-Presse — Getty Images</media:credit>
       <media:description>The NASA astronaut Michael Fincke last month at the Kennedy Space Center in Florida.</media:description>
@@ -156,37 +170,20 @@
       <media:credit>Nayara Bueno, via Associated Press</media:credit>
     </item>
     <item>
-      <title>A Four-Ton SpaceX Rocket Stage Hit the Moon, but No One Saw It</title>
-      <link>https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/science/space-x-moon-crash-confirmation.html" rel="standout"></atom:link>
-      <description>Amateur and professional astronomers pointed their telescopes at the impact site. Most did not detect anything.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 21:41:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/05SCI-SpaceX-Moon-Crash-bjmq/05SCI-SpaceX-Moon-Crash-bjmq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergei Grits/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>This Pesticide May Be Too Dangerous to Use. Farmers Say They Need It.</title>
-      <link>https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html" rel="standout"></atom:link>
-      <description>California announced that it’s phasing out paraquat, a pesticide widely used in the United States that is linked to Parkinson’s disease.</description>
-      <dc:creator>Ted Alcorn</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:03:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parkinson&#39;s Disease</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Syngenta AG</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/science/00SCI-PARAQUAT-01/00SCI-PARAQUAT-01-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bill Barksdale/Design Pics Editorial/Universal Images Group, via Getty Images</media:credit>
-      <media:description>American farmers spray millions of pounds of paraquat on crops each year, though experts could not say precisely how much.</media:description>
+      <title>Early-Onset El Niño</title>
+      <link>https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html" rel="standout"></atom:link>
+      <description>The global weather disrupter appears to be taking a toll, and its peak could still be months away.</description>
+      <dc:creator>David Gelles</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 19:28:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kiribati</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
     </item>
     <item>
       <title>The Perseids, Summer’s Strongest Meteor Shower, Will Peak Tonight</title>
