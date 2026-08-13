@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 15:26:27 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 15:23:47 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:22:58 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 15:52:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -29,6 +29,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13wea-europe-heat-wave-bltq/13wea-europe-heat-wave-bltq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Isabel Infantes/Reuters</media:credit>
     </item>
     <item>
       <title>For Many, Eating Hot Soup in the Summer Is a Classic Way to Cool Down</title>
@@ -81,7 +83,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v15.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v17.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -91,26 +93,15 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html" rel="standout"></atom:link>
       <description>Soaring temperatures, widespread wildfires and dried-up rivers are transforming tourism across the continent. Here’s how travelers are responding.</description>
       <dc:creator>Ryley Ober</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 20:06:39 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 20:06:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Travel Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crete (Greece)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Danube River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
     </item>
     <item>
       <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>

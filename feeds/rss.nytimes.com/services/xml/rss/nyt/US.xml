@@ -3,25 +3,112 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1786634588571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 15:23:08 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 15:21:44 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:19:35 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 16:17:52 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
     <item>
-      <title>How a Covid-Era Scramble Transformed Supreme Court Arguments</title>
+      <title>California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier</title>
+      <link>https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html" rel="standout"></atom:link>
+      <description>A bill would allow Jews to identify themselves as an ethnic group on state forms. Supporters argue it’s a step toward acknowledging the complex nature of Jewish identity.</description>
+      <dc:creator>Yair Rosenberg</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 16:17:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13nat-jewish-bill-jzgq/13nat-jewish-bill-jzgq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Gabriela Bhaskar/The New York Times</media:credit>
+      <media:description>A bill facing a pivotal committee vote in the California Legislature would require state agencies to include an optional box for Jewish ethnicity on all demographic data forms.</media:description>
+    </item>
+    <item>
+      <title>Judge Dismisses Federal Government’s Antisemitism Case Against Harvard</title>
+      <link>https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html" rel="standout"></atom:link>
+      <description>The government argued the university had not done enough to combat antisemitism during campus protests. A judge called the incidents “isolated and episodic.”</description>
+      <dc:creator>Mark Arsenault</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 16:06:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13nat-harvard-1-mbqh/13nat-harvard-1-mbqh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cody O&#39;Loughlin for The New York Times</media:credit>
+      <media:description>A judge said that antisemitic incidents on the Cambridge, Mass., campus were “isolated and episodic.”</media:description>
+    </item>
+    <item>
+      <title>U.S. Investigated Left-Leaning Groups During Minnesota’s Immigration Crackdown</title>
+      <link>https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html" rel="standout"></atom:link>
+      <description>The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.</description>
+      <dc:creator>Alan Feuer and Ernesto Londoño</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 16:01:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Attorneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Service Employees International Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sunrise Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communications Workers of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosen, Daniel N (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pretti, Alex Jeffrey (1988-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Good, Renee Nicole (1988-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/dc-minn-whjk/dc-minn-whjk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>People marched through downtown Minneapolis in late January to protest the Trump administration’s immigration crackdown in Minnesota.</media:description>
+    </item>
+    <item>
+      <title>After Supreme Court Losses, Trump Keeps Pushing</title>
+      <link>https://www.nytimes.com/2026/08/13/us/politics/the-docket-supreme-court-trump-losses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/the-docket-supreme-court-trump-losses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/the-docket-supreme-court-trump-losses.html" rel="standout"></atom:link>
+      <description>Is the administration defying the court or pursuing lawful alternatives?</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 16:01:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Citizenship and Naturalization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13thedocket-nl-top-tfwz/13thedocket-nl-top-tfwz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>President Trump has said that three Supreme Court rulings will not stand in his way and that other paths exist to get to where he wants to go.</media:description>
+    </item>
+    <item>
+      <title>How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions</title>
       <link>https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html" rel="standout"></atom:link>
       <description>Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.</description>
       <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:12:37 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 14:12:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
@@ -56,13 +143,13 @@
       <media:description>Representative Jason Crow, Democrat of Colorado, has asked Defense Secretary Pete Hegseth to provide a written response clarifying his testimony by Sept. 10.</media:description>
     </item>
     <item>
-      <title>Three States to Execute Inmates on the Same Day</title>
+      <title>Oklahoma Becomes First of Three States to Execute Inmates on the Same Day</title>
       <link>https://www.nytimes.com/2026/08/13/us/tennessee-alabama-oklahoma-executions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/tennessee-alabama-oklahoma-executions.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/13/us/tennessee-alabama-oklahoma-executions.html" rel="standout"></atom:link>
-      <description>One of the planned executions, in Tennessee, comes months after the state called off the execution of another inmate when medical staff could not find a vein for the lethal injection.</description>
+      <description>Executions were also scheduled in Alabama and Tennessee, which faces scrutiny over a failed execution last month.</description>
       <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:41:35 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 16:01:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -101,7 +188,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html" rel="standout"></atom:link>
       <description>Wyoming, one of the most conservative states, has a legislature divided between a hard-right House and a merely right Senate. Ultraconservatives want a complete takeover in the Aug. 18 primaries.</description>
       <dc:creator>David W. Chen and Will Warasila</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 13:45:53 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 15:30:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -171,14 +258,18 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html" rel="standout"></atom:link>
       <description>The baby, who was born Wednesday with a severe heart defect, drew the attention of anti-abortion activists and the Texas attorney general after the intended parents wanted the surrogate mother to have an abortion.</description>
       <dc:creator>J. David Goodman</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 03:06:54 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 15:53:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Defects</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surrogate Motherhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parental Rights Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/us/12nat-txsurrogate/12nat-txsurrogate-mediumSquareAt3X-v5.jpg" width="1800"></media:content>
       <media:credit>McKenna West</media:credit>
       <media:description>A pregnant McKenna West, who has been the face of a surrogate dispute spanning three states.</media:description>
@@ -213,21 +304,19 @@
       <description>Defense Secretary Pete Hegseth urged Latin American military leaders gathered in Panama to ramp up their efforts alongside U.S. forces.</description>
       <dc:creator>Eric Schmitt and Annie Correal</dc:creator>
       <pubDate>Wed, 12 Aug 2026 23:49:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US Strikes on Alleged Drug Traffickers (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smuggling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Targeted Killings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gangs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Caribbean Area</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12dc-hegseth-latam-01-hqkg/12dc-hegseth-latam-01-hqkg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Matias Delacroix/Associated Press</media:credit>
       <media:description>U.S. Defense Secretary Pete Hegseth speaks at a forum of the Americas Counter Cartel Coalition in Panama City, Wednesday.</media:description>
@@ -489,7 +578,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/with-big-choices-ahead-ocasio-cortez-navigates-new-territory.html" rel="standout"></atom:link>
       <description>Representative Alexandria Ocasio-Cortez’s sharing of her decision to freeze her eggs, the news that her longtime relationship had ended and talk of a presidential run have intensified the debates that swirl around her.</description>
       <dc:creator>Annie Karni</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 22:01:28 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 15:43:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ocasio-Cortez, Alexandria</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
@@ -498,9 +587,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Egg Donation and Freezing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12dc-aoc-top-hvtz/12dc-aoc-top-hvtz-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Celeste Sloman for The New York Times</media:credit>
-      <media:description>Representative Alexandria Ocasio-Cortez</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/12/multimedia/12dc-aoc-new-mjbc/12dc-aoc-new-mjbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>Representative Alexandria Ocasio-Cortez at the Capitol this year.</media:description>
     </item>
     <item>
       <title>Three Questions for Democrats After an Eye-Opening Loss for Progressives</title>
@@ -648,29 +737,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12nat-minn-stabbing-1-pkwl/12nat-minn-stabbing-1-pkwl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mark Vancleave/Associated Press</media:credit>
       <media:description>Law enforcement responded to a call at a home day care in Hopkins, Minn.</media:description>
-    </item>
-    <item>
-      <title>ICE Plans to Give Officers Gloves That Can Deliver Electric Shocks</title>
-      <link>https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/ice-gloves-shock.html" rel="standout"></atom:link>
-      <description>The Department of Homeland Security described the gloves as a “de-escalation device,” but critics said they could encourage agents to use more force.</description>
-      <dc:creator>Madeleine Ngo and Shaila Dewan</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 19:19:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gloves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stun Guns</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12dc-ice-gloves-gfjz/12dc-ice-gloves-gfjz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>The government could spend up to $20 million to equip immigration officers with the gloves.</media:description>
     </item>
   </channel>
 </rss>

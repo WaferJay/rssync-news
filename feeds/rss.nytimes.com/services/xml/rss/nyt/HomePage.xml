@@ -7,13 +7,43 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 15:25:01 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 15:23:47 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:19:31 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 16:14:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com</link>
     </image>
+    <item>
+      <title>U.S. Investigated Left-Leaning Groups During Minnesota’s Immigration Crackdown</title>
+      <link>https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html" rel="standout"></atom:link>
+      <description>The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.</description>
+      <dc:creator>Alan Feuer and Ernesto Londoño</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 16:01:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Attorneys</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Service Employees International Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sunrise Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communications Workers of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rosen, Daniel N (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pretti, Alex Jeffrey (1988-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Good, Renee Nicole (1988-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/dc-minn-whjk/dc-minn-whjk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+      <media:description>People marched through downtown Minneapolis in late January to protest the Trump administration’s immigration crackdown in Minnesota.</media:description>
+    </item>
     <item>
       <title>Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.</title>
       <link>https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html</link>
@@ -53,43 +83,6 @@
       <media:description>The popularity of gun suppressors, once a niche accessory, has skyrocketed.</media:description>
     </item>
     <item>
-      <title>New Yorkers Who Lost Insurance After Trump Cuts Face Hard Choices</title>
-      <link>https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/nyregion/new-york-health-insurance-trump-cuts.html" rel="standout"></atom:link>
-      <description>New York State’s generous health plan for working-class people was hit hard by federal funding cuts. More than 400,000 people are now looking for new coverage or living without it.</description>
-      <dc:creator>Emma G. Fitzsimmons</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:26:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13met-insurance-loss-lfmw/13met-insurance-loss-lfmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Katie Orlinsky for The New York Times</media:credit>
-      <media:description>Health experts have warned that the number of uninsured New Yorkers will rise as people struggle to afford private plans after losing their low-cost, federally subsidized coverage.</media:description>
-    </item>
-    <item>
-      <title>ICE’s Plan to Give Officers Electric Stun Gloves, and a Siege on Palestinian Homes</title>
-      <link>https://www.nytimes.com/2026/08/13/podcasts/the-headlines/ice-electric-stun-gloves-palestinian-families.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/podcasts/the-headlines/ice-electric-stun-gloves-palestinian-families.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/podcasts/the-headlines/ice-electric-stun-gloves-palestinian-families.html" rel="standout"></atom:link>
-      <description>Plus, health candy?</description>
-      <dc:creator>Tracy Mumford, Will Jarvis, Margaret Kadifa, Jake Lucas, Ian Stewart, David M. Halbfinger and Chico Harlan</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 10:00:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1353" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13theheadlines-gloves-phwj/13theheadlines-gloves-phwj-mediumSquareAt3X.jpg" width="1354"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>The Department of Homeland Security described planned gloves as a “de-escalation device,” but critics said they could encourage agents to use more force.</media:description>
-    </item>
-    <item>
       <title>Russian Blockade of Major Ukrainian Ports Threatens Global Grain Supplies</title>
       <link>https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html</guid>
@@ -107,12 +100,14 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
       <media:content height="1283" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-ukraine-ports-01-lvhk/12int-ukraine-ports-01-lvhk-mediumSquareAt3X-v2.jpg" width="1283"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>A vessel struck off the coast of Odesa, Ukraine, last month. The Russian campaign has halted nearly all shipping in and out of the port.</media:description>
     </item>
     <item>
-      <title>For Trump, Secret Flight Was a Stunning Ruse. For Putin, ‘a Regular Tuesday.’</title>
+      <title>Trump’s Plane Switch Ruse Pales in Comparison With Putin’s Secrecy</title>
       <link>https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/trump-flight-putin-security.html" rel="standout"></atom:link>
@@ -178,7 +173,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html" rel="standout"></atom:link>
       <description>Wyoming, one of the most conservative states, has a legislature divided between a hard-right House and a merely right Senate. Ultraconservatives want a complete takeover in the Aug. 18 primaries.</description>
       <dc:creator>David W. Chen and Will Warasila</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 13:45:53 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 15:30:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -218,9 +213,9 @@
       <link>https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html" rel="standout"></atom:link>
-      <description>Mr. Mangione faces stalking charges in connection with the killing of an executive in Manhattan. Mr. Mangione could always change his mind at the last minute. A separate murder trial is set to begin next month.</description>
+      <description>Mr. Mangione faces stalking charges resulting in the death of an executive in Manhattan. Mr. Mangione could always change his mind at the last minute. A separate murder trial is set to begin next month.</description>
       <dc:creator>Benjamin Weiser, Devlin Barrett and Hurubie Meko</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 13:15:31 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 16:14:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Double Jeopardy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
@@ -252,9 +247,100 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Iger, Robert A</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Joshua</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/IGER-KUSHNER-1-mfwb/IGER-KUSHNER-1-mfwb-mediumSquareAt3X-v2.jpg" width="1799"></media:content>
+      <media:content height="1762" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/IGER-KUSHNER-1-mfwb/IGER-KUSHNER-1-mfwb-mediumSquareAt3X-v3.jpg" width="1762"></media:content>
       <media:credit>Sarah Stier/Getty Images</media:credit>
       <media:description>From left, the N.B.A.’s commissioner, Adam Silver, joined Joshua Kushner and Bob Iger at the 2025 U.S. Open tennis tournament.</media:description>
+    </item>
+    <item>
+      <title>Happy Hour With the Vanishing Nuns of New York</title>
+      <link>https://www.nytimes.com/2026/08/13/nyregion/last-nuns-new-york-city.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/nyregion/last-nuns-new-york-city.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/nyregion/last-nuns-new-york-city.html" rel="standout"></atom:link>
+      <description>As convents are closing all over, the sisters are facing the end of their lives together — and they have brought the party to an assisted living center in the suburbs.</description>
+      <dc:creator>John Leland and Roshni Khatri</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 15:25:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement Communities and Assisted Living</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Empathy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Loneliness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elder Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roman Catholic Church</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sisters of Divine Compassion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/30/multimedia/30met-aging-nuns-top-01-tcmh/30met-aging-nuns-top-01-tcmh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>Having sold their convent, the Sisters of Divine Compassion (from left, Sister Joanne Fallon, Sister Mary Stephen Healey, Sister Mary Alice O’Brien, and Sister Jane Keegan) now gather at the Wartburg home in Mount Vernon, N.Y.</media:description>
+    </item>
+    <item>
+      <title>How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions</title>
+      <link>https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html" rel="standout"></atom:link>
+      <description>Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 14:12:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington University</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Lee</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Ketanji Brown (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagan, Elena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Posner, Eric A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas, Clarence</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00dc-scotus-argumentd-fpgw/00dc-scotus-argumentd-fpgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Moneymaker/The New York Times</media:credit>
+      <media:description>Stopgap measures the Supreme Court began in 2020 during Covid have led to fundamental changes in the court’s signature public arguments.</media:description>
+    </item>
+    <item>
+      <title>How a Longshot U.S. Oil Drilling Project Is Shaking Up Greenland</title>
+      <link>https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html" rel="standout"></atom:link>
+      <description>A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.</description>
+      <dc:creator>Jeffrey Gettleman and Maya Tekeli</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 15:26:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Musk Oxen</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ARCO (Atlantic Richfield Co)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Griffin, Kenneth C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McGraw, Phillip C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greenland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ittoqqortoormiit, Greenland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">80 Mile Plc.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Greenland Energy Co.</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Esther Horvath for The New York Times</media:credit>
+      <media:description>Ittoqqortoormiit, a settlement in eastern Greenland. The remote area has been targeted by a U.S.-British joint venture for potential oil exploration.</media:description>
+    </item>
+    <item>
+      <title>Europe Is Once Again In the Grip of Extreme Heat</title>
+      <link>https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html" rel="standout"></atom:link>
+      <description>The latest round of extreme temperatures, the fifth since May, is disrupting daily life and testing the region’s resilience.</description>
+      <dc:creator>Nazaneen Ghaffar and Lynsey Chutel</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 13:52:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13wea-europe-heat-wave-bltq/13wea-europe-heat-wave-bltq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Isabel Infantes/Reuters</media:credit>
     </item>
     <item>
       <title>In a Chinese Leader’s Death, Mourning for a More Hopeful Time</title>
@@ -291,116 +377,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-china-premier-01-hjtf/13int-china-premier-01-hjtf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maxim Shemetov/Reuters</media:credit>
       <media:description>The official obituary of Zhu Rongji, at a newsstand in Beijing on Thursday. </media:description>
-    </item>
-    <item>
-      <title>Europe Is Once Again In the Grip of Extreme Heat</title>
-      <link>https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html" rel="standout"></atom:link>
-      <description>The latest round of extreme temperatures, the fifth since May, is disrupting daily life and testing the region’s resilience.</description>
-      <dc:creator>Nazaneen Ghaffar and Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 13:52:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-    </item>
-    <item>
-      <title>‘An English Summer Is Not the Same Anymore’</title>
-      <link>https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html" rel="standout"></atom:link>
-      <description>With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.</description>
-      <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:32:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Met Office (United Kingdom)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-heat-wfmg/13int-uk-heat-wfmg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Toby Melville/Reuters</media:credit>
-      <media:description>Sunrise in London on an amber warning day last week. More extreme heat is forecast.</media:description>
-    </item>
-    <item>
-      <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>
-      <link>https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
-      <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
-      <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:53:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ritesh Shukla/Getty Images</media:credit>
-      <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
-    </item>
-    <item>
-      <title>I Tested a Popular A.I. Slop Detector. It Felt Empowering.</title>
-      <link>https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html" rel="standout"></atom:link>
-      <description>Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images.</description>
-      <dc:creator>Brian X. Chen</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:04:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pangram Labs Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Every Media Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/business/12biz-techfix/12biz-techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sisi Yu</media:credit>
-    </item>
-    <item>
-      <title>So You Want to Build an A.I. Star?</title>
-      <link>https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/arts/ai-podcasts-fashion-pop-avatars.html" rel="standout"></atom:link>
-      <description>Designers at a new crop of creative studios create fake personas they hope real people will love. Are they distorting culture or mirroring it?</description>
-      <dc:creator>Reggie Ugwu</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Models (Professional)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotify</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Inception Point AI</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
-    </item>
-    <item>
-      <title>How a Covid-Era Scramble Transformed Supreme Court Arguments</title>
-      <link>https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html" rel="standout"></atom:link>
-      <description>Live audio, a new format and new voices have transformed and unsettled the court’s signature public ceremony.</description>
-      <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:12:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Lee</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Ketanji Brown (1970- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagan, Elena</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Posner, Eric A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas, Clarence</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00dc-scotus-argumentd-fpgw/00dc-scotus-argumentd-fpgw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anna Moneymaker/The New York Times</media:credit>
-      <media:description>Stopgap measures the Supreme Court began in 2020 during Covid have led to fundamental changes in the court’s signature public arguments.</media:description>
     </item>
     <item>
       <title>What’s Happening in Kansas Should Alarm Us All</title>
@@ -467,20 +443,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13themorning-nl-fhkg/13themorning-nl-fhkg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Christian Hartmann/Reuters</media:credit>
       <media:description>The eclipse as seen from Spain. </media:description>
-    </item>
-    <item>
-      <title>Late Night Ribs Trump for Leaving Staff Behind on Air Force One</title>
-      <link>https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/arts/television/late-night-trump-air-force-one-catering.html" rel="standout"></atom:link>
-      <description>Anthony Anderson, the guest host of “Jimmy Kimmel Live,” called the ruse in which President Trump exited the plane in a catering container “Operation Pig in a Blanket.”</description>
-      <dc:creator>Trish Bendix</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 06:22:11 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fallon, Jimmy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Jimmy Kimmel Live (TV Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anderson, Anthony</category>
     </item>
     <item>
       <title>Outdoor Dining Is Expected to Resume Year-Round in New York City</title>

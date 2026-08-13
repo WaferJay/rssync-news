@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 15:25:35 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 15:12:50 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 16:22:54 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 15:52:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -152,7 +152,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html" rel="standout"></atom:link>
       <description>The city of Belém in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.</description>
       <dc:creator>Apoorva Mandavilli and Alessandro Falco</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:49:55 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 14:49:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dengue Fever</category>
@@ -171,7 +171,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html" rel="standout"></atom:link>
       <description>A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.</description>
       <dc:creator>Jeffrey Gettleman and Maya Tekeli</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 15:12:50 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 15:26:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
@@ -194,6 +194,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Esther Horvath for The New York Times</media:credit>
       <media:description>Ittoqqortoormiit, a settlement in eastern Greenland. The remote area has been targeted by a U.S.-British joint venture for potential oil exploration.</media:description>
+    </item>
+    <item>
+      <title>‘An English Summer Is Not the Same Anymore’</title>
+      <link>https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/world/europe/uk-heat-climate-change.html" rel="standout"></atom:link>
+      <description>With forecasters issuing a warning for very high temperatures, this summer is on track to be one of the hottest yet.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 09:32:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Met Office (United Kingdom)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-heat-wfmg/13int-uk-heat-wfmg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Toby Melville/Reuters</media:credit>
+      <media:description>Sunrise in London on an amber warning day last week. More extreme heat is forecast.</media:description>
     </item>
     <item>
       <title>Arabian Sea Bird and Turtle Habitat Threatened by Oil From Grounded Tanker</title>
@@ -220,26 +239,15 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html" rel="standout"></atom:link>
       <description>Soaring temperatures, widespread wildfires and dried-up rivers are transforming tourism across the continent. Here’s how travelers are responding.</description>
       <dc:creator>Ryley Ober</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 20:06:39 +0000</pubDate>
+      <pubDate>Wed, 12 Aug 2026 20:06:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Travel Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bordeaux (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crete (Greece)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Danube River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gironde (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
     </item>
     <item>
       <title>Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough</title>
