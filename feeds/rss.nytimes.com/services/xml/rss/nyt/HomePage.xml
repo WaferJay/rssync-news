@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 18:12:37 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 18:07:49 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:30:16 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 19:23:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html" rel="standout"></atom:link>
       <description>The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.</description>
       <dc:creator>Julia Jacobs</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 17:56:54 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:23:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restoration and Renovation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
@@ -59,7 +59,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html" rel="standout"></atom:link>
       <description>The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.</description>
       <dc:creator>Alan Feuer and Ernesto Londoño</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 16:35:42 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 18:15:50 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
@@ -83,13 +83,33 @@
       <media:description>People marched through downtown Minneapolis in late January to protest the Trump administration’s immigration crackdown in Minnesota.</media:description>
     </item>
     <item>
+      <title>Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved</title>
+      <link>https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html" rel="standout"></atom:link>
+      <description>U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.</description>
+      <dc:creator>Hamed Aleaziz</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 18:08:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nineteen Hundred Twenties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miller, Stephen (1985- )</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/09/multimedia/00dc-immig-crackdown-wlmt/00dc-immig-crackdown-wlmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Library of Congress</media:credit>
+      <media:description>President Calvin Coolidge signing the restrictive Immigration Act of 1924 on the White House South Lawn.</media:description>
+    </item>
+    <item>
       <title>Inside the Democratic Socialists of America’s Audacious Quest for Power</title>
       <link>https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/13/magazine/democratic-socialism-dsa-elections-primaries.html" rel="standout"></atom:link>
       <description>Democratic Socialists are capturing more votes than ever before — even as they run up against the limits of their appeal.</description>
       <dc:creator>Charles Homans</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 17:12:20 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 18:42:17 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
@@ -102,25 +122,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Obama, Barack</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-    </item>
-    <item>
-      <title>In This State, an Intense Fight in the G.O.P. for Control of the Right</title>
-      <link>https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html" rel="standout"></atom:link>
-      <description>Wyoming, one of the most conservative states, has a legislature divided between a hard-right House and a merely right Senate. Ultraconservatives want a complete takeover in the Aug. 18 primaries.</description>
-      <dc:creator>David W. Chen and Will Warasila</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 15:30:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, State Legislature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Driskill, Ogden (1959- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13nat-wyoming-legislature-top-grid--02-vpwq/13nat-wyoming-legislature-top-grid--02-vpwq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Will Warasila for The New York Times</media:credit>
     </item>
     <item>
       <title>How Thanksgiving Became Political: Francesca Hong’s Tweets Explained</title>
@@ -174,7 +175,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html" rel="standout"></atom:link>
       <description>A bill would allow Jews to identify themselves as an ethnic group on state forms. Supporters argue it’s a step toward acknowledging the complex nature of Jewish identity.</description>
       <dc:creator>Yair Rosenberg</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 18:03:19 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 18:14:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
@@ -225,6 +226,25 @@
       <media:description>Having sold their convent, the Sisters of Divine Compassion (from left, Sister Joanne Fallon, Sister Mary Stephen Healey, Sister Mary Alice O’Brien, and Sister Jane Keegan) now gather at the Wartburg home in Mount Vernon, N.Y.</media:description>
     </item>
     <item>
+      <title>A City Mobilizes Against a Stubborn Health Threat: Mosquitoes</title>
+      <link>https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html" rel="standout"></atom:link>
+      <description>The city of Belém in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.</description>
+      <dc:creator>Apoorva Mandavilli and Alessandro Falco</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 14:49:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dengue Fever</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chikungunya Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belem (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00dc-mosquitoes-top-01-zmbl/00dc-mosquitoes-top-01-zmbl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>A health worker discarding water from a larvicide dissemination unit in Belém, Brazil, last month.</media:description>
+    </item>
+    <item>
       <title>How Supreme Court Oral Arguments Have Transformed Since Covid-Era Precautions</title>
       <link>https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/supreme-court-changing-oral-arguments.html</guid>
@@ -272,13 +292,13 @@
       <media:description>President Trump has said that three Supreme Court rulings will not stand in his way and that other paths exist to get to where he wants to go.</media:description>
     </item>
     <item>
-      <title>How a Longshot U.S. Oil Drilling Project Is Shaking Up Greenland</title>
+      <title>How a Long-Shot U.S. Oil Drilling Project Is Shaking Up Greenland</title>
       <link>https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/13/world/europe/greenland-oil-project-us-dr-phil.html" rel="standout"></atom:link>
       <description>A U.S. oil company says it could be on the verge of a major discovery in Greenland. The proposal comes at a tricky time for the Arctic island, and locals are lining up against it.</description>
       <dc:creator>Jeffrey Gettleman and Maya Tekeli</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 16:26:25 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 18:22:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Territorial Disputes</category>
@@ -298,45 +318,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ittoqqortoormiit, Greenland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">80 Mile Plc.</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Greenland Energy Co.</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/00int-greenland-oil-01-jbqm/00int-greenland-oil-01-jbqm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Esther Horvath for The New York Times</media:credit>
       <media:description>Ittoqqortoormiit, a settlement in eastern Greenland. The remote area has been targeted by a U.S.-British joint venture for potential oil exploration.</media:description>
-    </item>
-    <item>
-      <title>In a Chinese Leader’s Death, Mourning for a More Hopeful Time</title>
-      <link>https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html" rel="standout"></atom:link>
-      <description>Tributes for former Premier Zhu Rongji reflect nostalgia for an era when China was opening to the world and the future seemed more prosperous and hopeful.</description>
-      <dc:creator>Li Yuan</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 15:19:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Rongji</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Biz-Newworld-Zhu-01-tlcg/13Biz-Newworld-Zhu-01-tlcg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Maxim Shemetov/Reuters</media:credit>
-      <media:description>Former Premier Zhu Rongji of China died on Wednesday. He was memorialized in Beijing.</media:description>
-    </item>
-    <item>
-      <title>How China Remembers Zhu Rongji, the Premier Who Spoke His Mind</title>
-      <link>https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/world/asia/china-premier-zhu-rongji-reaction.html" rel="standout"></atom:link>
-      <description>Tributes to the former premier recalled his spirited style and his efforts to integrate China into global commerce, in contrast with the rigidity of the Xi era.</description>
-      <dc:creator>Chris Buckley</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 11:21:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Communist Party of China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">People&#39;s Daily</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gewirtz,  Julian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Li Keqiang</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Rongji</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-china-premier-01-hjtf/13int-china-premier-01-hjtf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Maxim Shemetov/Reuters</media:credit>
-      <media:description>The official obituary of Zhu Rongji, at a newsstand in Beijing on Thursday. </media:description>
     </item>
     <item>
       <title>The Golden Age of Mexican Food Is Here. And It’s Complicated.</title>
@@ -398,13 +382,13 @@
       <media:credit>Anne Vetter for The New York Times</media:credit>
     </item>
     <item>
-      <title>The Board of Peace Road Map for Gaza Gives Hope</title>
+      <title>Hamas Has No More Cards to Play</title>
       <link>https://www.nytimes.com/2026/08/13/opinion/gaza-hamas-israel-disarmament-palestinians.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/opinion/gaza-hamas-israel-disarmament-palestinians.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/13/opinion/gaza-hamas-israel-disarmament-palestinians.html" rel="standout"></atom:link>
       <description>The signs point to Hamas being serious about disarming. The recent Board of Peace plan for it to surrender its weapons should be carried out.</description>
       <dc:creator>Muhammad Shehada</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 15:00:06 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 18:35:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Peace Process</category>
@@ -425,42 +409,19 @@
       <media:credit>Amir Cohen/Reuters</media:credit>
     </item>
     <item>
-      <title>A Celestial Wonder</title>
-      <link>https://www.nytimes.com/2026/08/13/briefing/solar-eclipse-photos.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/briefing/solar-eclipse-photos.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/briefing/solar-eclipse-photos.html" rel="standout"></atom:link>
-      <description>We’re sharing photos from yesterday’s total solar eclipse.</description>
-      <dc:creator>Matthew Cullen</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 10:43:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eclipses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Moon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13themorning-nl-fhkg/13themorning-nl-fhkg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Christian Hartmann/Reuters</media:credit>
-      <media:description>The eclipse as seen from Spain. </media:description>
-    </item>
-    <item>
-      <title>Topos Azteca, a Mexican Volunteer Rescue Group, Helps With Rescue Efforts After Colombia Earthquake</title>
-      <link>https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/world/americas/topos-azteca-rescue-efforts-colombia-earthquake.html" rel="standout"></atom:link>
-      <description>Topos Azteca, a Mexican volunteer rescue group that works worldwide and helped after the Sept. 11 attacks, arrived in Colombia after searching for survivors in Venezuela.</description>
-      <dc:creator>Genevieve Glatsky and Federico Rios</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 17:16:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colombia Earthquake (August 10, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Volunteers and Community Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cali (Colombia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">La Guaira (Venezuela)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/world/13int-colombia-quake-rescue-promo/13int-colombia-quake-rescue-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Federico Rios for The New York Times</media:credit>
-      <media:description>A member of Topos Azteca working among the rubble on Wednesday in Cali, Colombia.</media:description>
+      <title>In a Chinese Leader’s Death, Mourning for a More Hopeful Time</title>
+      <link>https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/business/zhu-rongji-death-mourning-china.html" rel="standout"></atom:link>
+      <description>Tributes for former Premier Zhu Rongji reflect nostalgia for an era when China was opening to the world and the future seemed more prosperous and hopeful.</description>
+      <dc:creator>Li Yuan</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 15:19:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhu Rongji</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Biz-Newworld-Zhu-01-tlcg/13Biz-Newworld-Zhu-01-tlcg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maxim Shemetov/Reuters</media:credit>
+      <media:description>Former Premier Zhu Rongji of China died on Wednesday. He was memorialized in Beijing.</media:description>
     </item>
   </channel>
 </rss>

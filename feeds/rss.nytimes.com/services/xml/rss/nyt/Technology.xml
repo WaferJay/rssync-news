@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 18:09:19 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 17:31:23 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 19:26:52 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 18:47:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -94,6 +94,25 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07biz-river-ai--01-fpmc/07biz-river-ai--01-fpmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Poppy Lynch for The New York Times</media:credit>
       <media:description>Igor Babuschkin built a new start-up, River AI, and hopes to provide ways for people to “retrain,” or modify, artificial intelligence as they see fit.</media:description>
+    </item>
+    <item>
+      <title>Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up</title>
+      <link>https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html" rel="standout"></atom:link>
+      <description>Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 18:47:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brockman, Greg</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Denise Dresser</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-openai-exec-Denise-Dresser-1-mvjl/13biz-openai-exec-Denise-Dresser-1-mvjl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Shane Anthony Sinclair/Getty Images for Cannes Lions</media:credit>
+      <media:description>Denise Dresser, OpenAI’s chief revenue officer, is one of a number of executives to leave OpenAI in recent months.</media:description>
     </item>
     <item>
       <title>3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says</title>
@@ -413,27 +432,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06biz-fcc-hpcg/06biz-fcc-hpcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lexi Parra/The New York Times</media:credit>
       <media:description>Brendan Carr, the F.C.C. chairman, has investigated and threatened to revoke the television licenses of ABC, NBC and CBS as part of an aggressive campaign to combat what he sees as liberal bias in broadcast television.</media:description>
-    </item>
-    <item>
-      <title>French Streamers Convicted in Case Related to Kick Livestream Death</title>
-      <link>https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/world/europe/french-streamers-kick-death-convicted.html" rel="standout"></atom:link>
-      <description>The two men, users of the platform Kick, received suspended sentences and fines.</description>
-      <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 00:17:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kick.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nice (France)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graven, Raphael</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cenazandotti, Owen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hamadi, Safine</category>
-      <media:content height="1268" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06xp-french-streamers-promo/06xp-french-streamers-promo-mediumSquareAt3X.png" width="1268"></media:content>
-      <media:credit>Valery Hache/Agence France-Presse — Getty Images</media:credit>
     </item>
   </channel>
 </rss>
