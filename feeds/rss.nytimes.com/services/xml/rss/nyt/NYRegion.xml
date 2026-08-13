@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 08:46:29 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 07:25:50 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 10:31:18 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 09:10:31 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -190,6 +190,44 @@
       <media:description>The tax applies to condos and co-ops that are used as second homes and have a “market value” of at least $1 million, as determined by the Finance Department.</media:description>
     </item>
     <item>
+      <title>Mamdani to Give Free Broadway Tickets to High Schoolers</title>
+      <link>https://www.nytimes.com/2026/08/13/nyregion/mamdani-to-give-free-broadway-tickets-to-high-schoolers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/nyregion/mamdani-to-give-free-broadway-tickets-to-high-schoolers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/nyregion/mamdani-to-give-free-broadway-tickets-to-high-schoolers.html" rel="standout"></atom:link>
+      <description>The administration is announcing plans for a lottery to give away more than 2,000 tickets to seven shows, including “Two Strangers (Carry a Cake Across New York).”</description>
+      <dc:creator>James Barron</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 09:03:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13nytoday-zfwb/13nytoday-zfwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeenah Moon for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Homes for Sale in New York and New Jersey</title>
+      <link>https://www.nytimes.com/2026/08/13/realestate/housing-market-near-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/realestate/housing-market-near-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/realestate/housing-market-near-nyc.html" rel="standout"></atom:link>
+      <description>This week’s properties are a two-bedroom condo in Pelham, N.Y., and a four-bedroom house in Wayne Township, N.J.</description>
+      <dc:creator>Anne Mancuso and Jill P. Capuzzo</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 09:03:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wayne (NJ)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pelham (NY)</category>
+    </item>
+    <item>
+      <title>Homes for Sale in Manhattan and Queens</title>
+      <link>https://www.nytimes.com/2026/08/13/realestate/housing-market-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/realestate/housing-market-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/realestate/housing-market-nyc.html" rel="standout"></atom:link>
+      <description>This week’s properties are in Kips Bay, Yorkville and Long Island City.</description>
+      <dc:creator>Heather Senison</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 09:03:47 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kips Bay (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yorkville (Manhattan, NY)</category>
+    </item>
+    <item>
       <title>Outdoor Dining Is Expected to Resume Year-Round in New York City</title>
       <link>https://www.nytimes.com/2026/08/13/nyregion/outdoor-dining-is-expected-to-resume-year-round-in-new-york-city.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/nyregion/outdoor-dining-is-expected-to-resume-year-round-in-new-york-city.html</guid>
@@ -354,86 +392,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East River (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liberty Island (NYC)</category>
-    </item>
-    <item>
-      <title>Trump Sues New York and Other States Over In-State Tuition for Migrants</title>
-      <link>https://www.nytimes.com/2026/08/11/nyregion/trump-lawsuit-new-york-tuition-immigrants.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/nyregion/trump-lawsuit-new-york-tuition-immigrants.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/nyregion/trump-lawsuit-new-york-tuition-immigrants.html" rel="standout"></atom:link>
-      <description>The administration’s lawsuits, which included Connecticut and Vermont, challenged the legality of giving undocumented students in-state tuition.</description>
-      <dc:creator>Luis Ferré-Sadurní</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 18:04:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tuition</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Scott, Phil (1958- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Vermont</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nebraska</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11met-immigrant-tuition-btfw/11met-immigrant-tuition-btfw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>The Trump administration has filed lawsuits against 17 states challenging in-state tuition for undocumented residents, </media:description>
-    </item>
-    <item>
-      <title>Mamdani to Abandon Plan to Replace Elizabeth Street Garden With Housing</title>
-      <link>https://www.nytimes.com/2026/08/11/nyregion/mamdani-elizabeth-street-garden-housing.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/nyregion/mamdani-elizabeth-street-garden-housing.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/nyregion/mamdani-elizabeth-street-garden-housing.html" rel="standout"></atom:link>
-      <description>After more than a decade, the fight over an effort to build affordable housing on the site of a community garden in Manhattan is winding down.</description>
-      <dc:creator>Mihir Zaveri and Dana Rubinstein</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 20:56:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Elizabeth Street Garden (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Adams, Eric L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/26/multimedia/00hfo-ny-garden-thvg/00hfo-ny-garden-thvg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yuvraj Khanna for The New York Times</media:credit>
-      <media:description>The battle over the Elizabeth Street Garden came to represent the difficulty of building housing in wealthy areas and the passionate commitment of many New Yorkers to preserving green space.</media:description>
-    </item>
-    <item>
-      <title>Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End</title>
-      <link>https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html" rel="standout"></atom:link>
-      <description>The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.</description>
-      <dc:creator>Michael Paulson</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 14:36:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Ariel Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ATG Entertainment Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theaters (Buildings)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11cul-emanuel-theaters-plfm/11cul-emanuel-theaters-plfm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Tullo for The New York Times</media:credit>
-      <media:description>ATG Entertainment operates seven Broadway theaters, including the Lyric Theater, which has housed “Harry Potter and the Cursed Child” for eight years.</media:description>
     </item>
   </channel>
 </rss>
