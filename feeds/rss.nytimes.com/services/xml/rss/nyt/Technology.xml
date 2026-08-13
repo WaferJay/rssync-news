@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 22:06:34 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 21:15:40 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:04:52 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 22:50:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -94,6 +94,26 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07biz-river-ai--01-fpmc/07biz-river-ai--01-fpmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Poppy Lynch for The New York Times</media:credit>
       <media:description>Igor Babuschkin built a new start-up, River AI, and hopes to provide ways for people to “retrain,” or modify, artificial intelligence as they see fit.</media:description>
+    </item>
+    <item>
+      <title>Judge Affirms Settlement Allowing HPE’s Deal for Juniper</title>
+      <link>https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html" rel="standout"></atom:link>
+      <description>States had opposed an agreement allowing a Hewlett Packard Enterprise acquisition, calling the settlement ineffective and corrupt.</description>
+      <dc:creator>David McCabe</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 22:50:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hewlett Packard Enterprise Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Juniper Networks Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weiser, Philip J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-antitrust-states-jclf/13biz-antitrust-states-jclf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Becker/Associated Press</media:credit>
+      <media:description>Last year, the Trump administration sued to block Hewlett Packard Enterprise, led by Antonio Neri, above, from buying Juniper Networks for $14 billion, saying the deal would harm competition.</media:description>
     </item>
     <item>
       <title>Another OpenAI Executive, Denise Dresser, Departs the A.I. Start-Up</title>

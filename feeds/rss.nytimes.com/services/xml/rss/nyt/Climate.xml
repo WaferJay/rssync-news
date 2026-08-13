@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 22:05:20 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 20:25:38 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:06:19 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 22:10:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -139,7 +139,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html" rel="standout"></atom:link>
       <description>The global weather disrupter appears to be taking a toll, and its peak could still be months away.</description>
       <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 19:28:24 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 19:28:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kiribati</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -244,6 +244,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arabian Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Turtles and Tortoises</category>
       <media:content height="1361" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-oman-1-kvzg/12int-oman-1-kvzg-mediumSquareAt3X.jpg" width="1361"></media:content>
       <media:credit>via Reuters</media:credit>
       <media:description>A satellite image showing the damaged vessel Caroline Bezengi and oil slick off coast of Oman, on Aug. 5.</media:description>
@@ -905,25 +909,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/27/multimedia/00biz-plugin-solar-01-sub-wplg/00biz-plugin-solar-01-sub-wplg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Poppy Lynch for The New York Times</media:credit>
       <media:description>Alex Ottoboni with his balcony solar panel at his condo in the San Francisco Bay Area</media:description>
-    </item>
-    <item>
-      <title>Was Your Trip to Europe Affected by Heat or Wildfires? Tell Us About It.</title>
-      <link>https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/07/30/travel/europe-heat-fire-reader-callout.html" rel="standout"></atom:link>
-      <description>Have you had to cancel, reschedule or replan a trip to France, Spain or elsewhere because of raging fires or stifling heat? If so, we want to hear from you.</description>
-      <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 30 Jul 2026 22:08:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/31trav-europe-heat-fire-callout-bwgl/31trav-europe-heat-fire-callout-bwgl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Costas Metaxakis/Agence France-Presse — Getty Images</media:credit>
     </item>
   </channel>
 </rss>
