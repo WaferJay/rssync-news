@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 16:22:36 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 15:39:24 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 17:21:33 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 17:04:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Flock Announces Privacy Updates to Its Car-Tracking Cameras</title>
+      <link>https://www.nytimes.com/2026/08/13/business/flock-cameras-privacy-updates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/business/flock-cameras-privacy-updates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/business/flock-cameras-privacy-updates.html" rel="standout"></atom:link>
+      <description>Critics say the measures are “public relations” and leave room for continued misuse.</description>
+      <dc:creator>Aruni Soni</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 16:48:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flock Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Civil Liberties Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-flock-updates-cgfk/13biz-flock-updates-cgfk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cheney Orr/Reuters</media:credit>
+      <media:description>A Flock Safety camera in Commerce City, Colo. The company’s technology is used by 7,000 U.S. law enforcement agencies. </media:description>
+    </item>
     <item>
       <title>Alfonso Fanjul Jr., Cuban American Sugar Baron, Dies at 89</title>
       <link>https://www.nytimes.com/2026/08/13/business/alfonso-fanjul-jr-dead.html</link>
@@ -149,23 +167,16 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/business/joshua-kushner-lakers.html" rel="standout"></atom:link>
       <description>The brother of Jared Kushner is an influential venture capitalist with big bets on A.I. and health insurance.</description>
       <dc:creator>Lauren Hirsch</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 00:46:04 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 00:46:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Joshua</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Iger, Robert A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Lakers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Miami Heat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Memphis Grizzlies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">San Francisco Giants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oscar (NY Health Insurer)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of Association Football (FIFA)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jet.com Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Capital</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Holdings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Iger, Robert A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
     </item>
     <item>
       <title>Treasury Scales Back Scrutiny of U.S. Shell Companies</title>
@@ -238,6 +249,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Depot Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Repairs and Improvements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/business/00biz-home-depot/00biz-home-depot-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Derek White/Getty Images for The Same House</media:credit>
       <media:description>Ted Decker joined Home Depot in 2000 and was named chief executive in 2022.</media:description>
@@ -297,16 +309,16 @@
       <description>The media company’s leader, David Ellison, is threatening to pull the company out of California in the face of a lawsuit by states seeking to block its big deal.</description>
       <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Lauren Hirsch</dc:creator>
       <pubDate>Thu, 13 Aug 2026 11:49:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, Lawrence J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Delrahim, Makan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12db-paramount-kczv/12db-paramount-kczv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
       <media:description>Paramount’s C.E.O., David Ellison, is threatening to pull the company out of California if there isn’t progress in settling a lawsuit by states seeking to block its planned takeover of Warner Bros. Discovery.</media:description>
@@ -968,26 +980,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09biz-corneroffice-kalshi-01-jkvb/09biz-corneroffice-kalshi-01-jkvb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ahmed Gaber for The New York Times</media:credit>
       <media:description>Tarek Mansour said that Kalshi has a flat hierarchy, with “not a lot of layers where managers are getting the credit for work.” </media:description>
-    </item>
-    <item>
-      <title>A Maine Town, Once Dependent on a Paper Mill, Tries to Move On</title>
-      <link>https://www.nytimes.com/2026/08/09/business/manufacturing-mill-town-madison-maine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/business/manufacturing-mill-town-madison-maine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/09/business/manufacturing-mill-town-madison-maine.html" rel="standout"></atom:link>
-      <description>For over a century, Madison Paper Industries was a small Maine town’s economic engine. A new owner moved in, but uncertainty persists.</description>
-      <dc:creator>Stacey Freed and Ryan David Brown</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 10:59:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Paper and Pulp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Madison Paper Industries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madison (Me)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TimberHP</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/00BIZ-SQFT-PAPERMILL-kbvq/00BIZ-SQFT-PAPERMILL-kbvq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>When the Madison Paper Industries plant closed in 2016, no one was surprised. Paper sales had been declining.</media:description>
     </item>
   </channel>
 </rss>
