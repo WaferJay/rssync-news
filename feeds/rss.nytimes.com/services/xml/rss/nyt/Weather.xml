@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 13:50:07 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 13:04:11 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:26:27 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 15:23:47 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/weather/europe-heat-wave-extreme-heat-warning.html" rel="standout"></atom:link>
       <description>The latest round of extreme temperatures, the fifth since May, is disrupting daily life and testing the region’s resilience.</description>
       <dc:creator>Nazaneen Ghaffar and Lynsey Chutel</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 12:58:50 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 13:52:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
@@ -37,7 +37,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/dining/hot-soup-summer.html" rel="standout"></atom:link>
       <description>Millions of people across the world’s hottest places have long known the best way to cool down in the summer is to eat hotter.</description>
       <dc:creator>Rachel Gurjar</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:00:30 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 14:46:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soups</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
@@ -63,15 +63,17 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Met Office (United Kingdom)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-uk-heat-wfmg/13int-uk-heat-wfmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Toby Melville/Reuters</media:credit>
       <media:description>Sunrise in London on an amber warning day last week. More extreme heat is forecast.</media:description>
     </item>
     <item>
       <title>Hawaii Braces for a Potential Storm Named Lala</title>
-      <link>https://www.nytimes.com/2026/08/12/weather/hawaii-braces-for-a-possible-hurricane-named-lala.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/weather/hawaii-braces-for-a-possible-hurricane-named-lala.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/weather/hawaii-braces-for-a-possible-hurricane-named-lala.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/08/12/weather/hawaii-storm-hurricane-lala.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/weather/hawaii-storm-hurricane-lala.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/weather/hawaii-storm-hurricane-lala.html" rel="standout"></atom:link>
       <description>Forecasters are predicting a tropical storm, potentially a hurricane, may bring heavy rainfall and strong winds to the Big Island starting Friday.</description>
       <dc:creator>Judson Jones</dc:creator>
       <pubDate>Wed, 12 Aug 2026 20:22:37 +0000</pubDate>
@@ -79,7 +81,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v14.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v15.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -117,7 +119,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
       <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
       <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 17:04:10 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 14:53:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
@@ -544,29 +546,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06wea-PacNW-smoke-02-vqlm/06wea-PacNW-smoke-02-vqlm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
       <media:description>Smoke hanging in front of Mount Hood in Oregon. Wildfires have caused air quality to drop precipitously in the region.</media:description>
-    </item>
-    <item>
-      <title>El Nino Might Mean More Storms Near California Than the Atlantic Coast</title>
-      <link>https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/weather/pacific-hurricane-updates-el-nino.html" rel="standout"></atom:link>
-      <description>It hasn’t been that long since Hurricane Hilary made a run at Southern California. Could this year see a repeat?</description>
-      <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 16:48:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Oceanic and Atmospheric Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Otis (2023)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Hilary (2023)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/06/09/multimedia/09WEA-pacificstorms-pbfj/09WEA-pacificstorms-pbfj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mark J. Terrill/Associated Press</media:credit>
-      <media:description>Tropical Storm Hilary caused damage in Cathedral City, Calif., in 2023.</media:description>
     </item>
   </channel>
 </rss>

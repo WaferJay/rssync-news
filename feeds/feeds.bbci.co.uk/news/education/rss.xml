@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/education</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 13 Aug 2026 10:32:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Aug 2026 15:26:24 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/education/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -119,6 +119,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fecf/live/40016180-7ace-11f1-a130-2b898c796aa9.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Five key takeaways from results day 2026]]></title>
+            <description><![CDATA[Top grades and students going to university are on the up, but technical subjects are also becoming more popular.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/clyqpqxv04go?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/clyqpqxv04go#1</guid>
+            <pubDate>Thu, 13 Aug 2026 15:03:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4362/live/7a329900-9720-11f1-bb91-6bb44c42ed47.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How do I apply for an apprenticeship and what will I get paid?]]></title>
             <description><![CDATA[Apprentices split their time between training and working - and are paid by their employer. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c51xenx7pvqo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -149,14 +157,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce832ze3y1vo#1</guid>
             <pubDate>Thu, 13 Aug 2026 08:14:38 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da66/live/306d8990-828d-11f0-b582-ddd92628512a.png"/>
-        </item>
-        <item>
-            <title><![CDATA[What are T-levels and what are the grades worth?]]></title>
-            <description><![CDATA[T-levels are equivalent to three A-levels, and focus on practical rather than academic subjects.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cvgnd8z535jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgnd8z535jo#1</guid>
-            <pubDate>Wed, 12 Aug 2026 13:18:48 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d509/live/50b83fb0-739c-11f0-a20f-3b86f375586a.jpg"/>
         </item>
     </channel>
 </rss>

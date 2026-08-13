@@ -7,13 +7,47 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 13:50:19 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 13:10:24 +0000</pubDate>
+    <lastBuildDate>Thu, 13 Aug 2026 15:22:52 +0000</lastBuildDate>
+    <pubDate>Thu, 13 Aug 2026 14:19:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>I Tested a Popular A.I. Slop Detector. It Felt Empowering.</title>
+      <link>https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html" rel="standout"></atom:link>
+      <description>Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images.</description>
+      <dc:creator>Brian X. Chen</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 09:04:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pangram Labs Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Every Media Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/business/12biz-techfix/12biz-techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sisi Yu</media:credit>
+    </item>
+    <item>
+      <title>America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.</title>
+      <link>https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html" rel="standout"></atom:link>
+      <description>China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete.</description>
+      <dc:creator>Meaghan Tobin and Amir Hamja</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 11:25:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robo Inc.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haggerty, Teddy</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Biz-US-Robots-01-bgjt/13Biz-US-Robots-01-bgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>As a distributor for Unitree Robotics, Teddy Haggerty had a close-up view of China’s massive robotics industry. He also saw how much demand there was in the United States.</media:description>
+    </item>
     <item>
       <title>How Social Media Sparked a Refugee Crisis Between Spain and Morocco</title>
       <link>https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html</link>
@@ -60,70 +94,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07biz-river-ai--01-fpmc/07biz-river-ai--01-fpmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Poppy Lynch for The New York Times</media:credit>
       <media:description>Igor Babuschkin built a new start-up, River AI, and hopes to provide ways for people to “retrain,” or modify, artificial intelligence as they see fit.</media:description>
-    </item>
-    <item>
-      <title>Wall St. Wants Another Half-Trillion Dollars for the A.I. Boom</title>
-      <link>https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/business/ai-nvidia-lenders-500-billion.html" rel="standout"></atom:link>
-      <description>Six giant investment firms announced a $500 billion effort to raise money for customers of Nvidia to pay for computing power.</description>
-      <dc:creator>Rob Copeland and Kalley Huang</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 23:28:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">BlackRock Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goldman Sachs Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">KKR &amp; Co LP</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Solomon, David M</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fink, Laurence D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Credit</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10biz-Wall-Street-AI-fink-jtqm/10biz-Wall-Street-AI-fink-jtqm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Markus Schreiber/Associated Press</media:credit>
-      <media:description>The chief executive of BlackRock, Larry Fink, shown in January, said on Monday that the artificial intelligence industry needed to raise money “as fast as possible.” </media:description>
-    </item>
-    <item>
-      <title>Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’</title>
-      <link>https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html" rel="standout"></atom:link>
-      <description>As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.</description>
-      <dc:creator>Emmy Martin</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 20:37:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Highway Traffic Safety Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lurie, Daniel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defective Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/00biz-waymo-hbmq/00biz-waymo-hbmq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry for The New York Times</media:credit>
-      <media:description>Waymo driverless cars are in San Francisco and 14 other metropolitan areas, including Denver, Las Vegas, San Diego and Tampa.</media:description>
-    </item>
-    <item>
-      <title>I Tested a Popular A.I. Slop Detector. It Felt Empowering.</title>
-      <link>https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html" rel="standout"></atom:link>
-      <description>Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images.</description>
-      <dc:creator>Brian X. Chen</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:04:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pangram Labs Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Every Media Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/business/12biz-techfix/12biz-techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sisi Yu</media:credit>
     </item>
     <item>
       <title>3 Ex-Georgia Deputies Used Flock Cameras to Stalk People, Sheriff Says</title>
@@ -213,6 +183,30 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11biz-openai-lightcap-qfmv/11biz-openai-lightcap-qfmv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mike Kai Chen for The New York Times</media:credit>
       <media:description>Brad Lightcap, who was OpenAI’s chief operating officer until April, joined the company in 2018. </media:description>
+    </item>
+    <item>
+      <title>Waymo Is Growing Faster Than Ever. So Are Its ‘Edge Cases.’</title>
+      <link>https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/10/technology/waymo-expansion-edge-cases.html" rel="standout"></atom:link>
+      <description>As Waymo deploys more driverless cars to 15 U.S. cities and counting, its vehicles keep encountering new and unexpected situations that they have no script to handle.</description>
+      <dc:creator>Emmy Martin</dc:creator>
+      <pubDate>Mon, 10 Aug 2026 20:37:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waymo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Highway Traffic Safety Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lurie, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defective Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/00biz-waymo-hbmq/00biz-waymo-hbmq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Waymo driverless cars are in San Francisco and 14 other metropolitan areas, including Denver, Las Vegas, San Diego and Tampa.</media:description>
     </item>
     <item>
       <title>Meta Unveils an Open Version of Its Most Powerful A.I. Model</title>
