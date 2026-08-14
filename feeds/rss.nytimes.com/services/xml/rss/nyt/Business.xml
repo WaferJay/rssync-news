@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 19:59:37 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 19:41:18 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:46:35 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 20:37:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,8 +21,8 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/automobiles/hiroshi-okuda-dead.html" rel="standout"></atom:link>
       <description>As the car company’s president, he made decisions quickly and shook things up, expanding overseas manufacturing and introducing the Prius, a milestone in automotive history.</description>
       <dc:creator>Clay Risen</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 19:33:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Okuda, Hiroshi (1932-2026)</category>
+      <pubDate>Fri, 14 Aug 2026 19:33:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Okuda, Hiroshi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
@@ -35,21 +35,20 @@
       <media:description>Hiroshi Okuda sitting in the newly developed Prius in 1997. He pressed Toyota to finish the car, which had been in development for years, as other companies raced to be the first to introduce a hybrid.</media:description>
     </item>
     <item>
-      <title>Selena Gomez Is Sued for Defrauding Investors in Mental Health Site</title>
+      <title>Lawsuit Accuses Selena Gomez of Defrauding Investors in Mental Health Site</title>
       <link>https://www.nytimes.com/2026/08/14/us/selena-gomez-wondermind-lawsuit-fraud.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/us/selena-gomez-wondermind-lawsuit-fraud.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/14/us/selena-gomez-wondermind-lawsuit-fraud.html" rel="standout"></atom:link>
       <description>The actor, singer and beauty mogul founded Wondermind, a mental health platform, with her mother. Investors put in more than $1 million in the venture, which “quietly collapsed,” the suit said.</description>
       <dc:creator>Remy Tumin</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 19:04:38 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:09:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wondermind Global Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gomez, Selena</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pierson, Daniella (1995- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Teefey, Mandy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Daniella Pierson</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wondermind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
       <media:content height="1011" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14xp-gomez-mchb/14xp-gomez-mchb-mediumSquareAt3X.jpg" width="1012"></media:content>
       <media:credit>Jack Plunkett/Invision, via Associated Press</media:credit>
       <media:description>Selena Gomez and her mother, Mandy Teefey, at a panel focused on mental health during the SXSW conference in Austin, Texas, in 2024. </media:description>
@@ -61,11 +60,12 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html" rel="standout"></atom:link>
       <description>Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.</description>
       <dc:creator>Natasha Singer</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 18:54:35 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 18:54:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Gemini-schools-wgzl/13Gemini-schools-wgzl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ysa Pérez for The New York Times</media:credit>
       <media:description>Starting this week, a new Gemini tab within Classroom lets some students seek A.I. help on math problems and writing assignments; generate course aids like study guides, quizzes and flashcards; and produce images.</media:description>
@@ -81,12 +81,15 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aetna Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CIGNA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CVS Caremark Corporation</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/01/22/multimedia/14BIZ-INSURERS-BACKLASH/22HS-INSURE-lmcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kylie Cooper/Reuters</media:credit>
       <media:description>Stephen Hemsley, chief executive of UnitedHealth Group, left, was among the executives defending insurers’ practices at congressional hearings in January. To his left were David Joyner, chairman of CVS Health, and Gail Boudreaux, chief executive of Elevance Health. </media:description>
@@ -231,9 +234,13 @@
       <dc:creator>Carol Pogash and Ian C. Bates</dc:creator>
       <pubDate>Fri, 14 Aug 2026 16:04:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peaches</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fruit</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Clara County (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Family Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
     </item>
     <item>
       <title>How Pennsylvania Got Hooked on Games That Look a Lot Like Slot Machines</title>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 19:20:21 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 17:35:37 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:51:16 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 20:42:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,11 +42,11 @@
       <description>The whole planet is warming, but changes in weather patterns could help explain why the continent is suffering so many bouts of severe heat.</description>
       <dc:creator>Raymond Zhong</dc:creator>
       <pubDate>Fri, 14 Aug 2026 15:02:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="">heat dome</category>
       <category domain="">jet stream</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-europe-jetstream-pjkv/14cli-europe-jetstream-pjkv-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -73,6 +73,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-europe-heat-visuals-01-vzwq/14int-europe-heat-visuals-01-vzwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>A sweltering day near Tower Bridge in London on Thursday.</media:description>
@@ -85,14 +86,13 @@
       <description>Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.</description>
       <dc:creator>Kiuko Notoya</dc:creator>
       <pubDate>Fri, 14 Aug 2026 12:47:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stations and Terminals (Passenger)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NHK (Japan Broadcasting Corp)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-Japan-Rain1-whlj/14int-Japan-Rain1-whlj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Caballero-Reynolds/Agence France-Presse — Getty Images</media:credit>
       <media:description>Vehicles submerged on a flooded road in Sakura, Chiba Prefecture, on Friday.</media:description>
@@ -137,7 +137,7 @@
       <atom:link href="https://www.nytimes.com/video/opinion/100000010819020/a-new-inferno.html" rel="standout"></atom:link>
       <description>Firefighters in Phoenix race to save lives in a city that’s only getting hotter.</description>
       <dc:creator>Nita Blum-Reddick and Jonathan Pickett</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 13:26:42 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:05:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -288,7 +288,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v3.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v6.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>

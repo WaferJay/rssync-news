@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 19:57:57 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 19:54:09 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 20:49:15 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 20:46:07 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -58,6 +58,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-europe-heat-visuals-01-vzwq/14int-europe-heat-visuals-01-vzwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>A sweltering day near Tower Bridge in London on Thursday.</media:description>
@@ -82,13 +83,13 @@
       <media:description>Afghanistan’s foreign minister, Amir Khan Muttaqi, during an interview with The New York Times in Kabul this week.</media:description>
     </item>
     <item>
-      <title>Jason Arday, Cambridge Scholar Who Resigned Under Scrutiny, Reported Dead</title>
+      <title>Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead</title>
       <link>https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html" rel="standout"></atom:link>
       <description>The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.</description>
       <dc:creator>Mara Hvistendahl</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 19:53:03 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:53:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -263,14 +264,13 @@
       <description>Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.</description>
       <dc:creator>Kiuko Notoya</dc:creator>
       <pubDate>Fri, 14 Aug 2026 12:47:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stations and Terminals (Passenger)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NHK (Japan Broadcasting Corp)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tokyo (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-Japan-Rain1-whlj/14int-Japan-Rain1-whlj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Caballero-Reynolds/Agence France-Presse — Getty Images</media:credit>
       <media:description>Vehicles submerged on a flooded road in Sakura, Chiba Prefecture, on Friday.</media:description>
@@ -312,6 +312,48 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers</title>
+      <link>https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html" rel="standout"></atom:link>
+      <description>Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers.</description>
+      <dc:creator>David M. Halbfinger and Adam Rasgon</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 20:37:39 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qusra (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben-Gvir, Itamar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Israel (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jewish Power Party (Otzma Yehudit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="">Settler Violence (Israel-Palestine)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-westbank-assess-lfzm/14int-westbank-assess-lfzm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli soldiers standing in front of the entrance of a Palestinian house besieged by Israeli settlers in the village of Qusra on Friday.</media:description>
+    </item>
+    <item>
+      <title>When a Rare Wolf Got Too Close, Denmark Faced a Conservation Dilemma</title>
+      <link>https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/rare-wolf-denmark-conservation-dilemma.html" rel="standout"></atom:link>
+      <description>The authorities tracked the animal after a string of close encounters with residents, reigniting a bitter debate over how a small, densely populated country should live with wolves.</description>
+      <dc:creator>Maya Tekeli</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 20:35:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hunting and Trapping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wolves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-denmark-wolf-new-kblw/14int-denmark-wolf-new-kblw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ritzau Scanpix/Sipa USA, via Associated Press</media:credit>
+      <media:description>A wild wolf in West Jutland, Denmark, last year. The return of the animals to a country with few predators has recently come under scrutiny after a wolf was spotted near a small town, apparently unafraid of people.</media:description>
     </item>
     <item>
       <title>Zambia Halts Presidential Election Vote Count Over Violence and Fraud Allegations</title>
@@ -430,6 +472,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Transportation Safety Board</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ryanair Holdings PLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Malta Air</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13xp-plane-investigation-plane-zpml/13xp-plane-investigation-plane-zpml-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alexandros Avramidis/Reuters</media:credit>
       <media:description>A Ryanair plane in Thessaloniki, Greece, last May. A full investigation into an incident last month will take at least a year, federal official said.</media:description>
@@ -1013,38 +1056,6 @@
       <media:content height="1139" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12int-zimbabwe-1-blmg/12int-zimbabwe-1-blmg-mediumSquareAt3X.jpg" width="1139"></media:content>
       <media:credit>via Agence France-Presse — Getty Images</media:credit>
       <media:description>A photo posted on social media showing passengers rescued after a ferry capsized in Lake Kariba in Zimbabwe on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>
-      <link>https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
-      <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
-      <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:53:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ritesh Shukla/Getty Images</media:credit>
-      <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
-    </item>
-    <item>
-      <title>Eclipse chasers stake out their viewing spots in Iceland.</title>
-      <link>https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/08/12/world/solar-eclipse-2026-updates/eclipse-chasers-stake-out-their-viewing-spots-in-iceland" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 17:08:39 +0000</pubDate>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12europe-eclipse-iceland-scene-topart/12europe-eclipse-iceland-scene-topart-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amelia Nierenberg/The New York Times</media:credit>
-      <media:description>Damien Kluczinske was in the Ólafsvík area on his first trip outside the United States.</media:description>
     </item>
   </channel>
 </rss>
