@@ -7,32 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 17:12:19 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 16:56:44 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:06:39 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 17:46:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/health</link>
     </image>
     <item>
-      <title>A City Mobilizes Against a Stubborn Health Threat: Mosquitoes</title>
-      <link>https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html" rel="standout"></atom:link>
-      <description>The city of Belém in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.</description>
-      <dc:creator>Apoorva Mandavilli and Alessandro Falco</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:49:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belem (Brazil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dengue Fever</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chikungunya Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00dc-mosquitoes-top-01-zmbl/00dc-mosquitoes-top-01-zmbl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>A health worker discarding water from a larvicide dissemination unit in Belém, Brazil, last month.</media:description>
+      <title>Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing</title>
+      <link>https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html" rel="standout"></atom:link>
+      <description>Higher premiums and rising medical bills have intensified Americans’ dissatisfaction with their medical coverage.</description>
+      <dc:creator>Reed Abelson</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 16:56:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/01/22/multimedia/14BIZ-INSURERS-BACKLASH/22HS-INSURE-lmcv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kylie Cooper/Reuters</media:credit>
+      <media:description>Stephen Hemsley, chief executive of UnitedHealth Group, left, was among the executives defending insurers’ practices at congressional hearings in January. To his left were David Joyner, chairman of CVS Health, and Gail Boudreaux, chief executive of Elevance Health. </media:description>
     </item>
     <item>
       <title>Covid Vaccine and Pregnancy: What to Know Now</title>
@@ -53,6 +54,26 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13well-pregnant-vax-wgjt/13well-pregnant-vax-wgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rogelio V. Solis/Associated Press</media:credit>
       <media:description>A number of studies have examined the safety of Covid-19 vaccines during pregnancy.</media:description>
+    </item>
+    <item>
+      <title>A City Mobilizes Against a Stubborn Health Threat: Mosquitoes</title>
+      <link>https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/health/mosquitoes-brazil-health-threat.html" rel="standout"></atom:link>
+      <description>The city of Belém in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.</description>
+      <dc:creator>Apoorva Mandavilli and Alessandro Falco</dc:creator>
+      <pubDate>Thu, 13 Aug 2026 14:49:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belem (Brazil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dengue Fever</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chikungunya Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00dc-mosquitoes-top-01-zmbl/00dc-mosquitoes-top-01-zmbl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:description>A health worker discarding water from a larvicide dissemination unit in Belém, Brazil, last month.</media:description>
     </item>
     <item>
       <title>Trump Wants the M.M.R. Vaccine Split Into Three Separate Shots. Doctors Say It’s a Bad Idea.</title>
@@ -158,22 +179,6 @@
       <media:description>Before becoming health secretary, Mr. Kennedy promoted vaccine skepticism as the leader of Children’s Health Defense. </media:description>
     </item>
     <item>
-      <title>A.I. Offers Hope for Men With Infertility, Spotting ‘Hidden’ Sperm</title>
-      <link>https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/science/ai-infertile-men-sperm.html" rel="standout"></atom:link>
-      <description>New technology may make it easier for men with extremely low sperm counts to have biological children.</description>
-      <dc:creator>Andrew Zaleski</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 21:52:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infertility</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sperm</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/11Sci-male-infertility-stillpromo-plbv/11Sci-male-infertility-stillpromo-plbv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Elias Williams for The New York Times</media:credit>
-    </item>
-    <item>
       <title>Trump Signs Executive Order Calling for Fewer Childhood Vaccines</title>
       <link>https://www.nytimes.com/2026/08/10/well/trump-vaccines-executive-order.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/well/trump-vaccines-executive-order.html</guid>
@@ -194,27 +199,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10VACCINE-EO-sub-fbzg/10VACCINE-EO-sub-fbzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump signed an executive order calling for fewer childhood vaccines in the Oval Office on Monday.</media:description>
-    </item>
-    <item>
-      <title>Outrage at UnitedHealth and Other Insurers Persists After Brian Thompson Killing</title>
-      <link>https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html" rel="standout"></atom:link>
-      <description>Higher premiums and rising medical bills have intensified Americans’ dissatisfaction with their medical coverage.</description>
-      <dc:creator>Reed Abelson</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 16:56:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/01/22/multimedia/14BIZ-INSURERS-BACKLASH/22HS-INSURE-lmcv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kylie Cooper/Reuters</media:credit>
-      <media:description>Stephen Hemsley, chief executive of UnitedHealth Group, left, was among the executives defending insurers’ practices at congressional hearings in January. To his left were David Joyner, chairman of CVS Health, and Gail Boudreaux, chief executive of Elevance Health. </media:description>
     </item>
     <item>
       <title>Why You Envy Your Friends</title>
@@ -413,6 +397,31 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-moderna-flu-wjlt/05dc-moderna-flu-wjlt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bill Sikes/Associated Press</media:credit>
       <media:description>Moderna has said that the faster new approach used to prepare the vaccine will enable a shift away from the current process of focusing on one flu strain for an entire hemisphere each season and allow each nation to pick its best option.</media:description>
+    </item>
+    <item>
+      <title>What Is Fauci Being Accused of and Why Is He Being Held in Contempt?</title>
+      <link>https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html" rel="standout"></atom:link>
+      <description>The case is unique, legal scholars say, because of the tension between the Fifth Amendment and the reach of a presidential pardon. The potential consequences could be grave.</description>
+      <dc:creator>Jan Hoffman</dc:creator>
+      <pubDate>Thu, 06 Aug 2026 17:30:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amnesties, Commutations and Pardons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immunity from Prosecution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fifth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Homeland Security and Governmental Affairs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fauci, Anthony S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paul, Rand</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Constitution (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-fauci-legal-explainer-zpbc/05dc-fauci-legal-explainer-zpbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Dr. Anthony Fauci, former director of the National Institute of Allergy and Infectious Diseases, at a Senate Homeland Security Committee hearing last week.</media:description>
     </item>
   </channel>
 </rss>

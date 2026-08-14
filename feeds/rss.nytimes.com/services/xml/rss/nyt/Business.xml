@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 17:13:07 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 16:56:44 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 18:10:27 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 17:59:58 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,16 +42,16 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/business/jeff-bezos-liverpool-football-club.html" rel="standout"></atom:link>
       <description>It is the first known investment by Mr. Bezos, one of the world’s richest men, into a sports team.</description>
       <dc:creator>Tania Ganguli and Theodore Schleifer</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 16:04:51 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:53:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liverpool (Soccer Team)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fenway Sports Group</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">K5 Global Advisor LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Liverpool (Soccer Team)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amit Bhatia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bhatia, Amit</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/LIVERPOOL-SUB-mtgh/LIVERPOOL-SUB-mtgh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Cairnduff/Action Images, via Reuters</media:credit>
       <media:description>The deal values Liverpool Football Club at a little more than $7 billion.</media:description>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/business/retail-sales-july.html" rel="standout"></atom:link>
       <description>The data for July showed the biggest drop in more than a year, as American households face the economic strains brought on by persistent inflation</description>
       <dc:creator>Kim Bhasin</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 16:07:40 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 17:59:58 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
@@ -111,6 +111,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of Japan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Takaichi, Sanae</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/business/00Biz-Yen1/00Biz-Yen1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>The Yomiuri Shimbun, via Associated Press</media:credit>
       <media:description>The rally in the yen has faded, with the currency approaching 160 yen per dollar, a level that could test the resolve of officials in Tokyo and Washington. </media:description>
@@ -312,6 +316,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Basketball Assn</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Capital</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walt Disney Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1762" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/IGER-KUSHNER-1-mfwb/IGER-KUSHNER-1-mfwb-mediumSquareAt3X-v3.jpg" width="1762"></media:content>
       <media:credit>Sarah Stier/Getty Images</media:credit>
       <media:description>From left, the N.B.A.’s commissioner, Adam Silver, joined Joshua Kushner and Bob Iger at the 2025 U.S. Open tennis tournament.</media:description>
