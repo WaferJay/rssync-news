@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 20:47:09 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 20:44:21 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:42:12 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 21:32:46 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/trump-uss-abraham-lincoln.html" rel="standout"></atom:link>
       <description>Asked whether the deployment of the Abraham Lincoln had gone on too long, the president said its deployment had lasted “not nearly long enough.”</description>
       <dc:creator>Erica L. Green</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 20:17:02 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:59:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/john-carro-dead.html" rel="standout"></atom:link>
       <description>Decades before his rise to the New York State appellate court, he was a probation officer who tried to help Mr. Oswald, then a teenager living in the Bronx.</description>
       <dc:creator>Richard Sandomir</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 20:04:01 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 21:31:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carro, John (1927-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -63,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html" rel="standout"></atom:link>
       <description>Some lawmakers and their families have traded millions of dollars worth of stocks since the start of this term.</description>
       <dc:creator>Olivia Diaz</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 19:46:35 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:51:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -86,7 +86,12 @@
       <pubDate>Fri, 14 Aug 2026 20:23:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insider Trading</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bresnahan, Rob Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cognetti, Paige</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Hakeem</category>
@@ -94,6 +99,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiggans, Jen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suozzi, Thomas R</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wittman, Robert Joseph (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luria, Elaine Goodman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14dc-stocks-tzhv/14dc-stocks-tzhv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Angela Weiss/Agence France-Presse — Getty Images</media:credit>
       <media:description>Almost 60 percent of lawmakers in Congress own stock, according to an analysis by Common Cause, a nonprofit, nonpartisan organization focused on making government more accountable.</media:description>
@@ -281,9 +291,13 @@
       <pubDate>Fri, 14 Aug 2026 13:29:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kagan, Elena</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ventura County (Calif)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13dc-scotus-bruxe-cmbj/13dc-scotus-bruxe-cmbj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Allison Robbert for The New York Times</media:credit>
       <media:description>The Supreme Court has been inundated recently with emergency requests.</media:description>
@@ -483,29 +497,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/03/24/us/politics/00dc-alien-enemies/00dc-alien-enemies-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Tierney L. Cross/The New York Times</media:credit>
       <media:description>President Trump issued a proclamation in March 2025 drawing on the sweeping powers of the Alien Enemies Act to deport people accused of being members of a Venezuelan gang.</media:description>
-    </item>
-    <item>
-      <title>U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns</title>
-      <link>https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html" rel="standout"></atom:link>
-      <description>The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew’s well-being.</description>
-      <dc:creator>John Ismay, Helene Cooper and Eric Schmitt</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 21:49:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1606" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13dc-military-iran-kqvm/13dc-military-iran-kqvm-mediumSquareAt3X.jpg" width="1606"></media:content>
-      <media:credit>K.C. Alfred/The San Diego Union-Tribune, via Associated Press</media:credit>
-      <media:description>The U.S.S. Abraham Lincoln in San Diego in 2021. The aircraft carrier, with a crew of about 5,000 sailors, has been at sea for more than eight and a half months.</media:description>
     </item>
   </channel>
 </rss>

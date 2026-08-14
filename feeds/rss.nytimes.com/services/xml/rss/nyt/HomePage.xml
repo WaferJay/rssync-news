@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 20:50:13 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 20:46:07 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:40:17 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 21:38:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -24,7 +24,12 @@
       <pubDate>Fri, 14 Aug 2026 20:23:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insider Trading</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bresnahan, Rob Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cognetti, Paige</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Hakeem</category>
@@ -32,6 +37,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiggans, Jen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suozzi, Thomas R</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wittman, Robert Joseph (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Luria, Elaine Goodman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Virginia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14dc-stocks-tzhv/14dc-stocks-tzhv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Angela Weiss/Agence France-Presse — Getty Images</media:credit>
       <media:description>Almost 60 percent of lawmakers in Congress own stock, according to an analysis by Common Cause, a nonprofit, nonpartisan organization focused on making government more accountable.</media:description>
@@ -43,7 +53,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html" rel="standout"></atom:link>
       <description>Some lawmakers and their families have traded millions of dollars worth of stocks since the start of this term.</description>
       <dc:creator>Olivia Diaz</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 19:46:35 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 20:51:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -55,6 +65,66 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14dc-cong-stocks-list-gqlw/14dc-cong-stocks-list-gqlw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jeenah Moon/Reuters</media:credit>
       <media:description>A law passed in 2012, the STOCK Act, emphasizes that insider trading is illegal among lawmakers, as it is for the general public, and requires them to periodically disclose trades of shares held by them and members of their families.</media:description>
+    </item>
+    <item>
+      <title>Alaska Democrat Mary Peltola Pushes Back Against Endorsement From Kamala Harris</title>
+      <link>https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/kamala-harris-mary-peltola-endorsement.html" rel="standout"></atom:link>
+      <description>The campaign of Mary Peltola said it was focused on issues important to Alaska and did not approve a message of support from Ms. Harris.</description>
+      <dc:creator>Tim Balk</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 19:13:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harris, Kamala D</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/us/14pol-peltola-harris/14pol-peltola-harris-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kerry Tasker/Reuters; Philip Cheung for The New York Times</media:credit>
+      <media:description>Former Representative Mary Peltola of Alaska did not appear to be happy that former Vice President Kamala Harris put out a fund-raising appeal on her behalf. Ms. Harris lost the 2024 presidential election in Alaska by 14 points.</media:description>
+    </item>
+    <item>
+      <title>Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure</title>
+      <link>https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html" rel="standout"></atom:link>
+      <description>The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator’s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25.</description>
+      <dc:creator>Emily Davies</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 17:35:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Ralph W Jr (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fry, Russell (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanford, Mark</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/us/14pol-south-carolina-senate/14pol-south-carolina-senate-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sean Rayford for The New York Times</media:credit>
+      <media:description>Representative Russell Fry, left, will endorse Senator Darline Graham in a special Republican primary runoff on Aug. 25 to permanently replace her brother, the late Senator Lindsey Graham.</media:description>
+    </item>
+    <item>
+      <title>Luigi Mangione Pleads Guilty</title>
+      <link>https://www.nytimes.com/2026/08/14/briefing/luigi-mangione-pleads-guilty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/briefing/luigi-mangione-pleads-guilty.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/briefing/luigi-mangione-pleads-guilty.html" rel="standout"></atom:link>
+      <description>Also, an Alaska Democrat says no thanks to Kamala Harris’s support. Here’s the latest at the end of Friday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 21:10:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14evening-met-mangione-plea-header/14Met-mangione-plea-header-01-qzwl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by David Dee Delgado</media:credit>
+      <media:description>Luigi Mangione at a pretrial hearing on Monday.</media:description>
     </item>
     <item>
       <title>How The New York Times Reported on Trump’s Air Force One Ruse in Turkey</title>
@@ -123,13 +193,13 @@
       <media:description>National Guard troops patrol the World War II Memorial on Friday after it was vandalized.</media:description>
     </item>
     <item>
-      <title>Jason Arday, Cambridge Professor Accused of Plagiarism, Reported Dead</title>
+      <title>Jason Arday, Cambridge Professor Accused of Plagiarism, Is Found Dead</title>
       <link>https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html" rel="standout"></atom:link>
-      <description>The British police said a man had been found dead at a home linked to Mr. Arday, who resigned after the university announced an investigation into allegations of plagiarism and fabrication.</description>
+      <description>Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.</description>
       <dc:creator>Mara Hvistendahl</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 19:53:04 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 21:34:18 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cambridge University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
@@ -139,25 +209,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lying</category>
-    </item>
-    <item>
-      <title>Ian Frazier Wrote ‘Coyote v. Acme’ in 1990. Now It’s a Movie.</title>
-      <link>https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html" rel="standout"></atom:link>
-      <description>With “Coyote vs. Acme,” Ian Frazier, a soft-spoken reporter and humorist, has finally gone Hollywood.</description>
-      <dc:creator>Steven Kurutz</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 14:07:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coyote vs. Acme (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frazier, Ian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cartoons and Cartoonists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16-ST-IAN-FRAZIER-01-zpql/16-ST-IAN-FRAZIER-01-zpql-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bryan Anselm for The New York Times</media:credit>
-      <media:description>Ian Frazier, who has written for The New Yorker since the 1970s, in Montclair, N.J.</media:description>
     </item>
     <item>
       <title>Is It Safe to Eat Lettuce and Other Fresh Produce as Cyclospora Outbreak Wanes?</title>
@@ -180,6 +231,52 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Trader Joe&#39;s</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/well-cyclo-eat-tfkq/well-cyclo-eat-tfkq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Amir Hamja for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers</title>
+      <link>https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html" rel="standout"></atom:link>
+      <description>Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers.</description>
+      <dc:creator>David M. Halbfinger and Adam Rasgon</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 21:01:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qusra (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben-Gvir, Itamar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Israel (1955- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jewish Power Party (Otzma Yehudit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
+      <category domain="">Settler Violence (Israel-Palestine)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Israeli soldiers patrolling a street Thursday during an operation in the village of Qusra, in the Israeli-occupied West Bank.</media:description>
+    </item>
+    <item>
+      <title>Ian Frazier Wrote ‘Coyote v. Acme’ in 1990. Now It’s a Movie.</title>
+      <link>https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/style/ian-frazier-coyote-vs-acme-movie.html" rel="standout"></atom:link>
+      <description>With “Coyote vs. Acme,” Ian Frazier, a soft-spoken reporter and humorist, has finally gone Hollywood.</description>
+      <dc:creator>Steven Kurutz</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 14:07:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Coyote vs. Acme (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frazier, Ian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cartoons and Cartoonists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16-ST-IAN-FRAZIER-01-zpql/16-ST-IAN-FRAZIER-01-zpql-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bryan Anselm for The New York Times</media:credit>
+      <media:description>Ian Frazier, who has written for The New Yorker since the 1970s, in Montclair, N.J.</media:description>
     </item>
     <item>
       <title>Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom</title>
@@ -218,33 +315,6 @@
       <media:credit>Michela Buttignol</media:credit>
     </item>
     <item>
-      <title>As Army Fails to Protect Palestinians, Israeli Leaders Sympathize With Settlers</title>
-      <link>https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/world/middleeast/israel-west-bank-settler-violence-military-police.html" rel="standout"></atom:link>
-      <description>Defense Minister Katz called for the military to turn over to the police the responsibility for protecting Palestinians after two West Bank families were besieged by violent settlers.</description>
-      <dc:creator>David M. Halbfinger and Adam Rasgon</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 20:37:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qusra (West Bank)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ben-Gvir, Itamar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Katz, Israel (1955- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bennett, Naftali</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Jewish Power Party (Otzma Yehudit)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Likud Party (Israel)</category>
-      <category domain="">Settler Violence (Israel-Palestine)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-westbank-assess-lfzm/14int-westbank-assess-lfzm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Israeli soldiers standing in front of the entrance of a Palestinian house besieged by Israeli settlers in the village of Qusra on Friday.</media:description>
-    </item>
-    <item>
       <title>The Taliban Kicked the U.S. Out of Afghanistan. Now They Want It Back.</title>
       <link>https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/asia/afghanistan-us-taliban.html</guid>
@@ -264,18 +334,26 @@
       <media:description>Afghanistan’s foreign minister, Amir Khan Muttaqi, during an interview with The New York Times in Kabul this week.</media:description>
     </item>
     <item>
-      <title>How Jane Schoenbrun Has Fun With Horror (and Chicken) at Camp Miasma</title>
-      <link>https://www.nytimes.com/2026/08/14/movies/teenage-sex-and-death-at-camp-miasma-clip.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/movies/teenage-sex-and-death-at-camp-miasma-clip.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/movies/teenage-sex-and-death-at-camp-miasma-clip.html" rel="standout"></atom:link>
-      <description>The director discusses a key scene from “Teenage Sex and Death at Camp Miasma,” featuring Hannah Einbinder and Gillian Anderson.</description>
-      <dc:creator>Mekado Murphy</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 09:02:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Einbinder, Hannah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anderson, Gillian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schoenbrun, Jane</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Teenage Sex and Death at Camp Miasma (Movie)</category>
+      <title>The Warring Visions of American Power</title>
+      <link>https://www.nytimes.com/2026/08/14/opinion/ezra-klein-podcast-linda-kinstler.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/opinion/ezra-klein-podcast-linda-kinstler.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/opinion/ezra-klein-podcast-linda-kinstler.html" rel="standout"></atom:link>
+      <description>American foreign policy is at a crossroads. Could international law provide a framework for a foreign policy after President Trump?</description>
+      <dc:creator>Ezra Klein and Jack McCordick</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 20:32:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kinstler, Linda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War Crimes, Genocide and Crimes Against Humanity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">State Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/opinion/14eks-kinstler-image/14eks-kinstler-image-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times</media:credit>
     </item>
     <item>
       <title>Extreme Heat Is the New Normal</title>
@@ -292,42 +370,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenix (Ariz)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-    </item>
-    <item>
-      <title>Republicans Are About to Repeat the Democrats’ Biggest Mistake</title>
-      <link>https://www.nytimes.com/2026/08/14/opinion/republicans-woke-radical.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/opinion/republicans-woke-radical.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/opinion/republicans-woke-radical.html" rel="standout"></atom:link>
-      <description>The right’s reluctance to gatekeep may be its undoing.</description>
-      <dc:creator>Gregory Conti and Aaron Sibarium</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 10:43:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Diversity Initiatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Men and Boys</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-    </item>
-    <item>
-      <title>Are Political Polls Accurate?</title>
-      <link>https://www.nytimes.com/2026/08/14/briefing/are-political-polls-accurate.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/briefing/are-political-polls-accurate.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/briefing/are-political-polls-accurate.html" rel="standout"></atom:link>
-      <description>We look at recent problems with political polling.</description>
-      <dc:creator>Nate Cohn</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 10:47:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/upshot/13the-tilt-sub/13the-tilt-sub-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Illustration by Javier Palma; Photographs via Getty Images (darts)</media:credit>
     </item>
     <item>
       <title>Why Europe Keeps Being Pummeled by Heat Waves</title>

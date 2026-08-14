@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 20:48:50 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 20:10:51 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 21:43:56 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 21:43:15 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -202,6 +202,22 @@
       <media:description>Luigi Mangione is facing both state and federal charges in connection with the December 2024 killing of UnitedHealthcare’s chief executive.</media:description>
     </item>
     <item>
+      <title>Luigi Mangioni’s Case Hit a Cultural Nerve</title>
+      <link>https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-culture-shooting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-culture-shooting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-culture-shooting.html" rel="standout"></atom:link>
+      <description>As the murder of Brian Thompson shocked most Americans, some people, many on social media, began showing Mr. Mangione sympathy and channeled their own frustration with the health care industry.</description>
+      <dc:creator>Miles G. Cohen and Alisha Haridasani Gupta</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 21:43:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midtown Manhattan Shooting (July 2025)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
+      <media:content height="931" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-plea-culture2-gvwm/14met-mangione-plea-culture2-gvwm-mediumSquareAt3X-v4.jpg" width="930"></media:content>
+      <media:credit>Rachel Wisniewski for The New York Times</media:credit>
+      <media:description>A small group of people took to social media to show Luigi Mangione support in the days after the murder of Brian Thompson. That support has taken many faces, with some glamorizing his appearance and others offering him full support.</media:description>
+    </item>
+    <item>
       <title>Youman Wilder, Baseball Coach Who Said He Faced Down ICE Agents, Dies at 63</title>
       <link>https://www.nytimes.com/2026/08/14/nyregion/youman-wilder-dead.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/youman-wilder-dead.html</guid>
@@ -277,7 +293,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html" rel="standout"></atom:link>
       <description>Higher premiums and rising medical bills have intensified Americans’ dissatisfaction with their medical coverage.</description>
       <dc:creator>Reed Abelson</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 16:56:45 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 21:02:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
@@ -390,18 +406,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13nytoday-zfwb/13nytoday-zfwb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jeenah Moon for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Homes for Sale in New York and New Jersey</title>
-      <link>https://www.nytimes.com/2026/08/13/realestate/housing-market-near-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/realestate/housing-market-near-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/realestate/housing-market-near-nyc.html" rel="standout"></atom:link>
-      <description>This week’s properties are a two-bedroom condo in Pelham, N.Y., and a four-bedroom house in Wayne Township, N.J.</description>
-      <dc:creator>Anne Mancuso and Jill P. Capuzzo</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:03:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wayne (NJ)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pelham (NY)</category>
     </item>
   </channel>
 </rss>
