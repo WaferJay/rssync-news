@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 23:03:58 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 22:59:12 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 03:00:12 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 02:37:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Kalshi Ordered to Cease Most Operations in Washington State</title>
+      <link>https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/business/kalshi-washington-state-ruling.html" rel="standout"></atom:link>
+      <description>In a preliminary injunction, a state judge barred the prediction market from allowing residents to place bets on the bulk of its offerings.</description>
+      <dc:creator>Lauren McCarthy</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 00:49:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-kalshi-washington-vljc/13biz-kalshi-washington-vljc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Helgas for The New York Times</media:credit>
+      <media:description>Washington is the latest state to successfully challenge prediction markets like Kalshi and Polymarket, which have grown rapidly.</media:description>
+    </item>
     <item>
       <title>Salvage Company Hoping to Sell Titanic Artifacts Challenges Court’s Role</title>
       <link>https://www.nytimes.com/2026/08/13/arts/design/salvage-company-hoping-to-sell-titanic-artifacts-challenges-courts-role.html</link>
@@ -966,25 +987,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09biz-oil-stocks-gas-1-tkcz/09biz-oil-stocks-gas-1-tkcz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jenny Kane/Associated Press</media:credit>
-    </item>
-    <item>
-      <title>Flight Is Canceled After a Child Refuses to Be Seated</title>
-      <link>https://www.nytimes.com/2026/08/09/travel/flight-canceled-child-seatbelt-porter-canada.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/travel/flight-canceled-child-seatbelt-porter-canada.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/09/travel/flight-canceled-child-seatbelt-porter-canada.html" rel="standout"></atom:link>
-      <description>Passengers aboard a Porter Airlines plane headed to Toronto had to wait for a flight the next day after a child remained standing in a seat and would not get buckled in, the company said.</description>
-      <dc:creator>Johnny Diaz</dc:creator>
-      <pubDate>Sun, 09 Aug 2026 17:59:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Porter Airlines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Victoria (British Columbia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Victoria International Airport (British Columbia)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09xp-plane1-tjcm/09xp-plane1-tjcm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carlos Osorio/Reuters</media:credit>
-      <media:description>A child aboard a Porter Airlines plane who refused to sit led to the flight’s cancellation on Thursday. </media:description>
     </item>
   </channel>
 </rss>

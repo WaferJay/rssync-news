@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 23:04:52 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 22:50:07 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 03:00:31 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 00:37:59 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -122,7 +122,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/technology/openai-executive-departure-denise-dresser.html" rel="standout"></atom:link>
       <description>Denise Dresser, who was previously the C.E.O. of Slack, is the latest in a string of executives to leave the artificial intelligence start-up.</description>
       <dc:creator>Mike Isaac</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 21:15:40 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 21:15:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dresser, Denise H</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
@@ -343,8 +343,8 @@
       <pubDate>Wed, 12 Aug 2026 00:46:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flock Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Registration and License Plates</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
@@ -410,29 +410,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/podcasts/07hardfork-secret-rules-art-2/07hardfork-secret-rules-art-2-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
-    </item>
-    <item>
-      <title>Meta Ordered to Pay $567 Million Fine by New Mexico Judge</title>
-      <link>https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html" rel="standout"></atom:link>
-      <description>The penalty, imposed by a state judge, is on top of a $375 million fine ordered by a jury that found Meta misled users about the safety of its platforms.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 09:50:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/06biz-meta-new-mexico-clph/06biz-meta-new-mexico-clph-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Peter Dasilva/Reuters</media:credit>
-      <media:description>A New Mexico judge ordered Meta to pay $567 million and make changes to the way young people can use its platform</media:description>
     </item>
   </channel>
 </rss>

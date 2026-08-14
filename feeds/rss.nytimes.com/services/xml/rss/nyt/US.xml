@@ -3,17 +3,57 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1786676388571" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 13 Aug 2026 23:58:37 +0000</lastBuildDate>
-    <pubDate>Thu, 13 Aug 2026 23:52:43 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 02:59:48 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 02:35:01 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>American Missionary Kidnapped in Niger Said to Be Released From Captivity</title>
+      <link>https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/kevin-rideout-niger-islamic-state.html" rel="standout"></atom:link>
+      <description>The release of Kevin Rideout, an American missionary pilot who was seized in Niger’s capital last fall, has been a priority for the White House.</description>
+      <dc:creator>Eric Schmitt and Maggie Haberman</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 02:35:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missionaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Homsi, Abu Bilal al- (d 2015)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13DC-rescue-Niamey-bgwp/13DC-rescue-Niamey-bgwp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mahamadou Hamidou/Reuters</media:credit>
+      <media:description>Niamey, Niger, earlier this year. Kevin Rideout, an American missionary, was kidnapped outside his home in Niamey last fall.</media:description>
+    </item>
+    <item>
+      <title>California Ignored Sexual Abuse of Women in Prison, Justice Dept. Says</title>
+      <link>https://www.nytimes.com/2026/08/13/us/california-sexual-abuse-women-prison.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/california-sexual-abuse-women-prison.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/13/us/california-sexual-abuse-women-prison.html" rel="standout"></atom:link>
+      <description>A Justice Department report released on Thursday found that inmates at two state-run women’s prisons routinely had their rights violated. State officials say they have already put reforms in place.</description>
+      <dc:creator>Jill Cowan</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 01:21:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prison Guards and Corrections Officers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Prisons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dhillon, Harmeet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13nat-ca-prisons-women-chowchilla-tvml/13nat-ca-prisons-women-chowchilla-tvml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dan Hernandez/San Francisco Chronicle, via Associated Press</media:credit>
+      <media:description>The Central California Women’s Facility in Chowchilla, Calif., was one of two prisons named in a Justice Department report released on Thursday that found state authorities had deliberately ignored reports of inmate abuse.</media:description>
+    </item>
     <item>
       <title>Ex-Officer Held in New Orleans Mass Shooting Plot Is Freed Without Charges</title>
       <link>https://www.nytimes.com/2026/08/13/us/mass-shooting-new-orleans-ex-police-released.html</link>
@@ -209,7 +249,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/us/harvard-antisemitism-case-dismissed.html" rel="standout"></atom:link>
       <description>The government argued the university had not done enough to combat antisemitism during campus protests. A judge called the incidents “isolated and episodic.”</description>
       <dc:creator>Mark Arsenault</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 21:52:36 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 21:52:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
@@ -338,7 +378,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html" rel="standout"></atom:link>
       <description>The agency used a no-bid contract to buy 10 used jets, saying they were urgently needed for deportation flights. But the fleet has largely sat idle for months.</description>
       <dc:creator>David A. Fahrenthold, Andrea Fuller, Julie Tate, Nicholas Nehamas and Hamed Aleaziz</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 22:04:19 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 22:04:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
@@ -387,88 +427,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13dc-guns-mamw/13dc-guns-mamw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Erin Schaff for The New York Times</media:credit>
       <media:description>The popularity of gun suppressors, once a niche accessory, has skyrocketed.</media:description>
-    </item>
-    <item>
-      <title>Federal Hate Crime Charge Filed in Stabbing of Muslim Man in Utah</title>
-      <link>https://www.nytimes.com/2026/08/12/us/utah-stabbing-hate-crime-muslim.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/utah-stabbing-hate-crime-muslim.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/us/utah-stabbing-hate-crime-muslim.html" rel="standout"></atom:link>
-      <description>The attack left the victim with at least a dozen wounds as several bystanders rushed to intervene.</description>
-      <dc:creator>Ishani Desai</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 01:27:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Valley City (Utah)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-    </item>
-    <item>
-      <title>Hong’s Defeat in Wisconsin Sparks New Disagreements Within Democratic Party</title>
-      <link>https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/democratic-socialists-future-hong.html" rel="standout"></atom:link>
-      <description>Some Democrats said the outcome showed that the moderate wing of the party carried more electoral weight, while Ms. Hong’s strong showing gave some progressives hope.</description>
-      <dc:creator>Emily Davies and Kellen Browning</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:03:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Progressivism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crowley, David C (1986- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hong, Francesca (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12pol-democratic-socialists-regroup-wjft/12pol-democratic-socialists-regroup-wjft-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
-      <media:description>Francesca Hong speaking after losing the Wisconsin primary election. While democratic socialists planned to study Ms. Hong’s loss to improve their electoral fortunes, several said they viewed Tuesday’s result as strong proof of the movement’s rise.</media:description>
-    </item>
-    <item>
-      <title>A Fight Over Abortion and Surrogacy Ends With a Baby Born in Texas</title>
-      <link>https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/us/texas-surrogate-baby-abortion-dispute.html" rel="standout"></atom:link>
-      <description>The baby, who was born Wednesday with a severe heart defect, drew the attention of anti-abortion activists and the Texas attorney general after the intended parents wanted the surrogate mother to have an abortion.</description>
-      <dc:creator>J. David Goodman</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 15:53:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birth Defects</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surrogate Motherhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parental Rights Movement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paxton, Ken</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/us/12nat-txsurrogate/12nat-txsurrogate-mediumSquareAt3X-v5.jpg" width="1800"></media:content>
-      <media:credit>McKenna West</media:credit>
-      <media:description>A pregnant McKenna West, who has been the face of a surrogate dispute spanning three states.</media:description>
-    </item>
-    <item>
-      <title>ICE Agent Who Pushed Activist to the Ground Near Chicago Pleads Guilty</title>
-      <link>https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/ice-chicago-agent-guilty.html" rel="standout"></atom:link>
-      <description>The agent, Adam Saracco, was charged with misdemeanor after the altercation at a gas station near Chicago last year during the Trump administration’s crackdown there.</description>
-      <dc:creator>Madaleine Rubin</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 02:28:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cook County (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Actions in US Cities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12trump-news-ice-agent-wtcz/12trump-news-ice-agent-wtcz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jim Vondruska/Reuters</media:credit>
-      <media:description>Federal agents outside the immigrant detention center in Broadview, Ill., last year amid protests over President Trump’s enforcement actions near Chicago.</media:description>
     </item>
   </channel>
 </rss>
