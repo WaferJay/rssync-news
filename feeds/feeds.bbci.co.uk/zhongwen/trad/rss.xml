@@ -9,7 +9,7 @@
             <link>https://www.bbc.com/zhongwen/trad</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 14 Aug 2026 12:01:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Aug 2026 15:11:24 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/zhongwen/trad/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[英國廣播公司 版權所有 ]]></copyright>
         <language><![CDATA[zh-hant]]></language>
@@ -47,10 +47,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/8ca1/live/fb244850-94b0-11f1-afe9-fb1a837ec5d9.jpg"/>
         </item>
         <item>
+            <title><![CDATA[「我一個月便虧了一萬四」——遭遇韓國股市暴跌的散戶們]]></title>
+            <description><![CDATA[韓國股市近日猛烈調整，好些散戶遭受重創，遍體鱗傷。]]></description>
+            <link>https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/zhongwen/articles/cx2dkv400l8o/trad#0</guid>
+            <pubDate>Fri, 14 Aug 2026 14:59:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/deb9/live/fab7c360-8ee8-11f1-82dc-5d4d9e75125c.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[台灣首度模擬戰時「斷網」，30分鐘演練了什麼？]]></title>
             <description><![CDATA[台灣今年的「城鎮韌性」演習，首度模擬戰時的「斷網」情境，測試海底通訊電纜等關鍵通訊設施受損後的應變能力。對於距離台灣本島約200公里的馬祖居民來說，類似情境曾真實發生，當時「斷網」長達50天。]]></description>
             <link>https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#0</guid>
+            <guid isPermaLink="false">https://www.bbc.com/zhongwen/articles/cm2gpjnyl98o/trad#1</guid>
             <pubDate>Thu, 13 Aug 2026 03:13:24 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/d499/live/670ee540-96c1-11f1-a7ab-8b30adf0800a.jpg"/>
         </item>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.com/zhongwen/articles/cj03vgl8dz3o/trad#1</guid>
             <pubDate>Wed, 12 Aug 2026 00:07:32 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/b07c/live/4ae144e0-8e6e-11f1-8f96-0352b5c66e86.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[中國單身男性陷「閃婚」騙局：在孤獨與婚姻焦慮中受害]]></title>
-            <description><![CDATA[「閃婚」詐騙現象，反映出中國長期累積的人口結構危機已走向極端。]]></description>
-            <link>https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad#1</guid>
-            <pubDate>Tue, 11 Aug 2026 07:58:58 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63b2/live/079b5000-94d5-11f1-a7ab-8b30adf0800a.jpg"/>
         </item>
         <item>
             <title><![CDATA[AI浪潮衝擊青年就業 畢業生如何應對？]]></title>
@@ -215,6 +215,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/cc51/live/32680330-9630-11f1-870d-5d08c49babb2.jpg"/>
         </item>
         <item>
+            <title><![CDATA[中國單身男性陷「閃婚」騙局：在孤獨與婚姻焦慮中受害]]></title>
+            <description><![CDATA[「閃婚」詐騙現象，反映出中國長期累積的人口結構危機已走向極端。]]></description>
+            <link>https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.com/zhongwen/articles/c0rdx0qd11eo/trad#4</guid>
+            <pubDate>Tue, 11 Aug 2026 07:58:58 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/63b2/live/079b5000-94d5-11f1-a7ab-8b30adf0800a.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[MySpace 要回歸？粉絲想念那個無濾鏡、原圖直出的年代]]></title>
             <description><![CDATA[粉絲和創作者表示，MySpace 若要復興，必須給人一種個人化的感覺，而不是由演算法驅動的。 ]]></description>
             <link>https://www.bbc.com/zhongwen/articles/clyqg037d5yo/trad?at_medium=RSS&amp;at_campaign=rss</link>
@@ -229,14 +237,6 @@
             <guid isPermaLink="false">https://www.bbc.com/zhongwen/articles/c9347v9np5xo/trad#4</guid>
             <pubDate>Tue, 11 Aug 2026 11:46:20 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/43f8/live/ea1bed10-955a-11f1-b2ab-0dd01740f9f6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI將減少工作時間？科技業員工稱每週工時高達90小時]]></title>
-            <description><![CDATA[科技公司並未以自身實踐證明這項技術能為人們帶來更多閒暇時間。]]></description>
-            <link>https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.com/zhongwen/articles/clyxr681dn7o/trad#4</guid>
-            <pubDate>Tue, 11 Aug 2026 08:37:49 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/e1c0/live/bb9691e0-94b3-11f1-a7ab-8b30adf0800a.jpg"/>
         </item>
         <item>
             <title><![CDATA[為什麼航空公司對鋰電池日趨警惕]]></title>

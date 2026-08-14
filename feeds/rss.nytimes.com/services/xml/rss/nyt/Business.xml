@@ -3,17 +3,57 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?_cb=1786715167260" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 13:46:07 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 13:40:32 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:10:43 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 14:55:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom</title>
+      <link>https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html" rel="standout"></atom:link>
+      <description>Investment gains at Alphabet and Amazon reveal a new way in which technology companies’ fortunes are increasingly linked.</description>
+      <dc:creator>Joe Rennison</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 14:55:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/Biz-Circular-AI-01-mcwg/Biz-Circular-AI-01-mcwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lexi Parra/The New York Times</media:credit>
+      <media:description>Alphabet and Google have benefited from the rising value of their investments in A.I. companies, adding to profits beyond their core businesses.</media:description>
+    </item>
+    <item>
+      <title>Why Japan Is Struggling to Stop the Yen’s Decline</title>
+      <link>https://www.nytimes.com/2026/08/14/business/japan-yen-intervention.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/japan-yen-intervention.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/business/japan-yen-intervention.html" rel="standout"></atom:link>
+      <description>The currency has resumed its slide, eroding gains after the U.S. Treasury intervened to prop it up, as concerns mount about the direction of the country’s spending.</description>
+      <dc:creator>River Akira Davis</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 14:38:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Yen (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bank of Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/business/00Biz-Yen1/00Biz-Yen1-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The Yomiuri Shimbun, via Associated Press</media:credit>
+      <media:description>The rally in the yen has faded, with the currency approaching 160 yen per dollar, a level that could test the resolve of officials in Tokyo and Washington. </media:description>
+    </item>
     <item>
       <title>The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?</title>
       <link>https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html</link>
@@ -81,7 +121,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/upshot/gambling-pennsylvania-slots-skill-games.html" rel="standout"></atom:link>
       <description>A legal loophole kept “skill games” from being considered gambling. Now lawmakers are trying to save them from a court ruling.</description>
       <dc:creator>Leo Dominguez and Ben Blatt</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 09:00:08 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 14:05:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
@@ -163,7 +203,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/business/alfonso-fanjul-jr-dead.html" rel="standout"></atom:link>
       <description>With his brother, he presided over a family empire that includes the world’s largest cane sugar refiner and the Domino and C&amp;H brands.</description>
       <dc:creator>Trip Gabriel</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 15:39:25 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 14:55:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fanjul, Alfonso</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fanjul, J Pepe</category>
@@ -931,42 +971,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/00biz-waymo-hbmq/00biz-waymo-hbmq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
       <media:description>Waymo driverless cars are in San Francisco and 14 other metropolitan areas, including Denver, Las Vegas, San Diego and Tampa.</media:description>
-    </item>
-    <item>
-      <title>Why Meta Is Betting Big on Open A.I.</title>
-      <link>https://www.nytimes.com/2026/08/10/business/dealbook/meta-open-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/dealbook/meta-open-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/business/dealbook/meta-open-ai.html" rel="standout"></atom:link>
-      <description>The technology giant is embracing open models, closer ties to Washington and more as it seeks to catch up in the artificial intelligence race.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 12:43:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10db-zuckerberg-lbjf/10db-zuckerberg-lbjf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brendan McDermid/Reuters</media:credit>
-      <media:description>Mark Zuckerberg stressed the importance of open artificial intelligence models in a lengthy new essay about his approach to the technology.</media:description>
-    </item>
-    <item>
-      <title>Boeing to Sell 3 Autonomous Flight Subsidiaries</title>
-      <link>https://www.nytimes.com/2026/08/10/business/boeing-subsidiaries-sale-archer-aviation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/boeing-subsidiaries-sale-archer-aviation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/business/boeing-subsidiaries-sale-archer-aviation.html" rel="standout"></atom:link>
-      <description>In exchange for the sale to Archer Aviation, which is developing a piloted electric aircraft, Boeing will receive a 16.5 percent stake in Archer.</description>
-      <dc:creator>Niraj Chokshi</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 18:09:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archer Aviation Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Wisk Aero LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flying Cars</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/business/10biz-boeing-airtaxi/10biz-boeing-airtaxi-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Richard Baker/in Pictures, via Getty Images</media:credit>
-      <media:description>Archer Aviation is currently developing piloted electric aircraft capable of taking off and landing vertically like a helicopter, for both commercial and military uses.</media:description>
     </item>
   </channel>
 </rss>

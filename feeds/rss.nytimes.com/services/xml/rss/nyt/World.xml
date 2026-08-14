@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; World News</title>
     <link>https://www.nytimes.com/section/world</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml?_cb=1786715102279" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/World.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 13:45:02 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 13:40:59 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:08:32 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 15:04:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,13 +39,13 @@
       <media:description>Police officers in Chisinau, the Moldovan capital, watching protesters gather outside the electoral commission after the polls closed for parliamentary elections in 2025.</media:description>
     </item>
     <item>
-      <title>Heat is Hammering Europe, Again. Here’s What That Looks Like.</title>
+      <title>Heat Is Hammering Europe, Again. Here’s What That Looks Like.</title>
       <link>https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html" rel="standout"></atom:link>
       <description>Extreme temperatures and repeated wildfires are pushing infrastructure to the limit and testing the continent’s resolve.</description>
       <dc:creator>Lynsey Chutel</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 12:35:23 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 15:04:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/world/africa/american-missionary-niger-rideout-released.html" rel="standout"></atom:link>
       <description>Kevin Rideout, a pilot, was abducted from his home in the country’s capital, Niamey, last fall. His mission organization said he was in “good health” after his release.</description>
       <dc:creator>Ruth Maclean and Eric Schmitt</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 13:38:20 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 14:23:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missionaries</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Serving in Mission (SIM)</category>
@@ -133,18 +133,17 @@
       <description>Nigel Farage, the leader of Reform U.K., won the Clacton by-election with 63 percent. Count Binface, a novelty candidate, came second with 27 percent, a personal best.</description>
       <dc:creator>Michael D. Shear</dc:creator>
       <pubDate>Fri, 14 Aug 2026 11:56:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Legislatures and Parliaments</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts to Public Officials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reform UK (British Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Farage, Nigel (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="">Binface, Count</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Clacton-on-Sea (England)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Essex (England)</category>
+      <category domain="">Binface, Count</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-uk-farage-results-hfo-hzpf/14int-uk-farage-results-hfo-hzpf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Toby Shepheard/Reuters</media:credit>
       <media:description>Nigel Farage leaves a polling station after he voted in the Clacton by-election on Thursday.</media:description>
@@ -176,7 +175,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/heat-trains-transportation-roads.html" rel="standout"></atom:link>
       <description>The continent’s railways and roads “were engineered for a climate that no longer exists,” one expert said.</description>
       <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 09:07:25 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:07:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Transit Systems</category>
@@ -392,13 +391,14 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/world/middleeast/west-bank-siege-israeli-settlers.html" rel="standout"></atom:link>
       <description>The military’s failure to keep extremists away from two Palestinian families trapped in their West Bank homes made clear the chaos gripping the Israeli-occupied territory.</description>
       <dc:creator>Natan Odenheimer and Fatima AbdulKarim</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 20:18:47 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 20:18:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Qusra (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13int-westbank-1-gqkf/13int-westbank-1-gqkf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Zain Jaafar/Agence France-Presse — Getty Images</media:credit>
       <media:description>Israeli soldiers patrolling a street Thursday during an operation in the village of Qusra, in the Israeli-occupied West Bank.</media:description>
@@ -457,14 +457,15 @@
       <description>The city of Belém in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.</description>
       <dc:creator>Apoorva Mandavilli and Alessandro Falco</dc:creator>
       <pubDate>Thu, 13 Aug 2026 14:49:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belem (Brazil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dengue Fever</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chikungunya Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belem (Brazil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00dc-mosquitoes-top-01-zmbl/00dc-mosquitoes-top-01-zmbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>A health worker discarding water from a larvicide dissemination unit in Belém, Brazil, last month.</media:description>
     </item>

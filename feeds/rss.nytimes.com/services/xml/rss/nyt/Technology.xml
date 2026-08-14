@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Technology</title>
     <link>https://www.nytimes.com/section/technology</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml?_cb=1786715177924" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 13:46:18 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 13:07:20 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:07:15 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 14:08:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,12 +21,12 @@
       <atom:link href="https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html" rel="standout"></atom:link>
       <description>Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images.</description>
       <dc:creator>Brian X. Chen</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:04:41 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 14:08:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pangram Labs Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Every Media Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/business/12biz-techfix/12biz-techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/business/12biz-techfix/12biz-techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sisi Yu</media:credit>
     </item>
     <item>
@@ -119,7 +119,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/magazine/ai-chatbots-internet-communication-loops.html" rel="standout"></atom:link>
       <description>In matters of work, school and even romance, we turn to A.I. chatbots. But what happens when the bots begin talking to one another?</description>
       <dc:creator>Callie Holtermann</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 09:00:27 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:00:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>

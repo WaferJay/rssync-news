@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 13:45:09 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 13:39:36 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 15:09:21 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 14:30:37 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -22,14 +22,15 @@
       <description>The city of Belém in northern Brazil was overwhelmed by an outbreak of dengue two years ago. An all-out municipal effort has reduced cases and may offer lessons to American cities.</description>
       <dc:creator>Apoorva Mandavilli and Alessandro Falco</dc:creator>
       <pubDate>Thu, 13 Aug 2026 14:49:56 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belem (Brazil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dengue Fever</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Chikungunya Virus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pesticides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Amazon Jungle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belem (Brazil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00dc-mosquitoes-top-01-zmbl/00dc-mosquitoes-top-01-zmbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>A health worker discarding water from a larvicide dissemination unit in Belém, Brazil, last month.</media:description>
     </item>
