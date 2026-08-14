@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 06:47:33 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 01:42:49 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 10:26:04 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 09:04:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -194,6 +194,20 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10VACCINE-EO-sub-fbzg/10VACCINE-EO-sub-fbzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump signed an executive order calling for fewer childhood vaccines in the Oval Office on Monday.</media:description>
+    </item>
+    <item>
+      <title>Why You Envy Your Friends</title>
+      <link>https://www.nytimes.com/2026/08/14/well/mind/envy-friends.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/well/mind/envy-friends.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/well/mind/envy-friends.html" rel="standout"></atom:link>
+      <description>Turn that burning resentment into insight and motivation.</description>
+      <dc:creator>Elizabeth Passarella</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 09:04:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emotions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/13/well/13Well-NL-Jealousy/13Well-NL-Jealousy-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Matt Chase</media:credit>
     </item>
     <item>
       <title>Taylor Farms Voluntarily Recalls Fresh Jalapeños Over Salmonella Concerns</title>
@@ -406,21 +420,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-cdc-director-tmfp/05dc-cdc-director-tmfp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Dr. Erica Schwartz during her Senate confirmation hearing last month.</media:description>
-    </item>
-    <item>
-      <title>U.S. Cuts Ties With Organ Donor Group After Reports of Abuses</title>
-      <link>https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/us/organ-donations-kentucky.html" rel="standout"></atom:link>
-      <description>The federal government is ending its contract with a Kentucky nonprofit that it says pressured medical workers to remove organs from patients who were getting better.</description>
-      <dc:creator>Brian M. Rosenthal</dc:creator>
-      <pubDate>Thu, 06 Aug 2026 16:34:16 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organ Donation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transplants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Life-Sustaining Support Systems, Withdrawal Of</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
     </item>
   </channel>
 </rss>
