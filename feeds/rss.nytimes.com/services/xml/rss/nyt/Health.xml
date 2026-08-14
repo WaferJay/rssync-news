@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 10:26:04 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 09:04:05 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:45:09 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 13:39:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -210,6 +210,23 @@
       <media:credit>Matt Chase</media:credit>
     </item>
     <item>
+      <title>Brad Pitt’s Return to Drinking Is Not Unsafe, Experts Say</title>
+      <link>https://www.nytimes.com/2026/08/14/us/brad-pitt-sobriety-experts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/us/brad-pitt-sobriety-experts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/us/brad-pitt-sobriety-experts.html" rel="standout"></atom:link>
+      <description>His disclosure in an interview revived a key question about sobriety: whether someone who once drank dangerously can ever drink moderately.</description>
+      <dc:creator>Mark Walker</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 13:39:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pitt, Brad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcohol Abuse</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alcoholics Anonymous</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hazelden Betty Ford Foundation</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14xp-pitt-wvjm/14xp-pitt-wvjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Angela Weiss/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Brad Pitt last year. “I had taken things as far as I could take it, so I removed my drinking privileges,” he told The New York Times in 2019.</media:description>
+    </item>
+    <item>
       <title>Taylor Farms Voluntarily Recalls Fresh Jalapeños Over Salmonella Concerns</title>
       <link>https://www.nytimes.com/2026/08/09/business/taylor-farms-jalapenos-salmonella.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/business/taylor-farms-jalapenos-salmonella.html</guid>
@@ -400,26 +417,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-fauci-legal-explainer-zpbc/05dc-fauci-legal-explainer-zpbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Dr. Anthony Fauci, former director of the National Institute of Allergy and Infectious Diseases, at a Senate Homeland Security Committee hearing last week.</media:description>
-    </item>
-    <item>
-      <title>Senate Confirms Dr. Erica Schwartz as C.D.C. Director</title>
-      <link>https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/05/health/cdc-erica-schwartz.html" rel="standout"></atom:link>
-      <description>Dr. Schwartz, a deputy surgeon general in the first Trump administration, has publicly supported childhood vaccines.</description>
-      <dc:creator>Apoorva Mandavilli</dc:creator>
-      <pubDate>Wed, 05 Aug 2026 21:11:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schwartz, Erica (Doctor)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cassidy, Bill (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/05dc-cdc-director-tmfp/05dc-cdc-director-tmfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Dr. Erica Schwartz during her Senate confirmation hearing last month.</media:description>
     </item>
   </channel>
 </rss>

@@ -3,25 +3,55 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?_cb=1786715167260" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 12:00:37 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 11:24:03 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:46:07 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 13:40:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
     <item>
-      <title>Gone in 20 Minutes: Half-Off Sushi Draws Throngs to New York’s Japanese Markets</title>
+      <title>The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?</title>
+      <link>https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html" rel="standout"></atom:link>
+      <description>The S&amp;P 500 is in position for a rare fourth year of consecutive annual gains. Risks are rising, our columnist says, yet Wall Street is doubling down.</description>
+      <dc:creator>Jeff Sommer</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 13:00:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/business/16strategies-illo/16strategies-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michela Buttignol</media:credit>
+    </item>
+    <item>
+      <title>Robinhood Bets Again on a Public Venture Capital Fund</title>
+      <link>https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html" rel="standout"></atom:link>
+      <description>The trading platform raised $200 million for a second publicly traded vehicle to let ordinary investors buy into privately held start-ups.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 12:37:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robinhood Financial LLC</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14db-robinhood-ventures-mlvt/14db-robinhood-ventures-mlvt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <media:description>Vlad Tenev, the C.E.O. of Robinhood, celebrating the I.P.O. of the Robinhood Ventures Fund I at the New York Stock Exchange in March. The company’s second venture fund began trading yesterday.</media:description>
+    </item>
+    <item>
+      <title>New Yorkers Can’t Stop Lining Up for This Sushi</title>
       <link>https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html" rel="standout"></atom:link>
-      <description>At a proliferating number of stores, discounts on items like sushi are offered after 8 p.m. To get the best meals, you have to be there early.</description>
+      <description>At a proliferating number of stores, discounts on sushi and other items are offered after 8 p.m. To get the best meals, you have to be there early.</description>
       <dc:creator>Emmett Lindner and Kareem Black</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 10:42:20 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 12:38:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sushi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Japanese Food (Cuisine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
@@ -33,9 +63,9 @@
     </item>
     <item>
       <title>A Silicon Valley Dirt Farmer Hangs Up His Shears</title>
-      <link>https://www.nytimes.com/2026/08/14/business/a-silicon-valley-dirt-farmer-hangs-up-his-shears.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/a-silicon-valley-dirt-farmer-hangs-up-his-shears.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/business/a-silicon-valley-dirt-farmer-hangs-up-his-shears.html" rel="standout"></atom:link>
+      <link>https://www.nytimes.com/2026/08/14/business/andys-orchard-silicon-valley.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/andys-orchard-silicon-valley.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/business/andys-orchard-silicon-valley.html" rel="standout"></atom:link>
       <description>Andy Mariani grows exotic and ethereally delicious stone fruit in the shadow of tech giants. But at age 80, it’s time to give up the land.</description>
       <dc:creator>Carol Pogash and Ian C. Bates</dc:creator>
       <pubDate>Fri, 14 Aug 2026 09:00:40 +0000</pubDate>
@@ -937,40 +967,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/business/10biz-boeing-airtaxi/10biz-boeing-airtaxi-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Richard Baker/in Pictures, via Getty Images</media:credit>
       <media:description>Archer Aviation is currently developing piloted electric aircraft capable of taking off and landing vertically like a helicopter, for both commercial and military uses.</media:description>
-    </item>
-    <item>
-      <title>Private Equity Is Stuck With 33,575 Unsold Businesses</title>
-      <link>https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html" rel="standout"></atom:link>
-      <description>Even amid a booming deal-making environment, private equity firms are unable to exit a growing number of investments at values their investors require.</description>
-      <dc:creator>Maureen Farrell</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 09:01:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Equity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apollo Global Management</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Blackstone Group, The</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/business/00biz-private-equity-limbo/00biz-private-equity-limbo-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Carla Gottgens/Bloomberg</media:credit>
-      <media:description>Jim Zelter, president of the investment behemoth Apollo Global Management, which last week reported weak quarterly results in its private equity division.</media:description>
-    </item>
-    <item>
-      <title>Can A.I. Get You Where You Want to Go for Less?</title>
-      <link>https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/travel/ai-travel-savings.html" rel="standout"></atom:link>
-      <description>A wave of new services uses A.I. to monitor flights and hotel reservations to help you find lower prices. We look at how these tools work.</description>
-      <dc:creator>Elaine Glusac</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 11:24:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservations (Airlines, Hotels, Etc.)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budget Travel</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/03/travel/00frugal-AI-savings-illo/00frugal-AI-savings-illo-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>Chanelle Nibbelink</media:credit>
     </item>
   </channel>
 </rss>

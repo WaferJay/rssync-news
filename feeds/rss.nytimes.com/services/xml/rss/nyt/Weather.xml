@@ -7,13 +7,37 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 12:02:03 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 11:28:35 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 13:49:24 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 13:48:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Heat is Hammering Europe, Again. Here’s What That Looks Like.</title>
+      <link>https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/world/europe/europe-heat-wave-photos.html" rel="standout"></atom:link>
+      <description>Extreme temperatures and repeated wildfires are pushing infrastructure to the limit and testing the continent’s resolve.</description>
+      <dc:creator>Lynsey Chutel</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 12:35:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bosnia and Herzegovina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Greece</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Switzerland</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-europe-heat-visuals-01-vzwq/14int-europe-heat-visuals-01-vzwq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
+      <media:description>A sweltering day near Tower Bridge in London on Thursday.</media:description>
+    </item>
     <item>
       <title>Record-Breaking Rainfall Leaves Eight Dead and Thousands Stranded in Japan</title>
       <link>https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html</link>
@@ -21,7 +45,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/world/asia/chiba-tokyo-flood-rain-deaths.html" rel="standout"></atom:link>
       <description>Three months’ worth of rain fell in just 12 hours in a region east of Tokyo, leading to deadly flooding.</description>
       <dc:creator>Kiuko Notoya</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 09:39:01 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 12:47:33 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
@@ -74,7 +98,7 @@
       <atom:link href="https://www.nytimes.com/video/opinion/100000010819020/a-new-inferno.html" rel="standout"></atom:link>
       <description>Firefighters in Phoenix race to save lives in a city that’s only getting hotter.</description>
       <dc:creator>Nita Blum-Reddick and Jonathan Pickett</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 08:55:03 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:26:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -87,7 +111,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/weather/europe-extreme-weather-heat-wave.html" rel="standout"></atom:link>
       <description>Another day of near record heat baked the continent on Friday, but temperatures could retreat to seasonal averages in the coming days.</description>
       <dc:creator>Amy Graff, Nazaneen Ghaffar and Lynsey Chutel</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 10:38:20 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 12:41:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -220,7 +244,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/12/weather/hawaii-storm-hurricane-lala.html" rel="standout"></atom:link>
       <description>The first tropical storm to form in the central Pacific this year is threatening to strengthen as it churns toward Hawaii.</description>
       <dc:creator>Judson Jones and Amy Graff</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 00:02:41 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 13:48:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
