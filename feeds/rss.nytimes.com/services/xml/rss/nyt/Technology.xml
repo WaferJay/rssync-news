@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 10:24:45 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 09:00:27 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 11:59:42 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 11:45:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -94,6 +94,23 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07biz-river-ai--01-fpmc/07biz-river-ai--01-fpmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Poppy Lynch for The New York Times</media:credit>
       <media:description>Igor Babuschkin built a new start-up, River AI, and hopes to provide ways for people to “retrain,” or modify, artificial intelligence as they see fit.</media:description>
+    </item>
+    <item>
+      <title>Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math</title>
+      <link>https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/podcasts/zuckerberg-essay-pangram-math.html" rel="standout"></atom:link>
+      <description>“The first rule of Mark Zuckerberg is never count out Mark Zuckerberg.”</description>
+      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Marion Lozano, Pat McCusker, Alyssa Moxley and Diane Wong</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 11:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pangram Labs Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/podcasts/14hardfork-zuckerbergessay-updated/14hardfork-zuckerbergessay-updated-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Image: Jason Henry for The New York Times</media:credit>
     </item>
     <item>
       <title>Chatbots Are Pushing Us Toward a Post-Human Internet</title>
@@ -406,24 +423,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/08/multimedia/08CLI-AMAZON-jtbw/08CLI-AMAZON-jtbw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Danielle Villasana/Reuters</media:credit>
       <media:description>The artificial intelligence boom is causing tech companies like Amazon to struggle to meet their pledges to cut greenhouse gas emissions.</media:description>
-    </item>
-    <item>
-      <title>The White House’s Secret A.I. Rules + The State of Model Alignment With METR’s Chris Painter + The Final Hot Mess Express</title>
-      <link>https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/07/podcasts/hardfork-white-house-secret-rules.html" rel="standout"></atom:link>
-      <description>A few details from the White House’s A.I. plan have leaked to the news media, but the administration has officially communicated almost nothing.</description>
-      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Katie McMurran, Dan Powell, Elisheba Ittoop, Rowan Niemisto and Alyssa Moxley</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 21:31:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hassabis, Demis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/podcasts/07hardfork-secret-rules-art-2/07hardfork-secret-rules-art-2-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Photo Illustration by The New York Times; Images: Getty Images</media:credit>
     </item>
   </channel>
 </rss>
