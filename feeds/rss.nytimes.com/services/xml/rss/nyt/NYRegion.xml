@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 18:06:06 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 17:59:43 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:20:14 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 19:00:36 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/08/14/nyregion/luigi-mangione-plea-deal" rel="standout"></atom:link>
       <description>Luigi Mangione said he stalked the executive, Brian Thompson, before killing him. “I shot Mr. Thompson,” he told the judge. His lawyers said they would argue that his plea means he cannot be tried for murder in state court.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 17:59:43 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 19:00:36 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-promo-1pm-lwcb/14met-mangione-promo-1pm-lwcb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Dee Delgado/Reuters</media:credit>
     </item>
@@ -32,13 +32,12 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/what-is-next-luigi-mangione-case.html" rel="standout"></atom:link>
       <description>Mr. Mangione’s plea in the federal case could make it difficult for New York State prosecutors to try their own case.</description>
       <dc:creator>Hurubie Meko</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 17:53:02 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 18:20:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Double Jeopardy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carro, Gregory</category>
@@ -48,6 +47,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-plea-whats-next-01-mpjq/14met-mangione-plea-whats-next-01-mpjq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Barry Williams</media:credit>
       <media:description>Luigi Mangione, center, appearing in Manhattan Supreme Court on Tuesday in New York.</media:description>
@@ -202,6 +203,45 @@
       <media:description>Luigi Mangione is facing both state and federal charges in connection with the December 2024 killing of UnitedHealthcare’s chief executive.</media:description>
     </item>
     <item>
+      <title>Mangione Admits to Fatally Shooting Insurance Executive in Manhattan</title>
+      <link>https://www.nytimes.com/2026/08/14/nyregion/mangione-admits-shooting-executive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/mangione-admits-shooting-executive.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/mangione-admits-shooting-executive.html" rel="standout"></atom:link>
+      <description>At a hearing in which he pleaded guilty to federal crimes, Luigi Mangione said he endured years of back pain while navigating the insurance industry before killing the chief executive of UnitedHealthcare.</description>
+      <dc:creator>Benjamin Weiser, Hurubie Meko, Kate Christobek and Anusha Bayya</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 19:00:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Garnett, Margaret Merrell</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-plea-admission2/14met-mangione-promo-1pm-lwcb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>David Dee Delgado/Reuters</media:credit>
+      <media:description>Luigi Mangione’s admissions in Federal District Court in Manhattan represented the first time he had publicly spoken about the killing of Brian Thompson, the UnitedHealthcare chief executive.</media:description>
+    </item>
+    <item>
+      <title>Youman Wilder, Baseball Coach Who Said He Faced Down ICE Agents, Dies at 63</title>
+      <link>https://www.nytimes.com/2026/08/14/nyregion/youman-wilder-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/youman-wilder-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/youman-wilder-dead.html" rel="standout"></atom:link>
+      <description>He told reporters that he intervened when federal agents approached his young Black and Latino players after a practice last summer.</description>
+      <dc:creator>Jeré Longman</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 18:20:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wilder, Youman (1963-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+    </item>
+    <item>
       <title>A Timeline of Luigi Mangione’s Cases, From the UnitedHealthcare CEO’s Killing to a Guilty Plea</title>
       <link>https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-timeline.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/luigi-mangione-timeline.html</guid>
@@ -219,6 +259,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <media:content height="933" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-case-timeline3-fgkl/14met-mangione-case-timeline3-fgkl-mediumSquareAt3X.jpg" width="933"></media:content>
       <media:credit>Rachel Wisniewski for The New York Times</media:credit>
       <media:description>Luigi Mangione was arrested in Pennsylvania on Dec. 9, 2024, in connection with the murder of Brian Thompson, the chief executive of UnitedHealthcare, the previous week.</media:description>
@@ -230,7 +272,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/business/unitedhealthcare-killing-luigi-mangione-affordability.html" rel="standout"></atom:link>
       <description>Higher premiums and rising medical bills have intensified Americans’ dissatisfaction with their medical coverage.</description>
       <dc:creator>Reed Abelson</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 16:56:44 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 16:56:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
@@ -251,13 +293,14 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/who-is-luigi-mangione.html" rel="standout"></atom:link>
       <description>A star student from a wealthy family, he attended an Ivy League university, worked in tech and traveled. But his posts and activity on social media suggested some struggle.</description>
       <dc:creator>Ed Shanahan</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 14:31:38 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 18:33:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">UnitedHealth Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaczynski, Theodore J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-plea-who-is-luigi-ctgv/14met-mangione-plea-who-is-luigi-ctgv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jefferson Siegel for The New York Times</media:credit>
       <media:description>Luigi Mangione on Dec. 23, 2024, at his arraignment on charges of the murder of Brian Thompson, the chief executive of the insurance company UnitedHealthcare.</media:description>
@@ -284,7 +327,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/08/14/nyregion/luigi-mangione-plea-deal/heres-the-latest" rel="standout"></atom:link>
       <description>Here’s the latest.</description>
       <dc:creator>Liam Stack, Hurubie Meko and Benjamin Weiser</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 17:59:41 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 18:54:48 +0000</pubDate>
     </item>
     <item>
       <title>New Yorkers Can’t Stop Lining Up for This Sushi</title>
@@ -348,41 +391,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wayne (NJ)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pelham (NY)</category>
-    </item>
-    <item>
-      <title>Homes for Sale in Manhattan and Queens</title>
-      <link>https://www.nytimes.com/2026/08/13/realestate/housing-market-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/realestate/housing-market-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/realestate/housing-market-nyc.html" rel="standout"></atom:link>
-      <description>This week’s properties are in Kips Bay, Yorkville and Long Island City.</description>
-      <dc:creator>Heather Senison</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 09:03:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kips Bay (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island City (Queens, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yorkville (Manhattan, NY)</category>
-    </item>
-    <item>
-      <title>Outdoor Dining Will Resume Year-Round in New York City</title>
-      <link>https://www.nytimes.com/2026/08/13/nyregion/outdoor-dining-is-expected-to-resume-year-round-in-new-york-city.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/nyregion/outdoor-dining-is-expected-to-resume-year-round-in-new-york-city.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/nyregion/outdoor-dining-is-expected-to-resume-year-round-in-new-york-city.html" rel="standout"></atom:link>
-      <description>The City Council approved a package of bills loosening some restrictions on roadway dining structures, which became ubiquitous during the pandemic.</description>
-      <dc:creator>Dana Rubinstein and Claire Fahy</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 22:48:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sidewalks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Menin, Julie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Restler, Lincoln</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13met-outdoor-dining-jqcv/13met-outdoor-dining-jqcv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Marissa Alper for The New York Times</media:credit>
-      <media:description>New York City’s outdoor dining program helped keep the restaurant industry afloat during the Covid pandemic, but also drew complaints about poorly maintained sheds, prompting the city to tighten regulations.</media:description>
     </item>
   </channel>
 </rss>

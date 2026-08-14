@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 14 Aug 2026 17:14:32 +0000</lastBuildDate>
-    <pubDate>Fri, 14 Aug 2026 17:12:12 +0000</pubDate>
+    <lastBuildDate>Fri, 14 Aug 2026 19:22:23 +0000</lastBuildDate>
+    <pubDate>Fri, 14 Aug 2026 19:02:14 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>Google Turns On Gemini A.I. for Students Using Its Classroom App</title>
+      <link>https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/business/google-gemini-ai-schools.html" rel="standout"></atom:link>
+      <description>Google enabled A.I. features for K-12 schools that have allowed student access to Gemini. Until this week, Google automatically enabled Gemini in Classroom only for students 18 or older.</description>
+      <dc:creator>Natasha Singer</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 18:54:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Gemini-schools-wgzl/13Gemini-schools-wgzl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ysa Pérez for The New York Times</media:credit>
+      <media:description>Starting this week, a new Gemini tab within Classroom lets some students seek A.I. help on math problems and writing assignments; generate course aids like study guides, quizzes and flashcards; and produce images.</media:description>
+    </item>
     <item>
       <title>Amazon and Alphabet’s Profits Reveal Circular Nature of A.I. Boom</title>
       <link>https://www.nytimes.com/2026/08/14/business/ai-tech-profits.html</link>
@@ -49,25 +65,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Every Media Inc</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/business/12biz-techfix/12biz-techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sisi Yu</media:credit>
-    </item>
-    <item>
-      <title>America Wants to Make Its Own Humanoid Robots. That Won’t Be Easy.</title>
-      <link>https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/business/humanoid-robot-us-china.html" rel="standout"></atom:link>
-      <description>China already manufactures humanoid robots by the thousands. A new generation of U.S. start-ups is betting that there is still time to compete.</description>
-      <dc:creator>Meaghan Tobin and Amir Hamja</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 11:25:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Haggerty, Teddy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robo Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Biz-US-Robots-01-bgjt/13Biz-US-Robots-01-bgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>As a distributor for Unitree Robotics, Teddy Haggerty had a close-up view of China’s massive robotics industry. He also saw how much demand there was in the United States.</media:description>
     </item>
     <item>
       <title>Zuckerberg’s Anti-Doom Fantasy + Finally an A.I. Detector That Works + A.I. Math</title>
