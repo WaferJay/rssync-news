@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 07:02:28 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 07:00:05 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 09:44:42 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 09:00:13 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -188,6 +188,20 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-plea-admission2/14met-mangione-promo-1pm-lwcb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Dee Delgado/Reuters</media:credit>
       <media:description>Luigi Mangione’s admissions in Federal District Court in Manhattan represented the first time he had publicly spoken about the killing of Brian Thompson, the UnitedHealthcare chief executive.</media:description>
+    </item>
+    <item>
+      <title>There Are Over 1 Million N.Y.C. Street Signs. Here’s How They Are Made.</title>
+      <link>https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html" rel="standout"></atom:link>
+      <description>From Cornelia Street to the Brooklyn-Queens Expressway, the 46 workers in this Queens building bring to life the words and symbols that guide the city.</description>
+      <dc:creator>Winnie Hu and Juan Arredondo</dc:creator>
+      <pubDate>Sat, 15 Aug 2026 09:00:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic and Parking Signals and Signs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Knicks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maspeth (Queens, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/SIGNSHOP-TOP-SWAP-cmkw/SIGNSHOP-TOP-SWAP-cmkw-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
     <item>
       <title>N.Y.C. Congestion Pricing Has Little Effect on Air Quality, Study Finds</title>
@@ -433,23 +447,6 @@
       <description>Here’s the latest.</description>
       <dc:creator>Liam Stack, Hurubie Meko and Benjamin Weiser</dc:creator>
       <pubDate>Fri, 14 Aug 2026 18:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>New Yorkers Can’t Stop Lining Up for This Sushi</title>
-      <link>https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/sushi-discount-japanese-markets-new-york.html" rel="standout"></atom:link>
-      <description>At a proliferating number of stores, discounts on sushi and other items are offered after 8 p.m. To get the best meals, you have to be there early.</description>
-      <dc:creator>Emmett Lindner and Kareem Black</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 12:38:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sushi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Japanese Food (Cuisine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Seafood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
     </item>
   </channel>
 </rss>
