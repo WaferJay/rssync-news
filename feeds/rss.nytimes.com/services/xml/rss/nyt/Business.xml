@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 09:44:29 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 09:02:33 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 13:00:08 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 12:57:39 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>The Cutthroat Wearables Battle Is About More Than Tracking Your Fitness</title>
+      <link>https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/15/business/dealbook/wearables-healthcare.html" rel="standout"></atom:link>
+      <description>Google, Apple, Samsung and upstarts like Oura are racing to integrate data from their wearable devices into the health care system.</description>
+      <dc:creator>Brent Crane</dc:creator>
+      <pubDate>Sat, 15 Aug 2026 12:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Oura Health Oy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Group</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/business/15db-wearables/15db-wearables-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Antonio Giovanni Pinna</media:credit>
+    </item>
     <item>
       <title>Sports Team Sale Prices Keep Hitting New Highs</title>
       <link>https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html</link>
@@ -21,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/15/business/sports-team-values-billionaires.html" rel="standout"></atom:link>
       <description>This week’s deal for the Los Angeles Lakers, which valued the team at a record $12.5 billion, was the latest in a pattern of skyrocketing prices.</description>
       <dc:creator>Tania Ganguli</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 09:02:33 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 09:02:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boston Celtics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Lakers</category>
@@ -954,25 +971,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/00biz-auto-robots-promo-ghzw/00biz-auto-robots-promo-ghzw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Ari Emanuel’s Company to Acquire 7 Broadway Theaters and 10 in the West End</title>
-      <link>https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/theater/ari-emanuel-atg-entertainment.html" rel="standout"></atom:link>
-      <description>The purchase of ATG Entertainment, which operates dozens of venues worldwide, will require regulatory approval.</description>
-      <dc:creator>Michael Paulson</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 14:36:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Emanuel, Ariel Z</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ATG Entertainment Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theaters (Buildings)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater (Broadway)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11cul-emanuel-theaters-plfm/11cul-emanuel-theaters-plfm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Tullo for The New York Times</media:credit>
-      <media:description>ATG Entertainment operates seven Broadway theaters, including the Lyric Theater, which has housed “Harry Potter and the Cursed Child” for eight years.</media:description>
     </item>
   </channel>
 </rss>
