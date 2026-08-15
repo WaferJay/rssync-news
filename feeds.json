@@ -1,49 +1,85 @@
 {
   "last_updated_feeds": [
     {
-      "url": "https://www.rfi.fr/fr/moyen-orient/rss",
-      "path": "feeds/www.rfi.fr/fr/moyen-orient/rss"
+      "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/politics/rss.xml"
     },
     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Weather.xml"
+      "url": "https://feeds.bbci.co.uk/news/scotland/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/scotland/rss.xml"
     },
     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+      "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/world/rss.xml"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/asie-pacifique/rss",
+      "path": "feeds/www.rfi.fr/fr/asie-pacifique/rss"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWorldNews"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/france/rss",
+      "path": "feeds/www.rfi.fr/fr/france/rss"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSLifestyle",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSLifestyle"
     },
     {
       "url": "https://www.rfi.fr/fr/rss",
       "path": "feeds/www.rfi.fr/fr/rss"
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "path": "feeds/feeds.bbci.co.uk/news/uk/rss.xml"
+      "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/world/us_and_canada/rss.xml"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/europe/rss",
+      "path": "feeds/www.rfi.fr/fr/europe/rss"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Climate.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Climate.xml"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/RSSStyle",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSStyle"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/business/rss.xml"
     },
     {
       "url": "https://feeds.bbci.co.uk/news/rss.xml",
       "path": "feeds/feeds.bbci.co.uk/news/rss.xml"
     },
     {
-      "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
-      "path": "feeds/feeds.bbci.co.uk/zhongwen/trad/rss.xml"
+      "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/uk/rss.xml"
     },
     {
-      "url": "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "path": "feeds/feeds.bbci.co.uk/news/england/rss.xml"
+      "url": "https://feeds.content.dowjones.io/public/rss/latestnewsrealestate",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/latestnewsrealestate"
     },
     {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/US.xml"
-    },
-    {
-      "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
-    },
-    {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Weather.xml"
     }
   ],
-  "update_time": 1786766314607
+  "update_time": 1786769542957
 }

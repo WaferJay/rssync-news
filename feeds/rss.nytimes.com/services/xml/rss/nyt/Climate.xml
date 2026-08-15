@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 01:52:17 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 01:12:02 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 04:52:21 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 04:01:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -141,6 +141,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Heat Deaths in a ‘Cold’ Country Are a Warning to the Rest of Europe</title>
+      <link>https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/15/world/europe/heat-deaths-in-a-cold-country-are-a-warning-to-the-rest-of-europe.html" rel="standout"></atom:link>
+      <description>A June heat wave in Belgium and neighboring countries exposed a lethal lack of readiness. That’s a risk as another wave hits Europe.</description>
+      <dc:creator>Jeanna Smialek and Koba Ryckewaert</dc:creator>
+      <pubDate>Sat, 15 Aug 2026 04:01:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elderly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Conditioning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wallonia (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Charleroi (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Liege (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15int-belgium-heat-deaths-01-vmlz/15int-belgium-heat-deaths-01-vmlz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ksenia Kuleshova for The New York Times</media:credit>
+      <media:description>Treating a 77-year-old woman for heat-related illness last month at MontLégia hospital in the Belgian city of Liège.</media:description>
     </item>
     <item>
       <title>Extreme Heat Is The New Normal</title>
@@ -992,25 +1015,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arctic Regions</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/00dc-trump-arctic-ships-top-new-wmcv/00dc-trump-arctic-ships-top-new-wmcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vesa Laitinen for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Extreme Heat Has Transformed What Summer Means Across Generations in Europe</title>
-      <link>https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/01/world/europe/europe-summer-heat-germany-climate-change.html" rel="standout"></atom:link>
-      <description>Rising temperatures and more frequent heat waves have changed the feel of the season for today’s children, compared with their parents and grandparents.</description>
-      <dc:creator>Jim Tankersley and Tatiana Firsova</dc:creator>
-      <pubDate>Sat, 01 Aug 2026 12:39:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/20/multimedia/00int-Europe-Heat-Generation-01-gbzh/00int-Europe-Heat-Generation-01-gbzh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
-      <media:description>Krumme Lanke lake on a hot day in Berlin this summer.</media:description>
     </item>
   </channel>
 </rss>
