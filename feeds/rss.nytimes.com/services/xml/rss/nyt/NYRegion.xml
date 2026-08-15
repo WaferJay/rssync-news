@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 01:48:40 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 01:17:20 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 03:53:55 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 03:26:41 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -188,6 +188,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-plea-admission2/14met-mangione-promo-1pm-lwcb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Dee Delgado/Reuters</media:credit>
       <media:description>Luigi Mangione’s admissions in Federal District Court in Manhattan represented the first time he had publicly spoken about the killing of Brian Thompson, the UnitedHealthcare chief executive.</media:description>
+    </item>
+    <item>
+      <title>Man Taken Into Custody After Disrupting Worship at Manhattan Synagogue</title>
+      <link>https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html" rel="standout"></atom:link>
+      <description>The man struck a member of the congregation and a security guard at Central Synagogue while he was being escorted out, the police said. A motive has not been determined.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Sat, 15 Aug 2026 03:26:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jews and Judaism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tisch, Jessica (1981- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Synagogue of New York</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14xp-synagogue-bltm/14xp-synagogue-bltm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kena Betancur/Associated Press</media:credit>
+      <media:description>The Central Synagogue in New York City.</media:description>
     </item>
     <item>
       <title>Stray Voltage Played Role in Deadly Horse Carriage Runaway, Family Says</title>
@@ -392,29 +411,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-    </item>
-    <item>
-      <title>New York Will Compost and Target Dog Waste in the City</title>
-      <link>https://www.nytimes.com/2026/08/13/nyregion/dog-poop-city-council-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/nyregion/dog-poop-city-council-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/nyregion/dog-poop-city-council-nyc.html" rel="standout"></atom:link>
-      <description>The City Council passed a package of bills on Thursday to prevent dog poop from accumulating on sidewalks and in parks.</description>
-      <dc:creator>Wesley Parnell</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 14:30:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Waste Materials and Disposal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parks and Other Recreation Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sidewalks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Parks and Recreation Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hanif, Shahana K</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13met-dog-poo-jvwz/13met-dog-poo-jvwz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Graham Dickie for The New York Times</media:credit>
-      <media:description>All of the bills passed by a unanimous vote except for one that would create a dog composting program.</media:description>
     </item>
   </channel>
 </rss>

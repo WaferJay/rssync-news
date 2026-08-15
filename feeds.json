@@ -1,61 +1,49 @@
 {
   "last_updated_feeds": [
     {
-      "url": "https://feeds.content.dowjones.io/public/rss/RSSWSJD",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWSJD"
-    },
-    {
-      "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
-      "path": "feeds/feeds.bbci.co.uk/news/uk/rss.xml"
-    },
-    {
-      "url": "https://www.rfi.fr/fr/asie-pacifique/rss",
-      "path": "feeds/www.rfi.fr/fr/asie-pacifique/rss"
-    },
-    {
-      "url": "https://feeds.content.dowjones.io/public/rss/RSSMarketsMain",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSMarketsMain"
-    },
-    {
-      "url": "https://www.rfi.fr/fr/rss",
-      "path": "feeds/www.rfi.fr/fr/rss"
-    },
-    {
-      "url": "https://www.rfi.fr/fr/ameriques/rss",
-      "path": "feeds/www.rfi.fr/fr/ameriques/rss"
-    },
-    {
-      "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "path": "feeds/feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml"
-    },
-    {
-      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
-      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/US.xml"
-    },
-    {
-      "url": "https://feeds.bbci.co.uk/news/rss.xml",
-      "path": "feeds/feeds.bbci.co.uk/news/rss.xml"
-    },
-    {
-      "url": "https://feeds.content.dowjones.io/public/rss/RSSWorldNews",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/RSSWorldNews"
-    },
-    {
-      "url": "https://feeds.bbci.co.uk/news/england/rss.xml",
-      "path": "feeds/feeds.bbci.co.uk/news/england/rss.xml"
-    },
-    {
-      "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
-      "path": "feeds/feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
-    },
-    {
       "url": "https://www.rfi.fr/fr/moyen-orient/rss",
       "path": "feeds/www.rfi.fr/fr/moyen-orient/rss"
     },
     {
       "url": "https://rss.nytimes.com/services/xml/rss/nyt/Weather.xml",
       "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/Weather.xml"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml"
+    },
+    {
+      "url": "https://www.rfi.fr/fr/rss",
+      "path": "feeds/www.rfi.fr/fr/rss"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/uk/rss.xml"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/rss.xml"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/zhongwen/trad/rss.xml"
+    },
+    {
+      "url": "https://feeds.bbci.co.uk/news/england/rss.xml",
+      "path": "feeds/feeds.bbci.co.uk/news/england/rss.xml"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/US.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/US.xml"
+    },
+    {
+      "url": "https://feeds.content.dowjones.io/public/rss/WSJcomUSBusiness",
+      "path": "feeds/feeds.content.dowjones.io/public/rss/WSJcomUSBusiness"
+    },
+    {
+      "url": "https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml",
+      "path": "feeds/rss.nytimes.com/services/xml/rss/nyt/HomePage.xml"
     }
   ],
-  "update_time": 1786763327938
+  "update_time": 1786766314607
 }
