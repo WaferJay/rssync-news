@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 14:38:42 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 14:16:39 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 15:38:59 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 15:38:55 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -235,18 +235,20 @@
       <description>Diego Garcia, a tiny island 2,200 miles from the Gulf of Oman, took over as the Navy’s logistics hub after Iran damaged a base in Bahrain.</description>
       <dc:creator>John Ismay</dc:creator>
       <pubDate>Fri, 14 Aug 2026 22:35:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Military Bases and Installations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Diego Garcia (Chagos Archipelago)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bahrain</category>
       <media:content height="928" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14dc-military-wmkg/14dc-military-wmkg-mediumSquareAt3X.jpg" width="928"></media:content>
       <media:credit>U.S. Navy</media:credit>
       <media:description>A Navy handout photo of Diego Garcia, south of the Maldives. </media:description>
@@ -343,17 +345,19 @@
       <description>Republican and Democratic challengers are both using the issue to attack members of Congress as unethical, seizing on a common practice that enrages voters.</description>
       <dc:creator>Annie Karni</dc:creator>
       <pubDate>Sat, 15 Aug 2026 01:37:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conflicts of Interest</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Insider Trading</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bresnahan, Rob Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cognetti, Paige</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffries, Hakeem</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kean, Thomas H Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kiggans, Jen</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Suozzi, Thomas R</category>
@@ -432,7 +436,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/14/us/mary-morello-dead.html" rel="standout"></atom:link>
       <description>An Illinois teacher — and the mother of the rock star Tom Morello — she took on Tipper Gore during culture war skirmishes over warning labels on records.</description>
       <dc:creator>Alex Williams</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 18:51:01 +0000</pubDate>
+      <pubDate>Sat, 15 Aug 2026 15:38:55 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Morello, Mary (1923-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
@@ -468,28 +472,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14xp-blueangels-2/14xp-blueangels-2-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>USA TODAY Network via Reuters Connect</media:credit>
       <media:description>Jellie Whitehurst, the owner of The Sewing Box, making flight suits for the Blue Angels in 2019. She started doing that work in 1989.</media:description>
-    </item>
-    <item>
-      <title>Russell Fry Backs Darline Graham in South Carolina Senate Runoff Amid Trump Pressure</title>
-      <link>https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/us/politics/russell-fry-darline-graham-south-carolina.html" rel="standout"></atom:link>
-      <description>The president has been focused on the race since the death of Lindsey Graham in July. Ms. Graham, the late senator’s sister, is competing against Representative Ralph Norman in a runoff on Aug. 25.</description>
-      <dc:creator>Emily Davies</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 17:35:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Ralph W Jr (1953- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fry, Russell (1985- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanford, Mark</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/us/14pol-south-carolina-senate/14pol-south-carolina-senate-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sean Rayford for The New York Times</media:credit>
-      <media:description>Representative Russell Fry, left, will endorse Senator Darline Graham in a special Republican primary runoff on Aug. 25 to permanently replace her brother, the late Senator Lindsey Graham.</media:description>
     </item>
   </channel>
 </rss>
