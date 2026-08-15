@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 17:39:50 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 17:33:17 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 18:51:16 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 18:21:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -151,6 +151,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14xp-eggs-vqmb/14xp-eggs-vqmb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ronaldo Schemidt/Agence France-Presse — Getty Images</media:credit>
       <media:description>Midwest Poultry Services voluntarily recalled 19 million eggs in July “as a precautionary measure,” the company said.</media:description>
@@ -265,13 +266,12 @@
       <description>The data for July showed the biggest drop in more than a year, as American households face the economic strains brought on by persistent inflation</description>
       <dc:creator>Kim Bhasin</dc:creator>
       <pubDate>Fri, 14 Aug 2026 17:59:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economics (Theory and Philosophy)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14biz-retail-sales-bzcg/14biz-retail-sales-bzcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Zack Wittman for The New York Times</media:credit>
       <media:description>U.S. shoppers spent less in July, as consumers struggled with persistent inflation, higher grocery bills and rising housing costs.</media:description>
