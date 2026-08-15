@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 15 Aug 2026 13:47:38 +0000</lastBuildDate>
-    <pubDate>Sat, 15 Aug 2026 13:23:15 +0000</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2026 14:40:19 +0000</lastBuildDate>
+    <pubDate>Sat, 15 Aug 2026 14:06:10 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -216,6 +216,26 @@
       <media:description>The treatment of detainees at the Delaney Hall center in Newark has come under scrutiny.</media:description>
     </item>
     <item>
+      <title>Luigi Mangione Admits to Killing Health Insurance Executive</title>
+      <link>https://www.nytimes.com/2026/08/15/nyregion/luigi-mangione-admits-to-killing-health-insurance-executive.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/nyregion/luigi-mangione-admits-to-killing-health-insurance-executive.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/15/nyregion/luigi-mangione-admits-to-killing-health-insurance-executive.html" rel="standout"></atom:link>
+      <description>Mr. Mangione pleaded guilty to federal charges. In court, he outlined how he stalked Brian Thompson on a Manhattan street, shot him and left him to die. He still faces a state case.</description>
+      <dc:creator>Benjamin Weiser and Hurubie Meko</dc:creator>
+      <pubDate>Sat, 15 Aug 2026 14:06:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assassinations and Attempted Assassinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Agnifilo, Karen Friedman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-ledeall1-01-pfmw/14met-mangione-ledeall1-01-pfmw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Anna Connors for The New York Times</media:credit>
+      <media:description>Luigi Mangione’s guilty plea in federal court raises questions about what will happen next in his state court case.</media:description>
+    </item>
+    <item>
       <title>Man Charged With Hate Crime After Disrupting Worship at N.Y.C. Synagogue</title>
       <link>https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html</guid>
@@ -407,26 +427,6 @@
       <description>Here’s the latest.</description>
       <dc:creator>Liam Stack, Hurubie Meko and Benjamin Weiser</dc:creator>
       <pubDate>Fri, 14 Aug 2026 18:54:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Now for Sale at Christie’s: Art by People Who Work at Christie’s</title>
-      <link>https://www.nytimes.com/2026/08/14/nyregion/now-for-sale-at-christies-art-by-people-who-work-at-christies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/now-for-sale-at-christies-art-by-people-who-work-at-christies.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/now-for-sale-at-christies-art-by-people-who-work-at-christies.html" rel="standout"></atom:link>
-      <description>The auction house is displaying works made by its employees, who craft their works on kitchen tables and in living rooms.</description>
-      <dc:creator>James Barron</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 12:33:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Christie&#39;s</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stalking (Crime)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bragg, Alvin</category>
     </item>
   </channel>
 </rss>
