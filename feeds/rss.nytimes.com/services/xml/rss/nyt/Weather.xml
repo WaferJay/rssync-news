@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 07:02:24 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 06:40:12 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 08:51:41 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 08:51:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City</title>
+      <link>https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/16/world/asia/cholera-outbreak-yangon-myanmar.html" rel="standout"></atom:link>
+      <description>Civil war and military rule have weakened Myanmar’s health care system, while heavy monsoon rains have increased the risk of waterborne disease.</description>
+      <dc:creator>Jin Yu Young</dc:creator>
+      <pubDate>Sun, 16 Aug 2026 08:44:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Myanmar</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Yangon (Myanmar)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholera</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16int-myanmar-cholera-vcmj/16int-myanmar-cholera-vcmj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sai Aung Main/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The emergency department of Yangon General Hospital on Friday.</media:description>
+    </item>
     <item>
       <title>Honolulu opens shelters as teams work to bring homeless people indoors.</title>
       <link>https://www.nytimes.com/live/2026/08/14/weather/lala-tropical-storm-hurricane-hawaii/honolulu-opens-shelters-as-teams-work-to-bring-homeless-people-indoors</link>
@@ -21,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/08/14/weather/lala-tropical-storm-hurricane-hawaii/honolulu-opens-shelters-as-teams-work-to-bring-homeless-people-indoors" rel="standout"></atom:link>
       <description>Rick Blangiardi, mayor of Honolulu County, expec</description>
       <dc:creator>Sejal Govindarao and Claire Wilcox</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 05:55:05 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 08:51:00 +0000</pubDate>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/14/multimedia/14storm-lala-honolulu-fqbl/14storm-lala-honolulu-fqbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eugene Tanner/Agence France-Presse — Getty Images</media:credit>
     </item>
@@ -785,25 +804,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10WEA-summer-heat-storms-bjlh/10WEA-summer-heat-storms-bjlh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jordan Tovin/Reuters</media:credit>
       <media:description>New York has faced above-average heat for days.</media:description>
-    </item>
-    <item>
-      <title>Typhoon Dolphin Barrels Into China, Prompting Mass Evacuations</title>
-      <link>https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/world/asia/typhoon-dolphin-china-evacuations.html" rel="standout"></atom:link>
-      <description>The storm, which made landfall on Sunday evening, is the strongest to hit China this year and also caused flooding in parts of the Philippines.</description>
-      <dc:creator>Max Kim</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 15:59:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Typhoons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manila (Philippines)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Okinawa and Other Ryukyu Islands (Japan)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Shanghai (China)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10int-typhoon-dolphin-01-hctb/10int-typhoon-dolphin-01-hctb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Go Nakamura/Reuters</media:credit>
-      <media:description>Winds intensified in Shanghai on Sunday before Typhoon Dolphin’s arrival. </media:description>
     </item>
   </channel>
 </rss>
