@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 18:50:06 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 18:49:43 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 19:39:30 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 19:22:05 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Lala Damages Utility Lines in Hawaii, Leaving Thousands Without Power</title>
+      <link>https://www.nytimes.com/2026/08/16/weather/electricity-outages-hawaii.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/weather/electricity-outages-hawaii.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/16/weather/electricity-outages-hawaii.html" rel="standout"></atom:link>
+      <description>Tropical Storm Lala damaged 16 transmission lines and many towers on Hawaii’s Big Island, the state’s main utility said.</description>
+      <dc:creator>Ivan Penn</dc:creator>
+      <pubDate>Sun, 16 Aug 2026 19:07:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hawaiian Electric Co Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16storm-lala-outages-qkgm/16storm-lala-outages-qkgm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bruce Omori for The New York Times</media:credit>
+      <media:description>A crew dealing with a damaged utility pole in Hilo, Hawaii, on Saturday. Hawaiian Electric, the state’s primary electric utility, said its customers faced days without power because of the extent of the damage.</media:description>
+    </item>
     <item>
       <title>As Lala Lashes Hawaii, the Atlantic Hurricane Season Remains Calm. So Far.</title>
       <link>https://www.nytimes.com/2026/08/16/weather/el-nino-lala-tropical-storm.html</link>
@@ -51,8 +67,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/16/weather/lala-tropical-storm-hurricane-hawaii/heres-the-latest</guid>
       <atom:link href="https://www.nytimes.com/live/2026/08/16/weather/lala-tropical-storm-hurricane-hawaii/heres-the-latest" rel="standout"></atom:link>
       <description></description>
-      <dc:creator>Pooja Salhotra, Amy Graff, Orlando Mayorquín and Mack Liederman</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 18:49:43 +0000</pubDate>
+      <dc:creator>Jacey Fortin, Claire Wilcox, Nazaneen Ghaffar and Ivan Penn</dc:creator>
+      <pubDate>Sun, 16 Aug 2026 19:12:16 +0000</pubDate>
     </item>
     <item>
       <title>Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City</title>
@@ -489,9 +505,9 @@
       <link>https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/13/us/storm-damage-midwest.html" rel="standout"></atom:link>
-      <description>A lingering weather system has brought severe flooding and intense winds — including a few tornadoes — to Illinois, Indiana and Ohio, killing at least seven.</description>
+      <description>A lingering weather system has brought severe flooding and intense winds — including a few tornadoes — to Illinois, Indiana and Ohio, killing at least eight.</description>
       <dc:creator>Jacey Fortin</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 18:34:11 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 19:22:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
@@ -743,22 +759,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/nyregion/11wea-storms-2/11wea-storms-2-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Muskingum County Sheriff&#39;s Office</media:credit>
       <media:description>Flooding in Muskingum County, Ohio, on Tuesday. The governor warned of risks from heavy rain in the next few days.</media:description>
-    </item>
-    <item>
-      <title>A 5th Summer Heat Wave Will Hit Europe This Week. Here’s What to Know.</title>
-      <link>https://www.nytimes.com/2026/08/11/weather/europe-extreme-heat-wave-uk-france-spain.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/weather/europe-extreme-heat-wave-uk-france-spain.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/weather/europe-extreme-heat-wave-uk-france-spain.html" rel="standout"></atom:link>
-      <description>The latest heat wave is the fifth to batter European countries since May as scientists warn that the continent is warming faster than any other.</description>
-      <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 11:52:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heatstroke</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
     </item>
   </channel>
 </rss>
