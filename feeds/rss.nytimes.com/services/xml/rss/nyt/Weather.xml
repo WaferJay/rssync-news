@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 19:39:30 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 19:22:05 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 20:43:10 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 19:59:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Indiana Prepares for More Rain After Days of Deadly Storms</title>
+      <link>https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html" rel="standout"></atom:link>
+      <description>Since last week, hazardous weather has caused seven deaths, forced people from their homes and required some to be rescued by boat. The region was at risk for more flooding on Sunday.</description>
+      <dc:creator>Bernard Mokam</dc:creator>
+      <pubDate>Sun, 16 Aug 2026 19:59:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <media:content height="1467" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16nat-indiana-storms-khpg/16nat-indiana-storms-khpg-mediumSquareAt3X.jpg" width="1466"></media:content>
+      <media:credit>Michelle Pemberton/USA Today Network, via Reuters</media:credit>
+      <media:description>Evacuation efforts in Indianapolis on Saturday.</media:description>
+    </item>
     <item>
       <title>Lala Damages Utility Lines in Hawaii, Leaving Thousands Without Power</title>
       <link>https://www.nytimes.com/2026/08/16/weather/electricity-outages-hawaii.html</link>
@@ -21,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/16/weather/electricity-outages-hawaii.html" rel="standout"></atom:link>
       <description>Tropical Storm Lala damaged 16 transmission lines and many towers on Hawaii’s Big Island, the state’s main utility said.</description>
       <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 19:07:54 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 19:51:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
@@ -68,7 +85,7 @@
       <atom:link href="https://www.nytimes.com/live/2026/08/16/weather/lala-tropical-storm-hurricane-hawaii/heres-the-latest" rel="standout"></atom:link>
       <description></description>
       <dc:creator>Jacey Fortin, Claire Wilcox, Nazaneen Ghaffar and Ivan Penn</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 19:12:16 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 19:42:40 +0000</pubDate>
     </item>
     <item>
       <title>Cholera Outbreak Sickens Over 90 in Myanmar’s Biggest City</title>
