@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 16 Aug 2026 20:41:38 +0000</lastBuildDate>
-    <pubDate>Sun, 16 Aug 2026 20:40:41 +0000</pubDate>
+    <lastBuildDate>Sun, 16 Aug 2026 21:35:27 +0000</lastBuildDate>
+    <pubDate>Sun, 16 Aug 2026 21:34:43 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -232,7 +232,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/15/us/ugliest-dog-contest-winner-2026.html" rel="standout"></atom:link>
       <description>The rescued pug, who likes to dip her protruding tongue into the food bowls of everyone at home, emerged as the winner of the World’s Ugliest Dog Contest on Friday.</description>
       <dc:creator>Alena Cerro</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 22:29:54 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 21:00:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Contests and Prizes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Dogs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
@@ -276,15 +276,13 @@
       <description>An air traffic controller noticed that two planes — one departing, one landing — were both flight 2482. He acted quickly to avoid confusion.</description>
       <dc:creator>Emmett Lindner</dc:creator>
       <pubDate>Sat, 15 Aug 2026 19:10:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phoenix Sky Harbor International Airport</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Airlines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Phoenix Sky Harbor International Airport</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilots</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15xp-airlines-zpgw/15xp-airlines-zpgw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maansi Srivastava for The New York Times</media:credit>
       <media:description>“I’ve been working air traffic for 25 years — I’ve never seen two aircraft pretty much emerge with the same call sign,” the controller who discovered the overlap said.</media:description>
@@ -307,6 +305,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merchan, Juan M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Merchan, Loren</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/14dc-justice-01/14dc-justice-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Scott Olson/Getty Images</media:credit>
       <media:description>Andrew S. Boutros, the U.S. attorney for the Northern District of Illinois, ordered a Democratic fund-raising firm to turn over a broad range of sensitive communications.</media:description>
@@ -319,12 +319,16 @@
       <description>Over the objections of environmentalists, local sheriffs and some state leaders, the Trump administration appears to be moving ahead with border infrastructure in one of Texas’ most beloved parks.</description>
       <dc:creator>J. David Goodman</dc:creator>
       <pubDate>Sat, 15 Aug 2026 13:06:47 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Big Bend National Park (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Border Patrol (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Customs and Border Protection (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Big Bend National Park (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/us/15nat-txbigbend-1/15nat-txbigbend-1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brian Finke</media:credit>
       <media:description>Construction workers cleared a road in Big Bend National Park earlier this month.</media:description>
