@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world/africa</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 05:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 08:06:06 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/africa/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Top Zambian opposition figures arrested days after presidential vote]]></title>
+            <description><![CDATA[The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o#0</guid>
+            <pubDate>Mon, 17 Aug 2026 07:31:36 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4885/live/b3a7d990-9a02-11f1-ad4f-c7824f9e4997.jpg"/>
+        </item>
         <item>
             <title><![CDATA['Ghana was the crime scene': The country leading the demand for slavery reparations]]></title>
             <description><![CDATA[Ghana has become Africa's leading voice in telling the world that Western nations owe reparations]]></description>
@@ -21,6 +29,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0j2r15dr1o#0</guid>
             <pubDate>Sun, 16 Aug 2026 23:09:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1340/live/14891440-97ec-11f1-a655-8fe1097dfbd0.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Ebola outbreak in DR Congo becomes deadliest in its history]]></title>
+            <description><![CDATA[The outbreak was already the fastest growing on record, caused by a rare species of Ebola called Bundibugyo.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cvgll74vvydo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgll74vvydo#0</guid>
+            <pubDate>Mon, 17 Aug 2026 04:41:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg"/>
         </item>
         <item>
             <title><![CDATA[Cameroon claim first Wafcon title with victory over Malawi]]></title>
@@ -47,28 +63,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebb/live/44b13670-91a2-11f1-964d-6f76397ea067.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Zambia vote counting resumes after pause over alleged attacks on polling staff]]></title>
-            <description><![CDATA[The electoral commission said violence had "resulted in the theft of marked ballot papers".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c5yr8r04edvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5yr8r04edvo#0</guid>
-            <pubDate>Fri, 14 Aug 2026 16:28:59 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3018/live/da9b86e0-97b0-11f1-a7ab-8b30adf0800a.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[US missionary released following kidnap in Niger, Christian group says]]></title>
             <description><![CDATA[Kevin Rideout, who was kidnapped outside his home in the capital last October, is now with US officials. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckg40jvvkp7o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckg40jvvkp7o#0</guid>
             <pubDate>Fri, 14 Aug 2026 10:18:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d8/live/4e317200-97c9-11f1-b2ab-0dd01740f9f6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why Michaely Bihina is the keeper making waves at Wafcon]]></title>
-            <description><![CDATA[Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.]]></description>
-            <link>https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o#0</guid>
-            <pubDate>Sat, 15 Aug 2026 07:38:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1bf/live/63493d20-97f2-11f1-a579-3beb34ebe76c.png"/>
         </item>
         <item>
             <title><![CDATA[Vultures are disappearing in Nigeria - but the 'Vulture King' is fighting to reverse the trend]]></title>
@@ -232,6 +232,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097f/live/f3fca430-86b1-11f1-bee8-53ce494e1abc.png"/>
         </item>
         <item>
+            <title><![CDATA[Why Michaely Bihina is the keeper making waves at Wafcon]]></title>
+            <description><![CDATA[Fans in Cameroon want a statue built for Michaely Bihina after she made four penalty saves against Morocco to help Cameroon reach the 2026 Wafcon final.]]></description>
+            <link>https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sport/football/articles/c7vgylpgmz7o#4</guid>
+            <pubDate>Sat, 15 Aug 2026 07:38:19 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1bf/live/63493d20-97f2-11f1-a579-3beb34ebe76c.png"/>
+        </item>
+        <item>
             <title><![CDATA[Nigeria to miss Women's World Cup after South Africa and Ghana win play-offs]]></title>
             <description><![CDATA[South Africa and Ghana progress to an inter-confederation qualifier for the 2027 Women's World Cup, but Nigeria will miss the tournament for the first time.]]></description>
             <link>https://www.bbc.co.uk/sport/football/articles/cgk46yrk2pjo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -366,14 +374,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c7vg1p2vd3go#4</guid>
             <pubDate>Mon, 03 Aug 2026 10:52:25 GMT</pubDate>
             <media:thumbnail width="240" height="133" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/91a0/live/c5572f30-8f10-11f1-a7ab-8b30adf0800a.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Final medal table as Nigeria lead for Africa at Glasgow 2026]]></title>
-            <description><![CDATA[Australia finish the 2026 Commonwealth Games with 70 golds and 171 medals overall, while England finish a distant second in the standings.]]></description>
-            <link>https://www.bbc.co.uk/sport/articles/crl788216dro?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sport/articles/crl788216dro#4</guid>
-            <pubDate>Sun, 02 Aug 2026 18:26:59 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/254e/live/008f5ca0-8f5a-11f1-a7ab-8b30adf0800a.jpg"/>
         </item>
         <item>
             <title><![CDATA[Idi Amin's grandson fights at Commonwealth Games]]></title>
