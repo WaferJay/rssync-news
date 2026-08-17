@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 21:44:13 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 21:26:36 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 22:42:14 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 22:38:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html" rel="standout"></atom:link>
       <description>Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.</description>
       <dc:creator>Scott Dance and Mira Rojanasakul</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 21:14:45 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 22:18:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
@@ -51,7 +51,37 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17CLI-WEST-WATER-01-ktlq/17CLI-WEST-WATER-01-ktlq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>John Locher/Associated Press</media:credit>
-      <media:description>The Glen Canyon Dam near Lake Powell in Nevada last month. Lakes Powell and Mead, the country’s largest reservoirs, have been recording new lows this summer.</media:description>
+      <media:description>The Glen Canyon Dam near Lake Powell in Arizona last month. Lakes Powell and Mead, the country’s largest reservoirs, have been recording new lows this summer.</media:description>
+    </item>
+    <item>
+      <title>‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent</title>
+      <link>https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html" rel="standout"></atom:link>
+      <description>The rapid growth of pay-later loans raises questions about whether their popularity is driven by consumer preference or desperation.</description>
+      <dc:creator>Stacy Cowley</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 19:53:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17Biz-Pay-Later-bhfj/17Biz-Pay-Later-bhfj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Loulou d&#39;Aki for The New York Times</media:credit>
+      <media:description>Americans spent $160 billion last year through pay-later loans from providers like Klarna — nearly twice the amount from just two years earlier.</media:description>
+    </item>
+    <item>
+      <title>Trump Threatens a Middle East Mediator</title>
+      <link>https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/briefing/trump-threatens-a-middle-east-mediator.html" rel="standout"></atom:link>
+      <description>Also, killings plunge in Baltimore. Here’s the latest at the end of Monday.</description>
+      <dc:creator>Matthew Cullen</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 21:47:25 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17evening-nl-trump-middle-east-jgqf/17evening-nl-trump-middle-east-jgqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
     </item>
     <item>
       <title>As Iran Truce Expires and Options Shrivel, Trump Lashes Out</title>
@@ -97,25 +127,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-kushner-netanyah-02-jzpv/17int-kushner-netanyah-02-jzpv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Evan Vucci/Associated Press</media:credit>
       <media:description>Jared Kushner speaking about the Board of Peace, an organization backed by the Trump administration to end the war in Gaza, during the World Economic Forum in Davos, Switzerland, in January.</media:description>
-    </item>
-    <item>
-      <title>‘Buy Now, Pay Later’ Lenders Pitch Loans for Needs Like Electricity and Rent</title>
-      <link>https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/business/buy-now-pay-later.html" rel="standout"></atom:link>
-      <description>The rapid growth of pay-later loans raises questions about whether their popularity is driven by consumer preference or desperation.</description>
-      <dc:creator>Stacy Cowley</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 19:53:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Renting and Leasing (Real Estate)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17Biz-Pay-Later-bhfj/17Biz-Pay-Later-bhfj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Loulou d&#39;Aki for The New York Times</media:credit>
-      <media:description>Americans spent $160 billion last year through pay-later loans from providers like Klarna — nearly twice the amount from just two years earlier.</media:description>
     </item>
     <item>
       <title>Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment</title>
@@ -183,7 +194,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Panettiere, Hayden</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Actors and Actresses</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17hayden-panettiere-life-in-pictures1-fkgw/17hayden-panettiere-life-in-pictures1-fkgw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17hayden-panettiere-life-in-pictures1-fkgw/17hayden-panettiere-life-in-pictures1-fkgw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jacq Harriet for The New York Times</media:credit>
     </item>
     <item>
@@ -225,6 +236,85 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/17cul-elizabeth-smart-02-cpmh/17cul-elizabeth-smart-02-cpmh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Niki Chan Wylie for The New York Times</media:credit>
       <media:description>Elizabeth Smart has dedicated her adult life to supporting survivors of violent crimes and sexual trauma. Her new project is a podcast.</media:description>
+    </item>
+    <item>
+      <title>Mary Peltola Shakes Up Campaign Staff Days Before Alaska’s Senate Primary</title>
+      <link>https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/us/politics/peltola-campaign-staff-change-primary.html" rel="standout"></atom:link>
+      <description>Ms. Peltola, the Democratic Senate candidate, fired a longtime senior aide and named a new campaign manager.</description>
+      <dc:creator>Kellen Browning and Tim Balk</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 21:36:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17pol-peltola-fvjm/17pol-peltola-fvjm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kerry Tasker/Reuters</media:credit>
+      <media:description>Mary Peltola in Anchorage in January.</media:description>
+    </item>
+    <item>
+      <title>Trump to Travel to Myrtle Beach to Rally for Darline Graham</title>
+      <link>https://www.nytimes.com/2026/08/17/us/politics/south-carolina-senate-runoff-graham-norman-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/us/politics/south-carolina-senate-runoff-graham-norman-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/us/politics/south-carolina-senate-runoff-graham-norman-trump.html" rel="standout"></atom:link>
+      <description>The sister of Lindsey Graham was appointed to his Senate seat on an interim basis. She must win a runoff next week against a conservative House member to serve a full six-year term.</description>
+      <dc:creator>Emily Davies</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 22:19:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Ralph W Jr (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17pol-sc-graham-trump-zjqg/17pol-sc-graham-trump-zjqg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump is trying to consolidate support for Darline Graham, the sister of Senator Lindsey Graham, who died unexpectedly in July. Ms. Graham faces Representative Ralph Norman in a runoff election next week.</media:description>
+    </item>
+    <item>
+      <title>Florida Race to Replace Byron Donalds Features Candidates Who Have Already Run for Congress</title>
+      <link>https://www.nytimes.com/2026/08/17/us/politics/florida-byron-donalds-election.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/us/politics/florida-byron-donalds-election.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/us/politics/florida-byron-donalds-election.html" rel="standout"></atom:link>
+      <description>We look at the crowded race to replace Byron Donalds.</description>
+      <dc:creator>Patricia Mazzei</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 21:50:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cawthorn, Madison</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Collins, Christopher C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DeSantis, Ron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donalds, Byron (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Strand, John</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swalwell, Eric M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vindman, Alexander S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17pol-on-politics-newsletter-FL-top-bqwv/17pol-on-politics-newsletter-FL-top-bqwv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Scott McIntyre for The New York Times</media:credit>
+      <media:description>A crowded primary for Congress in Florida highlights Tuesday’s slate of elections. </media:description>
+    </item>
+    <item>
+      <title>How One Woman With a Very Rare Disease Secured a Clinical Trial</title>
+      <link>https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html" rel="standout"></atom:link>
+      <description>Through sheer determination, Neena Nizar has become the first patient in a clinical trial testing a treatment for her disease — one so rare it affects just 30 people worldwide.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 20:17:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jansen&#39;s Metaphyseal Chondrodysplasia (JMC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rare and Orphan Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nizar, Neena</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00sci-jansens-disease-01-pwbq/00sci-jansens-disease-01-pwbq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Moriah Ratner for The New York Times</media:credit>
+      <media:description>Neena Nizar is one of only 30 people worldwide living with Jansen’s disease, a rare disorder that deforms bones. She is Patient No. 1 in a study at the N.I.H. of a drug that might help.</media:description>
     </item>
     <item>
       <title>AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.</title>
@@ -270,88 +360,20 @@
       <media:description>Workers at the construction site for a data center in Piketon, Ohio, that will be built by a subsidiary of SoftBank and leased to OpenAI.</media:description>
     </item>
     <item>
-      <title>How One Woman With a Very Rare Disease Secured a Clinical Trial</title>
-      <link>https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html" rel="standout"></atom:link>
-      <description>Through sheer determination, Neena Nizar has become the first patient in a clinical trial testing a treatment for her disease — one so rare it affects just 30 people worldwide.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 20:17:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jansen&#39;s Metaphyseal Chondrodysplasia (JMC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rare and Orphan Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nizar, Neena</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00sci-jansens-disease-01-pwbq/00sci-jansens-disease-01-pwbq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Moriah Ratner for The New York Times</media:credit>
-      <media:description>Neena Nizar is one of only 30 people worldwide living with Jansen’s disease, a rare disorder that deforms bones. She is Patient No. 1 in a study at the N.I.H. of a drug that might help.</media:description>
-    </item>
-    <item>
-      <title>Tupac Shakur Murder Trial: Takeaways From Day 1</title>
-      <link>https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/arts/music/tupac-shakur-murder-trial-takeaways-day-1.html" rel="standout"></atom:link>
-      <description>Prosecutors said Duane Keith Davis participated in the shooting as an act of gang retaliation, while the defense pointed to what it described as a lack of hard evidence.</description>
-      <dc:creator>Julia Jacobs, Mack Liederman and Anusha Bayya</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 21:20:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rap and Hip-Hop</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Davis, Duane Keith (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Shakur, Tupac</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17cul-tupac-trial-takeaways-jfzl/17cul-tupac-trial-takeaways-jfzl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Steve Marcus/Reuters</media:credit>
-      <media:description>Duane Keith Davis, left, and his lawyer, Michael Sanft, at court on Monday.</media:description>
-    </item>
-    <item>
-      <title>Islamophobia’s Rise in Texas: ‘I Won’t Rest Until Every Muslim Is Gone’</title>
-      <link>https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html" rel="standout"></atom:link>
-      <description>Muslim communities have been growing for decades, particularly around Dallas. Now, conservatives want to roll up the welcome mat.</description>
-      <dc:creator>J. David Goodman, Lauren McGaughy, Jesus Jiménez and Ruth Graham</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 15:55:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/nat-texas-anti-muslim-rhetoric-top-option-wzbc/nat-texas-anti-muslim-rhetoric-top-option-wzbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <title>More U.S. Parents Opting Children Out of Vaccine Requirements, C.D.C. Reports</title>
+      <link>https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/well/vaccine-exemptions-rates.html" rel="standout"></atom:link>
+      <description>The new data on vaccine exemptions during the 2025-26 school year come just a week after President Trump signed an executive order calling to scale back childhood shots.</description>
+      <dc:creator>Teddy Rosenbluth, Dani Blum and Francesca Paris</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 22:38:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Measles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/well-vaccine-data-kcwp/well-vaccine-data-kcwp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Desiree Rios for The New York Times</media:credit>
-      <media:description>Morning prayer at the Valley Ranch Islamic Center in Irving, Texas.</media:description>
-    </item>
-    <item>
-      <title>Mangione’s State Trial Is Delayed as His Lawyers Seek Dismissal</title>
-      <link>https://www.nytimes.com/2026/08/17/nyregion/luigi-mangione-state-trial-delayed.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/nyregion/luigi-mangione-state-trial-delayed.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/nyregion/luigi-mangione-state-trial-delayed.html" rel="standout"></atom:link>
-      <description>The delay comes after Luigi Mangione pleaded guilty in federal court on Friday to stalking that led to the death of Brian Thompson, a health care executive.</description>
-      <dc:creator>Hurubie Meko</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 19:57:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mangione, Luigi</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thompson, Brian (1974-2024)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Double Jeopardy</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17met-mangione-mlqb/17met-mangione-mlqb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Barry Williams</media:credit>
-    </item>
-    <item>
-      <title>Paramount Asks States to Shoulder Costs of Delaying Warner Bros. Deal</title>
-      <link>https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/business/paramount-warner-bros-antitrust-trial.html" rel="standout"></atom:link>
-      <description>Paramount’s $111 billion deal to acquire Warner Bros. Discovery has been postponed until the conclusion of a trial, a delay the studio says could cost it millions of dollars.</description>
-      <dc:creator>Lauren Hirsch and Benjamin Mullin</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 21:05:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Pictures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
-      <category domain=""></category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17Biz-Paramount-flbc/17Biz-Paramount-flbc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Apu Gomes/Getty Images</media:credit>
-      <media:description>Paramount’s merger with Warner Bros. would create a Hollywood powerhouse.</media:description>
     </item>
     <item>
       <title>What It Will Take to Win the 2028 Democratic Presidential Nomination</title>
@@ -360,7 +382,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/17/opinion/democratic-presidential-primary-2028.html" rel="standout"></atom:link>
       <description>A new early calendar will upend how Democrats select their 2028 champion.</description>
       <dc:creator>David Plouffe</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 19:34:23 +0000</pubDate>
+      <pubDate>Mon, 17 Aug 2026 22:03:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2028</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
