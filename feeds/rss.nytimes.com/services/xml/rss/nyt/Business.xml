@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 03:24:00 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 02:51:23 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 04:04:55 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 04:01:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>As China Hunts for Scientific Talent, the US Makes It Easier</title>
+      <link>https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html" rel="standout"></atom:link>
+      <description>Young researchers have long come to the U.S. for academic training, but a combination of Chinese money and U.S. restrictions is shifting the balance.</description>
+      <dc:creator>Li Yuan</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 04:01:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Hong (1991- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deng, Yu (1989- )</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/business/00nw-talent/00nw-talent-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dongyan Xu</media:credit>
+    </item>
     <item>
       <title>How a False Nuclear Claim About Iran Ricocheted From India to Washington</title>
       <link>https://www.nytimes.com/2026/08/16/business/iran-nuclear-false-claims.html</link>
@@ -966,26 +983,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/00biz-paramount-2-qbmp/00biz-paramount-2-qbmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
       <media:description>Paramount’s merger with Warner Bros. Discovery would create a Hollywood colossus.</media:description>
-    </item>
-    <item>
-      <title>Judge Awards $250,000 to Musician Who Fled Trump-Led Kennedy Center Gig</title>
-      <link>https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/arts/music/chuck-redd-kennedy-center.html" rel="standout"></atom:link>
-      <description>The center had sued Chuck Redd when he canceled a free concert last year, citing the addition of the Trump name to the venue. But a judge dismissed the case.</description>
-      <dc:creator>Julia Jacobs</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 23:56:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Redd, Chuck (1958- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kennedy, John F, Center for the Performing Arts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Grenell, Richard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11cul-kennedy-lawsuit-qjkp/11cul-kennedy-lawsuit-qjkp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mark Schiefelbein/Associated Press</media:credit>
-      <media:description>Chuck Redd was scheduled to perform at a free Christmas Eve concert. It was canceled after he and other performers backed out. </media:description>
     </item>
   </channel>
 </rss>
