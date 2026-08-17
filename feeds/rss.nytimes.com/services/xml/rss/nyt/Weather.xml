@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 04:08:06 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 03:57:21 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 05:03:10 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 04:45:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Hilo Is Accustomed to Rain. Hurricane Lala Was Different.</title>
+      <link>https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html" rel="standout"></atom:link>
+      <description>The city on the eastern side of the island of Hawaii flooded on Saturday night, and powerful winds toppled branches onto homes and power lines.</description>
+      <dc:creator>Orlando Mayorquín</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 04:45:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hilo (Hawaii)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16storm-lala-hilo-hawaii-aftermath-pmhl/16storm-lala-hilo-hawaii-aftermath-pmhl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bruce Omori for The New York Times</media:credit>
+      <media:description>Soccer fields in Hilo flooded as heavy rains from Hurricane Lala inundated parts of the island of Hawaii on Saturday.</media:description>
+    </item>
     <item>
       <title>Indiana Prepares for More Rain After Days of Deadly Storms</title>
       <link>https://www.nytimes.com/2026/08/16/us/indiana-storms-flooding.html</link>
@@ -757,25 +777,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/00biz-workers-heat-lede-mcvf/00biz-workers-heat-lede-mcvf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>Scorching temperatures and high humidity blanketed much of the country this summer.</media:description>
-    </item>
-    <item>
-      <title>Powerful ‘Derecho’ Storms Tear Through Midwest</title>
-      <link>https://www.nytimes.com/2026/08/11/weather/storms-midwest-derecho.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/weather/storms-midwest-derecho.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/weather/storms-midwest-derecho.html" rel="standout"></atom:link>
-      <description>Strong storms covered hundreds of miles and brought winds nearing 100 miles per hour.</description>
-      <dc:creator>Amy Graff and Ishani Desai</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 02:15:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Illinois</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/nyregion/11wea-storms-2/11wea-storms-2-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Muskingum County Sheriff&#39;s Office</media:credit>
-      <media:description>Flooding in Muskingum County, Ohio, on Tuesday. The governor warned of risks from heavy rain in the next few days.</media:description>
     </item>
   </channel>
 </rss>
