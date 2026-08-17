@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 10:01:49 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 08:31:11 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 10:52:06 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 10:41:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Watch Out for El Niño</title>
+      <link>https://www.nytimes.com/2026/08/17/briefing/watch-out-for-el-nino.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/briefing/watch-out-for-el-nino.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/briefing/watch-out-for-el-nino.html" rel="standout"></atom:link>
+      <description>We explain the climate phenomenon.</description>
+      <dc:creator>Chico Harlan</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 10:41:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/17themorning-nl-TOP-ladder/17themorning-nl-TOP-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ritesh Shukla/Getty Images</media:credit>
+      <media:description>Collecting water from a well in a drought-afflicted village in India.</media:description>
+    </item>
     <item>
       <title>Hurricane Lala Cuts Off Hawaii Town With Region’s Only Hospital</title>
       <link>https://www.nytimes.com/2026/08/17/weather/pahala-isolated-kau-hawaii-big-island.html</link>
@@ -750,27 +768,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/world/12wea-eclipse-weather-01/12wea-eclipse-weather-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nacho Doce/Reuters</media:credit>
       <media:description>Campers near a lighthouse on the Costa da Morte in northwestern Spain on Tuesday, the eve of the eclipse.</media:description>
-    </item>
-    <item>
-      <title>Europeans, Braced for 5th Heat Wave of 2026, Have Had Enough</title>
-      <link>https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/world/europe/europe-fifth-heat-wave.html" rel="standout"></atom:link>
-      <description>With temperatures set to soar as high as 109 degrees Fahrenheit (43 Celsius) this week, Europeans and tourists say that summer in Europe has lost its appeal.</description>
-      <dc:creator>Elisabetta Povoledo, Giulia Imbert and Carlos Barragán</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 00:44:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/00int-europe-heat-cmbg/00int-europe-heat-cmbg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Guglielmo Mangiapane/Reuters</media:credit>
-      <media:description>A woman cooling off at the Vatican on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
