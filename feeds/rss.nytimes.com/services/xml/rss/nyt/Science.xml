@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 13:11:29 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 12:47:21 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:49:34 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 16:07:55 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -33,6 +33,23 @@
       <media:description>Eamon Harrity, a wildlife program director with Sky Island Alliance, checking a wildlife camera along the border wall in southern Arizona.</media:description>
     </item>
     <item>
+      <title>How One Woman With a Very Rare Disease Secured a Clinical Trial</title>
+      <link>https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html" rel="standout"></atom:link>
+      <description>Through sheer determination, Neena Nizar has become the first patient in a clinical trial testing a treatment for her disease — one so rare it affects just 30 people worldwide.</description>
+      <dc:creator>Gina Kolata</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 09:01:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rare and Orphan Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jansen&#39;s Metaphyseal Chondrodysplasia (JMC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nizar, Neena</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00sci-jansens-disease-01-pwbq/00sci-jansens-disease-01-pwbq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Moriah Ratner for The New York Times</media:credit>
+      <media:description>Neena Nizar is one of only 30 people worldwide living with Jansen’s disease, a rare disorder that deforms bones. She is Patient No. 1 in a study at the N.I.H. of a drug that might help.</media:description>
+    </item>
+    <item>
       <title>This Pesticide May Be Too Dangerous to Use. Farmers Say They Need It.</title>
       <link>https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/science/paraquat-pesticide-parkinsons-california.html</guid>
@@ -48,6 +65,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/science/00SCI-PARAQUAT-01/00SCI-PARAQUAT-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bill Barksdale/Design Pics Editorial/Universal Images Group, via Getty Images</media:credit>
       <media:description>American farmers spray millions of pounds of paraquat on crops each year, though experts could not say precisely how much.</media:description>
@@ -156,27 +174,6 @@
       <media:description>The Arctic Report Card drew on the expertise of hundreds of scientists and other specialists around the world.</media:description>
     </item>
     <item>
-      <title>This A.I. Just Created Viruses Not Found in Nature</title>
-      <link>https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/science/ai-viruses-bacteria-arc.html" rel="standout"></atom:link>
-      <description>Scientists trained artificial intelligence on libraries of DNA and then asked the model to create recipes for viral genomes. Sixteen of them were viable, yielding new viruses.</description>
-      <dc:creator>Carl Zimmer</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 00:30:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Viruses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetic Engineering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bacteria</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Synthetic Biology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Microbiology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biology and Biochemistry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Science (Journal)</category>
-    </item>
-    <item>
       <title>Share Your Experiences With the Public Health System in Louisiana</title>
       <link>https://www.nytimes.com/2026/08/17/us/share-your-experiences-with-the-public-health-system-in-louisiana.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/us/share-your-experiences-with-the-public-health-system-in-louisiana.html</guid>
@@ -196,23 +193,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/LIF-Callout-Public-Health2-gcvt/LIF-Callout-Public-Health2-gcvt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kathleen Flynn/Reuters</media:credit>
       <media:description>A Covid shot being administered at a 2021 drive-through event in Avondale, La.</media:description>
-    </item>
-    <item>
-      <title>How One Woman With a Very Rare Disease Secured a Clinical Trial</title>
-      <link>https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html" rel="standout"></atom:link>
-      <description>Through sheer determination, Neena Nizar has become the first patient in a clinical trial testing a treatment for her disease — one so rare it affects just 30 people worldwide.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 09:01:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rare and Orphan Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jansen&#39;s Metaphyseal Chondrodysplasia (JMC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nizar, Neena</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00sci-jansens-disease-01-pwbq/00sci-jansens-disease-01-pwbq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Moriah Ratner for The New York Times</media:credit>
-      <media:description>Neena Nizar is one of only 30 people worldwide living with Jansen’s disease, a rare disorder that deforms bones. She is Patient No. 1 in a study at the N.I.H. of a drug that might help.</media:description>
     </item>
     <item>
       <title>How Louisiana’s New Surgeon General Wants to Transform Public Health</title>

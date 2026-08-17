@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 14:50:18 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 14:37:33 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 16:50:35 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 16:12:36 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -57,18 +57,15 @@
       <dc:creator>Francesca Regalado</dc:creator>
       <pubDate>Mon, 17 Aug 2026 05:28:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pahala (Hawaii)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Green, Josh (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/16/multimedia/16storm-lala-pahala-isolated-hqcj/16storm-lala-pahala-isolated-hqcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jill K. Briggs/Agence France-Presse — Getty Images</media:credit>
       <media:description>Hawaii Department of Transportation workers inspect road damage caused by Hurricane Lala in Pahala on Sunday.</media:description>
     </item>
     <item>
-      <title>Hilo Is Accustomed to Rain. Hurricane Lala Was Different.</title>
+      <title>Hurricane Lala Batters Hilo, Hawaii, Destroying Homes and Leaving Thousands Without Power</title>
       <link>https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html" rel="standout"></atom:link>
@@ -76,13 +73,9 @@
       <dc:creator>Orlando Mayorquín</dc:creator>
       <pubDate>Mon, 17 Aug 2026 04:45:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hilo (Hawaii)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16storm-lala-hilo-hawaii-aftermath-pmhl/16storm-lala-hilo-hawaii-aftermath-pmhl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bruce Omori for The New York Times</media:credit>
       <media:description>Soccer fields in Hilo flooded as heavy rains from Hurricane Lala inundated parts of the island of Hawaii on Saturday.</media:description>
@@ -111,11 +104,12 @@
       <atom:link href="https://www.nytimes.com/2026/08/16/weather/electricity-outages-hawaii.html" rel="standout"></atom:link>
       <description>Tropical Storm Lala damaged 16 transmission lines and many towers on Hawaii’s Big Island, the state’s main utility said.</description>
       <dc:creator>Ivan Penn</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 19:51:41 +0000</pubDate>
+      <pubDate>Sun, 16 Aug 2026 19:51:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hawaiian Electric Co Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16storm-lala-outages-qkgm/16storm-lala-outages-qkgm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bruce Omori for The New York Times</media:credit>
       <media:description>A crew dealing with a damaged utility pole in Hilo, Hawaii, on Saturday. Hawaiian Electric, the state’s primary electric utility, said its customers faced days without power because of the extent of the damage.</media:description>
@@ -698,7 +692,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v53.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v54.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
