@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 09:02:25 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 09:01:50 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 09:57:37 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 09:28:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -200,6 +200,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12well-rfk-lancaster-tlfp/12well-rfk-lancaster-tlfp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Desiree Rios for The New York Times</media:credit>
       <media:description>Before becoming health secretary, Mr. Kennedy promoted vaccine skepticism as the leader of Children’s Health Defense. </media:description>
+    </item>
+    <item>
+      <title>Share Your Experiences With the Public Health System in Louisiana</title>
+      <link>https://www.nytimes.com/2026/08/17/us/share-your-experiences-with-the-public-health-system-in-louisiana.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/us/share-your-experiences-with-the-public-health-system-in-louisiana.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/us/share-your-experiences-with-the-public-health-system-in-louisiana.html" rel="standout"></atom:link>
+      <description>The New York Times is examining how public health is changing in the state, from the whooping cough outbreak to vaccine policies, and we want to hear from you.</description>
+      <dc:creator>Rosemary Westwood</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 09:02:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-reader-callout</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whooping Cough</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/LIF-Callout-Public-Health2-gcvt/LIF-Callout-Public-Health2-gcvt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kathleen Flynn/Reuters</media:credit>
+      <media:description>A Covid shot being administered at a 2021 drive-through event in Avondale, La.</media:description>
     </item>
     <item>
       <title>How One Woman With a Very Rare Disease Secured a Clinical Trial</title>
@@ -418,22 +439,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/06biz-greenhouse-lettuce-01-wghj/06biz-greenhouse-lettuce-01-wghj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Amir Hamja for The New York Times</media:credit>
       <media:description>Lettuce at a farmers’ market in New York City this week. Sales of prepackaged salads in grocery and other retailers dropped in July, as the confirmed cases of cyclospora grew.</media:description>
-    </item>
-    <item>
-      <title>A Promising Heart Drug Fails, Challenging a Long-Held Theory of Disease</title>
-      <link>https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html" rel="standout"></atom:link>
-      <description>The drug targeted inflammation, and its shocking failure has experts questioning whether inflammation really does cause heart disease.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 00:58:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novo Nordisk A/S</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/06SCI-HEART-DRUG-zfvh/06SCI-HEART-DRUG-zfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tom Little/Reuters</media:credit>
-      <media:description>A Novo Nordisk study tested an experimental drug for heart disease patients.</media:description>
     </item>
   </channel>
 </rss>

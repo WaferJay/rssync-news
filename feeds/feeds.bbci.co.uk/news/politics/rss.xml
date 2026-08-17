@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/politics</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 17 Aug 2026 09:04:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Aug 2026 10:01:39 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/politics/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -551,6 +551,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8627/live/4ff5a0a0-60e9-11f1-8b8c-6d33e1d5abb6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Global Story]]></title>
+            <description><![CDATA[Could Gadi Eisenkot really be the ‘anti-Netanyahu?’]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8mcf?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8mcf#6</guid>
+            <pubDate>Mon, 17 Aug 2026 09:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p4xpyy.png"/>
+        </item>
+        <item>
             <title><![CDATA[Count Binface 'gratified' for being present at declaration]]></title>
             <description><![CDATA[Count Binface - whose real name is Jonathan David Harvey - received 9,455 votes for the Clacton by-election.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c20eyx09949o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -581,14 +589,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckge4dxdy3no#6</guid>
             <pubDate>Thu, 13 Aug 2026 22:16:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a866/live/43cfed60-9764-11f1-b2ab-0dd01740f9f6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The Global Story]]></title>
-            <description><![CDATA[In Brazil and elsewhere, leaders raise concerns over alleged election meddling by the US.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/w3ct8ml5?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8ml5#6</guid>
-            <pubDate>Wed, 12 Aug 2026 09:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p408w2.jpg"/>
         </item>
     </channel>
 </rss>
