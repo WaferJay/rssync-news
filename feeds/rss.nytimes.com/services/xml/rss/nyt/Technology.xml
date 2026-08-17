@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 17 Aug 2026 16:45:41 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 16:25:41 +0000</pubDate>
+    <lastBuildDate>Mon, 17 Aug 2026 17:45:46 +0000</lastBuildDate>
+    <pubDate>Mon, 17 Aug 2026 17:38:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -93,6 +93,30 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13Gemini-schools-wgzl/13Gemini-schools-wgzl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ysa Pérez for The New York Times</media:credit>
       <media:description>Starting this week, a new Gemini tab within Classroom lets some students seek A.I. help on math problems and writing assignments; generate course aids like study guides, quizzes and flashcards; and produce images.</media:description>
+    </item>
+    <item>
+      <title>Nvidia to Back Ohio Data Center With as Much as $105 Billion</title>
+      <link>https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html" rel="standout"></atom:link>
+      <description>The data center, one of the world’s largest, could cost as much as $500 billion and will be leased by OpenAI.</description>
+      <dc:creator>Kalley Huang</dc:creator>
+      <pubDate>Mon, 17 Aug 2026 17:38:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SOFTBANK Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/business/17biz-openai-nvidia/17biz-openai-nvidia-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brian Kaiser/Bloomberg</media:credit>
+      <media:description>Workers at the construction site for a data center in Piketon, Ohio, that will be built by a subsidiary of SoftBank and leased to OpenAI.</media:description>
     </item>
     <item>
       <title>The Iranian YouTube Show Posing Questions Few Dare Ask</title>
@@ -381,34 +405,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Open-Source Software</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/10biz-meta-ai-vmbl/10biz-meta-ai-vmbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jason Henry for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>A.I.-Driven Chip Crunch Leads to New Rush of Lobbying in Washington</title>
-      <link>https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/technology/memory-chip-shortage-ai.html" rel="standout"></atom:link>
-      <description>As data centers gobble up memory chips, other industries that need the components, including electronics companies like Apple and medical device makers, are asking for government help.</description>
-      <dc:creator>Kalley Huang and Ana Swanson</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 09:02:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lobbying and Lobbyists</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Apple Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Micron Technology Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Yangtze Memory Technology Corp (YMTC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SK Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Samsung Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medical Devices</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/11/business/00ai-memory/00ai-memory-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Matt Chase</media:credit>
     </item>
   </channel>
 </rss>
