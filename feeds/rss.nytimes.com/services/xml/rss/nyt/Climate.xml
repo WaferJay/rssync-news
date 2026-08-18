@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 01:53:23 +0000</lastBuildDate>
-    <pubDate>Mon, 17 Aug 2026 23:51:38 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:52:16 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 09:00:31 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -158,6 +158,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Rafting Through the Grand Canyon on a Depleting Colorado River</title>
+      <link>https://www.nytimes.com/2026/08/18/travel/grand-canyon-colorado-river-rafting.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/travel/grand-canyon-colorado-river-rafting.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/travel/grand-canyon-colorado-river-rafting.html" rel="standout"></atom:link>
+      <description>As water levels on the Colorado River fall to historic lows, a rafting trip through the canyon feels even more precious.</description>
+      <dc:creator>Heather Hansman</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 09:00:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Grand Canyon (Ariz)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Parks, Monuments and Seashores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Levees and Dams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rafts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
+      <category domain="">cityguidesad</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18trav-grand-canyon-twqb/18trav-grand-canyon-twqb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Carl Tremblay/Shutterstock</media:credit>
+      <media:description>For rafters beginning their journey on the Colorado River through the Grand Canyon, Navajo Bridge is the last modern structure they see for the trip’s duration. </media:description>
     </item>
     <item>
       <title>Watch Out for El Niño</title>
@@ -963,27 +986,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04cli-newsletter-Sargassum-01-hfzl/04cli-newsletter-Sargassum-01-hfzl-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Fernando Llano/Associated Press</media:credit>
       <media:description>Members of the Mexican Navy removed sargassum from the shore at Puerto Morelos, on the Caribbean coast, last week.</media:description>
-    </item>
-    <item>
-      <title>Phoenix Species Project Announces Funds for Imperiled Wildlife</title>
-      <link>https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/climate/phoenix-species-project-bezos-dicaprio-rewild.html" rel="standout"></atom:link>
-      <description>A new fund called the Phoenix Species Project will provide $200 million to help pull imperiled wildlife back from the brink of extinction.</description>
-      <dc:creator>Catrin Einhorn</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 13:41:57 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Philanthropy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Re:wild (Nonprofit)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bezos Earth Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">DiCaprio, Leonardo</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/climate/04cli-endangered-grid/04cli-endangered-grid-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Joel Sartore/National Geographic Photo Ark</media:credit>
-      <media:description>Some of the imperiled animals included in the Phoenix Species Project.</media:description>
     </item>
   </channel>
 </rss>

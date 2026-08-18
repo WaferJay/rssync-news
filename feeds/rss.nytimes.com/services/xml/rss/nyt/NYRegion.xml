@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 07:09:24 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 05:54:48 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 09:51:27 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 09:03:03 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -193,6 +193,26 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16met-boat-01-pftq/16met-boat-01-pftq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Boats navigate New York Harbor.</media:description>
+    </item>
+    <item>
+      <title>How New York Is Restricting Data Centers</title>
+      <link>https://www.nytimes.com/2026/08/18/nyregion/how-new-york-is-restricting-data-centers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/nyregion/how-new-york-is-restricting-data-centers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/nyregion/how-new-york-is-restricting-data-centers.html" rel="standout"></atom:link>
+      <description>Gov. Kathy Hochul has been aggressive in imposing a one-year moratorium on the centers. A state senator would go further.</description>
+      <dc:creator>James Barron</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 09:03:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochul, Kathleen C</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18nytoday-hbtj/18nytoday-hbtj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan Smialowski/Agence France-Presse — Getty Images</media:credit>
     </item>
     <item>
       <title>‘As We Pulled Into the Station, We Each Took One Last Look’</title>
@@ -411,28 +431,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-blakeman-trump-mwfg/14met-blakeman-trump-mwfg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>President Trump’s appearance comes roughly a week before a New York State law that forbids localities from partnering with ICE goes into effect.</media:description>
-    </item>
-    <item>
-      <title>Despite Mamdani’s Attempts to Appease, Many Business Leaders Remain Wary</title>
-      <link>https://www.nytimes.com/2026/08/14/nyregion/mamdani-business-advisers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/mamdani-business-advisers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/mamdani-business-advisers.html" rel="standout"></atom:link>
-      <description>The mayor’s attempt to create a business advisory council has been hampered by some concern that joining the council may be perceived as an endorsement of Mr. Mamdani.</description>
-      <dc:creator>Lauren Hirsch and Dana Rubinstein</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 23:06:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Economic Development Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Mayor&#39;s Fund to Advance New York</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
-      <media:content height="982" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15met-mamdani-business-TOP/15met-tax-rollout-cptw-mediumSquareAt3X.jpg" width="982"></media:content>
-      <media:credit>Victor J. Blue for The New York Times</media:credit>
-      <media:description>Mayor Zohran Mamdani has angered some business executives with his frequent statements criticizing Israel’s actions against Palestinians.</media:description>
     </item>
   </channel>
 </rss>
