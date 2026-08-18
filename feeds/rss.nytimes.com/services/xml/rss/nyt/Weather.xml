@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 15:52:23 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 14:16:21 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 17:48:53 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 17:20:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead</title>
+      <link>https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html" rel="standout"></atom:link>
+      <description>In the hamlet of Naalehu, the floods of Hurricane Lala opened graves. One mother sought desperately for her son.</description>
+      <dc:creator>Meghan Miner Murray</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 17:20:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tombs and Tombstones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/18/us/18nat-hawaii-coffins-02/18nat-hawaii-coffins-02-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Meghan Miner Murray</media:credit>
+      <media:description>The storm turned the small cemetery into torrents of mud, bearing the detritus of death.</media:description>
+    </item>
     <item>
       <title>Residents on Hawaii’s Big Island Look to Help One Another After Hurricane Lala</title>
       <link>https://www.nytimes.com/2026/08/18/us/hawaii-hurricane-lala-community-relief.html</link>
@@ -728,7 +744,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v66.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v68.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -747,26 +763,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Travel Commission</category>
-    </item>
-    <item>
-      <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>
-      <link>https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
-      <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
-      <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:53:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ritesh Shukla/Getty Images</media:credit>
-      <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
     </item>
   </channel>
 </rss>
