@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 18 Aug 2026 15:52:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Aug 2026 16:53:25 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Global borrowing costs hit fresh highs on oil, AI and inflation]]></title>
+            <description><![CDATA[Interest rates on long-term US, UK, German and Japanese government debt have soared.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1k1x1zdywdo#0</guid>
+            <pubDate>Tue, 18 Aug 2026 16:09:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03c/live/2a921030-9b15-11f1-ae25-295c0447cea3.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Job vacancies at five-year low as smaller firms scale back recruitment]]></title>
             <description><![CDATA[Small firms cite labour and operating costs as reasons for scaling back hiring, the UK's statistics body says.]]></description>
@@ -55,10 +63,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1962/live/397b2430-9a87-11f1-b792-a710e56a11dc.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Disney and ABC sue Trump's media regulator to stop early licence renewal ]]></title>
+            <description><![CDATA[The network accuses the administration of retaliation against ABC, as it "disapproves of what ABC broadcasts".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2rzr49vr2o#1</guid>
+            <pubDate>Tue, 18 Aug 2026 16:22:54 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/32bd/live/f9b07010-9b1e-11f1-afea-3b9b9f2d3a59.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[AI to help planes avoid climate-warming 'sky graffiti' ]]></title>
             <description><![CDATA[A new UK trial hopes to reduce the condensation trails from planes, which can trap heat in the Earth's atmosphere. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c62em5lpvnjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62em5lpvnjo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62em5lpvnjo#1</guid>
             <pubDate>Tue, 18 Aug 2026 09:26:41 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/975e/live/208c6990-9ae4-11f1-b2f7-5d1639b20e22.jpg"/>
         </item>
@@ -207,22 +223,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab99/live/07185cc0-97e8-11f1-a76b-f1c27c51f3da.jpg"/>
         </item>
         <item>
-            <title><![CDATA[US says dozens of countries helped China dodge Trump's tariffs]]></title>
-            <description><![CDATA[A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c78gy6ep3n5o#1</guid>
-            <pubDate>Fri, 14 Aug 2026 08:39:46 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8fc/live/12e1de40-977b-11f1-a8a8-85d648bbf002.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Engine parts smashed Ryanair window that man's head was sucked out of, report says]]></title>
-            <description><![CDATA[A preliminary report by US investigators says an engine fan blade broke on last month's flight from Greece to Germany.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr59j4z3vl8o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr59j4z3vl8o#1</guid>
-            <pubDate>Thu, 13 Aug 2026 21:43:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1623/live/fc15b5f0-975d-11f1-9240-c70a29f1c818.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Protein or pickled garlic? What's new in ice cream]]></title>
             <description><![CDATA[There's a constant battle in ice cream to come up with new flavours and to keep costs down.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9826zl0945o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -319,6 +319,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f7b/live/9039ecc0-8f10-11f1-a7ab-8b30adf0800a.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Global borrowing costs hit fresh highs on oil, AI and inflation]]></title>
+            <description><![CDATA[Interest rates on long-term US, UK, German and Japanese government debt have soared.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c1k1x1zdywdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1k1x1zdywdo#3</guid>
+            <pubDate>Tue, 18 Aug 2026 16:09:45 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c03c/live/2a921030-9b15-11f1-ae25-295c0447cea3.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Demand for school uniform bank 'has never been higher']]></title>
             <description><![CDATA[One mother said uniform costs had "really eaten" into her budget.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c330k0gdkkyo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -349,14 +357,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjd4p33yem1o#3</guid>
             <pubDate>Tue, 18 Aug 2026 05:04:23 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8003/live/17f1c710-97b2-11f1-bf42-fbbc01ed1ca6.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I used food banks while my ex owed thousands in child maintenance']]></title>
-            <description><![CDATA[Parents have told BBC Panorama the agency tasked with helping to secure financial support for children after separation or divorce is driving them to breaking point.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c5yvdeen2z2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c5yvdeen2z2o#3</guid>
-            <pubDate>Mon, 17 Aug 2026 12:27:55 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f14/live/a59f82e0-9a33-11f1-b792-a710e56a11dc.jpg"/>
         </item>
         <item>
             <title><![CDATA[Why the UK is dithering over what to do about e-scooters]]></title>
