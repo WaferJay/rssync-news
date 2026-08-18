@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 13:56:59 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 13:38:36 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 14:54:02 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 14:25:45 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -31,6 +31,18 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00sci-nasa-voyager-01-thvm/00sci-nasa-voyager-01-thvm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Humans Love Having Pets. Seems Like Some Other Primates Do, Too.</title>
+      <link>https://www.nytimes.com/2026/08/18/science/humans-love-having-pets-seems-like-some-other-primates-do-too.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/science/humans-love-having-pets-seems-like-some-other-primates-do-too.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/science/humans-love-having-pets-seems-like-some-other-primates-do-too.html" rel="standout"></atom:link>
+      <description>We aren’t the only animals that like to take care of other species. A new study finds that the roots of keeping a pet may stretch deep into our primate past.</description>
+      <dc:creator>Taylor Mitchell Brown</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 14:25:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Primates (Journal)</category>
     </item>
     <item>
       <title>Jaguars Are Ready to Come Back. The Border Wall Might Stop Them.</title>
@@ -154,23 +166,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13trav-eclipse-2027-preview-khqw/13trav-eclipse-2027-preview-khqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Finbarr O&#39;Reilly for The New York Times</media:credit>
       <media:description>The solar eclipse on Wednesday in Castrillo de la Reina, Spain. Next summer’s total solar eclipse will darken a 9,500-mile-long swath from the tip of southern Spain past the Horn of Africa.</media:description>
-    </item>
-    <item>
-      <title>Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired</title>
-      <link>https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html" rel="standout"></atom:link>
-      <description>Mike Fincke spent 549 days in space across four missions, the fourth most time of any NASA astronaut.</description>
-      <dc:creator>Adeel Hassan</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 13:55:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fincke, Michael (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Space Station</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space Stations</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-astronaut-qmhz/12xp-astronaut-qmhz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Miguel J. Rodriguez Carrillo/Agence France-Presse — Getty Images</media:credit>
-      <media:description>The NASA astronaut Michael Fincke last month at the Kennedy Space Center in Florida.</media:description>
     </item>
     <item>
       <title>Rafting Through the Grand Canyon on a Depleting Colorado River</title>
@@ -420,6 +415,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
+    </item>
+    <item>
+      <title>Mike Fincke, NASA Astronaut Whose Health Scare Led to I.S.S. Evacuation, Has Retired</title>
+      <link>https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/12/us/mike-fincke-retires-nasa-astronaut.html" rel="standout"></atom:link>
+      <description>Mike Fincke spent 549 days in space across four missions, the fourth most time of any NASA astronaut.</description>
+      <dc:creator>Adeel Hassan</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 13:55:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fincke, Michael (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Space Station</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space Stations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-astronaut-qmhz/12xp-astronaut-qmhz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Miguel J. Rodriguez Carrillo/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The NASA astronaut Michael Fincke last month at the Kennedy Space Center in Florida.</media:description>
     </item>
     <item>
       <title>The Perseids, Summer’s Strongest Meteor Shower, Will Peak Tonight</title>
