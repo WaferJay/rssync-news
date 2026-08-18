@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 10:50:36 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 10:47:03 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 11:43:18 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 11:00:06 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -97,6 +97,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/16/business/09DC-AI-ECON-illo/09DC-AI-ECON-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicolas Ortega</media:credit>
+    </item>
+    <item>
+      <title>OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow</title>
+      <link>https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html" rel="standout"></atom:link>
+      <description>The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.</description>
+      <dc:creator>Cecilia Kang</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 11:00:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-openai-teens-bmcg/18biz-openai-teens-bmcg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
+      <media:description>A workshop about artificial intelligence at Walla Walla High School in Washington in 2023. ChatGPT will turn on its teen mode if it detects signals that the user is younger than 18, OpenAI said. </media:description>
     </item>
     <item>
       <title>States Seek $200 Billion From Meta Over Child Social Media Addiction Claims</title>
@@ -396,32 +414,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/07biz-river-ai--01-fpmc/07biz-river-ai--01-fpmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Poppy Lynch for The New York Times</media:credit>
       <media:description>Igor Babuschkin built a new start-up, River AI, and hopes to provide ways for people to “retrain,” or modify, artificial intelligence as they see fit.</media:description>
-    </item>
-    <item>
-      <title>How Social Media Sparked a Refugee Crisis Between Spain and Morocco</title>
-      <link>https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/technology/social-media-ceuta-spain-morocco.html" rel="standout"></atom:link>
-      <description>A wave of disinformation online contributed to a surge of migrants in the Spanish enclave of Ceuta who were trying to reach Europe, resulting in about 90 deaths.</description>
-      <dc:creator>Steven Lee Myers, Aida Alami and Carlos Barragán</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 13:23:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Migrant Surge into Ceuta, Spain (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ceuta (Spain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Telegram LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">WhatsApp Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/00biz-ceuta-disinfo-1-wgjt/00biz-ceuta-disinfo-1-wgjt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sergey Ponomarev for The New York Times</media:credit>
-      <media:description>Moroccan border guards and boats patrolling the coastline on the border with Spain in Fnideq, Morocco, this month.</media:description>
     </item>
   </channel>
 </rss>
