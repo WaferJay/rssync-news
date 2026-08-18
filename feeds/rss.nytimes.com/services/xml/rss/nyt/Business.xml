@@ -3,17 +3,31 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?nR=yofAB9fe" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 13:13:29 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 13:11:01 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:56:56 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 13:47:00 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Home Depot Reports Higher Sales, but Its C.E.O. Isn’t There to Spread the News</title>
+      <link>https://www.nytimes.com/2026/08/18/business/home-depot-ceo-medical-leave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/home-depot-ceo-medical-leave.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/business/home-depot-ceo-medical-leave.html" rel="standout"></atom:link>
+      <description>Investors got a shock last week when the retailer said that Ted Decker, the chief executive, would take a medical leave. Tuesday’s earnings brought a more welcome surprise.</description>
+      <dc:creator>Jordyn Holman and Kim Bhasin</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 13:47:00 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Depot Inc</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/business/18biz-ceo-sick/18biz-ceo-sick-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Caroline Brehman/Bloomberg</media:credit>
+      <media:description>Ted Decker, the chief executive of Home Depot, in May. Last week, the company said he would take a medical leave of absence. </media:description>
+    </item>
     <item>
       <title>ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses</title>
       <link>https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html</link>
@@ -85,7 +99,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html" rel="standout"></atom:link>
       <description>The yield on the 30-year U.S. Treasury bond rose to its highest level in nearly 20 years.</description>
       <dc:creator>Gregory Schmidt</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 12:41:34 +0000</pubDate>
+      <pubDate>Tue, 18 Aug 2026 13:36:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
@@ -141,7 +155,7 @@
       <media:description>As of Aug. 18, the new name — President Donald J. Trump International Airport — has been fully adopted by the global aviation industry.</media:description>
     </item>
     <item>
-      <title>It’s Crunchtime Again for Canada to Avoid New U.S. Tariffs</title>
+      <title>It’s Crunchtime Again for Canada to Avoid Trump’s New Tariffs</title>
       <link>https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html" rel="standout"></atom:link>
@@ -990,25 +1004,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/11/business/00STORY/00STORY-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Taylor Hill/WireImage</media:credit>
       <media:description>Randall Lane, the former chief content officer of Forbes.</media:description>
-    </item>
-    <item>
-      <title>Prediction Firms Are Flagging Insider Traders. Many Will Not Face Charges.</title>
-      <link>https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/us/politics/prediction-markets-insider-trading.html" rel="standout"></atom:link>
-      <description>The agency that polices the industry does not have the staffing, the legal tools or the will to broadly crack down on wagers that are easily manipulated, experts say.</description>
-      <dc:creator>Sharon LaFraniere</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 17:25:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Commodity Futures Trading Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Kalshi Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Polymarket (Adventure One QSS Inc)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Selig, Michael S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Santos, George (1988- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/dc-prediction-markets-1-qwgk/dc-prediction-markets-1-qwgk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Laura Brett/ZUMA Press, via Reuters</media:credit>
-      <media:description>Kalshi, a leading prediction market, referred 32 possible insider traders to the Commodity Futures Trading Commission in the three months ending in June.</media:description>
     </item>
   </channel>
 </rss>
