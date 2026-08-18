@@ -3,17 +3,96 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?nR=yofAB9fe" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 11:44:21 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 11:38:10 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 13:13:29 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 13:11:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>ABC Sues Trump Administration Over F.C.C. Threat to Its TV Licenses</title>
+      <link>https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html" rel="standout"></atom:link>
+      <description>The network asked a court to stop the agency from taking steps that could force ABC stations off the air and accused the F.C.C. of violating its First Amendment rights.</description>
+      <dc:creator>Jim Rutenberg and John Koblin</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 12:53:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">First Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ABC Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carr, Brendan Thomas (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kimmel, Jimmy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-abc-fcc-hztb/18biz-abc-fcc-hztb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>An ABC News reporter prepares to broadcast from outside the New York Stock Exchange.</media:description>
+    </item>
+    <item>
+      <title>Ship Exiting the Strait of Hormuz Is Attacked</title>
+      <link>https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html" rel="standout"></atom:link>
+      <description>At least 17 commercial sailors have been killed in and around Iranian and Omani waters since March. Six months into the conflict, the vital waterway remains exceptionally dangerous.</description>
+      <dc:creator>Jenny Gross</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 12:27:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iran-Israel War (2025- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Maritime Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/Biz-Hormuz-Shipping-bchf/Biz-Hormuz-Shipping-bchf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Reuters</media:credit>
+      <media:description>Vessels near the Strait of Hormuz, as seen from Musandam, Oman, on Monday. Traffic through the strait has dwindled since the conflict began.</media:description>
+    </item>
+    <item>
+      <title>Is Silicon Valley in the Justice Dept.’s Sights?</title>
+      <link>https://www.nytimes.com/2026/08/18/business/dealbook/andreessen-horowitz-justice-antitrust.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/dealbook/andreessen-horowitz-justice-antitrust.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/business/dealbook/andreessen-horowitz-justice-antitrust.html" rel="standout"></atom:link>
+      <description>Federal prosecutors are reportedly investigating Andreessen Horowitz, the venture capital giant, over board seats it holds.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 12:22:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andreessen, Marc L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Horowitz, Ben</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Andreessen Horowitz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Silicon Valley (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kanter, Jonathan S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boards of Directors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/world/dealbook-horowitz/dealbook-horowitz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendan McDermid/Reuters</media:credit>
+      <media:description>Ben Horowitz, a general partner at Andreessen Horowitz.</media:description>
+    </item>
+    <item>
+      <title>Bond Yields Jump and Stocks Slip as Iran Stalemate Unsettles Investors</title>
+      <link>https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html" rel="standout"></atom:link>
+      <description>The yield on the 30-year U.S. Treasury bond rose to its highest level in nearly 20 years.</description>
+      <dc:creator>Gregory Schmidt</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 12:41:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-markets-vlbp/18biz-markets-vlbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Amr Alfiky/Reuters</media:credit>
+    </item>
     <item>
       <title>At Ex-Premier Zhu Rongji’s Funeral, China’s Past Shadows Its Present</title>
       <link>https://www.nytimes.com/2026/08/18/world/asia/zhu-rongji-funeral-china.html</link>
@@ -930,92 +1009,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/dc-prediction-markets-1-qwgk/dc-prediction-markets-1-qwgk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Laura Brett/ZUMA Press, via Reuters</media:credit>
       <media:description>Kalshi, a leading prediction market, referred 32 possible insider traders to the Commodity Futures Trading Commission in the three months ending in June.</media:description>
-    </item>
-    <item>
-      <title>Ted Decker, CEO of Home Depot, Is Taking Medical Leave</title>
-      <link>https://www.nytimes.com/2026/08/12/business/home-depot-ceo.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/home-depot-ceo.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/business/home-depot-ceo.html" rel="standout"></atom:link>
-      <description>Ted Decker is expected to return in a few months, and two executives have been appointed to oversee his duties in the interim.</description>
-      <dc:creator>Aruni Soni</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 18:19:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Decker, Ted (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Depot Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Repairs and Improvements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/business/00biz-home-depot/00biz-home-depot-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Derek White/Getty Images for The Same House</media:credit>
-      <media:description>Ted Decker joined Home Depot in 2000 and was named chief executive in 2022.</media:description>
-    </item>
-    <item>
-      <title>Gulf Oil Giants Are Spending Billions to Build Ways Around Strait of Hormuz</title>
-      <link>https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/business/iran-war-hormuz-oil.html" rel="standout"></atom:link>
-      <description>Even if a cease-fire materializes, Gulf exporters recognize that relying strictly on the Strait of Hormuz is a risk they can no longer take.</description>
-      <dc:creator>Lisa Friedman</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 08:17:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Abu Dhabi National Oil Co (ADNOC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Houthis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Oman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kuwait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12Biz-Hormuz-Strait-01-fbwt/12Biz-Hormuz-Strait-01-fbwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Getty Images/Getty Images</media:credit>
-      <media:description>Ships anchored in the Strait of Hormuz on Monday off the coast of Bandar Abbas in Iran. Shipping through the strait has been greatly curtailed because of the war in Iran.</media:description>
-    </item>
-    <item>
-      <title>Consumer Debt Data Shows ‘Overall’ Health Amid Persisting Divides</title>
-      <link>https://www.nytimes.com/2026/08/12/business/consumer-debt-inflation.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/consumer-debt-inflation.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/business/consumer-debt-inflation.html" rel="standout"></atom:link>
-      <description>Homeowners with low fixed-rate mortgages lead a resilient picture of the economy. But many consumers are frustrated with declining real wages and other loans.</description>
-      <dc:creator>Talmon Joseph Smith</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 19:48:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mortgages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <media:content height="1124" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12biz-inflation-fed-data-bqvz/12biz-inflation-fed-data-bqvz-mediumSquareAt3X.jpg" width="1124"></media:content>
-      <media:credit>Mike Belleme for The New York Times</media:credit>
-      <media:description>Mortgage debt balances ticked down in the second quarter of the year.</media:description>
-    </item>
-    <item>
-      <title>Will Paramount’s Brinkmanship Work?</title>
-      <link>https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/business/dealbook/paramount-california-states-lawsuit.html" rel="standout"></atom:link>
-      <description>The media company’s leader, David Ellison, is threatening to pull the company out of California in the face of a lawsuit by states seeking to block its big deal.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Lauren Hirsch</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 11:49:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ellison, David (1983- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Relocation of Business</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12db-paramount-kczv/12db-paramount-kczv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
-      <media:description>Paramount’s C.E.O., David Ellison, is threatening to pull the company out of California if there isn’t progress in settling a lawsuit by states seeking to block its planned takeover of Warner Bros. Discovery.</media:description>
     </item>
   </channel>
 </rss>
