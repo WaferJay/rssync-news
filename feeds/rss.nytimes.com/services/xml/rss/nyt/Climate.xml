@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 18 Aug 2026 19:43:07 +0000</lastBuildDate>
-    <pubDate>Tue, 18 Aug 2026 19:10:29 +0000</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2026 21:37:53 +0000</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2026 21:17:19 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -158,6 +158,28 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Court Blocks Road Through Izembek National Wildlife Refuge</title>
+      <link>https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html" rel="standout"></atom:link>
+      <description>A federal judge ruled that the Trump administration broke the law when it approved a deal to allow a road through the Izembek National Wildlife Refuge.</description>
+      <dc:creator>Maxine Joselow</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 21:17:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izembek National Wildlife Refuge and Wilderness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Sanctuaries and Nature Reserves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alaska Natives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">King Cove (Alaska)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18cli-refuge-pgbk/18cli-refuge-pgbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Acacia Johnson for The New York Times</media:credit>
+      <media:description>Mountains in the Izembek National Wildlife Refuge near King Cove in southwest Alaska.</media:description>
     </item>
     <item>
       <title>Environmentalists Sue to Halt First Sale of Seabed-Mining Rights</title>
@@ -992,26 +1014,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/03/multimedia/2026-data-center-permitting-index/2026-data-center-permitting-index-mediumSquareAt3X-v8.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Appeals Court Says E.P.A. Cannot Block Billions in Climate Grants</title>
-      <link>https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/04/climate/epa-climate-grants-appeals-court.html" rel="standout"></atom:link>
-      <description>The funds have been frozen since early in President Trump’s second term.</description>
-      <dc:creator>Claire Brown</dc:creator>
-      <pubDate>Tue, 04 Aug 2026 20:58:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Environmental Protection Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Aid (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nonprofit Organizations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appeals Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Climate United Fund</category>
-      <media:content height="582" medium="image" url="https://static01.nyt.com/images/2026/08/04/multimedia/04cli-greenbank-hfwp/04cli-greenbank-hfwp-mediumSquareAt3X.jpg" width="581"></media:content>
-      <media:credit>Eric Lee for The New York Times</media:credit>
-      <media:description>Portraits of President Trump and Vice President Vance hang in the employee entrance of the Environmental Protection Agency in Washington.</media:description>
     </item>
   </channel>
 </rss>
