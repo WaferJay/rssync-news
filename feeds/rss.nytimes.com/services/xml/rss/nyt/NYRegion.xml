@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 01:52:55 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 00:43:03 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 03:11:12 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 02:26:31 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -191,6 +191,23 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16met-boat-01-pftq/16met-boat-01-pftq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Boats navigate New York Harbor.</media:description>
+    </item>
+    <item>
+      <title>In 911 Breakdown, Hundreds of Calls Failed to Reach Bronx Operators</title>
+      <link>https://www.nytimes.com/2026/08/18/nyregion/911-nyc-the-bronx-call-center.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/nyregion/911-nyc-the-bronx-call-center.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/nyregion/911-nyc-the-bronx-call-center.html" rel="standout"></atom:link>
+      <description>Over a seven-hour period Tuesday, nearly 1,700 calls did not go through to one of the city&#39;s two emergency call centers. It was unclear what had caused the problem.</description>
+      <dc:creator>Sally Goldenberg, Maria Cramer and Chelsia Rose Marcius</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 02:26:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nine-One-One (911) (Emergency Phone Number)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Telephone Numbers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Downtown Brooklyn (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of Technology and Innovation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18met-911-bkpt/18met-911-bkpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>The Bronx 911 call center is one of two public safety answering centers in the city.</media:description>
     </item>
     <item>
       <title>They’re Young, They’re Bros and They’re in City Hall</title>
@@ -414,23 +431,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15met-congestion-air-01-wfjk/15met-congestion-air-01-wfjk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
       <media:description>Congestion pricing, which began in 2025, charges most drivers up to $9 to enter Manhattan below 60th Street during peak traffic hours.</media:description>
-    </item>
-    <item>
-      <title>Man Charged With Hate Crime After Disrupting Worship at N.Y.C. Synagogue</title>
-      <link>https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/nyregion/central-synagogue-shabbat-assault-arrest.html" rel="standout"></atom:link>
-      <description>Larry Montes, 46, faces assault and hate crime charges after striking a congregation member and a security guard at Central Synagogue in Manhattan, the police said.</description>
-      <dc:creator>John Yoon</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 04:15:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anti-Semitism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hate Crimes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Central Synagogue of New York</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14xp-synagogue-bltm/14xp-synagogue-bltm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kena Betancur/Associated Press</media:credit>
-      <media:description>The Central Synagogue in New York City.</media:description>
     </item>
   </channel>
 </rss>
