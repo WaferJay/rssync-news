@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 20:48:36 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 20:40:12 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 22:45:19 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 22:39:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -77,9 +77,12 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Mayors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, City Councils</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Local Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tax Credits, Deductions and Exemptions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Nebius Group NV</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Independence (Mo)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Clayton Steward for The New York Times</media:credit>
       <media:description>Residents of Independence, Mo., at a City Council meeting in June.</media:description>
@@ -91,7 +94,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html" rel="standout"></atom:link>
       <description>The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.</description>
       <dc:creator>Adeel Hassan</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 20:40:12 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 21:49:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LandSpace</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
