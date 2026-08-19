@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 14:52:51 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 14:36:18 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:50:45 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 15:40:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Markets Rally After U.S. Treasury Tries to Ease Bond Market Stress</title>
+      <link>https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html" rel="standout"></atom:link>
+      <description>Government bond yields fell and stocks jumped on a move by the Treasury Department to double the amount of debt that it can buy back from investors.</description>
+      <dc:creator>Joe Rennison</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 15:27:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19biz-treasuries-gcfh/19biz-treasuries-gcfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>The announcement by Treasury Department, led by Scott Bessent, raises demand in the bond market at a time when many investors have been selling.</media:description>
+    </item>
     <item>
       <title>How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz</title>
       <link>https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html</link>
@@ -176,15 +194,12 @@
       <description>Dr. Overton is a fierce opponent of abortion rights and a supporter of Health Secretary Robert F. Kennedy Jr.’s Make America Healthy Again agenda.</description>
       <dc:creator>Christina Jewett</dc:creator>
       <pubDate>Wed, 19 Aug 2026 03:01:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Overton, Heidi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Cigarettes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Abortion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peptides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Diamantas, Kyle</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Makary, Marty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18DC-FDA-Commissioner-vmkt/18DC-FDA-Commissioner-vmkt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
@@ -222,7 +237,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19int-canada-tariffs-deadline-lkpf/19int-canada-tariffs-deadline-lkpf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
@@ -1008,21 +1022,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/business/00Biz-Yen1/00Biz-Yen1-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>The Yomiuri Shimbun, via Associated Press</media:credit>
       <media:description>The rally in the yen has faded, with the currency approaching 160 yen per dollar, a level that could test the resolve of officials in Tokyo and Washington. </media:description>
-    </item>
-    <item>
-      <title>The Markets Have Been on a Roll. Is It Time to Hedge Your Bets?</title>
-      <link>https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/business/stock-market-ai-bonds-rally.html" rel="standout"></atom:link>
-      <description>The S&amp;P 500 is in position for a rare fourth year of consecutive double-digit gains. Risks are rising, our columnist says, yet Wall Street is doubling down.</description>
-      <dc:creator>Jeff Sommer</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 20:23:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/business/16strategies-illo/16strategies-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michela Buttignol</media:credit>
     </item>
   </channel>
 </rss>

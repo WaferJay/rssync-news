@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 14:54:49 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 14:12:30 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:48:50 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 15:45:44 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html" rel="standout"></atom:link>
       <description>Cecilia Kang, who covers technology and regulatory policy for The New York Times, traveled to the “data center capital of the world” to see how the A.I. boom is affecting Loudoun County, Va.</description>
       <dc:creator>Cecilia Kang, Laura Bult, Gilad Thaler, Jon Miller, Thomas Vollkommer, June Kim and Jeff Ricker</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 14:12:30 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 14:48:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Loudoun County (Va)</category>
@@ -104,7 +104,7 @@
       <media:description>Florida voters “just want the best person that’s going to do the job,” said Byron Donalds, who won the Republican nomination for governor on Tuesday.</media:description>
     </item>
     <item>
-      <title>Scion of Democratic Politics Makes Runoff for Alaska Governor</title>
+      <title>Tom Begich, a Scion of Democratic Politics, Makes Runoff for Alaska Governor</title>
       <link>https://www.nytimes.com/2026/08/19/us/politics/tom-begich-alaska-governor.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/politics/tom-begich-alaska-governor.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/19/us/politics/tom-begich-alaska-governor.html" rel="standout"></atom:link>
@@ -124,7 +124,7 @@
       <media:description>Tom Begich, one of 17 candidates who ran for governor in Alaska’s primary, will be on the ballot in November.</media:description>
     </item>
     <item>
-      <title>Progressive Democrat Makes Runoff for Alaska Governor</title>
+      <title>Jonathan Kreiss-Tomkins, a Progressive Democrat, Makes Runoff for Alaska Governor</title>
       <link>https://www.nytimes.com/2026/08/19/us/politics/jonathan-kreiss-tomkins-alaska-governor.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/politics/jonathan-kreiss-tomkins-alaska-governor.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/19/us/politics/jonathan-kreiss-tomkins-alaska-governor.html" rel="standout"></atom:link>
@@ -149,11 +149,12 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html" rel="standout"></atom:link>
       <description>Both parties see Alaska as key to winning the Senate. The state’s nonpartisan primary put Mary Peltola, a Democratic former congresswoman, on the same ballot as Dan Sullivan, the incumbent Republican she hopes to unseat. Both advanced to the general election.</description>
       <dc:creator>Kellen Browning and Bayliss Wagner</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 13:20:48 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 14:28:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/us/18HFO-POL-AKSENATE/18HFO-POL-AKSENATE-mediumSquareAt3X.png" width="1800"></media:content>
       <media:credit>Kerry Tasker/Reuters; Eric Lee for The New York Times</media:credit>
       <media:description>Former Representative Mary Peltola, a Democrat, and Senator Dan Sullivan, a Republican, will advance to the general election for an Alaska Senate seat.</media:description>
@@ -167,21 +168,26 @@
       <dc:creator>Patricia Mazzei</dc:creator>
       <pubDate>Wed, 19 Aug 2026 07:56:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Angela (1984- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vindman, Alexander S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donalds, Byron (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mills, Cory (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elijah, Ryan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schultz, Debbie Wasserman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moskowitz, Jared (1980- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liberalism (US Politics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donalds, Byron (1978- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mills, Cory (1980- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Angela (1984- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schultz, Debbie Wasserman</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vindman, Alexander S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sullivan, Daniel Scott (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18pol-takeaways-01-whbk/18pol-takeaways-01-whbk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saul Martinez for The New York Times</media:credit>
       <media:description>State Representative Angie Nixon spent just $60,000 on television advertising, compared to opponent Alex Vindman’s $2.2 million.</media:description>
@@ -315,10 +321,14 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/us/politics/wyoming-senate-trump-republican-hageman.html" rel="standout"></atom:link>
       <description>Ms. Hageman, who unseated Representative Liz Cheney in 2022, is a heavy favorite to replace Senator Cynthia Lummis in the deep-red state.</description>
       <dc:creator>Tim Balk</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 02:54:03 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 02:54:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hageman, Harriet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18HFO-POL-WYSENATE-GOP-hageman-zkbl/18HFO-POL-WYSENATE-GOP-hageman-zkbl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Valerie Plesch for The New York Times</media:credit>
       <media:description>Representative Harriet Hageman at a hearing in Washington, last year.</media:description>
@@ -398,6 +408,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1095" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18POL-MIDTERMS-WHOIS-DONALDS/18POL-MIDTERMS-WHOIS-DONALDS-mediumSquareAt3X.jpg" width="1095"></media:content>
       <media:credit>Martina Tuaty for The New York Times</media:credit>
       <media:description>Byron Donalds, if elected, would be Florida’s first Black governor.</media:description>
@@ -415,6 +426,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18POL-MIDTERMS-WHOIS-JOLLY-kwfl/18POL-MIDTERMS-WHOIS-JOLLY-kwfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>John Raoux/Associated Press</media:credit>
       <media:description>David Jolly at a town hall meeting in Leesburg, Fla., this month.</media:description>
@@ -507,7 +519,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/us/politics/david-jolly-florida-governor-democratic-primary.html" rel="standout"></atom:link>
       <description>The former Republican congressman will try to appeal to voters disaffected with President Trump in a state where Republicans significantly outnumber Democrats.</description>
       <dc:creator>David Ovalle</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 01:23:48 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 14:33:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
@@ -552,6 +564,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gruters, Joseph R (1977- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gruters, Sydney</category>
       <media:content height="1239" medium="image" url="https://static01.nyt.com/images/2026/08/18/us/18HFO-POL-FL16/18HFO-POL-FL16-mediumSquareAt3X.jpg" width="1239"></media:content>
       <media:credit>Sydney Gruters for Congress</media:credit>
       <media:description>Sydney Gruters </media:description>
@@ -713,6 +728,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nixon, Angela (1984- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18pol-midterms-who-is-angie-nixon-wclh/18pol-midterms-who-is-angie-nixon-wclh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Saul Martinez for The New York Times</media:credit>
       <media:description>Angie Nixon is a state representative, a democratic socialist and union organizer.</media:description>

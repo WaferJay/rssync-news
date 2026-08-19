@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 14:54:15 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 14:14:49 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 15:51:46 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 15:32:19 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html" rel="standout"></atom:link>
       <description>As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.</description>
       <dc:creator>David McCabe</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 14:12:28 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 14:58:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
@@ -52,6 +52,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Clayton Steward for The New York Times</media:credit>
       <media:description>Residents of Independence, Mo., at a City Council meeting in June.</media:description>
+    </item>
+    <item>
+      <title>China Wants Its Tech Champions to Raise Money at Home</title>
+      <link>https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/business/unitree-ipo-trading.html" rel="standout"></atom:link>
+      <description>Blockbuster market debuts by two technology companies show how Beijing is turning to local investors to finance its A.I. ambitions and reduce reliance on Wall Street.</description>
+      <dc:creator>Steve Lohr and Xinyun Wu</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 13:43:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ChangXin Memory Technologies (CXMT)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19Biz-CHina-IPO-fpml/19Biz-CHina-IPO-fpml-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Qilai Shen for The New York Times</media:credit>
+      <media:description>A Unitree Robotics booth at an industry exhibition in Shanghai last week.</media:description>
     </item>
     <item>
       <title>ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job</title>
@@ -75,31 +94,18 @@
       <media:description>Meta glasses are seen exhibited at the Meta Lab pop-up store on Fifth Avenue in New York. </media:description>
     </item>
     <item>
-      <title>Meta to Stand Trial Over Claims It Addicted Children to Social Media</title>
-      <link>https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html" rel="standout"></atom:link>
-      <description>California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.</description>
-      <dc:creator>Cecilia Kang, Eli Tan and Emmy Martin</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 04:58:34 +0000</pubDate>
+      <title>Some Stand-Up Comics Are Pivoting Away From Video on Social Media</title>
+      <link>https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html" rel="standout"></atom:link>
+      <description>Comedians used to post footage of their performances to build a following. Now, some are finding that comic strip-style panels with captions pack a bigger punch.</description>
+      <dc:creator>Sopan Deb</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 15:32:19 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry for The New York Times</media:credit>
-      <media:description>During the trial, to be held in the U.S. District Court of Oakland, Calif., four states are expected to argue that Meta violated federal child privacy and state consumer protection laws. </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
     </item>
     <item>
       <title>Apple Removes Some Fees for App Developers in European Union</title>
@@ -108,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html" rel="standout"></atom:link>
       <description>The move followed a long battle with regulators over the company’s tight controls of its App Store.</description>
       <dc:creator>Kalley Huang</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 21:47:23 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 14:49:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
@@ -138,6 +144,33 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-openai-teens-bmcg/18biz-openai-teens-bmcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
       <media:description>A workshop about artificial intelligence at Walla Walla High School in Washington in 2023. ChatGPT will turn on its teen mode if it detects signals that the user is younger than 18, OpenAI said. </media:description>
+    </item>
+    <item>
+      <title>Meta to Stand Trial Over Claims It Addicted Children to Social Media</title>
+      <link>https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html" rel="standout"></atom:link>
+      <description>California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.</description>
+      <dc:creator>Cecilia Kang, Eli Tan and Emmy Martin</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 04:58:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>During the trial, to be held in the U.S. District Court of Oakland, Calif., four states are expected to argue that Meta violated federal child privacy and state consumer protection laws. </media:description>
     </item>
     <item>
       <title>Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.</title>
@@ -386,37 +419,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12xp-speed-02-thkp/12xp-speed-02-thkp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hannah Schoenbaum/Associated Press</media:credit>
       <media:description>Andy Green after setting a new land speed record for a hydrogen-powered vehicle on Tuesday at the Bonneville Salt Flats in Utah.</media:description>
-    </item>
-    <item>
-      <title>Thrive Holdings, A.I.-Focused Buyer of Service Firms, Raises $2 Billion</title>
-      <link>https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/business/dealbook/thrive-holdings-ai-funding.html" rel="standout"></atom:link>
-      <description>The company, Thrive Holdings, acquires businesses to infuse them with artificial intelligence and drew interest from backers like SoftBank.</description>
-      <dc:creator>Michael J. de la Merced</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 03:03:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Holdings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thrive Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Joshua</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12db-kushner-htmz/12db-kushner-htmz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brendan McDermid/Reuters</media:credit>
-      <media:description>Thrive Holdings was created by the investment firm led by Joshua Kushner, left, as a bet on applying artificial intelligence to traditional service businesses.</media:description>
-    </item>
-    <item>
-      <title>Spotify Will Label A.I. Artists and Avoid Promoting Them</title>
-      <link>https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/11/arts/music/spotify-artificial-intelligence-music.html" rel="standout"></atom:link>
-      <description>The new label, which will begin to be applied next month, is an effort by the streaming service to be more transparent about A.I.-generated music on its app.</description>
-      <dc:creator>Malia Mendez</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 19:59:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotify</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labeling and Labels (Product)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
     </item>
   </channel>
 </rss>
