@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 17:45:41 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 17:08:11 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:56:57 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 18:20:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -45,6 +45,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Primates (Journal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>How NASA Engineers Are Keeping the Voyagers Alive</title>
@@ -190,7 +191,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/18/health/heidi-overton-fda.html" rel="standout"></atom:link>
       <description>Dr. Overton is a fierce opponent of abortion rights and a supporter of Health Secretary Robert F. Kennedy Jr.’s Make America Healthy Again agenda.</description>
       <dc:creator>Christina Jewett</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 17:08:11 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 18:20:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Overton, Heidi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
@@ -256,7 +257,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html" rel="standout"></atom:link>
       <description>Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.</description>
       <dc:creator>Scott Dance and Mira Rojanasakul</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 23:51:39 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 18:19:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
@@ -554,23 +555,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12dc-mmr-vaccine-vwjk/12dc-mmr-vaccine-vwjk-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Desiree Rios for The New York Times</media:credit>
       <media:description>There is no evidence that the combination shot for measles, mumps and rubella is dangerous or that splitting it into its three components is any safer or more effective, vaccine experts said.</media:description>
-    </item>
-    <item>
-      <title>As Europe Faces Heat Waves and Wildfires, Travelers Are Forced to Adapt</title>
-      <link>https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html" rel="standout"></atom:link>
-      <description>Soaring temperatures, widespread wildfires and dried-up rivers are transforming tourism across the continent. Here’s how travelers are responding.</description>
-      <dc:creator>Ryley Ober</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 20:06:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Travel Commission</category>
     </item>
   </channel>
 </rss>

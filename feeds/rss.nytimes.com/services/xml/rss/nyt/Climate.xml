@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 17:42:55 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 17:35:11 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 18:57:23 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 18:35:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -67,7 +67,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html" rel="standout"></atom:link>
       <description>Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.</description>
       <dc:creator>Scott Dance and Mira Rojanasakul</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 23:51:39 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 18:19:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
@@ -145,7 +145,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/climate/contrails-trial-atlantic-flights-climate.html" rel="standout"></atom:link>
       <description>Hundreds of aircraft traversing the North Atlantic will be asked to adjust their altitude in an effort to reduce heat-trapping contrails.</description>
       <dc:creator>Leo Sands</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 16:45:27 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 18:35:02 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Traffic Control</category>
@@ -153,6 +153,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Ocean</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19xp-contrails/19xp-contrails-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ben Stansall/Agence France-Presse — Getty Images</media:credit>
       <media:description>The “contrail effect” accounts for as much as 35 percent of the planetary warming caused by aviation.</media:description>
