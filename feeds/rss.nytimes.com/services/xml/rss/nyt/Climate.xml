@@ -7,13 +7,59 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 16:52:01 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 16:49:23 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 17:42:55 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 17:35:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/climate</link>
     </image>
+    <item>
+      <title>Court Blocks Road Through Izembek National Wildlife Refuge</title>
+      <link>https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html" rel="standout"></atom:link>
+      <description>A federal judge ruled that the Trump administration broke the law when it approved a deal to allow a road through the Izembek National Wildlife Refuge.</description>
+      <dc:creator>Maxine Joselow</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 22:16:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izembek National Wildlife Refuge and Wilderness</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Sanctuaries and Nature Reserves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alaska Natives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">King Cove (Alaska)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18cli-refuge-pgbk/18cli-refuge-pgbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Acacia Johnson for The New York Times</media:credit>
+      <media:description>Mountains in the Izembek National Wildlife Refuge near King Cove in southwest Alaska.</media:description>
+    </item>
+    <item>
+      <title>Environmentalists Sue to Halt First Sale of Seabed-Mining Rights</title>
+      <link>https://www.nytimes.com/2026/08/18/climate/seabed-mining-lawsuit-american-samoa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/climate/seabed-mining-lawsuit-american-samoa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/18/climate/seabed-mining-lawsuit-american-samoa.html" rel="standout"></atom:link>
+      <description>The suit claims the U.S. decision to allow mining for minerals in American waters didn’t consider the potential harm to endangered species.</description>
+      <dc:creator>Quinn Glabicki</dc:creator>
+      <pubDate>Tue, 18 Aug 2026 19:10:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Earthjustice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Seabed Authority</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Impossible Metals Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Marine Fisheries Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">American Samoa</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18CLI-SEABED-MINING-vgbz/18CLI-SEABED-MINING-vgbz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>U.S. Geological Survey, via Associated Press</media:credit>
+      <media:description>Nodules of valuable minerals collected from the seabed near American Samoa in April.</media:description>
+    </item>
     <item>
       <title>Lake Powell Hits Lowest Level On Record As Water Crisis Continues</title>
       <link>https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html</link>
@@ -52,73 +98,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17CLI-WEST-WATER-01-ktlq/17CLI-WEST-WATER-01-ktlq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>John Locher/Associated Press</media:credit>
       <media:description>The Glen Canyon Dam near Lake Powell in Arizona last month. Lakes Powell and Mead, the country’s largest reservoirs, have been recording new lows this summer.</media:description>
-    </item>
-    <item>
-      <title>Federal Job Cuts Are Making Wildfires Harder to Fight</title>
-      <link>https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html" rel="standout"></atom:link>
-      <description>The Trump administration pushed out thousands of veteran U.S. Forest Service staff. An ‘extraordinary’ fire season is testing those who are left.</description>
-      <dc:creator>Scott Dance</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 13:15:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Interagency Fire Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-forest-fires-01-tmwg/14cli-forest-fires-01-tmwg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ethan Swope/Associated Press</media:credit>
-      <media:description>Firefighters at the Summit fire in Llano, Calif., last month.</media:description>
-    </item>
-    <item>
-      <title>Why Europe Keeps Being Pummeled by Heat Waves</title>
-      <link>https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html" rel="standout"></atom:link>
-      <description>The whole planet is warming, but changes in weather patterns could help explain why the continent is suffering so many bouts of severe heat.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 15:02:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="">heat dome</category>
-      <category domain="">jet stream</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-europe-jetstream-pjkv/14cli-europe-jetstream-pjkv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A tourist at the parched bed of Lac des Brenets on the France-Switzerland border on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Judge Rejects Suit Against University of Michigan That Sought Emails on Climate Law</title>
-      <link>https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html" rel="standout"></atom:link>
-      <description>A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills.</description>
-      <dc:creator>Karen Zraick</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 14:29:17 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rothschild, Rachel Emma</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Superfund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-professor-lawsuit-ftcv/14cli-professor-lawsuit-ftcv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Peter Hoffman for The New York Times</media:credit>
-      <media:description>Rachel Rothschild, a law professor at the University of Michigan, whose emails were being sought in the lawsuit against the school.</media:description>
     </item>
     <item>
       <title>How Companies Have Abandoned Their Climate Goals and Let Themselves Off the Hook</title>
@@ -186,12 +165,13 @@
       <description>The recurring climate phenomenon is poised this year to enter a new phase known as a super El Niño, exacerbating the effects of climate change.</description>
       <dc:creator>Michael Barbaro, Chico Harlan, Asthaa Chaturvedi, Stella Tan, Adrienne Hurst, Devon Taylor, Marion Lozano, Diane Wong, Pat McCusker and Chris Wood</dc:creator>
       <pubDate>Wed, 19 Aug 2026 10:00:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wind</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
@@ -222,52 +202,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18nat-ca-tires-qmbc/18nat-ca-tires-qmbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Sullivan/Getty Images</media:credit>
       <media:description>California’s efficiency standards for replacement vehicle tires will take full effect in 2033.</media:description>
-    </item>
-    <item>
-      <title>Court Blocks Road Through Izembek National Wildlife Refuge</title>
-      <link>https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/climate/court-alaska-izembek-refuge.html" rel="standout"></atom:link>
-      <description>A federal judge ruled that the Trump administration broke the law when it approved a deal to allow a road through the Izembek National Wildlife Refuge.</description>
-      <dc:creator>Maxine Joselow</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 22:16:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Izembek National Wildlife Refuge and Wilderness</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Sanctuaries and Nature Reserves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alaska Natives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interior Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">King Cove (Alaska)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18cli-refuge-pgbk/18cli-refuge-pgbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Acacia Johnson for The New York Times</media:credit>
-      <media:description>Mountains in the Izembek National Wildlife Refuge near King Cove in southwest Alaska.</media:description>
-    </item>
-    <item>
-      <title>Environmentalists Sue to Halt First Sale of Seabed-Mining Rights</title>
-      <link>https://www.nytimes.com/2026/08/18/climate/seabed-mining-lawsuit-american-samoa.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/climate/seabed-mining-lawsuit-american-samoa.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/climate/seabed-mining-lawsuit-american-samoa.html" rel="standout"></atom:link>
-      <description>The suit claims the U.S. decision to allow mining for minerals in American waters didn’t consider the potential harm to endangered species.</description>
-      <dc:creator>Quinn Glabicki</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 19:10:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fish and Other Marine Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Metals and Minerals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Earthjustice</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Seabed Authority</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Impossible Metals Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Marine Fisheries Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">American Samoa</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18CLI-SEABED-MINING-vgbz/18CLI-SEABED-MINING-vgbz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>U.S. Geological Survey, via Associated Press</media:credit>
-      <media:description>Nodules of valuable minerals collected from the seabed near American Samoa in April.</media:description>
     </item>
     <item>
       <title>Trump Administration Moves to Allow Logging in Pristine National Forests</title>
@@ -433,6 +367,49 @@
       <media:description>Both Bears Ears and Grand Staircase-Escalante National Monuments are rich in wildlife habitat and archaeological treasures but also sit atop vast reserves of uranium and other precious metals.</media:description>
     </item>
     <item>
+      <title>Why Europe Keeps Being Pummeled by Heat Waves</title>
+      <link>https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html" rel="standout"></atom:link>
+      <description>The whole planet is warming, but changes in weather patterns could help explain why the continent is suffering so many bouts of severe heat.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 15:02:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="">heat dome</category>
+      <category domain="">jet stream</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-europe-jetstream-pjkv/14cli-europe-jetstream-pjkv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
+      <media:description>A tourist at the parched bed of Lac des Brenets on the France-Switzerland border on Tuesday.</media:description>
+    </item>
+    <item>
+      <title>Judge Rejects Suit Against University of Michigan That Sought Emails on Climate Law</title>
+      <link>https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/climate/climate-superfund-professor-lawsuit-emails-michigan.html" rel="standout"></atom:link>
+      <description>A conservative group had tried to force the University of Michigan to hand over messages from a law professor who worked on “climate superfund” bills.</description>
+      <dc:creator>Karen Zraick</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 14:29:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rothschild, Rachel Emma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Michigan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Superfund</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-professor-lawsuit-ftcv/14cli-professor-lawsuit-ftcv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Peter Hoffman for The New York Times</media:credit>
+      <media:description>Rachel Rothschild, a law professor at the University of Michigan, whose emails were being sought in the lawsuit against the school.</media:description>
+    </item>
+    <item>
       <title>David Hearn’s Lawyers Ask Court to Bar Future Reflecting Pool Charges</title>
       <link>https://www.nytimes.com/2026/08/14/us/hearn-reflecting-pool-prosecutor-harassment.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/us/hearn-reflecting-pool-prosecutor-harassment.html</guid>
@@ -480,6 +457,30 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14int-europe-heat-visuals-01-vzwq/14int-europe-heat-visuals-01-vzwq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>A sweltering day near Tower Bridge in London on Thursday.</media:description>
+    </item>
+    <item>
+      <title>Federal Job Cuts Are Making Wildfires Harder to Fight</title>
+      <link>https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html" rel="standout"></atom:link>
+      <description>The Trump administration pushed out thousands of veteran U.S. Forest Service staff. An ‘extraordinary’ fire season is testing those who are left.</description>
+      <dc:creator>Scott Dance</dc:creator>
+      <pubDate>Fri, 14 Aug 2026 13:15:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Interagency Fire Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-forest-fires-01-tmwg/14cli-forest-fires-01-tmwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ethan Swope/Associated Press</media:credit>
+      <media:description>Firefighters at the Summit fire in Llano, Calif., last month.</media:description>
     </item>
     <item>
       <title>As Europe Gets Hotter, Its Transportation Systems Struggle to Cope</title>
