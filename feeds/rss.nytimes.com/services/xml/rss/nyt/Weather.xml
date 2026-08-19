@@ -7,13 +7,49 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 09:53:59 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 08:46:03 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 10:50:06 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 10:45:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>After the Storm</title>
+      <link>https://www.nytimes.com/2026/08/19/briefing/hurricane-lala-aftermath.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/briefing/hurricane-lala-aftermath.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/briefing/hurricane-lala-aftermath.html" rel="standout"></atom:link>
+      <description>We look at the aftermath of Hurricane Lala.</description>
+      <dc:creator>Sam Sifton</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 10:45:10 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19themorning-nl-lead2-jcph/19themorning-nl-lead2-jcph-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Stephen Lam/San Francisco Chronicle, via Associated Press</media:credit>
+      <media:description>In Naalehu, Hawaii.</media:description>
+    </item>
+    <item>
+      <title>El Niño Is Back. And Worse Than Ever.</title>
+      <link>https://www.nytimes.com/2026/08/19/podcasts/the-daily/el-nino-climate-change-heat-wave-drought.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/podcasts/the-daily/el-nino-climate-change-heat-wave-drought.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/podcasts/the-daily/el-nino-climate-change-heat-wave-drought.html" rel="standout"></atom:link>
+      <description>The recurring climate phenomenon is poised this year to enter a new phase known as a super El Niño, exacerbating the effects of climate change.</description>
+      <dc:creator>Michael Barbaro, Chico Harlan, Asthaa Chaturvedi, Stella Tan, Adrienne Hurst, Devon Taylor, Marion Lozano, Diane Wong, Pat McCusker and Chris Wood</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 10:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19Daily-elnino/19Daily-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Bay Ismoyo/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Rocks exposed at the bottom of a river in Tangerang, Indonesia, last month. Falling water levels in the region are due in part to El Niño, which has brought a prolonged dry season and led to extreme drought, threatening food security in parts of Indonesia.</media:description>
+    </item>
     <item>
       <title>Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead</title>
       <link>https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html</link>
@@ -731,38 +767,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/13/multimedia/13int-uk-heat-vlbg-zfmc/13int-uk-heat-vlbg-zfmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kirsty Wigglesworth/Associated Press</media:credit>
       <media:description>Another heat wave gripped London on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Tropical Storm Lala Could Become 1st Hurricane to Make Landfall on Hawaii in 34 Years</title>
-      <link>https://www.nytimes.com/2026/08/12/weather/hawaii-storm-hurricane-lala.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/weather/hawaii-storm-hurricane-lala.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/weather/hawaii-storm-hurricane-lala.html" rel="standout"></atom:link>
-      <description>The first tropical storm to form in the central Pacific this year is threatening to strengthen as it churns toward Hawaii.</description>
-      <dc:creator>Judson Jones and Amy Graff</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 14:26:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/cyclone-tracker-2025-one-c-cp012026-satellite_map/cyclone-tracker-2025-one-c-cp012026-satellite_map-mediumSquareAt3X-v80.jpg" width="1000"></media:content>
-      <media:credit>The New York Times</media:credit>
-    </item>
-    <item>
-      <title>As Europe Faces Heat Waves and Wildfires, Travelers Are Forced to Adapt</title>
-      <link>https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/travel/europe-travel-tourism-wildfires-heat-waves.html" rel="standout"></atom:link>
-      <description>Soaring temperatures, widespread wildfires and dried-up rivers are transforming tourism across the continent. Here’s how travelers are responding.</description>
-      <dc:creator>Ryley Ober</dc:creator>
-      <pubDate>Wed, 12 Aug 2026 20:06:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Travel Commission</category>
     </item>
   </channel>
 </rss>
