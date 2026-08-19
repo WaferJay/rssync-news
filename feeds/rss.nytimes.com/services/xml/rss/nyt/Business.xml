@@ -7,13 +7,34 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 13:58:01 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 13:43:10 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:52:51 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 14:36:18 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>How the U.S. Navy Is Helping Get Oil Through the Strait of Hormuz</title>
+      <link>https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/business/iran-hormuz-oman-us-navy.html" rel="standout"></atom:link>
+      <description>With Iran making ship traffic perilous, a U.S. operation offers a way out for some energy exports, stealthily shepherding tankers on dangerous journeys.</description>
+      <dc:creator>Peter Eavis and John Ismay</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 14:36:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Oman</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00Biz-Hormuz-Protection-02-jcbm/00Biz-Hormuz-Protection-02-jcbm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>U.S. Navy, via Getty Images</media:credit>
+      <media:description>The U.S.S. Abraham Lincoln, in a handout photo, conducting operations related to the Strait of Hormuz in April. The Navy has said it has about 20 warships in the Gulf of Oman. </media:description>
+    </item>
     <item>
       <title>The Rising Stakes of the Global Bond Rout</title>
       <link>https://www.nytimes.com/2026/08/19/business/dealbook/bonds-yields-treasury-ai.html</link>
@@ -1002,21 +1023,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/business/16strategies-illo/16strategies-illo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Michela Buttignol</media:credit>
-    </item>
-    <item>
-      <title>Robinhood Bets Again on a Public Venture Capital Fund</title>
-      <link>https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/business/dealbook/robinhood-public-venture-capital-fund.html" rel="standout"></atom:link>
-      <description>The trading platform raised $200 million for a second publicly traded vehicle to let ordinary investors buy into privately held start-ups.</description>
-      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 12:37:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Robinhood Financial LLC</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14db-robinhood-ventures-mlvt/14db-robinhood-ventures-mlvt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Brendan McDermid/Reuters</media:credit>
-      <media:description>Vlad Tenev, the C.E.O. of Robinhood, celebrating the I.P.O. of the Robinhood Ventures Fund I at the New York Stock Exchange in March. The company’s second venture fund began trading yesterday.</media:description>
     </item>
   </channel>
 </rss>

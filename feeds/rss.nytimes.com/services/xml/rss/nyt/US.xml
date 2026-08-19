@@ -7,13 +7,25 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 13:59:25 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 13:57:43 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 14:54:49 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 14:12:30 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Inside the Data Center Capital of the World</title>
+      <link>https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html</guid>
+      <atom:link href="https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html" rel="standout"></atom:link>
+      <description>Cecilia Kang, who covers technology and regulatory policy for The New York Times, traveled to the “data center capital of the world” to see how the A.I. boom is affecting Loudoun County, Va.</description>
+      <dc:creator>Cecilia Kang, Laura Bult, Gilad Thaler, Jon Miller, Thomas Vollkommer, June Kim and Jeff Ricker</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 14:12:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Loudoun County (Va)</category>
+    </item>
     <item>
       <title>Chinese Comic Investigated After Singing a Riff of a Patriotic Song</title>
       <link>https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html</link>
@@ -21,7 +33,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/us/guo-degang-china-comic-investigated.html" rel="standout"></atom:link>
       <description>Guo Degang, one of the country’s best-known comedians, was reported to the authorities, as the arts continue to be a focus for ideological crackdowns.</description>
       <dc:creator>Yan Zhuang</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 13:05:12 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 14:08:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Comedy and Humor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
@@ -908,28 +920,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18dc-igs01a-photo-qkzg/18dc-igs01a-photo-qkzg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>President Trump has inserted a conservative operative to take over the inspector general’s office in charge of any internal investigation into his botched repairs of the Lincoln Memorial Reflecting Pool.</media:description>
-    </item>
-    <item>
-      <title>Judge Allows Limited Testing in Trump Plan to Paint Eisenhower Building White</title>
-      <link>https://www.nytimes.com/2026/08/18/us/politics/judge-paint-eisenhower-building-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/us/politics/judge-paint-eisenhower-building-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/us/politics/judge-paint-eisenhower-building-trump.html" rel="standout"></atom:link>
-      <description>A federal judge ruled that initial preparatory steps, including testing out paints on the building’s gray granite exterior, could proceed for now.</description>
-      <dc:creator>Zach Montague</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 19:13:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Courts and the Judiciary</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">White House Building (Washington, DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">General Services Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Friedrich, Dabney L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rock and Stone</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18dc-eisenhower-photo-tgmp/18dc-eisenhower-photo-tgmp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Allison Robbert for The New York Times</media:credit>
-      <media:description>The Eisenhower Executive Office Building in May.</media:description>
     </item>
   </channel>
 </rss>
