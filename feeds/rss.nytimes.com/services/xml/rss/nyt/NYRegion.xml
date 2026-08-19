@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 19 Aug 2026 07:56:05 +0000</lastBuildDate>
-    <pubDate>Wed, 19 Aug 2026 07:49:01 +0000</pubDate>
+    <lastBuildDate>Wed, 19 Aug 2026 09:53:59 +0000</lastBuildDate>
+    <pubDate>Wed, 19 Aug 2026 09:02:55 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -191,6 +191,27 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16met-boat-01-pftq/16met-boat-01-pftq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Boats navigate New York Harbor.</media:description>
+    </item>
+    <item>
+      <title>An Otter in the Bronx Is a Big Deal. Here’s Why.</title>
+      <link>https://www.nytimes.com/2026/08/19/nyregion/otter-bronx-river-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/nyregion/otter-bronx-river-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/nyregion/otter-bronx-river-nyc.html" rel="standout"></atom:link>
+      <description>A photo of a North American river otter suggests a river coming back to life, Bronx Zoo experts say.</description>
+      <dc:creator>James Barron</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 09:02:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Second Homes and Non-Primary Residences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Otters (Animals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bronx Zoo Wildlife Conservation Park</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx River (Bronx, NY)</category>
     </item>
     <item>
       <title>‘I’ve Hit My Limit’: Some New Yorkers Opt for Fun at Home to Save Money</title>
@@ -411,20 +432,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14met-mangione-ledeall1-01-pfmw/14met-mangione-ledeall1-01-pfmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anna Connors for The New York Times</media:credit>
       <media:description>Luigi Mangione’s guilty plea in federal court raises questions about what will happen next in his state court case.</media:description>
-    </item>
-    <item>
-      <title>There Are Over 1 Million N.Y.C. Street Signs. Here’s How They Are Made.</title>
-      <link>https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html" rel="standout"></atom:link>
-      <description>From Cornelia Street to the Brooklyn-Queens Expressway, the 46 workers in this Queens building bring to life the words and symbols that guide the city.</description>
-      <dc:creator>Winnie Hu and Juan Arredondo</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 18:56:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic and Parking Signals and Signs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Knicks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Maspeth (Queens, NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/06/multimedia/SIGNSHOP-TOP-SWAP-cmkw/SIGNSHOP-TOP-SWAP-cmkw-mediumSquareAt3X.jpg" width="1800"></media:content>
     </item>
   </channel>
 </rss>
