@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; New York</title>
     <link>https://www.nytimes.com/section/nyregion</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/nyregion.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 14:55:01 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 14:13:50 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 15:48:41 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 15:37:19 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/ice-arrest-boat-captain-new-york.html" rel="standout"></atom:link>
       <description>A Coast Guard investigation led to the arrest of Manuel Hernandez, who had been charged with misconduct and neglect after the deaths of a mother and her child.</description>
       <dc:creator>Jonathan Wolfe</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 14:00:03 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 15:37:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Manuel (Boat Captain)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
@@ -40,7 +40,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/transgender-migrants-ice.html" rel="standout"></atom:link>
       <description>U.S. officials have sometimes eliminated access to gender-related treatment and dissolved measures meant to shield transgender detainees from harassment.</description>
       <dc:creator>Ana Ley</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 14:13:24 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 15:07:51 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
