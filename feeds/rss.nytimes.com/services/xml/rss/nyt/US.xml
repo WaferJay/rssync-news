@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 14:00:22 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 13:59:48 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 14:59:13 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 14:49:29 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -52,6 +52,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Collin County (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
     </item>
     <item>
       <title>Under Trump, Protected Wild Horses Are Going to Slaughter</title>
@@ -60,7 +61,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/trump-wild-horses-legal-loophole-slaughter.html" rel="standout"></atom:link>
       <description>A legal loophole allows the government to sell mustangs on the cheap, stripping them of protections and clearing their path to destruction.</description>
       <dc:creator>Dave Philipps and Erin Schaff</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:00:18 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 14:47:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Meatpacking Plants and Slaughterhouses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
@@ -164,14 +165,16 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/us/politics/heidi-overton-cassidy-fda.html" rel="standout"></atom:link>
       <description>Senator Bill Cassidy said Dr. Heidi Overton’s role in President Trump’s executive order on vaccines last week was “almost disqualifying.”</description>
       <dc:creator>Sheryl Gay Stolberg</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 22:52:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <pubDate>Thu, 20 Aug 2026 14:32:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Overton, Heidi</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cassidy, Bill (1957- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Health, Education, Labor and Pensions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executive Orders and Memorandums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19trump-news-cassidy-FDA-topart-lqhm/19trump-news-cassidy-FDA-topart-lqhm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
       <media:description>Senator Bill Cassidy, Republican of Louisiana, is the chairman of the Health, Education, Labor and Pensions Committee. The committee must vote to advance nominees to the Senate for confirmation.</media:description>
@@ -300,14 +303,17 @@
       <description>The Wyoming Freedom Caucus had ambitions for a total takeover of elected state government. But its candidates were rejected from the governor’s mansion to the Legislature.</description>
       <dc:creator>David W. Chen</dc:creator>
       <pubDate>Thu, 20 Aug 2026 00:51:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, State Legislature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Secretary of State</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Secretary of State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House Freedom Caucus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wyoming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19nat-wyoming-primaries-2-bqkc/19nat-wyoming-primaries-2-bqkc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Will Warasila for The New York Times</media:credit>
       <media:description>At least a dozen Freedom Caucus incumbents were ousted from the Wyoming Legislature.</media:description>
