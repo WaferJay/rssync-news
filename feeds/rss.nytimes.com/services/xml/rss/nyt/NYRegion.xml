@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 05:49:00 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 05:26:37 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 07:09:54 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 07:00:23 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -64,7 +64,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/nyregion/nypd-police-drunk-driving-guilty.html" rel="standout"></atom:link>
       <description>Tiffany Howell admitted she was drunk when she drove the wrong way on the Taconic State Parkway earlier this year, killing Manuel Boitel, a Manhattan doorman.</description>
       <dc:creator>Maria Cramer</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 18:20:39 +0000</pubDate>
+      <pubDate>Wed, 19 Aug 2026 18:20:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drunken and Reckless Driving</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
@@ -211,6 +211,55 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18met-mamdani-helmet2-kgtj-PROMO/18met-mamdani-helmet2-kgtj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Mayor Zohran Mamdani is often seen biking around New York City.</media:description>
+    </item>
+    <item>
+      <title>The Influencers’ Thanksgiving</title>
+      <link>https://www.nytimes.com/2026/08/20/nyregion/the-influencers-thanksgiving.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/the-influencers-thanksgiving.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/the-influencers-thanksgiving.html" rel="standout"></atom:link>
+      <description>In the middle of August, Macy’s hosted a dinner for social media stars in advance of the 100th Thanksgiving Day Parade.</description>
+      <dc:creator>Sarah Maslin Nir</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 07:00:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Macy&#39;s Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coss, Will</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Herald Square (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moonachie (NJ)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-thanksgiving-zmjc/20met-thanksgiving-zmjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Graham Dickie for The New York Times</media:credit>
+      <media:description>A preliminary Thanksgiving feast on the shop floor of the Macy’s parade workshop in Moonachie, N.J.</media:description>
+    </item>
+    <item>
+      <title>Trans Migrants in ICE Detention Are Losing Their Rights and Medical Care</title>
+      <link>https://www.nytimes.com/2026/08/20/nyregion/transgender-migrants-ice.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/transgender-migrants-ice.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/transgender-migrants-ice.html" rel="standout"></atom:link>
+      <description>U.S. officials have sometimes eliminated access to gender-related treatment and dissolved measures meant to shield transgender detainees from harassment.</description>
+      <dc:creator>Ana Ley</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 07:00:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solitary Confinement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Asylum, Right of</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Financial District (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Jena (LA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
     </item>
     <item>
       <title>Derrick Parker, Known as New York’s ‘Hip-Hop Cop,’ Dies at 65</title>
@@ -385,38 +434,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16met-boat-01-pftq/16met-boat-01-pftq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Dave Sanders for The New York Times</media:credit>
       <media:description>Boats navigate New York Harbor.</media:description>
-    </item>
-    <item>
-      <title>Ralph Nader, Unsurprisingly, Still Wants You to Pay Attention</title>
-      <link>https://www.nytimes.com/2026/08/16/nyregion/ralph-nader-stock-transfer-tax.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/nyregion/ralph-nader-stock-transfer-tax.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/nyregion/ralph-nader-stock-transfer-tax.html" rel="standout"></atom:link>
-      <description>Mr. Nader, 92, is no longer in the public eye, but he has not stopped fighting for whatever needs fighting, whether people are listening or not.</description>
-      <dc:creator>Benjamin Oreskes</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 16:03:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nader, Ralph</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Trade Commission</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cox, Edward F</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Third-Party Politics (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transfer Tax</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/nyregion/00met-nader/00met-nader-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jim McKnight/Associated Press</media:credit>
-      <media:description>Ralph Nader was a frequent visitor to Albany in 1976, when he fought for changes to the state’s hospital system.</media:description>
-    </item>
-    <item>
-      <title>‘As We Pulled Into the Station, We Each Took One Last Look’</title>
-      <link>https://www.nytimes.com/2026/08/16/nyregion/metropolitan-diary.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/nyregion/metropolitan-diary.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/nyregion/metropolitan-diary.html" rel="standout"></atom:link>
-      <description>A mutual admiration society on a downtown F, knitting on the bus and more reader tales of New York City in this week’s Metropolitan Diary.</description>
-      <pubDate>Mon, 17 Aug 2026 00:12:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
   </channel>
 </rss>
