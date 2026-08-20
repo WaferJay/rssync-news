@@ -3,17 +3,59 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1787244728571" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 15:52:16 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 15:49:11 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:52:08 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 16:51:47 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>A Few Expert Lawyers Dominate Supreme Court Arguments, a New Study Finds</title>
+      <link>https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html" rel="standout"></atom:link>
+      <description>Chief Justice Roberts, once such a lawyer, has said he has mixed feelings about the trend.</description>
+      <dc:creator>Adam Liptak</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 16:29:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solicitors General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Legal Profession</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clement, Paul D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Posner, Eric A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roberts, John G Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20thedocket01-photo-zgwt/20thedocket01-photo-zgwt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee/The New York Times</media:credit>
+      <media:description>Chief Justice John Roberts argued 39 Supreme Court cases as a lawyer in the solicitor general’s office and in private practice.</media:description>
+    </item>
+    <item>
+      <title>FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry</title>
+      <link>https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html" rel="standout"></atom:link>
+      <description>Most sex crimes are prosecuted by state and local authorities. The federal agents appeared to be using civil rights statutes to scrutinize Mr. Swalwell’s conduct, a person familiar with the case said.</description>
+      <dc:creator>Alan Feuer</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 16:43:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Swalwell, Eric M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20dc-swalwell-zhgc/20dc-swalwell-zhgc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tierney L. Cross/The New York Times</media:credit>
+      <media:description>Mr. Swalwell, who spent more than a decade in the House representing two districts in California, resigned from Congress in April.</media:description>
+    </item>
     <item>
       <title>As Prince Harry and Meghan Depart California for the U.K., Their Neighbors Shrug</title>
       <link>https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html</link>
@@ -21,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html" rel="standout"></atom:link>
       <description>Prince Harry and Meghan Markle self exiled to the ultrawealthy enclave of Montecito in 2020. “They wave. They drive. They close the gates,” a neighbor said.</description>
       <dc:creator>Shawn Hubler and Livia Albeck-Ripka</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 15:49:11 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 16:23:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gossip</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
@@ -119,13 +161,13 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
     </item>
     <item>
-      <title>Pilot Is Killed After Small Plane and Police Helicopter Collide in Pennsylvania</title>
+      <title>Pilot Is Killed in ‘Very Violent Crash’ Involving Plane and Police Helicopter</title>
       <link>https://www.nytimes.com/2026/08/20/us/helicopter-plane-collision-pennsylvania.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/helicopter-plane-collision-pennsylvania.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/20/us/helicopter-plane-collision-pennsylvania.html" rel="standout"></atom:link>
       <description>Two Pennsylvania State Police troopers were injured in the crash at Carlisle Airport, officials said.</description>
       <dc:creator>Francesca Regalado and Ishani Desai</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 04:07:56 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 16:22:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
@@ -143,9 +185,9 @@
       <link>https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/19/us/missouri-redistricting-midterms.html" rel="standout"></atom:link>
-      <description>The decision was a win for Republicans, who have been pushing for the new map in an effort to help maintain the party’s narrow control in the U.S. House in November.</description>
+      <description>The decision, quickly appealed, was a win for Republicans. The party has been pushing for the new map in an effort to help maintain control in the U.S. House in November.</description>
       <dc:creator>Madaleine Rubin</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 02:49:13 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 16:51:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Redistricting and Reapportionment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
@@ -368,7 +410,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/us/cycling-team-crash-milligan-university.html" rel="standout"></atom:link>
       <description>Milligan University said two members of its cycling team had been killed. The driver was charged with vehicular homicide by recklessness.</description>
       <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 22:22:28 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 16:29:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Milligan University</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Road</category>
@@ -380,40 +422,6 @@
       <media:content height="1223" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19xp-crash/19xp-crash-mediumSquareAt3X.jpg" width="1223"></media:content>
       <media:credit>WKRN</media:credit>
       <media:description>A driver struck members of the Milligan University cycling team on Highway 19 in Carter County, Tenn., on Wednesday morning, officials said. Two of the cyclists were killed, the school said.</media:description>
-    </item>
-    <item>
-      <title>Prosecutor Reduces Charges Against L.A.P.D. Whistle-Blower After Uproar</title>
-      <link>https://www.nytimes.com/2026/08/19/us/lapd-officer-recording-charges.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/lapd-officer-recording-charges.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/us/lapd-officer-recording-charges.html" rel="standout"></atom:link>
-      <description>A Los Angeles officer faced prison for secretly recording colleagues making offensive remarks. The county prosecutor is reducing those charges after critics said they would discourage whistle-blowers.</description>
-      <dc:creator>Shawn Hubler and Tim Arango</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 18:04:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Los Angeles, Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Whistle-Blowers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homosexuality and Bisexuality</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wiretapping and Other Eavesdropping Devices and Methods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hochman, Nathan (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19nat-lapd-whistleblower-lwth/19nat-lapd-whistleblower-lwth-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eric Thayer/Getty Images</media:credit>
-      <media:description>Nathan Hochman, the district attorney, said that the original charges “sent the wrong message.” </media:description>
-    </item>
-    <item>
-      <title>Inside the Data Center Capital of the World</title>
-      <link>https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html</guid>
-      <atom:link href="https://www.nytimes.com/video/us/100000011066777/inside-the-data-center-capital-of-the-world.html" rel="standout"></atom:link>
-      <description>Cecilia Kang, who covers technology and regulatory policy for The New York Times, traveled to the “data center capital of the world” to see how the A.I. boom is affecting Loudoun County, Va.</description>
-      <dc:creator>Cecilia Kang, Laura Bult, Gilad Thaler, Jon Miller, Thomas Vollkommer, June Kim and Jeff Ricker</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 10:26:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Loudoun County (Va)</category>
     </item>
   </channel>
 </rss>

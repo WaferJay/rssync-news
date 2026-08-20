@@ -3,17 +3,32 @@
   <channel>
     <title>NYT &gt; New York</title>
     <link>https://www.nytimes.com/section/nyregion</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/nyregion.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/NYRegion.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 15:48:41 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 15:37:19 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 16:53:29 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 16:40:29 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
+    <item>
+      <title>3 Teen Girls Knifed by Woman in Attack at Dollar Tree, Police Say</title>
+      <link>https://www.nytimes.com/2026/08/20/nyregion/brooklyn-dollar-tree-stabbing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/brooklyn-dollar-tree-stabbing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/brooklyn-dollar-tree-stabbing.html" rel="standout"></atom:link>
+      <description>The woman, who is 44, stabbed two of the girls and slashed the third during a dispute in Brooklyn on Wednesday, the authorities said.</description>
+      <dc:creator>Wesley Parnell</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 15:48:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East New York (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dollar Tree Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-teen-crime-hzjv/20met-teen-crime-hzjv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Sarah Silbiger for The New York Times</media:credit>
+      <media:description>A 13-year-old girl was stabbed in the abdomen several times, the police said.</media:description>
+    </item>
     <item>
       <title>ICE Arrests Captain in New York Boat Accident That Killed 2</title>
       <link>https://www.nytimes.com/2026/08/20/nyregion/ice-arrest-boat-captain-new-york.html</link>
@@ -69,7 +84,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/the-influencers-thanksgiving.html" rel="standout"></atom:link>
       <description>In the middle of August, Macy’s hosted a dinner for social media stars in advance of the 100th Thanksgiving Day Parade.</description>
       <dc:creator>Sarah Maslin Nir</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 13:08:06 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 16:40:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Parades</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Thanksgiving Day</category>
@@ -81,6 +96,29 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-thanksgiving-zmjc/20met-thanksgiving-zmjc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Graham Dickie for The New York Times</media:credit>
       <media:description>A preliminary Thanksgiving feast on the shop floor of the Macy’s parade workshop in Moonachie, N.J.</media:description>
+    </item>
+    <item>
+      <title>Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides</title>
+      <link>https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html" rel="standout"></atom:link>
+      <description>New York City says the Council’s legislation violates collective bargaining law. The dispute could set up the first high-profile battle between the mayor and a public sector union.</description>
+      <dc:creator>Dana Rubinstein and Eliza Shapiro</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 21:47:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bonuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collective Bargaining</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Federation of Teachers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Menin, Julie</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mulgrew, Michael</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19met-mamdani-paraprofessionals-qfwg/19met-mamdani-paraprofessionals-qfwg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dave Sanders for The New York Times</media:credit>
     </item>
     <item>
       <title>Man Dies at Newly Opened Medical Unit for Rikers Jail</title>
@@ -103,51 +141,6 @@
       <media:description>Bellevue Hospital, which includes the Outposted Therapeutic Housing Unit where Christopher Rodriguez died.</media:description>
     </item>
     <item>
-      <title>Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides</title>
-      <link>https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html" rel="standout"></atom:link>
-      <description>New York City says the Council’s legislation violates collective bargaining law. The dispute could set up the first high-profile battle between the mayor and a public sector union.</description>
-      <dc:creator>Dana Rubinstein and Eliza Shapiro</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 21:47:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collective Bargaining</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">City Councils</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Federation of Teachers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Menin, Julie</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mulgrew, Michael</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19met-mamdani-paraprofessionals-qfwg/19met-mamdani-paraprofessionals-qfwg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>What Will It Take to Fix New York’s Housing Shortage?</title>
-      <link>https://www.nytimes.com/2026/08/19/nyregion/nyc-housing-shortage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/nyregion/nyc-housing-shortage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/nyregion/nyc-housing-shortage.html" rel="standout"></atom:link>
-      <description>A draft report from the city estimates that 700,000 new units would need to be built over the next decade to accommodate the need for homes.</description>
-      <dc:creator>Patrick McGeehan</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 22:31:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Department of Housing Preservation and Development (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Staten Island (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19met-housing-shortage-hjkq/19met-housing-shortage-hjkq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>New York’s housing shortage will require the city to build hundreds of thousands of new units over the next decade, according to a new report.</media:description>
-    </item>
-    <item>
       <title>New York Needs 700,000 Homes. Can It Build Them?</title>
       <link>https://www.nytimes.com/2026/08/20/nyregion/new-york-needs-700000-homes-can-it-build-them.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/new-york-needs-700000-homes-can-it-build-them.html</guid>
@@ -165,6 +158,27 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20nytoday-gmjc/20nytoday-gmjc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>What Will It Take to Fix New York’s Housing Shortage?</title>
+      <link>https://www.nytimes.com/2026/08/19/nyregion/nyc-housing-shortage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/nyregion/nyc-housing-shortage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/nyregion/nyc-housing-shortage.html" rel="standout"></atom:link>
+      <description>A draft report from the city estimates that 700,000 new units would need to be built over the next decade to accommodate the need for homes.</description>
+      <dc:creator>Patrick McGeehan</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 22:31:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urban Areas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Department of Housing Preservation and Development (NYC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19met-housing-shortage-hjkq/19met-housing-shortage-hjkq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>New York’s housing shortage will require the city to build hundreds of thousands of new units over the next decade, according to a new report.</media:description>
     </item>
     <item>
       <title>Former NYPD Sergeant Admits to Killing Man in Drunk-Driving Crash</title>
@@ -185,39 +199,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19met-nypd-plea-jlqg/19met-nypd-plea-jlqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>David Dee Delgado for The New York Times</media:credit>
       <media:description>Tiffany Howell’s blood alcohol level was roughly three times the legal limit at the time of the accident.</media:description>
-    </item>
-    <item>
-      <title>‘I’ve Hit My Limit’: Some New Yorkers Opt for Fun at Home to Save Money</title>
-      <link>https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html" rel="standout"></atom:link>
-      <description>When wages are low and activities are pricey, the frugal find new ways of socializing.</description>
-      <dc:creator>Christina Caron</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 13:20:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cocktails and Mixed Drinks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Inwood (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Astoria (Queens, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper West Side (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington Heights (Manhattan, NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/met-loneliness-cost-02-twkf-fader/met-loneliness-cost-02-twkf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jackie Molloy for The New York Times</media:credit>
-      <media:description>It was time to set up the cards, so Mr. Lamberti and his girlfriend, Shea Dunlop, left, gathered with Mr. Lerner and Ms. Rodriguez.</media:description>
     </item>
     <item>
       <title>Homes for Sale in New York and Connecticut</title>
@@ -279,6 +260,39 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx River (Bronx, NY)</category>
+    </item>
+    <item>
+      <title>‘I’ve Hit My Limit’: Some New Yorkers Opt for Fun at Home to Save Money</title>
+      <link>https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/19/nyregion/nyc-high-cost-of-fun.html" rel="standout"></atom:link>
+      <description>When wages are low and activities are pricey, the frugal find new ways of socializing.</description>
+      <dc:creator>Christina Caron</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 13:20:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bars and Nightclubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wages and Salaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Restaurants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Friendship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Budgets and Budgeting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parties (Social)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cocktails and Mixed Drinks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Inwood (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Astoria (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper West Side (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington Heights (Manhattan, NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/07/28/multimedia/met-loneliness-cost-02-twkf-fader/met-loneliness-cost-02-twkf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jackie Molloy for The New York Times</media:credit>
+      <media:description>It was time to set up the cards, so Mr. Lamberti and his girlfriend, Shea Dunlop, left, gathered with Mr. Lerner and Ms. Rodriguez.</media:description>
     </item>
     <item>
       <title>In 911 Breakdown, Hundreds of Calls Failed to Reach Bronx Operators</title>
@@ -401,23 +415,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17met-council-hearing-gfmc/17met-council-hearing-gfmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Karsten Moran for The New York Times</media:credit>
       <media:description>A City Council hearing on Tuesday had promised to be an opportunity for Council members to ask questions of administration officials about the rollout of a contentious tax on second homes.</media:description>
-    </item>
-    <item>
-      <title>Mamdani Gave These Parents a Night Off. This Is How They Spent It.</title>
-      <link>https://www.nytimes.com/2026/08/17/nyregion/mamdani-free-babysitting-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/nyregion/mamdani-free-babysitting-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/nyregion/mamdani-free-babysitting-nyc.html" rel="standout"></atom:link>
-      <description>New York City provided four hours of free babysitting to hundreds of families. Parents used the time to reconnect with each other and to tackle chores uninterrupted.</description>
-      <dc:creator>Emma G. Fitzsimmons</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 20:15:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Care</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Parks and Recreation Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17met-mamdani-babysit-04-pgvw/17met-mamdani-babysit-04-pgvw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Michelle V. Agins/The New York Times</media:credit>
-      <media:description>Zachary Ludescher and Stella Tan-Torres have four children under 10. A new city program offering an evening of free babysitting allowed them to go out for ice cream as a couple.</media:description>
     </item>
   </channel>
 </rss>
