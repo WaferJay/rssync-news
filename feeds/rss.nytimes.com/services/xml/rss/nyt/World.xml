@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 19:50:06 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 19:24:16 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:47:39 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 20:41:39 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html" rel="standout"></atom:link>
       <description>While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.</description>
       <dc:creator>Ian Austen and Ana Swanson</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 19:13:27 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 19:53:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
@@ -141,13 +141,17 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/arday-cofnas-suspended.html" rel="standout"></atom:link>
       <description>Ghent University in Belgium said it suspended the academic, Nathan Cofnas, pending an investigation.</description>
       <dc:creator>Leo Sands</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 18:04:20 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 18:04:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Plagiarism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arday, Jason (1985- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ghent (Belgium)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Ghent</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cofnas, Nathan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Academic Freedom</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/20int-arday-1-lzgc/21int-arday-1-lzgc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris Radburn/Agence France-Presse — Getty Images</media:credit>
       <media:description>A makeshift memorial to Jason Arday at the University of Cambridge on Tuesday.</media:description>
@@ -159,7 +163,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/business/evergrande-founder-life-prison.html" rel="standout"></atom:link>
       <description>Hui Ka Yan’s punishment caps the downfall of a property empire whose collapse set off a prolonged crisis in the Chinese economy.</description>
       <dc:creator>Yan Zhuang and Alexandra Stevenson</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 10:28:27 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 19:52:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China Evergrande Group</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hui Ka Yan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
@@ -167,9 +171,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20biz-evergrande-prison-mbhw/20biz-evergrande-prison-mbhw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bobby Yip/Reuters</media:credit>
-      <media:description>Hui Ka Yan, the founder and former chairman of Evergrande, at a news conference in Hong Kong in 2017.</media:description>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20Biz-Evergrande-Prison-lkbg/20Biz-Evergrande-Prison-lkbg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Xinhua,via Associated Press</media:credit>
+      <media:description>Hui Ka Yan, the founder of Evergrande, in court on Thursday in Shenzhen, China, in a photo released by Chinese state media. </media:description>
     </item>
     <item>
       <title>Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians</title>
@@ -202,6 +206,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Bull is Coming (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xin Yumeng (Film Director)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Generation Z</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Box Office Sales</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-china-movie-ghwc/20int-china-movie-ghwc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andy Wong/Associated Press</media:credit>
       <media:description>A fan-made poster promoting the movie “The Bull is Coming” at a theater in Beijing on Tuesday. The low-budget film was not released with an official poster.</media:description>
@@ -291,6 +299,49 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19int-Israel-idf-investigations-02-vflj/19int-Israel-idf-investigations-02-vflj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reuters</media:credit>
       <media:description>A car where the bodies of Hind Rajab, a Palestinian girl, and her family were found in Gaza City after an Israeli strike in 2024.</media:description>
+    </item>
+    <item>
+      <title>Imran Khan Wins Fight to be Moved From Prison to Hospital</title>
+      <link>https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/world/asia/imran-khan-hospital-pakistan.html" rel="standout"></atom:link>
+      <description>The former prime minister of Pakistan, who was convicted on corruption charges, has been fighting a legal battle over his medical treatment.</description>
+      <dc:creator>Salman Masood</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 20:40:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Khan, Imran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme Court of Pakistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyes and Eyesight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corruption (Institutional)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cricket (Game)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Islamabad (Pakistan)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pakistan Tehreek-e-Insaf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-pakistan-new1-tkwc/20int-pakistan-new1-tkwc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aamir Qureshi/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Police personnel keeping watch outside Shifa International Hospital in Islamabad, Pakistan, on Thursday. The Supreme Court ordered Imran Khan to be moved there.</media:description>
+    </item>
+    <item>
+      <title>Songs for Lizard Season</title>
+      <link>https://www.nytimes.com/2026/08/20/world/music-songs-ukraine-royals.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/music-songs-ukraine-royals.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/world/music-songs-ukraine-royals.html" rel="standout"></atom:link>
+      <description>Our colleagues at The Amplifier newsletter have music recommendations for the final sun-basking days of summer.</description>
+      <dc:creator>Katrin Bennhold</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 20:37:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/21int-theworld-amplifier-promo/05cul-soundwalk-01-hzqg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Tullo for The New York Times</media:credit>
     </item>
     <item>
       <title>State Dept. Declares U.S. Citizen in China Wrongfully Detained</title>
@@ -397,15 +448,15 @@
       <description>“The Necessary Conversation,” a podcast and YouTube show, is a very public example of the political disputes families are having all across the country.</description>
       <dc:creator>Amanda Ripley and Gabriela Bhaskar</dc:creator>
       <pubDate>Thu, 20 Aug 2026 18:27:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-phil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Necessary Conversation (Radio Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kultgen, Chad</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="">The Necessary Conversation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chad Kultgen</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donald Trump</category>
-      <category domain="">polarization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-phil</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00hw-beyond-polarization-necessary-conversation-01-mwqj/00hw-beyond-polarization-necessary-conversation-01-mwqj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:description>For Chad Kultgen and his family, fighting feels like progress.</media:description>
     </item>
@@ -495,7 +546,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/19/world/africa/helicopter-crash-kenya.html" rel="standout"></atom:link>
       <description>Ecuador’s director of national intelligence was also among those who died in the crash. The search and recovery efforts were being hampered by a fire at the site and the difficult terrain, officials said.</description>
       <dc:creator>Matthew Mpoke Bigg and José María León Cabrera</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 16:08:02 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 20:41:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kenya</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Helicopters</category>
@@ -1062,61 +1113,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18int-colombia-quake-choco-promo/18int-colombia-quake-choco-wfjl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Federico Rios for The New York Times</media:credit>
       <media:description>Soldiers and volunteers offloading aid supplies from a helicopter San José del Palmar, Colombia, a remote town close to the earthquake’s epicenter.</media:description>
-    </item>
-    <item>
-      <title>Carney and Trump Talk Again as Deadline Nears on New U.S. Tariffs</title>
-      <link>https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/world/canada/trade-tariffs-trump-carney.html" rel="standout"></atom:link>
-      <description>Canada is seeking a deal to dodge further economic pain at the hands of the Trump administration on midnight Tuesday. But at what cost?</description>
-      <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 23:19:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-canada-trade-1-lqth/17int-canada-trade-1-lqth-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carlos Osorio/Reuters</media:credit>
-      <media:description>The Gordie Howe International Bridge, connecting Windsor, Ontario, and Detroit, on the day after it opened last month. President Trump had threatened to block the bridge’s opening.</media:description>
-    </item>
-    <item>
-      <title>Zambia Says President Won Re-election After Tumultuous Campaign</title>
-      <link>https://www.nytimes.com/2026/08/17/world/africa/zambia-election-hichilema.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/world/africa/zambia-election-hichilema.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/world/africa/zambia-election-hichilema.html" rel="standout"></atom:link>
-      <description>With a second term, Hakainde Hichilema must navigate relations with the Trump administration, which has sought greater access to the copper-rich nation’s natural resources.</description>
-      <dc:creator>John Eligon and Rabecca Lungu</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 02:21:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zambia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hichilema, Hakainde (1962- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United Party for National Development (Zambia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mundubile, Brian</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Voter Fraud (Election Fraud)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17int-zambia-election-1-fmbp/17int-zambia-election-1-fmbp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Gianluigi Guercia/Agence France-Presse — Getty Images</media:credit>
-      <media:description>President Hakainde Hichilema, center, running for re-election, after voting in Lusaka, Zambia, last week.</media:description>
-    </item>
-    <item>
-      <title>After the Earthquakes</title>
-      <link>https://www.nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/world/earthquake-response-japan-venezuela.html" rel="standout"></atom:link>
-      <description>Venezuela and Japan both experienced major quakes this summer. Their responses differed, and not just because of money.</description>
-      <dc:creator>Katrin Bennhold</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 04:13:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Earthquakes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venezuela Earthquakes (June 24, 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18int-theworld-venezuela-quake-01-twlh-promo/18int-theworld-venezuela-quake-01-twlh-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Adriana Loureiro Fernandez for The New York Times</media:credit>
     </item>
   </channel>
 </rss>

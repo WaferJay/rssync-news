@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 19:48:27 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 19:28:31 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 20:48:36 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 20:46:39 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/darline-graham-debate-south-carolina.html" rel="standout"></atom:link>
       <description>Senator Darline Graham has argued that her lack of political experience is a strength as she runs to succeed her brother, Lindsey Graham. But a debate misstep has rattled some of her supporters.</description>
       <dc:creator>Emily Davies</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 19:25:55 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 20:14:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Ralph W Jr (1953- )</category>
@@ -181,7 +181,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html" rel="standout"></atom:link>
       <description>Most sex crimes are prosecuted by state and local authorities. The federal agents appeared to be using civil rights statutes to scrutinize Mr. Swalwell’s conduct, a person familiar with the case said.</description>
       <dc:creator>Alan Feuer</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 18:03:33 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 20:12:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
@@ -198,15 +198,14 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/prince-harry-meghan-montecito-california-uk.html" rel="standout"></atom:link>
       <description>Prince Harry and Meghan Markle self exiled to the ultrawealthy enclave of Montecito in 2020. “They wave. They drive. They close the gates,” a neighbor said.</description>
       <dc:creator>Shawn Hubler and Livia Albeck-Ripka</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 16:23:35 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 20:41:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gossip</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buckingham Palace</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Archie, Earl of Dumbarton</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montecito (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20nat-ca-sussexes-fwvj/20nat-ca-sussexes-fwvj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ronald Martinez/Getty Images</media:credit>
       <media:description>The duke and duchess of Sussex went among the people, but few knew them well.</media:description>
@@ -281,7 +280,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/trump-wild-horses-legal-loophole-slaughter.html" rel="standout"></atom:link>
       <description>A legal loophole allows the government to sell mustangs on the cheap, stripping them of protections and clearing their path to destruction.</description>
       <dc:creator>Dave Philipps and Erin Schaff</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 17:09:07 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 20:30:03 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Meatpacking Plants and Slaughterhouses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
@@ -294,6 +293,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Mandate for Leadership (Project 2025) (Book)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Heritage Foundation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Lands</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/00nat-mustangs-full-1-hqfc/00nat-mustangs-full-1-hqfc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:description>Rescued wild horses at Skydog Ranch and Sanctuary outside Prineville, Ore.</media:description>
     </item>
     <item>
       <title>Penn State Doctor Dies After Midair Plane Crash With Police Helicopter</title>
@@ -461,26 +462,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19nat-black-vote-jwqm/19nat-black-vote-jwqm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Charity Rachelle for The New York Times</media:credit>
       <media:description>Representative Shomari Figures, left, is joined onstage by Doug Jones, Democratic nominee for governor of Alabama, in Troy, Ala.</media:description>
-    </item>
-    <item>
-      <title>More of Trump’s Chosen Candidates Lose Republican Primaries</title>
-      <link>https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/us/politics/trump-primary-election-republican-endorsements.html" rel="standout"></atom:link>
-      <description>A series of recent losses has eroded the president’s winning record, raising new questions about his hold over the party’s voters.</description>
-      <dc:creator>Jess Bidgood</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 20:20:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-inline-no</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19pol-trump-endorsements-photo-lqvw/19pol-trump-endorsements-photo-lqvw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Al Drago for The New York Times</media:credit>
-      <media:description>On Tuesday night, several candidates President Trump had endorsed in Florida and Wyoming lost their Republican primary races. </media:description>
     </item>
   </channel>
 </rss>
