@@ -7,7 +7,7 @@
 <link>https://www.wsj.com/finance</link>
 <language>en-us</language>
 <copyright>Copyright &#169; Dow Jones &amp; Company, Inc. All rights reserved.</copyright>
-<lastBuildDate>Thu, 20 Aug 2026 17:50:38 GMT</lastBuildDate>
+<lastBuildDate>Thu, 20 Aug 2026 19:04:26 GMT</lastBuildDate>
 <image>
 <title>WSJ.com: Markets</title>
 <url>http://online.wsj.com/img/wsj_sm_logo.gif</url>
@@ -16,7 +16,7 @@
 <item>
 <guid isPermaLink="false">lc-wsj-stock-market-today-dow-sp-500-nasdaq-08-20-2026</guid>
 <title>Stock Market Today: Bessent Signals Treasury Buybacks Could Exceed $4 Billion</title>
-<description>Stocks fall; Bond yields and brent crude rise</description>
+<description>Dow slumps 600 points as bond yields rise with brent crude prices</description>
 <link>https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-08-20-2026?mod=rss_markets_main</link>
 <pubDate>Thu, 20 Aug 2026 08:12:24 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-925349" medium="image" type="image/jpeg">
@@ -202,6 +202,13 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003830408</guid>
+<title>Comex Gold Settles 0.60% Higher at $4516.30</title>
+<description>Comex gold settled 0.6% higher and silver rose 3.5%, with both metals up for a second-consecutive session.</description>
+<link>https://www.wsj.com/finance/commodities-futures/gold-drops-focus-on-fed-july-minutes-db5bfcf6?mod=rss_markets_main</link>
+<pubDate>Thu, 20 Aug 2026 18:53:00 GMT</pubDate>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003831198</guid>
 <title>Health Care Roundup: Market Talk</title>
 <description>Find insight on Moderna, Novonesis, Merck KGaA and more in the latest Market Talks covering the health care sector.</description>
@@ -210,13 +217,6 @@
 <media:content url="https://images.wsj.net/im-16347739" medium="image" type="image/jpeg">
 <media:credit>Getty Images</media:credit>
 </media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003830408</guid>
-<title>Gold Loses Some of Its Shine After Yesterday&#x2019;s Leap</title>
-<description>Gold prices were off their highs from Wednesday, when a steep drop in Treasury yields fueled a surge in bullion.</description>
-<link>https://www.wsj.com/finance/commodities-futures/gold-drops-focus-on-fed-july-minutes-db5bfcf6?mod=rss_markets_main</link>
-<pubDate>Thu, 20 Aug 2026 15:26:00 GMT</pubDate>
 </item>
 <item>
 <guid isPermaLink="false">WP-WSJ-0003831802</guid>
@@ -252,6 +252,18 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003830847</guid>
+<title>U.S. Stocks Fall After Weak Earnings Reports</title>
+<description>U.S. stocks fell after weak earnings reports from Walmart and Alibaba.</description>
+<link>https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07?mod=rss_markets_main</link>
+<pubDate>Thu, 20 Aug 2026 18:18:00 GMT</pubDate>
+<dc:creator>Joe Wallace</dc:creator>
+<dc:creator>Sam Goldfarb</dc:creator>
+<media:content url="https://images.wsj.net/im-52162808" medium="image" type="image/jpeg">
+<media:credit>Jeenah Moon/Reuters</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003831171</guid>
 <title>Auto &amp; Transport Roundup: Market Talk</title>
 <description>Find insight on Maersk, Hapag-Lloyd, Daimler Truck and more in the latest Market Talks covering the auto and transport sector.</description>
@@ -259,17 +271,6 @@
 <pubDate>Thu, 20 Aug 2026 16:29:00 GMT</pubDate>
 <media:content url="https://images.wsj.net/im-22517713" medium="image" type="image/jpeg">
 <media:credit>Issei Kato/Reuters</media:credit>
-</media:content>
-</item>
-<item>
-<guid isPermaLink="false">WP-WSJ-0003830847</guid>
-<title>U.S. Stocks Slip After Weak Earnings Reports</title>
-<description>U.S. stocks fell after weak earnings reports from Walmart and Alibaba.</description>
-<link>https://www.wsj.com/business/bonds-strengthen-further-dollar-holds-near-lows-after-treasury-intervention-2692dd07?mod=rss_markets_main</link>
-<pubDate>Thu, 20 Aug 2026 16:24:00 GMT</pubDate>
-<dc:creator>Joe Wallace</dc:creator>
-<media:content url="https://images.wsj.net/im-52162808" medium="image" type="image/jpeg">
-<media:credit>Jeenah Moon/Reuters</media:credit>
 </media:content>
 </item>
 <item>
@@ -366,6 +367,16 @@
 </media:content>
 </item>
 <item>
+<guid isPermaLink="false">WP-WSJ-0003830291</guid>
+<title>Crude Oil Futures Hold Gains on U.S. Economic Threat</title>
+<description>Oil futures continued higher after President Trump said the U.S. will step up economic pressure on Iran, including consequences for countries that do business with Iran.</description>
+<link>https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-lingering-middle-east-tensions-77c883a9?mod=rss_markets_main</link>
+<pubDate>Thu, 20 Aug 2026 18:43:00 GMT</pubDate>
+<media:content url="https://images.wsj.net/im-51423326" medium="image" type="image/jpeg">
+<media:credit>Sodiq Adelakun/Reuters</media:credit>
+</media:content>
+</item>
+<item>
 <guid isPermaLink="false">WP-WSJ-0003831137</guid>
 <title>Energy &amp; Utilities Roundup: Market Talk</title>
 <description>Find insight on oil futures, Ithaca Energy and more in the latest Market Talks covering energy and utilities.</description>
@@ -394,16 +405,6 @@
 </media:content>
 </item>
 <item>
-<guid isPermaLink="false">WP-WSJ-0003830291</guid>
-<title>Oil Gains Further, With Brent Crude Above $94</title>
-<description>Oil prices extend earlier gains, with Brent crude rising above $94 a barrel as concerns about stalled talks to reopen the Strait of Hormuz have pushed the geopolitical risk premium higher.</description>
-<link>https://www.wsj.com/finance/commodities-futures/oil-edges-higher-amid-lingering-middle-east-tensions-77c883a9?mod=rss_markets_main</link>
-<pubDate>Thu, 20 Aug 2026 11:50:00 GMT</pubDate>
-<media:content url="https://images.wsj.net/im-51423326" medium="image" type="image/jpeg">
-<media:credit>Sodiq Adelakun/Reuters</media:credit>
-</media:content>
-</item>
-<item>
 <guid isPermaLink="false">WP-WSJ-0003827089</guid>
 <title>Oil Extends Gains With No Progress Seen on Hormuz Standoff</title>
 <description>Oil futures rose for a fourth straight session as transit remained restricted through the Strait of Hormuz, keeping supply concerns alive.</description>
@@ -428,7 +429,7 @@
 <item>
 <guid isPermaLink="false">WP-WSJ-0003830269</guid>
 <title>Dollar Looks Best Defensive Currency During Bond and Equity Selloffs</title>
-<description>The WSJ Dollar Index edged higher. The dollar remains the most reliable defensive currency during selloffs in equities and bonds, BNY said.</description>
+<description>The WSJ Dollar Index rose. The dollar remains the most reliable defensive currency during selloffs in equities and bonds, BNY said.</description>
 <link>https://www.wsj.com/finance/currencies/asian-currencies-mixed-may-be-buoyed-by-u-s-treasury-dept-s-buyback-announcement-fe8b1754?mod=rss_markets_main</link>
 <pubDate>Thu, 20 Aug 2026 15:29:00 GMT</pubDate>
 </item>
