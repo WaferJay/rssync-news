@@ -3,17 +3,52 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1787244728571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 16:52:08 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 16:51:47 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 17:48:11 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 17:39:03 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Weary U.S.S. Abraham Lincoln Leaves Middle East</title>
+      <link>https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/uss-abraham-lincoln-iran.html" rel="standout"></atom:link>
+      <description>The aircraft carrier has been deployed for nine months, largely in support of U.S. operations against Iran, and is now heading home to San Diego.</description>
+      <dc:creator>John Ismay</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 17:39:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Central Command</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <media:content height="1605" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20trump-news-ships-tmlf/20trump-news-ships-tmlf-mediumSquareAt3X.jpg" width="1606"></media:content>
+      <media:credit>K.C. Alfred/The San Diego Union-Tribune, via Associated Press</media:credit>
+      <media:description>The U.S.S. Abraham Lincoln in San Diego in 2021. The carrier’s most recent deployment began on Nov. 21 of last year, and the thousands of sailors on board have spent almost the entirety of the time since at sea. </media:description>
+    </item>
+    <item>
+      <title>In a Big Year for Progressives, Here’s Why These Moderates Won Their Primaries</title>
+      <link>https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/democrats-primary-election-moderates-progressives.html" rel="standout"></atom:link>
+      <description>At times this year, the Democratic Party’s centrist wing has felt under siege from the left. But it has won several tough primaries recently.</description>
+      <dc:creator>Bayliss Wagner</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 17:09:45 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moskowitz, Jared (1980- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crowley, David C (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peltola, Mary</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/us/20pol-moderates/20pol-moderates-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kayla Wolf/Associated Press; Al Drago for The New York Times</media:credit>
+      <media:description>David Crowley, left, a Democratic candidate for governor of Wisconsin, and Representative Jared Moskowitz, who is running for re-election in Florida. Both prevailed in their primaries.</media:description>
+    </item>
     <item>
       <title>A Few Expert Lawyers Dominate Supreme Court Arguments, a New Study Finds</title>
       <link>https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html</link>
@@ -21,7 +56,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/the-docket-supreme-court-lawyers.html" rel="standout"></atom:link>
       <description>Chief Justice Roberts, once such a lawyer, has said he has mixed feelings about the trend.</description>
       <dc:creator>Adam Liptak</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 16:29:44 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 16:29:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Solicitors General</category>
@@ -126,7 +161,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/ken-paxton-montblanc-pen.html" rel="standout"></atom:link>
       <description>The pen Mr. Paxton pocketed more than a decade ago has resurfaced as a campaign issue.</description>
       <dc:creator>Lauren McGaughy</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:04:05 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 17:22:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -146,7 +181,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/trump-wild-horses-legal-loophole-slaughter.html" rel="standout"></atom:link>
       <description>A legal loophole allows the government to sell mustangs on the cheap, stripping them of protections and clearing their path to destruction.</description>
       <dc:creator>Dave Philipps and Erin Schaff</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 14:47:03 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 17:09:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Meatpacking Plants and Slaughterhouses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Abuse, Rights and Welfare</category>
@@ -402,26 +437,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19nat-wyoming-primaries-2-bqkc/19nat-wyoming-primaries-2-bqkc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Will Warasila for The New York Times</media:credit>
       <media:description>At least a dozen Freedom Caucus incumbents were ousted from the Wyoming Legislature.</media:description>
-    </item>
-    <item>
-      <title>Driver Kills 2 Milligan University Cycling Team Members, Officials Say</title>
-      <link>https://www.nytimes.com/2026/08/19/us/cycling-team-crash-milligan-university.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/us/cycling-team-crash-milligan-university.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/us/cycling-team-crash-milligan-university.html" rel="standout"></atom:link>
-      <description>Milligan University said two members of its cycling team had been killed. The driver was charged with vehicular homicide by recklessness.</description>
-      <dc:creator>Michael Levenson</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 16:29:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Milligan University</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cycling, Road</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Carter County (Tenn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-      <media:content height="1223" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19xp-crash/19xp-crash-mediumSquareAt3X.jpg" width="1223"></media:content>
-      <media:credit>WKRN</media:credit>
-      <media:description>A driver struck members of the Milligan University cycling team on Highway 19 in Carter County, Tenn., on Wednesday morning, officials said. Two of the cyclists were killed, the school said.</media:description>
     </item>
   </channel>
 </rss>
