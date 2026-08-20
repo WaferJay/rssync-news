@@ -7,21 +7,70 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 11:43:22 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 11:16:27 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 13:21:14 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 13:09:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
     <item>
-      <title>Oil Prices Jump After Trump’s Latest Iran Threat</title>
+      <title>Walmart Posts Slowest Sales Growth in Years as Americans Tighten Wallets</title>
+      <link>https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/business/walmart-target-retail-consumer-economy.html" rel="standout"></atom:link>
+      <description>Walmart and other big U.S. retailers have warned that consumers were being cautious, even if personal balance sheets seemed healthy.</description>
+      <dc:creator>Kim Bhasin</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 12:57:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discount Selling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rebates and Refunds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Depot Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lowe&#39;s Companies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TJX Companies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Target Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Walmart Stores Inc</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20biz-walmart-lgzc/20biz-walmart-lgzc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Comparable U.S. sales at Walmart, the nation’s largest retailer, rose 2.6 percent in its most recent quarter, the weakest growth in more than six years.</media:description>
+    </item>
+    <item>
+      <title>Did Bessent Put the Fed in a Bind?</title>
+      <link>https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/business/dealbook/bessent-fed-warsh-bonds.html" rel="standout"></atom:link>
+      <description>The Treasury Department’s plan for bond interventions have calmed markets. But Wall Street is worried about the fallout for inflation and more.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe, Sri Muppidi and Anita Raghavan</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 12:16:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yellen, Janet L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Biden, Joseph R Jr</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20db-bessent-chwm/20db-bessent-chwm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eric Lee for The New York Times</media:credit>
+      <media:description>Treasury Secretary Scott Bessent surprised Wall Street in announcing a new intervention in the bond market. Did he take the Fed by surprise, too?</media:description>
+    </item>
+    <item>
+      <title>Oil Prices Jump and Bond Market Stress Returns</title>
       <link>https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/20/business/iran-war-oil-bonds.html" rel="standout"></atom:link>
       <description>Bond markets remained volatile, as investors assessed the geopolitical turmoil.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 10:51:57 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 12:59:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -280,12 +329,15 @@
       <dc:creator>Alan Rappeport</dc:creator>
       <pubDate>Wed, 19 Aug 2026 22:24:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Budget (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00dc-debt-vgzp/00dc-debt-vgzp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Al Drago for The New York Times</media:credit>
       <media:description>President Trump has promised to restore fiscal order, though his biggest initiatives to cut spending and increase revenue have failed to materialize.</media:description>
@@ -375,15 +427,15 @@
       <dc:creator>Peter Eavis and John Ismay</dc:creator>
       <pubDate>Wed, 19 Aug 2026 19:59:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oman</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gulf of Oman</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aircraft Carriers</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00Biz-Hormuz-Protection-02-jcbm/00Biz-Hormuz-Protection-02-jcbm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>U.S. Navy, via Getty Images</media:credit>
       <media:description>The U.S.S. Abraham Lincoln, in a handout photo, conducting operations related to the Strait of Hormuz in April. The Navy has said it has about 20 warships in the Gulf of Oman. </media:description>
@@ -984,47 +1036,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Inbolt</category>
       <media:content height="925" medium="image" url="https://static01.nyt.com/images/2026/08/03/business/00biz-robot-eyes-vid01/00biz-robot-eyes-vid01-mediumSquareAt3X.png" width="926"></media:content>
       <media:credit>Sarah Rice for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>As China Hunts for Scientific Talent, the US Makes It Easier</title>
-      <link>https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/business/china-scientific-talent-competition.html" rel="standout"></atom:link>
-      <description>Young researchers have long come to the U.S. for academic training, but a combination of Chinese money and U.S. restrictions is shifting the balance.</description>
-      <dc:creator>Li Yuan</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 22:29:33 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Foreign Students (in US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wang, Hong (1991- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Deng, Yu (1989- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yang, Zhilin (1992- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hiring and Promotion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Mathematical Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Graduate Schools and Students</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/business/00nw-talent/00nw-talent-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dongyan Xu</media:credit>
-    </item>
-    <item>
-      <title>Should I Publicize a Bad Publicist?</title>
-      <link>https://www.nytimes.com/2026/08/16/business/bad-boss-warning.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/business/bad-boss-warning.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/business/bad-boss-warning.html" rel="standout"></atom:link>
-      <description>Plus: An intern considers whether to give the boss an honest review.</description>
-      <dc:creator>Max Read</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 09:01:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-selfcare</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Environment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Relations and Publicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Executives and Management (Theory)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spelling</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16biz-sun-workfriend-jtkc/16biz-sun-workfriend-jtkc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Photo illustration by Margeaux Walter for The New York Times</media:credit>
     </item>
   </channel>
 </rss>
