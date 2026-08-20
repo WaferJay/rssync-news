@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 08:01:14 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 07:10:58 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:53:46 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 09:52:08 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -213,6 +213,50 @@
       <media:description>Mayor Zohran Mamdani is often seen biking around New York City.</media:description>
     </item>
     <item>
+      <title>New York Needs 700,000 Homes. Can It Build Them?</title>
+      <link>https://www.nytimes.com/2026/08/20/nyregion/new-york-needs-700000-homes-can-it-build-them.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/new-york-needs-700000-homes-can-it-build-them.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/nyregion/new-york-needs-700000-homes-can-it-build-them.html" rel="standout"></atom:link>
+      <description>A draft report from two city agencies estimated how much new housing the city would require in the next 10 years.</description>
+      <dc:creator>James Barron</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 09:03:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoning</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Affordable Housing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">City Council (NYC)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20nytoday-gmjc/20nytoday-gmjc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Homes for Sale in New York and Connecticut</title>
+      <link>https://www.nytimes.com/2026/08/20/realestate/housing-market-near-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/realestate/housing-market-near-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/realestate/housing-market-near-nyc.html" rel="standout"></atom:link>
+      <description>This week’s properties are a three-bedroom in East Hampton, N. Y., and a four-bedroom in Stamford, Conn.</description>
+      <dc:creator>Claudia Gryvatz Copquin and Alicia Napierkowski</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 09:03:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">East Hampton (Conn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Stamford (Conn)</category>
+    </item>
+    <item>
+      <title>Homes for Sale in Manhattan and Brooklyn</title>
+      <link>https://www.nytimes.com/2026/08/20/realestate/housing-market-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/realestate/housing-market-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/realestate/housing-market-nyc.html" rel="standout"></atom:link>
+      <description>This week’s properties are in NoMad, Midtown East and Ditmas Park.</description>
+      <dc:creator>Heather Senison</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 09:02:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">NoMad (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ditmas Park (Brooklyn, NY)</category>
+    </item>
+    <item>
       <title>The Influencers’ Thanksgiving</title>
       <link>https://www.nytimes.com/2026/08/20/nyregion/the-influencers-thanksgiving.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/nyregion/the-influencers-thanksgiving.html</guid>
@@ -274,6 +318,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>How New York Is Restricting Data Centers</title>
@@ -370,70 +415,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sanders, Bernard</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/17nytoday-mamdani-bros-zmtj/00met-mamdani-bros-zmtj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Victor J. Blue for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>There’s a Way to Gauge Childhood Development. Why Isn’t It Used More?</title>
-      <link>https://www.nytimes.com/2026/08/17/nyregion/new-york-child-development-screenings.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/nyregion/new-york-child-development-screenings.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/nyregion/new-york-child-development-screenings.html" rel="standout"></atom:link>
-      <description>A screening tool is used less in New York State than almost anywhere in the United States. Now, officials are embarking on a campaign to change that.</description>
-      <dc:creator>Sarah Carr</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 17:07:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York State</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests (Medical)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disabilities</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Babies and Infants</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicaid</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">American Academy of Pediatrics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Onondaga County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syracuse (NY)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/nyregion/met-school-screeners-lede/met-school-screeners-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Amy Toensing for The Hechinger Report</media:credit>
-    </item>
-    <item>
-      <title>Mamdani Speaks Mandarin to Promote Broadway, and Gets Good Reviews</title>
-      <link>https://www.nytimes.com/2026/08/16/nyregion/mamdani-mandarin-video.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/nyregion/mamdani-mandarin-video.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/nyregion/mamdani-mandarin-video.html" rel="standout"></atom:link>
-      <description>Mayor Zohran Mamdani released videos in several languages to highlight a program that offers free theater tickets to high school students. His Mandarin earned some praise.</description>
-      <dc:creator>Grace Ashford</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 13:13:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chinese Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spanish Language</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mayors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Theater Development Fund</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Theater</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Liu, John (1944- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-    </item>
-    <item>
-      <title>It’s a Crowded Place With Some of the City’s Trickiest Traffic</title>
-      <link>https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/nyregion/new-york-harbor-safety.html" rel="standout"></atom:link>
-      <description>A fatal accident has drawn attention to New York Harbor, a popular destination where not everyone necessarily knows the rules — or follows them.</description>
-      <dc:creator>Corey Kilgannon and Miles G. Cohen</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 12:51:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Boats and Boating</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Maritime Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York Harbor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Coast Guard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zeus Luxury Rental</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hernandez, Manuel (Boat Captain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drownings</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16met-boat-01-pftq/16met-boat-01-pftq-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Dave Sanders for The New York Times</media:credit>
-      <media:description>Boats navigate New York Harbor.</media:description>
     </item>
   </channel>
 </rss>

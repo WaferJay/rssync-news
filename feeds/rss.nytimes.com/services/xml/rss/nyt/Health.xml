@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 05:47:44 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 05:07:53 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 09:53:05 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 09:01:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -210,6 +210,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/science/00SCI-PARAQUAT-01/00SCI-PARAQUAT-01-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bill Barksdale/Design Pics Editorial/Universal Images Group, via Getty Images</media:credit>
       <media:description>American farmers spray millions of pounds of paraquat on crops each year, though experts could not say precisely how much.</media:description>
+    </item>
+    <item>
+      <title>What Is Treatment-Resistant Depression?</title>
+      <link>https://www.nytimes.com/2026/08/20/well/mind/treatment-resistant-depression.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/well/mind/treatment-resistant-depression.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/well/mind/treatment-resistant-depression.html" rel="standout"></atom:link>
+      <description>If multiple antidepressants haven’t helped, there are other avenues to explore.</description>
+      <dc:creator>Melinda Wenner Moyer</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 09:01:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Therapy and Rehabilitation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Depression (Mental)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychiatry and Psychiatrists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Psychedelic and Hallucinogenic Drugs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
     </item>
     <item>
       <title>Former Fauci Adviser Pleads Guilty to Trying to Conceal Covid-Related Records</title>
@@ -418,22 +434,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/06biz-greenhouse-lettuce-01-wghj/06biz-greenhouse-lettuce-01-wghj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Amir Hamja for The New York Times</media:credit>
       <media:description>Lettuce at a farmers’ market in New York City this week. Sales of prepackaged salads in grocery and other retailers dropped in July, as the confirmed cases of cyclospora grew.</media:description>
-    </item>
-    <item>
-      <title>A Promising Heart Drug Fails, Challenging a Long-Held Theory of Disease</title>
-      <link>https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html" rel="standout"></atom:link>
-      <description>The drug targeted inflammation, and its shocking failure has experts questioning whether inflammation really does cause heart disease.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Fri, 07 Aug 2026 00:58:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heart</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cholesterol</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Novo Nordisk A/S</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/06SCI-HEART-DRUG-zfvh/06SCI-HEART-DRUG-zfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tom Little/Reuters</media:credit>
-      <media:description>A Novo Nordisk study tested an experimental drug for heart disease patients.</media:description>
     </item>
   </channel>
 </rss>
