@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 19:01:48 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 18:38:26 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:47:42 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 19:10:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -161,6 +161,23 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12SCI-MERGING-BLACKHOLES-01-mgfw/12SCI-MERGING-BLACKHOLES-01-mgfw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris Gunn/NASA</media:credit>
       <media:description>Engineers working with the James Webb Space Telescope’s near-infrared spectrograph. The instrument can tease apart the individual wavelengths of light hitting it, which allowed scientists to observe gases behaving in ways only a black hole’s pull can cause.</media:description>
+    </item>
+    <item>
+      <title>Climate: Trump vs. California</title>
+      <link>https://www.nytimes.com/2026/08/20/climate/climate-trump-vs-california.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/climate/climate-trump-vs-california.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/climate/climate-trump-vs-california.html" rel="standout"></atom:link>
+      <description>At least a half-dozen federal agencies have moved to undermine the state’s environmental efforts.</description>
+      <dc:creator>Maxine Joselow</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 19:09:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20cli-newsletter-california-01-bcpv/20cli-newsletter-california-01-bcpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <media:description>President Trump signed a measure in June 2025 to block a California rule that would have barred the sale of new gas-powered by 2035.</media:description>
     </item>
     <item>
       <title>Climate: Saving Old Trees Might Save Lives</title>
@@ -546,22 +563,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-forest-fires-01-tmwg/14cli-forest-fires-01-tmwg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ethan Swope/Associated Press</media:credit>
       <media:description>Firefighters at the Summit fire in Llano, Calif., last month.</media:description>
-    </item>
-    <item>
-      <title>Early-Onset El Niño</title>
-      <link>https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/climate/el-nino-effects.html" rel="standout"></atom:link>
-      <description>The global weather disrupter appears to be taking a toll, and its peak could still be months away.</description>
-      <dc:creator>David Gelles</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 19:28:25 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kiribati</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reefs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pacific Ocean</category>
     </item>
   </channel>
 </rss>

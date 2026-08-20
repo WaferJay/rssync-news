@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 19:02:55 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 18:36:05 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:50:06 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 19:24:16 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html" rel="standout"></atom:link>
       <description>While President Trump has declared that the two countries effectively have a deal, they remain apart on several key issues.</description>
       <dc:creator>Ian Austen and Ana Swanson</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 16:46:04 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 19:13:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
@@ -185,6 +185,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20ukraine-grocery-add-tpzf/20ukraine-grocery-add-tpzf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Valentyn Ogirenko/Reuters</media:credit>
       <media:description>Firefighters at the site of a food warehouse hit by a Russian missile strike in the Kyiv region of Ukraine on Thursday.</media:description>
@@ -214,11 +215,10 @@
       <dc:creator>Amelia Nierenberg</dc:creator>
       <pubDate>Thu, 20 Aug 2026 13:58:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palaces and Castles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Elizabeth II, Queen of Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1660" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg" width="1660"></media:content>
       <media:credit>Pool photo by Jonathan Brady</media:credit>
       <media:description>Prince Harry and Meghan visiting Bondi Beach in Sydney, Australia, in April.</media:description>

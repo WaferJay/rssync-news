@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 19:02:10 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 18:34:00 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 19:49:41 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 19:10:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -86,6 +86,30 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Clayton Steward for The New York Times</media:credit>
       <media:description>Residents of Independence, Mo., at a City Council meeting in June.</media:description>
+    </item>
+    <item>
+      <title>Two Binance Employees Detained in the U.A.E. Amid Police Inquiries</title>
+      <link>https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/technology/two-binance-employees-detained-uae.html" rel="standout"></atom:link>
+      <description>The detentions of the workers, who have been released, are a sign of legal pressure that the world’s largest crypto exchange faces in the Emirates, which is home to its main regulator.</description>
+      <dc:creator>David Yaffe-Bellany and Michael Forsythe</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 19:10:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Binance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zhao, Changpeng</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Abu Dhabi (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dubai (United Arab Emirates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/BINANCE-1-01-lgkq/BINANCE-1-01-lgkq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Katarina Premfors for The New York Times</media:credit>
+      <media:description>Authorities in the United Arab Emirates detained two Binance employees amid police investigations.</media:description>
     </item>
     <item>
       <title>Chinese Start-Up Lands Reusable Rocket for the First Time</title>
@@ -405,21 +429,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-openai-exec-Denise-Dresser-1-mvjl/13biz-openai-exec-Denise-Dresser-1-mvjl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Shane Anthony Sinclair/Getty Images for Cannes Lions</media:credit>
       <media:description>Denise Dresser, OpenAI’s chief revenue officer, is one of a number of executives to leave OpenAI in recent months.</media:description>
-    </item>
-    <item>
-      <title>I Tested a Popular A.I. Slop Detector. It Felt Empowering.</title>
-      <link>https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/technology/personaltech/pangram-ai-detector-test.html" rel="standout"></atom:link>
-      <description>Pangram excels at distinguishing chatbot-generated words from human writing. But it’s not reliable for spotting artificial images.</description>
-      <dc:creator>Brian X. Chen</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 14:08:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pangram Labs Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Every Media Inc</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/business/12biz-techfix/12biz-techfix-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sisi Yu</media:credit>
     </item>
   </channel>
 </rss>
