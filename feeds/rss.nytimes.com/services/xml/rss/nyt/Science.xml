@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 20 Aug 2026 10:51:55 +0000</lastBuildDate>
-    <pubDate>Thu, 20 Aug 2026 10:47:01 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 11:45:43 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 11:36:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -171,15 +171,18 @@
       <description>The company’s fortunes cratered as demand for Covid-19 vaccines plummeted. But it was busy working on something else.</description>
       <dc:creator>Rebecca Robbins</dc:creator>
       <pubDate>Thu, 20 Aug 2026 09:04:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Vaccination and Immunization</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bancel, Stephane</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kennedy, Robert F Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Moderna Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Merck &amp; Company Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Melanomas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">RNA (Ribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/business/19biz-moderna-alt/19biz-moderna-alt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Adam Glanzman/Bloomberg</media:credit>
       <media:description>A lab at Moderna’s headquarters in Cambridge, Mass., in 2024.</media:description>
@@ -191,9 +194,11 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/climate/trump-california-climate.html" rel="standout"></atom:link>
       <description>At least a half-dozen federal agencies have taken action against the state that has long led the nation in environmental protections.</description>
       <dc:creator>Maxine Joselow</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:03:47 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 11:36:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Offshore Drilling and Exploration</category>
@@ -207,11 +212,10 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Coastal Areas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">California Coastal Commission</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sable Offshore Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Santa Barbara (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20CLI-CALIFORNIA-01-lbfm/20CLI-CALIFORNIA-01-lbfm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
       <media:description>An oil platform seen from Sands Beach next to Coal Oil Point Natural Reserve in Santa Barbara, Calif.</media:description>
