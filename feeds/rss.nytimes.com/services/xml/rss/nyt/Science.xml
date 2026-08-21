@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 08:01:35 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 07:49:20 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:52:27 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 09:07:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -161,6 +161,23 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12SCI-MERGING-BLACKHOLES-01-mgfw/12SCI-MERGING-BLACKHOLES-01-mgfw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Chris Gunn/NASA</media:credit>
       <media:description>Engineers working with the James Webb Space Telescope’s near-infrared spectrograph. The instrument can tease apart the individual wavelengths of light hitting it, which allowed scientists to observe gases behaving in ways only a black hole’s pull can cause.</media:description>
+    </item>
+    <item>
+      <title>England’s Ancient Trees Are Dying in the Heat</title>
+      <link>https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html" rel="standout"></atom:link>
+      <description>Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.</description>
+      <dc:creator>Claire Moses</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 09:03:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20xp-trees-major-oak-copy-promo/20xp-trees-major-oak-copy-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Royal Society for the Protection of Birds, via Associated Press</media:credit>
+      <media:description>The Major Oak at Sherwood Forest Nature Reserve in Nottinghamshire, England, in May.</media:description>
     </item>
     <item>
       <title>Climate: Trump vs. California</title>
@@ -557,30 +574,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-professor-lawsuit-ftcv/14cli-professor-lawsuit-ftcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Peter Hoffman for The New York Times</media:credit>
       <media:description>Rachel Rothschild, a law professor at the University of Michigan, whose emails were being sought in the lawsuit against the school.</media:description>
-    </item>
-    <item>
-      <title>Federal Job Cuts Are Making Wildfires Harder to Fight</title>
-      <link>https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/climate/wildfires-forest-service-trump-cuts.html" rel="standout"></atom:link>
-      <description>The Trump administration pushed out thousands of veteran U.S. Forest Service staff. An ‘extraordinary’ fire season is testing those who are left.</description>
-      <dc:creator>Scott Dance</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 13:15:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forest Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Interagency Fire Center</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oregon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Utah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spokane (Wash)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western States (US)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-forest-fires-01-tmwg/14cli-forest-fires-01-tmwg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ethan Swope/Associated Press</media:credit>
-      <media:description>Firefighters at the Summit fire in Llano, Calif., last month.</media:description>
     </item>
   </channel>
 </rss>

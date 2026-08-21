@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 08:00:10 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 07:52:01 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 09:52:41 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 09:19:44 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -86,6 +86,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/DATACENTER-RECALLS-1-01-bvfh/DATACENTER-RECALLS-1-01-bvfh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Clayton Steward for The New York Times</media:credit>
       <media:description>Residents of Independence, Mo., at a City Council meeting in June.</media:description>
+    </item>
+    <item>
+      <title>Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?</title>
+      <link>https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html" rel="standout"></atom:link>
+      <description>Americans say they hate prying cameras. But they can’t look away.</description>
+      <dc:creator>Willy Staley</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 09:02:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Registration and License Plates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flock Group Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
     </item>
     <item>
       <title>New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit</title>
@@ -405,30 +424,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
-    </item>
-    <item>
-      <title>Judge Affirms Settlement Allowing HPE’s Deal for Juniper</title>
-      <link>https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/13/technology/hpe-juniper-justice-department-settlement.html" rel="standout"></atom:link>
-      <description>States had opposed an agreement allowing a Hewlett Packard Enterprise acquisition, calling the settlement ineffective and corrupt.</description>
-      <dc:creator>David McCabe</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 22:50:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hewlett Packard Enterprise Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Juniper Networks Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal Courts (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pitts, P Casey</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/13/multimedia/13biz-antitrust-states-jclf/13biz-antitrust-states-jclf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>David Becker/Associated Press</media:credit>
-      <media:description>Last year, the Trump administration sued to block Hewlett Packard Enterprise, led by Antonio Neri, above, from buying Juniper Networks for $14 billion, saying the deal would harm competition.</media:description>
     </item>
   </channel>
 </rss>
