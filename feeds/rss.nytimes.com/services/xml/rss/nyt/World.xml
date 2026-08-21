@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 20:43:12 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 20:35:40 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 21:40:06 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 21:04:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -451,15 +451,21 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html" rel="standout"></atom:link>
       <description>China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.</description>
       <dc:creator>Keith Bradsher and Jack Ewing</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:23:12 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 20:23:13 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zhejiang Geely Holding Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dongfeng Motor Corp</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chery Automobile Co</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guangzhou Xiaopeng Motors Technology Co Ltd (Xpeng Motors)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Automotive Group Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zhejiang Leapmotor Technology Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China FAW Group</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Xiaomi Tech</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-China-Car-Doors-01-jvgz/21biz-China-Car-Doors-01-jvgz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Qilai Shen for The New York Times</media:credit>
       <media:description>China is requiring nine automakers to take measures to improve the reliability of retractable door handles popular on electric vehicles.</media:description>
@@ -743,7 +749,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html" rel="standout"></atom:link>
       <description>The couple are moving back after six years in the United States. What they will do, and much else, are still unclear.</description>
       <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 13:58:38 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 20:46:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
@@ -877,6 +883,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Karur (India)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-india-ai-workers-promo-vwlf/20int-india-ai-workers-promo-vwlf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anindito Mukherjee for The New York Times</media:credit>
     </item>
@@ -887,7 +894,7 @@
       <atom:link href="https://www.nytimes.com/video/world/asia/100000011091777/india-ai-robots-human-movement.html" rel="standout"></atom:link>
       <description>In India, some people are strapping cameras to their bodies to collect data on how humans move and train A.I.</description>
       <dc:creator>Shawn Paik and Anindito Mukherjee</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 13:19:25 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 20:45:24 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
