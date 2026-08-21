@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 09:55:51 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 09:32:24 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 10:49:38 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 10:21:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Stocks and Bonds Steady at the End of a Tumultuous Week</title>
+      <link>https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html" rel="standout"></atom:link>
+      <description>Fears about the war in Iran, government deficits, the economy and corporate borrowing stirred global markets.</description>
+      <dc:creator>Jason Karaian</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 10:21:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-osg-klmb/biz-osg-klmb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+    </item>
     <item>
       <title>Should You Invest in Bonds Right Now?</title>
       <link>https://www.nytimes.com/2026/08/21/business/investing-bond-market-stocks-funds.html</link>
@@ -1019,23 +1036,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18Biz-Oil-Storage-01-tcbg/18Biz-Oil-Storage-01-tcbg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
       <media:description>Storage tanks at an oil refinery, in Yokohama, Kanagawa, in Japan in April.</media:description>
-    </item>
-    <item>
-      <title>Home Depot Reports Higher Sales, but Its C.E.O. Isn’t There to Spread the News</title>
-      <link>https://www.nytimes.com/2026/08/18/business/home-depot-ceo-medical-leave.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/home-depot-ceo-medical-leave.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/business/home-depot-ceo-medical-leave.html" rel="standout"></atom:link>
-      <description>Investors got a shock last week when the retailer said that Ted Decker, the chief executive, would take a medical leave. Tuesday’s earnings brought a more welcome surprise.</description>
-      <dc:creator>Jordyn Holman and Kim Bhasin</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 18:03:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Home Depot Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Decker, Ted (1963- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Home Repairs and Improvements</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/business/18biz-ceo-sick/18biz-ceo-sick-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Caroline Brehman/Bloomberg</media:credit>
-      <media:description>Ted Decker, the chief executive of Home Depot, in May. Last week, the company said he would take a medical leave of absence. </media:description>
     </item>
   </channel>
 </rss>
