@@ -7,21 +7,40 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 17:50:41 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 17:46:23 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:00:23 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 18:45:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
     <item>
+      <title>Mark Zuckerberg Buys an Irish Castle</title>
+      <link>https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/europe/zuckerberg-castle-ireland.html" rel="standout"></atom:link>
+      <description>One of the 21st century’s most prominent landowners has added a nearly 200-year-old estate to his holdings. Archival information says it can take “a brisk walk of 4½ minutes to reach the dining room from the kitchen.”</description>
+      <dc:creator>Alan Yuhas</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 18:45:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palaces and Castles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Waterford (Ireland)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-ireland-zuckerberg-mbvh/21int-ireland-zuckerberg-mbvh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Patrick Kenealy, via Reuters</media:credit>
+      <media:description>Strancally Castle in Waterford, Ireland, was built around 1830 and renovated in the early 2000s. It now belongs to Mark Zuckerberg.</media:description>
+    </item>
+    <item>
       <title>Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices</title>
       <link>https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html" rel="standout"></atom:link>
-      <description>Cattle ranchers have trimmed their herds in response to drought and low margins, helping push up the cost of another American staple food.</description>
+      <description>Cattle ranchers have trimmed their herds in response to drought and low margins, helping to push up the cost of another American staple food.</description>
       <dc:creator>Kevin Draper and Ana Swanson</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 17:46:23 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 17:57:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
@@ -45,7 +64,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html" rel="standout"></atom:link>
       <description>China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.</description>
       <dc:creator>Keith Bradsher and Jack Ewing</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 16:20:31 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 18:05:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
@@ -83,18 +102,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/business/victor-niederhoffer-dead.html" rel="standout"></atom:link>
       <description>He pioneered a technique for using computers to predict short-term movements in stock prices, something that proved to be hugely lucrative — when it worked.</description>
       <dc:creator>Michael S. Rosenwald</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 14:57:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Niederhoffer, Victor (1943-2026)</category>
+      <pubDate>Fri, 21 Aug 2026 14:57:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Niederhoffer, Victor</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Commodities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Squash (Sport)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Subprime Mortgage Crisis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brighton Beach (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Weston (Conn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gambling</category>
     </item>
     <item>
       <title>Do You Need Flood Insurance? What to Know Ahead of Peak Hurricane Season.</title>
@@ -1015,25 +1029,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19Biz-CHina-IPO-fpml/19Biz-CHina-IPO-fpml-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Qilai Shen for The New York Times</media:credit>
       <media:description>A Unitree Robotics booth at an industry exhibition in Shanghai last week.</media:description>
-    </item>
-    <item>
-      <title>Trump Pauses 50 Percent Tariffs on Canada and Claims Deal Is Near</title>
-      <link>https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html" rel="standout"></atom:link>
-      <description>Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying “important work” remained.</description>
-      <dc:creator>Ian Austen, Ana Swanson and Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 12:04:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19int-canada-tariffs-deadline-lkpf/19int-canada-tariffs-deadline-lkpf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Cole Burston/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Trucks passing over the Peace Bridge between Canada and the United States on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
