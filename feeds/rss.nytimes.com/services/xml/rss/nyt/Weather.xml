@@ -7,13 +7,29 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 16:56:40 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 15:22:10 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 19:41:03 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 19:40:32 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>Desperation Mounts in Indiana After 10 Days Without Power</title>
+      <link>https://www.nytimes.com/2026/08/21/us/gary-indiana-power-outage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/us/gary-indiana-power-outage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/us/gary-indiana-power-outage.html" rel="standout"></atom:link>
+      <description>Floods from powerful thunderstorms devastated Gary, a city where a third of residents live below the poverty line. Full power restoration isn’t expected until next week.</description>
+      <dc:creator>Julie Bosman and Robert Chiarito</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 19:40:32 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gary (Ind)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21nat-gary1-vtqw/21nat-gary1-vtqw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Octavio Jones/Reuters</media:credit>
+      <media:description>Dinky Austin called the utility company for updates while she cooled off with ice outside of her home in Gary this week.</media:description>
+    </item>
     <item>
       <title>Do You Need Flood Insurance? What to Know Ahead of Peak Hurricane Season.</title>
       <link>https://www.nytimes.com/2026/08/21/your-money/flood-insurance-hurricane-season.html</link>
@@ -58,9 +74,9 @@
       <pubDate>Fri, 21 Aug 2026 09:02:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Never Stop Chasing (Movie)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Timmer, Reed</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Twisters (Movie)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ken Cole</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cole, Ken (1979- )</category>
     </item>
     <item>
       <title>Rare Tornado Hits New York City as Storm Drenches Mid-Atlantic</title>
