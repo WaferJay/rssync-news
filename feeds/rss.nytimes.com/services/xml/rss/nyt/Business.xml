@@ -7,13 +7,35 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 10:49:38 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 10:21:51 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 11:44:59 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 11:42:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Can Bessent’s ‘Big Tool Kit’ Calm Bond Investors?</title>
+      <link>https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/business/dealbook/bessent-bonds-tool-kit.html" rel="standout"></atom:link>
+      <description>Treasury Secretary Scott Bessent has vowed to step up efforts to restore calm to the debt markets. So far, it’s not working out that way.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 11:42:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Standard &amp; Poor&#39;s 500-Stock Index</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Broadcom Corporation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21db-bessent-jthl/21db-bessent-jthl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>Treasury Secretary Scott Bessent has said his agency has a “big tool kit” to try to placate turbulent bond markets.</media:description>
+    </item>
     <item>
       <title>Stocks and Bonds Steady at the End of a Tumultuous Week</title>
       <link>https://www.nytimes.com/2026/08/21/business/stocks-bonds-oil-prices.html</link>
@@ -129,15 +151,17 @@
       <description>A 2023 article incorrectly reported that a University of Alabama basketball player was at the scene of a deadly shooting. A jury awarded $9.25 million in damages.</description>
       <dc:creator>Katie Robertson</dc:creator>
       <pubDate>Fri, 21 Aug 2026 06:52:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kai Spears</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tuscaloosa (Ala)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kai Spears</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">University of Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball (College)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20biz-trial-tmvk/20biz-trial-tmvk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lexi Parra/The New York Times</media:credit>
       <media:description>The New York Times was the defendant in a nine-day trial in federal court in Tuscaloosa, Ala. </media:description>
@@ -1016,26 +1040,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Value-Added Tax</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/business/00ai-debt-still-SUB/00ai-debt-still-SUB-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nick Little</media:credit>
-    </item>
-    <item>
-      <title>Gulf Oil Giants Push to Expand Overseas Stockpiles as Iran War Drags On</title>
-      <link>https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/business/saudi-uae-japan-oil-storage.html" rel="standout"></atom:link>
-      <description>Saudi Arabia and the United Arab Emirates are seeking larger oil reserves in Japan and South Korea as regional conflict threatens supply routes.</description>
-      <dc:creator>River Akira Davis</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 18:13:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18Biz-Oil-Storage-01-tcbg/18Biz-Oil-Storage-01-tcbg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Yuichi Yamazaki/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Storage tanks at an oil refinery, in Yokohama, Kanagawa, in Japan in April.</media:description>
     </item>
   </channel>
 </rss>
