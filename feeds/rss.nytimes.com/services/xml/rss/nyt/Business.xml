@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 22:43:32 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 22:14:11 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:38:48 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 23:03:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Boeing Engineers and Technicians Reject Contract Offer</title>
+      <link>https://www.nytimes.com/2026/08/21/business/boeing-engineers-technicians-contract.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/boeing-engineers-technicians-contract.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/business/boeing-engineers-technicians-contract.html" rel="standout"></atom:link>
+      <description>The union members also authorized a potential strike if a new agreement is not reached by October.</description>
+      <dc:creator>Joe Rennison</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 23:03:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Society of Professional Engineering Employees in Aerospace</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-boeing-union-ckhf/21biz-boeing-union-ckhf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Grant Hindsley for The New York Times</media:credit>
+      <media:description>Boeing’s plant in Renton, Wash. Members of the Society of Professional Engineering Employees in Aerospace voted down a proposal that would have increased wages nearly 30 percent over four years. </media:description>
+    </item>
     <item>
       <title>Overlooked No More: Patricia Douglas, Who Challenged Hollywood’s Culture of Abuse</title>
       <link>https://www.nytimes.com/2026/08/21/obituaries/patricia-douglas-overlooked.html</link>
@@ -1014,25 +1032,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19int-nigeria-iran-dangote-1-jgwp/19int-nigeria-iran-dangote-1-jgwp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Taiwo Aina for The New York Times</media:credit>
       <media:description>Aliko Dangote at his refinery office in Lagos, Nigeria, in January.</media:description>
-    </item>
-    <item>
-      <title>How Wall St. Profits When Personal Injury Lawsuits Pay Out</title>
-      <link>https://www.nytimes.com/2026/08/19/business/personal-injury-lawsuits-funding.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/business/personal-injury-lawsuits-funding.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/business/personal-injury-lawsuits-funding.html" rel="standout"></atom:link>
-      <description>Personal injury cases have exploded, in number and magnitude, funded by companies betting on a win — and offering investors a piece of the action.</description>
-      <dc:creator>Ellen Gabler, Robert Gebeloff and Julie Tate</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 09:00:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Litigation Finance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Racketeering and Racketeers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Insurance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
     </item>
   </channel>
 </rss>
