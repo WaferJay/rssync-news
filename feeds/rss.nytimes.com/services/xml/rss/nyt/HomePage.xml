@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 07:56:37 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 07:17:48 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 08:59:17 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 08:47:11 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -273,7 +273,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html" rel="standout"></atom:link>
       <description>Just last year, Prince Harry said he couldn’t imagine ever bringing his family back to Britain.</description>
       <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 01:08:14 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 01:08:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
@@ -411,15 +411,31 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Tonight Show (TV Program)</category>
     </item>
     <item>
-      <title>This Skeleton is the First Confirmed Death by Trebuchet</title>
-      <link>https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/science/a-14th-century-skeleton-had-injuries-that-looked-like-a-car-crash-what-killed-him.html" rel="standout"></atom:link>
-      <description>Researchers believe a young man buried inside a Scottish castle was a victim of the long-feared siege weapon, more powerful than a typical catapult.</description>
-      <dc:creator>K. R. Callaway</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:02:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skeletons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Archaeology and Anthropology</category>
+      <title>Rare Tornadoes Hit New York City as Storm Drenches Mid-Atlantic</title>
+      <link>https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html" rel="standout"></atom:link>
+      <description>Tornadoes appeared in Queens and on Long Island as flooding disrupted traffic on some major highways. A tornado was also confirmed in Delaware.</description>
+      <dc:creator>John Yoon, Ishani Desai, Amy Graff and Hilary Howard</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 08:47:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far Rockaway (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nassau County (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn-Queens Expressway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Beach (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dover (Del)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island Expressway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rockaway Peninsula (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
     </item>
   </channel>
 </rss>
