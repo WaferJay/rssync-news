@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 14:56:06 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 14:38:36 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 15:50:05 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 15:22:10 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -69,7 +69,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html" rel="standout"></atom:link>
       <description>Tornadoes appeared in Queens and on Long Island as flooding disrupted traffic on some highways. A tornado was also confirmed in Delaware.</description>
       <dc:creator>John Yoon, Ishani Desai, Amy Graff and Hilary Howard</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 14:38:36 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 15:22:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
@@ -100,7 +100,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/20/weather/two-c-map-path-tracker-index/two-c-map-path-tracker-index-mediumSquareAt3X-v15.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/20/weather/two-c-map-path-tracker-index/two-c-map-path-tracker-index-mediumSquareAt3X-v19.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -605,34 +605,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fires and Firefighters</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenix (Ariz)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-    </item>
-    <item>
-      <title>Here’s the latest.</title>
-      <link>https://www.nytimes.com/live/2026/08/14/weather/lala-tropical-storm-hurricane-hawaii/heres-the-latest</link>
-      <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/14/weather/lala-tropical-storm-hurricane-hawaii/heres-the-latest</guid>
-      <atom:link href="https://www.nytimes.com/live/2026/08/14/weather/lala-tropical-storm-hurricane-hawaii/heres-the-latest" rel="standout"></atom:link>
-      <description></description>
-      <dc:creator>Pooja Salhotra, Amy Graff, Orlando Mayorquín and Mack Liederman</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 04:53:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Why Europe Keeps Being Pummeled by Heat Waves</title>
-      <link>https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/14/climate/europe-heat-waves-jet-stream.html" rel="standout"></atom:link>
-      <description>The whole planet is warming, but changes in weather patterns could help explain why the continent is suffering so many bouts of severe heat.</description>
-      <dc:creator>Raymond Zhong</dc:creator>
-      <pubDate>Fri, 14 Aug 2026 15:02:34 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Western Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
-      <category domain="">heat dome</category>
-      <category domain="">jet stream</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/14cli-europe-jetstream-pjkv/14cli-europe-jetstream-pjkv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Fabrice Coffrini/Agence France-Presse — Getty Images</media:credit>
-      <media:description>A tourist at the parched bed of Lac des Brenets on the France-Switzerland border on Tuesday.</media:description>
     </item>
   </channel>
 </rss>
