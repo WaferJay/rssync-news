@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 13:18:09 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 12:39:33 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:00:27 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 13:47:53 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-campaign-expense-charges.html" rel="standout"></atom:link>
       <description>For years, Jessica Ramos used campaign money to pay for hotels and Amtrak tickets while also receiving state payments for travel, records and interviews show.</description>
       <dc:creator>Jay Root and Bianca Pallaro</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 07:00:09 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 13:47:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
@@ -139,14 +139,18 @@
       <description>Senator Andy Kim of New Jersey spoke with detainees at the Newark detention center who said they had trouble accessing medical care. Staff members there disputed that account.</description>
       <dc:creator>Wesley Parnell and Mark Bonamo</dc:creator>
       <pubDate>Thu, 20 Aug 2026 21:08:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Delaney Hall (Newark, NJ)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim, Andy (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">GEO Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim, Andy (1982- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civil Rights and Liberties</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-delaney-hall-kmlb/20met-delaney-hall-kmlb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Madison Swart for The New York Times</media:credit>
       <media:description>Senator Andy Kim inspected the conditions at Delaney Hall amid reports of squalid living conditions, improper medical care and inadequate food.</media:description>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 21 Aug 2026 13:16:56 +0000</lastBuildDate>
-    <pubDate>Fri, 21 Aug 2026 13:05:52 +0000</pubDate>
+    <lastBuildDate>Fri, 21 Aug 2026 14:02:24 +0000</lastBuildDate>
+    <pubDate>Fri, 21 Aug 2026 13:22:42 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -94,14 +94,11 @@
       <description>President Trump’s former personal lawyer tried to revisit the past in a radio interview. But this was not exactly a stroll down memory lane.</description>
       <dc:creator>Shawn McCreesh</dc:creator>
       <pubDate>Fri, 21 Aug 2026 01:30:44 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cohen, Michael D (1966- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Radio</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">New York State Criminal Case Against Trump (71543-23)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20DC-Trump-Cohen-gqbt/20DC-Trump-Cohen-gqbt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Seth Wenig/Associated Press</media:credit>
       <media:description>Michael Cohen in front of promotional material for his new radio show, which is meant to look like him in the Oval Office, during a news conference in New York last month.</media:description>
@@ -113,17 +110,21 @@
       <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/sean-duffy-american-road-trip.html" rel="standout"></atom:link>
       <description>The transportation secretary’s six-part YouTube series is fueling ethical concerns over family adventures funded in large part by corporate sponsors regulated by his department.</description>
       <dc:creator>Karoun Demirjian</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 00:53:37 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 00:53:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duffy, Sean P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts to Public Officials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gifts to Public Officials</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Boeing Company</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Citizens for Responsibility and Ethics in Washington</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Aviation Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Duffy, Sean P</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Road Trips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Great American Road Trip (TV Program)</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20dc-duffy-road-trip01-photo-ftvp/20dc-duffy-road-trip01-photo-ftvp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kenny Holston/The New York Times</media:credit>
       <media:description>The reality road trip series tracks Transportation Secretary Sean Duffy, his wife, their nine children and his son-in-law.</media:description>
