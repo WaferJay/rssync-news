@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 01:52:35 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 01:17:02 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:08:00 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 02:14:42 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
+    <item>
+      <title>We Tried to Cover a Tom Kean Campaign Event. Someone Called the Police.</title>
+      <link>https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html" rel="standout"></atom:link>
+      <description>Representative Thomas Kean Jr. was joined Friday on the campaign trail by House Speaker Mike Johnson. An aide to Mr. Kean blocked a reporter’s entry. Then the police were called.</description>
+      <dc:creator>Tracey Tully</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 01:08:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kean, Thomas H Jr</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21met-kean-johnson-zqbk/21met-kean-johnson-zqbk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Alex Kent/The New York Times</media:credit>
+      <media:description>Representative Tom Kean Jr., a New Jersey Republican, is running for re-election in a competitive district.</media:description>
+    </item>
     <item>
       <title>N.Y. State Senator Under Ethics Scrutiny Over Billing Practices</title>
       <link>https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-billing-ethics-investigation.html</link>
@@ -114,6 +134,29 @@
       <media:description>State Senator Jessica Ramos, a Queens Democrat, has served as chairwoman of the upper chamber’s Labor Committee since 2019.</media:description>
     </item>
     <item>
+      <title>At Famous Funeral Home, the Band Plays On</title>
+      <link>https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html" rel="standout"></atom:link>
+      <description>Frank E. Campbell, the Upper East Side funeral home that caters to the well-known, will host a performance this weekend.</description>
+      <dc:creator>James Barron</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 12:22:58 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Morgues and Mortuaries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Campbell, Frank E, The Funeral Chapel Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albany (NY)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21nytoday-qtjv/21nytoday-qtjv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vincent Tullo for The New York Times</media:credit>
+      <media:description>William Villanova, on the couch, next to a portrait of Frank E. Campbell.</media:description>
+    </item>
+    <item>
       <title>How New York’s Second-Home Tax Turned Into a Headache for Mamdani</title>
       <link>https://www.nytimes.com/2026/08/21/nyregion/mamdani-second-home-tax-rollout.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/mamdani-second-home-tax-rollout.html</guid>
@@ -139,29 +182,6 @@
       <media:description>The second-home tax, which is expected to raise hundreds of millions of dollars annually for New York City, was seen as a way to help close a budget gap and deliver on Mayor Zohran Mamdani’s promise to “tax the rich.”</media:description>
     </item>
     <item>
-      <title>At Famous Funeral Home, the Band Plays On</title>
-      <link>https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html" rel="standout"></atom:link>
-      <description>Frank E. Campbell, the Upper East Side funeral home that caters to the well-known, will host a performance this weekend.</description>
-      <dc:creator>James Barron</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 12:22:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Morgues and Mortuaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Campbell, Frank E, The Funeral Chapel Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albany (NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21nytoday-qtjv/21nytoday-qtjv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Tullo for The New York Times</media:credit>
-      <media:description>William Villanova, on the couch, next to a portrait of Frank E. Campbell.</media:description>
-    </item>
-    <item>
       <title>Landmarks Panel Approves Designs to Replace Parking Lot With High Rises</title>
       <link>https://www.nytimes.com/2026/08/21/nyregion/noho-parking-lot-apartments.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/noho-parking-lot-apartments.html</guid>
@@ -184,53 +204,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-noho-parking-cmwp/20met-noho-parking-cmwp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>A parking lot at the corner of Great Jones and Lafayette Streets in Manhattan, where two high-rise apartment buildings are likely to be built.</media:description>
-    </item>
-    <item>
-      <title>Rare Tornado Hits New York City as Storm Drenches Mid-Atlantic</title>
-      <link>https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html" rel="standout"></atom:link>
-      <description>Tornadoes appeared in Queens and on Long Island as flooding disrupted traffic on some highways. A tornado was also confirmed in Delaware.</description>
-      <dc:creator>John Yoon, Ishani Desai, Amy Graff and Hilary Howard</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:06:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far Rockaway (Queens, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nassau County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn-Queens Expressway</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Beach (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dover (Del)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island Expressway</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rockaway Peninsula (Queens, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-    </item>
-    <item>
-      <title>We Tried to Cover a Tom Kean Campaign Event. Someone Called the Police.</title>
-      <link>https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/kean-campaign-johnson.html" rel="standout"></atom:link>
-      <description>Representative Thomas Kean Jr. was joined Friday on the campaign trail by House Speaker Mike Johnson. An aide to Mr. Kean blocked a reporter’s entry. Then the police were called.</description>
-      <dc:creator>Tracey Tully</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 01:08:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kean, Thomas H Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">New York Times</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21met-kean-johnson-zqbk/21met-kean-johnson-zqbk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Alex Kent/The New York Times</media:credit>
-      <media:description>Representative Tom Kean Jr., a New Jersey Republican, is running for re-election in a competitive district.</media:description>
     </item>
     <item>
       <title>Machel Montano, Soca Sovereign, Takes Over Brooklyn Public Library</title>
@@ -282,6 +255,33 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21trav-wildswimming-qfzl/21trav-wildswimming-qfzl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Moelyn Photos/Getty Images</media:credit>
       <media:description>String Lake at Grand Teton National Park</media:description>
+    </item>
+    <item>
+      <title>Rare Tornado Hits New York City as Storm Drenches Mid-Atlantic</title>
+      <link>https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html" rel="standout"></atom:link>
+      <description>Tornadoes appeared in Queens and on Long Island as flooding disrupted traffic on some highways. A tornado was also confirmed in Delaware.</description>
+      <dc:creator>John Yoon, Ishani Desai, Amy Graff and Hilary Howard</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 20:06:41 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far Rockaway (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nassau County (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn-Queens Expressway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Beach (NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dover (Del)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island Expressway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rockaway Peninsula (Queens, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
     </item>
     <item>
       <title>Child Welfare Agency Had No Right to Monitor Mother, Court Finds</title>
