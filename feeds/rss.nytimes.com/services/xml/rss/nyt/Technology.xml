@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 15:39:39 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 15:34:31 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 16:42:38 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 16:32:02 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,15 +21,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html" rel="standout"></atom:link>
       <description>The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk’s SpaceX.</description>
       <dc:creator>Sri Muppidi, Lauren Hirsch and Erin Griffith</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 00:24:20 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 00:24:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-anthropic-mbzl/21biz-anthropic-mbzl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Don Feria/Associated Press</media:credit>
       <media:description>From right, Dario Amodei, Anthropic’s chief executive, and Daniela Amodei, an Anthropic co-founder and Mr. Amodei’s sister, at a company conference in May.</media:description>
@@ -42,15 +40,17 @@
       <description>The Justice Department resolved a lawsuit that accused the social media company of illegally gathering children’s information.</description>
       <dc:creator>David McCabe</dc:creator>
       <pubDate>Fri, 21 Aug 2026 23:24:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-tiktok-hzfw/21biz-tiktok-hzfw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anna Barclay/Getty Images</media:credit>
       <media:description>The government’s 2024 suit claimed that TikTok gathered data from users under the age of 13 without parental permission.</media:description>
