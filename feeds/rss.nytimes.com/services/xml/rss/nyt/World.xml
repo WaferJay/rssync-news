@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 03:08:56 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 02:21:50 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 03:59:04 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 03:58:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -327,6 +327,26 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-somalia-1-jbtg/20int-somalia-1-jbtg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Abdirahman Hussein/Reuters</media:credit>
       <media:description>Security forces patrolling the Gulf of Aden, off the coast of the semiautonomous Somali region of Puntland, in 2024.</media:description>
+    </item>
+    <item>
+      <title>U.S.-Canada Trade Talks Collapse Without A Deal</title>
+      <link>https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html" rel="standout"></atom:link>
+      <description>Mark Carney suspended talks and will take out retaliatory tariffs against the United States after days of negotiations to stave off new levies by the Trump administration ended in an impasse.</description>
+      <dc:creator>Matina Stevis-Gridneff, Ian Austen and Ana Swanson</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 03:58:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeBlanc, Dominic (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/00int-canada-tariffs-hfos-NO/00int-canada-tariffs-hfos-NO-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kenny Holston/The New York Times</media:credit>
+      <media:description>President Trump at the White House on Thursday.</media:description>
     </item>
     <item>
       <title>Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job</title>
@@ -1185,27 +1205,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19int-nkorea-drill-1-cjwm/19int-nkorea-drill-1-cjwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
       <media:description>South Korean soldiers took part in a drill at a hotel in Seoul on Wednesday on the sidelines of a major joint military exercise with the United States named Ulchi Freedom Shield.</media:description>
-    </item>
-    <item>
-      <title>In Italy, a Beach Club Run by Nuns Is in Jeopardy</title>
-      <link>https://www.nytimes.com/2026/08/19/world/europe/italy-nuns-beach-club.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/world/europe/italy-nuns-beach-club.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/world/europe/italy-nuns-beach-club.html" rel="standout"></atom:link>
-      <description>The Sisters of Charity of Saint Mary have hosted beachgoers in the town of Spotorno for decades. But change is coming.</description>
-      <dc:creator>Elisabetta Povoledo</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 18:06:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuns</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spotorno (Italy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Auctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organizations, Societies and Clubs</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/19/world/19Italy-nuns/19Italy-nuns-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Zoonar, via Alamy</media:credit>
-      <media:description>An aerial view in 2023 of beach clubs on the Spotorno coastline in Italy, along the Ligurian Sea.</media:description>
     </item>
   </channel>
 </rss>
