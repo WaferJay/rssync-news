@@ -7,27 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 17:38:13 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 16:52:16 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:50:05 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 18:29:15 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
     <item>
-      <title>Hawaii Braces for Another Foot of Rain as Lala Cleanup Continues</title>
+      <title>Tropical Storm Moke Threatens to Bring Up to a Foot of Rain to Hawaii</title>
       <link>https://www.nytimes.com/2026/08/22/weather/hawaii-moke-storm-rain-flood.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/weather/hawaii-moke-storm-rain-flood.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/22/weather/hawaii-moke-storm-rain-flood.html" rel="standout"></atom:link>
-      <description>The National Weather Service issued a flood watch for the Big Island with heavy rain expected to arrive there by Saturday night.</description>
+      <description>Heavy rain is expected to arrive at the Big Island by Saturday night. The storm comes as Hawaii is still cleaning up from the damage done by Hurricane Lala.</description>
       <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 09:03:50 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 18:29:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22wea-Hawaii-storm-kqvz/22wea-Hawaii-storm-kqvz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ronit Fahl for The New York Times</media:credit>
+      <media:description>Naalehu, Hawaii, on Tuesday after Hurricane Lala. The area is expecting more heavy rainfall this weekend as Tropical Storm Moke approaches.</media:description>
     </item>
     <item>
       <title>Desperation Mounts as Thousands in Indiana Endure 10 Days Without Power</title>
@@ -510,23 +513,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15storm-lala-last-hurricane-bfmw/15storm-lala-last-hurricane-bfmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Reed Saxon/Associated Press</media:credit>
       <media:description>Rubble left behind after Hurricane Iniki battered the island of Kauai in 1992.</media:description>
-    </item>
-    <item>
-      <title>An Island Used to Storms Readies for One of the Strongest in Decades</title>
-      <link>https://www.nytimes.com/2026/08/15/weather/hurricane-lala-hawaii-emergency-prep.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/weather/hurricane-lala-hawaii-emergency-prep.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/15/weather/hurricane-lala-hawaii-emergency-prep.html" rel="standout"></atom:link>
-      <description>Storms regularly sweep across Hawaii, but actual hurricanes are rare. As Lala approached, propane, ice and Oreos were among the priorities.</description>
-      <dc:creator>Orlando Mayorquín and Pooja Salhotra</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 19:32:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15storm-lala-emergency-prep2-lpvq/15storm-lala-emergency-prep2-lpvq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bruce Omori for The New York Times</media:credit>
-      <media:description>Maile Madrona placing sandbags at the base of their entrance of Aloha Grown, a local shop in downtown Hilo, Hawaii, on Friday.</media:description>
     </item>
   </channel>
 </rss>

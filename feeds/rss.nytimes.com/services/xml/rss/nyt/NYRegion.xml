@@ -7,31 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 16:42:20 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 16:41:32 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:52:21 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 18:02:53 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
-    <item>
-      <title>The Socialist, a Million-Dollar Rowhouse and Unanswered Questions</title>
-      <link>https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html" rel="standout"></atom:link>
-      <description>Differing accounts of where Gustavo Gordillo, a leader of the Democratic Socialists of America, lives are raising doubts about whether the city’s left-wing organizers are ready for prime time.</description>
-      <dc:creator>Jeremy W. Peters, Nate Schweber and Miles G. Cohen</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 07:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gordillo, Gustavo</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bedford-Stuyvesant (Brooklyn, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crown Heights (Brooklyn, NY)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-gordillo-evict-ctqg/20met-gordillo-evict-ctqg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Graham Dickie for The New York Times</media:credit>
-      <media:description>Gustavo Gordillo, a co-chair of the New York chapter of the Democratic Socialists of America, has said he lives in an apartment in the Crown Heights neighborhood of Brooklyn, but other records show that a million dollar rowhouse is his home.</media:description>
-    </item>
     <item>
       <title>N.Y. State Senator Under Ethics Scrutiny Over Billing Practices</title>
       <link>https://www.nytimes.com/2026/08/21/nyregion/ny-ramos-billing-ethics-investigation.html</link>
@@ -50,6 +32,24 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21ramos-bcwp/21ramos-bcwp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Angelina Katsanis for The New York Times</media:credit>
       <media:description>An analysis of state records by The New Times found more than $30,000 in overlapping charges to State Senator Jessica Ramos’s campaign and the state reimbursement system.</media:description>
+    </item>
+    <item>
+      <title>The Socialist, a Million-Dollar Rowhouse and Unanswered Questions</title>
+      <link>https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/nyregion/nyc-gustavo-gordillo-democratic-socialist.html" rel="standout"></atom:link>
+      <description>Differing accounts of where Gustavo Gordillo, a leader of the Democratic Socialists of America, lives are raising doubts about whether the city’s left-wing organizers are ready for prime time.</description>
+      <dc:creator>Jeremy W. Peters, Nate Schweber and Miles G. Cohen</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 07:00:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Socialism (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Socialists of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gordillo, Gustavo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bedford-Stuyvesant (Brooklyn, NY)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Crown Heights (Brooklyn, NY)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20met-gordillo-evict-ctqg/20met-gordillo-evict-ctqg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Graham Dickie for The New York Times</media:credit>
+      <media:description>Gustavo Gordillo, a co-chair of the New York chapter of the Democratic Socialists of America, has said he lives in an apartment in the Crown Heights neighborhood of Brooklyn, but other records show that a million dollar rowhouse is his home.</media:description>
     </item>
     <item>
       <title>‘As We Pulled Into the Station, We Each Took One Last Look’</title>
@@ -90,7 +90,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/us-open-fan-week-passes.html" rel="standout"></atom:link>
       <description>An awkward policy change casts doubt on how the tennis tournament’s popular free first week will work.</description>
       <dc:creator>David Waldstein</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 21:47:37 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 18:02:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Open (Tennis)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
