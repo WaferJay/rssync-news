@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 18:50:05 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 18:29:15 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 19:42:02 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 19:03:54 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -107,25 +107,10 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html" rel="standout"></atom:link>
       <description>Tornadoes appeared in Queens and on Long Island as flooding disrupted traffic on some highways. A tornado was also confirmed in Delaware.</description>
       <dc:creator>John Yoon, Ishani Desai, Amy Graff and Hilary Howard</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:06:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Delaware</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pennsylvania</category>
+      <pubDate>Fri, 21 Aug 2026 20:06:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Far Rockaway (Queens, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nassau County (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn-Queens Expressway</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Beach (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dover (Del)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island Expressway</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rockaway Peninsula (Queens, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beaches</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
     </item>
     <item>
       <title>A Week After Hurricane Lala, Hawaii Faces Another Storm Threat</title>
@@ -496,23 +481,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15storm-lala-pacific-naming-topart-fvbq/15storm-lala-pacific-naming-topart-fvbq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bruce Omori for The New York Times</media:credit>
       <media:description>Maile Madrona, who works at a store in downtown Hilo, Hawaii, placed sandbags outside the shop on Friday.</media:description>
-    </item>
-    <item>
-      <title>The Last Hurricane to Hit Hawaii Became a Movie Star</title>
-      <link>https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/15/weather/hurricane-iniki-hawaii-history-lala.html" rel="standout"></atom:link>
-      <description>Hurricane Iniki devastated Kauai, causing at least seven deaths and $1.8 billion in damage. It also got a cameo in a Spielberg movie.</description>
-      <dc:creator>Amy Graff and Pooja Salhotra</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 19:39:50 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spielberg, Steven</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kauai (Hawaii)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15storm-lala-last-hurricane-bfmw/15storm-lala-last-hurricane-bfmw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Reed Saxon/Associated Press</media:credit>
-      <media:description>Rubble left behind after Hurricane Iniki battered the island of Kauai in 1992.</media:description>
     </item>
   </channel>
 </rss>
