@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 04:55:35 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 04:19:25 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 09:45:35 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 09:02:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -91,6 +91,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/podcasts/21hardfork-pause/21hardfork-pause-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Photo Illustration by The New York Times; Photo by Kim Kyung-Hoon/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon</title>
+      <link>https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/technology/carrier-pigeon-app-texting-technology.html" rel="standout"></atom:link>
+      <description>Apps that let users send digital messages at ultraslow speeds have taken off, with users reveling in a slower pace of life. (Just don’t use the them to make dinner plans.)</description>
+      <dc:creator>Emmett Lindner</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 09:02:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pigeons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Carrier Pidge</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roost</category>
+      <media:content height="929" medium="image" url="https://static01.nyt.com/images/2026/08/21/technology/22xp-pigeons-PROMO/oakImage-1787350721844-mediumSquareAt3X.png" width="930"></media:content>
+      <media:credit>Getty Images</media:credit>
     </item>
     <item>
       <title>In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety</title>
@@ -460,27 +478,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Spam (Electronic)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/business/00biz-ai-slop/00biz-ai-slop-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lia Sued C.</media:credit>
-    </item>
-    <item>
-      <title>The Iranian YouTube Show Posing Questions Few Dare Ask</title>
-      <link>https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html" rel="standout"></atom:link>
-      <description>Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system. Some question how it has remained on air.</description>
-      <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Sat, 15 Aug 2026 09:30:14 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Azad (YouTube Channel)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ahmadi, Mahdi (YouTuber)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of the Press</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Web-Original Programming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Communications and Media Blackouts</category>
     </item>
   </channel>
 </rss>
