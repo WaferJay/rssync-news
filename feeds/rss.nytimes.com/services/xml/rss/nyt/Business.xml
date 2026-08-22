@@ -7,13 +7,32 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 09:45:42 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 09:02:32 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 13:01:40 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 12:40:30 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Harvard’s A.I. Clones Will Hear Your Start-Up Pitch Now</title>
+      <link>https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html" rel="standout"></atom:link>
+      <description>To create a new $699 bootcamp for entrepreneurs, Harvard Business School made A.I. versions of its faculty.</description>
+      <dc:creator>Sarah Kessler</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 12:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Entrepreneurship</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Business Schools</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard Business School</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Harvard University</category>
+      <media:content height="622" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20DB-HARVARD-AI-GIF/20DB-HARVARD-AI-GIF-mediumSquareAt3X.gif" width="622"></media:content>
+      <media:credit>The New York Times</media:credit>
+      <media:description>The Foundry Bootcamp includes interactive A.I. video avatars of Harvard Business School instructors, like this one of the venture capitalist Jeff Bussgang.</media:description>
+    </item>
     <item>
       <title>The Economy Got Used to Low Borrowing Costs. Their Exit Could Pose Risks.</title>
       <link>https://www.nytimes.com/2026/08/22/business/bonds-borrowing-costs-economy.html</link>
@@ -1005,26 +1024,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19db-bessent-pgmw/19db-bessent-pgmw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Lee for The New York Times</media:credit>
       <media:description>Treasury Secretary Scott Bessent and his counterparts around the world are seeing more intense competition to attract bond investors.</media:description>
-    </item>
-    <item>
-      <title>Many Student Loan Borrowers May Have to Switch to Worse Repayment Plans</title>
-      <link>https://www.nytimes.com/2026/08/19/business/student-loans-ibr-paye.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/business/student-loans-ibr-paye.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/business/student-loans-ibr-paye.html" rel="standout"></atom:link>
-      <description>In an unusual move, Congress worsened terms for some existing borrowers. Now they’ll have to pay more, and for a longer term.</description>
-      <dc:creator>Tara Siegel Bernard</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 11:59:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Student Loans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Education Department (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">One Big Beautiful Bill Act (2025)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">House of Representatives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19Biz-Broken-Contract-01-jhzl/19Biz-Broken-Contract-01-jhzl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Niki Chan Wylie for The New York Times</media:credit>
-      <media:description>Matthew Hansen, a pharmacist in Sandy, Utah, borrowed $166,000 for graduate school. He had been steadily making payments when he discovered he would have to choose a new repayment plan.</media:description>
     </item>
   </channel>
 </rss>
