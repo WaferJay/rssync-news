@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 19:39:35 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 19:20:33 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 21:37:05 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 21:12:50 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Trump’s Top Trade Representative Details Offer That Canada Refused</title>
+      <link>https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html" rel="standout"></atom:link>
+      <description>In an interview, Jamieson Greer, Trump’s trade representative, laid out details of the trade offer that the United States made to Canada before talks crumbled.</description>
+      <dc:creator>Ana Swanson</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 21:12:50 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22dc-greer-qbjk/22dc-greer-qbjk-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Haiyun Jiang/The New York Times</media:credit>
+      <media:description>Jamieson Greer, the U.S. trade representative, said Canada would have been given the most preferential treatment of any trading partner.</media:description>
+    </item>
     <item>
       <title>U.S. Economy Could Feel the Sting From Trade War With Canada</title>
       <link>https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html</link>
@@ -57,7 +74,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/business/dealbook/harvard-ai-faculty.html" rel="standout"></atom:link>
       <description>To create a new bootcamp for entrepreneurs, Harvard Business School made A.I. avatars of its instructors.</description>
       <dc:creator>Sarah Kessler</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 15:09:42 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 21:08:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Colleges and Universities</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
@@ -998,25 +1015,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rebel Creamery LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
-    </item>
-    <item>
-      <title>Markets Rally After U.S. Treasury Eases Bond Investor Stress</title>
-      <link>https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/business/bond-yields-treasury-department.html" rel="standout"></atom:link>
-      <description>Government bond yields fell and stocks rose on a move by the Treasury Department to double the amount of debt that it can buy back from investors.</description>
-      <dc:creator>Joe Rennison</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 20:50:56 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19biz-treasuries-gcfh/19biz-treasuries-gcfh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kenny Holston/The New York Times</media:credit>
-      <media:description>The announcement by Treasury Department, led by Scott Bessent, raises demand in the bond market at a time when many investors have been selling.</media:description>
     </item>
   </channel>
 </rss>
