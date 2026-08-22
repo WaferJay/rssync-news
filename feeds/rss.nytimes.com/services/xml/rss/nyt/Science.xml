@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 18:50:11 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 18:03:52 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 20:41:49 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 19:46:46 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -36,6 +36,17 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mississippi River</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24SCI-GULF-HYPOXIA-stillpromo/24SCI-GULF-HYPOXIA-stillpromo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bryan Tarnowski for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Quiz question: It’s a Greek letter and a guy’s name. What does it mean?</title>
+      <link>https://www.nytimes.com/quiz/2026/08/21/science/21sciencequiz-gamma-ray.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/quiz/2026/08/21/science/21sciencequiz-gamma-ray.html</guid>
+      <atom:link href="https://www.nytimes.com/quiz/2026/08/21/science/21sciencequiz-gamma-ray.html" rel="standout"></atom:link>
+      <description>Test your science knowledge.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 19:46:46 +0000</pubDate>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/science/21science-quiz-gamma-ray-01/21science-quiz-gamma-ray-01-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Neils Gehrels Swift Observatory/NASA/Goddard</media:credit>
     </item>
     <item>
       <title>Trump Announces a New Policy for a ‘Golden Age of Space Transportation’</title>
@@ -154,24 +165,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/05/multimedia/00sci-nasa-voyager-01-thvm/00sci-nasa-voyager-01-thvm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ariana Drehsler for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>Jaguars Are Ready to Come Back. The Border Wall Might Stop Them.</title>
-      <link>https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html" rel="standout"></atom:link>
-      <description>A lone male roves the Arizona mountains, and a female has been spotted just across the border in Mexico. The sightings raise hopes for the species, despite serious threats.</description>
-      <dc:creator>Douglas Main and Celia Talbot Tobin</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 16:16:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jaguars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fish and Wildlife Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sonora (Mexico)</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/17SCI-JAGUARS-stillpromo/17SCI-JAGUARS-stillpromo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Celia Talbot Tobin for The New York Times</media:credit>
-      <media:description>Eamon Harrity, a wildlife program director with Sky Island Alliance, checking a wildlife camera along the border wall in southern Arizona.</media:description>
     </item>
     <item>
       <title>U.S. Cuts Colorado River Water for Arizona, California and Nevada</title>
@@ -447,6 +440,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17CLI-WEST-WATER-01-ktlq/17CLI-WEST-WATER-01-ktlq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>John Locher/Associated Press</media:credit>
       <media:description>The Glen Canyon Dam near Lake Powell in Arizona last month. Lakes Powell and Mead, the country’s largest reservoirs, have been recording new lows this summer.</media:description>
+    </item>
+    <item>
+      <title>Jaguars Are Ready to Come Back. The Border Wall Might Stop Them.</title>
+      <link>https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/17/science/jaguars-are-ready-to-come-back-the-border-wall-might-stop-them.html" rel="standout"></atom:link>
+      <description>A lone male roves the Arizona mountains, and a female has been spotted just across the border in Mexico. The sightings raise hopes for the species, despite serious threats.</description>
+      <dc:creator>Douglas Main and Celia Talbot Tobin</dc:creator>
+      <pubDate>Wed, 19 Aug 2026 16:16:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jaguars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Border Barriers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fish and Wildlife Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sonora (Mexico)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/10/multimedia/17SCI-JAGUARS-stillpromo/17SCI-JAGUARS-stillpromo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Celia Talbot Tobin for The New York Times</media:credit>
+      <media:description>Eamon Harrity, a wildlife program director with Sky Island Alliance, checking a wildlife camera along the border wall in southern Arizona.</media:description>
     </item>
     <item>
       <title>Share Your Experiences With the Public Health System in Louisiana</title>
