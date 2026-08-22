@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 14:39:24 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 14:32:28 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 15:39:33 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 15:38:21 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -128,7 +128,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html" rel="standout"></atom:link>
       <description>Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.</description>
       <dc:creator>Nicole Sperling and Shawn Hubler</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 12:18:43 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 14:55:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
@@ -187,7 +187,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/us/politics/homelessness-lonsdale-billionaire-trump.html" rel="standout"></atom:link>
       <description>As Republicans have embraced tough measures to clear the streets, no group has led the way more than the Cicero Institute, founded by the venture capitalist Joe Lonsdale.</description>
       <dc:creator>Ellen Barry and Jason DeParle</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 13:07:41 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 15:38:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeless Persons</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
@@ -390,9 +390,11 @@
       <description>The two sides focused Friday on whether Ms. Clancy was experiencing psychosis when she strangled her three young children in 2023. Closing arguments could begin on Monday.</description>
       <dc:creator>Sejal Govindarao and Emma Schartz</dc:creator>
       <pubDate>Sat, 22 Aug 2026 00:36:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Lindsay (1990- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Callan (d 2023)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Cora (d 2023)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Dawson (d 2023)</category>
@@ -494,8 +496,11 @@
       <dc:creator>Julie Bosman and Robert Chiarito</dc:creator>
       <pubDate>Sat, 22 Aug 2026 00:31:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gary (Ind)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21nat-gary1-vtqw/21nat-gary1-vtqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Octavio Jones/Reuters</media:credit>
