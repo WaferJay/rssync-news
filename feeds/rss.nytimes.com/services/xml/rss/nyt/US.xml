@@ -3,17 +3,48 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1787441928571" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 21:41:30 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 20:28:06 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 23:38:48 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 23:30:02 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>‘It’s Been Terrible’: Thousands in Indiana Remain Without Power</title>
+      <link>https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/us/gary-indiana-11-day-power-outage.html" rel="standout"></atom:link>
+      <description>Gov. Mike Braun called on the local utility to “match the urgency” of Gary area residents who have had to endure an outage approaching its second week.</description>
+      <dc:creator>Robert Chiarito, Jack Healy and Amy Graff</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 23:30:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gary (Ind)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22nat-gary-power1-wbvz/22nat-gary-power1-wbvz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Judge Denies New Trial for Karmelo Anthony in Texas Teen’s Killing</title>
+      <link>https://www.nytimes.com/2026/08/22/us/karmelo-anthony-texas-stabbing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/us/karmelo-anthony-texas-stabbing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/us/karmelo-anthony-texas-stabbing.html" rel="standout"></atom:link>
+      <description>Mr. Anthony, 19, was convicted of murder in the fatal stabbing of Austin Metcalf at a high school track meet last year. His lawyers are appealing the case.</description>
+      <dc:creator>Jesus Jiménez and Deah Mitchell</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 23:14:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anthony, Karmelo (2007- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Metcalf, Austin (2007-25)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Collin County (Tex)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20nat-txKarmelo-1-bpmv/20nat-txKarmelo-1-bpmv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Tony Gutierrez/Associated Press</media:credit>
+      <media:description>Law enforcement officials stood outside the Collin County courthouse after a verdict was reached in the murder trial against Karmelo Anthony in McKinney, Texas, in June.</media:description>
+    </item>
     <item>
       <title>Nancy Kassebaum, First Woman to Chair a Major Senate Panel, Dies at 94</title>
       <link>https://www.nytimes.com/2026/08/22/us/politics/nancy-kassebaum-dead.html</link>
@@ -150,17 +181,19 @@
       <description>Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.</description>
       <dc:creator>Nicole Sperling and Shawn Hubler</dc:creator>
       <pubDate>Sat, 22 Aug 2026 14:55:24 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Documentary Films and Programs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Archewell Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Netflix Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotify</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21nat-la-royals-wbjg/21nat-la-royals-wbjg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dylan Martinez/Reuters</media:credit>
       <media:description>The Duke and Duchess of Sussex are returning to Britain after spending six years in California chasing their Hollywood dreams.</media:description>
@@ -402,50 +435,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21dc-stars-jwgc/21dc-stars-jwgc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mark Godfrey/Associated Press</media:credit>
       <media:description>Service members reading Stars and Stripes in Cu Chi, South Vietnam, in September 1969. The publication has a long history of independent reporting on the U.S. military. </media:description>
-    </item>
-    <item>
-      <title>Defense Rests Case in Lindsay Clancy Murder Trial</title>
-      <link>https://www.nytimes.com/2026/08/21/us/lindsay-clancy-trial-defense.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/us/lindsay-clancy-trial-defense.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/us/lindsay-clancy-trial-defense.html" rel="standout"></atom:link>
-      <description>The two sides focused Friday on whether Ms. Clancy was experiencing psychosis when she strangled her three young children in 2023. Closing arguments could begin on Monday.</description>
-      <dc:creator>Sejal Govindarao and Emma Schartz</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 00:36:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Lindsay (1990- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Child Abuse and Neglect</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Callan (d 2023)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Cora (d 2023)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Dawson (d 2023)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Duxbury (Mass)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21nat-clancy-lvjf/21nat-clancy-lvjf-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Josh Reynolds/Associated Press</media:credit>
-      <media:description>Lindsay Clancy in the courtroom on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Court Slashes Award Alex Jones Was Ordered to Pay Sandy Hook Parents</title>
-      <link>https://www.nytimes.com/2026/08/21/us/politics/alex-jones-sandy-hook.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/us/politics/alex-jones-sandy-hook.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/us/politics/alex-jones-sandy-hook.html" rel="standout"></atom:link>
-      <description>An appeals court reduced the award to the parents of one victim to $6 million from $49 million, citing a Texas damages cap. The conspiracy theorist owes over $1 billion in other cases.</description>
-      <dc:creator>Elizabeth Williamson</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 22:05:04 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jones, Alex (1974- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Infowars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conspiracy Theories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Right-Wing Extremism and Alt-Right</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newtown, Conn, Shooting (2012)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sandy Hook Elementary School (Newtown, Conn)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21dc-jones01-photo-tvmc/21dc-jones01-photo-tvmc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Nic Antaya for The New York Times</media:credit>
-      <media:description>For years, Alex Jones spread conspiracy theories that the Sandy Hook shooting was a hoax perpetrated by the government and the victims’ families.</media:description>
     </item>
   </channel>
 </rss>
