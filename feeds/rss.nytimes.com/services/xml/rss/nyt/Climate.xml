@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 09:46:43 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 05:06:18 +0000</pubDate>
+    <lastBuildDate>Sat, 22 Aug 2026 17:37:22 +0000</lastBuildDate>
+    <pubDate>Sat, 22 Aug 2026 16:52:16 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,17 +21,20 @@
       <atom:link href="https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html" rel="standout"></atom:link>
       <description>Arizona’s share of the river will shrink by a third, likely increasing reliance on groundwater and raising pressure on agriculture.</description>
       <dc:creator>Scott Dance</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 01:08:25 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 01:08:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado River</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservation of Resources</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Reservoirs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Arizona</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Reclamation</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21CLI-COLORADO-CUTS-vkzj/21CLI-COLORADO-CUTS-vkzj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Sullivan/Getty Images</media:credit>
       <media:description>The Colorado River at Horseshoe Bend near Page, Ariz., last month.</media:description>
@@ -137,11 +140,12 @@
       <description>Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.</description>
       <dc:creator>Claire Moses</dc:creator>
       <pubDate>Fri, 21 Aug 2026 12:17:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20xp-trees-major-oak-copy-promo/20xp-trees-major-oak-copy-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Royal Society for the Protection of Birds, via Associated Press</media:credit>
       <media:description>The Major Oak at Sherwood Forest Nature Reserve in Nottinghamshire, England, in May.</media:description>
