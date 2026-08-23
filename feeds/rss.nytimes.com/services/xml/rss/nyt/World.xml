@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 10:44:00 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 09:54:00 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 11:39:08 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 11:31:06 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -309,6 +309,22 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-japan-capital-gtfl/22int-japan-capital-gtfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Looking out across the city of Sapporo, in Hokkaido, Japan.</media:description>
+    </item>
+    <item>
+      <title>A Murder Trial in Massachusetts</title>
+      <link>https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html" rel="standout"></atom:link>
+      <description>How the trial of Lindsay Clancy has become a proxy for how people view society’s ills.</description>
+      <dc:creator>Shaila Dewan</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 11:31:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clancy, Lindsay (1990- )</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23themorning-clancy-kzmf/23themorning-clancy-kzmf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Pool photo by Mark Chavous</media:credit>
+      <media:description>A close-up of Lindsay Clancy in court on Friday.</media:description>
     </item>
     <item>
       <title>Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.</title>
@@ -1178,23 +1194,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20xp-sanctions-china-topart-vctq/20xp-sanctions-china-topart-vctq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Joyce Zhou/Reuters</media:credit>
       <media:description>Oil tankers moored at Tsing Yi port in Hong Kong. </media:description>
-    </item>
-    <item>
-      <title>What to Know About Prince Harry and Meghan’s Move Back to the U.K.</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/prince-harry-meghan-uk-move-return.html" rel="standout"></atom:link>
-      <description>The couple are moving back after six years in the United States. What they will do, and much else, are still unclear.</description>
-      <dc:creator>Amelia Nierenberg</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:46:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1660" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg" width="1660"></media:content>
-      <media:credit>Pool photo by Jonathan Brady</media:credit>
-      <media:description>Prince Harry and Meghan visiting Bondi Beach in Sydney, Australia, in April.</media:description>
     </item>
   </channel>
 </rss>
