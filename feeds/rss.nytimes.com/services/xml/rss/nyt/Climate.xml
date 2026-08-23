@@ -7,13 +7,27 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 09:43:27 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 09:01:49 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:06:50 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 12:14:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/climate</link>
     </image>
+    <item>
+      <title>Wildfires Are Turning Forests in the American West Into Shrubland</title>
+      <link>https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html" rel="standout"></atom:link>
+      <description>Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said.</description>
+      <dc:creator>Eric Niiler and Nic Coury</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 09:00:22 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra Nevada Region (US)</category>
+    </item>
     <item>
       <title>U.S. Cuts Colorado River Water for Arizona, California and Nevada</title>
       <link>https://www.nytimes.com/2026/08/21/climate/colorado-river-water-cuts-drought.html</link>
@@ -158,20 +172,6 @@
       <media:content height="1674" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X.jpg" width="1674"></media:content>
       <media:credit>Lisi Niesner/Reuters</media:credit>
       <media:description>A combine harvester threshing wheat in a field in Seeluebbe, Germany, this month. Yields in the country are down for several crops, including wheat, because of drought and heat.</media:description>
-    </item>
-    <item>
-      <title>Wildfires Are Turning Forests in the American West Into Shrubland</title>
-      <link>https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/23/climate/wildfire-forest-loss-california-southwest.html" rel="standout"></atom:link>
-      <description>Towering woodlands in the West are being permanently replaced by tracts of spiky shrubs. Conditions “just aren’t normal anymore,” one researcher said.</description>
-      <dc:creator>Eric Niiler and Nic Coury</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 09:00:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sierra Nevada Region (US)</category>
     </item>
     <item>
       <title>England’s Ancient Trees Are Dying in the Heat</title>
