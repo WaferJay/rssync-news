@@ -3,17 +3,36 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1787464228571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 05:50:28 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 04:24:40 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 07:07:30 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 05:54:30 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Two Phoenix Police Officers Fired and Arrested After Violent Traffic Stop</title>
+      <link>https://www.nytimes.com/2026/08/23/us/phoenix-police-arrests-traffic-stop.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/us/phoenix-police-arrests-traffic-stop.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/us/phoenix-police-arrests-traffic-stop.html" rel="standout"></atom:link>
+      <description>The officers are accused of beating a couple and shocking them with a stun gun during an unreported traffic stop this month.</description>
+      <dc:creator>Dan Watson and Michael Levenson</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 05:54:30 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Police Brutality, Misconduct and Shootings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stun Guns</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Kidnapping and Hostages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Phoenix (Ariz)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tempe (Ariz)</category>
+      <media:content height="1681" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23xp-phoenix-police-zhjf/23xp-phoenix-police-zhjf-mediumSquareAt3X.jpg" width="1681"></media:content>
+      <media:credit>Ross D. Franklin/Associated Press</media:credit>
+      <media:description>The Phoenix police department said that two of its officers had been fired and arrested, after they approached a couple in a police S.U.V. and allegedly attacked them.</media:description>
+    </item>
     <item>
       <title>Jackie Kennedy Onassis’ Private Beach on Martha&#39;s Vineyard Is Open to All. But It’s a Hike.</title>
       <link>https://www.nytimes.com/2026/08/23/us/kennedy-estate-marthas-vineyard-conservation.html</link>
@@ -400,29 +419,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21dc-visa-ruling-wpbg/21dc-visa-ruling-wpbg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anna Watts for The New York Times</media:credit>
       <media:description>Travelers arriving from international flights outside the U.S. Customs and Border Protection exit at Kennedy International Airport in New York last year.</media:description>
-    </item>
-    <item>
-      <title>Alfalfa Sprouts Linked to Illnesses in 15 States, F.D.A. Says</title>
-      <link>https://www.nytimes.com/2026/08/21/us/alfalfa-sprouts-recall-salmonella-ecoli.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/us/alfalfa-sprouts-recall-salmonella-ecoli.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/us/alfalfa-sprouts-recall-salmonella-ecoli.html" rel="standout"></atom:link>
-      <description>Officials are investigating after multiple strains of E. coli and a type of salmonella sickened dozens of people across the United States. Two people were infected with both salmonella and E. coli.</description>
-      <dc:creator>Ishani Desai</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 02:07:23 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Contamination and Poisoning</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E Coli (Bacteria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Salmonella (Bacteria)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Centers for Disease Control and Prevention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wisconsin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="">alfalfa sprouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sprouts (Seed)</category>
-      <media:content height="1280" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21xp-sprouts-bthp/21xp-sprouts-bthp-mediumSquareAt3X.jpg" width="1278"></media:content>
-      <media:credit>St Petersburg Times/Zuma Press Wire, via Reuters</media:credit>
-      <media:description>Public health officials have tied a number of salmonella and E. coli cases to alfalfa sprouts produced by a company in Minnesota.</media:description>
     </item>
   </channel>
 </rss>
