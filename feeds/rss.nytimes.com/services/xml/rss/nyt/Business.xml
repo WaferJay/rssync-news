@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 03:23:52 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 02:49:26 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:03:22 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 04:01:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
+      <link>https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html" rel="standout"></atom:link>
+      <description>The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
+      <media:description>Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek.</media:description>
+    </item>
     <item>
       <title>Trump’s Top Trade Representative Details Offer That Canada Rejected</title>
       <link>https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html</link>
@@ -995,26 +1012,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Commerce and Payments</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00biz-openrouter-stripe-hfo-cvtw/00biz-openrouter-stripe-hfo-cvtw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dado Ruvic/Reuters</media:credit>
-    </item>
-    <item>
-      <title>Rebel Ice Cream Files for Bankruptcy After Van Leeuwen Wins Packaging Suit</title>
-      <link>https://www.nytimes.com/2026/08/19/business/rebel-ice-cream-bankruptcy-van-leeuwen-lawsuit.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/business/rebel-ice-cream-bankruptcy-van-leeuwen-lawsuit.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/business/rebel-ice-cream-bankruptcy-van-leeuwen-lawsuit.html" rel="standout"></atom:link>
-      <description>The announcement comes less than a month after a federal judge ordered Rebel to pay nearly $24 million to Van Leeuwen for copying the design of its containers.</description>
-      <dc:creator>Neil Vigdor</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 16:53:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ice Cream and Frozen Desserts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trademarks and Trade Names</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Containers and Packaging</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Van Leeuwen Artisan Ice Cream</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Rebel Creamery LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
     </item>
   </channel>
 </rss>
