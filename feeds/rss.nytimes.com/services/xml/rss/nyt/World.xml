@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 14:42:25 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 14:37:13 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 15:40:58 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 15:38:28 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -222,14 +222,13 @@
       <dc:creator>Ian Austen</dc:creator>
       <pubDate>Sat, 22 Aug 2026 20:35:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-carney-SUB-pfhq/22int-canada-carney-SUB-pfhq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Doyle/The Canadian Press, via Associated Press</media:credit>
       <media:description>Prime Minister Mark Carney of Canada said that he had pulled negotiators out of trade talks with the United States because the Trump administration had “asked too much and offered too little.”</media:description>
@@ -243,9 +242,12 @@
       <dc:creator>Motoko Rich</dc:creator>
       <pubDate>Sat, 22 Aug 2026 15:22:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bajani, Andrea (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Anniversary: A Novel (Book)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Italy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Families and Family Life</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/world/00int-italy-bajani-oooo/00int-italy-bajani-oooo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Marilla Sicilia/Mondadori Portfolio, via Getty Images</media:credit>
       <media:description>Andrea Bajani in Rome last year. An English translation of his best-selling novel, “The Anniversary,” will be published on Tuesday.</media:description>
@@ -280,10 +282,11 @@
       <pubDate>Sun, 23 Aug 2026 07:15:52 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-analysis-SUB-hpcv/22int-canada-trade-analysis-SUB-hpcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Doyle/The Canadian Press, Associated Press</media:credit>
       <media:description>Mark Carney, Canada’s prime minister, said on Saturday that “Canada is becoming stronger and less dependent on America.”</media:description>
@@ -318,7 +321,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/23/briefing/a-murder-trial-in-massachusetts.html" rel="standout"></atom:link>
       <description>How the trial of Lindsay Clancy has become a proxy for how people view society’s ills.</description>
       <dc:creator>Shaila Dewan</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 11:31:06 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 15:30:19 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
@@ -355,7 +358,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html" rel="standout"></atom:link>
       <description>In an interview, Jamieson Greer, President Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.</description>
       <dc:creator>Ana Swanson</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 12:39:05 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 14:43:23 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
