@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 20:40:47 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 20:00:35 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:51:33 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 18:12:53 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -211,6 +211,27 @@
       <media:description>Last year the Food and Drug Administration cut a program that tracked cyclospora outbreaks and delayed a rule that would have required companies to swiftly provide supply chain records in investigations of foodborne disease outbreaks.</media:description>
     </item>
     <item>
+      <title>Nearly 40,000 Eye Drop Bottles Are Recalled Over Potential Contamination</title>
+      <link>https://www.nytimes.com/2026/08/23/health/eye-drops-recalled.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/health/eye-drops-recalled.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/health/eye-drops-recalled.html" rel="standout"></atom:link>
+      <description>Federal safety regulators said the maker of Clear Eyes Maximum Itchy Eye Relief voluntarily recalled the drops because of a “lack of assurance of sterility.”</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 18:12:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
+      <category domain="">Clear Eyes Maximum Itchy Eye Relief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Prestige Brand Holdings,</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyes and Eyesight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Medicine and Health</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Drug Administration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23xp-recall-01-zwbt/23xp-recall-01-zwbt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Demetrius Freeman for The New York Times</media:credit>
+      <media:description>The Food and Drug Administration said the eye drops were being recalled over a “lack of assurance of sterility.”</media:description>
+    </item>
+    <item>
       <title>5 Surprising Signs of Aging</title>
       <link>https://www.nytimes.com/2026/08/21/well/more-aging-signs.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/well/more-aging-signs.html</guid>
@@ -409,22 +430,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/09/multimedia/09xp-jalapenos-pbcj/09xp-jalapenos-pbcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Fred Ramos for The New York Times</media:credit>
       <media:description>The Taylor Farms processing plant in Doctor Mora, Guanajuato, Mexico. The F.D.A. is investigating a food-borne parasite outbreak linked to shredded lettuce traced to the facility.</media:description>
-    </item>
-    <item>
-      <title>Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61</title>
-      <link>https://www.nytimes.com/2026/08/09/science/maura-l-gillison-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/09/science/maura-l-gillison-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/09/science/maura-l-gillison-dead.html" rel="standout"></atom:link>
-      <description>She challenged the conventional view that most head and neck cancers resulted from cigarette smoking and excessive alcohol consumption.</description>
-      <dc:creator>Jeré Longman</dc:creator>
-      <pubDate>Mon, 10 Aug 2026 15:58:12 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gillison, Maura L (1965-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Papillomavirus (HPV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Head and Neck Cancer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">MD Anderson Cancer Center</category>
     </item>
   </channel>
 </rss>
