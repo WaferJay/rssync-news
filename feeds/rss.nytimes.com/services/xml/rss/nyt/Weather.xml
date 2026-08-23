@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 15:42:17 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 09:39:19 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:46:44 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 15:50:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>‘Heat Dome’ to Bring Dangerous and Prolonged Heat Wave to Southern States</title>
+      <link>https://www.nytimes.com/2026/08/23/weather/southwest-heat-wave.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/weather/southwest-heat-wave.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/weather/southwest-heat-wave.html" rel="standout"></atom:link>
+      <description>Even after sunset, there will be little relief, as much of the South is expected to remain above 80 degrees for several nights in a row.</description>
+      <dc:creator>Nazaneen Ghaffar</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 15:46:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/23/weather/2026-08-23-outlooks-index-promo/2026-08-23-outlooks-index-promo-mediumSquareAt3X-v7.jpg" width="1000"></media:content>
+      <media:credit>The New York Times</media:credit>
+    </item>
     <item>
       <title>Tropical Storm Moke Threatens to Bring Up to a Foot of Rain to Hawaii</title>
       <link>https://www.nytimes.com/2026/08/22/weather/hawaii-moke-storm-rain-flood.html</link>
@@ -332,20 +347,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15storm-lala-quiet-atlantic-kfqt/15storm-lala-quiet-atlantic-kfqt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brandon Bell/Getty Images</media:credit>
       <media:description>Tropical Storm Arthur made landfall in Freeport, Texas, in June, flooding neighborhoods and becoming the first named tropical storm of the 2026 Atlantic hurricane season.</media:description>
-    </item>
-    <item>
-      <title>Aircraft That Typically Track Atlantic Storms Are Flying Into Lala</title>
-      <link>https://www.nytimes.com/2026/08/16/weather/hawaii-lala-tropical-storm-hurricane-hunters.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/16/weather/hawaii-lala-tropical-storm-hurricane-hunters.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/16/weather/hawaii-lala-tropical-storm-hurricane-hunters.html" rel="standout"></atom:link>
-      <description>With Atlantic activity down this season, rare Pacific missions are being undertaken to better understand the storm skirting Hawaii.</description>
-      <dc:creator>Judson Jones</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 11:58:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15storm-lala-hurricane-hunters-jlbt/15storm-lala-hurricane-hunters-jlbt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Zack Wittman for The New York Times</media:credit>
-      <media:description>NOAA’s Hurricane Hunter flight team piloted a plane through Tropical Storm Helene in 2024.</media:description>
     </item>
   </channel>
 </rss>

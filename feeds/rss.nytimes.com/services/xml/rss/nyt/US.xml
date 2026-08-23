@@ -7,13 +7,28 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 15:38:50 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 15:07:34 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 16:43:52 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 16:29:55 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Fire Near Reno, Nev., Prompts Evacuations of Homes and Hospitals</title>
+      <link>https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/us/hawk-fire-reno-evacuations.html" rel="standout"></atom:link>
+      <description>The Hawk fire has burned more than 10,000 acres and is encroaching on the northern part of the city, causing the governor to issue a state of emergency.</description>
+      <dc:creator>Bernard Mokam</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 16:29:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Reno (Nev)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23nat-reno-fire-01-lkbv/23nat-reno-fire-01-lkbv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Simon Jowitt/UGC, via Reuters</media:credit>
+      <media:description>Smoke rising from the Hawk fire in Reno, Nev., on Saturday.</media:description>
+    </item>
     <item>
       <title>Jeffries and Kushner Meet Privately as Midterm Attacks Fly</title>
       <link>https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html</link>
@@ -226,8 +241,16 @@
       <description>Gov. Mike Braun called on the local utility to “match the urgency” of Gary area residents who have had to endure an outage approaching its second week.</description>
       <dc:creator>Robert Chiarito, Jack Healy and Amy Graff</dc:creator>
       <pubDate>Sun, 23 Aug 2026 04:06:10 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gary (Ind)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portage (Ind)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Northern Indiana Public Service Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Poverty</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Braun, Michael (1954- )</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22nat-gary-power-cthw/22nat-gary-power-cthw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jamie Kelter Davis for The New York Times</media:credit>
       <media:description>As the sun set, the streets remained without power in neighborhoods across Gary, Ind., on Saturday.</media:description>
@@ -257,16 +280,17 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/us/politics/nancy-kassebaum-dead.html" rel="standout"></atom:link>
       <description>A moderate Republican from Kansas, she served three terms before tiring of political strife. “I couldn’t get elected today,” she said in 2013.</description>
       <dc:creator>Adam Clymer</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 20:28:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <pubDate>Sat, 22 Aug 2026 20:28:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kassebaum, Nancy Landon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate Committee on Health, Education, Labor and Pensions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baker, Howard H Jr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kassebaum, Nancy Landon</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landon, Alfred M (1887-1987)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
       <media:content height="1005" medium="image" url="https://static01.nyt.com/images/2022/03/17/obituaries/00kassebaum-01/00kassebaum-01-mediumSquareAt3X.jpg" width="1004"></media:content>
       <media:credit>Stephen Crowley/The New York Times</media:credit>
       <media:description>Senator Nancy Kassebaum in 1995, outside her office on Capitol Hill. During the first of her three terms, she was the only woman in the Senate.</media:description>
@@ -314,21 +338,15 @@
       <description>Race preparations have snarled traffic, rerouted flights and forced the National Gallery of Art to conduct vibration tests.</description>
       <dc:creator>Karoun Demirjian</dc:creator>
       <pubDate>Sun, 23 Aug 2026 09:41:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Racing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delays (Transportation)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Freedom 250 (Nonprofit)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Indy Racing League</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Gallery of Art</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Reagan, Ronald, Washington National Airport</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Smithsonian Institution</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Washington (DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Semiquincentennial (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">National Mall (Washington, DC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Museums</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23vid-grand-prix-race-cover-zbtv/23vid-grand-prix-race-cover-zbtv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Alex Kent/The New York Times</media:credit>
     </item>
@@ -401,23 +419,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21nat-la-royals-wbjg/21nat-la-royals-wbjg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Dylan Martinez/Reuters</media:credit>
       <media:description>The Duke and Duchess of Sussex are returning to Britain after spending six years in California chasing their Hollywood dreams.</media:description>
-    </item>
-    <item>
-      <title>In Ohio, Haitians Feel Shaken by Ankle Monitors and Increased ICE Presence</title>
-      <link>https://www.nytimes.com/2026/08/22/us/haiti-tps-springfield-ankle-monitors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/us/haiti-tps-springfield-ankle-monitors.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/22/us/haiti-tps-springfield-ankle-monitors.html" rel="standout"></atom:link>
-      <description>The devices, which will make it easier for authorities to locate immigrants in Springfield if large-scale deportations begin, have intensified a sense of dread.</description>
-      <dc:creator>Miriam Jordan</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 09:02:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration Detention</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Haitian-Americans</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Temporary Protected Status (US Immigration)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ohio</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22nat-immig-ankle-monitors-top-glpm/22nat-immig-ankle-monitors-top-glpm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Maddie McGarvey for The New York Times</media:credit>
-      <media:description>Jonas Julien arrives at the Haitian Support Center in Springfield, Ohio, after reporting to ICE and getting fitted with an ankle monitor on Wednesday.</media:description>
     </item>
   </channel>
 </rss>
