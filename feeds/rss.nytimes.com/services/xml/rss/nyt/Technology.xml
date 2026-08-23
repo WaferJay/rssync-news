@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 03:24:50 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 02:52:23 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:54:12 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 04:01:08 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -90,6 +90,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/podcasts/21hardfork-pause/21hardfork-pause-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Photo Illustration by The New York Times; Photo by Kim Kyung-Hoon/Reuters</media:credit>
+    </item>
+    <item>
+      <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
+      <link>https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html" rel="standout"></atom:link>
+      <description>The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
+      <media:description>Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek.</media:description>
     </item>
     <item>
       <title>Sick of Constant Pings, They’re Sending Texts at the Speed of Carrier Pigeon</title>

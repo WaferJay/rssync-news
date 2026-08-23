@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 04:03:13 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 04:01:08 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 04:53:32 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 04:12:40 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
+    <item>
+      <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
+      <link>https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html" rel="standout"></atom:link>
+      <description>The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.</description>
+      <dc:creator>Andrew Higgins</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 04:01:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
+      <media:description>Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek.</media:description>
+    </item>
     <item>
       <title>Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation</title>
       <link>https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html</link>
@@ -278,23 +295,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mahmoud Illean/Associated Press</media:credit>
       <media:description>Mourners with the body of Kareem Shlaldeh at a hospital in the West Bank city of Hebron, on Friday. </media:description>
-    </item>
-    <item>
-      <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
-      <link>https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html" rel="standout"></atom:link>
-      <description>The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.</description>
-      <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 04:01:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
-      <media:description>Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek.</media:description>
     </item>
     <item>
       <title>Trump’s Top Trade Representative Details Offer That Canada Rejected</title>
@@ -1148,6 +1148,23 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20dc-military-korea-photo-fmcv/20dc-military-korea-photo-fmcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
       <media:description>American and South Korean troops participating in the Ulchi Freedom Shield exercises last year.</media:description>
+    </item>
+    <item>
+      <title>As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?</title>
+      <link>https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html" rel="standout"></atom:link>
+      <description>For weeks, there has been no diplomatic progress, but also no full-scale fighting, as each side seems to believe it can hold out longer than the other.</description>
+      <dc:creator>Yeganeh Torbati</dc:creator>
+      <pubDate>Thu, 20 Aug 2026 17:14:54 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>A butcher in Tehran in July. The United States appears to be betting that putting Iran in a tighter economic stranglehold will succeed where military strikes have not.</media:description>
     </item>
   </channel>
 </rss>
