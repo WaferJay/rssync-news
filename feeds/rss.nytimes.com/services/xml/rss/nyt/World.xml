@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 18:52:06 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 18:33:17 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 20:42:08 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 20:26:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -280,10 +280,8 @@
       <pubDate>Sat, 22 Aug 2026 12:49:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Eton College</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Archie, Earl of Dumbarton</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mountbatten-Windsor, Lilibet Diana</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-uk-harry-schools-photo1-htbj/21int-uk-harry-schools-photo1-htbj-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -308,6 +306,27 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-analysis-SUB-hpcv/22int-canada-trade-analysis-SUB-hpcv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Doyle/The Canadian Press, Associated Press</media:credit>
       <media:description>Mark Carney, Canada’s prime minister, said on Saturday that “Canada is becoming stronger and less dependent on America.”</media:description>
+    </item>
+    <item>
+      <title>The Price of Bread</title>
+      <link>https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html" rel="standout"></atom:link>
+      <description>War, climate shocks and trade disputes are pounding the world’s breadbaskets and pushing the global food system into dangerous territory.</description>
+      <dc:creator>Alicia P.Q. Wittmeyer</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 20:26:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-theworld-breadbasket-01-kwmt-promo/24int-theworld-breadbasket-01-kwmt-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lisi Niesner/Reuters</media:credit>
+      <media:description>A combine harvester in Seeluebbe, Germany, this month.</media:description>
     </item>
     <item>
       <title>A Murder Trial in Massachusetts</title>
@@ -1168,34 +1187,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/20int-arday-1-lzgc/20int-arday-1-lzgc-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Chris Radburn/Agence France-Presse — Getty Images</media:credit>
       <media:description>A makeshift memorial to Jason Arday at the University of Cambridge on Tuesday.</media:description>
-    </item>
-    <item>
-      <title>Trump Tariff Talks Leave Key Canadian Official Hopeful</title>
-      <link>https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/world/canada/trump-carney-tariffs-trade-deal.html" rel="standout"></atom:link>
-      <description>While President Trump has declared that the two countries effectively have a deal, a Canadian trade official said progress continued ahead of the Saturday deadline.</description>
-      <dc:creator>Ian Austen and Ana Swanson</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 14:30:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeBlanc, Dominic (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the United States Trade Representative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aluminum</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-canada-tariffs-deal-mqlb/20int-canada-tariffs-deal-mqlb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mandel Ngan/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Dominic LeBlanc, the Canadian minister in charge of U.S. trade, arriving to meet with Jamieson Greer, the U.S. trade representative, on Thursday in Washington.</media:description>
     </item>
   </channel>
 </rss>
