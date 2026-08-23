@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 13:04:25 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 12:54:46 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 13:45:28 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 13:41:45 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -72,17 +72,14 @@
       <pubDate>Sat, 22 Aug 2026 21:03:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palaces and Castles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Historic Buildings and Sites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hampton Court Palace (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holland, Tom (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="">The Rest is History</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goalhanger</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandbrook, Dominic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Rest is History (Radio Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goalhanger Podcasts LTD</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hampton Court Palace (Great Britain)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-uk-rest-is-history-01-bkmg/22int-uk-rest-is-history-01-bkmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Dominic Sandbrook and Tom Holland last month at Hampton Court Palace in southwest London. The podcast they began during the pandemic now gets about 30 million downloads and streams a month.</media:description>
@@ -94,7 +91,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html" rel="standout"></atom:link>
       <description>Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 12:26:57 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 13:41:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -276,13 +273,16 @@
       <description>The diplomat, John Coale, says his personalized approach gets results and matches the president’s style. Critics contend he is giving up too much to an authoritarian leader.</description>
       <dc:creator>Valerie Hopkins</dc:creator>
       <pubDate>Sat, 22 Aug 2026 14:38:44 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Coale, John P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belarus</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Rights and Human Rights Violations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lukashenko, Aleksandr G</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John Coale</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22belarus-envoy-01-lfmg/22belarus-envoy-01-lfmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mindaugas Kulbis/Associated Press</media:credit>
       <media:description>John Coale, the U.S. special envoy to Belarus, was on hand last year in Lithuania for the arrival of released prisoners from Belarus.</media:description>
@@ -417,7 +417,7 @@
       <description>Maintaining that access to abortion was as much a matter of economic equality as women’s rights, she successfully championed state reimbursement for abortions.</description>
       <dc:creator>Adam Nossiter</dc:creator>
       <pubDate>Sat, 22 Aug 2026 09:02:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yvette Roudy (1929-2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Roudy, Yvette (1929-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
