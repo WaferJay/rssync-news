@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 07:48:28 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 07:15:52 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 09:45:53 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 09:16:36 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -38,7 +38,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html" rel="standout"></atom:link>
       <description>The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.</description>
       <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 04:01:08 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 09:16:36 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
@@ -57,6 +57,7 @@
       <dc:creator>Ian Austen</dc:creator>
       <pubDate>Sat, 22 Aug 2026 20:35:49 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
@@ -312,6 +313,84 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mahmoud Illean/Associated Press</media:credit>
       <media:description>Mourners with the body of Kareem Shlaldeh at a hospital in the West Bank city of Hebron, on Friday. </media:description>
+    </item>
+    <item>
+      <title>Echoing Trump, Latin America’s Leaders Boost Allies Across Borders</title>
+      <link>https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html" rel="standout"></atom:link>
+      <description>With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.</description>
+      <dc:creator>Emma Bubola, Annie Correal and Ana Ionova</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 09:01:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noboa, Daniel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-latam-diplo-bmhl/23int-latam-diplo-bmhl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ettore Chiereguini/Associated Press</media:credit>
+      <media:description>President Javier Milei of Argentina, left, with Flávio Bolsonaro, who hopes to be Brazil’s next president, last month. Mr. Milei’s strident support of Mr. Bolsonaro’s candidacy led to a rift with the current Brazilian president.</media:description>
+    </item>
+    <item>
+      <title>The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats</title>
+      <link>https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html" rel="standout"></atom:link>
+      <description>Bad harvests and attacks on trade passages threaten to drive food prices higher.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 09:01:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Agriculture Organization of the United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1674" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X.jpg" width="1674"></media:content>
+      <media:credit>Lisi Niesner/Reuters</media:credit>
+      <media:description>A combine harvester threshing wheat in a field in Seeluebbe, Germany, this month. Yields in the country are down for several crops, including wheat, because of drought and heat.</media:description>
+    </item>
+    <item>
+      <title>Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.</title>
+      <link>https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html" rel="standout"></atom:link>
+      <description>The German actress Collien Fernandes set out to discover who was pretending to be her online and sending men sexually explicit material. Her answer ignited a feminist movement.</description>
+      <dc:creator>Susan Dominus</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 09:00:33 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Fernandes, Collien</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberharassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Impostors (Criminal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Domestic Violence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">#MeToo Movement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/30/magazine/30mag-Fernandes-HP-Promo/30mag-Fernandes-HP-Promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Laura Stevens for The New York Times</media:credit>
     </item>
     <item>
       <title>Trump’s Top Trade Representative Details Offer That Canada Rejected</title>
@@ -1126,62 +1205,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anatolii Stepanov/Reuters</media:credit>
       <media:description>Evacuating a resident from a damaged apartment building in Kyiv, Ukraine, on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Bare Grocery Shelves Are a New Wartime Hardship for Ukrainians</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/ukraine-grocery-stores-shortages.html" rel="standout"></atom:link>
-      <description>After years of pounding power plants and cities, Russia’s air war has taken aim at Ukraine’s supermarket warehouses.</description>
-      <dc:creator>Kim Barker and Oleksandra Mykolyshyn</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:28:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Warehouses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shortages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20ukraine-grocery-add-tpzf/20ukraine-grocery-add-tpzf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Valentyn Ogirenko/Reuters</media:credit>
-      <media:description>Firefighters at the site of a food warehouse hit by a Russian missile strike in the Kyiv region of Ukraine on Thursday.</media:description>
-    </item>
-    <item>
-      <title>Trump’s Order to Cut Military Exercises With South Korea Carries Risks, Experts Say</title>
-      <link>https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/us/politics/trumps-order-military-exercises-risks.html" rel="standout"></atom:link>
-      <description>President Trump’s decision to curtail the military exercises came as allies question the U.S. commitment to longstanding alliances.</description>
-      <dc:creator>Eric Schmitt and Helene Cooper</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:04:19 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kim Jong-un</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20dc-military-korea-photo-fmcv/20dc-military-korea-photo-fmcv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jung Yeon-Je/Agence France-Presse — Getty Images</media:credit>
-      <media:description>American and South Korean troops participating in the Ulchi Freedom Shield exercises last year.</media:description>
-    </item>
-    <item>
-      <title>As Iran and U.S. Settle Into an Uneasy Standoff, Who Will Blink First?</title>
-      <link>https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/world/middleeast/iran-us-war-standoff-hormuz.html" rel="standout"></atom:link>
-      <description>For weeks, there has been no diplomatic progress, but also no full-scale fighting, as each side seems to believe it can hold out longer than the other.</description>
-      <dc:creator>Yeganeh Torbati</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 17:14:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-iran-assess-01-tlhw/20int-iran-assess-01-tlhw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>A butcher in Tehran in July. The United States appears to be betting that putting Iran in a tighter economic stranglehold will succeed where military strikes have not.</media:description>
     </item>
   </channel>
 </rss>
