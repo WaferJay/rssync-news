@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 22 Aug 2026 23:40:36 +0000</lastBuildDate>
-    <pubDate>Sat, 22 Aug 2026 21:27:34 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 02:00:34 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 00:48:19 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/weather/hawaii-moke-storm-rain-flood.html" rel="standout"></atom:link>
       <description>Heavy rain is expected to arrive at the Big Island by Saturday night. The storm comes as Hawaii is still cleaning up from the damage done by Hurricane Lala.</description>
       <dc:creator>Amy Graff</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 21:27:34 +0000</pubDate>
+      <pubDate>Sat, 22 Aug 2026 21:27:35 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
@@ -406,20 +406,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15storm-lala-agriculture-zqbg/15storm-lala-agriculture-zqbg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Stephen Lam/San Francisco Chronicle, via Associated Press</media:credit>
       <media:description>An aerial view of a flooded farm after storms in Haleiwa, Oahu, in March.</media:description>
-    </item>
-    <item>
-      <title>Shelters Open as Lala Advances Toward Hawaii</title>
-      <link>https://www.nytimes.com/2026/08/15/weather/hurricane-lala-shelters.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/15/weather/hurricane-lala-shelters.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/15/weather/hurricane-lala-shelters.html" rel="standout"></atom:link>
-      <description>A mix of tourists and locals began gathering at a high school on Saturday morning.</description>
-      <dc:creator>Orlando Mayorquín and Ishani Desai</dc:creator>
-      <pubDate>Sun, 16 Aug 2026 00:11:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/15storm-lala-shelters-zqwt/15storm-lala-shelters-zqwt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bruce Omori for The New York Times</media:credit>
-      <media:description>Social workers speaking with a person in Hilo, Hawaii, on Friday.</media:description>
     </item>
   </channel>
 </rss>
