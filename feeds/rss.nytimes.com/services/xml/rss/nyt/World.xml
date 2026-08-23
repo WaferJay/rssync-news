@@ -7,29 +7,43 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sun, 23 Aug 2026 09:45:53 +0000</lastBuildDate>
-    <pubDate>Sun, 23 Aug 2026 09:16:36 +0000</pubDate>
+    <lastBuildDate>Sun, 23 Aug 2026 10:44:00 +0000</lastBuildDate>
+    <pubDate>Sun, 23 Aug 2026 09:54:00 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/world</link>
     </image>
     <item>
-      <title>Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again</title>
-      <link>https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html" rel="standout"></atom:link>
-      <description>Rubén Rocha Moya of Sinaloa reversed course a day after returning to office, amid widespread criticism, including from members of his own party.</description>
-      <dc:creator>James Wagner and Lars Dolder</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 05:46:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rocha Moya, Ruben (1949- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
+      <title>Echoing Trump, Latin America’s Leaders Boost Allies Across Borders</title>
+      <link>https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html" rel="standout"></atom:link>
+      <description>With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.</description>
+      <dc:creator>Emma Bubola, Annie Correal and Ana Ionova</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 09:01:52 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noboa, Daniel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-mexico-governor-vpbc/23int-mexico-governor-vpbc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Rashide Frias/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Rubén Rocha Moya in 2024.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-latam-diplo-bmhl/23int-latam-diplo-bmhl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ettore Chiereguini/Associated Press</media:credit>
+      <media:description>President Javier Milei of Argentina, left, with Flávio Bolsonaro, who hopes to be Brazil’s next president, last month. Mr. Milei’s strident support of Mr. Bolsonaro’s candidacy led to a rift with the current Brazilian president.</media:description>
     </item>
     <item>
       <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
@@ -47,27 +61,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
       <media:description>Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek.</media:description>
-    </item>
-    <item>
-      <title>Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation</title>
-      <link>https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html" rel="standout"></atom:link>
-      <description>Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 20:35:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-carney-SUB-pfhq/22int-canada-carney-SUB-pfhq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Patrick Doyle/The Canadian Press, via Associated Press</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada said that he had pulled negotiators out of trade talks with the United States because the Trump administration had “asked too much and offered too little.”</media:description>
     </item>
     <item>
       <title>How Two British Historians Made a Smash Hit Podcast</title>
@@ -93,6 +86,114 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-uk-rest-is-history-01-bkmg/22int-uk-rest-is-history-01-bkmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrew Testa for The New York Times</media:credit>
       <media:description>Dominic Sandbrook and Tom Holland last month at Hampton Court Palace in southwest London. The podcast they began during the pandemic now gets about 30 million downloads and streams a month.</media:description>
+    </item>
+    <item>
+      <title>What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.</title>
+      <link>https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html" rel="standout"></atom:link>
+      <description>Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 09:44:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coats and Jackets</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/23/world/23int-canada-tariffs-combo/23int-canada-tariffs-combo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jennifer Gauthier/Reuters; Reuters; Getty Images </media:credit>
+    </item>
+    <item>
+      <title>The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats</title>
+      <link>https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html" rel="standout"></atom:link>
+      <description>Bad harvests and attacks on trade passages threaten to drive food prices higher.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 09:01:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Agriculture Organization of the United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1674" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X.jpg" width="1674"></media:content>
+      <media:credit>Lisi Niesner/Reuters</media:credit>
+      <media:description>A combine harvester threshing wheat in a field in Seeluebbe, Germany, this month. Yields in the country are down for several crops, including wheat, because of drought and heat.</media:description>
+    </item>
+    <item>
+      <title>U.S.-Canada Trade War: What to Know About Tariffs and the Negotiations</title>
+      <link>https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html" rel="standout"></atom:link>
+      <description>Canada suspended trade negotiations, triggering President Trump’s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate “dollar for dollar.”</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 09:47:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States-Mexico-Canada Agreement</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aluminum</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-trade-wwk-1-ztkm/22int-canada-trade-wwk-1-ztkm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chris Tanouye/Reuters</media:credit>
+      <media:description>In a powerful speech on Saturday, Prime Minister Mark Carney of Canada said the country was under attack by President Trump’s tariffs and “at war” with the United States.</media:description>
+    </item>
+    <item>
+      <title>Mexican Governor Accused by U.S. of Aiding Cartel Leaves Office, Again</title>
+      <link>https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/americas/governor-ruben-rocha-moya-sinaloa-mexico.html" rel="standout"></atom:link>
+      <description>Rubén Rocha Moya of Sinaloa reversed course a day after returning to office, amid widespread criticism, including from members of his own party.</description>
+      <dc:creator>James Wagner and Lars Dolder</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 05:46:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rocha Moya, Ruben (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-mexico-governor-vpbc/23int-mexico-governor-vpbc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Rashide Frias/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Rubén Rocha Moya in 2024.</media:description>
+    </item>
+    <item>
+      <title>Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation</title>
+      <link>https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html" rel="standout"></atom:link>
+      <description>Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.</description>
+      <dc:creator>Ian Austen</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 20:35:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-carney-SUB-pfhq/22int-canada-carney-SUB-pfhq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Patrick Doyle/The Canadian Press, via Associated Press</media:credit>
+      <media:description>Prime Minister Mark Carney of Canada said that he had pulled negotiators out of trade talks with the United States because the Trump administration had “asked too much and offered too little.”</media:description>
     </item>
     <item>
       <title>Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.</title>
@@ -187,24 +288,6 @@
       <media:description>John Coale, the U.S. special envoy to Belarus, was on hand last year in Lithuania for the arrival of released prisoners from Belarus.</media:description>
     </item>
     <item>
-      <title>Canada-U.S. Trade War Escalates as Talks Collapse</title>
-      <link>https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html" rel="standout"></atom:link>
-      <description>Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.</description>
-      <dc:creator>Matina Stevis-Gridneff, Ian Austen and Ana Swanson</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 16:33:59 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-canada-tariffs-lgpc/21int-canada-tariffs-lgpc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Greg Locke/Reuters</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada said he suspended the trade talks because the American side introduced last-minute terms that ”called into question the reliability of any deal.”</media:description>
-    </item>
-    <item>
       <title>Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital</title>
       <link>https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html</guid>
@@ -226,151 +309,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-japan-capital-gtfl/22int-japan-capital-gtfl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>Looking out across the city of Sapporo, in Hokkaido, Japan.</media:description>
-    </item>
-    <item>
-      <title>Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job</title>
-      <link>https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html" rel="standout"></atom:link>
-      <description>After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back and faced much criticism.</description>
-      <dc:creator>James Wagner</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 17:20:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rocha Moya, Ruben (1949- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-mexico-governor-bhpv/21int-mexico-governor-bhpv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Eduardo Verdugo/Associated Press</media:credit>
-      <media:description>Rubén Rocha Moya, the governor of Sinaloa state, during an annual earthquake drill in Culiacán, Mexico, in 2024.</media:description>
-    </item>
-    <item>
-      <title>At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’</title>
-      <link>https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html" rel="standout"></atom:link>
-      <description>Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.</description>
-      <dc:creator>Cassandra Vinograd and Oleksandr Chubko</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 14:43:07 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/00int-ukraine-walkers-vqlh/00int-ukraine-walkers-vqlh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Cassandra Vinograd/The New York Times</media:credit>
-      <media:description>Nina Ivanova at an evacuation center in Sloviansk, Ukraine. She and her daughters took their chances on the road, as countless Ukrainians have done before them all along the front line.</media:description>
-    </item>
-    <item>
-      <title>Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says</title>
-      <link>https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html" rel="standout"></atom:link>
-      <description>Mohammad Bagher Ghalibaf, lead negotiator in talks with Washington, made the comments after President Trump vowed an “economic D-Day” against Iran.</description>
-      <dc:creator>Aurelien Breeden</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 14:41:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-iran-economy-01-vhbg/21int-iran-economy-01-vhbg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>In Tehran last month. Before the latest round of sanctions was announced, Iranians were already contending with sky-high inflation and other economic hardships.</media:description>
-    </item>
-    <item>
-      <title>Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village</title>
-      <link>https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html" rel="standout"></atom:link>
-      <description>Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory.</description>
-      <dc:creator>Adam Rasgon</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 18:32:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miliband, Edward S</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saar, Gideon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mahmoud Illean/Associated Press</media:credit>
-      <media:description>Mourners with the body of Kareem Shlaldeh at a hospital in the West Bank city of Hebron, on Friday. </media:description>
-    </item>
-    <item>
-      <title>Echoing Trump, Latin America’s Leaders Boost Allies Across Borders</title>
-      <link>https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/23/world/americas/latin-america-leaders-trump.html" rel="standout"></atom:link>
-      <description>With cheers, endorsements and insults for rivals and “wokismo,” a new crop of right-wing leaders are openly stepping into one another’s elections.</description>
-      <dc:creator>Emma Bubola, Annie Correal and Ana Ionova</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 09:01:52 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bukele, Nayib</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Da Silva, Luiz Inacio Lula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hegseth, Pete</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milei, Javier</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noboa, Daniel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rubio, Marco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brazil</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colombia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Peru</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Latin America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">El Salvador</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-latam-diplo-bmhl/23int-latam-diplo-bmhl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ettore Chiereguini/Associated Press</media:credit>
-      <media:description>President Javier Milei of Argentina, left, with Flávio Bolsonaro, who hopes to be Brazil’s next president, last month. Mr. Milei’s strident support of Mr. Bolsonaro’s candidacy led to a rift with the current Brazilian president.</media:description>
-    </item>
-    <item>
-      <title>The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats</title>
-      <link>https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html" rel="standout"></atom:link>
-      <description>Bad harvests and attacks on trade passages threaten to drive food prices higher.</description>
-      <dc:creator>Somini Sengupta</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 09:01:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Agriculture Organization of the United Nations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <media:content height="1674" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X.jpg" width="1674"></media:content>
-      <media:credit>Lisi Niesner/Reuters</media:credit>
-      <media:description>A combine harvester threshing wheat in a field in Seeluebbe, Germany, this month. Yields in the country are down for several crops, including wheat, because of drought and heat.</media:description>
     </item>
     <item>
       <title>Someone Was Impersonating Collien Fernandes Online. She Says It Was Her Husband.</title>
@@ -494,6 +432,51 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Seasons and Months</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Summer (Season)</category>
+    </item>
+    <item>
+      <title>Canada-U.S. Trade War Escalates as Talks Collapse</title>
+      <link>https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html" rel="standout"></atom:link>
+      <description>Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.</description>
+      <dc:creator>Matina Stevis-Gridneff, Ian Austen and Ana Swanson</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 16:33:59 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-canada-tariffs-lgpc/21int-canada-tariffs-lgpc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Greg Locke/Reuters</media:credit>
+      <media:description>Prime Minister Mark Carney of Canada said he suspended the trade talks because the American side introduced last-minute terms that ”called into question the reliability of any deal.”</media:description>
+    </item>
+    <item>
+      <title>Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job</title>
+      <link>https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html" rel="standout"></atom:link>
+      <description>After U.S. prosecutors accused Gov. Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense. On Friday, he declared he was back and faced much criticism.</description>
+      <dc:creator>James Wagner</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 17:20:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Sinaloa (Mexico)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rocha Moya, Ruben (1949- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Crime</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Abuse and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bribery and Kickbacks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Morena (Mexican Political Party)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Justice Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-mexico-governor-bhpv/21int-mexico-governor-bhpv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Eduardo Verdugo/Associated Press</media:credit>
+      <media:description>Rubén Rocha Moya, the governor of Sinaloa state, during an annual earthquake drill in Culiacán, Mexico, in 2024.</media:description>
     </item>
     <item>
       <title>Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists</title>
@@ -716,6 +699,25 @@
       <media:description>China is requiring nine automakers to take measures to improve the reliability of retractable door handles popular on electric vehicles.</media:description>
     </item>
     <item>
+      <title>Palestinian Teenager Killed After Israeli Settlers Enter West Bank Village</title>
+      <link>https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/middleeast/palestinian-teenager-killed-israeli-settlers-west-bank.html" rel="standout"></atom:link>
+      <description>Palestinian and Israeli authorities offered divergent accounts of the incident, which came as settler violence has surged across the Israeli-occupied territory.</description>
+      <dc:creator>Adam Rasgon</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 18:32:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israeli Settlements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Miliband, Edward S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Saar, Gideon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hebron (West Bank)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21WestBank-attack-01-cwhm/21WestBank-attack-01-cwhm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Mahmoud Illean/Associated Press</media:credit>
+      <media:description>Mourners with the body of Kareem Shlaldeh at a hospital in the West Bank city of Hebron, on Friday. </media:description>
+    </item>
+    <item>
       <title>Why China Thinks It Can Resist Trump’s Economic Threats on Iran</title>
       <link>https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/asia/china-iran-trump-economic-threats.html</guid>
@@ -741,6 +743,28 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-china-iran-analysis-01-pthw/21int-china-iran-analysis-01-pthw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Go Nakamura/Reuters</media:credit>
       <media:description>Oil storage tanks and facilities in Shanghai in March. China has large stockpiles of oil that make it less vulnerable to energy supply disruptions.</media:description>
+    </item>
+    <item>
+      <title>Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says</title>
+      <link>https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html" rel="standout"></atom:link>
+      <description>Mohammad Bagher Ghalibaf, lead negotiator in talks with Washington, made the comments after President Trump vowed an “economic D-Day” against Iran.</description>
+      <dc:creator>Aurelien Breeden</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 14:41:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-iran-economy-01-vhbg/21int-iran-economy-01-vhbg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+      <media:description>In Tehran last month. Before the latest round of sanctions was announced, Iranians were already contending with sky-high inflation and other economic hardships.</media:description>
     </item>
     <item>
       <title>Giorgia Meloni Has a Lot to Say: The Takeaways</title>
@@ -845,6 +869,25 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/world/00int-argentina-disease-promo/00int-argentina-disease-03-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sebastián López Brach for The New York Times</media:credit>
       <media:description>Preparing a dose of the Candid #1 vaccine against Argentine hemorrhagic fever at Carrasco Hospital in Rosario, Argentina.</media:description>
+    </item>
+    <item>
+      <title>At 77, She Walked 9 Miles Under Drone-Filled Skies to Escape From ‘Hell’</title>
+      <link>https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/world/europe/ukraine-lyman-donetsk-donbas-russia.html" rel="standout"></atom:link>
+      <description>Rescue teams no longer enter the city of Lyman, in eastern Ukraine, because it is deemed too dangerous. The only way out is a terrifying journey on foot.</description>
+      <dc:creator>Cassandra Vinograd and Oleksandr Chubko</dc:creator>
+      <pubDate>Fri, 21 Aug 2026 14:43:07 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lyman (Ukraine)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/00int-ukraine-walkers-vqlh/00int-ukraine-walkers-vqlh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Cassandra Vinograd/The New York Times</media:credit>
+      <media:description>Nina Ivanova at an evacuation center in Sloviansk, Ukraine. She and her daughters took their chances on the road, as countless Ukrainians have done before them all along the front line.</media:description>
     </item>
     <item>
       <title>Return of Harry and Meghan to U.K. Renews Questions About Their Security Fears</title>
@@ -1152,59 +1195,6 @@
       <media:content height="1660" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-harry-meghan-wtk-kcmv/20int-harry-meghan-wtk-kcmv-mediumSquareAt3X.jpg" width="1660"></media:content>
       <media:credit>Pool photo by Jonathan Brady</media:credit>
       <media:description>Prince Harry and Meghan visiting Bondi Beach in Sydney, Australia, in April.</media:description>
-    </item>
-    <item>
-      <title>A Prince at 26: Once-Secret Son of Belgian Royal Gains Legal Recognition</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/prince-laurent-belgium-clement-son.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/europe/prince-laurent-belgium-clement-son.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/prince-laurent-belgium-clement-son.html" rel="standout"></atom:link>
-      <description>Clément Vandenkerckhove was born to Belgium’s Prince Laurent before his marriage. He is now a prince himself, though he is not expected to have royal duties.</description>
-      <dc:creator>John Yoon and Alexandra E. Petri</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 16:57:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Laurent, Prince of Belgium</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Belgium</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Vandenkerckhove, Clement (2000- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20xp-belgium-son/20xp-belgium-son-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Belgaimage, via Reuters</media:credit>
-    </item>
-    <item>
-      <title>After Six Years, Harry and Meghan Are Coming Home. What Changed?</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/harry-meghan-britain-return.html" rel="standout"></atom:link>
-      <description>Just last year, Prince Harry said he couldn’t imagine ever bringing his family back to Britain.</description>
-      <dc:creator>Michael D. Shear</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 01:08:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Markle, Meghan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles III, King of the United Kingdom</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">William, Prince of Wales</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/world/20int-uk-harry-assess-uuuu/20int-uk-harry-assess-uuuu-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Pool photo by Jonathan Brday</media:credit>
-      <media:description>Prince Harry and his wife, Meghan, in Sydney, Australia, in April.</media:description>
-    </item>
-    <item>
-      <title>Missile Barrage Shows Russia’s Doubt That Ukraine Can Defend Itself</title>
-      <link>https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/world/europe/ukraine-kyiv-missiles-russia-war.html" rel="standout"></atom:link>
-      <description>Moscow is taking advantage of Ukraine’s depleted stock of interceptors and is intensifying attacks, worsening the civilian death toll.</description>
-      <dc:creator>Constant Méheut</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 14:20:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kyiv (Ukraine)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20int-ukraine-strikes-01-vglb/20int-ukraine-strikes-01-vglb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Anatolii Stepanov/Reuters</media:credit>
-      <media:description>Evacuating a resident from a damaged apartment building in Kyiv, Ukraine, on Thursday.</media:description>
     </item>
   </channel>
 </rss>
