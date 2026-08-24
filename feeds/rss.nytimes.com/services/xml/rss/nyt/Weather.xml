@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 17:50:06 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 16:29:55 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:06:53 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 19:02:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -42,7 +42,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/24/world/asia/indonesia-el-nino-borneo-fire.html" rel="standout"></atom:link>
       <description>The unusual weather pattern and dried out peatlands, a kind of wetland, have been behind some of the country’s worst fire seasons. This year could be one.</description>
       <dc:creator>Max Kim and Muktita Suhartono</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 04:01:06 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 18:14:15 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Borneo (Indonesia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Borneo (Malaysia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
@@ -72,6 +72,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deserts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Park Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23xp-death-valley1-cwlz/23xp-death-valley1-cwlz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mario Tama/Getty Images</media:credit>
       <media:description>A French tourist and a companion who were traveling through Death Valley National Park became stranded after their car got stuck on a remote road. </media:description>
@@ -88,8 +89,36 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/23/weather/2026-08-23-outlooks-index-promo/2026-08-23-outlooks-index-promo-mediumSquareAt3X-v23.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/23/weather/2026-08-23-outlooks-index-promo/2026-08-23-outlooks-index-promo-mediumSquareAt3X-v25.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats</title>
+      <link>https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/climate/wheat-harvests-bread-prices-war-heat.html" rel="standout"></atom:link>
+      <description>Bad harvests and attacks on trade passages threaten to drive food prices higher.</description>
+      <dc:creator>Somini Sengupta</dc:creator>
+      <pubDate>Sun, 23 Aug 2026 18:02:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Food and Agriculture Organization of the United Nations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Black Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Red Sea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <media:content height="1674" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/00int-breadbaskets-1-ljwv/00int-breadbaskets-1-ljwv-mediumSquareAt3X-v2.jpg" width="1674"></media:content>
+      <media:credit>Lisi Niesner/Reuters</media:credit>
+      <media:description>A combine harvester threshing wheat in a field in Seeluebbe, Germany, this month. Yields in the country are down for several crops, including wheat, because of drought and heat.</media:description>
     </item>
     <item>
       <title>Moke Weakens to a Tropical Depression but Threatens Hawaii With Heavy Rain</title>
@@ -341,22 +370,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/16/multimedia/16storm-lala-pahala-isolated-hqcj/16storm-lala-pahala-isolated-hqcj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Jill K. Briggs/Agence France-Presse — Getty Images</media:credit>
       <media:description>Hawaii Department of Transportation workers inspect road damage caused by Hurricane Lala in Pahala on Sunday.</media:description>
-    </item>
-    <item>
-      <title>Hurricane Lala Batters Hilo, Hawaii, Destroying Homes and Leaving Thousands Without Power</title>
-      <link>https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/weather/hurricane-lala-hawaii-hilo-impact.html" rel="standout"></atom:link>
-      <description>The city on the eastern side of the island of Hawaii flooded on Saturday night, and powerful winds toppled branches onto homes and power lines.</description>
-      <dc:creator>Orlando Mayorquín</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 04:45:41 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hilo (Hawaii)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/16/multimedia/16storm-lala-hilo-hawaii-aftermath-pmhl/16storm-lala-hilo-hawaii-aftermath-pmhl-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bruce Omori for The New York Times</media:credit>
-      <media:description>Soccer fields in Hilo flooded as heavy rains from Hurricane Lala inundated parts of the island of Hawaii on Saturday.</media:description>
     </item>
   </channel>
 </rss>
