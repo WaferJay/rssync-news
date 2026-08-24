@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 15:01:31 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 14:22:17 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:56:39 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 15:48:41 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -41,7 +41,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html" rel="standout"></atom:link>
       <description>Companies like Google and Microsoft have used their money, their might and their massive reach to influence nearly every step of the education supply chain.</description>
       <dc:creator>Natasha Singer</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 11:13:40 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 15:46:53 +0000</pubDate>
       <category domain="">Big Tech</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Learning</category>
@@ -67,17 +67,20 @@
       <description>With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.</description>
       <dc:creator>Shane Goldmacher</dc:creator>
       <pubDate>Mon, 24 Aug 2026 13:32:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donalds, Byron (1978- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23data-centers-promo-hp-hltm/23data-centers-promo-hp-hltm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Aubrey Trinnaman for The New York Times</media:credit>
     </item>
@@ -558,28 +561,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/17/business/17biz-openai-nvidia/17biz-openai-nvidia-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brian Kaiser/Bloomberg</media:credit>
       <media:description>Workers at the construction site for a data center in Piketon, Ohio, that will be built by a subsidiary of SoftBank and leased to OpenAI.</media:description>
-    </item>
-    <item>
-      <title>AI Slop Is Everywhere. Spotify, LinkedIn and Others Have Had Enough.</title>
-      <link>https://www.nytimes.com/2026/08/17/technology/ai-slop.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/technology/ai-slop.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/technology/ai-slop.html" rel="standout"></atom:link>
-      <description>Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.</description>
-      <dc:creator>Tiffany Hsu</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 15:15:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">LinkedIn Corporation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spotify</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spam (Electronic)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/business/00biz-ai-slop/00biz-ai-slop-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lia Sued C.</media:credit>
     </item>
   </channel>
 </rss>
