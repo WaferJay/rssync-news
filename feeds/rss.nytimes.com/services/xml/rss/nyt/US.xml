@@ -7,13 +7,38 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 05:06:36 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 04:16:10 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 07:29:37 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 07:16:55 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>California Cancels Talks With Paramount Over Warner Bros. Merger</title>
+      <link>https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html" rel="standout"></atom:link>
+      <description>Rob Bonta, California’s attorney general, accused Paramount of leaking and misrepresenting earlier settlement discussions. He is leading a group of 12 states that have sued to block the $111 billion deal.</description>
+      <dc:creator>Laurel Rosenhall</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 07:16:55 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Attorneys General</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cable Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Paramount Skydance</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Warner Bros Discovery</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bonta, Rob (1972- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bass, Karen Ruth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Becerra, Xavier</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24nat-paramount-kpqf/24nat-paramount-kpqf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Daniel Cole/Reuters</media:credit>
+      <media:description>California’s attorney general, Rob Bonta, announced last month that he and 11 other state attorneys general would sue to block Paramount’s $111 billion acquisition of Warner Bros. Discovery.</media:description>
+    </item>
     <item>
       <title>AIPAC Wants to Back This Republican, but He Has Some Reservations</title>
       <link>https://www.nytimes.com/2026/08/24/us/politics/aipac-rogers-michigan-senate.html</link>
@@ -400,23 +425,6 @@
       <media:content height="1158" medium="image" url="https://static01.nyt.com/images/2026/09/20/multimedia/20Smith-Sidebar--wcvk/20Smith-Sidebar--wcvk-mediumSquareAt3X.jpg" width="1158"></media:content>
       <media:credit>Associated Press</media:credit>
       <media:description>Heirens in 1946, the year he confessed to killing two women and a 6-year-old girl.</media:description>
-    </item>
-    <item>
-      <title>Frank Smith, Who Served 70 Years for Murder, Dies at 101</title>
-      <link>https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html" rel="standout"></atom:link>
-      <description>One of the longest-serving prisoners in American history, he was sent to death row in 1950 before his sentence was commuted to life imprisonment.</description>
-      <dc:creator>Richard Sandomir</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 13:32:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Smith, Frank (1924-2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prisons and Prisoners</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Capital Punishment</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ex-Convicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Connecticut</category>
     </item>
   </channel>
 </rss>
