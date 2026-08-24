@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 20:48:46 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 20:46:47 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 21:48:28 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 21:20:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -97,14 +97,13 @@
       <description>In his first foreign trip since taking office, the British prime minister pledged to stand by Kyiv despite new warnings of potential consequences.</description>
       <dc:creator>Michael D. Shear, Adam Goldman and Jeanna Smialek</dc:creator>
       <pubDate>Mon, 24 Aug 2026 17:47:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zelensky, Volodymyr</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Andy Burnham</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-uk-russia-ukraine-kqzv-vblg/24int-uk-russia-ukraine-kqzv-vblg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Henry Nicholls</media:credit>
       <media:description>Prime Minister Andy Burnham of Britain on Monday at the tomb of the unknown soldier at Ukraine’s national military memorial cemetery in Hatne, southwest of Kyiv.</media:description>
@@ -114,9 +113,9 @@
       <link>https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html" rel="standout"></atom:link>
-      <description>Analysts say Tehran could intensify the dispute militarily after attempts to squeeze its economy. An Iranian official vowed “not a single drop of oil” would leave the Gulf.</description>
-      <dc:creator>Aaron Boxerman and Sanam Mahoozi</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 19:21:09 +0000</pubDate>
+      <description>Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy.  One Iranian official vowed that “not a single drop of oil” would leave the gulf.</description>
+      <dc:creator>Aaron Boxerman, Sanam Mahoozi and Ephrat Livni</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 21:12:01 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -175,10 +174,9 @@
       <description>Marcos Rodríguez Pantoja’s improbable story of a wild youth became the subject of a study, and inspired a novel and film.</description>
       <dc:creator>Ephrat Livni</dc:creator>
       <pubDate>Mon, 24 Aug 2026 20:11:30 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez Pantoja, Marcos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez Pantoja, Marcos (1946-2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wolves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-spain-wolfboy01-photo-cvpm/23int-spain-wolfboy01-photo-cvpm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
       <media:description>Marcos Rodríguez Pantoja, right, in Madrid in 2010 at the premiere of “Among Wolves,” a film based on his life, with Juan José Ballesta, left, and Manuel Camacho, the actors who played him as an adult and child.</media:description>
@@ -293,6 +291,25 @@
       <media:description>Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek.</media:description>
     </item>
     <item>
+      <title>A New Effort to Punish Iran</title>
+      <link>https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/world/iran-sanctions-threat-economy-ukraine.html" rel="standout"></atom:link>
+      <description>The Trump administration says it will try to cut the country off from the global economy by targeting its trading partners.</description>
+      <dc:creator>Alicia P.Q. Wittmeyer</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 20:48:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Burnham, Andrew M (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cusk, Rachel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-theworld-iran-sanctions-01-wjmg-promo/25int-theworld-iran-sanctions-01-wjmg-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+    </item>
+    <item>
       <title>Iceland’s Murder Rate Is Off the Charts (in Its Books, at Least)</title>
       <link>https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/books/iceland-crime-fiction.html</guid>
@@ -393,8 +410,9 @@
       <atom:link href="https://www.nytimes.com/2026/08/23/world/canada/canada-us-trade-war-trump-carney.html" rel="standout"></atom:link>
       <description>Canada suspended trade negotiations, triggering President Trump’s 50 percent tariffs on a range of Canadian goods. Mark Carney said he would retaliate “dollar for dollar.”</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 09:47:28 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 20:54:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
@@ -1179,29 +1197,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/00int-meloni-profile-01-tmfc/00int-meloni-profile-01-tmfc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Davide Monteleone for The New York Times</media:credit>
       <media:description>Prime Minister Giorgia Meloni of Italy at Palazzo Chigi in Rome last month.</media:description>
-    </item>
-    <item>
-      <title>Rare South American Diseases Offer Clues on the Next Pandemic</title>
-      <link>https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/americas/rare-south-american-diseases-climate-change-pandemics.html" rel="standout"></atom:link>
-      <description>Ebola virus, hantavirus and the pathogen that causes Covid-19 likely jumped from animals to humans. So do these viruses — and scientists say climate change is speeding their spread.</description>
-      <dc:creator>Zane Irwin, Lucía Cholakian Herrera and Sebastián López Brach</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 16:06:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mosquitoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hantavirus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ebola Virus</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Argentina</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Rosario (Argentina)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South America</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rodents</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/world/00int-argentina-disease-promo/00int-argentina-disease-03-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sebastián López Brach for The New York Times</media:credit>
-      <media:description>Preparing a dose of the Candid #1 vaccine against Argentine hemorrhagic fever at Carrasco Hospital in Rosario, Argentina.</media:description>
     </item>
   </channel>
 </rss>
