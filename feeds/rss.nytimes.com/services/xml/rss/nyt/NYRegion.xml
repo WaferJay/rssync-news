@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 22:48:32 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 22:41:57 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:38:49 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 23:31:37 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -168,6 +168,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23met-bike-deaths-wlkp/23met-bike-deaths-wlkp-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Spencer Platt/Getty Images</media:credit>
       <media:description>Seventeen cyclists have died in vehicle collisions in New York City so far this year.</media:description>
+    </item>
+    <item>
+      <title>NYC’s 911 System Had an Outage. Officials Kept Quiet About It.</title>
+      <link>https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html" rel="standout"></atom:link>
+      <description>When a partial breakdown of the system occurred last week, New York City officials did not inform the public.</description>
+      <dc:creator>Chelsia Rose Marcius and Sally Goldenberg</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 23:31:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nine-One-One (911) (Emergency Phone Number)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24met-mamdani-9113-vjfp/24met-mamdani-9113-vjfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dakota Santiago for The New York Times</media:credit>
+      <media:description>A partial outage of the 911 system last week affected hundreds of callers in the Bronx.</media:description>
     </item>
     <item>
       <title>What the Bartender Really Thinks About Your Spritz</title>
@@ -374,29 +392,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/21cul-soca-montano-36-bhzk/21cul-soca-montano-36-bhzk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bennett Raglin/Getty Images</media:credit>
       <media:description>“Journey of a Soca King” opens Saturday and runs to Sept. 12.</media:description>
-    </item>
-    <item>
-      <title>At Famous Funeral Home, the Band Plays On</title>
-      <link>https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/frank-e-campbell-funeral-home-band.html" rel="standout"></atom:link>
-      <description>Frank E. Campbell, the Upper East Side funeral home that caters to the well-known, will host a performance this weekend.</description>
-      <dc:creator>James Barron</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 12:22:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Morgues and Mortuaries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">High Net Worth Individuals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Threats and Threatening Messages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Campbell, Frank E, The Funeral Chapel Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Bureau of Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Upper East Side (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Albany (NY)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21nytoday-qtjv/21nytoday-qtjv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Vincent Tullo for The New York Times</media:credit>
-      <media:description>William Villanova, on the couch, next to a portrait of Frank E. Campbell.</media:description>
     </item>
   </channel>
 </rss>
