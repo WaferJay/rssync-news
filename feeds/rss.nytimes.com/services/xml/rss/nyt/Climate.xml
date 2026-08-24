@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 19:05:20 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 19:02:51 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 20:52:08 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 20:48:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -144,6 +144,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
+    </item>
+    <item>
+      <title>Nevada Sues Trump Administration Over Colorado River Cuts</title>
+      <link>https://www.nytimes.com/2026/08/24/climate/nevada-sues-colorado-river-cuts.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/climate/nevada-sues-colorado-river-cuts.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/climate/nevada-sues-colorado-river-cuts.html" rel="standout"></atom:link>
+      <description>The state seeks to block plans for significant water use restrictions over the next decade.</description>
+      <dc:creator>Scott Dance</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 20:48:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado River</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Reclamation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Water</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nevada</category>
+      <media:content height="1247" medium="image" url="https://static01.nyt.com/images/2026/08/24/climate/24cli-colorado-river/24cli-colorado-river-mediumSquareAt3X.jpg" width="1247"></media:content>
+      <media:credit>L.E. Baskow/Las Vegas Review-Journal, via Getty Images</media:credit>
+      <media:description>Nevada argued in a lawsuit that federal officials did not impose mandatory water restrictions on states in the Colorado River’s upper basin.</media:description>
     </item>
     <item>
       <title>The World’s Breadbaskets Are Getting Pounded by War, Weather and Trade Spats</title>
@@ -1055,20 +1075,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/11CLI-E-MOTORCYCLES-stillpromos-zckl/11CLI-E-MOTORCYCLES-stillpromos-zckl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Asim Hafeez for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>From Nest to Deathbed, Jackie the Eagle Entranced California and Beyond</title>
-      <link>https://www.nytimes.com/2026/08/10/us/jackie-bald-eagle-california-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/10/us/jackie-bald-eagle-california-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/10/us/jackie-bald-eagle-california-dead.html" rel="standout"></atom:link>
-      <description>The bald eagle and her mate gained fame during the pandemic, as a livestream tracked their nesting attempts. She died while being treated for anemia.</description>
-      <dc:creator>Shawn Hubler and Alexandra E. Petri</dc:creator>
-      <pubDate>Tue, 11 Aug 2026 15:07:58 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bald Eagles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Big Bear Lake (Calif)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anemia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
     </item>
   </channel>
 </rss>
