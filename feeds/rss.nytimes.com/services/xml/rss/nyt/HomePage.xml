@@ -3,12 +3,12 @@
   <channel>
     <title>NYT &gt; Top Stories</title>
     <link>https://www.nytimes.com</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/homepage.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 10:57:16 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 10:53:14 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 11:47:21 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 11:29:38 +0000</pubDate>
     <image>
       <title>NYT &gt; Top Stories</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -39,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html" rel="standout"></atom:link>
       <description>The tech giant says it does not sell the devices in Russia, but they are widely available on resale markets. When purchased that way, they are virtually impossible to track.</description>
       <dc:creator>Andrew E. Kramer</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 09:02:44 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 11:19:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
@@ -84,6 +84,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Postal Service (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Roller Coasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24themorning-nl-carney-bqfk/24themorning-nl-carney-bqfk-mediumSquareAt3X-v4.jpg" width="1800"></media:content>
       <media:credit>Chris Tanouye/Reuters</media:credit>
       <media:description>In a speech on Saturday, Prime Minister Mark Carney of Canada said the country was under attack by President Trump’s tariffs and “at war” with the United States.</media:description>
@@ -112,7 +113,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/24/business/oil-prices-bonds-stocks.html" rel="standout"></atom:link>
       <description>Treasury Secretary Scott Bessent is expected to announce an escalation of sanctions aimed at further isolating Iranian trade.</description>
       <dc:creator>The New York Times</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 10:15:11 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 11:14:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
@@ -311,13 +312,48 @@
       <media:description>California’s attorney general, Rob Bonta, announced last month that he and 11 other state attorneys general would sue to block Paramount’s $111 billion acquisition of Warner Bros. Discovery.</media:description>
     </item>
     <item>
+      <title>Washington Post Ordered to Rehire Fired Columnist Karen Attiah</title>
+      <link>https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html" rel="standout"></atom:link>
+      <description>An arbitrator ordered the newspaper to reinstate Karen Attiah, who was fired after posting about “white men who espouse hatred and violence” following Charlie Kirk’s killing.</description>
+      <dc:creator>Benjamin Mullin</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 11:20:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Attiah, Karen (1986- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kirk, Charlie (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Washington Post</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Arbitration, Conciliation and Mediation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20biz-attiah-Karen-Attiah-klfz/20biz-attiah-Karen-Attiah-klfz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Craig Barritt/Getty Images for Glamour</media:credit>
+      <media:description>Karen Attiah in 2018. “This decision confirms what we’ve said from the start: I was doing my job as an opinion writer, and this was wrongful termination,” she said.</media:description>
+    </item>
+    <item>
+      <title>Research Firm’s Founder Explains $6 Million Payment to Fired Forbes Editor</title>
+      <link>https://www.nytimes.com/2026/08/24/business/media/forbes-randall-lane-shook.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/business/media/forbes-randall-lane-shook.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/business/media/forbes-randall-lane-shook.html" rel="standout"></atom:link>
+      <description>RJ Shook of Shook Research said he paid Randall Lane, the former top editor at Forbes, for “services and guidance” in partnering with Forbes and later selling his research firm.</description>
+      <dc:creator>Benjamin Mullin</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 11:03:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Forbes Magazine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Magazines</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/21/business/OakArticle-6a88740c/OakArticle-6a88740c-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Noam Galai/Getty Images</media:credit>
+      <media:description>Randall Lane, the former chief content officer of Forbes.</media:description>
+    </item>
+    <item>
       <title>These Conservatives Want to Be Working Moms. The Manosphere Disapproves.</title>
       <link>https://www.nytimes.com/2026/08/24/us/conservative-women-manosphere-disapproval.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/us/conservative-women-manosphere-disapproval.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/24/us/conservative-women-manosphere-disapproval.html" rel="standout"></atom:link>
       <description>At a conservative center for women leaders, interns told stories about their lives. One said a male classmate told her, “I don’t know if women should be lawyers.”</description>
       <dc:creator>Vivian Yee</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 09:01:51 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 11:26:28 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Conservatism (US Politics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Internships</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
@@ -333,7 +369,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/24/magazine/huckleberry-finn-teachers-students-schools.html" rel="standout"></atom:link>
       <description>I traveled around the country to find out if “Adventures of Huckleberry Finn” still has a place in the classroom.</description>
       <dc:creator>Ruth Franklin</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 09:00:46 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 11:29:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Adventures of Huckleberry Finn (Book)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Reading and Writing Skills (Education)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
