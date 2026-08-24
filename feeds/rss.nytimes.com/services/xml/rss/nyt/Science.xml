@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 14:04:13 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 13:59:02 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:05:02 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 14:55:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -167,6 +167,23 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animal Behavior</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+    </item>
+    <item>
+      <title>Anatomy of an Autonomous Attack: 5 Alarming A.I. Capabilities</title>
+      <link>https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/science/openai-huggingface-alarming-capabilities.html" rel="standout"></atom:link>
+      <description>When OpenAI’s agents went rogue in July, they demonstrated ingenuity and drive beyond what many experts imagined — a dangerous harbinger of what such bots could do in the future.</description>
+      <dc:creator>Dylan Freedman</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 14:55:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Security and Warning Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/science/00-openai-huggingface-explainer-alt-art/00-openai-huggingface-explainer-alt-art-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>The New York Times; source photos by Aaron Wojack and Ulysses Ortega for The New York Times</media:credit>
     </item>
     <item>
       <title>The Ruthless Efficiency of Ultrapotent Street Drugs</title>

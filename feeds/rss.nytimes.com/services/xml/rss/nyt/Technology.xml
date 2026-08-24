@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 14:06:22 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 14:04:33 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 15:01:31 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 14:22:17 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade</title>
+      <link>https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html" rel="standout"></atom:link>
+      <description>Hugging Face, a start-up that was breached by rogue bots from OpenAI, is using the hack to push for openness in A.I. development.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 14:20:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Clement Delangue</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/00biz-hugging-face-02-fjvg/00biz-hugging-face-02-fjvg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brennan Smart for The New York Times</media:credit>
+      <media:description>Clément Delangue, the chief executive of Hugging Face, which is a vocal supporter of open-source artificial intelligence.</media:description>
+    </item>
     <item>
       <title>How Big Tech Captured American Schools</title>
       <link>https://www.nytimes.com/2026/08/23/business/schools-big-tech-google-microsoft.html</link>
@@ -83,24 +103,6 @@
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
     </item>
     <item>
-      <title>Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.</title>
-      <link>https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html" rel="standout"></atom:link>
-      <description>The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk’s SpaceX.</description>
-      <dc:creator>Sri Muppidi, Lauren Hirsch and Erin Griffith</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 00:24:21 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-anthropic-mbzl/21biz-anthropic-mbzl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Don Feria/Associated Press</media:credit>
-      <media:description>From right, Dario Amodei, Anthropic’s chief executive, and Daniela Amodei, an Anthropic co-founder and Mr. Amodei’s sister, at a company conference in May.</media:description>
-    </item>
-    <item>
       <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
       <link>https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html</guid>
@@ -132,6 +134,24 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Roost</category>
       <media:content height="929" medium="image" url="https://static01.nyt.com/images/2026/08/21/technology/22xp-pigeons-PROMO/oakImage-1787350721844-mediumSquareAt3X.png" width="930"></media:content>
       <media:credit>Getty Images</media:credit>
+    </item>
+    <item>
+      <title>Anthropic Could Aim to Raise $100 Billion in Blockbuster I.P.O.</title>
+      <link>https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/21/technology/anthropic-ipo-100-billion.html" rel="standout"></atom:link>
+      <description>The offering could value the five-year-old A.I. start-up at $2 trillion, its bankers have told potential investors, which would exceed Elon Musk’s SpaceX.</description>
+      <dc:creator>Sri Muppidi, Lauren Hirsch and Erin Griffith</dc:creator>
+      <pubDate>Sat, 22 Aug 2026 00:24:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Company Reports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Amodei, Dario</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-anthropic-mbzl/21biz-anthropic-mbzl-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
+      <media:credit>Don Feria/Associated Press</media:credit>
+      <media:description>From right, Dario Amodei, Anthropic’s chief executive, and Daniela Amodei, an Anthropic co-founder and Mr. Amodei’s sister, at a company conference in May.</media:description>
     </item>
     <item>
       <title>TikTok Settles With U.S. Over Child Privacy Concerns for $400 Million</title>
