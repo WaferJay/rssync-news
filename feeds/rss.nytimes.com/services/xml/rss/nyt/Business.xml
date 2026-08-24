@@ -7,13 +7,31 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 15:59:07 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 15:54:24 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:57:45 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 16:44:43 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>How Farmers Are Staying Afloat as Crop Prices Plunge</title>
+      <link>https://www.nytimes.com/2026/08/24/business/farmers-land-value-crop-prices-iowa.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/business/farmers-land-value-crop-prices-iowa.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/business/farmers-land-value-crop-prices-iowa.html" rel="standout"></atom:link>
+      <description>Most U.S. farmers will lose money this year. Landowners and investors are increasingly trying to make money from their land, not what can be grown from it.</description>
+      <dc:creator>Kevin Draper</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 16:44:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00biz-land-value-pkcq/00biz-land-value-pkcq-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>KC McGinnis for The New York Times</media:credit>
+      <media:description>A farm in Castana, Iowa. The per-acre value of farmland in the state has long surpassed the national average.</media:description>
+    </item>
     <item>
       <title>Trump Threatens New 50% Tariffs on Cars, Trucks and Steel as U.S.-Canada Trade War Unfolds</title>
       <link>https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html</link>
@@ -21,7 +39,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/24/business/economy/trump-canada-tariffs.html" rel="standout"></atom:link>
       <description>President Trump vowed to increase tariffs on cars, trucks, auto parts and steel to 50 percent starting Jan. 1, as the countries edged toward a full-blown trade war.</description>
       <dc:creator>Ana Swanson and Tony Romm</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 15:21:53 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 16:44:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
@@ -1005,22 +1023,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
-    </item>
-    <item>
-      <title>A Victory Lap for the Boss of the Pebble Beach Extravaganza</title>
-      <link>https://www.nytimes.com/2026/08/20/business/pebble-beach-concours-sandra-button.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/business/pebble-beach-concours-sandra-button.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/business/pebble-beach-concours-sandra-button.html" rel="standout"></atom:link>
-      <description>The Concours d’Elegance, a showcase of some of the world’s finest cars held over the weekend, was a capstone to Sandra Button’s two decades of leading the organization that puts it on.</description>
-      <dc:creator>Robert C. Yeager and Poppy Lynch</dc:creator>
-      <pubDate>Thu, 20 Aug 2026 09:00:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antique and Classic Cars</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pebble Beach (Calif)</category>
-      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/Biz-Wheels-Pebblebeach-01-bftv/Biz-Wheels-Pebblebeach-01-bftv-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:description>Sandra Button oversees the Concours d’Elegance, a showcase for collector cars ...</media:description>
     </item>
   </channel>
 </rss>

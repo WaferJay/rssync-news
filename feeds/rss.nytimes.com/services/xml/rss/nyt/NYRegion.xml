@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 15:57:23 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 15:35:33 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 16:59:48 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 16:48:29 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/24/nyregion/the-woman-guiding-tourists-through-new-york-citys-worst-day.html" rel="standout"></atom:link>
       <description>Christina Stanton offers a very specific and deeply personal tour of the World Trade Center site to remind visitors what happened 25 years ago.</description>
       <dc:creator>Michael Wilson</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 12:56:14 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 16:48:29 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">September 11 (2001)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Evacuations and Evacuees</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
@@ -61,13 +61,14 @@
       <atom:link href="https://www.nytimes.com/2026/08/23/nyregion/nyc-cycling-bike-deaths.html" rel="standout"></atom:link>
       <description>Those who died were all on e-bikes. Seventeen cyclists have been killed so far this year, and advocate groups said the deaths should be a rallying cry for safety improvements.</description>
       <dc:creator>Debra Kamin and Taylor Robinson</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 01:36:03 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 01:36:04 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Demonstrations, Protests and Riots</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bicycles and Bicycling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23met-bike-deaths-wlkp/23met-bike-deaths-wlkp-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Spencer Platt/Getty Images</media:credit>
       <media:description>Seventeen cyclists have died in vehicle collisions in New York City so far this year.</media:description>
@@ -159,6 +160,26 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21met-usopen-fan-week-qphk/21met-usopen-fan-week-qphk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Graham Dickie/The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Opponents Sue to Stop Mamdani’s City-Owned Grocery Store Plan</title>
+      <link>https://www.nytimes.com/2026/08/24/nyregion/mamdani-nyc-grocery-store-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/nyregion/mamdani-nyc-grocery-store-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/nyregion/mamdani-nyc-grocery-store-lawsuit.html" rel="standout"></atom:link>
+      <description>A business group filed a lawsuit to stop New York City’s plan to open the five grocery stores, a campaign promise of Mayor Zohran Mamdani’s, arguing that it would hurt smaller stores.</description>
+      <dc:creator>Emma G. Fitzsimmons</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 16:41:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supermarkets and Grocery Stores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food Insecurity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Economic Development Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24met-grocery-lawsuit2-tmcf/24met-grocery-lawsuit2-tmcf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Heather Khalifa for The New York Times</media:credit>
+      <media:description>The Multicultural Business Coalition represents the owners of some smaller stores that it says could be hurt by the city-owned grocery stores proposed by Mayor Zohran Mamdani. </media:description>
     </item>
     <item>
       <title>What the Bartender Really Thinks About Your Spritz</title>
@@ -400,18 +421,6 @@
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21met-ramos-billing-flcw/21met-ramos-billing-flcw-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Adam Gray for The New York Times</media:credit>
       <media:description>State Senator Jessica Ramos, a Queens Democrat, has served as chairwoman of the upper chamber’s Labor Committee since 2019.</media:description>
-    </item>
-    <item>
-      <title>Rare Tornado Hits New York City as Storm Drenches Mid-Atlantic</title>
-      <link>https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/nyregion/tornado-storm-long-island-delaware.html" rel="standout"></atom:link>
-      <description>Tornadoes appeared in Queens and on Long Island as flooding disrupted traffic on some highways. A tornado was also confirmed in Delaware.</description>
-      <dc:creator>John Yoon, Ishani Desai, Amy Graff and Hilary Howard</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:06:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Long Island (NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Queens (NYC)</category>
     </item>
   </channel>
 </rss>
