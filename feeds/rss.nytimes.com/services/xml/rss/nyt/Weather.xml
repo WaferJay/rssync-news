@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 19:06:53 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 19:02:51 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:48:06 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 19:47:29 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -78,18 +78,39 @@
       <media:description>A French tourist and a companion who were traveling through Death Valley National Park became stranded after their car got stuck on a remote road. </media:description>
     </item>
     <item>
+      <title>The Price of Bread</title>
+      <link>https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/23/world/wheat-price-iran-war-canada.html" rel="standout"></atom:link>
+      <description>War, climate shocks and trade disputes are pounding the world’s breadbaskets and pushing the global food system into dangerous territory.</description>
+      <dc:creator>Alicia P.Q. Wittmeyer</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 05:53:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-theworld-breadbasket-01-kwmt-promo/24int-theworld-breadbasket-01-kwmt-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Lisi Niesner/Reuters</media:credit>
+      <media:description>A combine harvester in Seeluebbe, Germany, this month.</media:description>
+    </item>
+    <item>
       <title>‘Heat Dome’ to Bring Dangerous and Prolonged Heat Wave to Southern States</title>
       <link>https://www.nytimes.com/2026/08/23/weather/southwest-heat-wave.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/weather/southwest-heat-wave.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/23/weather/southwest-heat-wave.html" rel="standout"></atom:link>
       <description>Even after sunset, there will be little relief, as much of the South is expected to remain above 80 degrees for several nights in a row.</description>
       <dc:creator>Nazaneen Ghaffar</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 10:11:42 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 10:11:43 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southwestern States (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Southern States (US)</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/23/weather/2026-08-23-outlooks-index-promo/2026-08-23-outlooks-index-promo-mediumSquareAt3X-v25.jpg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/23/weather/2026-08-23-outlooks-index-promo/2026-08-23-outlooks-index-promo-mediumSquareAt3X-v27.jpg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -354,22 +375,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/17themorning-nl-TOP-ladder/17themorning-nl-TOP-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ritesh Shukla/Getty Images</media:credit>
       <media:description>Collecting water from a well in a drought-afflicted village in India.</media:description>
-    </item>
-    <item>
-      <title>Hurricane Lala Cuts Off Hawaii Town With Region’s Only Hospital</title>
-      <link>https://www.nytimes.com/2026/08/17/weather/pahala-isolated-kau-hawaii-big-island.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/weather/pahala-isolated-kau-hawaii-big-island.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/weather/pahala-isolated-kau-hawaii-big-island.html" rel="standout"></atom:link>
-      <description>Residents of Pahala were stranded after parts of a key highway collapsed under heavy rain. All roads leading to the town and its hospital, on the southern end of the Big Island, are now blocked.</description>
-      <dc:creator>Francesca Regalado</dc:creator>
-      <pubDate>Mon, 17 Aug 2026 05:28:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pahala (Hawaii)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hospitals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/09/16/multimedia/16storm-lala-pahala-isolated-hqcj/16storm-lala-pahala-isolated-hqcj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jill K. Briggs/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Hawaii Department of Transportation workers inspect road damage caused by Hurricane Lala in Pahala on Sunday.</media:description>
     </item>
   </channel>
 </rss>

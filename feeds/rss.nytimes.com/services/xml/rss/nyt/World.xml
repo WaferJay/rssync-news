@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Mon, 24 Aug 2026 19:03:31 +0000</lastBuildDate>
-    <pubDate>Mon, 24 Aug 2026 19:02:51 +0000</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2026 19:48:37 +0000</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2026 19:32:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -116,7 +116,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html" rel="standout"></atom:link>
       <description>Analysts say Tehran could intensify the dispute militarily after attempts to squeeze its economy. An Iranian official vowed “not a single drop of oil” would leave the Gulf.</description>
       <dc:creator>Aaron Boxerman and Sanam Mahoozi</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 14:04:10 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 19:21:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -169,19 +169,19 @@
     </item>
     <item>
       <title>Man Who Told of a Childhood With Wolves Dies at 80</title>
-      <link>https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dies.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dies.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dies.html" rel="standout"></atom:link>
-      <description>The improbable story of Marcos Rodríguez Pantoja’s wild youth became the subject of a study, as well as inspiring a novel and a film.</description>
+      <link>https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dead.html" rel="standout"></atom:link>
+      <description>Marcos Rodríguez Pantoja’s improbably story of a wild youth became the subject of a study, and inspired a novel and film.</description>
       <dc:creator>Ephrat Livni</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 18:35:57 +0000</pubDate>
+      <pubDate>Mon, 24 Aug 2026 19:32:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rodriguez Pantoja, Marcos</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wolves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-spain-wolfboy01-photo-cvpm/23int-spain-wolfboy01-photo-cvpm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
-      <media:description>Marcos Rodríguez Pantoja, right, in Madrid in 2010 at the premier of “Among Wolves,” a film depicting his life.</media:description>
+      <media:description>Marcos Rodríguez Pantoja, right, in Madrid in 2010 at the premiere of “Among Wolves,” a film based on his life, with Juan José Ballesta, left, and Manuel Camacho, the actors who played him as an adult and child.</media:description>
     </item>
     <item>
       <title>A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?</title>
@@ -280,12 +280,14 @@
       <atom:link href="https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html" rel="standout"></atom:link>
       <description>The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals.</description>
       <dc:creator>Andrew Higgins</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 09:16:36 +0000</pubDate>
+      <pubDate>Sun, 23 Aug 2026 09:16:37 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Money Laundering</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Estonia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Poland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zondacrypto</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Missing Persons</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Maciek Nabrdalik for The New York Times</media:credit>
       <media:description>Nicole Suszek last month with a phone showing a missing-person poster for her older brother, Sylwester Suszek.</media:description>
@@ -333,10 +335,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Grain</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wheat</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Food</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-theworld-breadbasket-01-kwmt-promo/24int-theworld-breadbasket-01-kwmt-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lisi Niesner/Reuters</media:credit>
@@ -483,11 +486,13 @@
       <description>Rubén Rocha Moya of Sinaloa reversed course a day after returning to office, amid widespread criticism, including from members of his own party.</description>
       <dc:creator>James Wagner and Lars Dolder</dc:creator>
       <pubDate>Sun, 23 Aug 2026 14:32:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drug Cartels</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rocha Moya, Ruben (1949- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Sinaloa Cartel</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sheinbaum, Claudia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mexico</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-mexico-governor-vpbc/23int-mexico-governor-vpbc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Rashide Frias/Agence France-Presse — Getty Images</media:credit>
       <media:description>Rubén Rocha Moya in 2024.</media:description>
