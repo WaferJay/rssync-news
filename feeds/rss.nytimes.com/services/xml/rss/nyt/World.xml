@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 10:55:23 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 10:47:25 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 13:21:25 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 13:18:58 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,21 +21,22 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/world/canada/trump-carney-trade-war-tariffs.html" rel="standout"></atom:link>
       <description>Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.</description>
       <dc:creator>Matina Stevis-Gridneff and Ana Swanson</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 09:28:26 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeBlanc, Dominic (1967- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the United States Trade Representative</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <pubDate>Tue, 25 Aug 2026 12:39:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aluminum</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lutnick, Howard W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">LeBlanc, Dominic (1967- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Greer, Jamieson L</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ford, Doug Jr (1964- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Office of the United States Trade Representative</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-trade-ticktok-kwvm/ooint-canada-trade-ticktok-kwvm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Andrej Ivanov/Agence France-Presse — Getty Images</media:credit>
       <media:description>Prime Minister Mark Carney of Canada speaking about the trade dispute with the United States on Monday at the Davie Shipyard in Levis, Quebec.</media:description>
@@ -56,7 +57,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rezaei, Mohsen (1954- )</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-economy-01-qhlp/25int-iran-economy-01-qhlp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-economy-01-qhlp/25int-iran-economy-01-qhlp-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description>Drivers waiting at a taxi station in Tehran last month.</media:description>
     </item>
@@ -93,6 +94,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/15/multimedia/00int-ukraine-tanks-klgz/00int-ukraine-tanks-klgz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
       <media:description>Soldiers replacing the engine of a Leopard tank at a repair and storage facility in the Kharkiv region last month.</media:description>
+    </item>
+    <item>
+      <title>Tornado Rips Through Towns in Southern France</title>
+      <link>https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html" rel="standout"></atom:link>
+      <description>An uncommonly powerful tornado destroyed dozens of homes and knocked out power to about 2,800 households.</description>
+      <dc:creator>Lynsey Chutel and Ségolène Le Stradic</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 12:16:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tornadoes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Occitanie (France)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pomas, France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Aude, France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25france-tornado-01-bmgf/25france-tornado-01-bmgf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Idriss Bigou-Gilles/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Cleaning up after the tornado in Pomas, southwestern France, on Tuesday.</media:description>
     </item>
     <item>
       <title>Christian Convert Who Fled Iran and Was Deported By Trump Finds New Home</title>
@@ -184,13 +203,15 @@
       <description>An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.</description>
       <dc:creator>Andrew E. Kramer and Nicole Tung</dc:creator>
       <pubDate>Mon, 24 Aug 2026 14:24:53 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Zaporizhzhia (Ukraine)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-ukraine-ai-kill-05-pczt-promo/24int-ukraine-ai-kill-05-pczt-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
     </item>
@@ -271,26 +292,20 @@
       <media:description>Prime Minister Andy Burnham of Britain on Monday at the tomb of the unknown soldier at Ukraine’s national military memorial cemetery in Hatne, southwest of Kyiv.</media:description>
     </item>
     <item>
-      <title>Iran Pledges to Defy Trump’s Economic Sanctions</title>
-      <link>https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html" rel="standout"></atom:link>
-      <description>Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy.  One Iranian official vowed that “not a single drop of oil” would leave the gulf.</description>
-      <dc:creator>Aaron Boxerman, Sanam Mahoozi and Ephrat Livni</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 21:12:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <title>U.S. Removes Syria From Its List of Terrorism Sponsors</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/world/middleeast/us-syria-terrorism-list-sanctions.html" rel="standout"></atom:link>
+      <description>The move lifted economic sanctions on the country, raising hopes of further recovery after its brutal civil war.</description>
+      <dc:creator>Raja Abdulrahim</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 13:03:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme National Security Council (Iran)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rezaei, Mohsen (1954- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Agence France-Presse — Getty Images</media:credit>
-      <media:description>Motorists drive past an anti-American billboard in Tehran on Monday. President Trump has threatened Iran with “economic warfare and isolation on an unprecedented scale.” </media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">al-Shara, Ahmed (Abu Mohammad al-Jolani) (1982- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25Syria-US-Sanctions-02-pglc/25Syria-US-Sanctions-02-pglc-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Nanna Heitmann for The New York Times</media:credit>
+      <media:description>A small market in Homs, Syria, in 2025, with the scars of the civil war evident.</media:description>
     </item>
     <item>
       <title>Silence, Wolves and the Wild East: Hiking in Portugal’s Côa Valley</title>
@@ -368,6 +383,28 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23int-spain-wolfboy01-photo-cvpm/23int-spain-wolfboy01-photo-cvpm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pablo Blazquez Dominguez/Getty Images</media:credit>
       <media:description>Marcos Rodríguez Pantoja, right, in Madrid in 2010 at the premiere of “Among Wolves,” a film based on his life, with Juan José Ballesta, left, and Manuel Camacho, the actors who played him as an adult and child.</media:description>
+    </item>
+    <item>
+      <title>Iran Pledges to Defy Trump’s Economic Sanctions</title>
+      <link>https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/world/middleeast/iran-sanctions-economy-us-trump.html" rel="standout"></atom:link>
+      <description>Analysts say Tehran could intensify the dispute militarily after the United States announced new efforts to squeeze Iran’s economy.  One Iranian official vowed that “not a single drop of oil” would leave the gulf.</description>
+      <dc:creator>Aaron Boxerman, Sanam Mahoozi and Ephrat Livni</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 21:12:01 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Supreme National Security Council (Iran)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rezaei, Mohsen (1954- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bessent, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Strait of Hormuz</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-economy-ltpj/24int-iran-economy-ltpj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Agence France-Presse — Getty Images</media:credit>
+      <media:description>Motorists drive past an anti-American billboard in Tehran on Monday. President Trump has threatened Iran with “economic warfare and isolation on an unprecedented scale.” </media:description>
     </item>
     <item>
       <title>A Chinese Robot Beat Usain Bolt’s 100-Meter Record. Should We Be Impressed?</title>
@@ -920,7 +957,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/22/world/asia/india-mass-wedding-scam.html" rel="standout"></atom:link>
       <description>A fraud case, in which dozens of grooms showed up for a wedding that never materialized, is an extreme example of scamming in a marriage industry long prone to it.</description>
       <dc:creator>Suhasini Raj and Francesca Regalado</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 09:00:09 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 12:20:45 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madhya Pradesh (India)</category>
@@ -1172,45 +1209,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-germany-guns-qthk/21int-germany-guns-qthk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bernd Von Jutrczenka/DPA, via Associated Press</media:credit>
       <media:description>“This case shows that we are working on the assumption that the risk level is high,” Alexander Dobrindt, the German interior minister, said at a news conference on Friday.</media:description>
-    </item>
-    <item>
-      <title>Canada-U.S. Tariff Talks Continue as Trump’s Midnight Deadline Looms</title>
-      <link>https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/canada/trump-carney-tariffs-trade-talks.html" rel="standout"></atom:link>
-      <description>Canadian negotiators were in Washington to finalize a deal that would stave off new tariffs and improve the terms of existing ones, but Mark Carney faces a tough sell back home.</description>
-      <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 00:06:18 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-canada-tariffs-deal-1-ltfw/21int-canada-tariffs-deal-1-ltfw-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Carlos Osorio/Reuters</media:credit>
-      <media:description>The ArcelorMittal Dofasco steel plant in Hamilton, Ontario. President Trump hit the Canadian steel industry with tariffs of up to 50 percent last year.</media:description>
-    </item>
-    <item>
-      <title>Prince Harry, Elton John and Others Told to Pay Daily Mail Publisher $13 Million</title>
-      <link>https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/europe/prince-harry-daily-mail-publisher-pay.html" rel="standout"></atom:link>
-      <description>Harry and six other high-profile figures lost a privacy lawsuit against Associated Newspapers. They may eventually have to pay more than twice the initial sum, a judge said.</description>
-      <dc:creator>Stephen Castle</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 18:22:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Newspapers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">London (England)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harry, Duke of Sussex</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">John, Elton</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-UK-HARRY-COURT-kbtf/21int-UK-HARRY-COURT-kbtf-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Henry Nicholls/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Prince Harry leaving the Royal Courts of Justice in London during his trial against Associated Newspapers in January.</media:description>
     </item>
   </channel>
 </rss>
