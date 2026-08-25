@@ -7,13 +7,55 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 17:48:56 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 17:43:18 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:01:54 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 18:58:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/technology</link>
     </image>
+    <item>
+      <title>SpaceX to Spend $100 Billion on New Spaceport in Louisiana</title>
+      <link>https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html" rel="standout"></atom:link>
+      <description>It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.</description>
+      <dc:creator>Ryan Mac</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 17:50:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-spacex-louisiana-sub-wfth/25biz-spacex-louisiana-sub-wfth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Edmund D. Fountain for The New York Times</media:credit>
+      <media:description>Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a new spaceport in his state.</media:description>
+    </item>
+    <item>
+      <title>Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails</title>
+      <link>https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html" rel="standout"></atom:link>
+      <description>Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.</description>
+      <dc:creator>Sheera Frenkel</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 15:45:09 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irregular (AI Co)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lahav, Dan (Tech Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/27/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Victor Arce</media:credit>
+    </item>
     <item>
       <title>After Hugging Face Was Attacked By A.I. Agents, It Embarked on a Crusade</title>
       <link>https://www.nytimes.com/2026/08/24/technology/hugging-face-open-source-ai-attack.html</link>
@@ -62,52 +104,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
     </item>
     <item>
-      <title>The Data Center Backlash Bursts Into the Midterms</title>
-      <link>https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html" rel="standout"></atom:link>
-      <description>With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.</description>
-      <dc:creator>Shane Goldmacher</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 13:32:00 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Advertising</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Abbott, Gregory W (1957- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Donalds, Byron (1978- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Texas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Florida</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/multimedia/23data-centers-promo-hp-hltm/23data-centers-promo-hp-hltm-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Aubrey Trinnaman for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>The U.S. Start-Up Making Low-Cost Interceptors for the Iran War</title>
-      <link>https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html" rel="standout"></atom:link>
-      <description>For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.</description>
-      <dc:creator>Farah Stockman and Ismaeel Naar</dc:creator>
-      <pubDate>Sun, 23 Aug 2026 09:00:20 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Powerus Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00biz-missile-interceptors-01-mjct/00biz-missile-interceptors-01-mjct-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Brendan Hoffman for The New York Times</media:credit>
-    </item>
-    <item>
       <title>E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers</title>
       <link>https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html</guid>
@@ -125,30 +121,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25cli-data-centers-qfvh/25cli-data-centers-qfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Paul Ratje for The New York Times</media:credit>
       <media:description>New homes in a neighborhood on the edge of an enormous Meta A.I. data center under construction in northeast El Paso last month.</media:description>
-    </item>
-    <item>
-      <title>Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails</title>
-      <link>https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html" rel="standout"></atom:link>
-      <description>Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.</description>
-      <dc:creator>Sheera Frenkel</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 15:45:09 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irregular</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dan Lahav</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Small Business</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Victor Arce</media:credit>
     </item>
     <item>
       <title>Laptop Fire on American Airlines Flight Injures at Least One Passenger</title>
