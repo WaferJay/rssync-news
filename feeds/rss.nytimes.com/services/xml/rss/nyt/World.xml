@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 16:02:23 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 15:55:07 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:59:36 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 16:39:59 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html" rel="standout"></atom:link>
       <description>Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.</description>
       <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 15:28:25 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 16:34:25 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
@@ -290,6 +290,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thiel, Peter A</category>
     </item>
     <item>
+      <title>Israeli Lawmaker Smashes Palestinian Monument in West Bank</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/world/middleeast/israel-lawmaker-palestinian-monument.html" rel="standout"></atom:link>
+      <description>Videos showed Israeli troops standing by as Zvi Sukkot attacked the monument with a sledgehammer. The military said soldiers had stopped the demolition.</description>
+      <dc:creator>Adam Rasgon</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 16:38:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">West Bank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Monuments and Memorials (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Palestinians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Vandalism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zvi Sukkot</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Popular Front for the Liberation of Palestine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yamen Faraj</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-westbank-monument-ckfl/25int-westbank-monument-ckfl-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jaafar Ashtiyeh/Agence France-Presse — Getty Images</media:credit>
+      <media:description>The damaged Palestinian monument in the West Bank village of Madama on Tuesday.</media:description>
+    </item>
+    <item>
       <title>‘We’ve Never Seen Anything Like It’: Early Harvest Rattles France’s Wine Industry</title>
       <link>https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html</guid>
@@ -529,10 +552,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Reykjavik (Iceland)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jonasson, Ragnar</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jakobsdottir, Katrin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21tbr-icelandic-crime-zghf/21tbr-icelandic-crime-zghf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/21tbr-icelandic-crime-zghf/21tbr-icelandic-crime-zghf-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sigga Ella for The New York Times</media:credit>
       <media:description>Crime novels on display in a bookstore in Reykjavik, Iceland.</media:description>
     </item>
@@ -1127,28 +1149,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-mexico-governor-bhpv/21int-mexico-governor-bhpv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eduardo Verdugo/Associated Press</media:credit>
       <media:description>Rubén Rocha Moya, the governor of Sinaloa state, during an annual earthquake drill in Culiacán, Mexico, in 2024.</media:description>
-    </item>
-    <item>
-      <title>Turkey Requests Netanyahu’s Arrest, Saying Israel Abused Flotilla Activists</title>
-      <link>https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/middleeast/turkey-netanyahu-arrest-israel.html" rel="standout"></atom:link>
-      <description>Turkey’s request for an Interpol ‘red notice’ came at a time of escalating tensions between the two countries.</description>
-      <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:35:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Israel-Gaza War (2023- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Netanyahu, Benjamin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Interpol (International Criminal Police Organization)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Israel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mediterranean Sea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gaza Strip</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-turkey-netanyahu-1-fwqt/21int-turkey-netanyahu-1-fwqt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dilara Senkaya/Reuters</media:credit>
-      <media:description>A flotilla of about 50 boats carrying humanitarian aid departed Marmaris, Turkey, in May, intending to break the Israeli blockade of Gaza. Israeli forces boarded the boats and detained 400 people.</media:description>
     </item>
   </channel>
 </rss>
