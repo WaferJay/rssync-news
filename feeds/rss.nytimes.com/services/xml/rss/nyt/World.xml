@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 19:00:19 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 18:56:52 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 19:48:38 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 19:43:22 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -44,7 +44,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-economy-sanctions.html" rel="standout"></atom:link>
       <description>Experts warn that a campaign aimed at avoiding military escalation could instead provoke it, as Iranian leaders vow retaliation across the oil-rich Gulf.</description>
       <dc:creator>Erika Solomon and Sanam Mahoozi</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 18:28:39 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 18:28:40 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
@@ -314,7 +314,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html" rel="standout"></atom:link>
       <description>Extreme heat waves this summer have set off an early grape harvest in Champagne and elsewhere in France.</description>
       <dc:creator>Claire Moses and Ségolène Le Stradic</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 15:54:21 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 19:43:22 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
@@ -323,9 +323,9 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Champagne (Wine)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24xp-champagne-pcbh/24xp-champagne-pcbh-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Aurelien Morissard/Associated Press</media:credit>
-      <media:description>Harvesting grapes in the Champagne region of France last week.</media:description>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
+      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/08/25/world/europe/25vid-champagne-france-cover-image/25vid-champagne-france-cover-image-mediumSquareAt3X.jpg" width="1080"></media:content>
+      <media:credit>Agence France-Presse</media:credit>
     </item>
     <item>
       <title>‘I’m Fine With My Body’: Danish Leader Responds to Unsolicited Beauty Advice</title>
@@ -334,12 +334,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/world/europe/denmark-frederiksen-nose-plastic-surgeon.html" rel="standout"></atom:link>
       <description>Prime Minister Mette Frederiksen had just returned from Ukraine when she received a message from a plastic surgeon asking if she wanted to fix her nose.</description>
       <dc:creator>Ali Watkins</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 14:53:25 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 14:53:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Frederiksen, Mette</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Denmark</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Beauty (Concept)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-eafs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25xp-denmark-fkcj/25xp-denmark-fkcj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Hilary Swift for The New York Times</media:credit>
       <media:description>Prime Minister Mette Frederiksen in Copenhagen last year. Elected at 41, she is the youngest person in Danish history to be prime minister.</media:description>
@@ -1097,26 +1098,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22belarus-envoy-01-lfmg/22belarus-envoy-01-lfmg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Mindaugas Kulbis/Associated Press</media:credit>
       <media:description>John Coale, the U.S. special envoy to Belarus, was on hand last year in Lithuania for the arrival of released prisoners from Belarus.</media:description>
-    </item>
-    <item>
-      <title>Missing From a Mass Wedding in India: Brides</title>
-      <link>https://www.nytimes.com/2026/08/22/world/asia/india-mass-wedding-scam.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/world/asia/india-mass-wedding-scam.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/22/world/asia/india-mass-wedding-scam.html" rel="standout"></atom:link>
-      <description>A fraud case, in which dozens of grooms showed up for a wedding that never materialized, is an extreme example of scamming in a marriage industry long prone to it.</description>
-      <dc:creator>Suhasini Raj and Francesca Regalado</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 12:20:45 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">India</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Madhya Pradesh (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weddings and Engagements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rural Areas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Orphans and Orphanages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Modi, Narendra</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Gujarat State (India)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/11/multimedia/00xp-wedding-vlqk/00xp-wedding-vlqk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ajit Solanki/Associated Press</media:credit>
     </item>
   </channel>
 </rss>
