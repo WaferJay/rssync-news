@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 20:50:03 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 20:38:54 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:47:20 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 21:31:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html" rel="standout"></atom:link>
       <description>It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.</description>
       <dc:creator>Ryan Mac</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 19:54:47 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 21:31:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
@@ -31,7 +31,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-spacex-louisiana-sub-wfth/25biz-spacex-louisiana-sub-wfth-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Edmund D. Fountain for The New York Times</media:credit>
-      <media:description>Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a new spaceport in his state.</media:description>
+      <media:description>Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a spaceport in his state.</media:description>
     </item>
     <item>
       <title>Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails</title>
@@ -457,29 +457,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-apple-europe-hqzv/18biz-apple-europe-hqzv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bertrand Langlois/Agence France-Presse — Getty Images</media:credit>
       <media:description>Starting in October, Apple will remove several fees for app developers in the European Union.</media:description>
-    </item>
-    <item>
-      <title>ICE Bars Its Workers From Wearing Meta’s Smart Glasses on the Job</title>
-      <link>https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/technology/ice-meta-smart-glasses.html" rel="standout"></atom:link>
-      <description>The agency joins a growing number of workplaces and groups to ban Meta’s devices, which have spurred privacy concerns.</description>
-      <dc:creator>Eli Tan and Hamed Aleaziz</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 21:53:48 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Eyeglasses</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cameras</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-dhs-meta-glasses-3-hqwz/18biz-dhs-meta-glasses-3-hqwz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Lucia Vazquez for The New York Times</media:credit>
-      <media:description>Meta glasses are seen exhibited at the Meta Lab pop-up store on Fifth Avenue in New York. </media:description>
     </item>
   </channel>
 </rss>

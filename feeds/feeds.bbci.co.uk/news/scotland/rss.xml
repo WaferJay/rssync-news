@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/scotland</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 19:04:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 21:48:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/scotland/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -31,14 +31,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe6e/live/e0719e00-a07b-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Podcaster James English found guilty of domestic abuse]]></title>
-            <description><![CDATA[James English repeatedly attacked the woman between July 2022 and November 2023.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cevwj3znzk4o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cevwj3znzk4o#0</guid>
-            <pubDate>Tue, 25 Aug 2026 14:33:51 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38d0/live/d0bf8660-a095-11f1-91dc-4919512f173f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Police probe after shopkeeper fends off machete-wielding robber]]></title>
             <description><![CDATA[CCTV footage captured the incident at the Day Today store in East Kilbride in broad daylight.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cx2zy2pyex4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -47,12 +39,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e7d4/live/d8971a80-a0a7-11f1-9d94-5b9b42fe99e5.png"/>
         </item>
         <item>
-            <title><![CDATA[Worker jabbed with needle during clean-up after bin lorry fire ]]></title>
-            <description><![CDATA[The fire happened on Oban Drive at about 11:30 and forced the refuse vehicle to dump its rubbish on the street.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ce8e053dg8yo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce8e053dg8yo#0</guid>
-            <pubDate>Tue, 25 Aug 2026 17:47:45 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4037/live/c56fbba0-a0a8-11f1-9d94-5b9b42fe99e5.png"/>
+            <title><![CDATA[Grass fire breaks out near campsite in Moray village]]></title>
+            <description><![CDATA[Lossiemouth Community Council said there were believed to have been some power cuts as a result of the fire.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c24j339j59no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c24j339j59no#0</guid>
+            <pubDate>Tue, 25 Aug 2026 20:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb97/live/1d22e8d0-a0c3-11f1-b8cc-1bd2cc322bf4.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Podcaster James English found guilty of domestic abuse]]></title>
+            <description><![CDATA[James English repeatedly attacked the woman between July 2022 and November 2023.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cevwj3znzk4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cevwj3znzk4o#0</guid>
+            <pubDate>Tue, 25 Aug 2026 14:33:51 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38d0/live/d0bf8660-a095-11f1-91dc-4919512f173f.jpg"/>
         </item>
         <item>
             <title><![CDATA[Man charged following death of woman hit by van]]></title>
@@ -61,6 +61,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckgw5g435qjo#0</guid>
             <pubDate>Tue, 25 Aug 2026 18:53:51 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/855e/live/d9417560-f5ef-11f0-b80d-a572c9b81991.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Worker jabbed with needle during clean-up after bin lorry fire ]]></title>
+            <description><![CDATA[The fire happened on Oban Drive at about 11:30 and forced the refuse vehicle to dump its rubbish on the street.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ce8e053dg8yo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce8e053dg8yo#1</guid>
+            <pubDate>Tue, 25 Aug 2026 17:47:45 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4037/live/c56fbba0-a0a8-11f1-9d94-5b9b42fe99e5.png"/>
         </item>
         <item>
             <title><![CDATA[LASK holds silence for Celtic fan who died during Champions League match]]></title>
@@ -183,12 +191,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad9c/live/f3df54b0-a07a-11f1-bfeb-dfb02ea642ef.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Hospital's paediatric surgery could be suspended until December]]></title>
-            <description><![CDATA[Emergency procedures at Dr Gray's Hospital in Elgin were suspended in June and planned cases last week.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c0rewlgrqp7o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0rewlgrqp7o#3</guid>
-            <pubDate>Tue, 25 Aug 2026 15:55:29 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2fe4/live/58412c70-a09a-11f1-8a1f-314a01485cf4.jpg"/>
+            <title><![CDATA[Grass fire breaks out near campsite in Moray village]]></title>
+            <description><![CDATA[Lossiemouth Community Council said there were believed to have been some power cuts as a result of the fire.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c24j339j59no?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c24j339j59no#3</guid>
+            <pubDate>Tue, 25 Aug 2026 20:50:18 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb97/live/1d22e8d0-a0c3-11f1-b8cc-1bd2cc322bf4.png"/>
         </item>
         <item>
             <title><![CDATA[Man charged following death of woman hit by van]]></title>

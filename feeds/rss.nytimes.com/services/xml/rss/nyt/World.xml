@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 20:49:16 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 20:42:58 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:46:50 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 21:32:46 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -488,14 +488,12 @@
       <dc:creator>Yan Zhuang</dc:creator>
       <pubDate>Tue, 25 Aug 2026 13:26:56 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Running</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Track and Field</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tennis</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bolt, Usain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Unitree Robotics (YuShu Technology Co Ltd)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Beijing (China)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-china-robot-games-cover-lptq/24int-china-robot-games-cover-lptq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Achmad Ibrahim/Associated Press</media:credit>
     </item>
@@ -653,8 +651,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tehran (Iran)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Veiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coffeehouses</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-iran-crackdown-01-gkch/24int-iran-crackdown-01-gkch-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
       <media:description>Iranians at a cafe in Tehran in April.</media:description>
@@ -667,15 +665,13 @@
       <description>The unusual weather pattern and dried out peatlands, a kind of wetland, have been behind some of the country’s worst fire seasons. This year could be one.</description>
       <dc:creator>Max Kim and Muktita Suhartono</dc:creator>
       <pubDate>Mon, 24 Aug 2026 18:14:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Borneo (Indonesia)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Borneo (Malaysia)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildfires</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/00int-indonesia-fires-pbzg/00int-indonesia-fires-pbzg-mediumSquareAt3X-v3.jpg" width="1800"></media:content>
       <media:credit>Abriansyah Liberto/Reuters</media:credit>
       <media:description>A firefighter battles a wildfire in Ogan Ilir, South Sumatra, Indonesia, earlier this month. This fire season, the country has had an unusually high number of hot spots, according to one estimate.</media:description>

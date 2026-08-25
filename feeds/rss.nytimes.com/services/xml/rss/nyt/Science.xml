@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 20:49:32 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 20:11:17 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 21:44:18 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 21:31:12 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -197,7 +197,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html" rel="standout"></atom:link>
       <description>It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.</description>
       <dc:creator>Ryan Mac</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 19:54:47 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 21:31:12 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
@@ -207,7 +207,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Innovation</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-spacex-louisiana-sub-wfth/25biz-spacex-louisiana-sub-wfth-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Edmund D. Fountain for The New York Times</media:credit>
-      <media:description>Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a new spaceport in his state.</media:description>
+      <media:description>Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a spaceport in his state.</media:description>
     </item>
     <item>
       <title>E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers</title>
@@ -343,6 +343,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Batteries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lithium (Metal)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
