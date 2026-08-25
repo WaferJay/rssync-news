@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 07:13:09 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 07:08:08 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:02:14 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 08:36:08 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -47,7 +47,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/world/australia/bird-flu-h5n1-mammals.html" rel="standout"></atom:link>
       <description>Australia confirmed its first case of H5N1 in June in migratory seabirds. Since then, the virus has spread rapidly, straining government responses.</description>
       <dc:creator>Laura Chung</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 04:01:08 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 08:36:08 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wildlife Die-Offs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Birds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Avian Influenza</category>
@@ -83,6 +83,24 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25CHINA-ARTIST-SENTENCE-pgqw/25CHINA-ARTIST-SENTENCE-pgqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Shiho Fukada for The New York Times</media:credit>
       <media:description>Gao Zhen, left, and Gao Qiang, with their artwork, “Mao’s Guilt,” in Beijing in 2009.</media:description>
+    </item>
+    <item>
+      <title>Australia Bans Generative A.I. From Official Music Charts</title>
+      <link>https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/world/australia/australia-ai-music-chart-ban.html" rel="standout"></atom:link>
+      <description>Under new rules, recordings developed using generative A.I. will only be allowed if they are “substantially human-made,” the peak body says.</description>
+      <dc:creator>Laura Chung</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 08:04:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Audio Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">International Federation of the Phonographic Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-oz-music-01-zqvm/25int-oz-music-01-zqvm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Brendon Thorne/Getty Images for ARIA Hall of Fame</media:credit>
+      <media:description>The Australian Recording Industry Association (ARIA), which oversees the charts of the country’s most popular music, said the changes will apply from Friday.</media:description>
     </item>
     <item>
       <title>A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.</title>
@@ -272,25 +290,6 @@
       <media:credit>Achmad Ibrahim/Associated Press</media:credit>
     </item>
     <item>
-      <title>U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands</title>
-      <link>https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html" rel="standout"></atom:link>
-      <description>The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exercise earlier this month.</description>
-      <dc:creator>Choe Sang-Hun</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 09:19:46 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-skorea-us-drill-jpmt/24int-skorea-us-drill-jpmt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Chung Sung-Jun/Getty Images</media:credit>
-      <media:description>South Korean marines participate in the Ssangyong, or “Twin Dragons,” exercise in Pohang, South Korea, in 2024.</media:description>
-    </item>
-    <item>
       <title>U.S. Tariffs Could Price Canadian Firms Out of U.S. and Threaten Thousands of Jobs</title>
       <link>https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/canada/us-tariffs-trade-economy.html</guid>
@@ -331,6 +330,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-theworld-iran-sanctions-01-wjmg-promo/25int-theworld-iran-sanctions-01-wjmg-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>U.S. Marines Cancel Drill With South Korea, Citing Iran War Demands</title>
+      <link>https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/world/asia/us-south-korea-military-drills-iran.html" rel="standout"></atom:link>
+      <description>The move to call off the high-profile event was communicated in June, South Korea said. President Trump shortened another joint military exercise earlier this month.</description>
+      <dc:creator>Choe Sang-Hun</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 09:19:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stockpiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Korea</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24int-skorea-us-drill-jpmt/24int-skorea-us-drill-jpmt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Chung Sung-Jun/Getty Images</media:credit>
+      <media:description>South Korean marines participate in the Ssangyong, or “Twin Dragons,” exercise in Pohang, South Korea, in 2024.</media:description>
     </item>
     <item>
       <title>Iceland’s Murder Rate Is Off the Charts (in Its Books, at Least)</title>
@@ -1187,28 +1205,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-china-iran-analysis-01-pthw/21int-china-iran-analysis-01-pthw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Go Nakamura/Reuters</media:credit>
       <media:description>Oil storage tanks and facilities in Shanghai in March. China has large stockpiles of oil that make it less vulnerable to energy supply disruptions.</media:description>
-    </item>
-    <item>
-      <title>Iran Must Plan to Overcome U.S. Sanctions After Trump’s ‘Economic D-Day’ Threats, Tehran Official Says</title>
-      <link>https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/middleeast/iran-sanctions-united-states-ghalibaf.html" rel="standout"></atom:link>
-      <description>Mohammad Bagher Ghalibaf, lead negotiator in talks with Washington, made the comments after President Trump vowed an “economic D-Day” against Iran.</description>
-      <dc:creator>Aurelien Breeden</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 14:41:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghalibaf, Mohammad Baqer</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baghdad (Iraq)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iraq</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hezbollah</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lebanon</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-iran-economy-01-vhbg/21int-iran-economy-01-vhbg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Arash Khamooshi/Polaris for The New York Times</media:credit>
-      <media:description>In Tehran last month. Before the latest round of sanctions was announced, Iranians were already contending with sky-high inflation and other economic hardships.</media:description>
     </item>
   </channel>
 </rss>
