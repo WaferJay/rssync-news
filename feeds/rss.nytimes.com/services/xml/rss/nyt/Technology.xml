@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 09:54:12 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 09:07:19 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 11:44:55 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 11:09:48 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -114,7 +114,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html" rel="standout"></atom:link>
       <description>Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.</description>
       <dc:creator>Sheera Frenkel</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 09:02:40 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 11:09:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
@@ -488,27 +488,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-dhs-meta-glasses-3-hqwz/18biz-dhs-meta-glasses-3-hqwz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Lucia Vazquez for The New York Times</media:credit>
       <media:description>Meta glasses are seen exhibited at the Meta Lab pop-up store on Fifth Avenue in New York. </media:description>
-    </item>
-    <item>
-      <title>OpenAI Introduces ‘ChatGPT for Teens’ as Safety Concerns Grow</title>
-      <link>https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/technology/chatgpt-for-teens-openai.html" rel="standout"></atom:link>
-      <description>The artificial intelligence start-up announced a chatbot mode that will automatically limit some conversations to better protect young users.</description>
-      <dc:creator>Cecilia Kang</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 14:14:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">ChatGPT</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mental Health and Disorders</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-openai-teens-bmcg/18biz-openai-teens-bmcg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
-      <media:description>A workshop about artificial intelligence at Walla Walla High School in Washington in 2023. ChatGPT will turn on its teen mode if it detects signals that the user is younger than 18, OpenAI said. </media:description>
     </item>
   </channel>
 </rss>
