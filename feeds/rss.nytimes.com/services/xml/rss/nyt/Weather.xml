@@ -7,13 +7,30 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 21:44:36 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 21:32:46 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 22:50:04 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 22:02:35 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>The Next Tropical Storm Will Share Dolly Parton’s Name</title>
+      <link>https://www.nytimes.com/2026/08/25/weather/tropical-storm-dolly.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/weather/tropical-storm-dolly.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/weather/tropical-storm-dolly.html" rel="standout"></atom:link>
+      <description>Dolly Parton died on Tuesday. The next tropical storm in the Atlantic will, coincidentally, carry her name.</description>
+      <dc:creator>Judson Jones</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 22:02:35 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parton, Dolly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlantic Ocean</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
+      <media:content height="1307" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25wea-dolly/25wea-dolly-mediumSquareAt3X.jpg" width="1307"></media:content>
+      <media:credit>National Oceanic and Atmospheric Administration</media:credit>
+      <media:description>There are two systems in the Atlantic on Tuesday that forecasters said could become named tropical storms this week. The first would be Dolly. </media:description>
+    </item>
     <item>
       <title>MAHA Moms Take On Coal</title>
       <link>https://www.nytimes.com/2026/08/25/climate/climate-maha-moms-coal.html</link>
@@ -357,22 +374,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19Daily-elnino/19Daily-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Bay Ismoyo/Agence France-Presse — Getty Images</media:credit>
       <media:description>Rocks exposed at the bottom of a river in Tangerang, Indonesia, last month. Falling water levels in the region are due in part to El Niño, which has brought a prolonged dry season and led to extreme drought, threatening food security in parts of Indonesia.</media:description>
-    </item>
-    <item>
-      <title>Hurricane Lala Destroyed a Hawaii Cemetery, Setting Off a Hunt for the Dead</title>
-      <link>https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/us/hurricane-lala-hawaii-naalehu-cemetery.html" rel="standout"></atom:link>
-      <description>In the hamlet of Naalehu, the floods of Hurricane Lala opened graves. One mother sought desperately for her son.</description>
-      <dc:creator>Meghan Miner Murray and Madaleine Rubin</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 22:42:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cemeteries</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tombs and Tombstones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/18/us/18nat-hawaii-coffins-02/18nat-hawaii-coffins-02-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Meghan Miner Murray</media:credit>
-      <media:description>The storm turned the small cemetery into torrents of mud, bearing the detritus of death.</media:description>
     </item>
   </channel>
 </rss>
