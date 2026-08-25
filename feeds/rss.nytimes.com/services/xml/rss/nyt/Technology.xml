@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 09:01:16 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 08:35:03 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 09:54:12 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 09:07:19 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -106,6 +106,29 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00biz-missile-interceptors-01-mjct/00biz-missile-interceptors-01-mjct-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Brendan Hoffman for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Why Irregular’s A.I. Tests for Meta, Anthropic and OpenAI Went Off the Rails</title>
+      <link>https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/technology/irregular-ai-test-hacks.html" rel="standout"></atom:link>
+      <description>Irregular, an Israeli start-up, worked with OpenAI, Anthropic and Meta to assess the security of their A.I. models. It made a mistake. Then the tests went off the rails.</description>
+      <dc:creator>Sheera Frenkel</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 09:02:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Irregular</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dan Lahav</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/23/business/00biz-irregular-ai/00biz-irregular-ai-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Victor Arce</media:credit>
     </item>
     <item>
       <title>Laptop Fire on American Airlines Flight Injures at Least One Passenger</title>
@@ -486,86 +509,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18biz-openai-teens-bmcg/18biz-openai-teens-bmcg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ricardo Nagaoka for The New York Times</media:credit>
       <media:description>A workshop about artificial intelligence at Walla Walla High School in Washington in 2023. ChatGPT will turn on its teen mode if it detects signals that the user is younger than 18, OpenAI said. </media:description>
-    </item>
-    <item>
-      <title>Meta to Stand Trial Over Claims It Addicted Children to Social Media</title>
-      <link>https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/technology/meta-social-media-addiction-trial.html" rel="standout"></atom:link>
-      <description>California, Colorado, Kentucky and New Jersey have taken the social media giant to trial in the first bellwether federal case over child harm.</description>
-      <dc:creator>Cecilia Kang, Eli Tan and Emmy Martin</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 04:58:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Freedom of Speech and Expression</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Colorado</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kentucky</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/META-TRIAL-whqk/META-TRIAL-whqk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Jason Henry for The New York Times</media:credit>
-      <media:description>During the trial, to be held in the U.S. District Court of Oakland, Calif., four states are expected to argue that Meta violated federal child privacy and state consumer protection laws. </media:description>
-    </item>
-    <item>
-      <title>Silicon Valley Executives Are Tech Fans. Just Not For Their Own Kids.</title>
-      <link>https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/technology/silicon-valley-tech-fans-children.html" rel="standout"></atom:link>
-      <description>At home, moderation and restraint are the rule for tech parents. Boredom is exalted. Maybe they’re onto something.</description>
-      <dc:creator>David Streitfeld</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 23:37:01 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Screen Time (Device)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Parenting</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Waldorf School of the Peninsula</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Altman, Samuel H</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cook, Timothy D</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chan, Priscilla</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gates, Bill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Palihapitiya, Chamath</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spiegel, Evan</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thiel, Peter A</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/business/00biz-tech-kids/00biz-tech-kids-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
-      <media:credit>Patrick Leger</media:credit>
-    </item>
-    <item>
-      <title>The Blackout That Could Devastate America</title>
-      <link>https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html" rel="standout"></atom:link>
-      <description>The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.</description>
-      <dc:creator>Christopher Cox</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 13:20:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Factories and Manufacturing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data Centers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Energy Regulatory Commission</category>
     </item>
   </channel>
 </rss>
