@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 15:09:50 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 15:07:53 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:03:18 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 16:01:51 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,13 +21,14 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/business/trump-canada-tariffs.html" rel="standout"></atom:link>
       <description>The president has invoked a long dormant section of law to hit one of America’s closest allies, a move that has troubled courts in the past.</description>
       <dc:creator>Tony Romm</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 15:02:00 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 15:54:10 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Court of International Trade</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25dc-tariffs-law-glmp/25dc-tariffs-law-glmp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Doug Mills/The New York Times</media:credit>
       <media:description>President Trump has invoked a little-known statute to impose his latest tariffs on Canada.</media:description>
@@ -187,11 +188,11 @@
       <dc:creator>Rob Copeland and Matthew Goldstein</dc:creator>
       <pubDate>Mon, 24 Aug 2026 21:13:09 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hedge Funds</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Situational Awareness LP</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aschenbrenner, Leopold</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Securities and Exchange Commission</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/00biz-situational-investigation-qjvp/00biz-situational-investigation-qjvp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicholas Albrecht for The New York Times</media:credit>
@@ -225,10 +226,10 @@
       <pubDate>Mon, 24 Aug 2026 20:02:59 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soil</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Bankruptcies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Land Use Policies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iowa</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/07/31/multimedia/00biz-land-value-pkcq/00biz-land-value-pkcq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>KC McGinnis for The New York Times</media:credit>
       <media:description>A farm in Castana, Iowa. The per-acre value of farmland in the state has long surpassed the national average.</media:description>

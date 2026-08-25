@@ -7,13 +7,33 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 15:10:02 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 14:52:28 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 16:04:22 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 15:55:07 +0000</pubDate>
     <image>
       <title>NYT &gt; Weather</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/weather</link>
     </image>
+    <item>
+      <title>‘We’ve Never Seen Anything Like It’: Early Harvest Rattles France’s Wine Industry</title>
+      <link>https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/world/europe/heat-drought-france-champagne.html" rel="standout"></atom:link>
+      <description>Extreme heat waves this summer have set off an early grape harvest in Champagne and elsewhere in France.</description>
+      <dc:creator>Claire Moses and Ségolène Le Stradic</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 15:54:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alcoholic Beverages</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Champagne (Wine)</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24xp-champagne-pcbh/24xp-champagne-pcbh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Aurelien Morissard/Associated Press</media:credit>
+      <media:description>Harvesting grapes in the Champagne region of France last week.</media:description>
+    </item>
     <item>
       <title>Tornado Rips Through Towns in Southern France</title>
       <link>https://www.nytimes.com/2026/08/25/world/europe/tornado-southern-france-pomas.html</link>
@@ -282,7 +302,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/20/weather/two-c-map-path-tracker-index/two-c-map-path-tracker-index-mediumSquareAt3X-v84.jpeg" width="1000"></media:content>
+      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/20/weather/two-c-map-path-tracker-index/two-c-map-path-tracker-index-mediumSquareAt3X-v86.jpeg" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
     </item>
     <item>
@@ -354,23 +374,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/18nat-hi-station-wlgv/18nat-hi-station-wlgv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ronit Fahl for The New York Times</media:credit>
       <media:description>Brandy Field, from Ka’u Radio, helps to set up internet access in Ocean View, Hawaii, on Monday after Hurricane Lala. The storm knocked out power to thousands on the Big Island. </media:description>
-    </item>
-    <item>
-      <title>What We Know About Damage From Hurricane Lala in Hawaii</title>
-      <link>https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/us/hurricane-lala-hawaii-damage.html" rel="standout"></atom:link>
-      <description>The storm narrowly missed land, but its outer bands left the Big Island with power outages, road closures and flooded homes. At least three people have died in the storm.</description>
-      <dc:creator>Christina Morales and Judson Jones</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 14:36:02 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Power Failures and Blackouts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Hawaii (The Big Island)</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/17/multimedia/17nat-lala-WWK-phlb/17nat-lala-WWK-phlb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Bruce Omori for The New York Times</media:credit>
-      <media:description>Damage from the storm in Mountain View on the Big Island of Hawaii. </media:description>
     </item>
   </channel>
 </rss>
