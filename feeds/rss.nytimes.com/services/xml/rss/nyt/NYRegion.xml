@@ -7,31 +7,13 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 01:54:13 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 01:05:38 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 03:22:25 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 01:59:27 +0000</pubDate>
     <image>
       <title>NYT &gt; New York</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/nyregion</link>
     </image>
-    <item>
-      <title>NYC’s 911 System Had an Outage. Officials Kept Quiet About It.</title>
-      <link>https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html" rel="standout"></atom:link>
-      <description>When a partial breakdown of the system occurred last week, New York City officials did not inform the public.</description>
-      <dc:creator>Chelsia Rose Marcius and Sally Goldenberg</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 23:31:37 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nine-One-One (911) (Emergency Phone Number)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24met-mamdani-9113-vjfp/24met-mamdani-9113-vjfp-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Dakota Santiago for The New York Times</media:credit>
-      <media:description>A partial outage of the 911 system last week affected hundreds of callers in the Bronx.</media:description>
-    </item>
     <item>
       <title>The Mayor Went on Vacation. He Didn’t Travel Very Far.</title>
       <link>https://www.nytimes.com/2026/08/24/nyregion/mamdani-mayor-upstate-ny-vacation.html</link>
@@ -51,13 +33,52 @@
       <media:description>Zohran Mamdani and Rama Duwaji, shown casting their votes for mayor last year, recently took a vacation in the Hudson Valley.</media:description>
     </item>
     <item>
+      <title>A $4 Billion Plan to Fix Part of a Crumbling N.Y.C. Highway</title>
+      <link>https://www.nytimes.com/2026/08/24/nyregion/bqe-highway-redesign-2030.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/nyregion/bqe-highway-redesign-2030.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/nyregion/bqe-highway-redesign-2030.html" rel="standout"></atom:link>
+      <description>Officials announced on Monday a plan to overhaul the section of the highway that belongs to New York City. The road needs quick repair to remain safe for driving.</description>
+      <dc:creator>Claire Fahy</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 00:09:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Mike (1979- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moses, Robert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn-Queens Expressway</category>
+      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24met-bqe-bght/24met-bqe-bght-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>The deteriorating Brooklyn-Queens Expressway runs through several dense neighborhoods, which has presented challenges for renovations. </media:description>
+    </item>
+    <item>
+      <title>NYC’s 911 System Had an Outage. Officials Kept Quiet About It.</title>
+      <link>https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/24/nyregion/mamdani-911-outage-nyc.html" rel="standout"></atom:link>
+      <description>When a partial breakdown of the system occurred last week, New York City officials did not inform the public.</description>
+      <dc:creator>Chelsia Rose Marcius and Sally Goldenberg</dc:creator>
+      <pubDate>Mon, 24 Aug 2026 23:31:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nine-One-One (911) (Emergency Phone Number)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bronx (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24met-mamdani-9113-vjfp/24met-mamdani-9113-vjfp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Dakota Santiago for The New York Times</media:credit>
+      <media:description>A partial outage of the 911 system last week affected hundreds of callers in the Bronx.</media:description>
+    </item>
+    <item>
       <title>Gov. Kathy Hochul, Five Years In, Makes Her Case for Four More</title>
       <link>https://www.nytimes.com/2026/08/24/nyregion/kathy-hochul-new-york-governor-anniversary.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/nyregion/kathy-hochul-new-york-governor-anniversary.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/24/nyregion/kathy-hochul-new-york-governor-anniversary.html" rel="standout"></atom:link>
       <description>Ms. Hochul, who ascended to the governorship in the depths of the pandemic, believes that New York is back. She hopes she has persuaded New Yorkers.</description>
       <dc:creator>Grace Ashford</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 22:23:59 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 01:59:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Governors (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Democratic Party</category>
@@ -146,27 +167,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/met-911-tour-guide-01-plmc/met-911-tour-guide-01-plmc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>James Estrin/The New York Times</media:credit>
       <media:description>Christina Stanton leads a North Carolina church youth group on a tour at the 9/11 Memorial reflecting pools. She carries a scrapbook of photos, including those of friends who died on 9/11.</media:description>
-    </item>
-    <item>
-      <title>A $4 Billion Plan to Fix Part of a Crumbling N.Y.C. Highway</title>
-      <link>https://www.nytimes.com/2026/08/24/nyregion/bqe-highway-redesign-2030.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/24/nyregion/bqe-highway-redesign-2030.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/24/nyregion/bqe-highway-redesign-2030.html" rel="standout"></atom:link>
-      <description>Officials announced on Monday a plan to overhaul the section of the highway that belongs to New York City. The road needs quick repair to remain safe for driving.</description>
-      <dc:creator>Claire Fahy</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 00:09:27 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Area Planning and Renewal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Roads and Traffic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transportation Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Flynn, Mike (1979- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mamdani, Zohran</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Moses, Robert</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Brooklyn-Queens Expressway</category>
-      <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/24met-bqe-bght/24met-bqe-bght-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Karsten Moran for The New York Times</media:credit>
-      <media:description>The deteriorating Brooklyn-Queens Expressway runs through several dense neighborhoods, which has presented challenges for renovations. </media:description>
     </item>
     <item>
       <title>What the Bartender Really Thinks About Your Spritz</title>
