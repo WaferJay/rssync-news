@@ -9,19 +9,11 @@
             <link>https://www.bbc.co.uk/news</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Aug 2026 04:59:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2026 05:52:30 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
-        <item>
-            <title><![CDATA[More than 70,000 social and affordable homes to be built across England]]></title>
-            <description><![CDATA[Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cnvly73jrrdo#0</guid>
-            <pubDate>Tue, 25 Aug 2026 00:32:20 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec1/live/bb8353b0-a006-11f1-8317-891a2cbab3c5.jpg"/>
-        </item>
         <item>
             <title><![CDATA[Iran says it is ready for what US calls 'greatest financial offensive ever']]></title>
             <description><![CDATA[The US calls its latest sanctions on Iran an "economic D-Day", but Tehran says it has a plan to counter them.]]></description>
@@ -29,6 +21,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c0qxew81y83o#0</guid>
             <pubDate>Tue, 25 Aug 2026 03:50:06 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de12/live/09a94a20-9fe6-11f1-8ed1-41aaf1fca4f2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[More than 70,000 social and affordable homes to be built across England over 10 years]]></title>
+            <description><![CDATA[Funding has been granted to Greater Manchester, the West Midlands and West Yorkshire as well as £6bn for London. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cnvly73jrrdo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cnvly73jrrdo#0</guid>
+            <pubDate>Tue, 25 Aug 2026 05:41:08 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec1/live/bb8353b0-a006-11f1-8317-891a2cbab3c5.jpg"/>
         </item>
         <item>
             <title><![CDATA[Lockerbie bombing trial postponed days before it was due to start]]></title>
@@ -48,20 +48,20 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b438/live/a8864e40-a009-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
-            <title><![CDATA[UK drone factories may face attacks from 'unknown sources', says Kremlin adviser]]></title>
-            <description><![CDATA[The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cg598m3meeyo#0</guid>
-            <pubDate>Tue, 25 Aug 2026 04:06:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/864d/live/f9140c60-a029-11f1-acc9-bb1a45146942.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[The grieving family who says the coroner's courts aren't working]]></title>
+            <title><![CDATA[The grieving family who say the coroner's courts aren't working]]></title>
             <description><![CDATA[One man's death highlights the growing strains on the UK's coroner's courts]]></description>
             <link>https://www.bbc.co.uk/news/articles/cvgydn9k4p2o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cvgydn9k4p2o#0</guid>
             <pubDate>Mon, 24 Aug 2026 23:09:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c5/live/2ff69860-9fd0-11f1-a291-b542ee92de7c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UK drone factories may face attacks from 'unknown sources', says Kremlin adviser]]></title>
+            <description><![CDATA[The comments on BBC Newsnight come after the UK announced it has agreed to hand over blueprints for British-made missile components to Ukraine.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cg598m3meeyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cg598m3meeyo#0</guid>
+            <pubDate>Tue, 25 Aug 2026 04:06:34 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d447/live/1dffaa20-a048-11f1-a291-b542ee92de7c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Kit Harington joins HBO's Harry Potter series as Gilderoy Lockhart]]></title>
@@ -76,12 +76,12 @@
             <description><![CDATA[Nine men and three women are arrested as police investigate the lead-up to the crash that killed seven people.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c36d6975dzno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c36d6975dzno#0</guid>
-            <pubDate>Mon, 24 Aug 2026 17:53:40 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 05:19:55 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ab/live/93348dd0-9f24-11f1-b109-879e35c24276.png"/>
         </item>
         <item>
-            <title><![CDATA[Home-testing kits now available for women in England who have missed cervical screening]]></title>
-            <description><![CDATA[Nearly 4 million women in England can order a self-testing kits to check for high-risk HPV.]]></description>
+            <title><![CDATA[HPV home-testing kits available for women in England who have missed cervical screening]]></title>
+            <description><![CDATA[Nearly four million women in England can order a self-testing kits to check for high-risk HPV.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c9w4jgg4y55o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c9w4jgg4y55o#0</guid>
             <pubDate>Mon, 24 Aug 2026 23:27:50 GMT</pubDate>
@@ -108,7 +108,7 @@
             <description><![CDATA[The cycling legend tells BBC Scotland that the onus to encourage men to get tested for prostate cancer should not just be on high profile individuals like him.]]></description>
             <link>https://www.bbc.co.uk/sport/cycling/articles/c80nzk7dey4o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/sport/cycling/articles/c80nzk7dey4o#1</guid>
-            <pubDate>Mon, 24 Aug 2026 23:39:36 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 05:24:54 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8759/live/66433610-9faf-11f1-bff6-57f1422ebb0b.jpg"/>
         </item>
         <item>
@@ -116,7 +116,7 @@
             <description><![CDATA[Caroline Bryan died three months after being diagnosed of an incurable cancer linked to asbestos.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwymz2lnx48o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwymz2lnx48o#1</guid>
-            <pubDate>Mon, 24 Aug 2026 21:20:44 GMT</pubDate>
+            <pubDate>Tue, 25 Aug 2026 05:09:12 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1a4/live/4dc0f750-9fa8-11f1-bff6-57f1422ebb0b.jpg"/>
         </item>
         <item>
@@ -176,14 +176,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a852/live/7a015a70-a021-11f1-b3eb-5d1755263a69.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World's oceans hit highest temperature on record as El Niño grows]]></title>
-            <description><![CDATA[The record "is another clear signal of an ocean under growing stress", according to Dr Samantha Burgess from the European Copernicus climate change service.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c62m4gpnp78o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c62m4gpnp78o#3</guid>
-            <pubDate>Mon, 24 Aug 2026 16:27:28 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[US-Canada trade war escalates as Trump threatens tariff hike on vehicles]]></title>
             <description><![CDATA[Mark Carney accused Trump of wanting to "destroy" Canada's auto industry, and said he would only resume trade talks if the US comes with the "right attitude". ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c93vpd60654o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -198,14 +190,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj64282epxpo#3</guid>
             <pubDate>Mon, 24 Aug 2026 20:57:02 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3398/live/e2bbb520-9fb7-11f1-b703-13ae65ccf6b5.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Briton fighting for Russia killed in Ukraine]]></title>
-            <description><![CDATA[Bradley Townsend left South Yorkshire in April, telling his family he was going to Romania.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cy0zry1zk9go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy0zry1zk9go#3</guid>
-            <pubDate>Mon, 24 Aug 2026 16:17:54 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d45/live/19d00870-9fbf-11f1-8648-8d7b77845e6d.png"/>
         </item>
         <item>
             <title><![CDATA[Fast-moving wildfire forces thousands to evacuate near Reno, Nevada]]></title>
