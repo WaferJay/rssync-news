@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Tue, 25 Aug 2026 22:47:26 +0000</lastBuildDate>
-    <pubDate>Tue, 25 Aug 2026 21:53:56 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:39:12 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 23:15:03 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -64,7 +64,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/world/middleeast/artemis-ghasemzadeh-iran-christian-us-deported-canada-asylum.html" rel="standout"></atom:link>
       <description>Artemis Ghasemzadeh, who had escaped religious persecution, was deported to Panama under Trump’s immigration crackdown. Now, Canada has given her asylum.</description>
       <dc:creator>Farnaz Fassihi</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 18:12:05 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 23:03:11 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ghasemzadeh, Artemis</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ansari, Yassamin</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
@@ -306,6 +306,58 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25CHINA-ARTIST-SENTENCE-pgqw/25CHINA-ARTIST-SENTENCE-pgqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Shiho Fukada for The New York Times</media:credit>
       <media:description>Gao Zhen, left, and Gao Qiang, with their artwork, “Mao’s Guilt,” in Beijing in 2009.</media:description>
+    </item>
+    <item>
+      <title>Worker Dies After Accident With Plane at Montreal Airport</title>
+      <link>https://www.nytimes.com/2026/08/25/world/canada/montreal-airport-accident-worker-dead.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/canada/montreal-airport-accident-worker-dead.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/world/canada/montreal-airport-accident-worker-dead.html" rel="standout"></atom:link>
+      <description>The Transportation Safety Board of Canada said the episode involved an Airbus A350 operated by French Bee, a French low-cost airline.</description>
+      <dc:creator>Johnny Diaz</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 23:15:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transport Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal-Trudeau International Airport</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yves Beauchamp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">French Bee</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25xp-montreal/25xp-montreal-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Graham Hughes/NurPhoto, via Getty Images</media:credit>
+      <media:description>The authority that operates Montréal-Trudeau International Airport said a worker employed by Samsic, a company that provides support services, was killed in an accident on Monday.</media:description>
+    </item>
+    <item>
+      <title>U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil</title>
+      <link>https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html" rel="standout"></atom:link>
+      <description>The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.</description>
+      <dc:creator>Zane Irwin</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 22:58:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-sanctions-1-ftzv/25int-iran-sanctions-1-ftzv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Vahid Salemi/Associated Press</media:credit>
+      <media:description>A gas station in Tehran on Tuesday. The United States imposed a monthslong blockade on Iran’s shipments of oil, the nation’s economic engine.</media:description>
     </item>
     <item>
       <title>USA vs. Canada</title>
@@ -1057,40 +1109,6 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21Roudy--01-fbzj/21Roudy--01-fbzj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Eric Feferberg/Agence France-Presse — Getty Images</media:credit>
       <media:description>Yvette Roudy in 2006. After her death, President Emmanuel Macron of France saluted her for “a life spent making equality between men and women a real right” and for her “untiring capacity for indignation.”</media:description>
-    </item>
-    <item>
-      <title>How Two British Historians Made a Smash Hit Podcast</title>
-      <link>https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html" rel="standout"></atom:link>
-      <description>They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys. The rest is history.</description>
-      <dc:creator>Esther Bintliff</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 21:03:54 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Rest is History (Radio Program)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">History (Academic Subject)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Festivals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Holland, Tom (1968- )</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Sandbrook, Dominic</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Goalhanger Podcasts LTD</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hampton Court Palace (Great Britain)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-uk-rest-is-history-01-bkmg/22int-uk-rest-is-history-01-bkmg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Andrew Testa for The New York Times</media:credit>
-      <media:description>Dominic Sandbrook and Tom Holland last month at Hampton Court Palace in southwest London. The podcast they began during the pandemic now gets about 30 million downloads and streams a month.</media:description>
-    </item>
-    <item>
-      <title>How Apartheid Continues to Divide Cape Town</title>
-      <link>https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html</guid>
-      <atom:link href="https://www.nytimes.com/video/world/100000011014101/how-apartheid-continues-to-divide-cape-town.html" rel="standout"></atom:link>
-      <description>Our reporter John Eligon takes a six-mile walk between two townships in Cape Town to show how the barriers left by apartheid still exist 30 years later.</description>
-      <dc:creator>John Eligon, Sutton Raphael, Christina Thornell and Joey Sendaydiego</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 13:42:31 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apartheid (Policy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Eligon, John</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Cape Town (South Africa)</category>
     </item>
   </channel>
 </rss>
