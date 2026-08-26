@@ -3,17 +3,36 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1787744968571" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 10:51:47 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 10:31:54 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 11:49:28 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 11:29:51 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>U.S.S. Abraham Lincoln Sailor Says Father Arrested by Border Patrol Has Been Released</title>
+      <link>https://www.nytimes.com/2026/08/26/us/politics/uss-abraham-lincoln-sailor-father-arrested-immigration-released.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/us/politics/uss-abraham-lincoln-sailor-father-arrested-immigration-released.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/us/politics/uss-abraham-lincoln-sailor-father-arrested-immigration-released.html" rel="standout"></atom:link>
+      <description>Joshua Aviles, a Navy sailor, said his father had been freed days after he was detained as Mr. Aviles returned from a lengthy deployment in the Middle East.</description>
+      <dc:creator>Leo Sands</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 11:29:51 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Navy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Illegal Immigration</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Border Patrol (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Immigration and Customs Enforcement (US)</category>
+      <media:content height="1040" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26trump-news-lincoln-father-jklv/26trump-news-lincoln-father-jklv-mediumSquareAt3X.jpg" width="1040"></media:content>
+      <media:credit>Katherine Delgado, via Associated Press</media:credit>
+      <media:description>Luis Manuel Aviles, left, and Joshua Aviles, in a handout family photo.</media:description>
+    </item>
     <item>
       <title>Even as Trump’s Standing Slips, He Slingshots Darline Graham to Victory</title>
       <link>https://www.nytimes.com/2026/08/26/us/politics/trump-republicans-darline-graham-south-carolina.html</link>
@@ -35,13 +54,13 @@
       <media:description>President Trump hosted a rally on Friday in Myrtle Beach, S.C., for Senator Darline Graham, part of a full-court press on her behalf. </media:description>
     </item>
     <item>
-      <title>Their Children Want to Play Football. Parents Ask: Is It Worth the Risk?</title>
+      <title>Families Debate Whether Children Should Play Football, After New C.T.E. Study</title>
       <link>https://www.nytimes.com/2026/08/26/us/parents-football-cte-decisions.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/us/parents-football-cte-decisions.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/26/us/parents-football-cte-decisions.html" rel="standout"></atom:link>
       <description>Many families are engaged in tense debates after a new study found a high percentage of N.F.L. players had developed degenerative brain disease.</description>
       <dc:creator>Juliet Macur</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 09:04:09 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 11:28:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Interscholastic Athletics</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
@@ -172,7 +191,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alaska</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25nat-TXsurrogate-jhbg/25nat-TXsurrogate-jhbg-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25nat-TXsurrogate-jhbg/25nat-TXsurrogate-jhbg-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>LM Otero/Associated Press</media:credit>
       <media:description>McKenna West, right, after a court hearing in Dallas on Tuesday.</media:description>
     </item>
@@ -857,22 +876,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/25dc-dhs-planes2/25dc-dhs-planes2-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kathleen Flynn for The New York Times</media:credit>
       <media:description>A Boeing 737 that was purchased to be used for deportation flights is parked at Chennault International Airport in Lake Charles, La., on July 25.</media:description>
-    </item>
-    <item>
-      <title>How Do You Feel About the Risks of Youth Football?</title>
-      <link>https://www.nytimes.com/2026/08/25/us/football-parents-cte.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/football-parents-cte.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/us/football-parents-cte.html" rel="standout"></atom:link>
-      <description>A new study shows that N.F.L. players have a high risk for developing degenerative brain disease. Does anyone in your family play football? We want to know your thoughts.</description>
-      <dc:creator>Juliet Macur</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 11:13:39 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Chronic Traumatic Encephalopathy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-reader-callout</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25nat-parents-cte-callout-1-bpjc/25nat-parents-cte-callout-1-bpjc-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Tamir Kalifa for The New York Times</media:credit>
-      <media:description>Some brain researchers encourage delaying the start of tackle football.</media:description>
     </item>
   </channel>
 </rss>
