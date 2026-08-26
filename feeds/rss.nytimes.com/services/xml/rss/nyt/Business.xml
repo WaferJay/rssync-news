@@ -3,17 +3,59 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?1H=AXYx9Aaz" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 13:26:53 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 13:26:04 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 15:52:17 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 15:32:57 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>F.D.A. Approves the Drug Daraxonrasib That’s Poised to Transform Pancreatic Cancer</title>
+      <link>https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html" rel="standout"></atom:link>
+      <description>In a key clinical trial, patients who got the pill, daraxonrasib, lived twice as long as those who got chemotherapy.</description>
+      <dc:creator>Gina Kolata and Rebecca Robbins</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 15:23:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pancreatic Cancer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pancreas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tumors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/07/29/multimedia/00biz-pancreatic-cancer-01-tzwf/00biz-pancreatic-cancer-01-tzwf-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Kim Raff for The New York Times</media:credit>
+      <media:description>Daraxonrasib, the first drug of its type, has electrified pancreatic cancer specialists and patients because it has shown it can double life expectancy.</media:description>
+    </item>
+    <item>
+      <title>Dolly Parton Was a Trailblazer in Business, Too</title>
+      <link>https://www.nytimes.com/2026/08/26/business/dolly-parton-businesses.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/business/dolly-parton-businesses.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/business/dolly-parton-businesses.html" rel="standout"></atom:link>
+      <description>Her vision to launch businesses to bring fans closer while protecting her intellectual property was ahead of her time.</description>
+      <dc:creator>Kim Bhasin</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 15:09:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Amusement and Theme Parks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Intellectual Property</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Celebrities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Copyrights and Copyright Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dollywood Amusement Park</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Duncan Hines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parton, Dolly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Pigeon Forge (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
+      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-dolly-business-zqpt/25biz-dolly-business-zqpt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ron Davis/Getty Images</media:credit>
+      <media:description>Dolly Parton in 1993 at Dollywood, the amusement park in Pigeon Forge, Tenn., that has for decades served as a beacon for all-things-Dolly and the center of Ms. Parton’s business empire.</media:description>
+    </item>
     <item>
       <title>Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims</title>
       <link>https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html</link>
@@ -21,7 +63,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html" rel="standout"></atom:link>
       <description>The social media giant settled with 47 states, the District of Columbia and U.S. territories, and agreed to make major changes to its products over claims its platforms endangered children.</description>
       <dc:creator>Cecilia Kang and Eli Tan</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 13:26:04 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 15:32:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
@@ -106,7 +148,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/26/business/scott-bessent-economy-markets.html" rel="standout"></atom:link>
       <description>The Treasury secretary is confronting the limits of his ability to reshape the economy ahead of midterm elections.</description>
       <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 12:14:39 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 15:05:42 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
@@ -198,15 +240,15 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/world/canada/montreal-airport-accident-worker-dead.html" rel="standout"></atom:link>
       <description>The Transportation Safety Board of Canada said the episode involved an Airbus A350 operated by French Bee, a French low-cost airline.</description>
       <dc:creator>Johnny Diaz</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 23:15:03 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
+      <pubDate>Wed, 26 Aug 2026 14:52:57 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Montreal-Trudeau International Airport (Canada)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">French Bee SAS</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Transport Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal-Trudeau International Airport</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yves Beauchamp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">French Bee</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25xp-montreal/25xp-montreal-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Graham Hughes/NurPhoto, via Getty Images</media:credit>
       <media:description>The authority that operates Montréal-Trudeau International Airport said a worker employed by Samsic, a company that provides support services, was killed in an accident on Monday.</media:description>
@@ -219,26 +261,23 @@
       <description>The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.</description>
       <dc:creator>Zane Irwin</dc:creator>
       <pubDate>Wed, 26 Aug 2026 12:46:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Virtual Currency</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United Arab Emirates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Finances</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Islamic Revolutionary Guards Corps</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Treasury Department</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25int-iran-sanctions-1-ftzv/25int-iran-sanctions-1-ftzv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Vahid Salemi/Associated Press</media:credit>
       <media:description>A gas station in Tehran on Tuesday. The United States imposed a monthslong blockade on Iran’s shipments of oil, the nation’s economic engine.</media:description>
@@ -400,13 +439,13 @@
       <dc:creator>John Yoon</dc:creator>
       <pubDate>Tue, 25 Aug 2026 15:07:53 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Target Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Halloween</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Costumes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Race and Ethnicity</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Costumes</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black People</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25xp-target-fwbq/25xp-target-fwbq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ellen Schmidt/Associated Press</media:credit>
       <media:description>Target said in a statement that it had stopped selling the costume and “was looking closely at how this happened.”</media:description>
@@ -420,10 +459,9 @@
       <dc:creator>Sarah Kramer and Shuran Huang</dc:creator>
       <pubDate>Tue, 25 Aug 2026 15:05:46 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Retirement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pianos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Age, Chronological</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Classical Music</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brahms, Johannes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
     </item>
     <item>
       <title>Many N.F.L. Players Get Brain Disease. Why Hasn’t OSHA Intervened?</title>
@@ -626,7 +664,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/24/business/mark-walter-insurance-dodgers-lakers.html" rel="standout"></atom:link>
       <description>Federal investigations of Mark Walter’s business empire have put a spotlight on private-equity-owned insurers that invest premiums in risky assets.</description>
       <dc:creator>Rob Copeland and Matthew Goldstein</dc:creator>
-      <pubDate>Mon, 24 Aug 2026 15:54:25 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 15:15:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Walter, Mark (1960- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Dodgers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Los Angeles Lakers</category>
@@ -1003,54 +1041,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-ireland-zuckerberg-mbvh/21int-ireland-zuckerberg-mbvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Kenealy, via Reuters</media:credit>
       <media:description>Strancally Castle in Waterford, Ireland, was built around 1830 and renovated in the early 2000s. It now belongs to Mark Zuckerberg.</media:description>
-    </item>
-    <item>
-      <title>Trump Announces Move to Lift Ground Beef Tariffs in Bid to Lower Prices</title>
-      <link>https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/business/economy/trump-beef-prices.html" rel="standout"></atom:link>
-      <description>The move prompted blowback from cattle ranchers and Republicans who represent them.</description>
-      <dc:creator>Kevin Draper and Ana Swanson</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:49:36 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Beef</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ranches</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Agriculture Department</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/21/business/21biz-beef/21biz-beef-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Justin Sullivan/Getty Images</media:credit>
-      <media:description>The Trump administration has been looking for ways to address rising prices ahead of the midterm elections.</media:description>
-    </item>
-    <item>
-      <title>In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety</title>
-      <link>https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html" rel="standout"></atom:link>
-      <description>China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.</description>
-      <dc:creator>Keith Bradsher and Jack Ewing</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:23:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zhejiang Geely Holding Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dongfeng Motor Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chery Automobile Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guangzhou Xiaopeng Motors Technology Co Ltd (Xpeng Motors)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Automotive Group Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zhejiang Leapmotor Technology Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China FAW Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Xiaomi Tech</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-China-Car-Doors-01-jvgz/21biz-China-Car-Doors-01-jvgz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Qilai Shen for The New York Times</media:credit>
-      <media:description>China is requiring nine automakers to take measures to improve the reliability of retractable door handles popular on electric vehicles.</media:description>
     </item>
   </channel>
 </rss>
