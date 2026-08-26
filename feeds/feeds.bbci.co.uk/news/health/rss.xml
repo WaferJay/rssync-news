@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 26 Aug 2026 08:04:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Aug 2026 09:07:01 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -394,6 +394,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Man completes half marathon after two heart attacks]]></title>
+            <description><![CDATA[Peter Franklin was fighting for his life in hospital after suffering a heart attack 24 hours after arriving in the Caribbean for his honeymoon]]></description>
+            <link>https://www.bbc.co.uk/videos/c1mv9gvvxz0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/videos/c1mv9gvvxz0o#8</guid>
+            <pubDate>Wed, 26 Aug 2026 08:23:50 GMT</pubDate>
+            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bb6/live/a0f84390-a126-11f1-aed2-8d6da8d75094.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[How to spot a liar]]></title>
             <description><![CDATA[Doctors and identical twins Chris and Xand van Tulleken explore the ideas shaping our health and wellbeing.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c5yj81d9w77o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -424,14 +432,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cly4wegyv2no#8</guid>
             <pubDate>Mon, 24 Aug 2026 10:04:42 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fefa/live/0d992c20-9f9d-11f1-b109-879e35c24276.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Are eggs safe to eat? Your salmonella questions answered]]></title>
-            <description><![CDATA[The UK Health Security Agency (UKHSA) has recently declared a national outbreak of salmonella food poisoning after one person died and hundreds more fell ill with the bug.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ce97ll38g50o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ce97ll38g50o#8</guid>
-            <pubDate>Thu, 20 Aug 2026 10:47:38 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba6e/live/27b02170-9c7f-11f1-a291-b542ee92de7c.jpg"/>
         </item>
     </channel>
 </rss>
