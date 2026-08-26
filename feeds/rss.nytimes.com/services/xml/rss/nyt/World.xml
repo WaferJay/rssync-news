@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 09:06:51 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 09:03:57 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 09:58:36 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 09:36:29 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -306,6 +306,27 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25CHINA-ARTIST-SENTENCE-pgqw/25CHINA-ARTIST-SENTENCE-pgqw-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Shiho Fukada for The New York Times</media:credit>
       <media:description>Gao Zhen, left, and Gao Qiang, with their artwork, “Mao’s Guilt,” in Beijing in 2009.</media:description>
+    </item>
+    <item>
+      <title>Eight Dead, Others Missing as Floods Sweep Away Villages in Nepal</title>
+      <link>https://www.nytimes.com/2026/08/26/world/asia/nepal-floods-tibet-missing.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/world/asia/nepal-floods-tibet-missing.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/world/asia/nepal-floods-tibet-missing.html" rel="standout"></atom:link>
+      <description>A wall of water swept down a Himalayan river valley shared between Nepal and the Chinese territory of Tibet.</description>
+      <dc:creator>Binod Ghimire</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 09:36:29 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tibet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Himalayas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Xi Jinping</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26-NEPAL-FLOODS-zqgp/26-NEPAL-FLOODS-zqgp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Prakash Mathema/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Residents looking at houses partially submerged in muddy water after flash floods at Trishuli Bazar in Nepal’s Nuwakot district on Wednesday.</media:description>
     </item>
     <item>
       <title>Canadians Stand Their Ground as Trump’s New Tariffs Endanger Jobs</title>
@@ -1123,26 +1144,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22dc-greer-qbjk/22dc-greer-qbjk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Haiyun Jiang/The New York Times</media:credit>
       <media:description>Jamieson Greer, the U.S. trade representative, said Canada would have been given the most preferential treatment of any trading partner.</media:description>
-    </item>
-    <item>
-      <title>Carney Slams U.S.-Canada Trade Proposal and Vows Retaliation</title>
-      <link>https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html" rel="standout"></atom:link>
-      <description>Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.</description>
-      <dc:creator>Ian Austen</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 20:35:49 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customs (Tariff)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">live-detached</category>
-      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/22/multimedia/22int-canada-carney-SUB-pfhq/22int-canada-carney-SUB-pfhq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Patrick Doyle/The Canadian Press, via Associated Press</media:credit>
-      <media:description>Prime Minister Mark Carney of Canada said that he had pulled negotiators out of trade talks with the United States because the Trump administration had “asked too much and offered too little.”</media:description>
     </item>
   </channel>
 </rss>
