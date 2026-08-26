@@ -3,17 +3,81 @@
   <channel>
     <title>NYT &gt; Business</title>
     <link>https://www.nytimes.com/section/business</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Business.xml?1H=AXYx9Aaz" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 11:46:30 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 11:45:16 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:26:53 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 13:26:04 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
+    <item>
+      <title>Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims</title>
+      <link>https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html" rel="standout"></atom:link>
+      <description>The social media giant settled with 47 states, the District of Columbia and U.S. territories, and agreed to make major changes to its products over claims its platforms endangered children.</description>
+      <dc:creator>Cecilia Kang and Eli Tan</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 13:26:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gonzalez Rogers, Yvonne (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oakland (Calif)</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/00biz-meta-settlement-hfo-pfhj/00biz-meta-settlement-hfo-pfhj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Meta headquarters in California.</media:description>
+    </item>
+    <item>
+      <title>PCE Index Shows Inflation Remained Elevated in July Amid High Energy Costs</title>
+      <link>https://www.nytimes.com/2026/08/26/business/economy/inflation-pce.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/business/economy/inflation-pce.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/business/economy/inflation-pce.html" rel="standout"></atom:link>
+      <description>The Personal Consumption Expenditure index, the Federal Reserve’s preferred inflation tracker, held steady in July.</description>
+      <dc:creator>Ben Casselman</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 13:20:34 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Bureau of Economic Analysis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26biz-inflation-wtkv/26biz-inflation-wtkv-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Joe Raedle/Getty Images</media:credit>
+      <media:description>Many households are struggling to manage higher prices.</media:description>
+    </item>
+    <item>
+      <title>Wall St. Scrutinizes Nvidia’s Deal Machine</title>
+      <link>https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/business/dealbook/nvidia-earnings-ai-investments.html" rel="standout"></atom:link>
+      <description>Investors are awaiting the chipmaker’s latest quarterly earnings — and are anxious about its huge portfolio of artificial intelligence investments.</description>
+      <dc:creator>Andrew Ross Sorkin, Bernhard Warner, Sarah Kessler, Michael J. de la Merced, Niko Gallogly, Brian O’Keefe and Sri Muppidi</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 11:48:27 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-storyline-no</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">NVIDIA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Huang, Jen-Hsun</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">SOFTBANK Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">CoreWeave</category>
+      <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26db-nvda-hmcz/26db-nvda-hmcz-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Manami Yamada/Reuters</media:credit>
+      <media:description>Investors are awaiting Nvidia’s quarterly results, due today.</media:description>
+    </item>
     <item>
       <title>‘Honeymoon’s Over’: Warsh Under Pressure as Fed Weighs Raising Rates</title>
       <link>https://www.nytimes.com/2026/08/26/business/kevin-warsh-federal-reserve-jackson.html</link>
@@ -42,7 +106,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/26/business/scott-bessent-economy-markets.html" rel="standout"></atom:link>
       <description>The Treasury secretary is confronting the limits of his ability to reshape the economy ahead of midterm elections.</description>
       <dc:creator>Alan Rappeport</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 09:03:56 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:14:39 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">National Debt (US)</category>
@@ -148,13 +212,13 @@
       <media:description>The authority that operates Montréal-Trudeau International Airport said a worker employed by Samsic, a company that provides support services, was killed in an accident on Monday.</media:description>
     </item>
     <item>
-      <title>U.S. ‘Economic D-Day’ Targets More Than Just Iranian Oil</title>
+      <title>Gold, Flights, Cryptocurrency: U.S. Vows to Go After More Than Iran’s Oil</title>
       <link>https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html" rel="standout"></atom:link>
       <description>The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.</description>
       <dc:creator>Zane Irwin</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 22:58:03 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 12:46:05 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iran</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Embargoes and Sanctions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Gold</category>
@@ -987,57 +1051,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-China-Car-Doors-01-jvgz/21biz-China-Car-Doors-01-jvgz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Qilai Shen for The New York Times</media:credit>
       <media:description>China is requiring nine automakers to take measures to improve the reliability of retractable door handles popular on electric vehicles.</media:description>
-    </item>
-    <item>
-      <title>Shein, a Fast-Fashion Giant, Struggles to Grow Ahead of a Much-Delayed IPO</title>
-      <link>https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/business/shein-ipo-questions.html" rel="standout"></atom:link>
-      <description>Facing pressure in the United States and Europe, Shein is struggling to find new ways to grow ahead of its much-delayed initial public offering.</description>
-      <dc:creator>Sui-Lee Wee</dc:creator>
-      <pubDate>Sat, 22 Aug 2026 18:07:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Shein (Fashion Label)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fashion and Apparel</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Initial Public Offerings</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Supply Chain</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/Biz-Shein-01-vqhg/Biz-Shein-01-vqhg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Sarah Pabst for The New York Times</media:credit>
-      <media:description>Customers at the opening of a Shein resale store in Buenos Aires last year.</media:description>
-    </item>
-    <item>
-      <title>Victor Niederhoffer, Trader Who Went Boom and Bust (Twice), Dies at 82</title>
-      <link>https://www.nytimes.com/2026/08/21/business/victor-niederhoffer-dead.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/victor-niederhoffer-dead.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/business/victor-niederhoffer-dead.html" rel="standout"></atom:link>
-      <description>He pioneered a technique for using computers to predict short-term movements in stock prices, something that proved to be hugely lucrative — when it worked.</description>
-      <dc:creator>Michael S. Rosenwald</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 14:57:35 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Niederhoffer, Victor</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Collectors and Collections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Squash (Sport)</category>
-    </item>
-    <item>
-      <title>Do You Need Flood Insurance? What to Know Ahead of Peak Hurricane Season.</title>
-      <link>https://www.nytimes.com/2026/08/21/your-money/flood-insurance-hurricane-season.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/your-money/flood-insurance-hurricane-season.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/your-money/flood-insurance-hurricane-season.html" rel="standout"></atom:link>
-      <description>No hurricane-strength storms have formed yet this year in the Atlantic basin, but the limiting activity isn’t certain to continue.</description>
-      <dc:creator>Ann Carrns</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 13:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Flood Insurance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Homeowners Insurance</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Emergency Management Agency</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Flood Insurance Program</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/business/21adviser/21adviser-mediumSquareAt3X.png" width="1800"></media:content>
-      <media:credit>Till Lauer</media:credit>
     </item>
   </channel>
 </rss>

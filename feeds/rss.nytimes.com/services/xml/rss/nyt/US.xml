@@ -3,17 +3,35 @@
   <channel>
     <title>NYT &gt; U.S. News</title>
     <link>https://www.nytimes.com/section/us</link>
-    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml?_=1787744968571" rel="self" type="application/rss+xml"></atom:link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/US.xml" rel="self" type="application/rss+xml"></atom:link>
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 11:49:28 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 11:29:51 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 13:28:14 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 13:15:47 +0000</pubDate>
     <image>
       <title>NYT &gt; U.S. News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/us</link>
     </image>
+    <item>
+      <title>Masked Man Accused of Harassing Philadelphians Is Arrested in Las Vegas</title>
+      <link>https://www.nytimes.com/2026/08/26/us/man-arrested-chucky-mask-philadelphia-las-vegas.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/us/man-arrested-chucky-mask-philadelphia-las-vegas.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/us/man-arrested-chucky-mask-philadelphia-las-vegas.html" rel="standout"></atom:link>
+      <description>Zymire Hughes scared more than a dozen people while wearing a Chucky-style mask, the authorities said. He is being held in jail while awaiting extradition to Pennsylvania.</description>
+      <dc:creator>Jonathan Wolfe</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 13:01:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Las Vegas (Nev)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Philadelphia (Pa)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Masks (Costume)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Assaults</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">United States Marshals Service</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Police Department (Philadelphia, Pa)</category>
+      <media:content height="1169" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/26xp-chucky-arrest/26xp-chucky-arrest-mediumSquareAt3X.jpg" width="1169"></media:content>
+      <media:credit>Philadelphia Police Department</media:credit>
+      <media:description>The Philadelphia police had asked for the public’s help locating a man they said was terrorizing pedestrians while wearing a Halloween mask.</media:description>
+    </item>
     <item>
       <title>U.S.S. Abraham Lincoln Sailor Says Father Arrested by Border Patrol Has Been Released</title>
       <link>https://www.nytimes.com/2026/08/26/us/politics/uss-abraham-lincoln-sailor-father-arrested-immigration-released.html</link>
@@ -202,8 +220,17 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/us/elections/oklahoma-governor-drummond-mazzei.html" rel="standout"></atom:link>
       <description>Mike Mazzei, a former state senator who lent more than $11 million of his own money to his campaign, narrowly defeated the state’s attorney general, Gentner Drummond.</description>
       <dc:creator>J. David Goodman</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 03:18:42 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 03:18:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mazzei, Mike (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Drummond, Gentner</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1252" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/00hfo-nat-ok-gov-gop-Mazzei-btwk/00hfo-nat-ok-gov-gop-Mazzei-btwk-mediumSquareAt3X.jpg" width="1253"></media:content>
       <media:credit>Jake Ramsey/Oklahoma Watch, via Associated Press</media:credit>
       <media:description>Mike Mazzei delivering his closing remarks at a televised debate this month in the Oklahoma Republican governor’s race. </media:description>
@@ -215,16 +242,23 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/us/politics/election-takeaways-south-carolina-oklahoma.html" rel="standout"></atom:link>
       <description>President Trump went all in for Senator Darline Graham in a primary runoff on Tuesday. It worked, preserving his undefeated streak in Republican Senate primaries this year.</description>
       <dc:creator>Patricia Mazzei</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 08:07:06 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 08:07:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Ralph W Jr (1953- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Drummond, Gentner</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mazzei, Mike (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25pol-runoff-takeaways01b-photo-wgjl/25pol-runoff-takeaways01b-photo-wgjl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sean Rayford for The New York Times</media:credit>
       <media:description>Senator Darline Graham’s victory on Tuesday showed President Trump’s continued ability to move Republican primary voters, especially when he goes all in on a race. </media:description>
@@ -255,7 +289,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/us/politics/trump-saudi-nuclear-deal-congress-review.html" rel="standout"></atom:link>
       <description>The prospect that the kingdom could enrich uranium has drawn opposition from Democrats and revived concerns about nuclear proliferation in the Middle East.</description>
       <dc:creator>Robert Jimison</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 01:09:25 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 01:09:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nuclear Weapons</category>
@@ -283,8 +317,18 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/us/politics/south-carolina-senate-graham-norman.html" rel="standout"></atom:link>
       <description>Ms. Graham, who is temporarily filling the seat long held by her late brother, Senator Lindsey Graham, prevailed in a runoff and will be heavily favored in November.</description>
       <dc:creator>Emily Davies</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 01:02:52 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 01:02:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Ralph W Jr (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Graham, Lindsey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25pol-sc-senate-darline-hfo-photo-gwmz/25pol-sc-senate-darline-hfo-photo-gwmz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sean Rayford for The New York Times</media:credit>
       <media:description>Senator Darline Graham has won her party’s nomination to compete for a full, six-year term in November.</media:description>
@@ -357,8 +401,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/25/us/nashville-mourns-dolly-parton.html" rel="standout"></atom:link>
       <description>The country music star kept her home state at the forefront of her music and work. “She inspired Tennesseans to be better,” one resident said.</description>
       <dc:creator>Emily Cochrane</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 02:09:20 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 02:09:21 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Parton, Dolly</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Personal Profile</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Country Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fans (Persons)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nashville (Tenn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tennessee</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25nat-dolly-nashville-lzgv/25nat-dolly-nashville-lzgv-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Landon Edwards for The New York Times</media:credit>
       <media:description>As the nation mourned Dolly Parton’s death on Tuesday, the grief was perhaps the most profound in Tennessee. </media:description>
@@ -454,7 +503,16 @@
       <description>Mr. Norman, a five-term congressman, is a hard-line conservative running against the sister of the late Senator Lindsey Graham.</description>
       <dc:creator>Patricia Mazzei</dc:creator>
       <pubDate>Tue, 25 Aug 2026 23:20:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nordone, Darline Graham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Norman, Ralph W Jr (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Endorsements</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25pol-whois-norman-photo-wjfk/25pol-whois-norman-photo-wjfk-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Will Crooks for The New York Times</media:credit>
       <media:description>Ralph Norman speaking to supporters in Anderson, S.C., this month.</media:description>
@@ -489,6 +547,14 @@
       <description>The results of primary runoff elections will likely be known by late Tuesday night, officials said.</description>
       <dc:creator>Taylor Robinson</dc:creator>
       <pubDate>Tue, 25 Aug 2026 22:56:46 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Oklahoma</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">South Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Primaries and Caucuses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Senate</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, Governors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2026)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25POL-RESULTS-TIMING2-kjwm/25POL-RESULTS-TIMING2-kjwm-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Sean Rayford for The New York Times</media:credit>
@@ -844,38 +910,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25nat-mail-voting-states-pkgz/25nat-mail-voting-states-pkgz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Zack Wittman for The New York Times</media:credit>
       <media:description>Poll officials in Pinellas County, Fla., processed mail-in ballots for the state’s primary elections earlier this month.</media:description>
-    </item>
-    <item>
-      <title>Tech Leaders Haven’t Stopped the Billionaire Tax So Far. Will Ads Work?</title>
-      <link>https://www.nytimes.com/2026/08/25/us/california-billionaire-tax-ballot-question.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/california-billionaire-tax-ballot-question.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/us/california-billionaire-tax-ballot-question.html" rel="standout"></atom:link>
-      <description>The latest opposition effort is led by Sergey Brin, a co-founder of Google, who has contributed more than $100 million this year toward California campaign efforts.</description>
-      <dc:creator>Laurel Rosenhall and Theodore Schleifer</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 13:03:43 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Taxation</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25nat-billionaire-brawl-wjpk/25nat-billionaire-brawl-wjpk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Mike Kai Chen for The New York Times</media:credit>
-      <media:description>As TV spending from the opposition picks up, the campaign supporting the tax believes a network of Democratic Party activists and union members pushing its message will be an advantage.</media:description>
-    </item>
-    <item>
-      <title>Democratic Senators Ask Homeland Security for Details About Idled Planes</title>
-      <link>https://www.nytimes.com/2026/08/25/us/politics/democratic-senators-homeland-security-planes.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/us/politics/democratic-senators-homeland-security-planes.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/us/politics/democratic-senators-homeland-security-planes.html" rel="standout"></atom:link>
-      <description>The request follows a New York Times story, which revealed that Homeland Security had spent $464 million on used jets that rarely fly.</description>
-      <dc:creator>David A. Fahrenthold</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 12:00:05 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deportation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Contracts and Procurement</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Schiff, Adam B</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Blumenthal, Richard</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Welch, Peter</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Homeland Security Department</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/14/multimedia/25dc-dhs-planes2/25dc-dhs-planes2-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Kathleen Flynn for The New York Times</media:credit>
-      <media:description>A Boeing 737 that was purchased to be used for deportation flights is parked at Chennault International Airport in Lake Charles, La., on July 25.</media:description>
     </item>
   </channel>
 </rss>
