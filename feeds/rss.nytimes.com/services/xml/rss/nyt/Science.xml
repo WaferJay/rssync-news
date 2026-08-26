@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 15:55:01 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 15:37:21 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:08:15 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 18:03:34 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -20,8 +20,8 @@
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html" rel="standout"></atom:link>
       <description>In a key clinical trial, patients who got the pill, daraxonrasib, lived twice as long as those who got chemotherapy.</description>
-      <dc:creator>Gina Kolata and Rebecca Robbins</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 15:23:53 +0000</pubDate>
+      <dc:creator>Gina Kolata, Rebecca Robbins and Carolyn Y. Johnson</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 18:03:34 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pancreatic Cancer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pancreas</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
@@ -218,6 +218,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25cli-data-centers-qfvh/25cli-data-centers-qfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Paul Ratje for The New York Times</media:credit>
       <media:description>New homes in a neighborhood on the edge of an enormous Meta A.I. data center under construction in northeast El Paso last month.</media:description>
@@ -248,15 +250,13 @@
       <dc:creator>Ben Buckland</dc:creator>
       <pubDate>Tue, 25 Aug 2026 09:01:06 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Wolves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Endangered and Extinct Species</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Horses</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Biodiversity</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Guterres, Antonio</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Portugal</category>
       <category domain="">cityguidesad</category>
     </item>
     <item>
@@ -563,25 +563,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rocket Science and Propulsion</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-    </item>
-    <item>
-      <title>Former Fauci Adviser Pleads Guilty to Trying to Conceal Covid-Related Records</title>
-      <link>https://www.nytimes.com/2026/08/19/science/david-morens-covid-fauci.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/19/science/david-morens-covid-fauci.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/19/science/david-morens-covid-fauci.html" rel="standout"></atom:link>
-      <description>Dr. David Morens, a former N.I.H. official, admitted to attempts to conceal emails that discussed the origins of the pandemic.</description>
-      <dc:creator>Benjamin Mueller</dc:creator>
-      <pubDate>Wed, 19 Aug 2026 16:38:06 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus (2019-nCoV)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disease Rates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Epidemics</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Origins Investigation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coronavirus Risks and Safety Concerns</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/19/multimedia/19sci-morens-wcmk/19sci-morens-wcmk-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Annabelle Gordon/Reuters</media:credit>
-      <media:description>David Morens, a former National Institutes of Health official, after his arraignment in the U.S. District Court in Greenbelt, Md., in May.</media:description>
     </item>
   </channel>
 </rss>

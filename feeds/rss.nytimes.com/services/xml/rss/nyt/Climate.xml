@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Wed, 26 Aug 2026 15:52:34 +0000</lastBuildDate>
-    <pubDate>Wed, 26 Aug 2026 15:43:51 +0000</pubDate>
+    <lastBuildDate>Wed, 26 Aug 2026 18:04:06 +0000</lastBuildDate>
+    <pubDate>Wed, 26 Aug 2026 17:47:27 +0000</pubDate>
     <image>
       <title>NYT &gt; Climate and Environment</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -46,6 +46,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Air Pollution</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25cli-data-centers-qfvh/25cli-data-centers-qfvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Paul Ratje for The New York Times</media:credit>
       <media:description>New homes in a neighborhood on the edge of an enormous Meta A.I. data center under construction in northeast El Paso last month.</media:description>
@@ -131,13 +133,32 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rumors and Misinformation</category>
     </item>
     <item>
+      <title>Summer Weather in L.A. Was Perfect. Then Came Humidity and Mosquitoes.</title>
+      <link>https://www.nytimes.com/2026/08/26/us/los-angeles-california-humidity-weather-heat-climate.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/us/los-angeles-california-humidity-weather-heat-climate.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/26/us/los-angeles-california-humidity-weather-heat-climate.html" rel="standout"></atom:link>
+      <description>Warmer water off the coast has made things slightly swampy for residents used to a succession of splendid days.</description>
+      <dc:creator>Jill Cowan and Amy Graff</dc:creator>
+      <pubDate>Wed, 26 Aug 2026 16:20:40 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Weather</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oceans and Seas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Scripps Institution of Oceanography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bass, Karen Ruth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26nat-ca-humidity-fwbj/26nat-ca-humidity-fwbj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ariana Drehsler for The New York Times</media:credit>
+      <media:description>Meteorologists don’t track humidity as closely as they do temperature, but trends point to stickier air than usual in coastal Southern California.</media:description>
+    </item>
+    <item>
       <title>Here’s the latest.</title>
       <link>https://www.nytimes.com/live/2026/08/26/world/nepal-floods/nepal-floods-tibet-missing</link>
       <guid isPermaLink="true">https://www.nytimes.com/live/2026/08/26/world/nepal-floods/nepal-floods-tibet-missing</guid>
       <atom:link href="https://www.nytimes.com/live/2026/08/26/world/nepal-floods/nepal-floods-tibet-missing" rel="standout"></atom:link>
       <description>A wall of water swept down a Himalayan river valley shared between Nepal and the Chinese territory of Tibet.</description>
       <dc:creator>Binod Ghimire, Leo Sands and Lily Kuo</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 15:43:51 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 17:47:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
@@ -155,7 +176,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/26/business/energy-environment/diesel-prices-iran-war-oil.html" rel="standout"></atom:link>
       <description>The cost of the fuel, used in farm machinery, trucks and other heavy equipment, has surged because of the war in Iran and Ukrainian attacks on Russian refineries.</description>
       <dc:creator>Aruni Soni</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 11:45:16 +0000</pubDate>
+      <pubDate>Wed, 26 Aug 2026 16:02:26 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
@@ -180,6 +201,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">War and Armed Conflicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-diesel-fuel-hvqg/25biz-diesel-fuel-hvqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kristen Zeis for The New York Times</media:credit>
       <media:description>The average cost of diesel, used by trucks that transport goods, has risen since the start of the war with Iran.</media:description>
@@ -1098,26 +1120,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hotels and Travel Lodgings</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Travel Commission</category>
-    </item>
-    <item>
-      <title>Effects of Record-Breaking El Niño Are Happening on 3 Continents</title>
-      <link>https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/12/climate/el-nino-early-onset-effects.html" rel="standout"></atom:link>
-      <description>The recurring climate phenomenon is expected to peak later this year, but it is already causing dry spells and crop failures on three continents.</description>
-      <dc:creator>Raymond Zhong and Chico Harlan</dc:creator>
-      <pubDate>Thu, 13 Aug 2026 14:53:22 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Agriculture and Farming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rain</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Famine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Panama Canal and Canal Zone</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Humanitarian Aid</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/12/multimedia/12CLI-ELNINO-EFFECTS-01-lwzg/12CLI-ELNINO-EFFECTS-01-lwzg-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ritesh Shukla/Getty Images</media:credit>
-      <media:description>Collecting water from a well in a drought-afflicted village in Gujarat, India, in May.</media:description>
     </item>
   </channel>
 </rss>
