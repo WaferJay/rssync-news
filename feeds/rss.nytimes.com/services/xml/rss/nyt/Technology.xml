@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 13:08:28 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 12:04:40 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 18:48:58 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 17:48:22 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -80,6 +80,11 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fines (Penalties)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">States (US)</category>
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-meta-deal--qvjh/27biz-meta-deal--qvjh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anna Barclay/Getty Images</media:credit>
       <media:description>To settle the suits, Meta agreed to drastically rein in children’s’ access to marquee products like Instagram and Facebook.</media:description>
@@ -102,6 +107,51 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/26BIZ-NVIDIA-EARNINGS-fzhq/26NVIDIA-EARNINGS-fzhq-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Manuel Orbegozo for The New York Times</media:credit>
       <media:description>Jensen Huang, Nvidia’s chief executive, made a big bet years ago on chips and software for artificial intelligence.</media:description>
+    </item>
+    <item>
+      <title>Social Media and the Myth of the Big Tobacco Moment</title>
+      <link>https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/technology/meta-social-media-big-tobacco.html" rel="standout"></atom:link>
+      <description>Smoking used to be everywhere, the way Facebook, TikTok, Snap, YouTube and Instagram are now. Society decided to break the habit, but it took a long time.</description>
+      <dc:creator>David Streitfeld</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 16:13:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smoking and Tobacco</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Youth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Crowe, Russell</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28biz-meta-tobacco--01-vqml/28biz-meta-tobacco--01-vqml-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jason Henry for The New York Times</media:credit>
+      <media:description>Meta will pay up to $17.1 billion over a decade and make changes to its social media properties to make them less compulsive for young people.</media:description>
+    </item>
+    <item>
+      <title>Why Countries Are Pushing Social Media Bans Despite Their Flaws</title>
+      <link>https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/technology/social-media-bans-meta.html" rel="standout"></atom:link>
+      <description>Proposals for curbing social media use among children have wide support, but critics say they are ineffective.</description>
+      <dc:creator>John Yoon</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 13:46:28 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Australia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Indonesia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Malaysia</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28xp-socialmedia-lkqm/28xp-socialmedia-lkqm-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Jeremy Piper/Reuters</media:credit>
+      <media:description>Teenagers in Australia on their phones. The country’s social media ban, which took effect in December, has so far failed to keep children off the platforms.</media:description>
     </item>
     <item>
       <title>Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT</title>
@@ -152,13 +202,17 @@
       <atom:link href="https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html" rel="standout"></atom:link>
       <description>Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.</description>
       <dc:creator>Cecilia Kang, Nikolay Nikolov, Paul Abowd, Alexandra Ostasiewicz and June Kim</dc:creator>
-      <pubDate>Fri, 28 Aug 2026 10:32:54 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 16:06:48 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Screen Time (Device)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Children and Childhood</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
     </item>
     <item>
       <title>OpenAI and 100 Others Warn That Window to Defend Against A.I. Attacks Is Narrowing</title>
@@ -207,21 +261,15 @@
       <description>Legislatures in nearly a dozen states have voted to legalize use of the technology, which can help homeowners reduce their rising electricity costs.</description>
       <dc:creator>Ivan Penn</dc:creator>
       <pubDate>Thu, 27 Aug 2026 14:41:43 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">State Legislatures</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Law and Legislation</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Newsom, Gavin</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">California</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric Light and Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Energy Efficiency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prices (Fares, Fees and Rates)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate and Housing (Residential)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cost of Living and Affordability</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-plugin-solar-hcbj/27biz-plugin-solar-hcbj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Poppy Lynch for The New York Times</media:credit>
       <media:description>A plug-in solar panel on the balcony of a home in Sunnyvale, Calif.</media:description>
@@ -527,6 +575,7 @@
       <category domain="">Copilot</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weingarten, Randi</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
     <item>
       <title>Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.</title>
@@ -621,32 +670,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21int-ireland-zuckerberg-mbvh/21int-ireland-zuckerberg-mbvh-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Patrick Kenealy, via Reuters</media:credit>
       <media:description>Strancally Castle in Waterford, Ireland, was built around 1830 and renovated in the early 2000s. It now belongs to Mark Zuckerberg.</media:description>
-    </item>
-    <item>
-      <title>In China’s Biggest Car Recall, Tesla and 8 Others Will Address Door Safety</title>
-      <link>https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/business/china-car-recall-doors.html" rel="standout"></atom:link>
-      <description>China’s regulator ordered changes after vehicle occupants sometimes had difficulty exiting electric cars, an issue that has led to lawsuits against Tesla in the United States.</description>
-      <dc:creator>Keith Bradsher and Jack Ewing</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 20:23:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Recalls and Bans of Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zhejiang Geely Holding Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Dongfeng Motor Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chery Automobile Co</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Guangzhou Xiaopeng Motors Technology Co Ltd (Xpeng Motors)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Beijing Automotive Group Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Zhejiang Leapmotor Technology Co Ltd</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">China FAW Group</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Xiaomi Tech</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-China-Car-Doors-01-jvgz/21biz-China-Car-Doors-01-jvgz-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Qilai Shen for The New York Times</media:credit>
-      <media:description>China is requiring nine automakers to take measures to improve the reliability of retractable door handles popular on electric vehicles.</media:description>
     </item>
   </channel>
 </rss>
