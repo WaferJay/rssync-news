@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 05:25:22 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 04:54:01 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:08:28 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 12:04:40 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -104,6 +104,24 @@
       <media:description>Jensen Huang, Nvidia’s chief executive, made a big bet years ago on chips and software for artificial intelligence.</media:description>
     </item>
     <item>
+      <title>Meta Shifts the Blame + Do Data Center Bans Work? + The Final HatGPT</title>
+      <link>https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/podcasts/hardfork-meta-settlement.html" rel="standout"></atom:link>
+      <description>Meta negotiated an unusual provision in their landmark settlement: If TikTok and YouTube also agree to penalties and changes to their products, Meta will pay more.</description>
+      <dc:creator>Kevin Roose, Casey Newton, Rachel Cohn, Whitney Jones, Vjeran Pavic, Alyssa Moxley, Dan Powell, Elisheba Ittoop, Marion Lozano and Rowan Niemisto</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 11:00:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/podcasts/28hardfork-meta/28hardfork-meta-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Photo Illustration by The New York Times; Image: Getty Images</media:credit>
+    </item>
+    <item>
       <title>Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules</title>
       <link>https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</guid>
@@ -134,7 +152,7 @@
       <atom:link href="https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html" rel="standout"></atom:link>
       <description>Our reporter Cecilia Kang explains Meta’s settlement of a lawsuit claiming that the company’s social media platforms had harmed teenage users.</description>
       <dc:creator>Cecilia Kang, Nikolay Nikolov, Paul Abowd, Alexandra Ostasiewicz and June Kim</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 18:54:17 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 10:32:54 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Compensation for Damages (Law)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Protection</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
@@ -629,44 +647,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21biz-China-Car-Doors-01-jvgz/21biz-China-Car-Doors-01-jvgz-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Qilai Shen for The New York Times</media:credit>
       <media:description>China is requiring nine automakers to take measures to improve the reliability of retractable door handles popular on electric vehicles.</media:description>
-    </item>
-    <item>
-      <title>OpenAI’s Two-Week Pause + Jill Lepore on the Threat of the “Artificial State” + Train of Thought</title>
-      <link>https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/podcasts/openais-two-week-pause-jill-lepore-on-the-threat-of-the-artificial-state-train-of-thought.html" rel="standout"></atom:link>
-      <description>“It is the first time that we know of that a major lab has voluntarily slowed down.”</description>
-      <dc:creator>Kevin Roose, Casey Newton, Whitney Jones, Rachel Cohn, Vjeran Pavic, Katie McMurran, Dan Powell, Marion Lozano, Rowan Niemisto and Alyssa Moxley</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 11:32:51 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Science and Technology</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Spirit Airlines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lepore, Jill</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-audio</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/21/podcasts/21hardfork-pause/21hardfork-pause-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Photo Illustration by The New York Times; Photo by Kim Kyung-Hoon/Reuters</media:credit>
-    </item>
-    <item>
-      <title>Flock Cameras. Canoodling Lawyers. How Much Surveillance Are We Comfortable With?</title>
-      <link>https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/magazine/flock-cameras-surveillance-state.html" rel="standout"></atom:link>
-      <description>Americans say they hate prying cameras. But they can’t look away.</description>
-      <dc:creator>Willy Staley</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 09:02:32 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sensors</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Registration and License Plates</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Surveillance of Citizens by Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Facial Recognition Software</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wearable Computing</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flock Group Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Fri, 28 Aug 2026 05:25:56 +0000</lastBuildDate>
-    <pubDate>Fri, 28 Aug 2026 04:34:45 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 13:12:32 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 12:21:21 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -179,6 +179,46 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/science/00-openai-huggingface-explainer-alt-art/00-openai-huggingface-explainer-alt-art-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>The New York Times; source photos by Aaron Wojack and Ulysses Ortega for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A.I. Brings Big Gains to Hurricane Forecasts, Google Researchers Say</title>
+      <link>https://www.nytimes.com/2026/08/28/science/ai-hurricane-forecasts-google.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/science/ai-hurricane-forecasts-google.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/science/ai-hurricane-forecasts-google.html" rel="standout"></atom:link>
+      <description>Analysis by the company’s DeepMind unit suggests that an A.I.-enabled model delivers accurate forecasts a day or more before conventional models can.</description>
+      <dc:creator>William J. Broad</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 09:02:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Hurricane Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricanes and Tropical Storms</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hurricane Melissa (2025)</category>
+      <media:content height="1043" medium="image" url="https://static01.nyt.com/images/2026/08/25/science/00SCI-AI-HURRICANES/00SCI-AI-HURRICANES-mediumSquareAt3X.jpg" width="1043"></media:content>
+      <media:credit>CSU/CIRA/NOAA/Anadolu, via Getty Images</media:credit>
+      <media:description>Hurricane Melissa, which made landfall on Oct. 28, 2025, was the strongest known hurricane to ever strike Jamaica.</media:description>
+    </item>
+    <item>
+      <title>NASA’s Nancy Grace Roman Telescope Promises a Breakthrough in Cosmic Exploration</title>
+      <link>https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/28/science/nasa-nancy-grace-roman-space-telescope.html" rel="standout"></atom:link>
+      <description>NASA’s latest offering to the stars comes from a legacy of great observatories that enabled decades of discovery and unearthed new mysteries about the universe.</description>
+      <dc:creator>Katrina Miller</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 09:00:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hubble Space Telescope</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Holes (Space)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dark Energy (Astronomy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dark Matter (Astronomy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Planets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <media:content height="1333" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28SCI-ROMAN-ERA-01-cqjv/28SCI-ROMAN-ERA-01-cqjv-mediumSquareAt3X.jpg" width="1333"></media:content>
+      <media:credit>Chriss Gunn/NASA</media:credit>
+      <media:description>Inspecting the surface of the Nancy Grace Roman Space Telescope’s primary mirror. It will join the Hubble, James Webb and other space observatories when it launches from Cape Canaveral on Sunday.</media:description>
     </item>
     <item>
       <title>High School Sports in the Heat</title>
@@ -574,24 +614,6 @@
       <media:content height="1802" medium="image" url="https://static01.nyt.com/images/2026/08/21/multimedia/21CLI-COLORADO-CUTS-vkzj/21CLI-COLORADO-CUTS-vkzj-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Justin Sullivan/Getty Images</media:credit>
       <media:description>The Colorado River at Horseshoe Bend near Page, Ariz., last month.</media:description>
-    </item>
-    <item>
-      <title>England’s Ancient Trees Are Dying in the Heat</title>
-      <link>https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/21/world/europe/oak-trees-heat-wave-england.html" rel="standout"></atom:link>
-      <description>Extreme temperatures and drought are adding to the stress on oak trees that have lived for hundreds of years and play a key role in the national imagination.</description>
-      <dc:creator>Claire Moses</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 12:17:42 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">England</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forests and Forestry</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drought</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
-      <media:content height="1799" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/20xp-trees-major-oak-copy-promo/20xp-trees-major-oak-copy-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Royal Society for the Protection of Birds, via Associated Press</media:credit>
-      <media:description>The Major Oak at Sherwood Forest Nature Reserve in Nottinghamshire, England, in May.</media:description>
     </item>
   </channel>
 </rss>
