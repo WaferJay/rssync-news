@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Thu, 27 Aug 2026 20:34:44 +0000</lastBuildDate>
-    <pubDate>Thu, 27 Aug 2026 19:58:07 +0000</pubDate>
+    <lastBuildDate>Fri, 28 Aug 2026 05:25:22 +0000</lastBuildDate>
+    <pubDate>Fri, 28 Aug 2026 04:54:01 +0000</pubDate>
     <image>
       <title>NYT &gt; Technology</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,7 +21,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/27/technology/prediction-markets-states-kalshi-polymarket-lawsuits.html" rel="standout"></atom:link>
       <description>A legal dispute over the future of Kalshi, Polymarket and others has drawn in the Trump administration, the president’s son and nearly every state attorney general.</description>
       <dc:creator>David Yaffe-Bellany and Sharon LaFraniere</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 15:08:37 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 01:09:44 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Federal-State Relations (US)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Prediction Markets</category>
@@ -37,8 +37,8 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mansour, Tarek</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J Jr</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/business/00kalshi-states/00kalshi-states-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Ricardo Tomás</media:credit>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/30/business/00kalshi-states/00kalshi-states-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Ricardo Tom&amp;aacute;s</media:credit>
     </item>
     <item>
       <title>Meta Projected It Could Spend $10 Billion on Anthropic’s A.I.</title>
@@ -67,7 +67,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/27/technology/meta-settlement-mark-zuckerberg-youtube-tiktok.html" rel="standout"></atom:link>
       <description>Meta, the social media giant, agreed to change the way children interact with its apps. That could be trouble if its competitors don’t abide by the same rules.</description>
       <dc:creator>Mike Isaac</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 19:58:07 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 20:48:07 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
@@ -104,6 +104,30 @@
       <media:description>Jensen Huang, Nvidia’s chief executive, made a big bet years ago on chips and software for artificial intelligence.</media:description>
     </item>
     <item>
+      <title>Trump Administration’s Blacklisting of Anthropic Was Illegal, Judge Rules</title>
+      <link>https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/27/technology/anthropic-government-blacklisting-ruling.html" rel="standout"></atom:link>
+      <description>The government retaliated against the A.I. start-up “for constitutionally protected expressive activities,” a federal judge in California wrote.</description>
+      <dc:creator>Sheera Frenkel</dc:creator>
+      <pubDate>Fri, 28 Aug 2026 02:28:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Blacklisting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense Contracts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lin, Rita F</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Decisions and Verdicts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27biz-anthropic-lawsuit-mwbp/27biz-anthropic-lawsuit-mwbp-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Karsten Moran for The New York Times</media:credit>
+      <media:description>Anthropic, led by Dario Amodei, was barred from government work after it insisted that its technology not be used in mass surveillance of Americans or for autonomous lethal weapons.</media:description>
+    </item>
+    <item>
       <title>What Meta’s $17 Billion Settlement Means</title>
       <link>https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/video/technology/100000011114831/explaining-metas-17-billion-dollar-settlement.html</guid>
@@ -125,7 +149,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/27/technology/openai-letter-ai-attacks.html" rel="standout"></atom:link>
       <description>In an open letter, OpenAI, Anthropic, Google and others said that a wave of A.I.-enabled cyberattacks was coming and that organizations and governments needed to prepare themselves.</description>
       <dc:creator>Kate Conger</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 17:55:37 +0000</pubDate>
+      <pubDate>Thu, 27 Aug 2026 17:55:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
@@ -133,6 +157,7 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27BIZ-OPENAI-gqtc/27BIZ-OPENAI-gqtc-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Anna Rose Layden/Reuters</media:credit>
       <media:description>Sam Altman of OpenAI, which has joined more than 100 tech companies in publishing an open letter warning of a wave of cyberattacks driven by artificial intelligence.</media:description>
@@ -642,29 +667,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Flock Group Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Central Park (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">internal-open-access-from-nl</category>
-    </item>
-    <item>
-      <title>New Jersey Teenager Drops Bellwether Social Media Addiction Lawsuit</title>
-      <link>https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/20/technology/social-media-addiction-lawsuit-dropped.html" rel="standout"></atom:link>
-      <description>The case was the third of nine major personal injury cases that could expose Meta, YouTube, Snap and TikTok to financial damages and force them to change the designs of their platforms.</description>
-      <dc:creator>Eli Tan</dc:creator>
-      <pubDate>Fri, 21 Aug 2026 16:26:40 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Addiction (Psychology)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Liability for Products</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Meta Platforms Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">TikTok (ByteDance)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Snap Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New Jersey</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/biz-meta-lawsuit-wgzt/biz-meta-lawsuit-wgzt-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Frederic J. Brown/Agence France-Presse — Getty Images</media:credit>
-      <media:description>Los Angeles County Superior Court. Tech companies have faced thousands of cases filed by teenagers, school districts and state attorneys general that claim that social media features are addictive.</media:description>
     </item>
   </channel>
 </rss>
