@@ -7,21 +7,39 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 18:38:34 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Aug 2026 18:38:22 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 21:44:22 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 20:39:23 +0000</pubDate>
     <image>
       <title>NYT &gt; Business</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/business</link>
     </image>
     <item>
-      <title>40,000 Pounds of Pabst Blue Ribbon Beer Are Stolen in California</title>
+      <title>Warsh, After Talking Tough on Inflation, Faces a ‘No-Win Situation’ on Rates</title>
+      <link>https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/29/business/kevin-warsh-inflation-rates-fed.html" rel="standout"></atom:link>
+      <description>Kevin M. Warsh, the chairman of the Federal Reserve, must soon decide whether to raise interest rates if inflation does not ease, even if it draws President Trump’s ire.</description>
+      <dc:creator>Colby Smith</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 20:39:23 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/30/multimedia/30DC-JACKSON-HOLE-top-wlkt/30DC-JACKSON-HOLE-top-wlkt-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Natalie Behring/Getty Images</media:credit>
+      <media:description>Kevin Warsh, chairman of the Federal Reserve, at the Jackson Hole Economic Symposium on Friday.</media:description>
+    </item>
+    <item>
+      <title>40,000 Pounds of Pabst Blue Ribbon Beer Reported Stolen in California</title>
       <link>https://www.nytimes.com/2026/08/29/business/pabst-beer-truck-stolen-california.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/business/pabst-beer-truck-stolen-california.html</guid>
       <atom:link href="https://www.nytimes.com/2026/08/29/business/pabst-beer-truck-stolen-california.html" rel="standout"></atom:link>
       <description>The company responded to the theft by setting a deadline for the return of the product. “P.S., this is real and we are deadly serious,” it said on social media.</description>
       <dc:creator>Emmett Lindner</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 18:18:39 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 19:15:31 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Robberies and Thefts</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Beer</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Freight (Cargo)</category>
@@ -367,14 +385,17 @@
       <atom:link href="https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html" rel="standout"></atom:link>
       <description>In a high-profile speech, Kevin M. Warsh said the Federal Reserve was chiefly responsible for taming inflation. If price increases do not return to the central bank’s target quickly, “we have work to do,” he said.</description>
       <dc:creator>Colby Smith</dc:creator>
-      <pubDate>Fri, 28 Aug 2026 19:11:23 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 20:07:02 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Reserve System</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Warsh, Kevin M</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Banking and Financial Institutions</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Inflation (Economics)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Government Bonds</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Interest Rates</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28dc-fed-warsh-jgqb/28dc-fed-warsh-jgqb-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Natalie Behring/Getty Images</media:credit>
       <media:description>Kevin M. Warsh, the Federal Reserve chairman, left, used a closely watched speech in Jackson, Wyo., to assure the public that the central bank is committed to tackling inflation.</media:description>
@@ -1055,26 +1076,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-diesel-fuel-hvqg/25biz-diesel-fuel-hvqg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kristen Zeis for The New York Times</media:credit>
       <media:description>The average cost of diesel, used by trucks that transport goods, has risen since the start of the war with Iran.</media:description>
-    </item>
-    <item>
-      <title>Under Threat, Saudi Arabia Reroutes Oil Exports Yet Again</title>
-      <link>https://www.nytimes.com/2026/08/26/business/saudi-oil-houthis-iran.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/26/business/saudi-oil-houthis-iran.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/26/business/saudi-oil-houthis-iran.html" rel="standout"></atom:link>
-      <description>Forced away from the Strait of Hormuz in the Persian Gulf, the Saudis turned to the Red Sea. Now they are relying on a less dangerous but more complicated detour via the Suez Canal.</description>
-      <dc:creator>Lisa Friedman</dc:creator>
-      <pubDate>Wed, 26 Aug 2026 09:02:55 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Saudi Aramco</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Saudi Arabia</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">US and Israeli Attack on Iran (2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ships and Shipping</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pipelines</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Bab al-Mandab Strait</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Persian Gulf</category>
-      <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/00Biz-Saudi-Shipping-bzvg/00Biz-Saudi-Shipping-bzvg-mediumSquareAt3X.jpg" width="1000"></media:content>
-      <media:credit>Shokry Hussien/Reuters</media:credit>
-      <media:description>A container terminal in Ain Sokhna, Egypt. Saudi tankers offload oil in Ain Sokhna for the Sumed pipeline, which connects to the Mediterranean.</media:description>
     </item>
   </channel>
 </rss>

@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 18:38:10 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Aug 2026 17:34:37 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 21:44:22 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 21:33:25 +0000</pubDate>
     <image>
       <title>NYT &gt; Health</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -188,6 +188,27 @@
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/06/16/multimedia/00HS-DRUGS-BALTIMOREnew-01-hltp/00HS-DRUGS-BALTIMOREnew-01-hltp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>KT Kanazawich for The New York Times</media:credit>
       <media:description>Last summer, the city of Baltimore experienced several mass overdose crises, the result of fentanyl being mixed with powerful synthetic chemicals.</media:description>
+    </item>
+    <item>
+      <title>Baby Goats From a Traveling Petting Zoo Test Positive for Rabies</title>
+      <link>https://www.nytimes.com/2026/08/29/us/rabies-goats-petting-zoo-north-carolina.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/us/rabies-goats-petting-zoo-north-carolina.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/29/us/rabies-goats-petting-zoo-north-carolina.html" rel="standout"></atom:link>
+      <description>Farm Adventures of Harmony, N.C., owned the goats, state health officials said. It was unclear how many people might have been exposed to them since late July.</description>
+      <dc:creator>Mark Walker</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 21:33:25 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">North Carolina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Health and Human Services Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Goats</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Zoos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rabies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Livestock Diseases</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Tests and Examinations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Infections</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Skunks</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/29/multimedia/29xp-goats-clfh/29xp-goats-clfh-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Michelle Litvin for The New York Times</media:credit>
+      <media:description>North Carolina health officials urged anyone who came in contact with baby goats exhibited by Farm Adventures from July 28 through Aug. 27 to alert their local health department. Those goats tested positive for rabies.</media:description>
     </item>
     <item>
       <title>Walmart to Pay $50 Million to Settle Opioid Lawsuit, US Says</title>
@@ -383,24 +404,6 @@
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/07/multimedia/LIF-Callout-Public-Health2-gcvt/LIF-Callout-Public-Health2-gcvt-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Kathleen Flynn/Reuters</media:credit>
       <media:description>A Covid shot being administered at a 2021 drive-through event in Avondale, La.</media:description>
-    </item>
-    <item>
-      <title>How One Woman With a Very Rare Disease Secured a Clinical Trial</title>
-      <link>https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/17/science/clinical-trial-jansens-disease-nizar-nih.html" rel="standout"></atom:link>
-      <description>Through sheer determination, Neena Nizar has become the first patient in a clinical trial testing a treatment for her disease — one so rare it affects just 30 people worldwide.</description>
-      <dc:creator>Gina Kolata</dc:creator>
-      <pubDate>Tue, 18 Aug 2026 22:00:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Jansen&#39;s Metaphyseal Chondrodysplasia (JMC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Clinical Trials</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Rare and Orphan Diseases</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Drugs (Pharmaceuticals)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Institutes of Health</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Nizar, Neena</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/18/multimedia/00sci-jansens-disease-01-pwbq/00sci-jansens-disease-01-pwbq-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Moriah Ratner for The New York Times</media:credit>
-      <media:description>Neena Nizar is one of only 30 people worldwide living with Jansen’s disease, a rare disorder that deforms bones. She is Patient No. 1 in a study at the N.I.H. of a drug that might help.</media:description>
     </item>
   </channel>
 </rss>
