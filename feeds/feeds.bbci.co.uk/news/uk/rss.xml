@@ -9,18 +9,26 @@
             <link>https://www.bbc.co.uk/news/uk</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 29 Aug 2026 02:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Aug 2026 09:11:08 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/uk/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Christian festival 'devastated' after man's death]]></title>
+            <description><![CDATA[Police say at least six other people were also injured in the incident at the Big Church Festival.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c158939pz4do#0</guid>
+            <pubDate>Sat, 29 Aug 2026 09:01:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec8/live/5cdf5720-a383-11f1-b109-879e35c24276.png"/>
+        </item>
         <item>
             <title><![CDATA[Who are the 33 British nationals missing in Nepal?]]></title>
             <description><![CDATA[Among those reported missing after deadly floods are a 13-year-old girl and 14-year-old boy.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c93v70w79gxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c93v70w79gxo#0</guid>
             <pubDate>Fri, 28 Aug 2026 19:21:57 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6516/live/9a603130-a2bd-11f1-b109-879e35c24276.png"/>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf77/live/acf12e50-a37e-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
             <title><![CDATA[Strong winds and thunderstorms kick off the bank holiday weekend]]></title>
@@ -47,14 +55,6 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1994/live/393622b0-a2dc-11f1-a291-b542ee92de7c.png"/>
         </item>
         <item>
-            <title><![CDATA[Four plead guilty to arson attack on Jewish community ambulances]]></title>
-            <description><![CDATA[Four vehicles run by a charity were set alight in Golders Green, north-west London, causing explosions in March. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1j4rkywx3lo#0</guid>
-            <pubDate>Fri, 28 Aug 2026 18:41:35 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3fe/live/c78363c0-a2f5-11f1-a291-b542ee92de7c.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[UK soldiers could get paragliders to drop behind enemy lines]]></title>
             <description><![CDATA[The Ministry of Defence is set to trial a UK-made system to allow troops to mount covert operations without aircraft.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckgxvj7m41no?at_medium=RSS&amp;at_campaign=rss</link>
@@ -69,6 +69,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c23x8k1ry27o#0</guid>
             <pubDate>Sat, 29 Aug 2026 00:51:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a8b/live/c6083ba0-a2d8-11f1-941c-8741c1a72471.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Four plead guilty to arson attack on Jewish community ambulances]]></title>
+            <description><![CDATA[Four vehicles run by a charity were set alight in Golders Green, north-west London, causing explosions in March. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c1j4rkywx3lo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c1j4rkywx3lo#1</guid>
+            <pubDate>Fri, 28 Aug 2026 18:41:35 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3fe/live/c78363c0-a2f5-11f1-a291-b542ee92de7c.jpg"/>
         </item>
         <item>
             <title><![CDATA[Stadium closures for Old Firm over fan disorder]]></title>
@@ -96,10 +104,10 @@
         </item>
         <item>
             <title><![CDATA[Man dies and at least six injured after sign falls at Christian festival]]></title>
-            <description><![CDATA[A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say. ]]></description>
+            <description><![CDATA[A 41-year-old man died at the Christian event near Steyning in West Sussex, police say. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwyz52x45jxo#1</guid>
-            <pubDate>Fri, 28 Aug 2026 21:41:12 GMT</pubDate>
+            <pubDate>Sat, 29 Aug 2026 05:29:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c41/live/af278b30-a30e-11f1-93b3-fd1f81ebc907.jpg"/>
         </item>
         <item>
@@ -206,7 +214,7 @@
             <description><![CDATA[Several papers focus on the UK defence spending targets and Chancellor John Healey's plans to shelve his target.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cgl74j7jdlno?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgl74j7jdlno#3</guid>
-            <pubDate>Fri, 28 Aug 2026 23:53:01 GMT</pubDate>
+            <pubDate>Sat, 29 Aug 2026 04:41:25 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06e8/live/c35a78c0-a330-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
@@ -250,12 +258,12 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3444/live/d1483030-8ff3-11f1-a10e-47119dd4425c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Man dies and at least six injured after sign falls at Christian festival]]></title>
-            <description><![CDATA[A 41-year-old man died at the Big Church Festival near Steyning in West Sussex, police say. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cwyz52x45jxo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cwyz52x45jxo#4</guid>
-            <pubDate>Fri, 28 Aug 2026 21:41:12 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c41/live/af278b30-a30e-11f1-93b3-fd1f81ebc907.jpg"/>
+            <title><![CDATA[Organisers 'devastated' as man dies after sign falls at Christian festival]]></title>
+            <description><![CDATA[Police say at least six other people were also injured in the incident at the Big Church Festival.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c158939pz4do?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c158939pz4do#4</guid>
+            <pubDate>Sat, 29 Aug 2026 09:01:03 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec8/live/5cdf5720-a383-11f1-b109-879e35c24276.png"/>
         </item>
         <item>
             <title><![CDATA[NI secretary to consider Parades Commission letter over Drumcree]]></title>
@@ -270,16 +278,16 @@
             <description><![CDATA[A large section of the street has been closed through festival season after a devastating fire. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c4glz6e4d9po?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c4glz6e4d9po#4</guid>
-            <pubDate>Fri, 28 Aug 2026 21:52:22 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f23/live/ca5ddfd0-97c4-11f1-870d-5d08c49babb2.jpg"/>
+            <pubDate>Sat, 29 Aug 2026 08:19:09 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a73/live/6ece3930-a386-11f1-9e7c-cb942f2e97d9.jpg"/>
         </item>
         <item>
-            <title><![CDATA[I couldn't reach Wales' highest summit because people jumped the queue]]></title>
+            <title><![CDATA[I couldn't reach Yr Wyddfa's summit because people jumped the queue]]></title>
             <description><![CDATA[Scores of visitors have climbed Yr Wyddfa this summer, with some facing long waits at the top.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c98016219nmo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c98016219nmo#4</guid>
-            <pubDate>Fri, 28 Aug 2026 21:21:50 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bc0/live/e4627ae0-a326-11f1-a291-b542ee92de7c.jpg"/>
+            <pubDate>Sat, 29 Aug 2026 06:03:27 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb76/live/4e07d6f0-a36f-11f1-9433-9349800bd218.jpg"/>
         </item>
     </channel>
 </rss>
