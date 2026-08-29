@@ -7,13 +7,46 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 09:10:56 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Aug 2026 09:02:15 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 14:32:04 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 14:14:09 +0000</pubDate>
     <image>
       <title>NYT &gt; Science</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
       <link>https://www.nytimes.com/section/science</link>
     </image>
+    <item>
+      <title>How a Canceled Spy Satellite Became NASA’s New Window Into the Universe</title>
+      <link>https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html" rel="standout"></atom:link>
+      <description>The Nancy Grace Roman Space Telescope, scheduled to launch on Sunday, will study dark energy and discover a multitude of planets.</description>
+      <dc:creator>Kenneth Chang</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 09:02:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dark Energy (Astronomy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/29/multimedia/29sci-roman-history-stillpromo-ltwb/29sci-roman-history-stillpromo-ltwb-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>NASA</media:credit>
+    </item>
+    <item>
+      <title>Mount Everest Base Camp Is Melting. Human Urine Is a Contributor.</title>
+      <link>https://www.nytimes.com/2026/08/29/science/everest-base-camp-urine.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/science/everest-base-camp-urine.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/29/science/everest-base-camp-urine.html" rel="standout"></atom:link>
+      <description>More than 6,000 liters are produced daily by thousands of climbers and guides, according to a study.</description>
+      <dc:creator>Adam Popescu</dc:creator>
+      <pubDate>Sat, 29 Aug 2026 09:02:08 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountains</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Everest</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
+    </item>
     <item>
       <title>Narwhals Have Stunning Spiraled Tusks. That’s Not the Only Twist.</title>
       <link>https://www.nytimes.com/2026/08/28/science/narwhals-tusk-spiral-twist.html</link>
@@ -141,78 +174,6 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">El Nino Southern Oscillation</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/27SCI-HUMBOLDT-PENGUINS-stillpromo/25SCI-HUMBOLDT-PENGUINS-22-hqpl-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Ana Elisa Sotelo for The New York Times</media:credit>
-    </item>
-    <item>
-      <title>A Chinese A.I. Lab May Test the World’s Cybersecurity With a Model</title>
-      <link>https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html" rel="standout"></atom:link>
-      <description>In July, an unreleased OpenAI model went rogue and demonstrated remarkable hacking abilities. This week, a lab called Z.ai will release a similarly powerful system to everyone.</description>
-      <dc:creator>Cade Metz</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 09:02:38 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/00SCI-AI-CYBERSECURITY-01-khcj/00SCI-AI-CYBERSECURITY-01-khcj-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Laurie Chen/Reuters</media:credit>
-      <media:description>A Chinese lab called Z.ai is preparing to release similar A.I. technology as “open weight” software.</media:description>
-    </item>
-    <item>
-      <title>SpaceX to Spend $100 Billion on Spaceport in Louisiana</title>
-      <link>https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html" rel="standout"></atom:link>
-      <description>It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.</description>
-      <dc:creator>Ryan Mac</dc:creator>
-      <pubDate>Tue, 25 Aug 2026 21:31:13 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-spacex-louisiana-sub-wfth/25biz-spacex-louisiana-sub-wfth-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>Edmund D. Fountain for The New York Times</media:credit>
-      <media:description>Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a spaceport in his state.</media:description>
-    </item>
-    <item>
-      <title>How a Canceled Spy Satellite Became NASA’s New Window Into the Universe</title>
-      <link>https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/29/science/nasa-roman-telescope-origins.html" rel="standout"></atom:link>
-      <description>The Nancy Grace Roman Space Telescope, scheduled to launch on Sunday, will study dark energy and discover a multitude of planets.</description>
-      <dc:creator>Kenneth Chang</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 09:02:15 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telescopes and Observatories</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Satellites</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Dark Energy (Astronomy)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stars and Galaxies</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">National Aeronautics and Space Administration</category>
-      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/29/multimedia/29sci-roman-history-stillpromo-ltwb/29sci-roman-history-stillpromo-ltwb-mediumSquareAt3X.jpg" width="1800"></media:content>
-      <media:credit>NASA</media:credit>
-    </item>
-    <item>
-      <title>Mount Everest Base Camp Is Melting. Human Urine Is a Contributor.</title>
-      <link>https://www.nytimes.com/2026/08/29/science/everest-base-camp-urine.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/29/science/everest-base-camp-urine.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/29/science/everest-base-camp-urine.html" rel="standout"></atom:link>
-      <description>More than 6,000 liters are produced daily by thousands of climbers and guides, according to a study.</description>
-      <dc:creator>Adam Popescu</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 09:02:08 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Glaciers</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountaineering</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Urine</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mountains</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mount Everest</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
     </item>
     <item>
       <title>A Melting Glacier in Nepal Was a Time Bomb. There Are More to Come.</title>
@@ -422,6 +383,26 @@
       <media:description>President Trump last year signed an executive aimed at reviving the coal industry.</media:description>
     </item>
     <item>
+      <title>SpaceX to Spend $100 Billion on Spaceport in Louisiana</title>
+      <link>https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/technology/spacex-louisiana-spaceport.html" rel="standout"></atom:link>
+      <description>It would be the rocket company’s second private launch site after Starbase, its headquarters in South Texas.</description>
+      <dc:creator>Ryan Mac</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 21:31:13 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Private Spaceflight</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Space and Astronomy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Louisiana</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Landry, Jeffrey Martin</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/25/multimedia/25biz-spacex-louisiana-sub-wfth/25biz-spacex-louisiana-sub-wfth-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Edmund D. Fountain for The New York Times</media:credit>
+      <media:description>Gov. Jeff Landry of Louisiana during an event on Tuesday with SpaceX announcing a deal to build a spaceport in his state.</media:description>
+    </item>
+    <item>
       <title>E.P.A. Moves to Curb Public Input on Air Pollution Permits for Data Centers</title>
       <link>https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html</link>
       <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/climate/epa-data-centers-public-comment.html</guid>
@@ -458,6 +439,25 @@
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Records and Achievements</category>
       <media:content height="1000" medium="image" url="https://static01.nyt.com/images/2026/08/24/multimedia/2026-el-nino-tracker-index/2026-el-nino-tracker-index-mediumSquareAt3X-v7.png" width="1000"></media:content>
       <media:credit>The New York Times</media:credit>
+    </item>
+    <item>
+      <title>A Chinese A.I. Lab May Test the World’s Cybersecurity With a Model</title>
+      <link>https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html</guid>
+      <atom:link href="https://www.nytimes.com/2026/08/25/science/cybersecurity-zai-open-weights.html" rel="standout"></atom:link>
+      <description>In July, an unreleased OpenAI model went rogue and demonstrated remarkable hacking abilities. This week, a lab called Z.ai will release a similarly powerful system to everyone.</description>
+      <dc:creator>Cade Metz</dc:creator>
+      <pubDate>Tue, 25 Aug 2026 09:02:38 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Z.ai (Artificial Intelligence Co)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">OpenAI Labs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hugging Face Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Anthropic AI LLC</category>
+      <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/20/multimedia/00SCI-AI-CYBERSECURITY-01-khcj/00SCI-AI-CYBERSECURITY-01-khcj-mediumSquareAt3X.jpg" width="1800"></media:content>
+      <media:credit>Laurie Chen/Reuters</media:credit>
+      <media:description>A Chinese lab called Z.ai is preparing to release similar A.I. technology as “open weight” software.</media:description>
     </item>
     <item>
       <title>Silence, Wolves and the Wild East: Hiking in Portugal’s Côa Valley</title>
