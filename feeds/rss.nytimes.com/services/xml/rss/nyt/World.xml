@@ -7,8 +7,8 @@
     <description></description>
     <language>en-us</language>
     <copyright>Copyright 2026 The New York Times Company</copyright>
-    <lastBuildDate>Sat, 29 Aug 2026 14:32:41 +0000</lastBuildDate>
-    <pubDate>Sat, 29 Aug 2026 14:31:59 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Aug 2026 18:38:13 +0000</lastBuildDate>
+    <pubDate>Sat, 29 Aug 2026 18:26:47 +0000</pubDate>
     <image>
       <title>NYT &gt; World News</title>
       <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
@@ -21,15 +21,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/29/world/asia/nepal-flood-rescue.html" rel="standout"></atom:link>
       <description>As rescue efforts entered their fourth day, the scale of destruction came into focus, signaling a daunting recovery for the vulnerable nation.</description>
       <dc:creator>Binod Ghimire and Mujib Mashal</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 10:12:24 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
+      <pubDate>Sat, 29 Aug 2026 17:49:37 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepal-Tibet Floods (August 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rescues</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Landslides and Mudslides</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Infrastructure (Public Works)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Lakes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepal-Tibet Floods (August 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Disasters and Emergencies</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hydroelectric Power</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Rivers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
@@ -47,7 +45,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html" rel="standout"></atom:link>
       <description>The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.</description>
       <dc:creator>Siobhán O’Grady</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 14:29:46 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 18:26:47 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Drones (Pilotless Planes)</category>
@@ -67,7 +65,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/29/world/canada/carney-trump-tariffs-trade.html" rel="standout"></atom:link>
       <description>The U.S.-Canada trade war has galvanized Canadians behind their prime minister’s decision to walk away from negotiations. What happens when the time comes for talks to restart?</description>
       <dc:creator>Matina Stevis-Gridneff</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 09:03:29 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 18:10:38 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Carney, Mark J</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Lake Ontario</category>
@@ -93,9 +91,13 @@
       <description>The Nordic nation is holding a referendum on Saturday on whether to start membership talks with the European Union. Voters are divided.</description>
       <dc:creator>Amelia Nierenberg</dc:creator>
       <pubDate>Sat, 29 Aug 2026 04:01:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Polls and Public Opinion</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/29/multimedia/29iceland-wtk-01-wpvg/29iceland-wtk-01-wpvg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Marco Di Marco/Associated Press</media:credit>
       <media:description>A rally opposing the resumption of talks to join the European Union in Reykjavik, Iceland, on Thursday. The banner reads “no” in Icelandic.</media:description>
@@ -155,12 +157,14 @@
       <description>The Taliban have banned education for millions of Afghan girls. Times journalists examined classrooms where students, teachers and parents continue to resist by defying the rules.</description>
       <dc:creator>Elian Peltier and Kiana Hayeri</dc:creator>
       <pubDate>Fri, 28 Aug 2026 16:56:53 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women&#39;s Rights</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Private and Sectarian Schools</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Teachers and School Employees</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Taliban</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Afghanistan</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kabul (Afghanistan)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">vis-photo</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/00int-afghanistan-schools-promo-gvct/00int-afghanistan-schools-promo-gvct-mediumSquareAt3X.jpg" width="1800"></media:content>
@@ -173,11 +177,13 @@
       <atom:link href="https://www.nytimes.com/2026/08/29/world/europe/iceland-eu-membership-europe.html" rel="standout"></atom:link>
       <description>A few years ago, some feared the European Union was going out of style. Now Iceland is mulling membership alongside a long list of candidates.</description>
       <dc:creator>Jeanna Smialek and Amelia Nierenberg</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 07:09:16 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 15:32:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Referendums</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">North Atlantic Treaty Organization</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Iceland</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Economic Conditions and Trends</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28Iceland-Europe-vjgq-zgbj/28Iceland-Europe-vjgq-zgbj-mediumSquareAt3X-v2.jpg" width="1800"></media:content>
       <media:credit>Jonathan Nackstrand/Agence France-Presse — Getty Images</media:credit>
       <media:description>Reykjavik, Iceland’s capital. A vote on Saturday will determine whether the country restarts talks to join the European Union.</media:description>
@@ -261,12 +267,12 @@
       <dc:creator>Paul Sonne</dc:creator>
       <pubDate>Fri, 28 Aug 2026 21:22:41 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Russian Invasion of Ukraine (2022)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ratcliffe, John Lee (1965- )</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Missiles and Missile Defense Systems</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/multimedia/28int-russia-putin-01-gwkp/28int-russia-putin-01-gwkp-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Pool photo by Alexander Zemlianichenko</media:credit>
       <media:description>Russian President Vladimir Putin has suggested that despite Moscow’s challenges, he believes Kyiv’s situation is worse.</media:description>
@@ -386,17 +392,18 @@
       <atom:link href="https://www.nytimes.com/2026/08/28/nyregion/nyc-manhattan-building-collapse-pfizer-columns-steel.html" rel="standout"></atom:link>
       <description>Drawings obtained by The New York Times and reviewed by engineers show insufficient reinforcements on eight more steel columns than previously known at a Manhattan building.</description>
       <dc:creator>James Glanz and Simon Ducroquet</dc:creator>
-      <pubDate>Fri, 28 Aug 2026 22:33:35 +0000</pubDate>
+      <pubDate>Fri, 28 Aug 2026 22:33:36 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buildings (Structures)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Accidents and Safety</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Midtown Area (Manhattan, NY)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Pfizer Inc</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Buildings Department (NYC)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">235 East 42nd Street (Manhattan, NY, Apartments)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Steel and Iron</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Building (Construction)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Engineering and Engineers</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Manhattan (NYC)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Real Estate (Commercial)</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/26/multimedia/midtown-shoring-vlht/midtown-shoring-vlht-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Hiroko Masuike/The New York Times</media:credit>
       <media:description>More columns at the former Pfizer building had missing or insufficient reinforcement plates than was previously known.</media:description>
@@ -519,9 +526,8 @@
       <description>The peak is revered by Hindus, Buddhists, Jains and those belonging to the pre-Buddhist Bon religion.</description>
       <dc:creator>Claire Moses</dc:creator>
       <pubDate>Fri, 28 Aug 2026 18:00:29 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilgrimages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepal-Tibet Floods (August 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Religion and Belief</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilgrimages</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Hinduism</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Jainism</category>
@@ -539,7 +545,7 @@
       <atom:link href="https://www.nytimes.com/2026/08/28/world/asia/nepal-bodies-morgues.html" rel="standout"></atom:link>
       <description>The remains of hundreds of people have washed downstream after devastating floods.</description>
       <dc:creator>Binod Ghimire</dc:creator>
-      <pubDate>Sat, 29 Aug 2026 10:04:27 +0000</pubDate>
+      <pubDate>Sat, 29 Aug 2026 15:05:20 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepal-Tibet Floods (August 2026)</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Floods</category>
@@ -577,11 +583,11 @@
       <pubDate>Fri, 28 Aug 2026 09:00:27 +0000</pubDate>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Travel and Vacations</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Pregnancy and Childbirth</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Heat and Heat Waves</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Cruises</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Content Type: Service</category>
       <media:content height="1800" medium="image" url="https://static01.nyt.com/images/2026/08/28/travel/28trav101-pregnant-illo2/28trav101-pregnant-illo2-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Philip Lindeman</media:credit>
     </item>
@@ -629,10 +635,13 @@
       <description>His 35-year reign opened an ancient monarchy to marriages with so-called commoners and to an incendiary association with Jeffrey Epstein.</description>
       <dc:creator>Alan Cowell</dc:creator>
       <pubDate>Fri, 28 Aug 2026 18:14:20 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harald V, King of Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Norway</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Royal Families</category>
       <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Obituaries)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Harald V, King of Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mette-Marit, Crown Princess of Norway</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
       <media:content height="1801" medium="image" url="https://static01.nyt.com/images/2026/08/29/multimedia/00Harald-ADV-cbpg/00Harald-ADV-cbpg-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Inge Gjellesvik/NTB, via Agence France-Presse &amp;mdash; Getty Images</media:credit>
       <media:description>King Harald V of Norway at his consecration ceremony in 1991.</media:description>
@@ -1104,26 +1113,6 @@
       <media:content height="1798" medium="image" url="https://static01.nyt.com/images/2026/08/27/multimedia/27int-Ukraine-Zaphorizhia-Front-01-cwqf-promo/27int-Ukraine-Zaphorizhia-Front-01-cwqf-promo-mediumSquareAt3X.jpg" width="1800"></media:content>
       <media:credit>Nicole Tung for The New York Times</media:credit>
       <media:description>Ukrainian soldiers of the Bratstvo Battalion unloading their equipment after making their way out of the Kahkovka reservoir basin, completing their weeks-long mission, in July.</media:description>
-    </item>
-    <item>
-      <title>Pilgrims at Border Crossing Are Among 500 Foreigners Missing After Flood</title>
-      <link>https://www.nytimes.com/2026/08/27/world/asia/pilgrims-border-crossing-foreign-nationals-nepal-flood.html</link>
-      <guid isPermaLink="true">https://www.nytimes.com/2026/08/27/world/asia/pilgrims-border-crossing-foreign-nationals-nepal-flood.html</guid>
-      <atom:link href="https://www.nytimes.com/2026/08/27/world/asia/pilgrims-border-crossing-foreign-nationals-nepal-flood.html" rel="standout"></atom:link>
-      <description>The largest contingent appears to have been pilgrims traveling between Nepal and a sacred site in the Chinese region of Tibet.</description>
-      <dc:creator>Mujib Mashal</dc:creator>
-      <pubDate>Thu, 27 Aug 2026 11:38:28 +0000</pubDate>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Nepal-Tibet Floods (August 2026)</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pilgrimages</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Buddhism</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Himalayas</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nepal</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Tibet</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Immigration and Emigration</category>
-      <category domain="http://www.nytimes.com/namespaces/keywords/des">Deaths (Fatalities)</category>
-      <media:content height="1080" medium="image" url="https://static01.nyt.com/images/2026/08/26/26vid-nepal-cctv-49655-cover/26vid-nepal-cctv-49655-cover-mediumSquareAt3X.jpg" width="1080"></media:content>
-      <media:credit>Social media, via Reuters</media:credit>
     </item>
   </channel>
 </rss>
