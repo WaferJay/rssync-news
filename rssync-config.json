@@ -15,12 +15,11 @@
     },
     "webpages": {
         "storage-path": "pages",
-        "refresh-policy": "always"
+        "refresh-policy": "missing-only"
     },
     "downloaders": {
         "default": {
             "options": {
-                "use-session": true,
                 "timeout": 30,
                 "retries": 3,
                 "backoff-factor": 0.5,
