@@ -1,8 +1,8 @@
 {
     "archive-current-only": true,
     "concurrency": {
-        "rss-downloads": 3,
-        "webpage-downloads": 4,
+        "rss-downloads": 4,
+        "webpage-downloads": 8,
         "per-domain-downloads": 2,
         "request-interval": 3
     },
@@ -32,6 +32,72 @@
         }
     },
     "feeds": [
+        {
+            "url": "https://rss.dw.com/xml/rss-en-all",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-top",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-ger",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-world",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-eu",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-africa",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-bus",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss_en_science",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss_en_environment",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-cul",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-sports",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-visitgermany",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-asia",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+
         {
             "url": "https://www.france24.com/en/rss",
             "rss-downloader": "default",
