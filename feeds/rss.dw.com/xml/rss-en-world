@@ -6,8 +6,8 @@
   <description>World | Deutsche Welle</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sun, 30 Aug 2026 12:31:19 GMT</pubDate>
-  <lastBuildDate>Sun, 30 Aug 2026 12:31:19 GMT</lastBuildDate>
+  <pubDate>Sun, 30 Aug 2026 13:47:25 GMT</pubDate>
+  <lastBuildDate>Sun, 30 Aug 2026 13:47:25 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-world" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">78562523</guid>
+   <pubDate>Sun, 30 Aug 2026 12:01:00 GMT</pubDate>
+   <title>Guinea-Bissau votes to reshape presidency</title>
+   <link>https://www.dw.com/en/guinea-bissau-votes-to-reshape-presidency/a-78562523?maca=en-rss-en-world-4025-xml-mrss</link>
+   <description>The West African nation&#039;s military government wants to amend the constitution to give more powers to the president. The junta, which seized power last year, says it will hold elections in December.</description>
+   <category>News</category>
+  </item>
   <item>
    <guid isPermaLink="false">78550021</guid>
    <pubDate>Sun, 30 Aug 2026 09:07:00 GMT</pubDate>
@@ -113,14 +121,6 @@
    <link>https://www.dw.com/en/protesters-set-fire-to-migrant-camp-in-ceuta/a-78538847?maca=en-rss-en-world-4025-xml-mrss</link>
    <description>The unrest comes one month after a mass influx of migrants from Morocco to the Spanish exclave in North Africa.</description>
    <category>World</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78538027</guid>
-   <pubDate>Thu, 27 Aug 2026 19:38:00 GMT</pubDate>
-   <title>Spain: Thieves steal Bronze Age gold in lightning raid on Villena Museum</title>
-   <link>https://www.dw.com/en/spain-thieves-steal-bronze-age-gold-in-lightning-raid-on-villena-museum/a-78538027?maca=en-rss-en-world-4025-xml-mrss</link>
-   <description>One of the world&#039;s greatest Bronze Age gold collections has been swiped, almost in its entirety, from Villena Museum. A highly professional group of thieves were in and out in four minutes flat before the museum opened.</description>
-   <category>News</category>
   </item>
  </channel>
 </rss>
