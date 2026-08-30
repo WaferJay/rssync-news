@@ -35,7 +35,7 @@
         {
             "url": "https://www.rfi.fr/fr/rss",
             "rss-downloader": "default",
-            "download-webpages": true
+            "download-webpages": false
         },
         {
             "url": "https://www.rfi.fr/fr/afrique/rss",
@@ -133,7 +133,7 @@
         {
             "url": "https://www.rfi.fr/cn/rss",
             "rss-downloader": "default",
-            "download-webpages": true
+            "download-webpages": false
         },
         {
             "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/rss",
