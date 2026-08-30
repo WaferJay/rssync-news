@@ -33,6 +33,42 @@
     },
     "feeds": [
         {
+            "url": "https://www.france24.com/en/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/france/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/africa/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/middle-east/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/americas/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/europe/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/asia-pacific/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+
+        {
             "url": "https://feeds.npr.org/1001/rss.xml",
             "rss-downloader": "default",
             "download-webpages": true
@@ -77,7 +113,6 @@
             "rss-downloader": "default",
             "download-webpages": true
         },
-
 
         {
             "url": "https://feeds.npr.org/2/rss.xml",
