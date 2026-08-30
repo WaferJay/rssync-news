@@ -1,5 +1,5 @@
 {
-    "archive-current-only": false,
+    "archive-current-only": true,
     "concurrency": {
         "rss-downloads": 3,
         "webpage-downloads": 4,
@@ -35,7 +35,7 @@
         {
             "url": "https://www.rfi.fr/fr/rss",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://www.rfi.fr/fr/afrique/rss",
@@ -133,7 +133,7 @@
         {
             "url": "https://www.rfi.fr/cn/rss",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/rss",
@@ -179,13 +179,13 @@
         {
             "url": "https://feeds.bbci.co.uk/zhongwen/trad/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
 
         {
             "url": "https://feeds.bbci.co.uk/news/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
@@ -195,93 +195,93 @@
         {
             "url": "https://feeds.bbci.co.uk/news/uk/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/politics/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/health/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/education/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/science_and_environment/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
 
         {
             "url": "https://feeds.bbci.co.uk/news/world/africa/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/world/asia/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/world/latin_america/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/world/middle_east/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/england/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/northern_ireland/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/scotland/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
             "url": "https://feeds.bbci.co.uk/news/wales/rss.xml",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         }
     ]
 }
