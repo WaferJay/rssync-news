@@ -26,7 +26,7 @@
                 "backoff-factor": 0.5,
                 "verify-tls": true,
                 "user-agent": {
-                    "strategy": "per-request"
+                    "strategy": "per-run"
                 }
             }
         }
