@@ -1,8 +1,8 @@
 {
     "archive-current-only": true,
     "concurrency": {
-        "rss-downloads": 3,
-        "webpage-downloads": 4,
+        "rss-downloads": 4,
+        "webpage-downloads": 8,
         "per-domain-downloads": 2,
         "request-interval": 3
     },
@@ -33,147 +33,162 @@
     },
     "feeds": [
         {
-            "url": "https://www.rfi.fr/fr/rss",
+            "url": "https://rss.dw.com/xml/rss-en-all",
             "rss-downloader": "default",
             "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/fr/afrique/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-
-        {
-            "url": "https://www.rfi.fr/fr/ameriques/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/fr/asie-pacifique/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/fr/europe/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/fr/france/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/fr/moyen-orient/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/fr/economie/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/fr/sports/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/fr/culture/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/fr/science/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-
-        {
-            "url": "https://www.rfi.fr/en/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/en/france/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/en/africa/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/en/international/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/en/culture/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/en/sport/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/en/science-technology/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-        {
-            "url": "https://www.rfi.fr/en/environment/rss",
-            "rss-downloader": "default",
-            "download-webpages": false
-        },
-
-        {
-            "url": "https://www.rfi.fr/cn/rss",
+            "url": "https://rss.dw.com/xml/rss-en-top",
             "rss-downloader": "default",
             "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/cn/%E6%B3%95%E5%9B%BD/rss",
+            "url": "https://rss.dw.com/xml/rss-en-ger",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/cn/%E4%B8%AD%E5%9B%BD/rss",
+            "url": "https://rss.dw.com/xml/rss-en-world",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/cn/%E6%B8%AF%E6%BE%B3%E5%8F%B0/rss",
+            "url": "https://rss.dw.com/xml/rss-en-eu",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/cn/%E4%BA%9A%E6%B4%B2/rss",
+            "url": "https://rss.dw.com/xml/rss-en-africa",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/cn/%E9%9D%9E%E6%B4%B2/rss",
+            "url": "https://rss.dw.com/xml/rss-en-bus",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/cn/%E7%BE%8E%E6%B4%B2/rss",
+            "url": "https://rss.dw.com/xml/rss_en_science",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/cn/%E6%AC%A7%E6%B4%B2/rss",
+            "url": "https://rss.dw.com/xml/rss_en_environment",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
         },
         {
-            "url": "https://www.rfi.fr/cn/%E4%B8%AD%E4%B8%9C/rss",
+            "url": "https://rss.dw.com/xml/rss-en-cul",
             "rss-downloader": "default",
-            "download-webpages": false
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-sports",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-visitgermany",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://rss.dw.com/xml/rss-en-asia",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+
+        {
+            "url": "https://www.france24.com/en/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/en/france/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/en/africa/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/en/middle-east/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/en/americas/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/en/europe/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://www.france24.com/en/asia-pacific/rss",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+
+        {
+            "url": "https://feeds.npr.org/1001/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/1002/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/1003/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/1004/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/1014/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/1006/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/1128/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/1007/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/1167/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+
+        {
+            "url": "https://feeds.npr.org/2/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
+        },
+        {
+            "url": "https://feeds.npr.org/3/rss.xml",
+            "rss-downloader": "default",
+            "download-webpages": true
         },
 
         {
