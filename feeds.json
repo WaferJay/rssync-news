@@ -9,17 +9,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070537,
-      "fetched_at": 1788070537,
+      "updated_at": 1788071387,
+      "fetched_at": 1788071387,
       "changed": true,
       "status": "ok"
     },
@@ -39,11 +39,11 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070540,
-      "fetched_at": 1788070540,
-      "changed": true,
+      "fetched_at": 1788071389,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -62,10 +62,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788014060,
-      "fetched_at": 1788070543,
+      "fetched_at": 1788071392,
       "changed": false,
       "status": "ok"
     },
@@ -85,11 +85,11 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070546,
-      "fetched_at": 1788070546,
-      "changed": true,
+      "fetched_at": 1788071395,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -108,10 +108,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788049606,
-      "fetched_at": 1788070549,
+      "fetched_at": 1788071398,
       "changed": false,
       "status": "ok"
     },
@@ -131,11 +131,11 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070552,
-      "fetched_at": 1788070552,
-      "changed": true,
+      "fetched_at": 1788071401,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -154,11 +154,11 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070555,
-      "fetched_at": 1788070555,
-      "changed": true,
+      "fetched_at": 1788071405,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -177,10 +177,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788040141,
-      "fetched_at": 1788070558,
+      "fetched_at": 1788071407,
       "changed": false,
       "status": "ok"
     },
@@ -200,10 +200,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788040141,
-      "fetched_at": 1788070561,
+      "fetched_at": 1788071410,
       "changed": false,
       "status": "ok"
     },
@@ -223,10 +223,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788014060,
-      "fetched_at": 1788070564,
+      "fetched_at": 1788071414,
       "changed": false,
       "status": "ok"
     },
@@ -246,11 +246,11 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070567,
-      "fetched_at": 1788070567,
-      "changed": true,
+      "fetched_at": 1788071416,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -269,10 +269,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788028806,
-      "fetched_at": 1788070570,
+      "fetched_at": 1788071419,
       "changed": false,
       "status": "ok"
     },
@@ -292,10 +292,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1787943054,
-      "fetched_at": 1788070573,
+      "fetched_at": 1788071422,
       "changed": false,
       "status": "ok"
     },
@@ -315,10 +315,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788014060,
-      "fetched_at": 1788070576,
+      "fetched_at": 1788071426,
       "changed": false,
       "status": "ok"
     },
@@ -338,10 +338,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788028807,
-      "fetched_at": 1788070579,
+      "fetched_at": 1788071428,
       "changed": false,
       "status": "ok"
     },
@@ -361,10 +361,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788014061,
-      "fetched_at": 1788070582,
+      "fetched_at": 1788071432,
       "changed": false,
       "status": "ok"
     },
@@ -384,10 +384,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": null,
-      "fetched_at": 1788070585,
+      "fetched_at": 1788071435,
       "changed": false,
       "status": "ok"
     },
@@ -407,10 +407,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1787862975,
-      "fetched_at": 1788070588,
+      "fetched_at": 1788071438,
       "changed": false,
       "status": "ok"
     },
@@ -430,10 +430,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1787894974,
-      "fetched_at": 1788070591,
+      "fetched_at": 1788071440,
       "changed": false,
       "status": "ok"
     },
@@ -446,17 +446,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788049607,
-      "fetched_at": 1788070594,
+      "fetched_at": 1788071444,
       "changed": false,
       "status": "ok"
     },
@@ -476,10 +476,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070597,
-      "fetched_at": 1788070597,
+      "updated_at": 1788071447,
+      "fetched_at": 1788071447,
       "changed": true,
       "status": "ok"
     },
@@ -499,10 +499,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070600,
-      "fetched_at": 1788070600,
+      "updated_at": 1788071449,
+      "fetched_at": 1788071449,
       "changed": true,
       "status": "ok"
     },
@@ -522,10 +522,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070603,
-      "fetched_at": 1788070603,
+      "updated_at": 1788071453,
+      "fetched_at": 1788071453,
       "changed": true,
       "status": "ok"
     },
@@ -545,10 +545,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070606,
-      "fetched_at": 1788070606,
+      "updated_at": 1788071456,
+      "fetched_at": 1788071456,
       "changed": true,
       "status": "ok"
     },
@@ -568,10 +568,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070609,
-      "fetched_at": 1788070609,
+      "updated_at": 1788071459,
+      "fetched_at": 1788071459,
       "changed": true,
       "status": "ok"
     },
@@ -591,10 +591,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070612,
-      "fetched_at": 1788070612,
+      "updated_at": 1788071462,
+      "fetched_at": 1788071462,
       "changed": true,
       "status": "ok"
     },
@@ -614,10 +614,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070615,
-      "fetched_at": 1788070615,
+      "updated_at": 1788071465,
+      "fetched_at": 1788071465,
       "changed": true,
       "status": "ok"
     },
@@ -637,10 +637,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070618,
-      "fetched_at": 1788070618,
+      "updated_at": 1788071468,
+      "fetched_at": 1788071468,
       "changed": true,
       "status": "ok"
     },
@@ -653,18 +653,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070612,
-      "fetched_at": 1788070612,
-      "changed": true,
+      "fetched_at": 1788071462,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -676,17 +676,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070615,
-      "fetched_at": 1788070615,
+      "updated_at": 1788071465,
+      "fetched_at": 1788071465,
       "changed": true,
       "status": "ok"
     },
@@ -706,10 +706,10 @@
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070618,
-      "fetched_at": 1788070618,
+      "updated_at": 1788071468,
+      "fetched_at": 1788071468,
       "changed": true,
       "status": "ok"
     },
@@ -722,18 +722,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070621,
-      "fetched_at": 1788070621,
-      "changed": true,
+      "fetched_at": 1788071471,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -745,18 +745,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070624,
-      "fetched_at": 1788070624,
-      "changed": true,
+      "fetched_at": 1788071474,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -768,18 +768,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070627,
-      "fetched_at": 1788070627,
-      "changed": true,
+      "fetched_at": 1788071480,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -791,17 +791,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1787922793,
-      "fetched_at": 1788070630,
+      "fetched_at": 1788071477,
       "changed": false,
       "status": "ok"
     },
@@ -814,18 +814,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070633,
-      "fetched_at": 1788070633,
-      "changed": true,
+      "fetched_at": 1788071483,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -837,18 +837,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070636,
-      "fetched_at": 1788070636,
-      "changed": true,
+      "fetched_at": 1788071486,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -860,17 +860,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788049606,
-      "fetched_at": 1788070639,
+      "fetched_at": 1788071489,
       "changed": false,
       "status": "ok"
     },
@@ -883,17 +883,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788028807,
-      "fetched_at": 1788070642,
+      "fetched_at": 1788071492,
       "changed": false,
       "status": "ok"
     },
@@ -906,17 +906,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1787994676,
-      "fetched_at": 1788070645,
+      "fetched_at": 1788071495,
       "changed": false,
       "status": "ok"
     },
@@ -929,18 +929,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070648,
-      "fetched_at": 1788070648,
-      "changed": true,
+      "fetched_at": 1788071498,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -952,17 +952,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788040140,
-      "fetched_at": 1788070651,
+      "fetched_at": 1788071501,
       "changed": false,
       "status": "ok"
     },
@@ -975,17 +975,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788040141,
-      "fetched_at": 1788070654,
+      "fetched_at": 1788071504,
       "changed": false,
       "status": "ok"
     },
@@ -998,17 +998,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1787969923,
-      "fetched_at": 1788070657,
+      "fetched_at": 1788071507,
       "changed": false,
       "status": "ok"
     },
@@ -1021,18 +1021,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070660,
-      "fetched_at": 1788070660,
-      "changed": true,
+      "fetched_at": 1788071510,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -1044,17 +1044,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788049607,
-      "fetched_at": 1788070663,
+      "fetched_at": 1788071513,
       "changed": false,
       "status": "ok"
     },
@@ -1067,18 +1067,18 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788070666,
-      "fetched_at": 1788070666,
-      "changed": true,
+      "fetched_at": 1788071516,
+      "changed": false,
       "status": "ok"
     },
     {
@@ -1090,17 +1090,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788040140,
-      "fetched_at": 1788070669,
+      "fetched_at": 1788071519,
       "changed": false,
       "status": "ok"
     },
@@ -1113,30 +1113,25 @@
       "webpage_downloader": "default",
       "webpage_backend": "requests",
       "webpage_refresh_policy": "always",
-      "download_webpages": false,
+      "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
       "use_session": true,
-      "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.15",
+      "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788070672,
-      "fetched_at": 1788070672,
+      "updated_at": 1788071522,
+      "fetched_at": 1788071522,
       "changed": true,
       "status": "ok"
     }
   ],
   "sync": {
-    "completed_at": 1788070768,
+    "completed_at": 1788073373,
     "changed": [
       "/feeds/www.rfi.fr/fr/rss",
-      "/feeds/www.rfi.fr/fr/afrique/rss",
-      "/feeds/www.rfi.fr/fr/asie-pacifique/rss",
-      "/feeds/www.rfi.fr/fr/france/rss",
-      "/feeds/www.rfi.fr/fr/moyen-orient/rss",
-      "/feeds/www.rfi.fr/fr/science/rss",
       "/feeds/www.rfi.fr/cn/item/rss",
       "/feeds/www.rfi.fr/cn/item/rss",
       "/feeds/www.rfi.fr/cn/item/rss",
@@ -1145,17 +1140,8 @@
       "/feeds/www.rfi.fr/cn/item/rss",
       "/feeds/www.rfi.fr/cn/item/rss",
       "/feeds/www.rfi.fr/cn/item/rss",
-      "/feeds/feeds.bbci.co.uk/zhongwen/trad/rss.xml",
       "/feeds/feeds.bbci.co.uk/news/rss.xml",
       "/feeds/feeds.bbci.co.uk/news/world/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/uk/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/business/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/politics/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/education/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/northern_ireland/rss.xml",
       "/feeds/feeds.bbci.co.uk/news/wales/rss.xml"
     ]
   }
