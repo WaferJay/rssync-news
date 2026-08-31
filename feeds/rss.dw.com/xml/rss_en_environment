@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Mon, 31 Aug 2026 05:47:28 GMT</pubDate>
-  <lastBuildDate>Mon, 31 Aug 2026 05:47:28 GMT</lastBuildDate>
+  <pubDate>Mon, 31 Aug 2026 16:13:56 GMT</pubDate>
+  <lastBuildDate>Mon, 31 Aug 2026 16:13:56 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">78005662</guid>
+   <pubDate>Mon, 31 Aug 2026 10:50:00 GMT</pubDate>
+   <title>Inside the sea cucumber smuggling boom</title>
+   <link>https://www.dw.com/en/inside-the-sea-cucumber-smuggling-boom/a-78005662?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>A quiet multimillion‑dollar black market is exploding across the Indian Ocean, driven by one unlikely animal: the sea cucumber.</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">78545407</guid>
    <pubDate>Fri, 28 Aug 2026 12:52:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Eco wins: Cities, creatures, and tech are saving the day</title>
    <link>https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world climate hacks are helping communities stay ahead of a changing planet.</description>
-   <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78091968</guid>
-   <pubDate>Fri, 24 Jul 2026 10:07:00 GMT</pubDate>
-   <title>The trees helping fires spread and what to do about it‌</title>
-   <link>https://www.dw.com/en/the-trees-helping-fires-spread-and-what-to-do-about-it‌/a-78091968?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>With Spain declaring an emergency, France seeking EU help and Canada dealing with more than 900 hot spots, wildfires are out of control. Monocultures and climate change are partly to blame but can we stop the burning?</description>
    <category>Environment</category>
   </item>
  </channel>
