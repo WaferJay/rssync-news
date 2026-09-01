@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Tue, 1 Sep 2026 13:33:00 GMT</pubDate>
-  <lastBuildDate>Tue, 1 Sep 2026 13:33:00 GMT</lastBuildDate>
+  <pubDate>Tue, 1 Sep 2026 19:25:47 GMT</pubDate>
+  <lastBuildDate>Tue, 1 Sep 2026 19:25:47 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">78615775</guid>
+   <pubDate>Tue, 1 Sep 2026 13:18:00 GMT</pubDate>
+   <title>As glaciers melt, can communities be protected?</title>
+   <link>https://www.dw.com/en/as-glaciers-melt-can-communities-be-protected/a-78615775?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>Rising temperatures are increasing the risk of floods and avalanches in mountain regions. The disaster in Nepal and Tibet shows the urgent need for solutions, and the tools that could help save lives.</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">78005662</guid>
    <pubDate>Mon, 31 Aug 2026 10:50:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Why is Germany building roads for yesterday&#039;s climate?</title>
    <link>https://www.dw.com/en/why-is-germany-building-roads-for-yesterday-s-climate/a-78130975?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>As the Autobahn buckles under heat waves, Germany is still paving roads for a past climate. Engineers know how to fix that — so what&#039;s the holdup?</description>
-   <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78097358</guid>
-   <pubDate>Sat, 25 Jul 2026 07:25:00 GMT</pubDate>
-   <title>Eco wins: Cities, creatures, and tech are saving the day</title>
-   <link>https://www.dw.com/en/eco-wins-cities-creatures-and-tech-are-saving-the-day/a-78097358?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>From an AI-powered cute little pangolin, heat mapping to cool down cities and animals reducing wildfire risks by doing their thing, these real-world climate hacks are helping communities stay ahead of a changing planet.</description>
    <category>Environment</category>
   </item>
  </channel>

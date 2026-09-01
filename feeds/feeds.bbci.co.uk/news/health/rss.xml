@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 01 Sep 2026 13:33:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Sep 2026 19:27:14 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -402,6 +402,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f75/live/d4355200-9188-11f1-a7ab-8b30adf0800a.jpg"/>
         </item>
         <item>
+            <title><![CDATA[People Fixing The World]]></title>
+            <description><![CDATA[What can be done to prevent, detect and treat the silent killer, sepsis?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8t17?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8t17#8</guid>
+            <pubDate>Tue, 01 Sep 2026 07:30:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p7d8sx.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[What are the symptoms of Hypermobility Spectrum Disorder?]]></title>
             <description><![CDATA[The disorder may affect hundreds of thousands of people in the UK, but many face significant delays in getting a diagnosis.]]></description>
             <link>https://www.bbc.co.uk/news/videos/c4gvx94djpdo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -424,14 +432,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwyzgg67gwdo#8</guid>
             <pubDate>Thu, 27 Aug 2026 16:17:08 GMT</pubDate>
             <media:thumbnail width="240" height="160" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6aa4/live/37f23670-a22b-11f1-b109-879e35c24276.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Vaping best way to quit smoking, new study finds]]></title>
-            <description><![CDATA[A team looked at 80 major trials involving nearly 30,000 people and found that nicotine vapes were more effective than traditional aids, increasing the success rate by about 60 percent.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/clym7y9kjkdo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/clym7y9kjkdo#8</guid>
-            <pubDate>Thu, 27 Aug 2026 10:00:33 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e896/live/0527faa0-a1fd-11f1-a291-b542ee92de7c.jpg"/>
         </item>
     </channel>
 </rss>
