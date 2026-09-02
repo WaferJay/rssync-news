@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/politics</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 02 Sep 2026 04:46:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Sep 2026 12:50:05 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/politics/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Reform up against 'complainants' society', Farage tells BBC]]></title>
+            <description><![CDATA[The Reform UK leader said a "whole ecosystem" didn't want "new kids on the block succeeding".]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cd6857j2v1qo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cd6857j2v1qo#0</guid>
+            <pubDate>Wed, 02 Sep 2026 12:10:22 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e2b/live/f05a8120-a6c4-11f1-ae1e-219da1d6451a.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Burnham promises more devolution and public control of essential services]]></title>
             <description><![CDATA[Tory leader Kemi Badenoch said Burnham was offering "more government control, more taxes and more politicians", as he addressed MPs for the first time as PM.]]></description>
@@ -21,14 +29,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2z528rdp6o#0</guid>
             <pubDate>Tue, 01 Sep 2026 21:48:44 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e9/live/bc2c3960-a652-11f1-aed2-8d6da8d75094.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Five takeaways from Burnham's Commons debut as PM]]></title>
-            <description><![CDATA[The prime minister's first appearance in Parliament comes more than six weeks after he entered No 10.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c2e0rdkrjw0o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2e0rdkrjw0o#0</guid>
-            <pubDate>Tue, 01 Sep 2026 18:17:41 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f25b/live/0b7bb550-a62a-11f1-905b-8511af748865.jpg"/>
         </item>
         <item>
             <title><![CDATA[Keir Starmer announces he is standing down as MP]]></title>
@@ -66,7 +66,7 @@
             <title><![CDATA[Tice defends Reform UK-led councils over tax rises and cuts]]></title>
             <description><![CDATA[Reform UK's deputy leader says the party has been "financially prudent" in local government.]]></description>
             <link>https://www.bbc.co.uk/news/articles/ckg87dlejqlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckg87dlejqlo#0</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckg87dlejqlo#1</guid>
             <pubDate>Tue, 01 Sep 2026 11:37:37 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9660/live/7b96fba0-a621-11f1-b109-879e35c24276.jpg"/>
         </item>
@@ -223,12 +223,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d6e/live/66851bb0-a20d-11f1-9090-b51af3a01fc2.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Burnham says united Ireland poll is 'off the table' during first NI visit]]></title>
-            <description><![CDATA[Andy Burnham said "we need to fix the things right in front of us in the here and now".]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cy9z43z3g24o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cy9z43z3g24o#1</guid>
-            <pubDate>Thu, 27 Aug 2026 22:04:30 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5527/live/a97f2cd0-a230-11f1-80a2-67c89a95284e.jpg"/>
+            <title><![CDATA[Five takeaways from Burnham's Commons debut as PM]]></title>
+            <description><![CDATA[The prime minister's first appearance in Parliament comes more than six weeks after he entered No 10.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c2e0rdkrjw0o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c2e0rdkrjw0o#2</guid>
+            <pubDate>Tue, 01 Sep 2026 18:17:41 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f25b/live/0b7bb550-a62a-11f1-905b-8511af748865.jpg"/>
         </item>
         <item>
             <title><![CDATA[Burnham gets the early prison release changes he wanted - but at what cost?]]></title>
@@ -383,12 +383,12 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4c4/live/6e1d6ab0-8b67-11f1-aeab-95d4580645f0.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Laura Kuenssberg: Our exclusive behind-the-scenes access at No 10 as Andy Burnham became PM]]></title>
-            <description><![CDATA[Laura Kuenssberg was given unprecedented access to the new prime minister’s first days in power. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c79gdjlv78wo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c79gdjlv78wo#2</guid>
-            <pubDate>Mon, 27 Jul 2026 05:00:13 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20af/live/b1af89f0-8754-11f1-b8ee-9b3c26ad07bb.jpg"/>
+            <title><![CDATA[Chris Mason: Will Burnham find PMQs as 'nail biting' and 'nerve wracking' as Blair did?]]></title>
+            <description><![CDATA[Curiously, the questions at lunchtime may well feel like a minor extension of what he faced on Tuesday, the BBC's political editor writes.   ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c7507z4enq6o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c7507z4enq6o#3</guid>
+            <pubDate>Wed, 02 Sep 2026 04:49:23 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26bd/live/343e8a70-a6a3-11f1-aed2-8d6da8d75094.jpg"/>
         </item>
         <item>
             <title><![CDATA[Where does this unorthodox by-election victory leave Nigel Farage?]]></title>
@@ -421,14 +421,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ce970y1n7plo#3</guid>
             <pubDate>Wed, 22 Jul 2026 09:22:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f9/live/ba8e4880-4d08-11f1-b55d-0f258dce1735.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Chris Mason: Sarwar ministerial role sees promotion of another Starmer critic]]></title>
-            <description><![CDATA[Months after calling on Keir Starmer to quit, the Scottish Labour leader is set to become a minister in Burnham's government, the BBC's political editor writes.  ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cx2rv14em3jo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cx2rv14em3jo#3</guid>
-            <pubDate>Wed, 22 Jul 2026 05:22:32 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e690/live/d128e040-859e-11f1-b976-0b9c15b0ccfc.jpg"/>
         </item>
         <item>
             <title><![CDATA[The dangers of politicians being 'too online' - or not online enough]]></title>
@@ -471,6 +463,22 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab52/live/19534330-8106-11f1-926f-c90d1bcfbc84.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Reform UK's Richard Tice questioned on BBC Local Radio]]></title>
+            <description><![CDATA[Richard Tice questioned on Nigel Farage, council tax and migration on BBC Local Radio.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cx2zx7p4j8po?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cx2zx7p4j8po#5</guid>
+            <pubDate>Wed, 02 Sep 2026 12:03:43 GMT</pubDate>
+            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e59/live/1ba936e0-a6b2-11f1-bf9b-4185c128a665.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Watch: What to expect from Burnham's first PMQs]]></title>
+            <description><![CDATA[Political correspondent Henry Zeffman explains what we might see at Burnham's first PMQs on Wednesday.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cz0z3ykeg03o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cz0z3ykeg03o#5</guid>
+            <pubDate>Wed, 02 Sep 2026 09:17:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8328/live/d04247f0-a6a7-11f1-b048-153395f36aa1.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Watch: Key moments from Andy Burnham's first Commons speech as PM]]></title>
             <description><![CDATA[The PM pledges "more substantial change" during his first speech to MPs.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cly7rn540x4o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -493,22 +501,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/clye40rx13eo#5</guid>
             <pubDate>Tue, 01 Sep 2026 10:05:54 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cc0/live/45db4960-a5ec-11f1-aed2-8d6da8d75094.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Victims 'desperate' for details on early prison release scheme, commissioner says]]></title>
-            <description><![CDATA[The Victims' Commissioner for England and Wales says victims are desperate for more detail on how the early release scheme will affect them.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c1l6v6zn53no?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c1l6v6zn53no#5</guid>
-            <pubDate>Tue, 01 Sep 2026 08:54:10 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78f0/live/0ff50810-a5e0-11f1-b109-879e35c24276.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Government wants to 'get out of prison crisis doom loop']]></title>
-            <description><![CDATA[The justice secretary says the early release of prisoners is part of a bigger plan to reform the prison service.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cwyzpj83g5go?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cwyzpj83g5go#5</guid>
-            <pubDate>Tue, 01 Sep 2026 07:37:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9d2/live/98d1cf20-a5d5-11f1-b109-879e35c24276.jpg"/>
         </item>
     </channel>
 </rss>
