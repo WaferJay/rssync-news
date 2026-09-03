@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Europe</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Thu, 3 Sep 2026 12:49:17 GMT</pubDate>
-  <lastBuildDate>Thu, 3 Sep 2026 12:49:17 GMT</lastBuildDate>
+  <pubDate>Thu, 3 Sep 2026 19:18:59 GMT</pubDate>
+  <lastBuildDate>Thu, 3 Sep 2026 19:18:59 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-eu" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">78889005</guid>
+   <pubDate>Thu, 3 Sep 2026 15:23:00 GMT</pubDate>
+   <title>Norway seizes Russian ship in Svalbard to compensate Ukraine</title>
+   <link>https://www.dw.com/en/norway-seizes-russian-ship-in-svalbard-to-compensate-ukraine/a-78889005?maca=en-rss-en-eu-2092-xml-mrss</link>
+   <description>Authorities in Norway have seized a Russian ship, the Professor Molchanov, on a court order sought and obtained by Naftogaz in Ukraine. Russia has protested the move, which stems from its refusal to pay Naftogaz damages.</description>
+   <category>News</category>
+  </item>
   <item>
    <guid isPermaLink="false">78772317</guid>
    <pubDate>Wed, 2 Sep 2026 16:00:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/could-russia-s-growing-fuel-crisis-help-end-the-ukraine-war/a-78472138?maca=en-rss-en-eu-2092-xml-mrss</link>
    <description>Ukrainian attacks on oil refineries have deepened Russia&#039;s fuel crisis, with shortages reaching Moscow. Could growing public anger put Putin under pressure?</description>
    <category>World</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78475087</guid>
-   <pubDate>Sun, 23 Aug 2026 10:23:00 GMT</pubDate>
-   <title>Ukraine: Zelenskyy rejects wartime elections</title>
-   <link>https://www.dw.com/en/ukraine-zelenskyy-rejects-wartime-elections/a-78475087?maca=en-rss-en-eu-2092-xml-mrss</link>
-   <description>The Ukrainian president says wartime elections, as called for by the ex-defense minister, could &quot;split Ukraine.&quot; He also said Russia was planning to mobilize hundreds of thousands of troops after September polls there.</description>
-   <category>News</category>
   </item>
  </channel>
 </rss>
