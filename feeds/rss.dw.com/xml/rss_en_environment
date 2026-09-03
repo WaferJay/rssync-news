@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Thu, 3 Sep 2026 04:40:07 GMT</pubDate>
-  <lastBuildDate>Thu, 3 Sep 2026 04:40:07 GMT</lastBuildDate>
+  <pubDate>Thu, 3 Sep 2026 12:50:12 GMT</pubDate>
+  <lastBuildDate>Thu, 3 Sep 2026 12:50:12 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -19,10 +19,18 @@
   </image>
   <ttl>10</ttl>
   <item>
+   <guid isPermaLink="false">78789889</guid>
+   <pubDate>Thu, 3 Sep 2026 08:53:00 GMT</pubDate>
+   <title>Data centers are everywhere. Here&#039;s what they&#039;re doing to the planet.</title>
+   <link>https://www.dw.com/en/data-centers-are-everywhere-here-s-what-they-re-doing-to-the-planet/a-78789889?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>As data centers multiply to meet AI demand, they&#039;re straining power grids, draining water supplies, and reshaping the land and air around them.</description>
+   <category>Environment</category>
+  </item>
+  <item>
    <guid isPermaLink="false">78615775</guid>
    <pubDate>Tue, 1 Sep 2026 13:18:00 GMT</pubDate>
-   <title>As glaciers melt, can communities be protected?</title>
-   <link>https://www.dw.com/en/as-glaciers-melt-can-communities-be-protected/a-78615775?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <title>Can communities be proteced from melting glaciers?</title>
+   <link>https://www.dw.com/en/can-communities-be-proteced-from-melting-glaciers/a-78615775?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>Rising temperatures are increasing the risk of floods and avalanches in mountain regions. The disaster in Nepal and Tibet shows the urgent need for solutions, and the tools that could help save lives.</description>
    <category>Environment</category>
   </item>
@@ -168,14 +176,6 @@
    <title>Eco wins: From death strip to nature haven and other green surprises</title>
    <link>https://www.dw.com/en/eco-wins-from-death-strip-to-nature-haven-and-other-green-surprises/a-78187601?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>A Cold War relic becomes a biodiversity haven, a Pokemon Go for trees and seagrass gets a second life. This week&#039;s eco wins come from some unexpected places.</description>
-   <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78130975</guid>
-   <pubDate>Tue, 28 Jul 2026 13:34:00 GMT</pubDate>
-   <title>Why is Germany building roads for yesterday&#039;s climate?</title>
-   <link>https://www.dw.com/en/why-is-germany-building-roads-for-yesterday-s-climate/a-78130975?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>As the Autobahn buckles under heat waves, Germany is still paving roads for a past climate. Engineers know how to fix that — so what&#039;s the holdup?</description>
    <category>Environment</category>
   </item>
  </channel>
