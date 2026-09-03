@@ -6,8 +6,8 @@
   <description>World | Deutsche Welle</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Wed, 2 Sep 2026 19:22:05 GMT</pubDate>
-  <lastBuildDate>Wed, 2 Sep 2026 19:22:05 GMT</lastBuildDate>
+  <pubDate>Thu, 3 Sep 2026 04:41:16 GMT</pubDate>
+  <lastBuildDate>Thu, 3 Sep 2026 04:41:16 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-world" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">78654173</guid>
+   <pubDate>Thu, 3 Sep 2026 00:05:00 GMT</pubDate>
+   <title>UNICEF: 1 in 5 youths targeted by online sexual abuse</title>
+   <link>https://www.dw.com/en/unicef-1-in-5-youths-targeted-by-online-sexual-abuse/a-78654173?maca=en-rss-en-world-4025-xml-mrss</link>
+   <description>A survey of around 21,000 young people by the UN&#039;s agency for children has found that online sexual abuse of minors is on the rise.</description>
+   <category>World</category>
+  </item>
   <item>
    <guid isPermaLink="false">78758325</guid>
    <pubDate>Wed, 2 Sep 2026 17:35:00 GMT</pubDate>
@@ -113,14 +121,6 @@
    <link>https://www.dw.com/en/will-bangladesh-join-the-mecca-defense-alliance/a-78613944?maca=en-rss-en-world-4025-xml-mrss</link>
    <description>While Bangladesh weighs the risks of signing the Mecca Joint Defense Agreement, experts warn that such a move could complicate relations with neighboring India.</description>
    <category>World</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78606923</guid>
-   <pubDate>Tue, 1 Sep 2026 12:23:00 GMT</pubDate>
-   <title>Norway&#039;s new King Haakon VIII takes oath in parliament</title>
-   <link>https://www.dw.com/en/norway-s-new-king-haakon-viii-takes-oath-in-parliament/a-78606923?maca=en-rss-en-world-4025-xml-mrss</link>
-   <description>The new king swore to uphold the constitution in parliament in Oslo, the first major institutional step of his reign. Haakon VIII&#039;s wife Queen Mette-Marit had to skip the event in the aftermath of her lung transplant.</description>
-   <category>News</category>
   </item>
  </channel>
 </rss>
