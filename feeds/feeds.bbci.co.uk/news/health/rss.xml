@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 04 Sep 2026 04:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Sep 2026 12:47:42 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -394,6 +394,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[The Global Story]]></title>
+            <description><![CDATA[The US is an outlier in its approach to prosecuting infanticide. Why?]]></description>
+            <link>https://www.bbc.co.uk/sounds/play/w3ct8m97?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct8m97#8</guid>
+            <pubDate>Fri, 04 Sep 2026 09:00:00 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p7y4kg.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[A&E patients ending up in 'corridors and cupboards']]></title>
             <description><![CDATA[A consultant tells the Scotcast podcast that A&E patients ending in 'corridors and cupboards'.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cevwx7lmznro?at_medium=RSS&amp;at_campaign=rss</link>
@@ -424,14 +432,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/iplayer/episode/m00315q7#8</guid>
             <pubDate>Wed, 02 Sep 2026 20:58:07 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0p6mdw1.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Moral Maze]]></title>
-            <description><![CDATA[Live debate examining the moral issues behind one of the week's news stories.]]></description>
-            <link>https://www.bbc.co.uk/sounds/play/m0030xhn?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0030xhn#8</guid>
-            <pubDate>Wed, 02 Sep 2026 20:00:00 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0nmg67x.jpg"/>
         </item>
     </channel>
 </rss>
