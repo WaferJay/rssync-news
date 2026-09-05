@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sat, 5 Sep 2026 11:47:40 GMT</pubDate>
-  <lastBuildDate>Sat, 5 Sep 2026 11:47:40 GMT</lastBuildDate>
+  <pubDate>Sat, 5 Sep 2026 18:24:15 GMT</pubDate>
+  <lastBuildDate>Sat, 5 Sep 2026 18:24:15 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79049228</guid>
+   <pubDate>Sat, 5 Sep 2026 17:32:00 GMT</pubDate>
+   <title>Croatia: Toxic waste protest draws tens of thousands</title>
+   <link>https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>The Zagreb demonstrators demanded that the government come up with a plan to clear illegal toxic waste in 20 days. Prime Minister Plenkovic has promised to tackle the issue.</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">78789889</guid>
    <pubDate>Fri, 4 Sep 2026 11:08:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>What&#039;s really causing Europe&#039;s wildfires</title>
    <link>https://www.dw.com/en/what-s-really-causing-europe-s-wildfires/a-78194776?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>From Greece to France, Europe is burning. But what&#039;s the real reason for the historic blazes ripping through the continent and why are they getting harder to stop?</description>
-   <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78187601</guid>
-   <pubDate>Fri, 31 Jul 2026 12:33:00 GMT</pubDate>
-   <title>Eco wins: From death strip to nature haven and other green surprises</title>
-   <link>https://www.dw.com/en/eco-wins-from-death-strip-to-nature-haven-and-other-green-surprises/a-78187601?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>A Cold War relic becomes a biodiversity haven, a Pokemon Go for trees and seagrass gets a second life. This week&#039;s eco wins come from some unexpected places.</description>
    <category>Environment</category>
   </item>
  </channel>
