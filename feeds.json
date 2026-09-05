@@ -9,20 +9,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583239,
-      "fetched_at": 1788583239,
+      "updated_at": 1788584355,
+      "fetched_at": 1788584355,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-all",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -35,20 +36,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583242,
-      "fetched_at": 1788583242,
+      "updated_at": 1788584358,
+      "fetched_at": 1788584358,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-top",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -61,20 +63,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583245,
-      "fetched_at": 1788583245,
+      "updated_at": 1788584360,
+      "fetched_at": 1788584360,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-ger",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -87,20 +90,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583248,
-      "fetched_at": 1788583248,
+      "updated_at": 1788584363,
+      "fetched_at": 1788584363,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-world",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -113,20 +117,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583251,
-      "fetched_at": 1788583251,
+      "updated_at": 1788584367,
+      "fetched_at": 1788584367,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-eu",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -139,20 +144,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583254,
-      "fetched_at": 1788583254,
+      "updated_at": 1788584369,
+      "fetched_at": 1788584369,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-africa",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -165,20 +171,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583257,
-      "fetched_at": 1788583257,
+      "updated_at": 1788584372,
+      "fetched_at": 1788584372,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-bus",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -191,20 +198,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583260,
-      "fetched_at": 1788583260,
+      "updated_at": 1788584375,
+      "fetched_at": 1788584375,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss_en_science",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -217,20 +225,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583263,
-      "fetched_at": 1788583263,
+      "updated_at": 1788584378,
+      "fetched_at": 1788584378,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss_en_environment",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -243,20 +252,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583266,
-      "fetched_at": 1788583266,
+      "updated_at": 1788584381,
+      "fetched_at": 1788584381,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-cul",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -269,20 +279,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583269,
-      "fetched_at": 1788583269,
+      "updated_at": 1788584384,
+      "fetched_at": 1788584384,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-sports",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -295,20 +306,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583272,
-      "fetched_at": 1788583272,
+      "updated_at": 1788584388,
+      "fetched_at": 1788584388,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-visitgermany",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -321,20 +333,21 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": true,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
-      "updated_at": 1788583275,
-      "fetched_at": 1788583275,
+      "updated_at": 1788584390,
+      "fetched_at": 1788584390,
       "changed": true,
       "status": "ok",
       "atom_path": "/atoms/rss.dw.com/xml/rss-en-asia",
-      "atom_updated_at": 1788583452,
+      "atom_updated_at": 1788584415,
       "atom_changed": true,
       "atom_status": "ok"
     },
@@ -347,21 +360,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583239,
-      "fetched_at": 1788583239,
-      "changed": true,
+      "fetched_at": 1788584355,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/www.france24.com/en/rss",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -373,16 +387,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788211902,
-      "fetched_at": 1788583242,
+      "fetched_at": 1788584357,
       "changed": false,
       "status": "ok",
       "atom_path": "/atoms/www.france24.com/en/france/rss",
@@ -399,21 +414,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583245,
-      "fetched_at": 1788583245,
-      "changed": true,
+      "fetched_at": 1788584360,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/www.france24.com/en/africa/rss",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -425,21 +441,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583248,
-      "fetched_at": 1788583248,
-      "changed": true,
+      "fetched_at": 1788584363,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/www.france24.com/en/middle-east/rss",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -451,21 +468,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583251,
-      "fetched_at": 1788583251,
-      "changed": true,
+      "fetched_at": 1788584366,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/www.france24.com/en/americas/rss",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -477,21 +495,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583254,
-      "fetched_at": 1788583254,
-      "changed": true,
+      "fetched_at": 1788584369,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/www.france24.com/en/europe/rss",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -503,16 +522,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788548506,
-      "fetched_at": 1788583257,
+      "fetched_at": 1788584372,
       "changed": false,
       "status": "ok",
       "atom_path": "/atoms/www.france24.com/en/asia-pacific/rss",
@@ -529,21 +549,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583239,
-      "fetched_at": 1788583239,
-      "changed": true,
+      "fetched_at": 1788584355,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1001/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -555,21 +576,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583242,
-      "fetched_at": 1788583242,
-      "changed": true,
+      "fetched_at": 1788584357,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1002/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -581,21 +603,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583245,
-      "fetched_at": 1788583245,
-      "changed": true,
+      "fetched_at": 1788584360,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1003/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -607,21 +630,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583248,
-      "fetched_at": 1788583248,
-      "changed": true,
+      "fetched_at": 1788584363,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1004/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -633,21 +657,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583251,
-      "fetched_at": 1788583251,
-      "changed": true,
+      "fetched_at": 1788584366,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1014/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -659,21 +684,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583254,
-      "fetched_at": 1788583254,
-      "changed": true,
+      "fetched_at": 1788584369,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1006/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -685,21 +711,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583257,
-      "fetched_at": 1788583257,
-      "changed": true,
+      "fetched_at": 1788584372,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1128/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -711,21 +738,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583260,
-      "fetched_at": 1788583260,
-      "changed": true,
+      "fetched_at": 1788584375,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1007/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -737,16 +765,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788526072,
-      "fetched_at": 1788583263,
+      "fetched_at": 1788584378,
       "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/1167/rss.xml",
@@ -763,21 +792,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583266,
-      "fetched_at": 1788583266,
-      "changed": true,
+      "fetched_at": 1788584381,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/2/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -789,21 +819,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583269,
-      "fetched_at": 1788583269,
-      "changed": true,
+      "fetched_at": 1788584384,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.npr.org/3/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -815,21 +846,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583239,
-      "fetched_at": 1788583239,
-      "changed": true,
+      "fetched_at": 1788584355,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/zhongwen/trad/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -841,21 +873,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583242,
-      "fetched_at": 1788583242,
-      "changed": true,
+      "fetched_at": 1788584357,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -867,21 +900,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583245,
-      "fetched_at": 1788583245,
-      "changed": true,
+      "fetched_at": 1788584360,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/world/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -893,21 +927,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583248,
-      "fetched_at": 1788583248,
-      "changed": true,
+      "fetched_at": 1788584363,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/uk/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -919,21 +954,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583251,
-      "fetched_at": 1788583251,
-      "changed": true,
+      "fetched_at": 1788584366,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/business/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -945,21 +981,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583254,
-      "fetched_at": 1788583254,
-      "changed": true,
+      "fetched_at": 1788584369,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/politics/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -971,21 +1008,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583257,
-      "fetched_at": 1788583257,
-      "changed": true,
+      "fetched_at": 1788584372,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/health/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -997,21 +1035,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583260,
-      "fetched_at": 1788583260,
-      "changed": true,
+      "fetched_at": 1788584375,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/education/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1023,21 +1062,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583263,
-      "fetched_at": 1788583263,
-      "changed": true,
+      "fetched_at": 1788584378,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/science_and_environment/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1049,21 +1089,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583266,
-      "fetched_at": 1788583266,
-      "changed": true,
+      "fetched_at": 1788584381,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/technology/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1075,21 +1116,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583269,
-      "fetched_at": 1788583269,
-      "changed": true,
+      "fetched_at": 1788584384,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1101,21 +1143,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583272,
-      "fetched_at": 1788583272,
-      "changed": true,
+      "fetched_at": 1788584387,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/world/africa/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1127,21 +1170,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583275,
-      "fetched_at": 1788583275,
-      "changed": true,
+      "fetched_at": 1788584390,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/world/asia/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1153,21 +1197,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583278,
-      "fetched_at": 1788583278,
-      "changed": true,
+      "fetched_at": 1788584393,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/world/europe/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1179,21 +1224,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583281,
-      "fetched_at": 1788583281,
-      "changed": true,
+      "fetched_at": 1788584396,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/world/latin_america/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1205,16 +1251,17 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788526093,
-      "fetched_at": 1788583284,
+      "fetched_at": 1788584399,
       "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/world/middle_east/rss.xml",
@@ -1231,21 +1278,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583287,
-      "fetched_at": 1788583287,
-      "changed": true,
+      "fetched_at": 1788584402,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1257,21 +1305,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583290,
-      "fetched_at": 1788583290,
-      "changed": true,
+      "fetched_at": 1788584405,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/england/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1283,21 +1332,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583293,
-      "fetched_at": 1788583293,
-      "changed": true,
+      "fetched_at": 1788584408,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/northern_ireland/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1309,21 +1359,22 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583296,
-      "fetched_at": 1788583296,
-      "changed": true,
+      "fetched_at": 1788584411,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/scotland/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     },
     {
@@ -1335,26 +1386,27 @@
       "webpage_downloader": "default",
       "webpage_backend": "httpx",
       "webpage_refresh_policy": "missing-only",
+      "webpage_ignore_query": false,
       "download_webpages": true,
       "change_detection": {
         "ignore_tags": [
           "lastBuildDate"
         ]
       },
-      "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Mobile/15E148 Safari/604.1",
+      "user_agent": "Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36",
       "user_agent_strategy": "per-run",
       "updated_at": 1788583299,
-      "fetched_at": 1788583299,
-      "changed": true,
+      "fetched_at": 1788584414,
+      "changed": false,
       "status": "ok",
       "atom_path": "/atoms/feeds.bbci.co.uk/news/wales/rss.xml",
       "atom_updated_at": 1788583452,
-      "atom_changed": true,
+      "atom_changed": false,
       "atom_status": "ok"
     }
   ],
   "sync": {
-    "completed_at": 1788583452,
+    "completed_at": 1788584415,
     "changed": [
       "/feeds/rss.dw.com/xml/rss-en-all",
       "/feeds/rss.dw.com/xml/rss-en-top",
@@ -1368,42 +1420,7 @@
       "/feeds/rss.dw.com/xml/rss-en-cul",
       "/feeds/rss.dw.com/xml/rss-en-sports",
       "/feeds/rss.dw.com/xml/rss-en-visitgermany",
-      "/feeds/rss.dw.com/xml/rss-en-asia",
-      "/feeds/www.france24.com/en/rss",
-      "/feeds/www.france24.com/en/africa/rss",
-      "/feeds/www.france24.com/en/middle-east/rss",
-      "/feeds/www.france24.com/en/americas/rss",
-      "/feeds/www.france24.com/en/europe/rss",
-      "/feeds/feeds.npr.org/1001/rss.xml",
-      "/feeds/feeds.npr.org/1002/rss.xml",
-      "/feeds/feeds.npr.org/1003/rss.xml",
-      "/feeds/feeds.npr.org/1004/rss.xml",
-      "/feeds/feeds.npr.org/1014/rss.xml",
-      "/feeds/feeds.npr.org/1006/rss.xml",
-      "/feeds/feeds.npr.org/1128/rss.xml",
-      "/feeds/feeds.npr.org/1007/rss.xml",
-      "/feeds/feeds.npr.org/2/rss.xml",
-      "/feeds/feeds.npr.org/3/rss.xml",
-      "/feeds/feeds.bbci.co.uk/zhongwen/trad/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/world/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/uk/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/business/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/politics/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/health/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/education/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/technology/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/england/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/scotland/rss.xml",
-      "/feeds/feeds.bbci.co.uk/news/wales/rss.xml"
+      "/feeds/rss.dw.com/xml/rss-en-asia"
     ],
     "changed_atoms": [
       "/atoms/rss.dw.com/xml/rss-en-all",
@@ -1418,42 +1435,7 @@
       "/atoms/rss.dw.com/xml/rss-en-cul",
       "/atoms/rss.dw.com/xml/rss-en-sports",
       "/atoms/rss.dw.com/xml/rss-en-visitgermany",
-      "/atoms/rss.dw.com/xml/rss-en-asia",
-      "/atoms/www.france24.com/en/rss",
-      "/atoms/www.france24.com/en/africa/rss",
-      "/atoms/www.france24.com/en/middle-east/rss",
-      "/atoms/www.france24.com/en/americas/rss",
-      "/atoms/www.france24.com/en/europe/rss",
-      "/atoms/feeds.npr.org/1001/rss.xml",
-      "/atoms/feeds.npr.org/1002/rss.xml",
-      "/atoms/feeds.npr.org/1003/rss.xml",
-      "/atoms/feeds.npr.org/1004/rss.xml",
-      "/atoms/feeds.npr.org/1014/rss.xml",
-      "/atoms/feeds.npr.org/1006/rss.xml",
-      "/atoms/feeds.npr.org/1128/rss.xml",
-      "/atoms/feeds.npr.org/1007/rss.xml",
-      "/atoms/feeds.npr.org/2/rss.xml",
-      "/atoms/feeds.npr.org/3/rss.xml",
-      "/atoms/feeds.bbci.co.uk/zhongwen/trad/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/world/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/uk/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/business/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/politics/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/health/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/education/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/science_and_environment/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/technology/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/world/africa/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/world/asia/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/world/europe/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/world/latin_america/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/world/us_and_canada/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/england/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/northern_ireland/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/scotland/rss.xml",
-      "/atoms/feeds.bbci.co.uk/news/wales/rss.xml"
+      "/atoms/rss.dw.com/xml/rss-en-asia"
     ]
   }
 }
