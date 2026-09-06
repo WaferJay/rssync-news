@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Europe</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sun, 6 Sep 2026 12:08:06 GMT</pubDate>
-  <lastBuildDate>Sun, 6 Sep 2026 12:08:06 GMT</lastBuildDate>
+  <pubDate>Sun, 6 Sep 2026 18:25:11 GMT</pubDate>
+  <lastBuildDate>Sun, 6 Sep 2026 18:25:11 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-eu" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79054779</guid>
+   <pubDate>Sun, 6 Sep 2026 13:02:00 GMT</pubDate>
+   <title>US envoys Witkoff, Kushner arrive in Kiyv after Putin talks</title>
+   <link>https://www.dw.com/en/us-envoys-witkoff-kushner-arrive-in-kiyv-after-putin-talks/a-79054779?maca=en-rss-en-eu-2092-xml-mrss</link>
+   <description>The two US offcials are meeting Ukrainian President Volodymyr Zelenskyy in Kyiv, with national security advisors the UK, France, and Germany reportedly also in Ukraine for talks.</description>
+   <category>News</category>
+  </item>
   <item>
    <guid isPermaLink="false">78655223</guid>
    <pubDate>Sun, 6 Sep 2026 10:25:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/ratko-mladic-the-man-behind-srebrenica-massacre-dies-at-84/a-78536491?maca=en-rss-en-eu-2092-xml-mrss</link>
    <description>For many, Ratko Mladic represented the horrors of the Bosnian war. He was convicted of genocide for the Srebrenica massacre and other war crimes. On Thursday, he died in detention at The Hague.</description>
    <category>World</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78531323</guid>
-   <pubDate>Thu, 27 Aug 2026 12:52:00 GMT</pubDate>
-   <title>Ex-Bosnian Serb military leader Ratko Mladic dead at 84</title>
-   <link>https://www.dw.com/en/ex-bosnian-serb-military-leader-ratko-mladic-dead-at-84/a-78531323?maca=en-rss-en-eu-2092-xml-mrss</link>
-   <description>The former Bosnian Serb general was convicted of genocide committed during the bloody 1992-95 war in Bosnia and Herzegovina.</description>
-   <category>News</category>
   </item>
  </channel>
 </rss>
