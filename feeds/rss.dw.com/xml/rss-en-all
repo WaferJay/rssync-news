@@ -6,8 +6,8 @@
   <description>Deutsche Welle</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Fri, 11 Sep 2026 19:11:49 GMT</pubDate>
-  <lastBuildDate>Fri, 11 Sep 2026 19:11:49 GMT</lastBuildDate>
+  <pubDate>Sat, 12 Sep 2026 04:44:44 GMT</pubDate>
+  <lastBuildDate>Sat, 12 Sep 2026 04:44:44 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-all" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79241365</guid>
+   <pubDate>Fri, 11 Sep 2026 21:01:00 GMT</pubDate>
+   <title>France: More than 40 injured in train derailment</title>
+   <link>https://www.dw.com/en/france-more-than-40-injured-in-train-derailment/a-79241365?maca=en-rss-en-all-1573-xml-mrss</link>
+   <description>The train derailed between Rouen and Caen in Normandy, northwest France, on Friday evening. One of the injured was in a critical state.</description>
+   <category>News</category>
+  </item>
   <item>
    <guid isPermaLink="false">79238219</guid>
    <pubDate>Fri, 11 Sep 2026 15:53:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/philippines-ferry-fire-search-continues-for-dozens-missing/a-79223425?maca=en-rss-en-all-1573-xml-mrss</link>
    <description>Firefighters searching for survivors combed through the smoking remains of a ferry off the coast of Coron island in the Philippines. Dozens of people have died, and more than 40 have been rescued.</description>
    <category>News</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79202918</guid>
-   <pubDate>Fri, 11 Sep 2026 06:26:00 GMT</pubDate>
-   <title>Germany&#039;s connection to the 9/11 attacks</title>
-   <link>https://www.dw.com/en/germany-s-connection-to-the-9-11-attacks/a-79202918?maca=en-rss-en-all-1573-xml-mrss</link>
-   <description>The 9/11 plot, including the twin tower attacks, was partly planned by the so-called Hamburg cell. A look at how Germany&#039;s national security was reshaped.</description>
-   <category>World</category>
   </item>
   <item>
    <guid isPermaLink="false">79213013</guid>
@@ -1105,14 +1105,6 @@
    <link>https://www.dw.com/en/can-a-drug-help-prevent-trauma-study-with-mice-suggests-so/a-78301961?maca=en-rss-en-all-1573-xml-mrss</link>
    <description>Researchers in Munich and Stockholm blocked the lifelong social cost of early adversity in mice with a single compound. The catch: it only worked when given during the trauma, not after.</description>
    <category>Science</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">77888704</guid>
-   <pubDate>Thu, 13 Aug 2026 07:13:00 GMT</pubDate>
-   <title>Can we go green without forever chemicals?</title>
-   <link>https://www.dw.com/en/can-we-go-green-without-forever-chemicals/a-77888704?maca=en-rss-en-all-1573-xml-mrss</link>
-   <description>As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?</description>
-   <category>Environment</category>
   </item>
  </channel>
 </rss>
