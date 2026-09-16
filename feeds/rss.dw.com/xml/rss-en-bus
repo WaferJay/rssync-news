@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Wed, 16 Sep 2026 04:53:57 GMT</pubDate>
-  <lastBuildDate>Wed, 16 Sep 2026 04:53:57 GMT</lastBuildDate>
+  <pubDate>Wed, 16 Sep 2026 13:31:28 GMT</pubDate>
+  <lastBuildDate>Wed, 16 Sep 2026 13:31:28 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79280086</guid>
+   <pubDate>Wed, 16 Sep 2026 10:05:00 GMT</pubDate>
+   <title>Global Gender Gap Report: Women&#039;s hard-won gains &#039;fragile&#039;</title>
+   <link>https://www.dw.com/en/global-gender-gap-report-women-s-hard-won-gains-fragile/a-79280086?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>Two decades of progress toward gender parity is at risk as women&#039;s political representation declines, according to a new World Economic Forum report. At the current pace, the remaining gap could take 120 years to close.</description>
+   <category>Business</category>
+  </item>
   <item>
    <guid isPermaLink="false">79259272</guid>
    <pubDate>Tue, 15 Sep 2026 13:17:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>A Chinese court ordered the former billionaire&#039;s assets to be confiscated and fined Evergrande-related companies billions of dollars.</description>
    <category>News</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78396946</guid>
-   <pubDate>Wed, 19 Aug 2026 09:02:00 GMT</pubDate>
-   <title>Who really owns the Caspian Sea?</title>
-   <link>https://www.dw.com/en/who-really-owns-the-caspian-sea/a-78396946?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>Five countries border the Caspian Sea, but none owns a fixed share. A 2018 convention established rules for navigation, security and fishing while leaving some seabed borders unresolved.</description>
-   <category>Business</category>
   </item>
  </channel>
 </rss>

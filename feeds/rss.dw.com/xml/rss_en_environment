@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Wed, 16 Sep 2026 04:55:48 GMT</pubDate>
-  <lastBuildDate>Wed, 16 Sep 2026 04:55:48 GMT</lastBuildDate>
+  <pubDate>Wed, 16 Sep 2026 13:32:22 GMT</pubDate>
+  <lastBuildDate>Wed, 16 Sep 2026 13:32:22 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79268306</guid>
+   <pubDate>Wed, 16 Sep 2026 08:25:00 GMT</pubDate>
+   <title>How hotter weather is making us poorer</title>
+   <link>https://www.dw.com/en/how-hotter-weather-is-making-us-poorer/a-79268306?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>Heat waves, wildfires and floods have cascading economic impacts, causing incomes to decline and the price of basic goods to rise. The trend will escalate as temperatures continue to increase.</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">79224310</guid>
    <pubDate>Tue, 15 Sep 2026 07:48:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/the-hidden-problem-with-small-modular-nuclear-reactors/a-77491854?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>Mini nuclear reactors are seen as a flexible energy source. Their promise: abundant energy, cheap, clean and climate-friendly with lower water use. But do the numbers add up? We look at what&#039;s behind the SMR hype.</description>
    <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78193418</guid>
-   <pubDate>Tue, 4 Aug 2026 14:46:00 GMT</pubDate>
-   <title>South Sudan: How climate change can result in toxic water</title>
-   <link>https://www.dw.com/en/south-sudan-how-climate-change-can-result-in-toxic-water/a-78193418?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>Years of flooding have resulted in disastrous water pollution in South Sudan&#039;s main oil region. As communities, scientists and health workers scramble for solutions, the long-term impacts of the crisis is yet to emerge.</description>
-   <category>World</category>
   </item>
  </channel>
 </rss>
