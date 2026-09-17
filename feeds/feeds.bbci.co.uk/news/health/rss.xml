@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 13:36:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 19:46:43 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Andy Burnham urged to set dementia waiting-time target]]></title>
+            <description><![CDATA[An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c50m3glzppgpo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c50m3glzppgpo#0</guid>
+            <pubDate>Thu, 17 Sep 2026 19:13:59 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fef0/live/bdc56440-b2b9-11f1-ad9d-efc12ace03e0.jpg"/>
+        </item>
         <item>
             <title><![CDATA[New hope for breast cancer patients as life-extending drug now on NHS in England]]></title>
             <description><![CDATA[Enhertu, which can give patients an extra seven months to live on average, has been prescribed in Scotland for more than two years and is available. ]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c93vderdkyvo#0</guid>
             <pubDate>Thu, 10 Sep 2026 09:31:16 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4465/live/866c8070-ac68-11f1-a540-61c3f7fc4e6c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[UK needs new laws for AI in healthcare, says watchdog]]></title>
-            <description><![CDATA[The technology will soon be routinely used within the NHS, MHRA chief Lawrence Tallon tells the BBC.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c3wjn3pl63xo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c3wjn3pl63xo#0</guid>
-            <pubDate>Thu, 10 Sep 2026 00:48:35 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4b9/live/69dbfa80-ac63-11f1-be57-03729df1d736.jpg"/>
         </item>
         <item>
             <title><![CDATA['Like a hangover': Why your partner's snoring could be impacting your health]]></title>
@@ -394,6 +394,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"/>
         </item>
         <item>
+            <title><![CDATA['Inspirational' 97-year- old wing walker gives back to hospital ward]]></title>
+            <description><![CDATA[The world's oldest female wing-walker has delivered a cheque to the hospital where she was treated.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ckjrxql9xpx3o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckjrxql9xpx3o#8</guid>
+            <pubDate>Thu, 17 Sep 2026 16:20:26 GMT</pubDate>
+            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b5/live/2f8743c0-b2b3-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Cancer patient told she will get drug which could make her life longer]]></title>
             <description><![CDATA[Patients in England with an incurable breast cancer can now access a life-extending drug on the NHS, two years after it was deemed too expensive by a health body.
 ]]></description>
@@ -425,14 +433,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c4g5ky004ryo#8</guid>
             <pubDate>Fri, 11 Sep 2026 12:06:05 GMT</pubDate>
             <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e720/live/2149c560-add8-11f1-871b-cb14676e811d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[William and Catherine praise role of sports in suicide prevention]]></title>
-            <description><![CDATA[The Princess of Wales has made a surprise appearance alongside her husband the Prince of Wales, as he gave an impassioned call to the sports sector to help prevent suicides.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cy4zr0219kjo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cy4zr0219kjo#8</guid>
-            <pubDate>Thu, 10 Sep 2026 22:08:54 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80ea/live/b8355820-ad62-11f1-b1d1-571ed4d7ff2c.jpg"/>
         </item>
     </channel>
 </rss>

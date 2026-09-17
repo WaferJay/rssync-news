@@ -9,25 +9,25 @@
             <link>https://www.bbc.co.uk/news/business</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 13:36:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Sep 2026 19:46:37 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/business/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
             <title><![CDATA[Interest rates held but Bank signals rise if energy prices stay high]]></title>
-            <description><![CDATA[Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.]]></description>
+            <description><![CDATA[Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o#0</guid>
-            <pubDate>Thu, 17 Sep 2026 12:39:08 GMT</pubDate>
+            <pubDate>Thu, 17 Sep 2026 14:05:38 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a70/live/ce050920-b28f-11f1-8096-b33a1297275a.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Barclays staff push back at plans to reduce work-from-home days]]></title>
+            <title><![CDATA[Barclays workers ask for more money to return to the office]]></title>
             <description><![CDATA[Unite union, which represents 36,000 Barclays staff, calls for a one-off payment to offset increased travel and childcare costs.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqlym1n9kpyvo#0</guid>
-            <pubDate>Thu, 17 Sep 2026 13:18:03 GMT</pubDate>
+            <pubDate>Thu, 17 Sep 2026 14:20:27 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c4b/live/ea69b660-b28f-11f1-8096-b33a1297275a.jpg"/>
         </item>
         <item>
@@ -39,14 +39,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5553/live/d872bbd0-b27d-11f1-b1d1-571ed4d7ff2c.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Would you buy branded clothing from your favourite tech firm?]]></title>
-            <description><![CDATA[Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo#0</guid>
-            <pubDate>Wed, 16 Sep 2026 23:18:47 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Uncontrolled AI could lead to 'silicon species' rivalling humans, warns Microsoft]]></title>
             <description><![CDATA[Mustafa Suleyman says he believes rival AI firm Anthropic is in effect teaching Claude it "may be conscious".
 ]]></description>
@@ -56,10 +48,18 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/26db17d0-b270-11f1-a430-4d16ee157c41.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Would you buy branded clothing from your favourite tech firm?]]></title>
+            <description><![CDATA[Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo#0</guid>
+            <pubDate>Wed, 16 Sep 2026 23:18:47 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14e5/live/9ccd08c0-a76e-11f1-b109-879e35c24276.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[OpenAI reveals six more safety issues and unveils plan to disclose incidents]]></title>
             <description><![CDATA[The firm also announced a new system to track, investigate and disclose cases of models misbehaving, or "misalignment".]]></description>
             <link>https://www.bbc.co.uk/news/articles/cmpq0wj5g899o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmpq0wj5g899o#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmpq0wj5g899o#0</guid>
             <pubDate>Thu, 17 Sep 2026 03:09:21 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a25/live/9ebbb350-b238-11f1-9f5d-fbda72f7de0b.jpg"/>
         </item>
@@ -288,11 +288,19 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbd9/live/fc8d0a40-9bba-11f1-aed2-8d6da8d75094.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Mixed feelings from consumers as electricity discount to be given to NI households]]></title>
+            <description><![CDATA[The one-off £63 reduction in electricity bills will be applied from next month.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o#3</guid>
+            <pubDate>Thu, 17 Sep 2026 17:00:01 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3584/live/1e78a930-b2a8-11f1-819c-176371125270.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Interest rates held but Bank signals rise if energy prices stay high]]></title>
-            <description><![CDATA[Rates are held for the sixth time in a row but the Bank says they are likely to rise if high energy prices continue.]]></description>
+            <description><![CDATA[Rates are held for the sixth time in a row but the Bank of England says high energy prices make a future rise more likely.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cm4gjrxez1q0o#3</guid>
-            <pubDate>Thu, 17 Sep 2026 12:39:08 GMT</pubDate>
+            <pubDate>Thu, 17 Sep 2026 14:05:38 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a70/live/ce050920-b28f-11f1-8096-b33a1297275a.jpg"/>
         </item>
         <item>
@@ -305,19 +313,11 @@
         </item>
         <item>
             <title><![CDATA[Shop closures among concerns in ancient capital]]></title>
-            <description><![CDATA[Declining trade, parking and the cost of living at among concerns in Arbory, Castletown and Malew.]]></description>
+            <description><![CDATA[Declining trade, parking and the cost of living are among concerns in Arbory, Castletown and Malew.]]></description>
             <link>https://www.bbc.co.uk/news/articles/c6n8m7588mxko?at_medium=RSS&amp;at_campaign=rss</link>
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c6n8m7588mxko#3</guid>
             <pubDate>Thu, 17 Sep 2026 10:13:41 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb45/live/f382a1c0-b26d-11f1-b67f-2b40fa83cfed.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Electricity discount to be given to NI households]]></title>
-            <description><![CDATA[The one-off £63 reduction in electricity bills will be applied from next month.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cjvgy5yqvpy2o#3</guid>
-            <pubDate>Thu, 17 Sep 2026 08:07:29 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c1f/live/052466f0-b1fd-11f1-a4a7-291ff3d1006b.jpg"/>
         </item>
         <item>
             <title><![CDATA[Low-cost food pantry awarded £272k lottery grant]]></title>
