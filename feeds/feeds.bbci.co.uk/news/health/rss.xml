@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 17 Sep 2026 19:46:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2026 13:01:36 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Lindsay Clancy holdout juror had no doubt she deliberately killed her children]]></title>
+            <description><![CDATA[It is the first time the juror, who refused to side with the others and acquit Clancy, has spoken publicly about his decision.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c54g7jdmw032o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c54g7jdmw032o#0</guid>
+            <pubDate>Fri, 18 Sep 2026 11:49:46 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8bd9/live/4ffadb90-b34d-11f1-b949-71f91f81d1ab.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Andy Burnham urged to set dementia waiting-time target]]></title>
             <description><![CDATA[An 18‑week referral‑to‑treatment target has been backed by England's former national cancer director.]]></description>
@@ -109,14 +117,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cj06762qegmo#0</guid>
             <pubDate>Fri, 11 Sep 2026 17:45:14 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1126/live/e1999d80-0b31-11f1-9972-d3f265c101c6.png"/>
-        </item>
-        <item>
-            <title><![CDATA['My cancer spread while I waited months for surgery': The cost of England's cancer wait times]]></title>
-            <description><![CDATA[Cancer care has got worse since the government announced plans to speed up waiting times and save more lives, BBC analysis shows.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/c93vderdkyvo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c93vderdkyvo#0</guid>
-            <pubDate>Thu, 10 Sep 2026 09:31:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4465/live/866c8070-ac68-11f1-a540-61c3f7fc4e6c.jpg"/>
         </item>
         <item>
             <title><![CDATA['Like a hangover': Why your partner's snoring could be impacting your health]]></title>
@@ -394,6 +394,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"/>
         </item>
         <item>
+            <title><![CDATA['I've had a mastectomy when it wasn't needed']]></title>
+            <description><![CDATA[The women were among hundreds who were harmed by their treatment at County Durham health trust.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/ck7905yxl2plo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ck7905yxl2plo#8</guid>
+            <pubDate>Fri, 18 Sep 2026 08:42:51 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ac/live/bcec4510-b337-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['Inspirational' 97-year- old wing walker gives back to hospital ward]]></title>
             <description><![CDATA[The world's oldest female wing-walker has delivered a cheque to the hospital where she was treated.]]></description>
             <link>https://www.bbc.co.uk/news/videos/ckjrxql9xpx3o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -425,14 +433,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/w3ct9907#8</guid>
             <pubDate>Tue, 15 Sep 2026 13:30:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0g0gjs2.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Game-changing' suicide prevention charity expands]]></title>
-            <description><![CDATA[The charity provides safe spaces for men to talk about their emotions without being judged.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c4g5ky004ryo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c4g5ky004ryo#8</guid>
-            <pubDate>Fri, 11 Sep 2026 12:06:05 GMT</pubDate>
-            <media:thumbnail width="240" height="426" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e720/live/2149c560-add8-11f1-871b-cb14676e811d.jpg"/>
         </item>
     </channel>
 </rss>

@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Fri, 18 Sep 2026 04:53:06 GMT</pubDate>
-  <lastBuildDate>Fri, 18 Sep 2026 04:53:06 GMT</lastBuildDate>
+  <pubDate>Fri, 18 Sep 2026 12:57:19 GMT</pubDate>
+  <lastBuildDate>Fri, 18 Sep 2026 12:57:19 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79320422</guid>
+   <pubDate>Fri, 18 Sep 2026 10:55:00 GMT</pubDate>
+   <title>Germany faces energy tax losses as EV sales rise</title>
+   <link>https://www.dw.com/en/germany-faces-energy-tax-losses-as-ev-sales-rise/a-79320422?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>The rapid shift to electric vehicles in Germany is cutting fuel tax revenue. As EV sales surge, policymakers face growing pressure to find new ways to fund roads and transportation infrastructure.</description>
+   <category>Business</category>
+  </item>
   <item>
    <guid isPermaLink="false">79280086</guid>
    <pubDate>Wed, 16 Sep 2026 10:05:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/why-germany-s-gas-storage-levels-are-so-low/a-78440677?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>Germany&#039;s gas storage facilities are only 50% full as traders bet that wholesale prices will fall if the Iran war ends. With around three months until winter, DW asks whether the country can refill its reserves in time.</description>
    <category>Business</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78439153</guid>
-   <pubDate>Thu, 20 Aug 2026 07:04:00 GMT</pubDate>
-   <title>Evergrande founder Hui Ka Yan sentenced to life in prison</title>
-   <link>https://www.dw.com/en/evergrande-founder-hui-ka-yan-sentenced-to-life-in-prison/a-78439153?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>A Chinese court ordered the former billionaire&#039;s assets to be confiscated and fined Evergrande-related companies billions of dollars.</description>
-   <category>News</category>
   </item>
  </channel>
 </rss>
