@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Fri, 18 Sep 2026 12:58:35 GMT</pubDate>
-  <lastBuildDate>Fri, 18 Sep 2026 12:58:35 GMT</lastBuildDate>
+  <pubDate>Fri, 18 Sep 2026 19:04:31 GMT</pubDate>
+  <lastBuildDate>Fri, 18 Sep 2026 19:04:31 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79327092</guid>
+   <pubDate>Fri, 18 Sep 2026 14:05:00 GMT</pubDate>
+   <title>Strait of Hormuz attacks spill oil into Persian Gulf</title>
+   <link>https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>As war disrupts one of the world&#039;s busiest shipping lanes, satellite images reveal that oil is spreading toward protected coral reefs and mangrove forests.</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">79293578</guid>
    <pubDate>Wed, 16 Sep 2026 23:03:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/eco-wins-hungary-goes-solar-marmots-go-viral-and-rome-gets-an-upgrade/a-78281783?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>From Hungary&#039;s accidental solar revolution to marmot crowdfunding and a long-overdue upgrade for Rome&#039;s big snake, good news comes in strange packages this week.</description>
    <category>Climate</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78269916</guid>
-   <pubDate>Thu, 6 Aug 2026 19:55:00 GMT</pubDate>
-   <title>Drought threatens power supplies in Danube countries</title>
-   <link>https://www.dw.com/en/drought-threatens-power-supplies-in-danube-countries/a-78269916?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>Droughts, heat and falling water levels in the Danube are hitting central and southeastern Europe hard. Hungary and Romania are experiencing an energy crisis — whereas countries like Bulgaria are better prepared.</description>
-   <category>Environment</category>
   </item>
  </channel>
 </rss>
