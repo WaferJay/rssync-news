@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Europe</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sat, 19 Sep 2026 12:34:15 GMT</pubDate>
-  <lastBuildDate>Sat, 19 Sep 2026 12:34:15 GMT</lastBuildDate>
+  <pubDate>Sat, 19 Sep 2026 18:34:53 GMT</pubDate>
+  <lastBuildDate>Sat, 19 Sep 2026 18:34:53 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-eu" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79339087</guid>
+   <pubDate>Sat, 19 Sep 2026 15:37:00 GMT</pubDate>
+   <title>Ukraine steps up measures to protect railways</title>
+   <link>https://www.dw.com/en/ukraine-steps-up-measures-to-protect-railways/a-79339087?maca=en-rss-en-eu-2092-xml-mrss</link>
+   <description>As Russia increases its attacks on Ukraine&#039;s rail infrastructure, the Ukrainian government has called for help to replace destroyed locomotives and is making plans to keep passengers safe.</description>
+   <category>World</category>
+  </item>
   <item>
    <guid isPermaLink="false">79330240</guid>
    <pubDate>Sat, 19 Sep 2026 06:07:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/ukraine-russia-set-for-new-round-of-us-mediated-talks/a-79261147?maca=en-rss-en-eu-2092-xml-mrss</link>
    <description>New trilateral talks between Ukraine, Russia and the US could begin in October, according to Kyiv and Moscow. Few expect a breakthrough, but Ukraine is seeking a partial de-escalation to help it get through the winter.</description>
    <category>World</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79265774</guid>
-   <pubDate>Mon, 14 Sep 2026 17:59:00 GMT</pubDate>
-   <title>Trump seeks halt to energy attacks by both Russia, Ukraine</title>
-   <link>https://www.dw.com/en/trump-seeks-halt-to-energy-attacks-by-both-russia-ukraine/a-79265774?maca=en-rss-en-eu-2092-xml-mrss</link>
-   <description>Donald Trump, under fire for record US diesel prices, claims Russia and Ukraine have agreed to stop striking energy targets. Russia said nothing; Ukraine said &quot;we expect specifics from our partners&quot; on any such move.</description>
-   <category>News</category>
   </item>
  </channel>
 </rss>
