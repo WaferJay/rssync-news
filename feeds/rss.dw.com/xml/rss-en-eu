@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Europe</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Tue, 22 Sep 2026 13:26:57 GMT</pubDate>
-  <lastBuildDate>Tue, 22 Sep 2026 13:26:57 GMT</lastBuildDate>
+  <pubDate>Tue, 22 Sep 2026 19:44:36 GMT</pubDate>
+  <lastBuildDate>Tue, 22 Sep 2026 19:44:36 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-eu" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79376025</guid>
+   <pubDate>Tue, 22 Sep 2026 14:12:00 GMT</pubDate>
+   <title>Military aircraft crashes near US air base in Spangdahlem, Germany</title>
+   <link>https://www.dw.com/en/military-aircraft-crashes-near-us-air-base-in-spangdahlem-germany/a-79376025?maca=en-rss-en-eu-2092-xml-mrss</link>
+   <description>The F-16 pilot was able to safely eject from the plane and was taken to receive medical care. The incident occurred near Spangdahlem Air Base in the German state of Rhineland-Palatinate.</description>
+   <category>World</category>
+  </item>
   <item>
    <guid isPermaLink="false">79365835</guid>
    <pubDate>Tue, 22 Sep 2026 08:36:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/europe-launches-two-climate-observation-satellites/a-79268705?maca=en-rss-en-eu-2092-xml-mrss</link>
    <description>The European Space Agency has put two satellites into orbit to take a closer look at the impact of climate change. One of them will focus particularly on plant life.</description>
    <category>News</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79266739</guid>
-   <pubDate>Mon, 14 Sep 2026 19:28:00 GMT</pubDate>
-   <title>EU seeks Arctic strategy amid growing power rivalry</title>
-   <link>https://www.dw.com/en/eu-seeks-arctic-strategy-amid-growing-power-rivalry/a-79266739?maca=en-rss-en-eu-2092-xml-mrss</link>
-   <description>Russia&#039;s aggression, Trump&#039;s threats against Greenland and the race for critical raw materials are pushing the Arctic to the top of Europe&#039;s agenda.</description>
-   <category>World</category>
   </item>
  </channel>
 </rss>
