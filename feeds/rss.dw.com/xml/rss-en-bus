@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Tue, 22 Sep 2026 05:07:23 GMT</pubDate>
-  <lastBuildDate>Tue, 22 Sep 2026 05:07:23 GMT</lastBuildDate>
+  <pubDate>Tue, 22 Sep 2026 13:28:00 GMT</pubDate>
+  <lastBuildDate>Tue, 22 Sep 2026 13:28:00 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79360317</guid>
+   <pubDate>Tue, 22 Sep 2026 08:25:00 GMT</pubDate>
+   <title>Will Germany have enough gas this winter amid energy supply crunch?</title>
+   <link>https://www.dw.com/en/will-germany-have-enough-gas-this-winter-amid-energy-supply-crunch/a-79360317?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>Germany&#039;s gas storage sites are far less full than in recent years. Officials say supplies are secure, but analysts warn that a cold winter or import disruptions could push prices higher. So how secure is the supply?</description>
+   <category>Business</category>
+  </item>
   <item>
    <guid isPermaLink="false">79307488</guid>
    <pubDate>Mon, 21 Sep 2026 08:13:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Can new US sanctions cripple Iran&#039;s shadow economy?</title>
    <link>https://www.dw.com/en/can-new-us-sanctions-cripple-iran-s-shadow-economy/a-78494630?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>The US is expanding sanctions on Iran&#039;s financial networks, targeting crypto, gold, aviation and shipping. DW spoke with analysts about what could change.</description>
-   <category>Business</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78455430</guid>
-   <pubDate>Mon, 24 Aug 2026 08:13:00 GMT</pubDate>
-   <title>Spiraling health costs force Iranians to delay care</title>
-   <link>https://www.dw.com/en/spiraling-health-costs-force-iranians-to-delay-care/a-78455430?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>A single chemotherapy session in Iran can cost six times the monthly minimum wage. As drug prices soar and medicine is in short supply, doctors say more patients are delaying or abandoning treatment.</description>
    <category>Business</category>
   </item>
  </channel>
