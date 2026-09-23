@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Europe</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Wed, 23 Sep 2026 04:51:05 GMT</pubDate>
-  <lastBuildDate>Wed, 23 Sep 2026 04:51:05 GMT</lastBuildDate>
+  <pubDate>Wed, 23 Sep 2026 13:43:10 GMT</pubDate>
+  <lastBuildDate>Wed, 23 Sep 2026 13:43:10 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-eu" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79380887</guid>
+   <pubDate>Wed, 23 Sep 2026 08:23:00 GMT</pubDate>
+   <title>Famine threatens the Ukrainian town of Oleshky in the southern Kherson region as Russia delays creating a humanitarian evacuation corridor</title>
+   <link>https://www.dw.com/en/famine-threatens-the-ukrainian-town-of-oleshky-in-the-southern-kherson-region-as-russia-delays-creating-a-humanitarian-evacuation-corridor/a-79380887?maca=en-rss-en-eu-2092-xml-mrss</link>
+   <description>Food supplies to the town of Oleshky in the occupied part of the southern Kherson region have been cut off since May. Efforts by Kyiv to negotiate the evacuation of civilians with Moscow have been largely unsuccessful.</description>
+   <category>World</category>
+  </item>
   <item>
    <guid isPermaLink="false">79376025</guid>
    <pubDate>Tue, 22 Sep 2026 14:12:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Netherlands: Suspected sabotage disrupts train services</title>
    <link>https://www.dw.com/en/netherlands-suspected-sabotage-disrupts-train-services/a-79269600?maca=en-rss-en-eu-2092-xml-mrss</link>
    <description>A major outage has hit parts of the Dutch railway system after objects were found placed across lines, authorities say. The company responsible for rail infrastructure says it suspects deliberate wrongdoing.</description>
-   <category>News</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79268705</guid>
-   <pubDate>Tue, 15 Sep 2026 07:28:00 GMT</pubDate>
-   <title>Europe launches two climate observation satellites</title>
-   <link>https://www.dw.com/en/europe-launches-two-climate-observation-satellites/a-79268705?maca=en-rss-en-eu-2092-xml-mrss</link>
-   <description>The European Space Agency has put two satellites into orbit to take a closer look at the impact of climate change. One of them will focus particularly on plant life.</description>
    <category>News</category>
   </item>
  </channel>

@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Wed, 23 Sep 2026 04:52:56 GMT</pubDate>
-  <lastBuildDate>Wed, 23 Sep 2026 04:52:56 GMT</lastBuildDate>
+  <pubDate>Wed, 23 Sep 2026 13:38:33 GMT</pubDate>
+  <lastBuildDate>Wed, 23 Sep 2026 13:38:33 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79382511</guid>
+   <pubDate>Wed, 23 Sep 2026 09:26:00 GMT</pubDate>
+   <title>El Nino explained: How the weather pattern affects hurricanes and tropical storms</title>
+   <link>https://www.dw.com/en/el-nino-explained-how-the-weather-pattern-affects-hurricanes-and-tropical-storms/a-79382511?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>From drought to major floods and extreme heat, El Nino will have a huge impact on the world&#039;s weather. In the Atlantic, it could mean a season without hurricanes.</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">79237420</guid>
    <pubDate>Tue, 22 Sep 2026 13:34:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Can we go green without forever chemicals?</title>
    <link>https://www.dw.com/en/can-we-go-green-without-forever-chemicals/a-77888704?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>As nations globally move to ban forever chemicals, should renewable energy technologies be exempt for the sake of saving the climate?</description>
-   <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78278373</guid>
-   <pubDate>Tue, 11 Aug 2026 07:25:00 GMT</pubDate>
-   <title>How one German city plans to challenge climate extremes</title>
-   <link>https://www.dw.com/en/how-one-german-city-plans-to-challenge-climate-extremes/a-78278373?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>Western Europe has recorded its hottest-ever June and July, and extreme weather from drought to storms is here to stay. How can we adapt to a fundamentally altered climate? Cities like Kiel are trying new ideas.</description>
    <category>Environment</category>
   </item>
  </channel>
