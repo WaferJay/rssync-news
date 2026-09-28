@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Mon, 28 Sep 2026 05:32:49 GMT</pubDate>
-  <lastBuildDate>Mon, 28 Sep 2026 05:32:49 GMT</lastBuildDate>
+  <pubDate>Mon, 28 Sep 2026 16:44:43 GMT</pubDate>
+  <lastBuildDate>Mon, 28 Sep 2026 16:44:43 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79390992</guid>
+   <pubDate>Mon, 28 Sep 2026 10:35:00 GMT</pubDate>
+   <title>Diesel prices are surging putting further pressure on Europe</title>
+   <link>https://www.dw.com/en/diesel-prices-are-surging-putting-further-pressure-on-europe/a-79390992?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>Trucks, farms and industry are powered with diesel. Now prices are soaring due to refinery disruptions, supply shortages and geopolitical tensions. A potential US export ban could make Europe&#039;s diesel crunch even worse.</description>
+   <category>Business</category>
+  </item>
   <item>
    <guid isPermaLink="false">79319937</guid>
    <pubDate>Wed, 23 Sep 2026 08:54:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Gamescom 2026: What&#039;s next for the gaming industry?</title>
    <link>https://www.dw.com/en/gamescom-2026-what-s-next-for-the-gaming-industry/a-78502849?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>As Gamescom 2026 opens in Cologne, AI, hardware costs and slowing user growth are putting pressure on the global games industry despite its current strength.</description>
-   <category>Business</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78483715</guid>
-   <pubDate>Tue, 25 Aug 2026 13:57:00 GMT</pubDate>
-   <title>Why Germany&#039;s Volkswagen could cut 100,000 jobs</title>
-   <link>https://www.dw.com/en/why-germany-s-volkswagen-could-cut-100-000-jobs/a-78483715?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>Europe&#039;s biggest automaker, Volkswagen, faces Chinese competition, high costs and US tariffs. What could its restructuring mean for the German car industry?</description>
    <category>Business</category>
   </item>
  </channel>

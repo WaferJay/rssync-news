@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world/latin_america</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sun, 27 Sep 2026 19:49:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Sep 2026 16:50:40 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/latin_america/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Mexico's Pacific coast braces for Hurricane Polo]]></title>
+            <description><![CDATA[The category-three storm is approaching the state of Baja California Sur, on Mexico's northern Pacific coast. ]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cw8d3z5y7958o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cw8d3z5y7958o#0</guid>
+            <pubDate>Mon, 28 Sep 2026 11:05:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3bb2/live/28a55460-bb1f-11f1-97b0-3f86b3abbccc.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Venezuela releases dozens of political prisoners as election calls grow]]></title>
             <description><![CDATA[A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.]]></description>
@@ -37,14 +45,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cqe8xl265dp9o#0</guid>
             <pubDate>Thu, 24 Sep 2026 12:10:57 GMT</pubDate>
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00e4/live/c4225190-b7f5-11f1-8b17-df911cecbe19.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Hurricane Polo downgraded but remains 'very powerful' off coast of Mexico]]></title>
-            <description><![CDATA[The large storm in the Pacific Ocean is being driven by warm waters caused by the El Niño weather phenomenon. ]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckddvlrlr5qeo#0</guid>
-            <pubDate>Wed, 23 Sep 2026 17:58:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cbc/live/9fb1a7e0-b721-11f1-a430-4d16ee157c41.jpg"/>
         </item>
         <item>
             <title><![CDATA[Trump meets US-backed Venezuelan president for first time since Maduro seized]]></title>
@@ -111,6 +111,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e50/live/3f217640-a717-11f1-b109-879e35c24276.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Robbie Williams' surprise singalong after Peru gig cancelled]]></title>
+            <description><![CDATA[Robbie Williams gave an impromptu performance outside a hotel in Lima after his stadium concert was cancelled.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/c3qjkxk58y02o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c3qjkxk58y02o#2</guid>
+            <pubDate>Fri, 25 Sep 2026 09:20:04 GMT</pubDate>
+            <media:thumbnail width="240" height="125" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/58db/live/337d4bb0-b8ca-11f1-a430-4d16ee157c41.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Did El Niño turn Hurricane Polo into the most powerful storm of the season?]]></title>
             <description><![CDATA[The BBC's Courtney Sargent explains how El Niño could have rapidly turned Hurricane Polo into one of the Pacific season's most powerful storms.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cm93v2zz4w7qo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -141,14 +149,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c07lpd9dgzdo#2</guid>
             <pubDate>Wed, 09 Sep 2026 01:44:02 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f12/live/2d9d6820-abef-11f1-a291-b542ee92de7c.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Lucky toddler has a narrow escape after running into speeding traffic]]></title>
-            <description><![CDATA[Security camera footage shows a supermarket employee racing into action as a toddler runs towards moving traffic in Puebla, Mexico.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/cgqdn8n2kjyo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cgqdn8n2kjyo#2</guid>
-            <pubDate>Tue, 08 Sep 2026 13:48:16 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e6e/live/96948b70-ab8a-11f1-a291-b542ee92de7c.jpg"/>
         </item>
     </channel>
 </rss>
