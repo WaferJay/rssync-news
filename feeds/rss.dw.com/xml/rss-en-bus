@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Wed, 30 Sep 2026 05:41:18 GMT</pubDate>
-  <lastBuildDate>Wed, 30 Sep 2026 05:41:18 GMT</lastBuildDate>
+  <pubDate>Wed, 30 Sep 2026 14:56:36 GMT</pubDate>
+  <lastBuildDate>Wed, 30 Sep 2026 14:56:36 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79430388</guid>
+   <pubDate>Wed, 30 Sep 2026 09:33:00 GMT</pubDate>
+   <title>Is US President Donald Trump right to rename AI as &#039;Super Intelligence&#039;?</title>
+   <link>https://www.dw.com/en/is-us-president-donald-trump-right-to-rename-ai-as-super-intelligence/a-79430388?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>Donald Trump thinks the name artificial intelligence sounds &quot;fake&quot; and has ordered US agencies to use &quot;Super Intelligence&quot; instead. Yet, tech firms and researchers have little reason to play along.</description>
+   <category>Business</category>
+  </item>
   <item>
    <guid isPermaLink="false">79352643</guid>
    <pubDate>Tue, 29 Sep 2026 10:35:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/the-great-lake-divide-collapse-vs-comeback/a-78460263?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>As some of the world&#039;s biggest lakes vanish in real time, others are proving that recovery is still within reach.</description>
    <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78482023</guid>
-   <pubDate>Thu, 27 Aug 2026 09:25:00 GMT</pubDate>
-   <title>Why social media addiction is so hard to regulate</title>
-   <link>https://www.dw.com/en/why-social-media-addiction-is-so-hard-to-regulate/a-78482023?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>Facebook, Instagram and other social media platforms are accused of deliberately fostering addictive behavior among young users. Yet regulators continue to struggle to rein in their engagement-driven business models.</description>
-   <category>Business</category>
   </item>
  </channel>
 </rss>
