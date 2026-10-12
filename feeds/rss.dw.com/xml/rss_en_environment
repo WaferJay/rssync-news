@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Mon, 12 Oct 2026 06:09:10 GMT</pubDate>
-  <lastBuildDate>Mon, 12 Oct 2026 06:09:10 GMT</lastBuildDate>
+  <pubDate>Mon, 12 Oct 2026 17:58:20 GMT</pubDate>
+  <lastBuildDate>Mon, 12 Oct 2026 17:58:20 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79406721</guid>
+   <pubDate>Mon, 12 Oct 2026 07:30:00 GMT</pubDate>
+   <title>How green is Europe&#039;s urban public transport? A data-driven reality check</title>
+   <link>https://www.dw.com/en/how-green-is-europe-s-urban-public-transport-a-data-driven-reality-check/a-79406721?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>Greener buses and cleaner fleets are reshaping public transport across Europe. But are cities moving fast enough to meet their zero-emission goals?</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">79474847</guid>
    <pubDate>Wed, 7 Oct 2026 07:48:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Trees are vital for cooler cities, but they need help too</title>
    <link>https://www.dw.com/en/trees-are-vital-for-cooler-cities-but-they-need-help-too/a-78488665?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>Record-breaking heat and drought are putting urban trees at risk. Experts explain how to protect these essential assets and build city forests that can withstand the climate challenges ahead.</description>
-   <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78435243</guid>
-   <pubDate>Thu, 20 Aug 2026 09:00:00 GMT</pubDate>
-   <title>How Europe can better protect against extreme wildfires</title>
-   <link>https://www.dw.com/en/how-europe-can-better-protect-against-extreme-wildfires/a-78435243?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>In another summer of European wildfires that have even seen wetlands burning, scientists say the situation is set to worsen in the future. What&#039;s needed is fire prevention and climate protection.</description>
    <category>Environment</category>
   </item>
  </channel>
