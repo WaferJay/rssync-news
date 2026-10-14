@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Europe</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Wed, 14 Oct 2026 13:48:43 GMT</pubDate>
-  <lastBuildDate>Wed, 14 Oct 2026 13:48:43 GMT</lastBuildDate>
+  <pubDate>Wed, 14 Oct 2026 20:12:35 GMT</pubDate>
+  <lastBuildDate>Wed, 14 Oct 2026 20:12:35 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-eu" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79661193</guid>
+   <pubDate>Wed, 14 Oct 2026 14:56:00 GMT</pubDate>
+   <title>Albania: Fire at Education Ministry as students protest</title>
+   <link>https://www.dw.com/en/albania-fire-at-education-ministry-as-students-protest/a-79661193?maca=en-rss-en-eu-2092-xml-mrss</link>
+   <description>Riot police deployed in the Albanian capital Tirana on the second day of student protests. The sudden outbreak seemed at least somewhat reminiscent of the widespread demos in France courting international attention.</description>
+   <category>News</category>
+  </item>
   <item>
    <guid isPermaLink="false">79651769</guid>
    <pubDate>Wed, 14 Oct 2026 09:08:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/south-korea-recalls-ukraine-ambassador-amid-pow-dispute/a-79590511?maca=en-rss-en-eu-2092-xml-mrss</link>
    <description>South Korea has said it will recall its ambassador to Ukraine. Seoul is upset about a transfer of North Korean prisoners of war being made public knowledge at the UN and had demanded — but not received — an apology.</description>
    <category>News</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79582503</guid>
-   <pubDate>Thu, 8 Oct 2026 10:52:00 GMT</pubDate>
-   <title>As Russia steps up attacks on Ukrainian data centers, could Ukraine soon be offline?</title>
-   <link>https://www.dw.com/en/as-russia-steps-up-attacks-on-ukrainian-data-centers-could-ukraine-soon-be-offline/a-79582503?maca=en-rss-en-eu-2092-xml-mrss</link>
-   <description>As Russia targets Ukraine&#039;s data centers more and more, experts say the country&#039;s internet system is too robust to shut down entirely. However, services could become more expensive.</description>
-   <category>World</category>
   </item>
  </channel>
 </rss>
