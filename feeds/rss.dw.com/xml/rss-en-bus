@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Fri, 16 Oct 2026 04:44:06 GMT</pubDate>
-  <lastBuildDate>Fri, 16 Oct 2026 04:44:06 GMT</lastBuildDate>
+  <pubDate>Fri, 16 Oct 2026 13:20:32 GMT</pubDate>
+  <lastBuildDate>Fri, 16 Oct 2026 13:20:32 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79667770</guid>
+   <pubDate>Fri, 16 Oct 2026 09:07:00 GMT</pubDate>
+   <title>Europe promotes sovereign, trusted AI as it struggles to catch US and China</title>
+   <link>https://www.dw.com/en/europe-promotes-sovereign-trusted-ai-as-it-struggles-to-catch-us-and-china/a-79667770?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>At an international AI summit in Dublin, European leaders promoted trusted and independent AI. Critics question whether the EU can close the gap with the US and China while maintaining strict regulation.</description>
+   <category>Business</category>
+  </item>
   <item>
    <guid isPermaLink="false">79646187</guid>
    <pubDate>Thu, 15 Oct 2026 08:45:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/why-ai-researchers-warn-humanity-could-face-extinction/a-79263146?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>Could artificial intelligence pose an existential threat to humanity? Some leading researchers are warning against an unregulated race toward AI superintelligence.</description>
    <category>Business</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79263398</guid>
-   <pubDate>Mon, 14 Sep 2026 14:12:00 GMT</pubDate>
-   <title>Africa&#039;s richest man Dangote&#039;s IPO out of reach in Nigeria</title>
-   <link>https://www.dw.com/en/africa-s-richest-man-dangote-s-ipo-out-of-reach-in-nigeria/a-79263398?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>Dangote seeks $1.6 billion from investors to finance a $14.3 billion expansion and thus double the oil refinery&#039;s capacity. The offer could give millions of Nigerians a stake in the company. But who can truly afford it?</description>
-   <category>World</category>
   </item>
  </channel>
 </rss>
