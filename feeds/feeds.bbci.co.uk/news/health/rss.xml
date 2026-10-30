@@ -9,7 +9,7 @@
             <link>https://www.bbc.co.uk/news/health</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Fri, 30 Oct 2026 15:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2026 20:54:33 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/health/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
@@ -433,6 +433,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0m1r8h6.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why you should eat kiwi and pineapple skins]]></title>
+            <description><![CDATA[Eating fruit and vegetable scraps such as peels and stalks could provide a health boost that most of us are missing, say UK researchers, external.]]></description>
+            <link>https://www.bbc.co.uk/news/videos/cx30e2v3m3vqo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/cx30e2v3m3vqo#9</guid>
+            <pubDate>Fri, 30 Oct 2026 19:48:46 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9372/live/6472a9c0-d47e-11f1-a701-fddedf244c16.jpg"/>
+        </item>
+        <item>
             <title><![CDATA['My low Vitamin D levels hit me like a truck']]></title>
             <description><![CDATA[Saskia Reeves-Priestley didn't know she had a Vitamin D deficiency until she suddenly collapsed at work.]]></description>
             <link>https://www.bbc.co.uk/news/videos/cmy931z9pl8do?at_medium=RSS&amp;at_campaign=rss</link>
@@ -463,14 +471,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/sounds/play/m0033dm4#9</guid>
             <pubDate>Tue, 27 Oct 2026 15:02:00 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/images/ic/240x135/p0pf0cq3.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Can you tell ferritin levels from your face?]]></title>
-            <description><![CDATA[Some creators are claiming they can spot "ferritin face". Doctors aren't so sure.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/c8040gkq5563o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/c8040gkq5563o#9</guid>
-            <pubDate>Mon, 26 Oct 2026 10:29:34 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/effc/live/07d109b0-ce33-11f1-9a39-31b474234113.jpg"/>
         </item>
     </channel>
 </rss>
