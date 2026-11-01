@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/northern_ireland</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Sat, 31 Oct 2026 20:07:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Nov 2026 06:27:31 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/northern_ireland/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Fireworks and fancy dress at Derry's 40th Halloween festival]]></title>
+            <description><![CDATA[Tens of thousands of revellers took to the streets of Londonderry for the city's annual Halloween parade.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmly095jjnwlo?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmly095jjnwlo#0</guid>
+            <pubDate>Sat, 31 Oct 2026 21:06:08 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fce0/live/a5a0ec80-d399-11f1-b490-07d78ce4b8e5.jpg"/>
+        </item>
         <item>
             <title><![CDATA[Fault on key electricity link ahead of winter peak]]></title>
             <description><![CDATA[Mutual Energy, which operates the Moyle Interconnector, says the cause is still being investigated, and it is not yet clear when it will be repaired.]]></description>
@@ -39,14 +47,6 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9148/live/ccac70d0-d527-11f1-97b1-4d6889870ee4.png"/>
         </item>
         <item>
-            <title><![CDATA[How do you navigate Halloween with food allergies?]]></title>
-            <description><![CDATA[BBC News NI speaks to people about how they navigate their allergies at Halloween.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/ckdd8pmr5l64o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8pmr5l64o#0</guid>
-            <pubDate>Sat, 31 Oct 2026 07:01:31 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/162f/live/06e70860-d545-11f1-b441-2b33b063138f.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[When a wedding fell apart, 11 strangers helped create something unforgettable]]></title>
             <description><![CDATA[Bridget Devaney turned to the internet with a proposal that sounded equal parts hopeful and improbable - come to Ireland and celebrate the wedding that never happened.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cx4g1vdyzem6o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -66,7 +66,7 @@
             <title><![CDATA[Starmer tells Dublin event Europe can no longer rely on US to 'bankroll' its defence]]></title>
             <description><![CDATA[Sir Keir warns that "things will not go back to the way they were" as he says the US makes it clear it will no longer "bankroll" its allies.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo#1</guid>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cxnv0p4l7rjlo#0</guid>
             <pubDate>Sat, 31 Oct 2026 13:20:39 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95ec/live/566810d0-915e-11f1-a8f1-774cbc5e1a9f.jpg"/>
         </item>
@@ -109,6 +109,14 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c617k2xe4nwzo#1</guid>
             <pubDate>Fri, 30 Oct 2026 18:52:03 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aae8/live/c9bd2a40-d491-11f1-9a20-f717db279e3e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How do you navigate Halloween with food allergies?]]></title>
+            <description><![CDATA[BBC News NI speaks to people about how they navigate their allergies at Halloween.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckdd8pmr5l64o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckdd8pmr5l64o#1</guid>
+            <pubDate>Sat, 31 Oct 2026 07:01:31 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/162f/live/06e70860-d545-11f1-b441-2b33b063138f.jpg"/>
         </item>
         <item>
             <title><![CDATA['I love to escape into a fantasyland of fairies': Fans rejoice as 'romantasy' book hits shelves]]></title>
