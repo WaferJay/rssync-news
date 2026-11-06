@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Fri, 6 Nov 2026 06:57:28 GMT</pubDate>
-  <lastBuildDate>Fri, 6 Nov 2026 06:57:28 GMT</lastBuildDate>
+  <pubDate>Fri, 6 Nov 2026 15:58:22 GMT</pubDate>
+  <lastBuildDate>Fri, 6 Nov 2026 15:58:22 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -19,11 +19,19 @@
   </image>
   <ttl>10</ttl>
   <item>
+   <guid isPermaLink="false">79865654</guid>
+   <pubDate>Fri, 6 Nov 2026 14:37:00 GMT</pubDate>
+   <title>Protests and reforms: France&#039;s rising debt costs threaten stability</title>
+   <link>https://www.dw.com/en/protests-and-reforms-france-s-rising-debt-costs-threaten-stability/a-79865654?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>France plans to spend an extra €4 billion on education amid nationwide protests. But with public debt mounting and interest costs climbing, how much fiscal room does the government have?</description>
+   <category>Business</category>
+  </item>
+  <item>
    <guid isPermaLink="false">79871504</guid>
-   <pubDate>Fri, 6 Nov 2026 02:41:00 GMT</pubDate>
-   <title>Asian stocks slump after US tech rout amid AI jitters</title>
-   <link>https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>Concerns that Democrats in the US will push back against data center projects are weighing on an AI trade that is already on shaky footing amid growing doubts about profitability.</description>
+   <pubDate>Fri, 6 Nov 2026 09:29:00 GMT</pubDate>
+   <title>European shares join a global sell-off as AI spending fears rattle Wall Street and Asian markets</title>
+   <link>https://www.dw.com/en/european-shares-join-a-global-sell-off-as-ai-spending-fears-rattle-wall-street-and-asian-markets/a-79871504?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>European shares have fallen after sharp losses in Asia and on Wall Street. Doubts over huge AI investments and fears of curbs following the Democrats&#039; US midterm victory have rattled global markets.</description>
    <category>News</category>
   </item>
   <item>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/how-a-multibillion-dollar-oilfield-has-ignited-the-uk-argentina-feud-over-the-falklands/a-79588973?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>Argentina and the UK once fought a war over the Falkland Islands. Now, the multibillion-dollar Sea Lion oil project has reignited old tensions, with Buenos Aires seeking to put a stop to the plans.</description>
    <category>Business</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79554905</guid>
-   <pubDate>Mon, 5 Oct 2026 17:23:00 GMT</pubDate>
-   <title>Merz, Macron seek tougher EU measures against unfair trade</title>
-   <link>https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>Emmanuel Macron and Friedrich Merz have written to Ursula von der Leyen, calling for tougher EU mechanisms against unfair trade practices by other states. They name no names but seem to have China or the US in mind.</description>
-   <category>News</category>
   </item>
  </channel>
 </rss>
