@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Thu, 5 Nov 2026 16:32:25 GMT</pubDate>
-  <lastBuildDate>Thu, 5 Nov 2026 16:32:25 GMT</lastBuildDate>
+  <pubDate>Fri, 6 Nov 2026 06:57:28 GMT</pubDate>
+  <lastBuildDate>Fri, 6 Nov 2026 06:57:28 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79871504</guid>
+   <pubDate>Fri, 6 Nov 2026 02:41:00 GMT</pubDate>
+   <title>Asian stocks slump after US tech rout amid AI jitters</title>
+   <link>https://www.dw.com/en/asian-stocks-slump-after-us-tech-rout-amid-ai-jitters/a-79871504?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>Concerns that Democrats in the US will push back against data center projects are weighing on an AI trade that is already on shaky footing amid growing doubts about profitability.</description>
+   <category>News</category>
+  </item>
   <item>
    <guid isPermaLink="false">79853716</guid>
    <pubDate>Thu, 5 Nov 2026 07:03:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/merz-macron-seek-tougher-eu-measures-against-unfair-trade/a-79554905?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>Emmanuel Macron and Friedrich Merz have written to Ursula von der Leyen, calling for tougher EU mechanisms against unfair trade practices by other states. They name no names but seem to have China or the US in mind.</description>
    <category>News</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79549031</guid>
-   <pubDate>Mon, 5 Oct 2026 14:28:00 GMT</pubDate>
-   <title>Euro plummets against US dollar: Has the next financial crisis begun?</title>
-   <link>https://www.dw.com/en/euro-plummets-against-us-dollar-has-the-next-financial-crisis-begun/a-79549031?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>The euro has fallen to a 17-month low against the dollar. That will make inflation worse in the EU, where political worries and concern over French debt are already troubling investors. Is a fiscal crisis at hand?</description>
-   <category>Business</category>
   </item>
  </channel>
 </rss>
