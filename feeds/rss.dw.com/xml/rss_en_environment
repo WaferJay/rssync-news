@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sun, 8 Nov 2026 06:20:50 GMT</pubDate>
-  <lastBuildDate>Sun, 8 Nov 2026 06:20:50 GMT</lastBuildDate>
+  <pubDate>Sun, 8 Nov 2026 15:19:56 GMT</pubDate>
+  <lastBuildDate>Sun, 8 Nov 2026 15:19:56 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79661366</guid>
+   <pubDate>Sun, 8 Nov 2026 05:55:00 GMT</pubDate>
+   <title>As COP31 Antalya kicks off, can world move beyond big promises?</title>
+   <link>https://www.dw.com/en/as-cop31-antalya-kicks-off-can-world-move-beyond-big-promises/a-79661366?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>Droughts, floods and extreme heat are upping the pressure on delegates at the UN climate talks in Antalya, Turkey. Can countries move beyond pledges to concrete action?</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">79830843</guid>
    <pubDate>Mon, 2 Nov 2026 14:21:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Croatia: Toxic waste protest draws tens of thousands</title>
    <link>https://www.dw.com/en/croatia-toxic-waste-protest-draws-tens-of-thousands/a-79049228?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>The Zagreb demonstrators demanded that the government come up with a plan to clear illegal toxic waste in 20 days. Prime Minister Plenkovic has promised to tackle the issue.</description>
-   <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">78789889</guid>
-   <pubDate>Fri, 4 Sep 2026 11:08:00 GMT</pubDate>
-   <title>The hidden environmental cost of AI data centers</title>
-   <link>https://www.dw.com/en/the-hidden-environmental-cost-of-ai-data-centers/a-78789889?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>As data centers multiply to meet AI demand, they&#039;re straining power grids, draining water supplies and reshaping the land and air around them.</description>
    <category>Environment</category>
   </item>
  </channel>
