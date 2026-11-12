@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Thu, 12 Nov 2026 07:25:25 GMT</pubDate>
-  <lastBuildDate>Thu, 12 Nov 2026 07:25:25 GMT</lastBuildDate>
+  <pubDate>Thu, 12 Nov 2026 16:52:14 GMT</pubDate>
+  <lastBuildDate>Thu, 12 Nov 2026 16:52:14 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">67970540</guid>
+   <pubDate>Thu, 12 Nov 2026 12:04:00 GMT</pubDate>
+   <title>What are fossil fuels?</title>
+   <link>https://www.dw.com/en/what-are-fossil-fuels/a-67970540?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>They are in our shampoo bottles, power our cars and heat our homes. But what actually are fossil fuels, and why do they matter?</description>
+   <category>Climate</category>
+  </item>
   <item>
    <guid isPermaLink="false">79913635</guid>
    <pubDate>Wed, 11 Nov 2026 06:41:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>As war disrupts one of the world&#039;s busiest shipping lanes, satellite images reveal that oil is spreading toward protected coral reefs and mangrove forests.</description>
    <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79293578</guid>
-   <pubDate>Wed, 16 Sep 2026 23:03:00 GMT</pubDate>
-   <title>How climate change worsened Nepal&#039;s deadly mountain collapse</title>
-   <link>https://www.dw.com/en/how-climate-change-worsened-nepal-s-deadly-mountain-collapse/a-79293578?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>A glacier and rock collapse in Nepal killed nearly 1,400 people and left thousands missing. Scientists say decades of warming helped set the disaster in motion.</description>
-   <category>Climate</category>
   </item>
  </channel>
 </rss>
