@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Fri, 13 Nov 2026 06:53:41 GMT</pubDate>
-  <lastBuildDate>Fri, 13 Nov 2026 06:53:41 GMT</lastBuildDate>
+  <pubDate>Fri, 13 Nov 2026 16:31:24 GMT</pubDate>
+  <lastBuildDate>Fri, 13 Nov 2026 16:31:24 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79878673</guid>
+   <pubDate>Fri, 13 Nov 2026 08:12:00 GMT</pubDate>
+   <title>Could lack of money sink TFFF rainforest fund before it even launches?</title>
+   <link>https://www.dw.com/en/could-lack-of-money-sink-tfff-rainforest-fund-before-it-even-launches/a-79878673?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>The TFFF rainforest fund aims to make forest conservation more profitable than deforestation. But a lack of money may prevent it from getting off the ground.</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">67970540</guid>
    <pubDate>Thu, 12 Nov 2026 12:04:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>Many lifelong residents of Los Angeles have health impacts from growing up close to oil extraction. Now, the city is trying to close down the worst offenders, but it&#039;s an enormous task.</description>
    <category>Climate</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79327092</guid>
-   <pubDate>Fri, 18 Sep 2026 19:05:00 GMT</pubDate>
-   <title>Strait of Hormuz attacks spill oil into Persian Gulf</title>
-   <link>https://www.dw.com/en/strait-of-hormuz-attacks-spill-oil-into-persian-gulf/a-79327092?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>As war disrupts one of the world&#039;s busiest shipping lanes, satellite images reveal that oil is spreading toward protected coral reefs and mangrove forests.</description>
-   <category>Environment</category>
   </item>
  </channel>
 </rss>
