@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Fri, 13 Nov 2026 16:31:24 GMT</pubDate>
-  <lastBuildDate>Fri, 13 Nov 2026 16:31:24 GMT</lastBuildDate>
+  <pubDate>Sat, 14 Nov 2026 06:40:31 GMT</pubDate>
+  <lastBuildDate>Sat, 14 Nov 2026 06:40:31 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79943105</guid>
+   <pubDate>Fri, 13 Nov 2026 16:34:00 GMT</pubDate>
+   <title>What&#039;s going on with the polar vortex?</title>
+   <link>https://www.dw.com/en/what-s-going-on-with-the-polar-vortex/a-79943105?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>Observations show the ring of fierce winds that rotate at the Earth&#039;s North Pole has changed direction. Scientists say it&#039;s a historic disruption and the earliest reversal on record. What could it mean for the weather?</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">79878673</guid>
    <pubDate>Fri, 13 Nov 2026 08:12:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/el-nino-explained-how-the-weather-pattern-affects-hurricanes-and-tropical-storms/a-79382511?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>From drought to major floods and extreme heat, El Nino will have a huge impact on the world&#039;s weather. In the Atlantic, it could mean a season without hurricanes.</description>
    <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79237420</guid>
-   <pubDate>Tue, 22 Sep 2026 13:34:00 GMT</pubDate>
-   <title>Living in the shadow of LA&#039;s hidden oil wells</title>
-   <link>https://www.dw.com/en/living-in-the-shadow-of-la-s-hidden-oil-wells/a-79237420?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>Many lifelong residents of Los Angeles have health impacts from growing up close to oil extraction. Now, the city is trying to close down the worst offenders, but it&#039;s an enormous task.</description>
-   <category>Climate</category>
   </item>
  </channel>
 </rss>
