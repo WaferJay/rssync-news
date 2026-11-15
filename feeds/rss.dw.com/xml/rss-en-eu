@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Europe</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sun, 15 Nov 2026 06:49:48 GMT</pubDate>
-  <lastBuildDate>Sun, 15 Nov 2026 06:49:48 GMT</lastBuildDate>
+  <pubDate>Sun, 15 Nov 2026 15:43:36 GMT</pubDate>
+  <lastBuildDate>Sun, 15 Nov 2026 15:43:36 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-eu" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79943914</guid>
+   <pubDate>Sun, 15 Nov 2026 14:40:00 GMT</pubDate>
+   <title>Polish activists face opposition as they make abortion more accessible</title>
+   <link>https://www.dw.com/en/polish-activists-face-opposition-as-they-make-abortion-more-accessible/a-79943914?maca=en-rss-en-eu-2092-xml-mrss</link>
+   <description>Abortion laws in Poland are very restrictive. Activists there have found a new way to help women wanting to terminate a pregnancy: the &quot;Abortomat,&quot; a locker that dispenses abortion pills. But they face fierce opposition.</description>
+   <category>World</category>
+  </item>
   <item>
    <guid isPermaLink="false">79947535</guid>
    <pubDate>Sat, 14 Nov 2026 11:40:00 GMT</pubDate>
@@ -169,14 +177,6 @@
    <link>https://www.dw.com/en/new-trilateral-talks-on-ukraine-war-in-abu-dhabi-what-to-expect/a-79905734?maca=en-rss-en-eu-2092-xml-mrss</link>
    <description>Ukrainian and Russian representatives last met in February for talks on ending the war, but the same sticking points remain. Ukraine continues to demand security guarantees, which is a non-starter for Russia.</description>
    <category>World</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79899827</guid>
-   <pubDate>Mon, 9 Nov 2026 16:22:00 GMT</pubDate>
-   <title>Russia: Independent Novaya Gazeta shuts its Moscow newsroom</title>
-   <link>https://www.dw.com/en/russia-independent-novaya-gazeta-shuts-its-moscow-newsroom/a-79899827?maca=en-rss-en-eu-2092-xml-mrss</link>
-   <description>The investigative newspaper is closing its doors after Russian authorities labeled it a &quot;foreign agent&quot; and ordered it vacate its Moscow premises.</description>
-   <category>News</category>
   </item>
  </channel>
 </rss>
