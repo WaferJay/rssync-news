@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Tue, 17 Nov 2026 08:09:35 GMT</pubDate>
-  <lastBuildDate>Tue, 17 Nov 2026 08:09:35 GMT</lastBuildDate>
+  <pubDate>Tue, 17 Nov 2026 17:41:35 GMT</pubDate>
+  <lastBuildDate>Tue, 17 Nov 2026 17:41:35 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,22 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">79970447</guid>
+   <pubDate>Tue, 17 Nov 2026 14:53:00 GMT</pubDate>
+   <title>Nvidia forms national security committee after Huang affair</title>
+   <link>https://www.dw.com/en/nvidia-forms-national-security-committee-after-huang-affair/a-79970447?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>Nvidia has created a board-level committee for national security and export control. This follows the resignation of CEO Jensen Huang over extramarital affairs, allegedly including one with a Chinese intelligence asset.</description>
+   <category>News</category>
+  </item>
+  <item>
+   <guid isPermaLink="false">79943075</guid>
+   <pubDate>Tue, 17 Nov 2026 11:00:00 GMT</pubDate>
+   <title>Could the Airbus&#039; €3 billion loan row reignite a US-EU trade dispute?</title>
+   <link>https://www.dw.com/en/could-the-airbus-€3-billion-loan-row-reignite-a-us-eu-trade-dispute/a-79943075?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>The US says a record €3 billion financing package for Airbus may conflict with a transatlantic aircraft-subsidy truce. EU officials insist the funding complies with market-based rules.</description>
+   <category>Business</category>
+  </item>
   <item>
    <guid isPermaLink="false">79896537</guid>
    <pubDate>Fri, 13 Nov 2026 12:27:00 GMT</pubDate>
@@ -160,22 +176,6 @@
    <title>What Germany thinks of carmaker Audi&#039;s $4 billion deal with Trump</title>
    <link>https://www.dw.com/en/what-germany-thinks-of-carmaker-audi-s-4-billion-deal-with-trump/a-79760479?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>The luxury carmaker is set to open its first factory in the United States — a move Trump credits to his tariffs. DW examines the German reaction amid a massive auto industry cull at home.</description>
-   <category>Business</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79696102</guid>
-   <pubDate>Thu, 22 Oct 2026 09:10:00 GMT</pubDate>
-   <title>Can Germany revive its economy before the far-right AfD gains ground?</title>
-   <link>https://www.dw.com/en/can-germany-revive-its-economy-before-the-far-right-afd-gains-ground/a-79696102?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>Conflicts, rising costs and Chinese competition are testing Germany&#039;s economic model like never before. Can new growth sectors create jobs and ease voters&#039; economic fears, thereby helping contain the far-right AfD?</description>
-   <category>Business</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79681413</guid>
-   <pubDate>Wed, 21 Oct 2026 08:30:00 GMT</pubDate>
-   <title>US sanctions target Iran&#039;s rail sector as Tehran shifts cargo from sea routes to overland corridors</title>
-   <link>https://www.dw.com/en/us-sanctions-target-iran-s-rail-sector-as-tehran-shifts-cargo-from-sea-routes-to-overland-corridors/a-79681413?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>As US sanctions expand to Iran&#039;s rail sector, Tehran is relying more heavily on overland links with China and Central Asia. But capacity constraints, delays and costs limit rail&#039;s ability to replace maritime trade.</description>
    <category>Business</category>
   </item>
  </channel>
