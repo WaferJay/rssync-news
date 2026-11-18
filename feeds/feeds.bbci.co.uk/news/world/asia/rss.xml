@@ -9,11 +9,19 @@
             <link>https://www.bbc.co.uk/news/world/asia</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 17 Nov 2026 17:42:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 07:44:10 GMT</lastBuildDate>
         <atom:link href="https://feeds.bbci.co.uk/news/world/asia/rss.xml" rel="self" type="application/rss+xml"/>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see https://www.bbc.co.uk/usingthebbc/terms-of-use/#15metadataandrssfeeds for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
+        <item>
+            <title><![CDATA[As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal]]></title>
+            <description><![CDATA[China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c5vg23g92rj4o#0</guid>
+            <pubDate>Tue, 17 Nov 2026 23:02:12 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec0d/live/1061d030-dea2-11f1-b441-2b33b063138f.jpg"/>
+        </item>
         <item>
             <title><![CDATA[How new US chip restrictions on South East Asia will hit China]]></title>
             <description><![CDATA[The new rules restrict chip exports and also access to their computing power, which China relies on heavily.]]></description>
@@ -31,6 +39,14 @@
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4583/live/99273800-e263-11f1-a094-5fdc692f3e33.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Pakistan's solar revolution is so successful the national grid is lagging behind]]></title>
+            <description><![CDATA[People installing their own solar panels has helped boost the solar share of Pakistan's electricity from 1% to 28%.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/ckvg2n2q3103o?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ckvg2n2q3103o#0</guid>
+            <pubDate>Tue, 17 Nov 2026 23:34:56 GMT</pubDate>
+            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9b/live/9d67ed20-e29e-11f1-8dda-8925a81c3da5.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[China is hosting the world's leaders in its AI wonderland. Here's what they won't see]]></title>
             <description><![CDATA[Leave Shenzhen's tech-flecked city skyline and you run into the challenges confronting Xi's China.]]></description>
             <link>https://www.bbc.co.uk/news/articles/cm3eg3v9jkk8o?at_medium=RSS&amp;at_campaign=rss</link>
@@ -45,22 +61,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/c60evw20qe47o#0</guid>
             <pubDate>Tue, 17 Nov 2026 07:44:17 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af8a/live/92244d70-e25b-11f1-8bed-2b9fd907b22d.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Imran Khan seeks urgent medical care fearing he 'may not return alive']]></title>
-            <description><![CDATA[Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cr894xq5yeyko#0</guid>
-            <pubDate>Tue, 17 Nov 2026 01:26:01 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34cb/live/06da8400-e224-11f1-91de-bf87f3de9484.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Taking Korea's toughest exam from behind bars]]></title>
-            <description><![CDATA[Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.]]></description>
-            <link>https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmewvxg855yno#0</guid>
-            <pubDate>Mon, 16 Nov 2026 23:09:49 GMT</pubDate>
-            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ce/live/66eb6250-e1ad-11f1-8ee3-23d0d09d2796.png"/>
         </item>
         <item>
             <title><![CDATA[Body of Melbourne Cup horse found dumped in Sydney skip]]></title>
@@ -103,6 +103,14 @@
             <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/083d/live/b9880d40-e15f-11f1-a6b7-c136ad7bd6e3.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Taking Korea's toughest exam from behind bars]]></title>
+            <description><![CDATA[Eleven convicts at the Mandela Boys' School will be among the thousands of young Koreans taking the country's hardest exam, the Suneung.]]></description>
+            <link>https://www.bbc.co.uk/news/articles/cmewvxg855yno?at_medium=RSS&amp;at_campaign=rss</link>
+            <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/cmewvxg855yno#2</guid>
+            <pubDate>Mon, 16 Nov 2026 23:09:49 GMT</pubDate>
+            <media:thumbnail width="240" height="134" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2ce/live/66eb6250-e1ad-11f1-8ee3-23d0d09d2796.png"/>
+        </item>
+        <item>
             <title><![CDATA[The AI start-ups fixing India's broken roads and messy land records]]></title>
             <description><![CDATA[From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges. ]]></description>
             <link>https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&amp;at_campaign=rss</link>
@@ -133,14 +141,6 @@
             <guid isPermaLink="false">https://www.bbc.co.uk/news/articles/ck1exevgql4qo#2</guid>
             <pubDate>Fri, 13 Nov 2026 23:00:31 GMT</pubDate>
             <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d29/live/445059b0-e02e-11f1-9ca9-b3b288fceb81.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Why did a day off for Finland's embassy in Australia go viral?]]></title>
-            <description><![CDATA[Sleuths shared their "despair" when Finland's embassy in Australia's capital closed for 24 hours to hold a planning day and expressed "relief" when it reopened.]]></description>
-            <link>https://www.bbc.co.uk/news/videos/ckedq17174v3o?at_medium=RSS&amp;at_campaign=rss</link>
-            <guid isPermaLink="false">https://www.bbc.co.uk/news/videos/ckedq17174v3o#2</guid>
-            <pubDate>Thu, 12 Nov 2026 07:12:19 GMT</pubDate>
-            <media:thumbnail width="240" height="135" url="https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/09ab/live/cbda3580-de63-11f1-a701-fddedf244c16.jpg"/>
         </item>
     </channel>
 </rss>
