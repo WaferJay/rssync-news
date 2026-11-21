@@ -6,8 +6,8 @@
   <description>World | Deutsche Welle</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sat, 21 Nov 2026 16:10:54 GMT</pubDate>
-  <lastBuildDate>Sat, 21 Nov 2026 16:10:54 GMT</lastBuildDate>
+  <pubDate>Sat, 21 Nov 2026 21:39:53 GMT</pubDate>
+  <lastBuildDate>Sat, 21 Nov 2026 21:39:53 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-world" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">80010133</guid>
+   <pubDate>Sat, 21 Nov 2026 17:08:00 GMT</pubDate>
+   <title>Russian helicopter suspected of violating Finnish airspace</title>
+   <link>https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133?maca=en-rss-en-world-4025-xml-mrss</link>
+   <description>Finland&#039;s Defense Ministry thinks the incursion is linked to a drone strike earlier Saturday on a Russian cargo ship, which is on a US sanctions list.</description>
+   <category>News</category>
+  </item>
   <item>
    <guid isPermaLink="false">80010099</guid>
    <pubDate>Sat, 21 Nov 2026 15:21:00 GMT</pubDate>
@@ -64,7 +72,7 @@
    <title>Brazil ex-President Jair Bolsonaro taken to hospital over abdominal pain</title>
    <link>https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648?maca=en-rss-en-world-4025-xml-mrss</link>
    <description>Jair Bolsonaro has been hospitalized in Brasilia with intestinal obstruction. The former far-right Brazilian leader is receiving pain medications, his son Carlos said.</description>
-   <category>News</category>
+   <category>World</category>
   </item>
   <item>
    <guid isPermaLink="false">80005505</guid>
@@ -97,22 +105,6 @@
    <link>https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076?maca=en-rss-en-world-4025-xml-mrss</link>
    <description>The European Union and the United Kingdom have agreed on &quot;landmark&quot; deals on youth mobility and trade. Leaders on both sides praised the agreement as they seek to rebuild ties.</description>
    <category>News</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">80001984</guid>
-   <pubDate>Fri, 20 Nov 2026 14:21:00 GMT</pubDate>
-   <title>Turkey takes control of opposition broadcaster Sozcu TV</title>
-   <link>https://www.dw.com/en/turkey-takes-control-of-opposition-broadcaster-sozcu-tv/a-80001984?maca=en-rss-en-world-4025-xml-mrss</link>
-   <description>In the latest in a series of raids and arrests, another major pro-opposition Turkish broadcaster has been brought under state control. This is the third in a year.</description>
-   <category>World</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">80002269</guid>
-   <pubDate>Fri, 20 Nov 2026 14:18:00 GMT</pubDate>
-   <title>Africa at COP31: Will climate cash finally flow?</title>
-   <link>https://www.dw.com/en/africa-at-cop31-will-climate-cash-finally-flow/a-80002269?maca=en-rss-en-world-4025-xml-mrss</link>
-   <description>As the curtains draw to a close on COP31 in Antalya, one question looms large for African countries: Will climate promises finally translate into the funding African communities need to cope with a warming world?</description>
-   <category>World</category>
   </item>
  </channel>
 </rss>
