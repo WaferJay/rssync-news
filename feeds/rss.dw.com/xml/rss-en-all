@@ -6,8 +6,8 @@
   <description>Deutsche Welle</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sun, 22 Nov 2026 16:25:53 GMT</pubDate>
-  <lastBuildDate>Sun, 22 Nov 2026 16:25:53 GMT</lastBuildDate>
+  <pubDate>Sun, 22 Nov 2026 21:54:54 GMT</pubDate>
+  <lastBuildDate>Sun, 22 Nov 2026 21:54:54 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-all" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,30 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">80015347</guid>
+   <pubDate>Sun, 22 Nov 2026 21:31:00 GMT</pubDate>
+   <title>Turkey: Thousands protest closure of critical media outlets</title>
+   <link>https://www.dw.com/en/turkey-thousands-protest-closure-of-critical-media-outlets/a-80015347?maca=en-rss-en-all-1573-xml-mrss</link>
+   <description>Protesters gathered in Istanbul to show their support for press freedom in Turkey. The protest was called just days after the police raided Sozcu TV and arrested several senior staff members.</description>
+   <category>News</category>
+  </item>
+  <item>
+   <guid isPermaLink="false">80015122</guid>
+   <pubDate>Sun, 22 Nov 2026 19:25:00 GMT</pubDate>
+   <title>Sudan: Drones hit UN building, residential area in Khartoum</title>
+   <link>https://www.dw.com/en/sudan-drones-hit-un-building-residential-area-in-khartoum/a-80015122?maca=en-rss-en-all-1573-xml-mrss</link>
+   <description>The drones targeted Khartoum, damaging a UN building in the residential area. The UN agency deemed it unacceptable that humanitarian workers were exposed to such danger.</description>
+   <category>News</category>
+  </item>
+  <item>
+   <guid isPermaLink="false">80014545</guid>
+   <pubDate>Sun, 22 Nov 2026 16:50:00 GMT</pubDate>
+   <title>Libya: Suspected drone attack hits Russian ship in Benghazi</title>
+   <link>https://www.dw.com/en/libya-suspected-drone-attack-hits-russian-ship-in-benghazi/a-80014545?maca=en-rss-en-all-1573-xml-mrss</link>
+   <description>A Russian vessel at an eastern Libyan naval base was hit by what is suspected to be a drone strike.</description>
+   <category>News</category>
+  </item>
   <item>
    <guid isPermaLink="false">80013861</guid>
    <pubDate>Sun, 22 Nov 2026 15:09:00 GMT</pubDate>
@@ -120,7 +144,7 @@
    <title>Mexican special forces arrest drug kingpin &#039;Chapo Isidro&#039;</title>
    <link>https://www.dw.com/en/mexican-special-forces-arrest-drug-kingpin-chapo-isidro/a-80010745?maca=en-rss-en-all-1573-xml-mrss</link>
    <description>The alleged leader of the Beltran Leyva gang and one of the FBI&#039;s most wanted fugitives, known as &quot;Chapo Isidro,&quot; was captured by the Mexican military following a raid and a shootout in the coastal state of Sinaloa.</description>
-   <category>News</category>
+   <category>World</category>
   </item>
   <item>
    <guid isPermaLink="false">80010133</guid>
@@ -161,22 +185,6 @@
    <link>https://www.dw.com/en/germany-s-religious-freedom-report-authoritarian-regimes-holy-wars-and-spies-abroad/a-79995216?maca=en-rss-en-all-1573-xml-mrss</link>
    <description>Harassment, persecution, surveillance: Across much of the world, people of faith are facing growing pressure. A new German government report is unusually direct in criticizing China in particular.</description>
    <category>Germany</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">80008428</guid>
-   <pubDate>Sat, 21 Nov 2026 10:29:00 GMT</pubDate>
-   <title>Anthropic researcher uses AI to solve math&#039;s greatest riddle</title>
-   <link>https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428?maca=en-rss-en-all-1573-xml-mrss</link>
-   <description>The proposed breakthrough could reshape mathematical research, but still needs independent verification. It&#039;s the latest in a string of cases where AI has outpaced humans in solving famous maths problems.</description>
-   <category>World</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">80008584</guid>
-   <pubDate>Sat, 21 Nov 2026 09:18:00 GMT</pubDate>
-   <title>&#039;Killer robots&#039; talks at UN end with no legally binding ban</title>
-   <link>https://www.dw.com/en/killer-robots-talks-at-un-end-with-no-legally-binding-ban/a-80008584?maca=en-rss-en-all-1573-xml-mrss</link>
-   <description>Countries have agreed to extend discussions over controls on lethal autonomous weapons systems for two years.</description>
-   <category>News</category>
   </item>
   <item>
    <guid isPermaLink="false">80005505</guid>
@@ -744,14 +752,6 @@
    <title>Fears of rising antisemitism in Europe</title>
    <link>https://www.dw.com/en/fears-of-rising-antisemitism-in-europe/a-79921783?maca=en-rss-en-all-1573-xml-mrss</link>
    <description>Holocaust survivor Regina Sluszny commemorates the victims of Auschwitz as Jewish communities across Europe face growing hostility. What does the promise of &quot;Never Again&quot; mean for Jewish life in Europe today?</description>
-   <category>Germany</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79923241</guid>
-   <pubDate>Wed, 11 Nov 2026 17:30:00 GMT</pubDate>
-   <title>Why the integration of immigrants in Germany remains a challenge</title>
-   <link>https://www.dw.com/en/why-the-integration-of-immigrants-in-germany-remains-a-challenge/a-79923241?maca=en-rss-en-all-1573-xml-mrss</link>
-   <description>The Federal Office for Migration and Refugees has released a new Integration Report. It found that while the integration of people with a migrant background is improving, violent youth remain a problem.</description>
    <category>Germany</category>
   </item>
   <item>
