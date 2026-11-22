@@ -6,8 +6,8 @@
   <description>News, Analysis and Service from Germany and Europe - in 30 Languages</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Sun, 22 Nov 2026 07:03:36 GMT</pubDate>
-  <lastBuildDate>Sun, 22 Nov 2026 07:03:36 GMT</lastBuildDate>
+  <pubDate>Sun, 22 Nov 2026 16:23:05 GMT</pubDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:23:05 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss_en_environment" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">80003610</guid>
+   <pubDate>Sun, 22 Nov 2026 13:18:00 GMT</pubDate>
+   <title>COP31 climate talks end without consensus on how to fund vulnerable countries or move the world away from coal, oil and gas use</title>
+   <link>https://www.dw.com/en/cop31-climate-talks-end-without-consensus-on-how-to-fund-vulnerable-countries-or-move-the-world-away-from-coal-oil-and-gas-use/a-80003610?maca=en-rss_en_environment-22607-xml-mrss</link>
+   <description>After two weeks of tough talks, the COP31 climate summit has closed without a consensus on how to quit fossil fuels or fund countries struggling to adapt to a hotter world.</description>
+   <category>Environment</category>
+  </item>
   <item>
    <guid isPermaLink="false">80004894</guid>
    <pubDate>Fri, 20 Nov 2026 20:34:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>Can we regrow damaged seagrass meadows?</title>
    <link>https://www.dw.com/en/can-we-regrow-damaged-seagrass-meadows/a-79617925?maca=en-rss_en_environment-22607-xml-mrss</link>
    <description>Seagrass protects coasts, shelters thousands of species and stores CO2. But some 30% of this valuable ecosystem has disappeared since the late 19th century. Can we bring it back?</description>
-   <category>Environment</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79646422</guid>
-   <pubDate>Sat, 24 Oct 2026 10:33:00 GMT</pubDate>
-   <title>EU moves to loosen rules on pesticide use as experts sound the alarm</title>
-   <link>https://www.dw.com/en/eu-moves-to-loosen-rules-on-pesticide-use-as-experts-sound-the-alarm/a-79646422?maca=en-rss_en_environment-22607-xml-mrss</link>
-   <description>The European Union wants to relax rules for pesticides, saying it will be easier for farmers to adopt more environmentally friendly options. But health and environmental experts say the risks are far too great.</description>
    <category>Environment</category>
   </item>
  </channel>
