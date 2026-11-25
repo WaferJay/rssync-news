@@ -6,8 +6,8 @@
   <description>Deutsche Welle: DW.com - Business</description>
   <language>en</language>
   <copyright>2026 DW</copyright>
-  <pubDate>Tue, 24 Nov 2026 10:03:38 GMT</pubDate>
-  <lastBuildDate>Tue, 24 Nov 2026 10:03:38 GMT</lastBuildDate>
+  <pubDate>Wed, 25 Nov 2026 00:52:37 GMT</pubDate>
+  <lastBuildDate>Wed, 25 Nov 2026 00:52:37 GMT</lastBuildDate>
   <atom:link href="https://rss.dw.com/xml/rss-en-bus" rel="self"/>
   <image>
    <url>https://rss.dw.com/images/DW-L-RGB_whitebg.png</url>
@@ -18,6 +18,14 @@
    <height>64</height>
   </image>
   <ttl>10</ttl>
+  <item>
+   <guid isPermaLink="false">80016412</guid>
+   <pubDate>Tue, 24 Nov 2026 10:59:00 GMT</pubDate>
+   <title>How cautious investors are struggling to avoid the AI bubble</title>
+   <link>https://www.dw.com/en/how-cautious-investors-are-struggling-to-avoid-the-ai-bubble/a-80016412?maca=en-rss-en-bus-2091-xml-mrss</link>
+   <description>From Nvidia to Coreweave, AI and tech stocks have swung sharply in recent months. Some investors still see plenty of room to run, while others are trying to diversify — and finding it harder than expected.</description>
+   <category>Business</category>
+  </item>
   <item>
    <guid isPermaLink="false">80021926</guid>
    <pubDate>Mon, 23 Nov 2026 14:18:00 GMT</pubDate>
@@ -168,14 +176,6 @@
    <title>BMW reports lower Q3 earnings as China woes mount</title>
    <link>https://www.dw.com/en/bmw-reports-lower-q3-earnings-as-china-woes-mount/a-79850847?maca=en-rss-en-bus-2091-xml-mrss</link>
    <description>BMW reports a drop in profits in the July to September quarter amid fierce competition from China.</description>
-   <category>Business</category>
-  </item>
-  <item>
-   <guid isPermaLink="false">79840593</guid>
-   <pubDate>Wed, 4 Nov 2026 09:50:00 GMT</pubDate>
-   <title>Could AI give NFTs a second chance?</title>
-   <link>https://www.dw.com/en/could-ai-give-nfts-a-second-chance/a-79840593?maca=en-rss-en-bus-2091-xml-mrss</link>
-   <description>NFTs have plunged in value since their pandemic height in 2021. In some cases, they are worth 99% less than they were paid for. Yet tokenization of real-world assets and AI means the curios may yet have a future.</description>
    <category>Business</category>
   </item>
  </channel>
